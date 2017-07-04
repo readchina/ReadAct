@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1675.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-628.000000 -489.000000 1675.000000 999.000000" height="999.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -610.081909,440.916626 L -492.018921,332.842346" class="74 3"
+              stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -444.088654,489.281952 L -461.585327,344.117126" class="2 3"
+              stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 883.328979,-235.981232 L 1009.929138,-150.752502" class="7 8"
+              stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 864.361938,-239.598587 L 653.393005,-193.393402" class="7 13"
+              stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.445770,-117.828964 L 593.823303,-180.261429"
+              class="10 13" stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 291.962280,-113.200798 L -69.458328,-30.067804" class="10 1"
+              stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.881409,-303.409210 L -124.423126,-58.407631"
+              class="19 1" stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -233.942581,-322.800354 L -286.843811,-449.565216"
+              class="19 20" stroke-opacity="1.0" stroke="#76b293"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -11.964020,93.328331 L -82.730270,9.896845" class="23 1"
+              stroke-opacity="1.0" stroke="#a9ddcf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -447.106598,291.564453 L -138.670166,6.499611" class="3 1"
+              stroke-opacity="1.0" stroke="#a9ddcf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -566.924072,217.766098 L -492.204163,285.106049" class="17 3"
+              stroke-opacity="1.0" stroke="#66c2a4"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="74 3"
+                  points="-484.642700,326.090210 -488.642853,336.530457 -495.394989,329.154236"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="2 3"
+                  points="-462.781952,334.188995 -456.621246,343.518799 -466.549408,344.715454"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="7 8"
+                  points="1018.224487,-145.167969 1007.136902,-146.604828 1012.721375,-154.900177"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="7 13"
+                  points="643.624512,-191.253967 652.323303,-198.277634 654.462708,-188.509171"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="10 13"
+                  points="603.585876,-182.427551 594.906372,-175.380142 592.740234,-185.142715"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="10 1"
+                  points="-79.203842,-27.826168 -70.579147,-34.940563 -68.337509,-25.195047"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="19 1"
+                  points="-120.597084,-49.168507 -129.042694,-56.494610 -119.803566,-60.320652"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="19 20"
+                  points="-290.695068,-458.793854 -282.229492,-451.490845 -291.458130,-447.639587"
+                  stroke="none"/>
+        <polyline fill="#a9ddcf" fill-opacity="1.0" class="23 1"
+                  points="-89.198761,2.270668 -78.917183,6.662599 -86.543358,13.131091"
+                  stroke="none"/>
+        <polyline fill="#a9ddcf" fill-opacity="1.0" class="3 1"
+                  points="-131.326340,-0.287743 -135.276489,10.171525 -142.063843,2.827697"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="17 3"
+                  points="-484.775757,291.800751 -495.551514,288.820251 -488.856812,281.391846"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#edf8fb" r="30.0" cx="-108.927666"
+                class="1" cy="-20.989174" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="-442.83218"
+                class="2" cy="499.7065" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="25.0" cx="-465.83337"
+                class="3" cy="308.87222" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="10.0" cx="874.61884"
+                class="7" cy="-241.84499" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="15.0" cx="1031.0823"
+                class="8" cy="-136.51195" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="10.0" cx="302.19507"
+                class="10" cy="-115.55452" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="20.0" cx="623.5992"
+                class="13" cy="-186.86813" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="-574.7239"
+                class="17" cy="210.73666" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="10.0" cx="-229.89874"
+                class="19" cy="-313.1103" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="15.0" cx="-296.66455"
+                class="20" cy="-473.09824" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="-5.1721015"
+                class="23" cy="101.335815" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="-617.8269"
+                class="74" cy="448.00638" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="72" x="-108.927666" y="-4.3133926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Zhang Langlang
+        </text>
+        <text font-size="24" x="-442.83218" y="505.2651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Mang Ke
+        </text>
+        <text font-size="60" x="-465.83337" y="322.95425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Peng Gang
+        </text>
+        <text font-size="24" x="874.61884" y="-237.47975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Bei Dao
+        </text>
+        <text font-size="36" x="1031.0823" y="-129.9641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Duo Duo
+        </text>
+        <text font-size="24" x="302.19507" y="-111.11116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Genzi
+        </text>
+        <text font-size="48" x="623.5992" y="-177.45798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Yi Qun
+        </text>
+        <text font-size="24" x="-574.7239" y="216.36948" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            Guo Lusheng
+        </text>
+        <text font-size="24" x="-229.89874" y="-307.47748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Guo Shiying
+        </text>
+        <text font-size="36" x="-296.66455" y="-464.76035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Zhang Heci
+        </text>
+        <text font-size="24" x="-5.1721015" y="106.96863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Gan Tiesheng
+        </text>
+        <text font-size="24" x="-617.8269" y="453.56497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="74">
+            Xu Haogang
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="24" x="-541.83014" y="378.4393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="0">
+            Shakespeare
+        </text>
+        <text font-size="24" x="-454.33276" y="404.28937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Shakespeare
+        </text>
+        <text font-size="24" x="952.8506" y="-189.17847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Lu Xun
+        </text>
+        <text font-size="24" x="749.109" y="-214.35657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Paterson
+        </text>
+        <text font-size="24" x="462.89713" y="-151.21133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Paterson
+        </text>
+        <text font-size="24" x="96.6337" y="-68.27185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Dostojewski
+        </text>
+        <text font-size="24" x="-169.41321" y="-167.04973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Dostojewski
+        </text>
+        <text font-size="24" x="-263.28165" y="-393.10425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Lu Xun
+        </text>
+        <text font-size="24" x="-57.049885" y="40.17332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Lu Xun
+        </text>
+        <text font-size="24" x="-287.38052" y="143.94153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Lu Xun
+        </text>
+        <text font-size="24" x="-520.2786" y="259.80444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Dostojewski
+        </text>
+    </g>
+</svg>
