@@ -1,0 +1,20 @@
+genre_id,genre_name,genre_name_lang,genre_type,created,created_by,last_modified,last_modified_by
+G001,essay,EN,non-fiction,2017-07-03,LH,2017-07-03,LH
+G002,biography,EN,life-writing,2017-07-03,LH,2017-07-03,LH
+G003,autobiography,EN,life-writing,2017-07-03,LH,2017-07-03,LH
+G004,novel,EN,fiction,2017-07-03,LH,2017-07-03,LH
+G005,short story,EN,fiction,2017-07-03,LH,2017-07-03,LH
+G006,shouchaoben fiction,EN,fiction,2017-07-03,LH,2017-07-03,LH
+G007,science fiction,EN,fiction,2017-07-03,LH,2017-07-03,LH
+G008,fairy tale,EN,fiction,2017-07-03,LH,2017-07-03,LH
+G009,chuanqi,ZH_PY,fiction,2017-07-03,LH,2017-07-03,LH
+G010,poetry,EN,poetry,2017-07-03,LH,2017-07-03,LH
+G011,prose poetry,EN,poetry,2017-07-03,LH,2017-07-03,LH
+G012,shi,ZH_PY,poetry,2017-07-03,LH,2017-07-03,LH
+G013,ci,ZH_PY,poetry,2017-07-03,LH,2017-07-03,LH
+G014,diary,EN,life-writing,2017-07-03,LH,2017-07-03,LH
+G015,letter,EN,life-writing,2017-07-03,LH,2017-07-03,LH
+G016,tragedy,EN,drama,2017-07-03,LH,2017-07-03,LH
+G017,comedy,EN,drama,2017-07-03,LH,2017-07-03,LH
+G018,Chinese opera,EN,drama,2017-07-03,LH,2017-07-03,LH
+G019,academic writing,EN,non-fiction,2017-07-03,LH,2017-07-03,LH
