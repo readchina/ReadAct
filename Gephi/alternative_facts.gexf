@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-07-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name_py" title="name_py" type="string"></attribute>
+      <attribute id="name_zh" title="name_zh" type="string"></attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="indegree" title="Eingangsgrad" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Ausgangsgrad" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Grad" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="title" title="Title" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Mou Dunbai">
+        <attvalues>
+          <attvalue for="name_py" value="Mou Dunbai"></attvalue>
+          <attvalue for="name_zh" value="牟敦白"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-355.48193" y="-465.83258"></viz:position>
+      </node>
+      <node id="1" label="Zhang Langlang">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Langlang"></attvalue>
+          <attvalue for="name_zh" value="张朗朗"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-108.927666" y="20.989174"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="2" label="Mang Ke">
+        <attvalues>
+          <attvalue for="name_py" value="Mang Ke"></attvalue>
+          <attvalue for="name_zh" value="芒克"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.83218" y="-499.7065"></viz:position>
+        <viz:color r="102" g="194" b="164"></viz:color>
+      </node>
+      <node id="3" label="Peng Gang">
+        <attvalues>
+          <attvalue for="name_py" value="Peng Gang"></attvalue>
+          <attvalue for="name_zh" value="彭刚"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-465.83337" y="-308.87222"></viz:position>
+        <viz:color r="102" g="194" b="164"></viz:color>
+      </node>
+      <node id="4" label="Tan Xiaochun">
+        <attvalues>
+          <attvalue for="name_py" value="Tan Xiaochun"></attvalue>
+          <attvalue for="name_zh" value="谭小春"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.30933" y="-88.09491"></viz:position>
+      </node>
+      <node id="5" label="Cheng Chuan">
+        <attvalues>
+          <attvalue for="name_py" value="Cheng Chuan"></attvalue>
+          <attvalue for="name_zh" value="呈川"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="319.51312" y="372.3427"></viz:position>
+      </node>
+      <node id="6" label="Lu Zhongnan">
+        <attvalues>
+          <attvalue for="name_py" value="Lu Zhongnan"></attvalue>
+          <attvalue for="name_zh" value="卢中南"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-353.7088" y="363.30585"></viz:position>
+      </node>
+      <node id="7" label="Bei Dao">
+        <attvalues>
+          <attvalue for="name_py" value="Bei Dao"></attvalue>
+          <attvalue for="name_zh" value="北岛"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="773.0497" y="223.91939"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="8" label="Duo Duo">
+        <attvalues>
+          <attvalue for="name_py" value="Duo Duo"></attvalue>
+          <attvalue for="name_zh" value="多多"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="929.51306" y="121.573944"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="9" label="Xu Haoyuan">
+        <attvalues>
+          <attvalue for="name_py" value="Xu Haoyuan"></attvalue>
+          <attvalue for="name_zh" value="徐浩渊"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.964386" y="-365.88232"></viz:position>
+      </node>
+      <node id="10" label="Genzi">
+        <attvalues>
+          <attvalue for="name_py" value="Genzi"></attvalue>
+          <attvalue for="name_zh" value="根子"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="248.42316" y="103.60412"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="11" label="Ma Desheng">
+        <attvalues>
+          <attvalue for="name_py" value="Ma Desheng"></attvalue>
+          <attvalue for="name_zh" value="马德升"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-352.66833" y="156.4198"></viz:position>
+      </node>
+      <node id="12" label="Zhao Yifan">
+        <attvalues>
+          <attvalue for="name_py" value="Zhao Yifan"></attvalue>
+          <attvalue for="name_zh" value="赵一凡"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="435.72095" y="-227.37494"></viz:position>
+      </node>
+      <node id="13" label="Yi Qun">
+        <attvalues>
+          <attvalue for="name_py" value="Yi Qun"></attvalue>
+          <attvalue for="name_zh" value="依群"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="483.19476" y="210.76892"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="14" label="Zhou Duo">
+        <attvalues>
+          <attvalue for="name_py" value="Zhou Duo"></attvalue>
+          <attvalue for="name_zh" value="周舵"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="182.08026" y="-242.00897"></viz:position>
+      </node>
+      <node id="15" label="Ma Jia">
+        <attvalues>
+          <attvalue for="name_py" value="Ma Jia"></attvalue>
+          <attvalue for="name_zh" value="马佳"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="345.94495" y="-382.70044"></viz:position>
+      </node>
+      <node id="16" label="Yan Li">
+        <attvalues>
+          <attvalue for="name_py" value="Yan Li"></attvalue>
+          <attvalue for="name_zh" value="严力"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-416.58347" y="-485.4253"></viz:position>
+      </node>
+      <node id="17" label="Guo Lusheng">
+        <attvalues>
+          <attvalue for="name_py" value="Guo Lusheng"></attvalue>
+          <attvalue for="name_zh" value="郭路生"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-598.3907" y="-160.77744"></viz:position>
+        <viz:color r="102" g="194" b="164"></viz:color>
+      </node>
+      <node id="18" label="Gao Hua">
+        <attvalues>
+          <attvalue for="name_py" value="Gao Hua"></attvalue>
+          <attvalue for="name_zh" value="高华"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.01495" y="-414.8606"></viz:position>
+      </node>
+      <node id="19" label="Guo Shiying">
+        <attvalues>
+          <attvalue for="name_py" value="Guo Shiying"></attvalue>
+          <attvalue for="name_zh" value="郭世英"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-229.89874" y="313.1103"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="20" label="Zhang Heci">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Heci"></attvalue>
+          <attvalue for="name_zh" value="张鹤慈"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-296.66455" y="473.09824"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="21" label="Yang Sanbai">
+        <attvalues>
+          <attvalue for="name_py" value="Yang Sanbai"></attvalue>
+          <attvalue for="name_zh" value="杨三白"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-318.5935" y="-330.34143"></viz:position>
+      </node>
+      <node id="22" label="Song Haiquan">
+        <attvalues>
+          <attvalue for="name_py" value="Song Haiquan"></attvalue>
+          <attvalue for="name_zh" value="宋海泉"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.62872" y="113.96521"></viz:position>
+      </node>
+      <node id="23" label="Gan Tiesheng">
+        <attvalues>
+          <attvalue for="name_py" value="Gan Tiesheng"></attvalue>
+          <attvalue for="name_zh" value="甘铁生"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.1721015" y="-101.335815"></viz:position>
+        <viz:color r="102" g="194" b="164"></viz:color>
+      </node>
+      <node id="24" label="Lu Shuangqin">
+        <attvalues>
+          <attvalue for="name_py" value="Lu Shuangqin"></attvalue>
+          <attvalue for="name_zh" value="鲁双芹"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-124.92908" y="364.2151"></viz:position>
+      </node>
+      <node id="25" label="Zhang Xinhua">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Xinhua"></attvalue>
+          <attvalue for="name_zh" value="张新华"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.89044" y="-99.72815"></viz:position>
+      </node>
+      <node id="26" label="Zhang Jiuxing">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Jiuxing"></attvalue>
+          <attvalue for="name_zh" value="张久兴"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="289.34705" y="344.78064"></viz:position>
+      </node>
+      <node id="27" label="Wu Hong/ Hung">
+        <attvalues>
+          <attvalue for="name_py" value="Wu Hong/ Hung"></attvalue>
+          <attvalue for="name_zh" value="巫鸿"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="502.16016" y="85.6991"></viz:position>
+      </node>
+      <node id="28" label="Dong Shabei">
+        <attvalues>
+          <attvalue for="name_py" value="Dong Shabei"></attvalue>
+          <attvalue for="name_zh" value="董沙贝"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-387.1947" y="-195.2944"></viz:position>
+      </node>
+      <node id="29" label="Huang Guangzu ">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Guangzu "></attvalue>
+          <attvalue for="name_zh" value="黄光祖"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.71606" y="341.20258"></viz:position>
+      </node>
+      <node id="30" label="Zhu Shixian ">
+        <attvalues>
+          <attvalue for="name_py" value="Zhu Shixian "></attvalue>
+          <attvalue for="name_zh" value="朱时贤"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-237.20029" y="144.75323"></viz:position>
+      </node>
+      <node id="31" label="Zhou Ziren ">
+        <attvalues>
+          <attvalue for="name_py" value="Zhou Ziren "></attvalue>
+          <attvalue for="name_zh" value="周孜仁"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="419.4297" y="64.654724"></viz:position>
+      </node>
+      <node id="32" label="Zhou Jiren">
+        <attvalues>
+          <attvalue for="name_py" value="Zhou Jiren"></attvalue>
+          <attvalue for="name_zh" value="周继仁"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.18674" y="128.14221"></viz:position>
+      </node>
+      <node id="33" label="Zhang Kunquan ">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Kunquan "></attvalue>
+          <attvalue for="name_zh" value="张坤权 (女)"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.94928" y="160.64209"></viz:position>
+      </node>
+      <node id="34" label="Huang Zhongjing">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Zhongjing"></attvalue>
+          <attvalue for="name_zh" value="黄中敬 "></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-227.82623" y="310.5558"></viz:position>
+      </node>
+      <node id="35" label="Huang Xiaozhen">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Xiaozhen"></attvalue>
+          <attvalue for="name_zh" value="黄小振"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.86115" y="-456.6053"></viz:position>
+      </node>
+      <node id="36" label="Wang Xiulian ">
+        <attvalues>
+          <attvalue for="name_py" value="Wang Xiulian "></attvalue>
+          <attvalue for="name_zh" value="王秀濂"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-329.06726" y="79.95801"></viz:position>
+      </node>
+      <node id="37" label="Dong Fu ">
+        <attvalues>
+          <attvalue for="name_py" value="Dong Fu "></attvalue>
+          <attvalue for="name_zh" value="东夫"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-198.00879" y="263.02673"></viz:position>
+      </node>
+      <node id="38" label="Jin Zhong">
+        <attvalues>
+          <attvalue for="name_py" value="Jin Zhong"></attvalue>
+          <attvalue for="name_zh" value="金中"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="88.67322" y="-32.741425"></viz:position>
+      </node>
+      <node id="39" label="Zhao Xiaoling">
+        <attvalues>
+          <attvalue for="name_py" value="Zhao Xiaoling"></attvalue>
+          <attvalue for="name_zh" value="赵晓铃"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-63.80789" y="16.226929"></viz:position>
+      </node>
+      <node id="40" label="Cao Ying">
+        <attvalues>
+          <attvalue for="name_py" value="Cao Ying"></attvalue>
+          <attvalue for="name_zh" value="草婴"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.45807" y="65.62439"></viz:position>
+      </node>
+      <node id="41" label="Huang Aihe">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Aihe"></attvalue>
+          <attvalue for="name_zh" value="黄艾禾"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.137268" y="-442.57867"></viz:position>
+      </node>
+      <node id="42" label="Huang Xiaolong">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Xiaolong"></attvalue>
+          <attvalue for="name_zh" value="黄晓龙"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.82477" y="-20.75409"></viz:position>
+      </node>
+      <node id="43" label="Fu Weici">
+        <attvalues>
+          <attvalue for="name_py" value="Fu Weici"></attvalue>
+          <attvalue for="name_zh" value="傅惟慈"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-92.1716" y="187.56128"></viz:position>
+      </node>
+      <node id="44" label="Xie Shengxian">
+        <attvalues>
+          <attvalue for="name_py" value="Xie Shengxian"></attvalue>
+          <attvalue for="name_zh" value="谢声显"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.67877" y="-288.37775"></viz:position>
+      </node>
+      <node id="45" label="Han Pingzao">
+        <attvalues>
+          <attvalue for="name_py" value="Han Pingzao"></attvalue>
+          <attvalue for="name_zh" value="韩平藻"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="191.83191" y="65.07593"></viz:position>
+      </node>
+      <node id="46" label="Hui Xianjun">
+        <attvalues>
+          <attvalue for="name_py" value="Hui Xianjun"></attvalue>
+          <attvalue for="name_zh" value="惠宪钧"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.13245" y="298.9375"></viz:position>
+      </node>
+      <node id="47" label="Piao Mu">
+        <attvalues>
+          <attvalue for="name_py" value="Piao Mu"></attvalue>
+          <attvalue for="name_zh" value="漂木"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="346.4298" y="-442.8422"></viz:position>
+      </node>
+      <node id="48" label="Wu Yunhong">
+        <attvalues>
+          <attvalue for="name_py" value="Wu Yunhong"></attvalue>
+          <attvalue for="name_zh" value="吴允弘"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="477.7823" y="-204.14081"></viz:position>
+      </node>
+      <node id="49" label="Wu Tianshi">
+        <attvalues>
+          <attvalue for="name_py" value="Wu Tianshi"></attvalue>
+          <attvalue for="name_zh" value="吴天石"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="438.88086" y="229.43555"></viz:position>
+      </node>
+      <node id="50" label="Liu Haiou">
+        <attvalues>
+          <attvalue for="name_py" value="Liu Haiou"></attvalue>
+          <attvalue for="name_zh" value="刘海鸥"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.611328" y="429.09637"></viz:position>
+      </node>
+      <node id="51" label="Huang Yongsheng">
+        <attvalues>
+          <attvalue for="name_py" value="Huang Yongsheng"></attvalue>
+          <attvalue for="name_zh" value="黄永胜"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-224.84488" y="358.219"></viz:position>
+      </node>
+      <node id="52" label="Xi Liufang">
+        <attvalues>
+          <attvalue for="name_py" value="Xi Liufang"></attvalue>
+          <attvalue for="name_zh" value="奚柳芳"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.3487" y="348.3136"></viz:position>
+      </node>
+      <node id="53" label="Hou Wailu">
+        <attvalues>
+          <attvalue for="name_py" value="Hou Wailu"></attvalue>
+          <attvalue for="name_zh" value="侯外庐"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-476.73624" y="41.88513"></viz:position>
+      </node>
+      <node id="54" label="Gu Jiegang">
+        <attvalues>
+          <attvalue for="name_py" value="Gu Jiegang"></attvalue>
+          <attvalue for="name_zh" value="顾颉刚"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.2686" y="424.50452"></viz:position>
+      </node>
+      <node id="55" label="Xie Guozhen">
+        <attvalues>
+          <attvalue for="name_py" value="Xie Guozhen"></attvalue>
+          <attvalue for="name_zh" value="谢国桢"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-183.57089" y="86.60736"></viz:position>
+      </node>
+      <node id="56" label="Qi Zhi">
+        <attvalues>
+          <attvalue for="name_py" value="Qi Zhi"></attvalue>
+          <attvalue for="name_zh" value="启之"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.08801" y="-27.313202"></viz:position>
+      </node>
+      <node id="57" label="Bai Hua">
+        <attvalues>
+          <attvalue for="name_py" value="Bai Hua"></attvalue>
+          <attvalue for="name_zh" value="白桦"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.1853" y="-153.48962"></viz:position>
+      </node>
+      <node id="58" label="Li Ping">
+        <attvalues>
+          <attvalue for="name_py" value="Li Ping"></attvalue>
+          <attvalue for="name_zh" value="礼平"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.69547" y="108.78735"></viz:position>
+      </node>
+      <node id="59" label="Yang Xiguang">
+        <attvalues>
+          <attvalue for="name_py" value="Yang Xiguang"></attvalue>
+          <attvalue for="name_zh" value="杨曦光"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.319092" y="109.46997"></viz:position>
+      </node>
+      <node id="60" label="Siao Eva">
+        <attvalues>
+          <attvalue for="name_py" value="Siao Eva"></attvalue>
+          <attvalue for="name_zh" value="叶华"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.00473" y="-310.1545"></viz:position>
+      </node>
+      <node id="61" label="Nanchu ">
+        <attvalues>
+          <attvalue for="name_py" value="Nanchu "></attvalue>
+          <attvalue for="name_zh" value=""></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-173.36697" y="-62.844055"></viz:position>
+      </node>
+      <node id="62" label="Gao Yuan">
+        <attvalues>
+          <attvalue for="name_py" value="Gao Yuan"></attvalue>
+          <attvalue for="name_zh" value="高 原"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.84326" y="432.16864"></viz:position>
+      </node>
+      <node id="63" label="Zhang Zhenzhou">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Zhenzhou"></attvalue>
+          <attvalue for="name_zh" value="张振州"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="325.83014" y="91.55109"></viz:position>
+      </node>
+      <node id="64" label="Gan Lulin">
+        <attvalues>
+          <attvalue for="name_py" value="Gan Lulin"></attvalue>
+          <attvalue for="name_zh" value="甘露林"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="417.04675" y="-146.1659"></viz:position>
+      </node>
+      <node id="65" label="Yu Zhixin">
+        <attvalues>
+          <attvalue for="name_py" value="Yu Zhixin"></attvalue>
+          <attvalue for="name_zh" value="于植信"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.60672" y="310.06262"></viz:position>
+      </node>
+      <node id="66" label="Zhang Runfeng">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Runfeng"></attvalue>
+          <attvalue for="name_zh" value="张润峰"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.924744" y="145.93634"></viz:position>
+      </node>
+      <node id="67" label="Yang Xiamin">
+        <attvalues>
+          <attvalue for="name_py" value="Yang Xiamin"></attvalue>
+          <attvalue for="name_zh" value="杨孝敏"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.1496" y="227.47339"></viz:position>
+      </node>
+      <node id="68" label="Jiang Dingyue">
+        <attvalues>
+          <attvalue for="name_py" value="Jiang Dingyue"></attvalue>
+          <attvalue for="name_zh" value="蒋定粤"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="371.3772" y="-58.760223"></viz:position>
+      </node>
+      <node id="69" label="Gan Huili">
+        <attvalues>
+          <attvalue for="name_py" value="Gan Huili"></attvalue>
+          <attvalue for="name_zh" value="甘恢理"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.28241" y="185.36395"></viz:position>
+      </node>
+      <node id="70" label="Zhang Dawei">
+        <attvalues>
+          <attvalue for="name_py" value="Zhang Dawei"></attvalue>
+          <attvalue for="name_zh" value="张大伟"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-347.90958" y="219.40161"></viz:position>
+      </node>
+      <node id="71" label="Rae Yang">
+        <attvalues>
+          <attvalue for="name_py" value="Rae Yang"></attvalue>
+          <attvalue for="name_zh" value="杨瑞"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="38.873047" y="-481.72943"></viz:position>
+      </node>
+      <node id="72" label="Bai Di">
+        <attvalues>
+          <attvalue for="name_py" value="Bai Di"></attvalue>
+          <attvalue for="name_zh" value="柏棣"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-59.175873" y="264.6905"></viz:position>
+      </node>
+      <node id="73" label="Xiaomei Chen">
+        <attvalues>
+          <attvalue for="name_py" value="Xiaomei Chen"></attvalue>
+          <attvalue for="name_zh" value=""></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="308.62482" y="160.72412"></viz:position>
+      </node>
+      <node id="74" label="Xu Haogang">
+        <attvalues>
+          <attvalue for="name_py" value="Xu Haogang"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-617.8269" y="-448.00638"></viz:position>
+        <viz:color r="102" g="194" b="164"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="74" target="3" label="Shakespeare">
+        <viz:color r="255" g="116" b="62"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Shakespeare"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="2" target="3" label="Shakespeare">
+        <viz:color r="255" g="116" b="62"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Shakespeare"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="7" target="8" label="Lu Xun">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Lu Xun"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="7" target="13" label="Paterson">
+        <viz:color r="0" g="183" b="218"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Paterson"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="10" target="13" label="Paterson">
+        <viz:color r="0" g="183" b="218"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Paterson"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="10" target="1" label="Dostojewski">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Dostojewski"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="19" target="1" label="Dostojewski">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Dostojewski"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="19" target="20" label="Lu Xun">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Lu Xun"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="23" target="1" label="Lu Xun">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Lu Xun"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="3" target="1" label="Lu Xun">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Lu Xun"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="17" target="3" label="Dostojewski">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="title" value="Dostojewski"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
