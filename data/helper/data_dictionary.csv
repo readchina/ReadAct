@@ -1,115 +1,111 @@
-table,column,definition,,,,,,created,created_by,last_modified,last_modified_by,,
-Person,person_id,P and a 5 digit number, with leading zeros if necessary, p.e. P00001,,,,,,2017-07-04,LH,2017-07-04,LH
-Person,family_name,"Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren), Bei for Bei Dao (not Zhao Zhenkai)",,,,,,,,,,,
-Person,first_name,First name,,,,,,,,,,,
-Person,name_lang,Language of this name, EN, ZH_PY, ZH_HZ etc.,,,,,,,,
-Person,rustication,"records whether or when a person experienced rustication; write ""no"", if not, provide year for yes",,,,,,,,,,,
-Person,place_of_rust,place of rustication (or major place of rustication if several),,,,,,,,,,,
-Person,birthyear,provide birth year here,,,,,,,,,,,
-Person,deathyear,provide death  year here,,,,,,,,,,,
-Person,alt_name,"Alternative family name, under which a person may also be known, i.e. Zhou Shuren for Lu Xun or Zhao Zhenkai for Bei Dao; could also be a pseudonym of a person; but not more than one alternative name",,,,,,,,,,,
-Person,alt_name_lang,Language of this name, EN, ZH_PY, ZH_HZ etc.,,,,,,,,
-Person,place_of_birth,Record city / town where a person was born,,,,,,,,,,,
-Person,social_position,Record social position of a person: worker, party cadre, university professor, teacher, farmer…,,,,,,,
-Person,father_id,Reference to person ID for a person's father,,,,,,,,,,,
-Person,mother_id,Reference to person ID for a person's mother,,,,,,,,,,,
-Person,neibu_access,Record whether a person had access to neibu material: yes/no ,,,,,,,,,,,
-Person,source_id,"Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts, this can be left empty",,,,,,,,,,,
-Person,page_number,Page number in text that the colum source_id refers to,,,,,,,,,,,
-Person,created,date of creation of line,,,,,,,,,,,
-Person,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Person,last_modified,date of last modification,,,,,,,,,,,
-Person,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-SocialPosition,soc_pos_id,SP and a 4 digit number, with leading zeros if necessary, p.e. SP0001,,,,,,,,,
-SocialPosition,soc_pos_name,Name of a social position,,,,,,,,,,,
-SocialPosition,start,Beginning (year) of a social position,,,,,,,,,,,
-SocialPosition,end,"End (year) of a social position; if only one year / point in time then use same as start year, p.e. 1968-1968",,,,,,,,,,,
-SocialPosition,created,date of creation of line,,,,,,,,,,,
-SocialPosition,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-SocialPosition,last_modified,date of last modification,,,,,,,,,,,
-SocialPosition,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Text,text_id,T and a 5 digit number, with leading zeros if necessary, p.e. T00001,,,,,,,,,
-Text,title,"Title of a text; for the texts discussed by readers in autobiographical texts, create separate lines for a) title in Chinese characters; b) title in original language (if German, French, Italian, English) or English (esp. for texts originally in Russian)",,,,,,,,,,,
-Text,title_lang,Language of this title EN, ZH_PY, ZH_HZ etc.,,,,,,,,,
-Text,genre_id,Refer to genre IS,,,,,,,,,,,
-Text,publication_place,place of first publication,,,,,,,,,,,
-Text,publication_date,date of first publication in original language,,,,,,,,,,,
-Text,publishing_house,name of publishing house; provide pinyin for Chinese publishing houses,,,,,,,,,,,
-Text,first_chin_edition,year of first edition in China,,,,,,,,,,,
-Text,neibu,yes/no whether this was originally a neibu publication,,,,,,,,,,,
-Text,source_id,Reference to text in which a reading is reorded; column may remain empty if this line records an academic or autobiographical text,,,,,,,,,,,
-Text,page_number,Page number in text that the colum source_id refers to,,,,,,,,,,,
-Text,note,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,,,,,,,,,,
-Text,created,date of creation of line,,,,,,,,,,,
-Text,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Text,last_modified,date of last modification,,,,,,,,,,,
-Text,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Genre,genre_id,G and a 3 digit number, with leading zeros if necessary, p.e. G001,,,,,,,,,
-Genre,genre_name,"name of a genre, preferrably English terms; if necessary use Chinese pinyin",,,,,,,,,,,
-Genre,genre_name_lang,Language of this title EN, ZH_PY, ZH_HZ etc.,,,,,,,,,
-Genre,genre_type,genre type of higher ranking order, i.e. fiction as a broad category for short story, novel…,,,,,,,,,
-Genre,created,date of creation of line,,,,,,,,,,,
-Genre,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Genre,last_modified,date of last modification,,,,,,,,,,,
-Genre,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-IsoLangCode,iso_code,use standard codes from ,,,,,,,,,,,
-IsoLangCode,name,name of the language in English,,,,,,,,,,,
-IsoLangCode,created,date of creation of line,,,,,,,,,,,
-IsoLangCode,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-IsoLangCode,last_modified,date of last modification,,,,,,,,,,,
-IsoLangCode,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Institution,inst_ID,I and a four digit number, with leading zeros if necessary, p.e. I0001,,,,,,,,,
-Institution,inst_name,"Name of an institution, for example ""school""; ""university""; Baiyangdian group; Chinese Communist Party; for generic institutions use English, for others Chinese pinyin",,,,,,,,,,,
-Institution,inst_name_lang,language code,,,,,,,,,,,
-Institution,inst_alt_name,alternative name for the institution, CCP instead of Chinese Communist Party,,,,,,,,,,
-Institution,members_id,List Person Ids of members of an institution (only one?? Many??),,,,,,,,,,,
-Institution,source_id,if applicable reference to text ID of source text,,,,,,,,,,,
-Institution,page_number,page number in source text,,,,,,,,,,,
-Institution,created,date of creation of line,,,,,,,,,,,
-Institution,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Institution,last_modified,date of last modification,,,,,,,,,,,
-Institution,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Place ,place_ID,PL and a five digit number, with leading zeros if necessary, p.e. PL00001,,,,,,,,,
-Place ,place_name,Name of a place in English / Chinese pinyin: Shanghai; Cologne; Rome,,,,,,,,,,,
-Place ,long,geo.data,,,,,,,,,,,
-Place ,lat,geo.data,,,,,,,,,,,
-Place ,created,date of creation of line,,,,,,,,,,,
-Place ,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Place ,last_modified,date of last modification,,,,,,,,,,,
-Place ,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Location,loc_id,L and a four digit number, with leading zeros if necessary, p.e. L0001,,,,,,,,,
-Location,loc_name,Give name of a location - location refers to a type of place: in the market place; on the toilet; in the kitchen; at school; at the seaside; on a boat…,,,,,,,,,,,
-Location,loc_name_lang,language of the term in loc_name,,,,,,,,,,,
-Location,created,date of creation of line,,,,,,,,,,,
-Location,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Location,last_modified,date of last modification,,,,,,,,,,,
-Location,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-ActType,action_ID,AT and a four digit number, with leading zeros if necessary, p.e. AT0001,,,,,,,,,
-ActType,action_name,"verb for an action undertaken in the course of a wider act of reading: circulate, steal, buy, copy, print, borrow, read, give as a present, listen in storytelling, discuss; give a book to…",,,,,,,,,,,
-ActType,created,date of creation of line,,,,,,,,,,,
-ActType,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-ActType,last_modified,date of last modification,,,,,,,,,,,
-ActType,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
-,,,,,,,,,,,,,
-Act,act_ID,A and a five digit number, with leading zeros if necessary, p.e. A00001,,,,,,,,,
-Act,agent,Subject doing something; p.e. person stealing a book; use Person ID,,,,,,,,,,,
-Act,action,add ActType/action_ID,,,,,,,,,,,
-Act,agens,Object of an action; p.e. text or person; use person or text ID respectively,,,,,,,,,,,
-Act,start,Beginning (year) of an action,,,,,,,,,,,
-Act,end,"End (year) of an action; if only one year / point in time then use same as start year, p.e. 1968-1968",,,,,,,,,,,
-Act,substantial_discussion,is the activity / text only mentioned briefly (>no) or substantially (>yes),,,,,,,,,,,
-Act,comment,if there is a substantial discussion, add substantial comment / summary or quotation from source,,,,,,,,,,
-Act,source_id,Reference to text in which an activity is reorded; ,,,,,,,,,,,
-Act,page_number,Page number in text that the colum source_id refers to,,,,,,,,,,,
-Act,created,date of creation of line,,,,,,,,,,,
-Act,created_by,name of project member creating this line; use acronym,,,,,,,,,,,
-Act,last_modified,date of last modification,,,,,,,,,,,
-Act,last_modified_by,name of project member last modifying this line; use acronym,,,,,,,,,,,
+table,column,definition,created,created_by,last_modified,last_modified_by,
+Person,person_id,P and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Person,family_name,"Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren), Bei for Bei Dao (not Zhao Zhenkai)",,2017-07-04,LH,2017-07-04,LH
+Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
+Person,name_lang,Language code of this name, EN,2017-07-04,LH,2017-07-12,OS
+Person,rustication,"records whether or when a person experienced rustication; write ""no"", if not, provide year for yes",,2017-07-04,LH,2017-07-04,LH
+Person,place_of_rust,place of rustication (or major place of rustication if several),,2017-07-04,LH,2017-07-04,LH
+Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
+Person,deathyear,provide death  year here,,2017-07-04,LH,2017-07-04,LH
+Person,alt_name,"Alternative family name, under which a person may also be known, i.e. Zhou Shuren for Lu Xun or Zhao Zhenkai for Bei Dao; could also be a pseudonym of a person; but not more than one alternative name",,2017-07-04,LH,2017-07-04,LH
+Person,alt_name_lang,Language code of this name, EN,2017-07-04,LH,2017-07-04,LH
+Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
+Person,social_position,Record social position of a person: worker, party cadre,2017-07-04,LH,2017-07-04,LH
+Person,neibu_access,Record whether a person had access to neibu material: yes/no ,,2017-07-04,LH,2017-07-04,LH
+Person,source_id,"Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts, this can be left empty",,2017-07-04,LH,2017-07-04,LH
+Person,page_number,Page number in text that the colum source_id refers to (HOW TO DO WRITE IT EXACTLY?),,2017-07-04,LH,2017-07-04,LH
+Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Person,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Person,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_id,SP and a four-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_name,Name of a social position,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Text,text_id,T and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Text,title,"Title of a text; for the texts discussed by readers in autobiographical texts, create separate lines for a) title in Chinese characters; b) title in original language (if German, French, Italian, English) or English (esp. for texts originally in Russian)",,2017-07-04,LH,2017-07-04,LH
+Text,title_lang,"Language code of this title, „en“ or „zh“ only", ZH_PY,2017-07-04,LH,2017-07-04,LH
+Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
+Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
+Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
+Text,publishing_house,name of publishing house; provide pinyin for Chinese publishing houses,,2017-07-04,LH,2017-07-04,LH
+Text,first_chin_edition,year of first edition in China,,2017-07-04,LH,2017-07-04,LH
+Text,neibu,yes/no whether this was originally a neibu publication,,2017-07-04,LH,2017-07-04,LH
+Text,source_id,Reference to text in which a reading is reorded; column may remain empty if this line records an academic or autobiographical text,,2017-07-04,LH,2017-07-04,LH
+Text,page_number,Page number in text that the colum source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Text,note,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,2017-07-04,LH,2017-07-04,LH
+Text,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Text,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Text,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Text,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Genre,genre_id,G and a two-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
+Genre,genre_name,"name of a genre, preferrably English terms; if necessary use Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
+Genre,genre_name_lang,"Language code of this name, „en“ or „zh“ only", ZH_PY,2017-07-04,LH,2017-07-12,OS
+Genre,genre_type,genre type of higher ranking order, i.e. fiction as a broad category for short story,2017-07-04,LH,2017-07-04,LH
+Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Genre,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Genre,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Genre,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,iso_code,use standard codes from ISO 639-1,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,name,name of the language in English,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Institution,inst_ID,I and a four-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name,"Name of an institution, for example ""school""; ""university""; Baiyangdian group; Chinese Communist Party; for generic institutions use English, for others Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name_lang,language code of this institution,,2017-07-04,LH,2017-07-12,OS
+Institution,inst_alt_name,alternative name for the institution, CCP instead of Chinese Communist Party,2017-07-04,LH,2017-07-04,LH
+Institution,members_id,List Person Ids of members of an institution (only one?? Many??),,2017-07-04,LH,2017-07-04,LH
+Institution,source_id,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
+Institution,page_number,page number in source text,,2017-07-04,LH,2017-07-04,LH
+Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Institution,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Institution,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Place ,place_ID,PL and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Place ,place_name,"Name of a place in English, Shanghai, Cologne,  Rome",,2017-07-04,LH,2017-07-12,OS
+Place ,long,geo.data,,2017-07-04,LH,2017-07-04,LH
+Place ,lat,geo.data,,2017-07-04,LH,2017-07-04,LH
+Place ,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Place ,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Place ,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Place ,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Location,loc_id,L and a four-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Location,loc_name,Give name of a location - location refers to a type of place: in the market place; on the toilet; in the kitchen; at school; at the seaside; on a boat…,,2017-07-04,LH,2017-07-04,LH
+Location,loc_name_lang,language of the term in loc_name,,2017-07-04,LH,2017-07-04,LH
+Location,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Location,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Location,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Location,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+ActType,action_ID,AT and a two-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
+ActType,action_name,"verb for an action undertaken in the course of a wider act of reading: circulate, steal, buy, copy, print, borrow, read, give as a present, listen in storytelling, discuss; give a book to…",,2017-07-04,LH,2017-07-04,LH
+ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+ActType,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+ActType,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+,,,,2017-07-04,LH,2017-07-04,LH
+Act,act_ID,A and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
+Act,agent,Subject doing something; p.e. person stealing a book; use Person ID,,2017-07-04,LH,2017-07-04,LH
+Act,action,add ActType/action_ID,,2017-07-04,LH,2017-07-04,LH
+Act,agens,Object of an action; p.e. text or person; use person or text ID respectively,,2017-07-04,LH,2017-07-04,LH
+Act,start,Beginning (year) of an action,,2017-07-04,LH,2017-07-04,LH
+Act,end,"End (year) of an action; if only one year / point in time then use same as start year, p.e. 1968-1968",,2017-07-04,LH,2017-07-04,LH
+Act,substantial_discussion,is the activity / text only mentioned briefly (>no) or substantially (>yes),,2017-07-04,LH,2017-07-04,LH
+Act,comment,if there is a substantial discussion, add substantial comment / summary or quotation from source,2017-07-04,LH,2017-07-04,LH
+Act,source_id,Reference to text in which an activity is reorded; ,,2017-07-04,LH,2017-07-04,LH
+Act,page_number,Page number in text that the colum source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Act,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
+Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Act,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
