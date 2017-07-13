@@ -1,222 +1,225 @@
-person_id,family_name,first_name,name_lang,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id,page_number,created,created_by,last_modified,last_modified_by
-P0001,Lu,Xun,en,no,,,no,1881,1936,Zhou Shuren,en,PL0045,,no,,,2017-07-03,LH,2017-07-12,OS
-P0001,?,?,zh,no,,,no,1881,1936,???,zh,PL0045,,no,,,2017-07-03,LH,2017-07-12,OS
-P0002,Mou,Dunbai,en,test,,,,1947,,,,,,,,,2017-07-05,LH,2017-07-12,OS
-P0002,?,??,zh,,,,,1947,,,,,,,,,2017-07-05,LH,2017-07-12,OS
-P0003,Zhang,Langlang,en,,,,,1943 or 1944?,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,2017-07-05,LH,2017-07-12,OS
-P0003,?,??,zh,,,,,1943 or 1944?,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,2017-07-05,LH,2017-07-12,OS
-P0004,Mang,Ke,en,,1969,1969,,1950,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,2017-07-05,LH,2017-07-12,OS
-P0004,?,?,zh,,1969,1969,,1950,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,2017-07-05,LH,2017-07-12,OS
-P0005,Peng,Gang,en,,,,,1953,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,2017-07-05,LH,2017-07-12,OS
-P0005,?,?,zh,,,,,1953,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,2017-07-05,LH,2017-07-12,OS
-P0006,Tan,Xiaochun,en,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-07-12,OS
-P0006,?,??,zh,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-07-12,OS
-P0007,Cheng,Chuan,en,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-07-12,OS
-P0007,?,?,zh,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-07-12,OS
-P0008,Lu,Zhongnan,en,,,,,1950,,,,,,,,Liao Yiwu Chen Yong p 188,2017-07-05,LH,2017-07-12,OS
-P0008,?,??,zh,,,,,1950,,,,,,,,Liao Yiwu Chen Yong p 188,2017-07-05,LH,2017-07-12,OS
-P0009,Bei,Dao,en,,?,?,?,1949,,Zhao Zhenkai,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,2017-07-05,LH,2017-07-12,OS
-P0009,?,?,zh,,?,?,?,1949,,???,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,2017-07-05,LH,2017-07-12,OS
-P0010,Duo,Duo,en,,,,,1951,,Li Shizheng,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,2017-07-05,LH,2017-07-12,OS
-P0010,?,?,zh,,,,,1951,,???,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,2017-07-05,LH,2017-07-12,OS
-P0011,Xu,Haoyuan,en,,,,,1949,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,2017-07-05,LH,2017-07-12,OS
-P0011,?,??,zh,,,,,1949,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,2017-07-05,LH,2017-07-12,OS
-P0012,Genzi,,en,,,,,1951,,Yue Chong,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,2017-07-05,LH,2017-07-12,OS
-P0012,??,,zh,,,,,1951,,??,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,2017-07-05,LH,2017-07-12,OS
-P0013,Ma,Desheng,en,,,,,1952,,,,,,,,Liao Yiwu Chen Yong p 191,2017-07-05,LH,2017-07-12,OS
-P0013,?,??,zh,,,,,1952,,,,,,,,Liao Yiwu Chen Yong p 191,2017-07-05,LH,2017-07-12,OS
-P0014,Zhao,Yifan,en,,0,0,,1935,1988,,,,,,,Liao Yiwu Chen Yong p 194,2017-07-05,LH,2017-07-12,OS
-P0014,?,??,zh,,0,0,,1935,1988,,,,,,,Liao Yiwu Chen Yong p 194,2017-07-05,LH,2017-07-12,OS
-P0015,Yi,Qun,en,,,,,1947,,,,,,,,Duo Duo 1999 p 197,2017-07-05,LH,2017-07-12,OS
-P0015,?,?,zh,,,,,1947,,,,,,,,Duo Duo 1999 p 197,2017-07-05,LH,2017-07-12,OS
-P0016,Zhou,Duo,en,,,,,,,,,,,,,Zhou Duo 1999 p 210,2017-07-05,LH,2017-07-12,OS
-P0016,?,?,zh,,,,,,,,,,,,,Zhou Duo 1999 p 210,2017-07-05,LH,2017-07-12,OS
-P0017,Ma,Jia,en,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,2017-07-05,LH,2017-07-12,OS
-P0017,?,?,zh,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,2017-07-05,LH,2017-07-12,OS
-P0018,Yan,Li,en,,,,,1954,,,,,,,,Ma Jia 1999 p 220,2017-07-05,LH,2017-07-12,OS
-P0018,?,?,zh,,,,,1954,,,,,,,,Ma Jia 1999 p 220,2017-07-05,LH,2017-07-12,OS
-P0019,Guo,Lusheng,en,,,,,1948,,Shi Zhi ,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,2017-07-05,LH,2017-07-12,OS
-P0019,?,??,zh,,,,,1948,,??,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,2017-07-05,LH,2017-07-12,OS
-P0020,Gao,Hua,en,,,,,1954,2012,,,,,Indirect,,Gao Hua 2006 p 132-139,2017-07-05,LH,2017-07-12,OS
-P0020,?,?,zh,,,,,1954,2012,,,,,Indirect,,Gao Hua 2006 p 132-139,2017-07-05,LH,2017-07-12,OS
-P0021,Guo,Shiying,en,,,,,1942,1968,,,,,Yes�(?),,Wang Shiqiang 2014 p 75f 80,2017-07-05,LH,2017-07-12,OS
-P0021,?,??,zh,,,,,1942,1968,,,,,Yes�(?),,Wang Shiqiang 2014 p 75f 80,2017-07-05,LH,2017-07-12,OS
-P0022,Zhang,Heci,en,,,,,1943,,,,,,Yes�(?),,Wang Shiqiang 2014 p 75f 80,2017-07-05,LH,2017-07-12,OS
-P0022,?,??,zh,,,,,1943,,,,,,Yes�(?),,Wang Shiqiang 2014 p 75f 80,2017-07-05,LH,2017-07-12,OS
-P0023,Yang,Sanbai,en,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,2017-07-05,LH,2017-07-12,OS
-P0023,?,??,zh,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,2017-07-05,LH,2017-07-12,OS
-P0024,Song,Haiquan,en,,,,,1936 (?),,,,,,,,Wang Shiqiang 2014 p 75 79f,2017-07-05,LH,2017-07-12,OS
-P0024,?,??,zh,,,,,1936 (?),,,,,,,,Wang Shiqiang 2014 p 75 79f,2017-07-05,LH,2017-07-12,OS
-P0025,Gan,Tiesheng,en,,,,,1946 (?),,,,,,,,Wang Shiqiang 2014 p 75-76  80,2017-07-05,LH,2017-07-12,OS
-P0025,?,??,zh,,,,,1946 (?),,,,,,,,Wang Shiqiang 2014 p 75-76  80,2017-07-05,LH,2017-07-12,OS
-P0026,Lu,Shuangqin,en,,,,?,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,2017-07-05,LH,2017-07-12,OS
-P0026,?,??,zh,,,,?,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,2017-07-05,LH,2017-07-12,OS
-P0027,Zhang,Xinhua,en,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,2017-07-05,LH,2017-07-12,OS
-P0027,?,??,zh,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,2017-07-05,LH,2017-07-12,OS
-P0028,Zhang,Jiuxing,en,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,2017-07-05,LH,2017-07-12,OS
-P0028,?,??,zh,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,2017-07-05,LH,2017-07-12,OS
-P0029,Wu,Hong,en,,1969 (?),1973 (?),PL0005, �Zhangjiakoushi City, Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
-P0029,?,?,zh,,1969 (?),1973 (?),PL0005, �Zhangjiakoushi City, Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
-P0030,Dong,Shabei,en,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0030,?,??,zh,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0031,Huang ,Guangzu ,en,,1969-1979 imprisoned,1969-1979 imprisoned,PL0006,1946,,,,,,no,,Huang Guangzu 2010,2017-07-05,LH,2017-07-12,OS
-P0031,?,??,zh,,1969-1979 imprisoned,1969-1979 imprisoned,PL0006,1946,,,,,,no,,Huang Guangzu 2010,2017-07-05,LH,2017-07-12,OS
-P0032,Zhu ,Shixian ,en,,imprisoned,imprisoned,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,2017-07-05,LH,2017-07-12,OS
-P0032,?,??,zh,,imprisoned,imprisoned,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,2017-07-05,LH,2017-07-12,OS
-P0033,Zhou ,Ziren ,en,,,,PL0007,,,,,,,,,Zhou Ziren 2010,2017-07-05,LH,2017-07-12,OS
-P0033,?,??,zh,,,,PL0007,,,,,,,,,Zhou Ziren 2010,2017-07-05,LH,2017-07-12,OS
-P0034,Zhou,Jiren,en,,1962,?,PL0006,,,Zhou Zhaoming,,,,,,Zhou Ziren 2010,2017-07-05,LH,2017-07-12,OS
-P0034,?,??,zh,,1962,?,PL0006,,,???,,,,,,Zhou Ziren 2010,2017-07-05,LH,2017-07-12,OS
-P0035,Zhang ,Kunquan ,en,,,,,,,Shamo,,,,,,Bai Hua 2010,2017-07-05,LH,2017-07-12,OS
-P0035,?,?? ,zh,,,,,,,??,,,,,,Bai Hua 2010,2017-07-05,LH,2017-07-12,OS
-P0036,Huang,Zhongjing,en,,,,,,,,,,,,,Sha Mou 2010,2017-07-05,LH,2017-07-12,OS
-P0036,?,?? ,zh,,,,,,,,,,,,,Sha Mou 2010,2017-07-05,LH,2017-07-12,OS
-P0037,Huang,Xiaozhen,en,,1964,1964,PL0009, Shandong,1947,1995,,,,,,Sha Mou 2010,2017-07-05,LH,2017-07-12,OS
-P0037,?,??,zh,,1964,1964,PL0009, Shandong,1947,1995,,,,,,Sha Mou 2010,2017-07-05,LH,2017-07-12,OS
-P0038,Wang ,Xiulian ,en,,,,,,,,,,,,,Huang Xiaolong 2010,2017-07-05,LH,2017-07-12,OS
-P0038,?,??,zh,,,,,,,,,,,,,Huang Xiaolong 2010,2017-07-05,LH,2017-07-12,OS
-P0039,Dong,Fu ,en,,1969-,1969-,PL0055, Ningnan,1951,,Wang Dongyu,,,,,Dong Fu 2010,2017-07-05,LH,2017-07-12,OS
-P0039,?,?,zh,,1969-,1969-,PL0055, Ningnan,1951,,???,,,,,Dong Fu 2010,2017-07-05,LH,2017-07-12,OS
-P0040,Jin,Zhong,en,,classified as rightist and sent to Shangdon to do labor work,classified as rightist and sent to Shangdon to do labor work,PL0011,1926,2008,???,,,,,,Zhao Xiaoling 2010,2017-07-05,LH,2017-07-12,OS
-P0040,?,?,zh,,classified as rightist and sent to Shangdon to do labor work,classified as rightist and sent to Shangdon to do labor work,PL0011,1926,2008,???,,,,,,Zhao Xiaoling 2010,2017-07-05,LH,2017-07-12,OS
-P0041,Zhao,Xiaoling,en,,1967 joined the Red guard,1967 joined the Red guard,PL0012,,,,,,,,,Zhao Xiaoling 2010,2017-07-05,LH,2017-07-12,OS
-P0041,?,??,zh,,1967 joined the Red guard,1967 joined the Red guard,PL0012,,,,,,,,,Zhao Xiaoling 2010,2017-07-05,LH,2017-07-12,OS
-P0042,Cao,Ying,en,,,,,1923,2015,Sheng Junfeng,,,,,,Lin Da 2010,2017-07-05,LH,2017-07-12,OS
-P0042,?,?,zh,,,,,1923,2015,???,,,,,,Lin Da 2010,2017-07-05,LH,2017-07-12,OS
-P0043,Huang,Aihe,en,,,,,,,,,,,,,Huang Aihe 2008,2017-07-05,LH,2017-07-12,OS
-P0043,?,??,zh,,,,,,,,,,,,,Huang Aihe 2008,2017-07-05,LH,2017-07-12,OS
-P0044,Huang,Xiaolong,en,,,,PL0006,1943,,,,,,,,Huang Xiaolong 2010,2017-07-05,LH,2017-07-12,OS
-P0044,?,??,zh,,,,PL0006,1943,,,,,,,,Huang Xiaolong 2010,2017-07-05,LH,2017-07-12,OS
-P0045,Fu,Weici,en,,,,,1923,2014,,,,,,,Lin Da 2010,2017-07-05,LH,2017-07-12,OS
-P0045,?,??,zh,,,,,1923,2014,,,,,,,Lin Da 2010,2017-07-05,LH,2017-07-12,OS
-P0046,Xie,Shengxian,en,,,,PL0006,1945,,,,,,,,Xie Shengxian 2010,2017-07-05,LH,2017-07-12,OS
-P0046,?,??,zh,,,,PL0006,1945,,,,,,,,Xie Shengxian 2010,2017-07-05,LH,2017-07-12,OS
-P0047,Han,Pingzao,en,,,,PL0012,,,,,,,,,Huang Aihe 2008,2017-07-05,LH,2017-07-12,OS
-P0047,?,??,zh,,,,PL0012,,,,,,,,,Huang Aihe 2008,2017-07-05,LH,2017-07-12,OS
-P0048,Hui,Xianjun,en,,,,,1932,,,,,,,,Tang Shaojie 2010,2017-07-05,LH,2017-07-12,OS
-P0048,?,??,zh,,,,,1932,,,,,,,,Tang Shaojie 2010,2017-07-05,LH,2017-07-12,OS
-P0049,Piao,Mu,en,,1971,1971,PL0013, Henan,,,,,,,,Piao Mu 2010,2017-07-05,LH,2017-07-12,OS
-P0049,?,?,zh,,1971,1971,PL0013, Henan,,,,,,,,Piao Mu 2010,2017-07-05,LH,2017-07-12,OS
-P0050,Wu,Yunhong,en,,,,,1940,,,,,,,,Wu Yunhong 2010,2017-07-05,LH,2017-07-12,OS
-P0050,?,??,zh,,,,,1940,,,,,,,,Wu Yunhong 2010,2017-07-05,LH,2017-07-12,OS
-P0051,Wu,Tianshi,en,,,,,1911,1966,,,,,,,Wu Yunhong 2010,2017-07-05,LH,2017-07-12,OS
-P0051,?,??,zh,,,,,1911,1966,,,,,,,Wu Yunhong 2010,2017-07-05,LH,2017-07-12,OS
-P0052,Liu,Haiou,en,,1967,1967,PL0014,1958,,,,,,,,Liu Haiou 2010,2017-07-05,LH,2017-07-12,OS
-P0052,?,??,zh,,1967,1967,PL0014,1958,,,,,,,,Liu Haiou 2010,2017-07-05,LH,2017-07-12,OS
-P0053,Huang,Yongsheng,en,,,,PL0015, Hubei,1910,1983,Huang Xuqian,,,,,Chi Zehou 2010,2017-07-05,LH,2017-07-12,OS
-P0053,?,??,zh,,,,PL0015, Hubei,1910,1983,???,,,,,Chi Zehou 2010,2017-07-05,LH,2017-07-12,OS
-P0054,Xi,Liufang,en,,,,,1947,,,,,,,,zugong tongxun 1980,2017-07-05,LH,2017-07-12,OS
-P0054,?,??,zh,,,,,1947,,,,,,,,zugong tongxun 1980,2017-07-05,LH,2017-07-12,OS
-P0055,Hou,Wailu,en,,,,,1903,1987,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0055,?,??,zh,,,,,1903,1987,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0056,Gu,Jiegang,en,,,,,1893,1980,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0056,?,??,zh,,,,,1893,1980,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0057,Xie,Guozhen,en,,,,,1901,1982,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0057,?,??,zh,,,,,1901,1982,,,,,,,He Zhaowu 2011,2017-07-05,LH,2017-07-12,OS
-P0058,Qi,Zhi,en,,,,PL0002,,,,,,,,,Qi Zhi 2011,2017-07-05,LH,2017-07-12,OS
-P0058,?,?,zh,,,,PL0002,,,,,,,,,Qi Zhi 2011,2017-07-05,LH,2017-07-12,OS
-P0059,Bai,Hua,en,,,,,,,,,,,,,Bai Hua 2010,2017-07-05,LH,2017-07-12,OS
-P0059,?,?,zh,,,,,,,,,,,,,Bai Hua 2010,2017-07-05,LH,2017-07-12,OS
-P0060,Li,Ping,en,,,,PL0006,1948,,Liu Huixuan,,,,,,Li Qian 2010,2017-07-05,LH,2017-07-12,OS
-P0060,?,?,zh,,,,PL0006,1948,,???,,,,,,Li Qian 2010,2017-07-05,LH,2017-07-12,OS
-P0061,Yang,Xiguang,en,,,,,1948,2004,Yang Xiaokai,,,,,,,2017-07-05,LH,2017-07-12,OS
-P0061,?,??,zh,,,,,1948,2004,???,,,,,,,2017-07-05,LH,2017-07-12,OS
-P0062,Siao,Eva,en,,,,,1911,2001,,,,,,,Siao Eva 1994,2017-07-05,LH,2017-07-12,OS
-P0062,?,?,zh,,,,,1911,2001,,,,,,,Siao Eva 1994,2017-07-05,LH,2017-07-12,OS
-P0063,Nanchu , ,en,,1970,1973,PL0008,1953,,,,,,yes,,Nanchu 2001,2017-07-05,LH,2017-07-12,OS
-P0063,Nanchu , ,zh,,1970,1973,PL0008,1953,,,,,,yes,,Nanchu 2001,2017-07-05,LH,2017-07-12,OS
-P0064,Gao,Yuan,en,,,,,1952,,,,,,,,Gao Yuan 1987,2017-07-05,LH,2017-07-12,OS
-P0064,? ,?,zh,,,,,1952,,,,,,,,Gao Yuan 1987,2017-07-05,LH,2017-07-12,OS
-P0065,Zhang,Zhenzhou,en,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0065,?,??,zh,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0066,Gan,Lulin,en,,,,,-1972or 1973,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0066,?,??,zh,,,,,-1972or 1973,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0067,Yu,Zhixin,en,,,,PL0002,,,Yu Tiesheng,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0067,?,??,zh,,,,PL0002,,,???,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0068,Zhang,Runfeng,en,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0068,?,??,zh,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0069,Yang,Xiamin,en,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0069,?,??,zh,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0070,Jiang,Dingyue,en,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0070,?,??,zh,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0071,Gan,Huili,en,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0071,?,??,zh,,,,,,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0072,Zhang,Dawei,en,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,2017-07-05,LH,2017-07-12,OS
-P0072,?,??,zh,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,2017-07-05,LH,2017-07-12,OS
-P0073,Rae,Yang,en,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0073,?,?,zh,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
-P0074,Bai,Di,en,,,,,1954,,,,,,,,Zhong Wang Bai 2001,2017-07-05,LH,2017-07-12,OS
-P0074,?,?,zh,,,,,1954,,,,,,,,Zhong Wang Bai 2001,2017-07-05,LH,2017-07-12,OS
-P0075,Chen,Xiaomei,en,,1969,1973,Beidahuang,1954,,,,,,,,Zhong Wang Bai 2001,2017-07-05,LH,2017-07-12,OS
-P0075,Chen,Xiaomei,zh,,1969,1973,Beidahuang,1954,,,,,,,,Zhong Wang Bai 2001,2017-07-05,LH,2017-07-12,OS
-P0076,Aitmatov�,Chinghiz�,en,0,0,0,0,1928,2009,,,PL0024,,,,,2017-07-09,OS,2017-07-12,OS
-P0076,?????,???,zh,0,0,0,0,1928,2009,,,PL0024,,,,,2017-07-09,OS,2017-07-12,OS
-P0076,????????,??????,ky,0,0,0,0,1928,2009,,,PL0024,,,,,2017-07-09,OS,2017-07-12,OS
-P0077,Akhmatova,Anna ,en,0,0,0,0,1889,1966,,,PL0025,,,,,2017-07-09,OS,2017-07-12,OS
-P0077,?????,??,zh,0,0,0,0,1889,1966,,,PL0025,,,,,2017-07-09,OS,2017-07-12,OS
-P0077,????????,????,ru,0,0,0,0,1889,1966,,,PL0025,,,,,2017-07-09,OS,2017-07-12,OS
-P0078,Aksyonov ,Vasily ,en,0,0,0,0,1932,2009,,,PL0026,,,,,2017-07-09,OS,2017-07-12,OS
-P0078,?????,???,zh,0,0,0,0,1932,2009,,,PL0026,,,,,2017-07-09,OS,2017-07-12,OS
-P0078,???????,???????? ,ru,0,0,0,0,1932,2009,,,PL0026,,,,,2017-07-09,OS,2017-07-12,OS
-P0079,Alliluyeva,Svetlana,en,0,0,0,0,1926,2011,,,PL0027,,,,,2017-07-09,OS,2017-07-12,OS
-P0079,?????,?????,zh,0,0,0,0,1926,2011,,,PL0027,,,,,2017-07-09,OS,2017-07-12,OS
-P0079,?????????,???????? ,ru,0,0,0,0,1926,2011,,,PL0027,,,,,2017-07-09,OS,2017-07-12,OS
-P0080,Althusser,Louis,en,0,0,0,0,1918,1990,,,PL0028,,,,,2017-07-09,OS,2017-07-12,OS
-P0081,Anagnosti,Dhimit�r ,en,0,0,0,0,1936,,,,PL0029,,,,,2017-07-09,OS,2017-07-12,OS
-P0082,Andreyev,Leonid,en,0,0,0,0,1871,1919,,,PL0030,,,,,2017-07-09,OS,2017-07-12,OS
-P0082,?????,????,zh,0,0,0,0,1871,1919,,,PL0030,,,,,2017-07-09,OS,2017-07-12,OS
-P0082,???????,?????? ,ru,0,0,0,0,1871,1919,,,PL0030,,,,,2017-07-09,OS,2017-07-12,OS
-P0083,Anonymous,,en,0,0,0,0,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,0,0,0,0,384,322,,,PL0031,,,,,2017-07-09,OS,2017-07-12,OS
-P0085,Artsybashev,Mikhail,en,0,0,0,0,1878,1927,,,PL0032,,,,,2017-07-09,OS,2017-07-12,OS
-P0085,??????,????,zh,0,0,0,0,1878,1927,,,PL0032,,,,,2017-07-09,OS,2017-07-12,OS
-P0085,?????????,?????? ,ru,0,0,0,0,1878,1927,,,PL0032,,,,,2017-07-09,OS,2017-07-12,OS
-P0086,Ba ,Jin,zh-Py,0,0,0,0,1904,2005,Li Yaotang,zh-Py,PL0004,,,,,2017-07-10,OS,2017-07-12,OS
-P0086,?,?,zh,0,0,0,0,1904,2005,???,zh,PL0004,,,,,2017-07-10,OS,2017-07-12,OS
-P0087,Baba,Corneliu,en,0,0,0,0,1906,1997,,zh-Py,PL0033,,,,,2017-07-10,OS,2017-07-12,OS
-P0087,??,???,zh,0,0,0,0,1906,1997,??????,zh,PL0033,,,,,2017-07-10,OS,2017-07-12,OS
-P0088,Babayevsky,Semyon ,en,0,0,0,0,1909,2000,,,PL0034,,,,,2017-07-10,OS,2017-07-12,OS
-P0088,??????,??,zh,0,0,0,0,1909,2000,,,PL0034,,,,,2017-07-10,OS,2017-07-12,OS
-P0088,??????????,?????,ru,0,0,0,0,1909,2000,,,PL0034,,,,,2017-07-10,OS,2017-07-12,OS
-P0089,Bach,Johann Sebastian,en,0,0,0,0,1685,1750,,,PL0035,,,,,2017-07-10,OS,2017-07-12,OS
-P0089,??,??�?????,zh,0,0,0,0,1685,1750,,,PL0035,,,,,2017-07-10,OS,2017-07-12,OS
-P0090,Bai,Juyi,en,0,0,0,0,772,846,,,PL0046,,,,,2017-07-10,OS,2017-07-12,OS
-P0090,?,??,zh,0,0,0,0,772,846,,,PL0046,,,,,2017-07-10,OS,2017-07-12,OS
-P0091,Balmont,Konstantin,en,0,0,0,0,1876,1942,,,PL0039,,,,,2017-07-10,OS,2017-07-12,OS
-P0091,????,????,zh,0,0,0,0,1876,1942,,,PL0039,,,,,2017-07-10,OS,2017-07-12,OS
-P0091,?????????,???????????,ru,0,0,0,0,1876,1942,,,PL0039,,,,,2017-07-10,OS,2017-07-12,OS
-P0092,Balzac,Honor� de,en,0,0,0,0,1799,1850,,,PL0040,,,,,2017-07-10,OS,2017-07-12,OS
-P0092,????,???�?,zh,0,0,0,0,1799,1850,,,PL0040,,,,,2017-07-10,OS,2017-07-12,OS
-P0093,Baudelaire,Charles,en,0,0,0,0,1821,1867,,,PL0047,,,,,2017-07-10,OS,2017-07-12,OS
-P0093,????,??,zh,0,0,0,0,1821,1867,,,PL0047,,,,,2017-07-10,OS,2017-07-12,OS
-P0094,Beckett,Samuel,en,0,0,0,0,1906,1989,,,PL0041,,,,,2017-07-10,OS,2017-07-12,OS
-P0094,???,???,zh,0,0,0,0,1906,1989,,,PL0041,,,,,2017-07-10,OS,2017-07-12,OS
-P0095,Beethoven,Ludwig van,en,0,0,0,0,1770,1827,,,PL0042,,,,,2017-07-10,OS,2017-07-12,OS
-P0095,???,????�?,zh,0,0,0,0,1770,1827,,,PL0042,,,,,2017-07-10,OS,2017-07-12,OS
-P0096,Belinsky,Vissarion,en,0,0,0,0,1811,1848,,,PL0043,,,,,2017-07-10,OS,2017-07-12,OS
-P0096,????,????,zh,0,0,0,0,1811,1848,,,PL0043,,,,,2017-07-10,OS,2017-07-12,OS
-P0096,?????????,????????? ,ru,0,0,0,0,1811,1848,,,PL0043,,,,,2017-07-10,OS,2017-07-12,OS
-P0097,Berlioz,Hector,en,0,0,0,0,1803,1869,,,PL0044,,,,,2017-07-10,OS,2017-07-12,OS
-P0097,???,???,zh,0,0,0,0,1803,1869,,,PL0044,,,,,2017-07-10,OS,2017-07-12,OS
-P0098,Bernstein,Eduard,en,0,0,0,0,1850,1932,,,PL0038,,,,,2017-07-10,OS,2017-07-12,OS
-P0098,????,???,zh,0,0,0,0,1850,1932,????,zh,PL0038,,,,,2017-07-10,OS,2017-07-12,OS
-P0099,Bi ,Ruxie,en,,,,,,,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0099,?,??,zh,,,,,,,???,zh,,,,,,2017-07-10,OS,2017-07-12,OS
-P0100,Bian,Zhilin,en,0,0,0,0,1910,2000,,,PL0037,,,,,2017-07-10,OS,2017-07-12,OS
-P0100,?,??,zh,0,0,0,0,1910,2000,,,PL0037,,,,,2017-07-10,OS,2017-07-12,OS
-P0101,Blake�,William ,en,0,0,0,0,1757,1827,,,PL0036,,,,,2017-07-10,OS,2017-07-12,OS
-P0101,???,??,zh,0,0,0,0,1757,1827,???,zh,PL0036,,,,,2017-07-10,OS,2017-07-12,OS
-P0102,Bo,Hua,en,,,,,1956,,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0102,?,?,zh,,,,,1956,,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0103,Boccaccio,Giovanni ,en,0,0,0,0,1313,1375,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0103,???,???,zh,0,0,0,0,1313,1375,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0104,Brahms,Johannes,en,0,0,0,0,1833,1897,,,PL0048,,,,,2017-07-10,OS,2017-07-12,OS
-P0104,????,????,zh,0,0,0,0,1833,1897,,,PL0048,,,,,2017-07-10,OS,2017-07-12,OS
-P0105,Braine,John,en,0,0,0,0,1922,1986,,,PL0049,,,,,2017-07-10,OS,2017-07-12,OS
-P0105,???,?? ,zh,0,0,0,0,1922,1986,,,PL0049,,,,,2017-07-10,OS,2017-07-12,OS
-P0106,Han,Shaogong,en,yes,1968,1974,PL0052,1953,,,,PL0051,,,,,2017-07-12,OS,2017-07-12,OS
-P0106,?,?? ,zh,yes,1968,1974,PL0052,1953,,,,PL0051,,,,,2017-07-12,OS,2017-07-12,OS
-P0107,Wang ,Shiqiang,en,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
-P0107,?,??,zh,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
-P0108,Xu ,Xiao,en,yes,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
-P0108,? ,?,zh,yes,,,,1954,,,,PL0003,,,,,2017-07-12,OS,2017-07-12,OS
+person_id,family_name,first_name,name_lang,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,father_id,mother_id,neibu_access,source_id,page_number,created,created_by,last_modified,last_modified_by,,
+P0001,Lu,Xun,ZH_PY,no,,,no,1881,1936,Zhou Shuren,ZH_PY,Shaoxing,,,,no,,,03.07.17,LH,03.07.17,LH,,
+P0001,鲁,迅,ZH_HZ,no,,,no,1881,1936,周树人,ZH_HZ,Shaoxing,,,,no,,,03.07.17,LH,03.07.17,LH,,
+P0002,Mou,Dunbai,ZH_PY,test,,,,1947,,,,,,,,,,,05.07.17,LH,07.07.17,OS,,
+P0002,牟,敦白,ZH_HZ,,,,,1947,,,,,,,,,,,05.07.17,LH,07.07.17,OS,,
+P0003,Zhang,Langlang,ZH_PY,,,,,1943 or 1944?,,,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,05.07.17,LH,07.07.17,OS,,
+P0003,张,朗朗,ZH_HZ,,,,,1943 or 1944?,,,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,05.07.17,LH,07.07.17,OS,,
+P0004,Mang,Ke,ZH_PY,,1969,1969,,1950,,,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,05.07.17,LH,07.07.17,OS,,
+P0004,芒,克,ZH_HZ,,1969,1969,,1950,,,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,05.07.17,LH,07.07.17,OS,,
+P0005,Peng,Gang,ZH_PY,,,,,1953,,,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,05.07.17,LH,07.07.17,OS,,
+P0005,彭,刚,ZH_HZ,,,,,1953,,,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,05.07.17,LH,07.07.17,OS,,
+P0006,Tan,Xiaochun,ZH_PY,,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,05.07.17,LH,07.07.17,OS,,
+P0006,谭,小春,ZH_HZ,,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,05.07.17,LH,07.07.17,OS,,
+P0007,Cheng,Chuan,ZH_PY,,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,05.07.17,LH,07.07.17,OS,,
+P0007,呈,川,ZH_HZ,,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,05.07.17,LH,07.07.17,OS,,
+P0008,Lu,Zhongnan,ZH_PY,,,,,1950,,,,,,,,,,Liao Yiwu Chen Yong p 188,05.07.17,LH,07.07.17,OS,,
+P0008,卢,中南,ZH_HZ,,,,,1950,,,,,,,,,,Liao Yiwu Chen Yong p 188,05.07.17,LH,07.07.17,OS,,
+P0009,Bei,Dao,ZH_PY,,?,?,?,1949,,Zhao Zhenkai,,,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,05.07.17,LH,07.07.17,OS,,
+P0009,北,岛,ZH_HZ,,?,?,?,1949,,赵振开,,,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,05.07.17,LH,07.07.17,OS,,
+P0010,Duo,Duo,ZH_PY,,,,,1951,,Li Shizheng,,,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,05.07.17,LH,07.07.17,OS,,
+P0010,多,多,ZH_HZ,,,,,1951,,栗世征,,,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,05.07.17,LH,07.07.17,OS,,
+P0011,Xu,Haoyuan,ZH_PY,,,,,1949,,,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,05.07.17,LH,07.07.17,OS,,
+P0011,徐,浩渊,ZH_HZ,,,,,1949,,,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,05.07.17,LH,07.07.17,OS,,
+P0012,Genzi,,ZH_PY,,,,,1951,,Yue Chong,,,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,05.07.17,LH,07.07.17,OS,,
+P0012,根子,,ZH_HZ,,,,,1951,,岳重,,,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,05.07.17,LH,07.07.17,OS,,
+P0013,Ma,Desheng,ZH_PY,,,,,1952,,,,,,,,,,Liao Yiwu Chen Yong p 191,05.07.17,LH,07.07.17,OS,,
+P0013,马,德升,ZH_HZ,,,,,1952,,,,,,,,,,Liao Yiwu Chen Yong p 191,05.07.17,LH,07.07.17,OS,,
+P0014,Zhao,Yifan,ZH_PY,,0,0,,1935,1988,,,,,,,,,Liao Yiwu Chen Yong p 194,05.07.17,LH,07.07.17,OS,,
+P0014,赵,一凡,ZH_HZ,,0,0,,1935,1988,,,,,,,,,Liao Yiwu Chen Yong p 194,05.07.17,LH,07.07.17,OS,,
+P0015,Yi,Qun,ZH_PY,,,,,1947,,,,,,,,,,Duo Duo 1999 p 197,05.07.17,LH,07.07.17,OS,,
+P0015,依,群,ZH_HZ,,,,,1947,,,,,,,,,,Duo Duo 1999 p 197,05.07.17,LH,07.07.17,OS,,
+P0016,Zhou,Duo,ZH_PY,,,,,,,,,,,,,,,Zhou Duo 1999 p 210,05.07.17,LH,07.07.17,OS,,
+P0016,周,舵,ZH_HZ,,,,,,,,,,,,,,,Zhou Duo 1999 p 210,05.07.17,LH,07.07.17,OS,,
+P0017,Ma,Jia,ZH_PY,,,,,1953,,,,,,,,,,Ma Jia 1999 p 219ff,05.07.17,LH,07.07.17,OS,,
+P0017,马,佳,ZH_HZ,,,,,1953,,,,,,,,,,Ma Jia 1999 p 219ff,05.07.17,LH,07.07.17,OS,,
+P0018,Yan,Li,ZH_PY,,,,,1954,,,,,,,,,,Ma Jia 1999 p 220,05.07.17,LH,07.07.17,OS,,
+P0018,严,力,ZH_HZ,,,,,1954,,,,,,,,,,Ma Jia 1999 p 220,05.07.17,LH,07.07.17,OS,,
+P0019,Guo,Lusheng,ZH_PY,,,,,1948,,Shi Zhi ,,,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,05.07.17,LH,07.07.17,OS,,
+P0019,郭,路生,ZH_HZ,,,,,1948,,食指,,,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,05.07.17,LH,07.07.17,OS,,
+P0020,Gao,Hua,ZH_PY,,,,,1954,2012,,,,,,,Indirect,,Gao Hua 2006 p 132-139,05.07.17,LH,07.07.17,OS,,
+P0020,高,华,ZH_HZ,,,,,1954,2012,,,,,,,Indirect,,Gao Hua 2006 p 132-139,05.07.17,LH,07.07.17,OS,,
+P0021,Guo,Shiying,ZH_PY,,,,,1942,1968,,,,,,,Yes (?),,Wang Shiqiang 2014 p 75f 80,05.07.17,LH,07.07.17,OS,,
+P0021,郭,世英,ZH_HZ,,,,,1942,1968,,,,,,,Yes (?),,Wang Shiqiang 2014 p 75f 80,05.07.17,LH,07.07.17,OS,,
+P0022,Zhang,Heci,ZH_PY,,,,,1943,,,,,,,,Yes (?),,Wang Shiqiang 2014 p 75f 80,05.07.17,LH,07.07.17,OS,,
+P0022,张,鹤慈,ZH_HZ,,,,,1943,,,,,,,,Yes (?),,Wang Shiqiang 2014 p 75f 80,05.07.17,LH,07.07.17,OS,,
+P0023,Yang,Sanbai,ZH_PY,,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,05.07.17,LH,07.07.17,OS,,
+P0023,杨,三白,ZH_HZ,,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,05.07.17,LH,07.07.17,OS,,
+P0024,Song,Haiquan,ZH_PY,,,,,1936 (?),,,,,,,,,,Wang Shiqiang 2014 p 75 79f,05.07.17,LH,07.07.17,OS,,
+P0024,宋,海泉,ZH_HZ,,,,,1936 (?),,,,,,,,,,Wang Shiqiang 2014 p 75 79f,05.07.17,LH,07.07.17,OS,,
+P0025,Gan,Tiesheng,ZH_PY,,,,,1946 (?),,,,,,,,,,Wang Shiqiang 2014 p 75-76  80,05.07.17,LH,07.07.17,OS,,
+P0025,甘,铁生,ZH_HZ,,,,,1946 (?),,,,,,,,,,Wang Shiqiang 2014 p 75-76  80,05.07.17,LH,07.07.17,OS,,
+P0026,Lu,Shuangqin,ZH_PY,,,,?,,,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,05.07.17,LH,07.07.17,OS,,
+P0026,鲁,双芹,ZH_HZ,,,,?,,,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,05.07.17,LH,07.07.17,OS,,
+P0027,Zhang,Xinhua,ZH_PY,,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,05.07.17,LH,07.07.17,OS,,
+P0027,张,新华,ZH_HZ,,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,05.07.17,LH,07.07.17,OS,,
+P0028,Zhang,Jiuxing,ZH_PY,,,,,to1972or1973,,,,,,,,,,Wang Shiqiang 2014 p 76,05.07.17,LH,07.07.17,OS,,
+P0028,张,久兴,ZH_HZ,,,,,to1972or1973,,,,,,,,,,Wang Shiqiang 2014 p 76,05.07.17,LH,07.07.17,OS,,
+P0029,Wu,Hong,ZH_PY,,1969 (?),1973 (?), 宣化军区 Military District in Xuanhua County,  Zhangjiakoushi City, Hebei Province,,,,,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,05.07.17,LH,07.07.17,OS
+P0029,巫,鸿,ZH_HZ,,1969 (?),1973 (?), 宣化军区 Military District in Xuanhua County,  Zhangjiakoushi City, Hebei Province,,,,,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,05.07.17,LH,07.07.17,OS
+P0030,Dong,Shabei,ZH_PY,,,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0030,董,沙贝,ZH_HZ,,,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0031,Huang ,Guangzu ,ZH_PY,,1969-1979 imprisoned,1969-1979 imprisoned,Sichuan,1946,,,,,,,,no,,Huang Guangzu 2010,05.07.17,LH,07.07.17,OS,,
+P0031,黄,光祖,ZH_HZ,,1969-1979 imprisoned,1969-1979 imprisoned,Sichuan,1946,,,,,,,,no,,Huang Guangzu 2010,05.07.17,LH,07.07.17,OS,,
+P0032,Zhu ,Shixian ,ZH_PY,,imprisoned,imprisoned,Sichuan,1944,1972,,,,,,,,,Huang Guangzu 2010,05.07.17,LH,07.07.17,OS,,
+P0032,朱,时贤,ZH_HZ,,imprisoned,imprisoned,Sichuan,1944,1972,,,,,,,,,Huang Guangzu 2010,05.07.17,LH,07.07.17,OS,,
+P0033,Zhou ,Ziren ,ZH_PY,,,,Yunnan,,,,,,,,,,,Zhou Ziren 2010,05.07.17,LH,07.07.17,OS,,
+P0033,周,孜仁,ZH_HZ,,,,Yunnan,,,,,,,,,,,Zhou Ziren 2010,05.07.17,LH,07.07.17,OS,,
+P0034,Zhou,Jiren,ZH_PY,,1962,?,Sichuan Tibetan area,,,Zhou Zhaoming,,,,,,,,Zhou Ziren 2010,05.07.17,LH,07.07.17,OS,,
+P0034,周,继仁,ZH_HZ,,1962,?,Sichuan Tibetan area,,,周照明,,,,,,,,Zhou Ziren 2010,05.07.17,LH,07.07.17,OS,,
+P0035,Zhang ,Kunquan ,ZH_PY,,,,,,,Shamo,,,,,,,,Bai Hua 2010,05.07.17,LH,07.07.17,OS,,
+P0035,张,坤权 ,ZH_HZ,,,,,,,沙漠,,,,,,,,Bai Hua 2010,05.07.17,LH,07.07.17,OS,,
+P0036,Huang,Zhongjing,ZH_PY,,,,,,,,,,,,,,,Sha Mou 2010,05.07.17,LH,07.07.17,OS,,
+P0036,黄,中敬 ,ZH_HZ,,,,,,,,,,,,,,,Sha Mou 2010,05.07.17,LH,07.07.17,OS,,
+P0037,Huang,Xiaozhen,ZH_PY,,1964,1964,Laixi, Shandong,1947,1995,,,,,,,,,Sha Mou 2010,05.07.17,LH,07.07.17,OS,
+P0037,黄,小振,ZH_HZ,,1964,1964,Laixi, Shandong,1947,1995,,,,,,,,,Sha Mou 2010,05.07.17,LH,07.07.17,OS,
+P0038,Wang ,Xiulian ,ZH_PY,,,,,,,,,,,,,,,Huang Xiaolong 2010,05.07.17,LH,07.07.17,OS,,
+P0038,王,秀濂,ZH_HZ,,,,,,,,,,,,,,,Huang Xiaolong 2010,05.07.17,LH,07.07.17,OS,,
+P0039,Dong,Fu ,ZH_PY,,1969-,1969-,Xichang, Ningnan,1951,,Wang Dongyu,,,,,,,,Dong Fu 2010,05.07.17,LH,07.07.17,OS,
+P0039,东,夫,ZH_HZ,,1969-,1969-,Xichang, Ningnan,1951,,王东渝,,,,,,,,Dong Fu 2010,05.07.17,LH,07.07.17,OS,
+P0040,Jin,Zhong,ZH_PY,,classified as rightist and sent to Shangdon to do labor work,classified as rightist and sent to Shangdon to do labor work,Shandong,1926,2008,章世箐,,,,,,,,Zhao Xiaoling 2010,05.07.17,LH,07.07.17,OS,,
+P0040,金,中,ZH_HZ,,classified as rightist and sent to Shangdon to do labor work,classified as rightist and sent to Shangdon to do labor work,Shandong,1926,2008,章世箐,,,,,,,,Zhao Xiaoling 2010,05.07.17,LH,07.07.17,OS,,
+P0041,Zhao,Xiaoling,ZH_PY,,1967 joined the Red guard,1967 joined the Red guard,Chongqing,,,,,,,,,,,Zhao Xiaoling 2010,05.07.17,LH,07.07.17,OS,,
+P0041,赵,晓铃,ZH_HZ,,1967 joined the Red guard,1967 joined the Red guard,Chongqing,,,,,,,,,,,Zhao Xiaoling 2010,05.07.17,LH,07.07.17,OS,,
+P0042,Cao,Ying,ZH_PY,,,,,1923,2015,Sheng Junfeng,,,,,,,,Lin Da 2010,05.07.17,LH,07.07.17,OS,,
+P0042,草,婴,ZH_HZ,,,,,1923,2015,盛峻峰,,,,,,,,Lin Da 2010,05.07.17,LH,07.07.17,OS,,
+P0043,Huang,Aihe,ZH_PY,,,,,,,,,,,,,,,Huang Aihe 2008,05.07.17,LH,07.07.17,OS,,
+P0043,黄,艾禾,ZH_HZ,,,,,,,,,,,,,,,Huang Aihe 2008,05.07.17,LH,07.07.17,OS,,
+P0044,Huang,Xiaolong,ZH_PY,,,,Sichuan,1943,,,,,,,,,,Huang Xiaolong 2010,05.07.17,LH,07.07.17,OS,,
+P0044,黄,晓龙,ZH_HZ,,,,Sichuan,1943,,,,,,,,,,Huang Xiaolong 2010,05.07.17,LH,07.07.17,OS,,
+P0045,Fu,Weici,ZH_PY,,,,,1923,2014,,,,,,,,,Lin Da 2010,05.07.17,LH,07.07.17,OS,,
+P0045,傅,惟慈,ZH_HZ,,,,,1923,2014,,,,,,,,,Lin Da 2010,05.07.17,LH,07.07.17,OS,,
+P0046,Xie,Shengxian,ZH_PY,,,,Sichuan,1945,,,,,,,,,,Xie Shengxian 2010,05.07.17,LH,07.07.17,OS,,
+P0046,谢,声显,ZH_HZ,,,,Sichuan,1945,,,,,,,,,,Xie Shengxian 2010,05.07.17,LH,07.07.17,OS,,
+P0047,Han,Pingzao,ZH_PY,,,,chongqing,,,,,,,,,,,Huang Aihe 2008,05.07.17,LH,07.07.17,OS,,
+P0047,韩,平藻,ZH_HZ,,,,chongqing,,,,,,,,,,,Huang Aihe 2008,05.07.17,LH,07.07.17,OS,,
+P0048,Hui,Xianjun,ZH_PY,,,,,1932,,,,,,,,,,Tang Shaojie 2010,05.07.17,LH,07.07.17,OS,,
+P0048,惠,宪钧,ZH_HZ,,,,,1932,,,,,,,,,,Tang Shaojie 2010,05.07.17,LH,07.07.17,OS,,
+P0049,Piao,Mu,ZH_PY,,1971,1971,Shenqiu, Henan,,,,,,,,,,,Piao Mu 2010,05.07.17,LH,07.07.17,OS,
+P0049,漂,木,ZH_HZ,,1971,1971,Shenqiu, Henan,,,,,,,,,,,Piao Mu 2010,05.07.17,LH,07.07.17,OS,
+P0050,Wu,Yunhong,ZH_PY,,,,,1940,,,,,,,,,,Wu Yunhong 2010,05.07.17,LH,07.07.17,OS,,
+P0050,吴,允弘,ZH_HZ,,,,,1940,,,,,,,,,,Wu Yunhong 2010,05.07.17,LH,07.07.17,OS,,
+P0051,Wu,Tianshi,ZH_PY,,,,,1911,1966,,,,,,,,,Wu Yunhong 2010,05.07.17,LH,07.07.17,OS,,
+P0051,吴,天石,ZH_HZ,,,,,1911,1966,,,,,,,,,Wu Yunhong 2010,05.07.17,LH,07.07.17,OS,,
+P0052,Liu,Haiou,ZH_PY,,1967,1967,Xinjiang,1958,,,,,,,,,,Liu Haiou 2010,05.07.17,LH,07.07.17,OS,,
+P0052,刘,海鸥,ZH_HZ,,1967,1967,Xinjiang,1958,,,,,,,,,,Liu Haiou 2010,05.07.17,LH,07.07.17,OS,,
+P0053,Huang,Yongsheng,ZH_PY,,,,Xianning, Hubei,1910,1983,Huang Xuqian,,,,,,,,Chi Zehou 2010,05.07.17,LH,07.07.17,OS,
+P0053,黄,永胜,ZH_HZ,,,,Xianning, Hubei,1910,1983,黄叙钱,,,,,,,,Chi Zehou 2010,05.07.17,LH,07.07.17,OS,
+P0054,Xi,Liufang,ZH_PY,,,,,1947,,,,,,,,,,zugong tongxun 1980,05.07.17,LH,07.07.17,OS,,
+P0054,奚,柳芳,ZH_HZ,,,,,1947,,,,,,,,,,zugong tongxun 1980,05.07.17,LH,07.07.17,OS,,
+P0055,Hou,Wailu,ZH_PY,,,,,1903,1987,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0055,侯,外庐,ZH_HZ,,,,,1903,1987,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0056,Gu,Jiegang,ZH_PY,,,,,1893,1980,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0056,顾,颉刚,ZH_HZ,,,,,1893,1980,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0057,Xie,Guozhen,ZH_PY,,,,,1901,1982,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0057,谢,国桢,ZH_HZ,,,,,1901,1982,,,,,,,,,He Zhaowu 2011,05.07.17,LH,07.07.17,OS,,
+P0058,Qi,Zhi,ZH_PY,,,,Beijing,,,,,,,,,,,Qi Zhi 2011,05.07.17,LH,07.07.17,OS,,
+P0058,启,之,ZH_HZ,,,,Beijing,,,,,,,,,,,Qi Zhi 2011,05.07.17,LH,07.07.17,OS,,
+P0059,Bai,Hua,ZH_PY,,,,,,,,,,,,,,,Bai Hua 2010,05.07.17,LH,07.07.17,OS,,
+P0059,白,桦,ZH_HZ,,,,,,,,,,,,,,,Bai Hua 2010,05.07.17,LH,07.07.17,OS,,
+P0060,Li,Ping,ZH_PY,,,,Sichuan,1948,,Liu Huixuan,,,,,,,,Li Qian 2010,05.07.17,LH,07.07.17,OS,,
+P0060,礼,平,ZH_HZ,,,,Sichuan,1948,,刘辉宣,,,,,,,,Li Qian 2010,05.07.17,LH,07.07.17,OS,,
+P0061,Yang,Xiguang,ZH_PY,,,,,1948,2004,Yang Xiaokai,,,,,,,,,05.07.17,LH,07.07.17,OS,,
+P0061,杨,曦光,ZH_HZ,,,,,1948,2004,杨小凯,,,,,,,,,05.07.17,LH,07.07.17,OS,,
+P0062,Siao,Eva,ZH_PY,,,,,1911,2001,,,,,,,,,Siao Eva 1994,05.07.17,LH,07.07.17,OS,,
+P0062,叶,华,ZH_HZ,,,,,1911,2001,,,,,,,,,Siao Eva 1994,05.07.17,LH,07.07.17,OS,,
+P0063,Nanchu , ,ZH_PY,,1970,1973,Heilongjiang,1953,,,,,,,,yes,,Nanchu 2001,05.07.17,LH,07.07.17,OS,,
+P0063,Nanchu , ,ZH_HZ,,1970,1973,Heilongjiang,1953,,,,,,,,yes,,Nanchu 2001,05.07.17,LH,07.07.17,OS,,
+P0064,Gao,Yuan,ZH_PY,,,,,1952,,,,,,,,,,Gao Yuan 1987,05.07.17,LH,07.07.17,OS,,
+P0064,高 ,原,ZH_HZ,,,,,1952,,,,,,,,,,Gao Yuan 1987,05.07.17,LH,07.07.17,OS,,
+P0065,Zhang,Zhenzhou,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0065,张,振州,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0066,Gan,Lulin,ZH_PY,,,,,-1972or 1973,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0066,甘,露林,ZH_HZ,,,,,-1972or 1973,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0067,Yu,Zhixin,ZH_PY,,,,天堂河农场in Beijing (?),,,Yu Tiesheng,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0067,于,植信,ZH_HZ,,,,天堂河农场in Beijing (?),,,于铁生,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0068,Zhang,Runfeng,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0068,张,润峰,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0069,Yang,Xiamin,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0069,杨,孝敏,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0070,Jiang,Dingyue,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0070,蒋,定粤,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0071,Gan,Huili,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0071,甘,恢理,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0072,Zhang,Dawei,ZH_PY,,,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,05.07.17,LH,07.07.17,OS,,
+P0072,张,大伟,ZH_HZ,,,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,05.07.17,LH,07.07.17,OS,,
+P0073,Rae,Yang,ZH_PY,,1968,1973,Heilongjiang,1950,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0073,杨,瑞,ZH_HZ,,1968,1973,Heilongjiang,1950,,,,,,,,,,Zhang Langlang 1999 p 51,05.07.17,LH,07.07.17,OS,,
+P0074,Bai,Di,ZH_PY,,,,,1954,,,,,,,,,,Zhong Wang Bai 2001,05.07.17,LH,07.07.17,OS,,
+P0074,柏,棣,ZH_HZ,,,,,1954,,,,,,,,,,Zhong Wang Bai 2001,05.07.17,LH,07.07.17,OS,,
+P0075,Chen,Xiaomei,ZH_PY,,1969,1973,Beidahuang,1954,,,,,,,,,,Zhong Wang Bai 2001,05.07.17,LH,07.07.17,OS,,
+P0075,Chen,Xiaomei,ZH_HZ,,1969,1973,Beidahuang,1954,,,,,,,,,,Zhong Wang Bai 2001,05.07.17,LH,07.07.17,OS,,
+P0076,Aitmatov ,Chinghiz ,en,0,0,0,0,1928,2009,,,Sheker,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0076,艾特玛托夫,钦吉斯,zh,0,0,0,0,1928,2009,,,Sheker,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0076,Айтматов,Чыңгыз,ky,0,0,0,0,1928,2009,,,Sheker,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0077,Akhmatova,Anna ,en,0,0,0,0,1889,1966,,,Bolshoy Fontan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0077,艾哈迈托娃,安娜,zh,0,0,0,0,1889,1966,,,Bolshoy Fontan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0077,Ахматова,Анна,ru,0,0,0,0,1889,1966,,,Bolshoy Fontan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0078,Aksyonov ,Vasily ,en,0,0,0,0,1932,2009,,,Kazan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0078,阿克肖诺夫,瓦西里,zh,0,0,0,0,1932,2009,,,Kazan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0078,Аксёнов,Васи́лий ,ru,0,0,0,0,1932,2009,,,Kazan,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0079,Alliluyeva,Svetlana,en,0,0,0,0,1926,2011,,,Moscow,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0079,阿利卢耶娃,斯韦特兰娜,zh,0,0,0,0,1926,2011,,,Moscow,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0079,Аллилуева,Светлана ,ru,0,0,0,0,1926,2011,,,Moscow,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0080,Althusser,Louis,en,0,0,0,0,1918,1990,,,Birmendreïs,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0081,Anagnosti,Dhimitër ,en,0,0,0,0,1936,,,,Vonu,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0082,Andreyev,Leonid,en,0,0,0,0,1871,1919,,,Oryol ,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0082,安德莱耶夫,列昂尼德,zh,0,0,0,0,1871,1919,,,Oryol ,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0082,Андреев,Леонид ,ru,0,0,0,0,1871,1919,,,Oryol ,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0083,Anonymous,,en,0,0,0,0,,,,,,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0084,Aristotle,,en,0,0,0,0,384,322,,,Stagira,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0085,Artsybashev,Mikhail,en,0,0,0,0,1878,1927,,,Dobroslavivka,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0085,阿尔志跋绥夫,米哈伊尔,zh,0,0,0,0,1878,1927,,,Dobroslavivka,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0085,Арцыбашев,Михаил ,ru,0,0,0,0,1878,1927,,,Dobroslavivka,,0,,,,,2017-07-09,OS,2017-07-09,OS,,
+P0086,Ba ,Jin,zh-Py,0,0,0,0,1904,2005,Li Yaotang,zh-Py,Chengdu,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0086,巴,金,zh,0,0,0,0,1904,2005,李尧棠,zh,Chengdu,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0087,Baba,Corneliu,en,0,0,0,0,1906,1997,,zh-Py,Craiova,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0087,巴巴,科内里,zh,0,0,0,0,1906,1997,柯尔尼留巴巴,zh,Craiova,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0088,Babayevsky,Semyon ,en,0,0,0,0,1909,2000,,,Izium Raion,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0088,巴巴耶夫斯基,谢苗,zh,0,0,0,0,1909,2000,,,Izium Raion,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0088,Бабаевский,Семён,ru,0,0,0,0,1909,2000,,,Izium Raion,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0089,Bach,Johann Sebastian,en,0,0,0,0,1685,1750,,,Eisenach,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0089,巴赫,约翰·塞巴斯蒂安,zh,0,0,0,0,1685,1750,,,Eisenach,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0090,Bai,Juyi,en,0,0,0,0,772,846,,,Taiyuan,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0090,白,居易,zh,0,0,0,0,772,846,,,Taiyuan,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0091,Balmont,Konstantin,en,0,0,0,0,1876,1942,,,Shuya,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0091,巴尔蒙特,康斯坦丁,zh,0,0,0,0,1876,1942,,,Shuya,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0091,Бальмо́нт,Константи́н,ru,0,0,0,0,1876,1942,,,Shuya,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0092,Balzac,Honoré de,en,0,0,0,0,1799,1850,,,Tours,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0092,巴尔扎克,奥诺雷·德,zh,0,0,0,0,1799,1850,,,Tours,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0093,Baudelaire,Charles,en,0,0,0,0,1821,1867,,,Paris,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0093,波德莱尔,夏尔,zh,0,0,0,0,1821,1867,,,Paris,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0094,Beckett,Samuel,en,0,0,0,0,1906,1989,,,Foxrock,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0094,贝克特,萨缪尔,zh,0,0,0,0,1906,1989,,,Foxrock,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0095,Beethoven,Ludwig van,en,0,0,0,0,1770,1827,,,Bonn,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0095,貝多芬,路德維希·范,zh,0,0,0,0,1770,1827,,,Bonn,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0096,Belinsky,Vissarion,en,0,0,0,0,1811,1848,,,Sveaborg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0096,别林斯基,维萨里昂,zh,0,0,0,0,1811,1848,,,Sveaborg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0096,Белинский,Виссарион ,ru,0,0,0,0,1811,1848,,,Sveaborg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0097,Berlioz,Hector,en,0,0,0,0,1803,1869,,,La Côte-Saint-André,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0097,柏辽兹,埃克托,zh,0,0,0,0,1803,1869,,,La Côte-Saint-André,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0098,Bernstein,Eduard,en,0,0,0,0,1850,1932,,,Schöneberg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0098,伯恩施坦,爱德华,zh,0,0,0,0,1850,1932,伯恩施坦,zh,Schöneberg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0099,Bi ,Ruxie,en,,,,,,,,,China,,,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0099,毕,汝协,zh,,,,,,,毕汝谐,zh,China,,,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0100,Bian,Zhilin,en,0,0,0,0,1910,2000,,,Haimen,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0100,卞,之琳,zh,0,0,0,0,1910,2000,,,Haimen,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0101,Blake ,William ,en,0,0,0,0,1757,1827,,,London,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0101,"布
+雷
+克
+",威廉,zh,0,0,0,0,1757,1827,"布
+雷
+克
+",zh,London,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0102,Bo,Hua,en,,,,,1956,,,,,,,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0102,柏,桦,zh,,,,,1956,,,,,,,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0103,Boccaccio,Giovanni ,en,0,0,0,0,1313,1375,,,,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0103,"薄
+伽
+丘
+",乔万尼,zh,0,0,0,0,1313,1375,,,,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0104,Brahms,Johannes,en,0,0,0,0,1833,1897,,,Hamburg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0104,勃拉姆斯,约翰内斯,zh,0,0,0,0,1833,1897,,,Hamburg,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0105,Braine,John,en,0,0,0,0,1922,1986,,,Bradford,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
+P0105,勃莱恩,约翰 ,zh,0,0,0,0,1922,1986,,,Bradford,,0,,,,,2017-07-10,OS,2017-07-10,OS,,
