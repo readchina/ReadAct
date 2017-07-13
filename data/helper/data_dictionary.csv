@@ -44,7 +44,7 @@ Text,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Text,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 Genre,genre_id,G and a two-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
-Genre,genre_name,"name of a genre, preferrably English terms; if necessary use Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
+Genre,genre_name,"name of a genre, preferrably English terms; if necessary, use Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
 Genre,genre_name_lang,"Language code of this name, „en“ or „zh“ only", ZH_PY,2017-07-04,LH,2017-07-12,OS
 Genre,genre_type,genre type of higher ranking order, i.e. fiction as a broad category for short story,2017-07-04,LH,2017-07-04,LH
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -72,7 +72,7 @@ Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Institution,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 Place ,place_ID,PL and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
-Place ,place_name,"Name of a place in English, Shanghai, Cologne,  Rome",,2017-07-04,LH,2017-07-12,OS
+Place ,place_name,"Name of a place in English, e.g. Shanghai, Cologne,  Rome",,2017-07-04,LH,2017-07-12,OS
 Place ,long,geo.data,,2017-07-04,LH,2017-07-04,LH
 Place ,lat,geo.data,,2017-07-04,LH,2017-07-04,LH
 Place ,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH

@@ -1,11 +1,7 @@
 act_ID,agent,action,agens,start,end,substantial_discussion,comment,source_id,page_number,created,created_by,last_modified,last_modified_by
-A00001,P0063,AT01,T00002,1973,1973,"A student was criticized while reading this American textbook in public. The author takes this book as an example, of how volatile the attitude towards studying English was, even/especially (?) at the East China Normal University's Foreign Languages Depar",,T00003,196f,2017-07-12,OS,2017-07-12,OS
-A00002,,AT01,,,,,,,,,,,
-A00002,,AT01,,,,,,,,,,,
-A00004,,AT01,,,,,,,,,,,
-A00005,,AT01,,,,,,,,,,,
-A00006,,AT01,,,,,,,,,,,
-A00007,,AT01,,,,,,,,,,,
-A00008,,AT01,,,,,,,,,,,
-A00009,,AT01,,,,,,,,,,,
-A00010,,AT01,,,,,,,,,,,
+A00001,P0063,AT01,T00002,1973,1973,"A student was criticized while reading this American textbook in public. Nanchu takes this book as an example, of how volatile the attitude towards studying English was, even/especially (?) at the East China Normal University's Foreign Languages Depar",,T00003,196f,2017-07-12,OS,2017-07-12,OS
+A00002,P0106,AT01,T00004,1972,1976,mentions it among others as an important reading for him and his zhiqing fellows,,T00007,581,2017-07-12,OS,2017-07-12,OS
+A00003,P0017,AT01,T00008,1968,1978,mentions it among others as an important reading for the whole development in the field of literature after 1978,,T00009,219,2017-07-12,OS,2017-07-12,OS
+A00004,P0108,AT01,T00010,1972,1975,Xu Xiao read Ticket to the Stars and was very much influenced by it,,T00012,381,2017-07-12,OS,2017-07-12,OS
+A00005,P0014,AT02,T00010,1972,1975,"Zhao Yifan knew a lot about huangpi and huipi shu, he also copied and distributed them",,T00012,381,2017-07-12,OS,2017-07-12,OS
+A00006,P0014,AT01,P0108,1972,1975,Zhao Yifan handed Ticket to the Stars to Xu Xiao,,T00012,381,2017-07-12,OS,2017-07-12,OS
