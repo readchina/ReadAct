@@ -28,7 +28,7 @@ SocialPosition,last_modified_by,name of project member last modifying this line;
 ,,,,2017-07-04,LH,2017-07-04,LH
 Text,text_id,T and a five-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
 Text,title,"Title of a text; for the texts discussed by readers in autobiographical texts, create separate lines for a) title in Chinese characters; b) title in original language (if German, French, Italian, English) or English (esp. for texts originally in Russian)",,2017-07-04,LH,2017-07-04,LH
-Text,title_lang,"Language code of this title, „en“ or „zh“ only", ZH_PY,2017-07-04,LH,2017-07-04,LH
+Text,title_lang,"Language code of this title, âenâ or âzhâ only", ZH_PY,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
 Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
 Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
@@ -37,7 +37,7 @@ Text,first_chin_edition,year of first edition in China,,2017-07-04,LH,2017-07-04
 Text,neibu,yes/no whether this was originally a neibu publication,,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is reorded; column may remain empty if this line records an academic or autobiographical text,,2017-07-04,LH,2017-07-04,LH
 Text,page_number,Page number in text that the colum source_id refers to,,2017-07-04,LH,2017-07-04,LH
-Text,note,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,2017-07-04,LH,2017-07-04,LH
+Text,note,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was writtenâŠ",,2017-07-04,LH,2017-07-04,LH
 Text,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Text,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 Text,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -45,7 +45,7 @@ Text,last_modified_by,name of project member last modifying this line; use acron
 ,,,,2017-07-04,LH,2017-07-04,LH
 Genre,genre_id,G and a two-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
 Genre,genre_name,"name of a genre, preferrably English terms; if necessary, use Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
-Genre,genre_name_lang,"Language code of this name, „en“ or „zh“ only", ZH_PY,2017-07-04,LH,2017-07-12,OS
+Genre,genre_name_lang,"Language code of this name, âenâ or âzhâ only", ZH_PY,2017-07-04,LH,2017-07-12,OS
 Genre,genre_type,genre type of higher ranking order, i.e. fiction as a broad category for short story,2017-07-04,LH,2017-07-04,LH
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Genre,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
@@ -81,7 +81,7 @@ Place ,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Place ,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 Location,loc_id,L and a four-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
-Location,loc_name,Give name of a location - location refers to a type of place: in the market place; on the toilet; in the kitchen; at school; at the seaside; on a boat…,,2017-07-04,LH,2017-07-04,LH
+Location,loc_name,Give name of a location - location refers to a type of place: in the market place; on the toilet; in the kitchen; at school; at the seaside; on a boatâŠ,,2017-07-04,LH,2017-07-04,LH
 Location,loc_name_lang,language of the term in loc_name,,2017-07-04,LH,2017-07-04,LH
 Location,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Location,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
@@ -89,7 +89,7 @@ Location,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Location,last_modified_by,name of project member last modifying this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 ActType,action_ID,AT and a two-digit number, with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
-ActType,action_name,"verb for an action undertaken in the course of a wider act of reading: circulate, steal, buy, copy, print, borrow, read, give as a present, listen in storytelling, discuss; give a book to…",,2017-07-04,LH,2017-07-04,LH
+ActType,action_name,"verb for an action undertaken in the course of a wider act of reading: circulate, steal, buy, copy, print, borrow, read, give as a present, listen in storytelling, discuss; give a book toâŠ",,2017-07-04,LH,2017-07-04,LH
 ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 ActType,created_by,name of project member creating this line; use acronym,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
