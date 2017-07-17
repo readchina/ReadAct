@@ -1,1 +1,10 @@
-soc_pos_id,soc_pos_name,start,end,created,created_by,last_modified,last_modified_by
+soc_pos_id,soc_pos_name,created,created_by,last_modified,last_modified_by
+S01,higher cadre,2017-07-08,OS,2017-07-08,OS
+S02,lower cadre,2017-07-08,OS,2017-07-08,OS
+S03,intellectual,2017-07-08,OS,2017-07-08,OS
+S04,executive,2017-07-09,OS,2017-07-09,OS
+S05,high-ranking military officer,2017-07-09,OS,2017-07-09,OS
+S06,middle class,2017-07-08,OS,2017-07-08,OS
+S07,worker,2017-07-08,OS,2017-07-08,OS
+S08,peasant,2017-07-08,OS,2017-07-08,OS
+S09 ,common soldier,2017-07-09,OS,2017-07-09,OS
