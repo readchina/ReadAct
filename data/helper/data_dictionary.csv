@@ -3,7 +3,7 @@ Person,person_id,P and a five-digit number,with leading zeros if necessary,2017-
 Person,family_name,"Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren), Bei for Bei Dao (not Zhao Zhenkai)",,2017-07-04,LH,2017-07-04,LH
 Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,EN,2017-07-04,LH,2017-07-12,OS
-Person,rustication,"records whether or when a person experienced rustication; write ""no"", if not, provide year for yes",,2017-07-04,LH,2017-07-04,LH
+Person,rustication,"records whether or when a person experienced rustication; write ""NULL"", if not, provide year for yes",,2017-07-04,LH,2017-07-18,DP
 Person,place_of_rust,place of rustication (or major place of rustication if several),,2017-07-04,LH,2017-07-04,LH
 Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
 Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
