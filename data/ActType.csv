@@ -1,4 +1,5 @@
 action_ID,action_name,created,created_by,last_modified,last_modified_by
-AT01,reading,2017-07-12,OS,2017-07-12,OS
-AT02,copying ,2017-07-12,OS,2017-07-12,OS
-AT03,handing over (to sb),2017-07-12,OS,2017-07-12,OS
+AT01,to read,2017-07-12,OS,2017-07-12,OS
+AT02,to copy,2017-07-12,OS,2017-07-12,OS
+AT03,to hand over (to sb),2017-07-12,OS,2017-07-12,OS
+AT04,to take as ideal / guide,2017-07-19,LH,2017-07-19,LH
