@@ -46,6 +46,7 @@
  +Temporary Items
  +.apdisk
 
- # MSoffice Temp Files
+ # Application Files
 
 ~$*.xlsx
+.~lock*
