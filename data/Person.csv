@@ -55,8 +55,8 @@ P0027,Zhang,Xinhua,en,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,2017-07-05,LH,2017-
 P0027,张,新华,zh,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,2017-07-05,LH,2017-07-12,OS
 P0028,Zhang,Jiuxing,en,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,2017-07-05,LH,2017-07-12,OS
 P0028,张,久兴,zh,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,2017-07-05,LH,2017-07-12,OS
-P0029,Wu,Hong,en,,1969 (?),1973 (?),PL0005, Zhangjiakoushi City, Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
-P0029,巫,鸿,zh,,1969 (?),1973 (?),PL0005, Zhangjiakoushi City, Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
+P0029,Wu,Hong,en,,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
+P0029,巫,鸿,zh,,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-07-12,OS
 P0030,Dong,Shabei,en,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
 P0030,董,沙贝,zh,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,2017-07-05,LH,2017-07-12,OS
 P0031,Huang ,Guangzu ,en,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,2017-07-05,LH,2017-07-12,OS
@@ -220,8 +220,13 @@ P0107,Wang ,Shiqiang,en,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0107,王,士强,zh,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,Xu ,Xiao,en,yes,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,徐,晓 ,zh,yes,,,,1954,,,,PL0003,,,,,2017-07-12,OS,2017-07-12,OS
-P0115,Brodsky,Joseph,en,,1940,1996,,,,,,,,,,,,,,
-P0115,Бродский,Иосиф ,zh,,1940,1996,,,,,,,,,,,,,,
-P0115,布罗茨基,约瑟夫,ru,,1940,1996,,,,,,,,,,,,,,
-P0116,Kafka,Franz,en,NULL,NULL,NULL,NULL,1883,1924,,,,,,,,,,,
-P0116,卡夫卡 ,弗朗茨,zh,NULL,NULL,NULL,NULL,1883,1924,,,,,,,,,,,
+P0115,Brodsky,Joseph,en,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
+P0115,Бродский,Иосиф ,zh,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
+P0115,布罗茨基,约瑟夫,ru,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
+P0116,Kafka,Franz,en,NULL,NULL,NULL,NULL,1883,1924,,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,2017-07-19,OS,2017-07-19,OS
+P0116,卡夫卡 ,弗朗茨,zh,NULL,NULL,NULL,NULL,1883,1924,弗朗兹,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,2017-07-19,OS,2017-07-19,OS
+P0117,Kerouac,Jack,en,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,2017-07-20,OS,2017-07-20,OS
+P0117,杰克,凯鲁亚克 ,zh,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,2017-07-20,OS,2017-07-20,OS
+,,,,,,,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
+,,,,,,,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
+,,,,,,,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
