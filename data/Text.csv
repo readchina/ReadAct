@@ -4,34 +4,33 @@ T00001,无声的中国,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,0,0,"The t
 T00002,English 900,,en,I0003,G20,PL0050,1964,,not said,no,T00003,196,,2017-07-12,OS,2017-07-12,OS
 T00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,0,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,7-10,,2017-07-12,OS,2017-07-12,OS
-T00004,白轮船 ,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,7-10,,2017-07-12,OS,2017-07-12,OS
+T00004,白轮船,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,7-10,,2017-07-12,OS,2017-07-12,OS
 T00005,Manchang de jiaqi (Titel Sammelband oder Artikel?),,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,,0,0,,2017-07-12,OS,2017-07-12,OS
 T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,,0,0,,2017-07-12,OS,2017-07-12,OS
 T00006,[Walking on the stream of history] (englische Übersetzung oder besser pinyin als Zusatz zum chin. Titel?),,en,P0020,G03,PL0001,,"Shehui kexue luntan (what about other sources like newspapers, webpages or journals?)",,0,0,0,,2017-07-12,OS,2017-07-12,OS
-T00006,行走在历史的河流,,zh,P0020,G03,PL0001,,Shehui kexue luntan ,,0,0,0,,2017-07-12,OS,2017-07-12,OS
-T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,none,G22,PL0001,2013,Xinmin zhoukan ,,0,0,0,,2017-07-12,OS,2017-07-12,OS
-T00007,韩少功,知青与寻根,zh,none,G22,PL0001,2013,Xinmin zhoukan ,,0,0,0,,2017-07-12,OS,2017-07-12,OS
+T00006,行走在历史的河流,,zh,P0020,G03,PL0001,,Shehui kexue luntan,,0,0,0,,2017-07-12,OS,2017-07-12,OS
+T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,none,G22,PL0001,2013,Xinmin zhoukan,,0,0,0,,2017-07-12,OS,2017-07-12,OS
+T00007,韩少功,知青与寻根,zh,none,G22,PL0001,2013,Xinmin zhoukan,,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00008,[An anthology of her poetry],,en,P0077,G10,,,,,no,T00009,219,,2017-07-12,OS,2017-07-12,OS
 T00009,Ma Jia fangtan lu,,en,P0017,G03,PL0002,2009,Sanlian shudian,,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00009,马佳访谈录,,zh,P0017,G03,PL0002,2009,Sanlian shudian,,0,0,0,,2017-07-12,OS,2017-07-12,OS
-T00010,Ticket to the Stars ,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,,,,,2017-07-12,OS,2017-07-12,OS
-T00010,帶星星的火車票 ,,zh,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,"translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. ",2017-07-12,OS,2017-07-12,OS
+T00010,Ticket to the Stars,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,,,,,2017-07-12,OS,2017-07-12,OS
+T00010,帶星星的火車票,,zh,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,"translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. ",2017-07-12,OS,2017-07-12,OS
 T00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,,2014,,,0,0,0,,2017-07-12,OS,2017-07-16,LH
 T00011,1960-70年代 前朦胧诗 的发生探源,,zh,P0107,G19,,2014,,,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00012,Wuti wangshi,,zh-Latn-py,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00012,無題往事,,zh,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,0,0,0,,2017-07-12,OS,2017-07-12,OS
-T00013,P0110,My Universities,,en,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00013,P0110,Мои университеты,,ru,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00013,P0110,我的大学,,zh,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00014,P0109,"Life, Books and Poems",,en,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,0,,,,2017-07-19,LH,2017-07-19,LH
-T00014,P0109,生活、书籍与诗歌,,zh,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,0,,,,2017-07-19,LH,2017-07-19,LH
-T00015,P00110,My Apprenticeship,,en,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00015,P00110,在人间,,zh,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00015,P00110,MIRA,,en,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-19,LH
-T00021,Less than One ,MIRA: WE NEED TO CHECK THE SOURCE OFFICIAL PUBLICATION NOT 1979 BUT 1984,en,P0115,G01,,,,,,,,,2017-07-18,OS,2017-07-18,OS
+T00013,My Universities,,en,P0110,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-19,LH
+T00013,Мои университеты,,ru,P0110,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-24,DP
+T00013,我的大学,,zh,P0110,G03,MIRA,1923,,,no,,,,2017-07-19,LH,2017-07-24,DP
+T00014,"Life, Books and Poems",,en,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,0,,,,2017-07-19,LH,2017-07-24,DP
+T00014,生活、书籍与诗歌,,zh,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,0,,,,2017-07-19,LH,2017-07-24,DP
+T00015,My Apprenticeship,,en,P00110,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-24,DP
+T00015,在人间,,zh,P00110,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-24,DP
+T00015,MIRA,,en,P00110,G03,MIRA,MIRA,,,no,,,,2017-07-19,LH,2017-07-24,DP
+T00021,Less than One,MIRA: WE NEED TO CHECK THE SOURCE OFFICIAL PUBLICATION NOT 1979 BUT 1984,en,P0115,G01,,,,,,,,,2017-07-18,OS,2017-07-18,OS
 T00021,小于一,,zh,P0115,G01,,,,,,,,,2017-07-18,OS,2017-07-18,OS
 T00022,Der Prozess,,de,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,2017-07-19,OS,2017-07-19,OS
 T00022,审判及其它,,zh,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,2017-07-19,OS,2017-07-19,OS
 T00023,On the road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,MIRA,,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Shi Rong 石荣 and others.  ",2017-07-20,OS,2017-07-20,OS
 T00023,在路上,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,MIRA,,,,,,
-
