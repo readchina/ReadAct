@@ -1,5 +1,5 @@
 genre_id,genre_name,genre_name_lang,genre_type,created,created_by,last_modified,last_modified_by
-G01,essay,en,non-fiction,2017-07-03,LH,2017-07-03,LH
+G01,nonessay,en,non-fiction,2017-07-03,LH,2017-07-03,LH
 G02,biography,en,life-writing,2017-07-03,LH,2017-07-03,LH
 G03,autobiography,en,life-writing,2017-07-03,LH,2017-07-03,LH
 G04,novel,en,fiction,2017-07-03,LH,2017-07-03,LH
@@ -21,3 +21,4 @@ G19,academic writing,en,non-fiction,2017-07-03,LH,2017-07-03,LH
 G20,textbook,en,non-fiction,2017-07-12,OS,2017-07-12,OS
 G21,novella,en,fiction,2017-07-12,OS,2017-07-12,OS
 G22,newspaper article,en,non-fiction,2017-07-12,OS,2017-07-12,OS
+G23,literary essay,en,fiction,2017-07-18,OS,2017-07-18,OS
