@@ -222,9 +222,9 @@ P0108,Xu ,Xiao,en,yes,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,徐,晓 ,zh,yes,,,,1954,,,,PL0003,,,,,2017-07-12,OS,2017-07-12,OS
 P0109,Shu ,Ting,en,yes,1969,1972,?,1952,,Gong,Peiyu,PL0056,?,?,,,2017-07-18,LH,2017-07-18,LH
 P0109,舒,婷,zh,yes,1969,1972,?,1952,,龚 ,佩瑜 ,PL0056,?,?,,,2017-07-18,LH,2017-07-18,LH
-P0110,Gorky,Maxim,en,NULL,0,0,0,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
-P0110,Горький ,Максим,ru,NULL,0,0,0,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
-P0110,高尔基,,zh,NULL,0,0,0,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
+P0110,Gorky,Maxim,en,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
+P0110,Горький ,Максим,ru,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
+P0110,高尔基,,zh,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,2017-07-19,LH,2017-07-19,LH
 P0115,Brodsky,Joseph,en,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
 P0115,Бродский,Иосиф ,zh,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
 P0115,布罗茨基,约瑟夫,ru,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-07-19,OS
@@ -232,6 +232,6 @@ P0116,Kafka,Franz,en,NULL,NULL,NULL,NULL,1883,1924,,,PL0065,,,https://en.wikiped
 P0116,卡夫卡 ,弗朗茨,zh,NULL,NULL,NULL,NULL,1883,1924,弗朗兹,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,2017-07-19,OS,2017-07-19,OS
 P0117,Kerouac,Jack,en,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,2017-07-20,OS,2017-07-20,OS
 P0117,杰克,凯鲁亚克 ,zh,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,2017-07-20,OS,2017-07-20,OS
-P0118,Milovan,Djilas,en,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,S03,,,Li Ling 2009:249,2017-07-19,OS,2017-07-25,MG
-P0118,Милован,Ђилас,ru,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,S03,,,Li Ling 2009:249,2017-07-25,MG,2017-07-25,MG
-P0118,米洛凡,吉拉斯,zh,NULL,NULL,NULL,NULL,1911,1995,密洛凡德热拉斯,zh,PL0059,S03,,,Li Ling 2009:249,2017-07-25,MG,2017-07-25,MG
+P0118,Milovan,Djilas,en,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,2017-07-19,OS,2017-07-25,MG
+P0118,Милован,Ђилас,sr,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,2017-07-25,MG,2017-07-25,MG
+P0118,米洛凡,吉拉斯,zh,NULL,NULL,NULL,NULL,1911,1995,密洛凡德热拉斯,zh,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,2017-07-25,MG,2017-07-25,MG
