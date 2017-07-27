@@ -98,7 +98,8 @@ ActType,last_modified_by,name of project member last modifying this line,use acr
 Act,act_ID,A and a five-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
 Act,agent,Subject doing something,p.e. person stealing a book use person ID,2017-07-04,LH,2017-07-04,LH
 Act,action,add ActType/action_ID,,2017-07-04,LH,2017-07-04,LH
-Act,agens,Object of an action,p.e. text or person use person or text ID respectively,2017-07-04,LH,2017-07-04,LH
+Act,act_object,Object of an action,use text ID,2017-07-25,OS,2017-07-25,OS
+Act,act_target,2nd (receiving) person ,use person ID,2017-07-04,LH,2017-07-04,LH
 Act,start,Beginning (year) of an action / we cover reading acts between 1966 and 1981,,2017-07-04,LH,2017-07-04,LH
 Act,end,"End (year) of an action; if only one year / point in time then use same as start year, p.e. 1968-1968",,2017-07-04,LH,2017-07-04,LH
 Act,substantial_discussion,is the activity / text only mentioned briefly (>no) or substantially (>yes),,2017-07-04,LH,2017-07-04,LH
