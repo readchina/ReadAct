@@ -1,6 +1,9 @@
 action_ID,action_name,created,created_by,last_modified,last_modified_by
 AT01,to read,2017-07-12,OS,2017-07-12,OS
-AT02,to copy,2017-07-12,OS,2017-07-12,OS
+AT02,to copy (shouchao),2017-07-12,OS,2017-07-28,LH
 AT03,to hand over (to sb),2017-07-12,OS,2017-07-12,OS
 AT04,to take as ideal / guide,2017-07-19,LH,2017-07-19,LH
 AT05,to copy and hand over (to sb),2017-07-25,OS,2017-07-25,OS
+,,,,,
+,,,,,
+AT09,to memorize and copy (shouchao),2017-07-28,LH,2017-07-28,LH
