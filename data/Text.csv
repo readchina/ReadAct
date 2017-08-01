@@ -5,7 +5,7 @@ T00002,English 900,,en,I0003,G20,PL0050,1964,,not said,no,T00003,196,,2017-07-12
 T00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,0,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,7-10,,2017-07-12,OS,2017-07-12,OS
 T00004,白轮船,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,7-10,,2017-07-12,OS,2017-07-12,OS
-T00005,Manchang de jiaqi (Titel Sammelband oder Artikel?),,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,,0,0,,2017-07-12,OS,2017-07-12,OS
+T00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,,0,0,,2017-07-12,OS,2017-07-12,OS
 T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,,0,0,,2017-07-12,OS,2017-07-12,OS
 T00006,[Walking on the stream of history] (englische Übersetzung oder besser pinyin als Zusatz zum chin. Titel?),,en,P0020,G03,PL0001,,"Shehui kexue luntan (what about other sources like newspapers, webpages or journals?)",,0,0,0,,2017-07-12,OS,2017-07-12,OS
 T00006,行走在历史的河流,,zh,P0020,G03,PL0001,,Shehui kexue luntan,,0,0,0,,2017-07-12,OS,2017-07-12,OS
@@ -46,4 +46,5 @@ T00028,Wild Grass,,en,P0001,G10,LENA,1927,LENA,,yes,T00028,,,2017-07-28,LH,2017-
 T00028,野草 ,,zh,P0001,G10,LENA,1927,LENA,,yes,T00028,,,2017-07-28,LH,2017-07-28,LH
 T00029,‘Meeting by chance’,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,T00029,116-125,,2017-07-28,LH,2017-07-28,LH
 T00029,“不期而遇”,对书的记忆与记忆中的读书,zh,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,T00029,116-125,,2017-07-28,LH,2017-07-28,LH
-
+T00030,The Literary Inquisition of “The Second Handshake” ,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,T00030,,"In this book, Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR)",2017-08-01,LH,2017-08-01,LH
+T00030,《第二次握手》文字狱,,zh,P0120,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,T00030,,"In this book, Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR)",2017-08-01,LH,2017-08-01,LH
