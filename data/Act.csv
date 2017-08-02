@@ -6,20 +6,17 @@ A00004,P0108,AT01,T00010,,1972,1975,Xu Xiao read Ticket to the Stars and was ver
 A00005,P0014,AT05,T00010,P0108,1972,1975,Zhao Yifan copied Ticket to the Stars and handed it to Xu Xiao,,T00012,381,2017-07-12,OS,2017-07-12,OS
 A00006,P0109,AT04,T00013,,1969,1969,Shu Ting wants to go to Gorky‘s „Universities“ during her rustication,,T00014,300,2017-07-19,LH,2017-07-19,LH
 A00007,P0020,AT04,T00013,,1966,1976,"Gao Hua mentions that during the turmoil years of CR, when as a son of ""heiwulei"" (five black categories) he has been living in the bottom of the society, receiving supercilious looks and being discriminated against, these two books by Gorky acted as his spiritual guides.",,T00006,133,2017-07-19,LH,2017-07-19,LH
-A00015,P0009,AT01,T00022,,1966,,"They started reading neibu books before rustication time already. Kafka's ""Trial"" was among the most influential neibu books for Bei Dao",,T00011,80,2017-07-19,OS,2017-07-19,OS
-<<<<<<< HEAD
-A00008,P0014,AT03,T00024,P0108,1966,1970?,Zhao Yifan gave the book as a shouchaoben to Xu Xiao,,T00012,381,2017-07-25,MG,2017-07-25,MG
-A00009,P0119,AT04,T00025,,1971,1971,"He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. ""To be or not to be"", not to surrender to the evilness and enemy became his motto.",,T00026,ONLINE SOURCE,2017-07-27,LH,2017-07-27,LH
-A00010,P0106,AT01,T00024,,1968,1974,"The author found the book left by two educated youth from other unit, so he hid in his dorm reading it for the reason of illness and starved all through.",,T00005,574,2017-07-28,MG,2017-08-01,MG
-A00011,P0130,AT01,T00024,,1968,1968,The author read this banned book and thought Marx's works explains better than this one.,,T00027,422,2017-07-28,MG,2017-08-01,MG
-A00012,P0131,AT01,T00024,,1975,1975,"This book triggered up the author's understanding of literature, intellectual, society and the era.",,T00028,554,2017-07-28,MG,2017-08-01,MG
-=======
-A00008,P0014,AT03,T00024,P0108,1966,1970?,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,,T00012,381,2017-07-25,MG,2017-07-25,MG
-A00009,P0119,AT04,T00025,,1971,1971,"He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. ""To be or not to be"", not to surrender to the evilness and enemy became his motto.",,T00026,,2017-07-27,LH,2017-07-27,LH
-A00010,P0058,AT04,T00025,,,,He came up with the idea of editing quotations of Lu Xun after reading Letters between two ,,T00027,,2017-07-27,LH,2017-07-27,LH
-A00011,P0120,AT04,P0001,,LENA,,Lu Xun as his most important literary inspiration,,T00030,79,2017-08-01,LH,2017-08-01,LH
-A00012,P0029,AT09,T00028,,1966,1969,"During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Liu Xun there, and memorized the entire collection. He was trasferred to the Film Academy (still under arrest) where he put Lu Xun's collection on paper. The copy was found and confiscated by the supervisor.",,T00029,121,2017-07-28,LH,2017-07-28,LH
-A00013,P0120,AT01,P0001,,1954,1956,"for the next two years, he read much Lu Xun, esp. Essays",,T00030,57,2017-07-28,LH,2017-07-28,LH
-A00014,P0120,AT10,P0001,,1967,1967,in 1967 he compiled 鲁迅语录 not for publications but for his friends,,T00030,21,2017-07-28,LH,2017-07-28,LH
-A00015,P0106,LENA,P0001,,1967,1967,"Later the author's home was plundered as well, all of his collections were confiscated by the red guards.",,T00005,569,2017-07-28,LH,2017-07-28,LH
->>>>>>> master
+A00008,P0009,AT01,T00022,,1966,,"They started reading neibu books before rustication time already. Kafka's ""Trial"" was among the most influential neibu books for Bei Dao",,T00011,80,2017-07-19,OS,2017-07-19,OS
+A00009,P0014,AT03,T00024,P0108,1966,1970?,Zhao Yifan gave the book as a shouchaoben to Xu Xiao,,T00012,381,2017-07-25,MG,2017-07-25,MG
+A00010,P0119,AT04,T00025,,1971,1971,"He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. ""To be or not to be"", not to surrender to the evilness and enemy became his motto.",,T00026,ONLINE SOURCE,2017-07-27,LH,2017-07-27,LH
+A00011,P0106,AT01,T00024,,1968,1974,"The author found the book left by two educated youth from other unit, so he hid in his dorm reading it for the reason of illness and starved all through.",,T00005,574,2017-07-28,MG,2017-08-01,MG
+A00012,P0130,AT01,T00024,,1968,1968,The author read this banned book and thought Marx's works explains better than this one.,,T00027,422,2017-07-28,MG,2017-08-01,MG
+A00013,P0131,AT01,T00024,,1975,1975,"This book triggered up the author's understanding of literature, intellectual, society and the era.",,T00028,554,2017-07-28,MG,2017-08-01,MG
+A00014,P0014,AT03,T00024,P0108,1966,1970?,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,,T00012,381,2017-07-25,MG,2017-07-25,MG
+A00015,P0119,AT04,T00025,,1971,1971,"He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. ""To be or not to be"", not to surrender to the evilness and enemy became his motto.",,T00026,,2017-07-27,LH,2017-07-27,LH
+A00016,P0058,AT04,T00025,,,,He came up with the idea of editing quotations of Lu Xun after reading Letters between two ,,T00027,,2017-07-27,LH,2017-07-27,LH
+A00017,P0120,AT04,P0001,,LENA,,Lu Xun as his most important literary inspiration,,T00030,79,2017-08-01,LH,2017-08-01,LH
+A00018,P0029,AT09,T00028,,1966,1969,"During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Liu Xun there, and memorized the entire collection. He was trasferred to the Film Academy (still under arrest) where he put Lu Xun's collection on paper. The copy was found and confiscated by the supervisor.",,T00029,121,2017-07-28,LH,2017-07-28,LH
+A00019,P0120,AT01,P0001,,1954,1956,"for the next two years, he read much Lu Xun, esp. Essays",,T00030,57,2017-07-28,LH,2017-07-28,LH
+A00020,P0120,AT10,P0001,,1967,1967,in 1967 he compiled 鲁迅语录 not for publications but for his friends,,T00030,21,2017-07-28,LH,2017-07-28,LH
+A00021,P0106,LENA,P0001,,1967,1967,"Later the author's home was plundered as well, all of his collections were confiscated by the red guards.",,T00005,569,2017-07-28,LH,2017-07-28,LH
