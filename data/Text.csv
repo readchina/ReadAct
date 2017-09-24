@@ -79,11 +79,11 @@ T00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,T00044,495,,2017-08-26,MG,
 T00057,观刈麦,,zh,P0090,G10,,,,,,T00044,495,,2017-08-26,MG,2017-08-26,MG
 T00058,The Girl of the Mountains (Kenga e naftes),,en,P0081,?,,,,,yes,T00044,57,,2017-08-27,MG,2017-08-27,MG
 T00058,山姑娘,,zh,P0081,?,,,,,yes,T00044,57,,2017-08-27,MG,2017-08-27,MG
-T00059,Reeds in the wind,,en,P0141,G04,CHIA-YI,,,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-06,CW
-T00059,风中芦苇 ,,zh,P0141,G04,CHIA-YI,,,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-06,CW
-T00059,Canne al vento,,it,P0141,G04,CHIA-YI,,,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-06,CW
-T00060,En attendant Godot,,fr,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,7-10,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated from French by Shi Xianrong 施咸荣.",2017-08-31,MG,2017-08-31,MG
-T00060,等待戈多,,zh,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,7-10,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated from French by Shi Xianrong 施咸荣.",2017-08-31,MG,2017-08-31,MG
+T00059,Reeds in the wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-24,CW
+T00059,风中芦苇 ,,zh,P0141,G04,PL0003,1992,上海译文出版社,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-24,CW
+T00059,Canne al vento,,it,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-24,CW
+T00060,En attendant Godot,,fr,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,7-10,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated from French by Shi Xianrong 施咸荣.",2017-08-31,MG,2017-09-24,MG
+T00060,等待戈多,,zh,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,7-10,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated from French by Shi Xianrong 施咸荣.",2017-08-31,MG,2017-09-24,MG
 T00061,The Story of Translators,,en,P0142 ,G02,http://www.xujuneberlein.com/rem51.html ,2010,Remembrance,2010,no,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-06,CW
 T00061,翻译家的故事 ,,zh,P0142 ,G02,http://www.xujuneberlein.com/rem51.html ,2010,记忆,2010,no,T00061,ONLINE SOURCE,,2017-09-06,CW,2017-09-06,CW
 T00062,Waves,,en,P0009,G21,PL0017,1985,Zhongwen Daxue,1979,,T00044,311,the novel was first finished in 1974 but not published until 1979 in a revised version,2017-09-06,MG,2017-09-08,MG
@@ -116,5 +116,5 @@ T00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P
 T00075,,,zh,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,NULL,,2017-09-22,MG,2017-09-22,MG
 T00076,L‘Étranger,,fr,P0151,G04,PL0003,1961,Shanghai renmin chubanshe,,yes,T00005,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,2017-09-22,MG,2017-09-22,MG
 T00076,局外人,,zh,P0151,G04,PL0003,1961,Shanghai renmin chubanshe,,yes,T00005,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,2017-09-22,MG,2017-09-22,MG
-T00077,Dream of the Red Chamber,,en,P0152,G04,PL0001,1962,CHIA-YI,,,T00044,372,,2017-09-22,MG,2017-09-22,MG
-T00077,红楼梦,,zh,P0152,G04,PL0001,1962,,,,T00044,372,,2017-09-22,MG,2017-09-22,MG
+T00077,Dream of the Red Chamber,,en,P0152,G04,PL0001,1962,Cannot find any Hongloumeng published in 1962; but in 1957 and 1982 was published by 人民文学出版社,,,T00044,372,,2017-09-22,MG,2017-09-24,CW
+T00077,红楼梦,,zh,P0152,G04,PL0001,1962,Cannot find any Hongloumeng published in 1962; but in 1957 and 1982 was published by 人民文学出版社,,,T00044,372,,2017-09-22,MG,2017-09-24,CW
