@@ -263,8 +263,8 @@ P0140,Chen,Danqing,en,yes,1969,,PL0067,1953,,,,PL0003,,,https://en.wikipedia.org
 P0140,陈,丹青,zh,yes,1969,,PL0067,1953,,,,PL0003,,,https://en.wikipedia.org/wiki/Chen_Danqing,,2017-08-31,MG,2017-08-31,MG
 P0141,Deledda,Grazia ,en,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,,,2017-09-06,CW,2017-09-06,CW
 P0141,格拉齐亚,黛莱达 ,zh,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,,,2017-09-06,CW,2017-09-06,CW
-P0142,Lin,Da,en,CHIAYI,,,,1952,,Dinglin,,,,,,,2017-09-06,CW,2017-09-06,CW
-P0142,林,达,zh,,,,,,,丁林,,,,,,,2017-09-06,CW,2017-09-06,CW
+P0142,Lin,Da,en,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,,,2017-09-06,CW,2017-09-24,CW
+P0142,林,达,zh,yes,,,PL0008,1952,,丁林,zh,PL0003,,,,,2017-09-06,CW,2017-09-24,CW
 P0143,Jin,Zhong,en,,,,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,,,2017-09-06,CW,2017-09-06,CW
 P0143,金,中,zh,,,,PL0011,1926,2008,章世箐 ,zh,PL0069,,,,,2017-09-06,CW,2017-09-06,CW
 P0144,Bei,Shan,en,,,,,,,,,,,,,,2017-09-20,MG,2017-09-20,MG
@@ -283,3 +283,7 @@ P0154,Yan,Lianke,en,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
 P0154,阎,连科,zh,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
 P0155,Zhang,Langlang,en,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
 P0155,张,郎郎,zh,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
+P0156,Qi,Zhi,en,no,NULL,NULL,NULL,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
+P0156,启,之,zh,no,NULL,NULL,NULL,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
+P0157,Li,Dazhao,en,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,2017-09-24,CW,2017-09-24,CW
+P0157,李,大釗,zh,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,2017-09-24,CW,2017-09-24,CW
