@@ -277,12 +277,12 @@ P0151,Camus,Albert,fr,NULL,NULL,NULL,NULL,1913,1960,,,PL0073,NULL,NULL,https://d
 P0151,加缪,阿尔贝,zh,NULL,NULL,NULL,NULL,1913,1960,,,PL0073,NULL,NULL,https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA,,2017-09-22,MG,2017-09-22,MG
 P0152,Cao,Xueqin,en,NULL,NULL,NULL,NULL,1715-1724,1762-1763,,,,NULL,NULL,https://de.wikipedia.org/wiki/Der_Traum_der_Roten_Kammer,,2017-09-22,MG,2017-09-22,MG
 P0152,曹,雪芹,zh,NULL,NULL,NULL,NULL,1715-1724,1762-1763,,,,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9B%B9%E9%9B%AA%E8%8A%B9,,2017-09-22,MG,2017-09-22,MG
-P0153,Yu,Pinguo,en,MIRA,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
-P0153,俞,平伯,zh,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
-P0154,Yan,Lianke,en,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
-P0154,阎,连科,zh,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
-P0155,Zhang,Langlang,en,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
-P0155,张,郎郎,zh,,,,,,,,,,,,,,2017-09-22,MG,2017-09-22,MG
+P0153,Yu,Pingbo,en,yes,CHIA-YI,,,1900,1990,Yu Mingheng,en,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,2017-09-22,MG,2017-09-26,MG
+P0153,俞,平伯,zh,yes,,,,1900,1990,俞銘衡,zh,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,2017-09-22,MG,2017-09-26,MG
+P0154,Yan,Lianke,en,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://de.wikipedia.org/wiki/Yan_Lianke,,2017-09-22,MG,2017-09-26,MG
+P0154,阎,连科,zh,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,2017-09-22,MG,2017-09-26,MG
+P0155,Zhang,Langlang,en,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,2017-09-22,MG,2017-09-26,MG
+P0155,张,郎郎,zh,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,2017-09-22,MG,2017-09-26,MG
 P0156,Qi,Zhi,en,no,NULL,NULL,NULL,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
 P0156,启,之,zh,no,NULL,NULL,NULL,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
 P0157,Li,Dazhao,en,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,2017-09-24,CW,2017-09-24,CW
