@@ -32,8 +32,8 @@ T00021,Less than One,MIRA: WE NEED TO CHECK THE SOURCE OFFICIAL PUBLICATION NOT 
 T00021,小于一,,zh,P0115,G01,,,,,,,,,2017-07-18,OS,2017-07-18,OS
 T00022,Der Prozess,,de,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,2017-07-19,OS,2017-07-19,OS
 T00022,审判及其它,,zh,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,2017-07-19,OS,2017-07-19,OS
-T00023,On the road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,MIRA,,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Shi Rong 石荣 and others.  ",2017-07-20,OS,2017-07-20,OS
-T00023,在路上,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,MIRA,,,,,,
+T00023,On the road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,T00011,78,"According to Wang Shiqiang's research, this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Shi Rong 石荣 and others.  ",2017-07-20,OS,2017-09-27,MG
+T00023,在路上,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,T00011,78,,,,2017-09-27,MG
 T00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,,Shijie zhishi chubanshe,1963,yes,T00005,574,"According to Wang Shiqiang's research, this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.",2017-07-25,MG,2017-07-25,MG
 T00024,新阶级,对共产主义制度的分析,zh,P0118,G24,PL0002,,Shijie zhishi chubanshe,1963,yes,T00005,574,"According to Wang Shiqiang's research, this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.",2017-07-25,MG,2017-07-25,MG
 T00025,Letters Between Two,,eh,P0001,G25,PL0003,1933,Beixin shuju,1933,no,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,2017-07-27,LH,2017-07-27,LH
@@ -120,3 +120,13 @@ T00077,Dream of the Red Chamber,,en,P0152,G04,PL0001,1962,,,,T00044,372,Cannot f
 T00077,红楼梦,,zh,P0152,G04,PL0001,1962,,,,T00044,372,Cannot find any Hongloumeng published in 1962; but in 1957 and 1982 was published by 人民文学出版社,2017-09-22,MG,2017-09-25,DP
 T00078,Shouchang wenji,,en,P0157,G24,PL0002,1949,Beixin shuju faxingzhe,,,T00027,ONLINE SOURCE,,2017-09-24,CW,2017-09-24,CW
 T00078,守常文集,,zh,P0157,G24,PL0002,1949,北新书局发行者,,,T00027,ONLINE SOURCE,,2017-09-24,CW,2017-09-24,CW
+T00079,City Lights,,en,P0158,,,1931,,,yes,T00045,32,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00079,城市之光,,zh,P0158,,,1931,,,yes,T00045,32,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00080,The Gold Rush,,en,P0158,,,1925,,,yes,T00045,38,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00080,淘金记,,zh,P0158,,,1925,,,yes,T00045,38,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00081,Monsieur Verdoux,,en,P0158,,,1947,,,yes,T00045,38,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00081,凡尔杜先生,,zh,P0158,,,1947,,,yes,T00045,38,It was first screening internally in 1960s,2017-09-27,MG,2017-09-27,MG
+T00082,My Autobiography,,en,P0158,G03,CHIA-YI,1964,,CHIA-YI,,T00043,455,,2017-09-27,MG,2017-09-27,MG
+T00082,卓别林自传,,zh,P0158,G03,,1964,,,,T00043,455,,2017-09-27,MG,2017-09-27,MG
+T00083,The House with the Mezzanine,,en,P0159,G05,,1896,,,,T00014,304,,2017-09-27,MG,2017-09-27,MG
+T00083,带阁楼的房子,,zh,P0159,G05,,1869,,,,T00014,304,,2017-09-27,MG,2017-09-27,MG
