@@ -34,7 +34,7 @@ Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
 Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
 Text,publishing_house,name of publishing house,provide pinyin for Chinese publishing houses,2017-07-04,LH,2017-07-04,LH
 Text,first_chin_edition,year of first edition in China,,2017-07-04,LH,2017-07-04,LH
-Text,physical description,"please add information in two cases: 1. if you have any information about the physical condition of the object 2. if it is a internet source, please add this information in the following way: Internet Media Type",,,,,
+Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,,,,
 Text,neibu,yes/no whether this was originally a neibu publication,,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is reorded,column may remain empty if this line records an academic or autobiographical text,2017-07-04,LH,2017-07-04,LH
 Text,page_number,Page number in text that the colum source_id refers to,,2017-07-04,LH,2017-07-04,LH
@@ -61,7 +61,7 @@ IsoLangCode,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 IsoLangCode,last_modified_by,name of project member last modifying this line,use acronym,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 Institution,inst_ID,I and a four-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
-Institution,inst_name,"Name of an institution, for example ""school""; ""university""; Baiyangdian group; Chinese Communist Party; for generic institutions use English, for others Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name,Name of an institution, for example 'school'; 'university'; Baiyangdian group; Chinese Communist Party; for generic institutions use English; for others Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,language code of this institution,,2017-07-04,LH,2017-07-12,OS
 Institution,inst_alt_name,alternative name for the institution,CCP instead of Chinese Communist Party,2017-07-04,LH,2017-07-04,LH
 Institution,members_id,List Person Ids of members of an institution (only one?? Many??),,2017-07-04,LH,2017-07-04,LH
