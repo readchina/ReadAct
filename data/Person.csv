@@ -292,8 +292,8 @@ P0158,卓别林,查理,zh,NULL,NULL,NULL,NULL,1889,1977,查尔斯 斯宾赛,zh,P
 P0159,Chekhov,Anton,en,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,2017-09-27,MG,2017-09-27,MG
 P0159,契诃夫,安东,zh,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,2017-09-27,MG,2017-09-27,MG
 P0159,Че́хов ,Анто́н ,ru,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,2017-09-27,MG,2017-09-27,MG
-P0160,Yan,Wenliang,en,,,,,,,,,,,,,,2017-09-29,MG,2017-09-29,MG
-P0160,,,,,,,,,,,,,,,,,2017-09-29,MG,2017-09-29,MG
+P0160,Dickens,Charles,en,NULL,NULL,NULL,NULL,1812,1870,,,PL0083,NULL,NULL,,,2017-09-29,MG,2017-10-08,MG
+P0160,狄更斯,查尔斯,zh,NULL,NULL,NULL,NULL,1812,1870,,,PL0083,NULL,NULL,,,2017-09-29,MG,2017-10-08,MG
 P0161,Chernyshevsky,Nikolay Gavrilovich,en,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,2017-09-29,MG,2017-09-29,MG
 P0161,车尔尼雪夫斯基,尼古拉 加夫里诺维奇,zh,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,2017-09-29,MG,2017-09-29,MG
 P0161,Николай ,Гаврилович Чернышевский,ru,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,2017-09-29,MG,2017-09-29,MG
@@ -325,9 +325,11 @@ P0174,Mao,Zedong,en,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,2017-10-03,MG,201
 P0174,毛,泽东,zh,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,2017-10-03,MG,2017-10-03,MG
 P0175,Peng,Yilin,en,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0175,,,zh,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0176,,,,,,,,,,,,,,,,,,,,
-P0176,,,,,,,,,,,,,,,,,,,,
-P0177,,,,,,,,,,,,,,,,,,,,
-P0177,,,,,,,,,,,,,,,,,,,,
-P0178,,,,,,,,,,,,,,,,,,,,
-P0178,,,,,,,,,,,,,,,,,,,,
+P0176,Dedijer ,Vladimir,en,NULL,NULL,NULL,NULL,1914,1990,,,MIRA,,,,,2017-10-08,MG,2017-10-08,MG
+P0176,杰吉耶尔,弗拉吉米尔,zh,NULL,NULL,NULL,NULL,1914,1990,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0177,De Santis,Giuseppe,it,NULL,NULL,NULL,NULL,MIRA,,,,MIRA,,,,,2017-10-08,MG,2017-10-08,MG
+P0177,德桑蒂斯,朱塞佩,zh,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0178,Charles,Darwin,en,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0178,MIRA,,zh,NULL,NULL,NULL,NULL,MIRA,,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0179,Crankshaw ,Edward ,en,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0179,MIRA,,zh,NULL,NULL,NULL,NULL,MIRA,,,,,,,,,2017-10-08,MG,2017-10-08,MG
