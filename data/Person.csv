@@ -325,11 +325,13 @@ P0174,Mao,Zedong,en,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,2017-10-03,MG,201
 P0174,毛,泽东,zh,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,2017-10-03,MG,2017-10-03,MG
 P0175,Peng,Yilin,en,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0175,,,zh,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0176,Dedijer ,Vladimir,en,NULL,NULL,NULL,NULL,1914,1990,,,MIRA,,,,,2017-10-08,MG,2017-10-08,MG
-P0176,杰吉耶尔,弗拉吉米尔,zh,NULL,NULL,NULL,NULL,1914,1990,,,,,,,,2017-10-08,MG,2017-10-08,MG
-P0177,De Santis,Giuseppe,it,NULL,NULL,NULL,NULL,MIRA,,,,MIRA,,,,,2017-10-08,MG,2017-10-08,MG
-P0177,德桑蒂斯,朱塞佩,zh,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
-P0178,Charles,Darwin,en,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
-P0178,MIRA,,zh,NULL,NULL,NULL,NULL,MIRA,,,,,,,,,2017-10-08,MG,2017-10-08,MG
-P0179,Crankshaw ,Edward ,en,NULL,NULL,NULL,NULL,,,,,,,,,,2017-10-08,MG,2017-10-08,MG
-P0179,MIRA,,zh,NULL,NULL,NULL,NULL,MIRA,,,,,,,,,2017-10-08,MG,2017-10-08,MG
+P0176,Dedijer ,Vladimir,en,NULL,NULL,NULL,NULL,1914,1990,,,PL0088,,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,2017-10-08,MG,2017-10-09,MG
+P0176,杰吉耶尔,弗拉吉米尔,zh,NULL,NULL,NULL,NULL,1914,1990,,,PL0088,,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,2017-10-08,MG,2017-10-09,MG
+P0177,De Santis,Giuseppe,it,NULL,NULL,NULL,NULL,1917,1997,,,PL0086,,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,2017-10-08,MG,2017-10-09,MG
+P0177,德桑蒂斯,朱塞佩,zh,NULL,NULL,NULL,NULL,1917,1997,,,PL0086,,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,2017-10-08,MG,2017-10-09,MG
+P0178,Darwin,Charles,en,NULL,NULL,NULL,NULL,1809,1882,,,PL0085,,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,2017-10-08,MG,2017-10-09,MG
+P0178,达尔文,查尔斯,zh,NULL,NULL,NULL,NULL,1809,1882,,,PL0085,,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,2017-10-08,MG,2017-10-09,MG
+P0179,Crankshaw ,Edward ,en,NULL,NULL,NULL,NULL,1909,1984,,,PL0087,,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,2017-10-08,MG,2017-10-09,MG
+P0179,MIRA,,zh,NULL,NULL,NULL,NULL,1909,1984,,,PL0087,,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,2017-10-08,MG,2017-10-09,MG
+P0180,Song,Yongyi,en,,,,,1949,,,,PL0003,,,https://fr.wikipedia.org/wiki/Song_Yongyi,,2017-10-09,MG,2017-10-09,MG
+P0180,宋,永毅,zh,,,,,1949,,,,PL0003,,,https://fr.wikipedia.org/wiki/Song_Yongyi,,2017-10-09,MG,2017-10-09,MG
