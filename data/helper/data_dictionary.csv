@@ -35,9 +35,9 @@ Text,publication_date,date of first publication in original language,,2017-07-04
 Text,publishing_house,name of publishing house,provide pinyin for Chinese publishing houses,2017-07-04,LH,2017-07-04,LH
 Text,first_chin_edition,year of first edition in China,,2017-07-04,LH,2017-07-04,LH
 Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,,,,
-Text,neibu,yes/no whether this was originally a neibu publication,,2017-07-04,LH,2017-07-04,LH
+Text,neibu,"yes/no whether this was originally a neibu publication, add „0“ for every publication starting from 1980",,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is reorded,column may remain empty if this line records an academic or autobiographical text,2017-07-04,LH,2017-07-04,LH
-Text,page_number,Page number in text that the colum source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Text,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,note,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,2017-07-04,LH,2017-07-04,LH
 Text,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Text,created_by,name of project member creating this line,use acronym,2017-07-04,LH,2017-07-04,LH
@@ -73,7 +73,7 @@ Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Institution,last_modified_by,name of project member last modifying this line,use acronym,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 Place,place_ID,PL and a five-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
-Place,place_name,"Name of a place in English, e.g. Shanghai, Cologne,  Rome",,2017-07-04,LH,2017-07-12,OS
+Place,place_name,"Name of a place in English, e.g. Shanghai, Cologne, Rome",,2017-07-04,LH,2017-07-12,OS
 Place,long,geo.data,,2017-07-04,LH,2017-07-04,LH
 Place,lat,geo.data,,2017-07-04,LH,2017-07-04,LH
 Place,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
