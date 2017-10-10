@@ -169,15 +169,18 @@ T00100,Discourses on Salt and Iron,,en,,G24,,,,,,,,,,,,,
 T00100,盐铁论,,zh,,G24,,,,,,,,,,,,,
 T00101,Shen Mie Lun,,en,,G24,,,,,,,,,,,,,
 T00101,神灭论,,zh,,G24,,,,,,,,,,,,,
-T00102,Krushchev,A Career,en,P0179,,,,,,,no,MIRA,327,,2017-10-08,MG,2017-10-08,MG
-T00102,MIRA,,zh,P0179,,,,,,,no,MIRA,327,,2017-10-08,MG,2017-10-08,MG
+T00102,Krushchev,A Career,en,P0179,G02,,1973,SDX Joint Publishing Company,,,no,T00108,327,,2017-10-08,MG,2017-10-09,MG
+T00102,赫鲁晓夫,回忆录,zh,P0179,G02,,1973,SDX Joint Publishing Company,,,no,T00108,327,,2017-10-08,MG,2017-10-09,MG
 T00103,,,,P0178,,,,,,,,T00030,52,,2017-10-08,MG,2017-10-08,MG
 T00103,"""广泛的求知欲，往往可以使人成为有系统的博物学家""",,zh,P0178,,,,,,quotation and comment,,T00030,52,,2017-10-08,MG,2017-10-08,MG
-T00104,Rome 11 o'clock,,en,P0177,,,,,,,no,MIRA,,,2017-10-08,MG,2017-10-08,MG
-T00104,罗马十一点钟,,zh,P0177,,,,,,,no,MIRA,,,2017-10-08,MG,2017-10-08,MG
+T00104,Rome 11 o'clock,,en,P0177,,,,,,,no,T00109,,,2017-10-08,MG,2017-10-08,MG
+T00104,罗马十一点钟,,zh,P0177,,,,,,,no,T00109,,,2017-10-08,MG,2017-10-08,MG
 T00105,Tito,,en,P0176,G02,,1963,,,,yes,T00045,159,,2017-10-08,MG,2017-10-08,MG
 T00105,铁托传,,zh,P0176,G02,,1963,,,,yes,T00045,159,,2017-10-08,MG,2017-10-08,MG
 T00106,David Copperfield,,en,P0160,G04,,,,,,no,T00029,118f,,2017-10-08,MG,2017-10-08,MG
 T00106,大卫科波菲尔,,zh,P0160,G04,,,,,,no,T00029,118f,,2017-10-08,MG,2017-10-08,MG
 T00107,A Tale of Two Cities,,en,P0160,G04,,,,,,no,T00075,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution, when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given, though)",2017-10-08,MG,2017-10-08,MG
 T00107,双城记,,zh,P0160,G04,,,,,,no,T00075,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution, when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given, though)",2017-10-08,MG,2017-10-08,MG
+T00108,“A Glance at the Underground Reading Movement during the Cultural Revolution”,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,"Vol. 16, no. 51, 325-333",,NULL,NULL,,2017-10-09,MG,2017-10-09,MG
+T00109,Memorial for Not Forgetting,remembering My friend Zhu Shixian,en,P0031,G19,,2010,Remembrance,,no. 53 July 15,,NULL,NULL,,2017-10-09,MG,2017-10-09,MG
+T00109,为了不忘却的纪念,忆难友朱时贤,zh,P0031,G19,,2010,Remembrance,,no. 53 July 15,,NULL,NULL,,2017-10-09,MG,2017-10-09,MG
