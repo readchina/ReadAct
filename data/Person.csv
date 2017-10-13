@@ -33,16 +33,16 @@ P0016,Zhou,Duo,en,,,,,,,,,,,,,,Zhou Duo 1999 p 210,,2017-07-05,LH,2017-07-12,OS
 P0016,周,舵,zh,,,,,,,,,,,,,,Zhou Duo 1999 p 210,,2017-07-05,LH,2017-07-12,OS
 P0017,Ma,Jia,en,,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,,2017-07-05,LH,2017-07-12,OS
 P0017,马,佳,zh,,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,,2017-07-05,LH,2017-07-12,OS
-P0018,Yan,Li,en,,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-07-12,OS
-P0018,严,力,zh,,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-07-12,OS
-P0019,Guo,Lusheng,en,,,,,,1948,,Shi Zhi ,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-07-12,OS
-P0019,郭,路生,zh,,,,,,1948,,食指,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-07-12,OS
+P0018,Yan,Li,en,male,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-10-13,MG
+P0018,严,力,zh,male,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-10-13,MG
+P0019,Guo,Lusheng,en,male,,,,,1948,,Shi Zhi ,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-10-13,MG
+P0019,郭,路生,zh,male,,,,,1948,,食指,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-10-13,MG
 P0020,Gao,Hua,en,,,,,,1954,2012,,,,,Indirect,,Gao Hua 2006 p 132-139,,2017-07-05,LH,2017-07-12,OS
 P0020,高,华,zh,,,,,,1954,2012,,,,,Indirect,,Gao Hua 2006 p 132-139,,2017-07-05,LH,2017-07-12,OS
-P0021,Guo,Shiying,en,,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-07-17,OS
-P0021,郭,世英,zh,,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-07-17,OS
-P0022,Zhang,Heci,en,,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-07-17,OS
-P0022,张,鹤慈,zh,,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-07-17,OS
+P0021,Guo,Shiying,en,male,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
+P0021,郭,世英,zh,male,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
+P0022,Zhang,Heci,en,male,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
+P0022,张,鹤慈,zh,male,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
 P0023,Yang,Sanbai,en,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,,2017-07-05,LH,2017-07-12,OS
 P0023,杨,三白,zh,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,,2017-07-05,LH,2017-07-12,OS
 P0024,Song,Haiquan,en,,,,,,1936 (?),,,,,,,,Wang Shiqiang 2014 p 75 79f,,2017-07-05,LH,2017-07-12,OS
@@ -131,8 +131,8 @@ P0065,Zhang,Zhenzhou,en,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,201
 P0065,张,振州,zh,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0066,Gan,Lulin,en,,,,,,-1972or 1973,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0066,甘,露林,zh,,,,,,-1972or 1973,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
-P0067,Yu,Zhixin,en,,,,,PL0002,,,Yu Tiesheng,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
-P0067,于,植信,zh,,,,,PL0002,,,于铁生 ,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
+P0067,Yu,Zhixin,en,male,,,,PL0002,,,Yu Tiesheng,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-10-13,MG
+P0067,于,植信,zh,male,,,,PL0002,,,于铁生 ,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-10-13,MG
 P0068,Zhang,Runfeng,en,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0068,张,润峰,zh,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0069,Yang,Xiamin,en,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
@@ -147,7 +147,7 @@ P0073,Rae,Yang,en,,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,,2017-
 P0073,杨,瑞,zh,,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0074,Bai,Di,en,,,,,,1954,,,,,,,,Zhong Wang Bai 2001,,2017-07-05,LH,2017-07-12,OS
 P0074,柏,棣,zh,,,,,,1954,,,,,,,,Zhong Wang Bai 2001,,2017-07-05,LH,2017-07-12,OS
-P0075,Chen,Xiaomei,en,,,1969,1973,Beidahuang,1954,,,,,,,,Zhong Wang Bai 2001,,2017-07-05,LH,2017-07-12,OS
+P0075,Chen,Xiaomei,en,female,,1969,1973,Beidahuang,1954,,,,,,,,Zhong Wang Bai 2001,,2017-07-05,LH,2017-10-13,MG
 P0076,Aitmatov,Chinghiz,en,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,2017-07-09,OS,2017-10-13,MG
 P0076,艾特玛托夫 ,钦吉斯,zh,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,2017-07-09,OS,2017-10-13,MG
 P0076,Чыңгыз ,Айтматов,ky,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,2017-07-09,OS,2017-10-13,MG
@@ -171,8 +171,8 @@ P0084,Ἀριστοτέλης,,,male,,,,,,,,,,,,,,,,,,
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,2017-07-09,OS,2017-07-12,OS
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,2017-07-09,OS,2017-07-12,OS
 P0085,Арцыба́шев,Михаи́л ,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,2017-07-09,OS,2017-07-12,OS
-P0086,Ba ,Jin,en,,NULL,NULL,NULL,NULL,1904,2005,Li Yaotang,en,PL0004,,,,,,2017-07-10,OS,2017-07-12,OS
-P0086,巴,金,zh,,NULL,NULL,NULL,NULL,1904,2005,李尧棠,zh,PL0004,,,,,,2017-07-10,OS,2017-07-12,OS
+P0086,Ba ,Jin,en,male,NULL,NULL,NULL,NULL,1904,2005,Li Yaotang,en,PL0004,,,,,,2017-07-10,OS,2017-10-13,MG
+P0086,巴,金,zh,male,NULL,NULL,NULL,NULL,1904,2005,李尧棠,zh,PL0004,,,,,,2017-07-10,OS,2017-10-13,MG
 P0087,Baba,Corneliu,en,male,NULL,NULL,NULL,NULL,1906,1997,Baba ,en,PL0033,,,,,,2017-07-10,OS,2017-10-13,MG
 P0087,科内里,巴巴,zh,male,NULL,NULL,NULL,NULL,1906,1997,巴巴柯尔尼留,zh,PL0033,,,,,,2017-07-10,OS,2017-10-13,MG
 P0088,Babayevsky,Semyon ,en,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,,,,2017-07-10,OS,2017-10-13,MG
@@ -202,12 +202,12 @@ P0098,Bernstein,Eduard,en,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,,,,2017-
 P0098,伯恩施坦,爱德华,zh,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,,,,2017-07-10,OS,2017-10-13,MG
 P0099,Bi ,Ruxie,en,,,,,,,,,,,,,,,,2017-07-10,OS,2017-07-12,OS
 P0099,毕,汝协,zh,,,,,,,,毕汝谐,zh,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0100,Bian,Zhilin,en,,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,2017-07-10,OS,2017-07-12,OS
-P0100,卞,之琳,zh,,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,2017-07-10,OS,2017-07-12,OS
+P0100,Bian,Zhilin,en,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,2017-07-10,OS,2017-10-13,MG
+P0100,卞,之琳,zh,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,2017-07-10,OS,2017-10-13,MG
 P0101,Blake ,William ,en,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,,,,2017-07-10,OS,2017-10-13,MG
 P0101,布雷克,威廉,zh,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,,,,2017-07-10,OS,2017-10-13,MG
-P0102,Bo,Hua,en,,,,,,1956,,,,,,,,,,2017-07-10,OS,2017-07-12,OS
-P0102,柏,桦,zh,,,,,,1956,,,,,,,,,,2017-07-10,OS,2017-07-12,OS
+P0102,Bo,Hua,en,male,,,,,1956,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
+P0102,柏,桦,zh,male,,,,,1956,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
 P0103,Boccaccio,Giovanni ,en,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,,,,2017-07-10,OS,2017-10-13,MG
 P0103,薄伽丘,乔万尼,zh,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,,,,2017-07-10,OS,2017-10-13,MG
 P0104,Brahms,Johannes,en,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,,,,2017-07-10,OS,2017-10-13,MG
@@ -220,11 +220,11 @@ P0107,Wang ,Shiqiang,en,,,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0107,王,士强,zh,,,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,Xu ,Xiao,en,,yes,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,徐,晓 ,zh,,yes,,,,1954,,,,PL0003,,,,,,2017-07-12,OS,2017-07-12,OS
-P0109,Shu ,Ting,en,,yes,1969,1972,?,1952,,Gong Peiyu,en,PL0056,?,?,,,,2017-07-18,LH,2017-10-06,DP
-P0109,舒,婷,zh,,yes,1969,1972,?,1952,,龚佩瑜 ,zh,PL0056,?,?,,,,2017-07-18,LH,2017-10-06,DP
+P0109,Shu ,Ting,en,female,yes,1969,1972,?,1952,,Gong Peiyu,en,PL0056,?,?,,,,2017-07-18,LH,2017-10-13,MG
+P0109,舒,婷,zh,female,yes,1969,1972,?,1952,,龚佩瑜 ,zh,PL0056,?,?,,,,2017-07-18,LH,2017-10-13,MG
 P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
 P0110,Горький ,Максим,ru,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
-P0110,高尔基,,zh,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
+P0110,高尔基,马克西姆,zh,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
 P0115,Brodsky,Joseph,en,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
 P0115,Бродский,Иосиф ,zh,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
 P0115,布罗茨基,约瑟夫,ru,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
