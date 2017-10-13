@@ -3,8 +3,8 @@ Person,person_id,P and a five-digit number,with leading zeros if necessary,2017-
 Person,family_name,"Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren), Bei for Bei Dao (not Zhao Zhenkai)",,2017-07-04,LH,2017-07-04,LH
 Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,EN,2017-07-04,LH,2017-07-12,OS
-Person,sex,"„male“ or „female“. If you have encountered any other possiblity, please open an issue. :-)",,,,,
-Person,rustication,"records whether or when a person experienced rustication; write ""NULL"", if not, provide year for yes",,2017-07-04,LH,2017-07-18,DP
+Person,sex,"'male' or 'female'. If you have encountered any other possiblity, please open an issue. :-)",,,,,
+Person,rustication,"records whether or when a person experienced rustication; write 'NULL', if not, provide year for yes",,2017-07-04,LH,2017-07-18,DP
 Person,place_of_rust,place of rustication (or major place of rustication if several),,2017-07-04,LH,2017-07-04,LH
 Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
 Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
@@ -22,7 +22,7 @@ Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified_by,name of project member last modifying this line,use acronym,2017-07-04,LH,2017-07-04,LH
 ,,,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,soc_pos_id,SP and a four-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
-SocialPosition,soc_pos_name,"Name of a social position; it is only necessary to record the SP of persons who were reading; not of those who are „only“ authors in our data-set, i.e. Shakespeare or Lu Xun",,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_name,"Name of a social position; it is only necessary to record the SP of persons who were reading; not of those who are 'only' authors in our data-set, i.e. Shakespeare or Lu Xun",,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created_by,name of project member creating this line,use acronym,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -30,14 +30,14 @@ SocialPosition,last_modified_by,name of project member last modifying this line,
 ,,,,2017-07-04,LH,2017-07-04,LH
 Text,text_id,T and a five-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-04,LH
 Text,title,"Title of a text; for the texts discussed by readers in autobiographical texts, create separate lines for a) title in Chinese characters; b) title in original language (if German, French, Italian, English) or English (esp. for texts originally in Russian)",,2017-07-04,LH,2017-07-04,LH
-Text,title_lang,"Language code of this title, „en“ or „zh“ only",,2017-07-04,LH,2017-07-04,LH
+Text,title_lang,"Language code of this title, 'en' or 'zh' only",,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
 Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
 Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
 Text,publishing_house,name of publishing house,provide pinyin for Chinese publishing houses,2017-07-04,LH,2017-07-04,LH
 Text,first_chin_edition,"year of first edition in China. This is a nice-to-have category, please do not invest too much time in finding out! We will keep it for the moment, but the contained information may be deleted or copied elsewhere.",,2017-07-04,LH,2017-07-04,LH
 Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,2017-10-12,OS,2017-10-12,OS
-Text,neibu,"yes/no whether this was originally a neibu publication, add „NULL“ for every publication starting from 1980",,2017-07-04,LH,2017-07-04,LH
+Text,neibu,"yes/no whether this was originally a neibu publication, add 'NULL' for every publication starting from 1980",,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is reorded,column may remain empty if this line records an academic or autobiographical text,2017-07-04,LH,2017-07-04,LH
 Text,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,commentary,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,2017-07-04,LH,2017-07-04,LH
@@ -49,7 +49,7 @@ Text,last_modified_by,name of project member last modifying this line,use acrony
 ,,,,2017-07-04,LH,2017-07-04,LH
 Genre,genre_id,G and a two-digit number,with leading zeros if necessary,2017-07-04,LH,2017-07-12,OS
 Genre,genre_name,"name of a genre, preferrably English terms; if necessary, use Chinese pinyin",,2017-07-04,LH,2017-07-04,LH
-Genre,genre_name_lang,"Language code of this name, „en“ or „zh“ only",,2017-07-04,LH,2017-07-12,OS
+Genre,genre_name_lang,"Language code of this name, 'en' or 'zh' only",,2017-07-04,LH,2017-07-12,OS
 Genre,genre_type,genre type of higher ranking order,i.e. fiction as a broad category for short story,2017-07-04,LH,2017-07-04,LH
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Genre,created_by,name of project member creating this line,use acronym,2017-07-04,LH,2017-07-04,LH
