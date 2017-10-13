@@ -39,7 +39,7 @@ Text,first_chin_edition,"year of first edition in China. This is a nice-to-have 
 Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,2017-10-12,OS,2017-10-12,OS
 Text,neibu,"yes/no whether this was originally a neibu publication, add 'NULL' for every publication starting from 1980",,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is reorded,column may remain empty if this line records an academic or autobiographical text,2017-07-04,LH,2017-07-04,LH
-Text,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Text,pages,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,commentary,"Space for background information on the text, if necessary; for example reference to translation of a poem into English; on when a text was written…",,2017-07-04,LH,2017-07-04,LH
 Text,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,,,,
 Text,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
