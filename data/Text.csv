@@ -27,15 +27,15 @@ T00014,Life  Books and Poems,,en,P0109,G03,PL00054,1999,Xinjiang qingshaonian ch
 T00014,生活、书籍与诗歌,,zh,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,,NULL,,,,,2017-07-19,LH,2017-07-24,DP
 T00015,My Apprenticeship,,en,P0110,G03,PL0002,1956,Renmin wenxue chubanshe ,,,no,T00006,,,,2017-07-19,LH,2017-10-16,MG
 T00015,在人间,,zh,P0110,G03,PL0002,1956,Renmin wenxue chubanshe ,,,no,T00006,,,,2017-07-19,LH,2017-10-16,MG
-T00015,V lyudyakh,,ru,P0110,G03,PL0002,1956,Renmin wenxue chubanshe ,,,no,T00006,,,MIRA,2017-07-19,LH,2017-10-16,MG
+T00015,V lyudyakh,,ru,P0110,G03,PL0002,1956,Renmin wenxue chubanshe ,,,no,T00006,,,,2017-07-19,LH,2017-10-16,MG
 T00021,Less than One,,en,P0115,G01,,,,,,,,,,MIRA: WE NEED TO CHECK THE SOURCE OFFICIAL PUBLICATION NOT 1979 BUT 1984,2017-07-18,OS,2017-07-18,OS
 T00021,小于一,,zh,P0115,G01,,,,,,,,,,,2017-07-18,OS,2017-07-18,OS
 T00022,Der Prozess,,de,P0116,G04,PL0003,1966,Zuojia chubanshe,,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,,2017-07-19,OS,2017-07-19,OS
 T00022,审判及其它,,zh,P0116,G04,PL0003,1966,Zuojia chubanshe,,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,,2017-07-19,OS,2017-07-19,OS
 T00023,On the road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,,yes,T00011,78,According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Shi Rong 石荣 and others.  ,,2017-07-20,OS,2017-10-02,DP
 T00023,在路上,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,,yes,T00011,78,,,2017-09-27,MG,2017-09-27,MG
-T00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,,Shijie zhishi chubanshe,1963,,yes,T00005,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-02,DP
-T00024,新阶级,对共产主义制度的分析,zh,P0118,G24,PL0002,,Shijie zhishi chubanshe,1963,,yes,T00005,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-02,DP
+T00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,,yes,T00005,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-16,MG
+T00024,新阶级,对共产主义制度的分析,zh,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,,yes,T00005,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-16,MG
 T00025,Letters Between Two,,eh,P0001,G25,PL0003,1933,Beixin shuju,1933,,no,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-07-27,LH
 T00025,两地书,,zh,P0001,G25,PL0003,1933,Beixin shuju,1933,,no,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-07-27,LH
 T00026,I Almost Killed Someone That Year,,en,P0119,G03,http://www.xujuneberlein.com/rem48.html,2010,Remembrance,2010,,no,T00026,,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
@@ -48,12 +48,12 @@ T00029,‘Meeting by chance’,Memories of books and the reading in my memories,
 T00029,“不期而遇”,对书的记忆与记忆中的读书,zh,P0029,G03,PL0002,2012,Sanlian shudian,2012,,no,T00029,116-125,,,2017-07-28,LH,2017-07-28,LH
 T00030,The Literary Inquisition of ‘The Second Handshake’,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,,no,T00030,,In this book  Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
 T00030,《第二次握手》文字狱,,zh,P0120,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,,no,T00030,,In this book  Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
-T00040,Les Fleurs du Mal,,fr,P0093,G10,PL0047,1857,,1922,,,T00043,454,手抄本,,2017-08-07,MG,2017-08-11,MG
-T00040,恶之华,,zh,P0093,G10,PL0047,1857,,1922,,,T00043,454,手抄本,,2017-08-07,MG,2017-08-11,MG
-T00041,Ciel brouillé,,fr,P0093,G10,PL0047,1857,,1922,,,T00044,539,,,2017-08-07,MG,2017-08-07,MG
-T00041,乌云密布的天空,,zh,P0093,G10,PL0047,1857,,1922,,,T00044,539,,,2017-08-07,MG,2017-08-07,MG
-T00042,Le Balcon,,fr,P0093,G10,PL0047,1857,,1922,,,T00044,533,,,2017-08-07,MG,2017-08-07,MG
-T00042,阳台,,zh,P0093,G10,PL0047,1857,,1922,,,T00044,533,,,2017-08-07,MG,2017-08-07,MG
+T00040,Les Fleurs du Mal,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00043,454,手抄本,First french edition of Les Fleurs du Mal 1857,2017-08-07,MG,2017-10-16,MG
+T00040,恶之华,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00043,454,手抄本,,2017-08-07,MG,2017-10-16,MG
+T00041,Ciel brouillé,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00044,539,,,2017-08-07,MG,2017-10-16,MG
+T00041,乌云密布的天空,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00044,539,,,2017-08-07,MG,2017-10-16,MG
+T00042,Le Balcon,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00044,533,,,2017-08-07,MG,2017-10-16,MG
+T00042,阳台,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,T00044,533,,,2017-08-07,MG,2017-10-16,MG
 T00043,Dreams and memories,,en,P0132,G03,PL0002,2009,Sanlian shudian,,,NULL,,,,,2017-08-08,MG,2017-08-11,MG
 T00043,梦想与回忆,,zh,P0132,G03,PL0002,2009,Sanlian shudian,,,NULL,,,,,2017-08-08,MG,2017-08-11,MG
 T00044,Qishi niandai,,zh-Latn-py,P0009,G03,PL0002,2009,Sanlian shudian,,,NULL,,,,,2017-08-07,MG,2017-08-11,MG
@@ -63,12 +63,12 @@ T00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chuba
 T00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,,NULL,,,,,2017-08-11,MG,2017-08-11,MG
 T00050,,,en,P0082,G04,PL0002,,,,,,T00045,24,THE NOVEL CANNOT BE FOUND,,2017-08-20,MG,2017-10-02,DP
 T00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,,T00045,24,recommended by Guo Shiyin / It's about a man left his father and devoted himself in dangerous work  the reader said it is similar to his situation.,,2017-08-20,MG,2017-08-20,MG
-T00051,Morning Shadow,,en,P0085,G04,PL0003,1927,,1927,,,T00045,18,?,,2017-08-20,MG,2017-10-02,DP
-T00051,工人绥惠略夫,,zh,P0085,G04,PL0003,1927,,1927,,,T00045,18,recommended by Guo Shiyin,,2017-08-20,MG,2017-08-20,MG
-T00052,Gambara,,fr,P0092,G21,PL0047,1837,,,,,T00045,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine,,2017-08-25,MG,2017-08-25,MG
-T00052,钢巴拉,,zh,P0092,G21,PL0047,1837,,,,,T00045,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine,,2017-08-25,MG,2017-08-25,MG
-T00053,Eugénie Grandet,,fr,P0092,G04,PL0047,1833,,,,,T00044,555,A novel in Scènes de la vie en province in La Comédie Humaine,,2017-08-25,MG,2017-08-25,MG
-T00053,欧也妮·葛朗台,,zh,P0092,G04,PL0047,1833,,,,,T00044,555,A novel in Scènes de la vie en province in La Comédie Humaine,,2017-08-25,MG,2017-08-25,MG
+T00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxueshe,,,,T00045,18,?,,2017-08-20,MG,2017-10-16,MG
+T00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxueshe,,,,T00045,18,recommended by Guo Shiyin,,2017-08-20,MG,2017-10-16,MG
+T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,T00045,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine,First french edition 1837,2017-08-25,MG,2017-10-16,MG
+T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,T00045,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine,First french edition 1837,2017-08-25,MG,2017-10-16,MG
+T00053,Eugénie Grandet,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,,T00044,555,A novel in Scènes de la vie en province in La Comédie Humaine,french edition 1833,2017-08-25,MG,2017-10-16,MG
+T00053,欧也妮·葛朗台,,zh,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,,T00044,555,A novel in Scènes de la vie en province in La Comédie Humaine,french edition 1833,2017-08-25,MG,2017-10-16,MG
 T00054,?,,,P0086,,,,,,,,T00005,569f,,MIRA,2017-08-25,MG,2017-08-25,MG
 T00054,?,,,P0086,,,,,,,,T00005,569f,,MIRA,2017-08-25,MG,2017-08-25,MG
 T00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,,no,T00006,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
