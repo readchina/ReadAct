@@ -35,10 +35,11 @@ Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
 Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
 Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
 Text,publishing_house,name of publishing house (hanzi + pinyin),,2017-07-04,LH,2017-07-04,LH
-Text,first_chin_edition,year of first edition in China. This is a nice-to-have category. Please do not invest too much time in finding out! Column might be refactored later on. ,,2017-07-04,LH,2017-07-04,LH
+Text,first_chin_edition,"year of first edition in China, where easily available. Data is incomplete. ",,2017-07-04,LH,2017-07-04,LH
 Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,2017-10-12,OS,2017-10-12,OS
 Text,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is recorded. Column may remain empty if this line records an academic or autobiographical text,,2017-07-04,LH,2017-07-04,LH
+Text,serial_part,additional citation ranges for serials such as volume or issue.,,,,,
 Text,pages,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,commentary,Space for background information on the text. If necessary; for example reference to translation of a poem into English; on when a text was written…,,2017-07-04,LH,2017-07-04,LH
 Text,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
