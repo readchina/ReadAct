@@ -69,8 +69,8 @@ T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,T00045,,38,This b
 T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine,First french edition 1837,2017-08-25,MG,2017-10-16,MG
 T00053,Eugénie Grandet,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,,T00044,,555,A novel in Scènes de la vie en province in La Comédie Humaine,french edition 1833,2017-08-25,MG,2017-10-16,MG
 T00053,欧也妮·葛朗台,,zh,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,,T00044,,555,A novel in Scènes de la vie en province in La Comédie Humaine,french edition 1833,2017-08-25,MG,2017-10-16,MG
-T00054,?,,,P0086,,,,,,,,T00005,,569f,,MIRA,2017-08-25,MG,2017-08-25,MG
-T00054,?,,,P0086,,,,,,,,T00005,,569f,,MIRA,2017-08-25,MG,2017-08-25,MG
+T00054,?,,,P0086,,,,,,,,T00005,,569f,No title mentioned in the old text file,MIRA,2017-08-25,MG,2017-08-25,MG
+T00054,?,,,P0086,,,,,,,,T00005,,569f,No title mentioned in the old text file,MIRA,2017-08-25,MG,2017-08-25,MG
 T00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 T00055,新越华报,,zh,I0001,G22,PL0064,,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 T00056,Light over the Earth,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,,yes,T00045,,7-10,?,,2017-08-26,MG,2017-10-02,DP
@@ -159,14 +159,14 @@ T00095,法兰西内战,,zh,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,,2017-1
 T00095,Der Bürgerkrieg in Frankreich,,de,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,,2017-10-24,MG
 T00096,Materialism and Empiriocriticism,,en,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,,2017-10-24,MG
 T00096,唯物主义和经验批判主义,,zh,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,,2017-10-24,MG
-T00097,Flowers in the Mirror,,en,,G04,,,,,,,,,,,,,,,
-T00097,镜花缘,,zh,,G04,,,,,,,,,,,,,,,
-T00098,Analects,,en,,G24,,,,,,,,,,,,,,,
-T00098,论语,,zh,,G24,,,,,,,,,,,,,,,
-T00099,Ten Crimes of Qin,,en,,G24,,,,,,,,,,,,,,,
-T00099,过秦论,,zh,,G24,,,,,,,,,,,,,,,
-T00100,Discourses on Salt and Iron,,en,,G24,,,,,,,,,,,,,,,
-T00100,盐铁论,,zh,,G24,,,,,,,,,,,,,,,
+T00097,Flowers in the Mirror,,en,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,,2017-10-25,MG
+T00097,镜花缘,,zh,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,,2017-10-25,MG
+T00098,Analects,,en,,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-25,MG
+T00098,论语,,zh,,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-25,MG
+T00099,Ten Crimes of Qin,,en,,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-25,MG
+T00099,过秦论,,zh,,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-25,MG
+T00100,Discourses on Salt and Iron,,en,,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-25,MG
+T00100,盐铁论,,zh,,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-25,MG
 T00101,Shen Mie Lun,,en,,G24,,,,,,,,,,,,,,,
 T00101,神灭论,,zh,,G24,,,,,,,,,,,,,,,
 T00102,Krushchev,A Career,en,P0179,G02,PL0002,1973,Sanlian shudian,,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
