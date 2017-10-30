@@ -14,7 +14,8 @@ Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,
 Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading; not of those who are only authors in our data-set such as Shakespeare or Lu Xun,,2017-07-04,LH,2017-07-04,LH
 Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add 0 in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
 Person,source_id,Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts. This can be left empty.,,2017-07-04,LH,2017-07-04,LH
-Person,page_number,Page number in text that the colum source_id refers to; for several pages use 7-10,,2017-07-04,LH,2017-07-04,LH
+Person,pages,Page number in a text that the column source_id refers to; for several pages use 7-10,,2017-07-04,LH,2017-07-04,LH
+Person,commentary,Please only add information relevant for our project (like '手抄本') or which helps to trace it (like 'part of xy anthology') or about its general importance. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
 Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -30,16 +31,15 @@ SocialPosition,last_modified_by,acronym of project member last modifying this li
 ,,,,,,,
 Text,text_id,T and a five-digit number (leading),,2017-07-04,LH,2017-07-04,LH
 Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
-Text,title_lang,Language code of this title ('en' or 'zh'),,2017-07-04,LH,2017-07-04,LH
+Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
-Text,publication_place,place of first publication,,2017-07-04,LH,2017-07-04,LH
-Text,publication_date,date of first publication in original language,,2017-07-04,LH,2017-07-04,LH
-Text,publishing_house,name of publishing house (hanzi + pinyin),,2017-07-04,LH,2017-07-04,LH
-Text,first_chin_edition,"year of first edition in China, where easily available. Data is incomplete. ",,2017-07-04,LH,2017-07-04,LH
-Text,physical_description,please add information in two cases: 1) if you have any information about the physical condition of the object 2) for internet source add: 'Internet Media Type',,2017-10-12,OS,2017-10-12,OS
+Text,publication_place  ,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+Text,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+Text,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+Text,first_chin_edition,year of first edition in China (where easily available). Data is incomplete. ,,2017-07-04,LH,2017-07-04,LH
 Text,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Reference to text in which a reading is recorded. Column may remain empty if this line records an academic or autobiographical text,,2017-07-04,LH,2017-07-04,LH
-Text,serial_part,additional citation ranges for serials such as volume or issue.,,,,,
+Text,serial_part,additional citation ranges for serials such as volume or issue,,,,,
 Text,pages,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,commentary,Space for background information on the text. If necessary; for example reference to translation of a poem into English; on when a text was written…,,2017-07-04,LH,2017-07-04,LH
 Text,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
@@ -107,8 +107,7 @@ Act,act_object,Object of an action (text_id),,2017-07-25,OS,2017-07-25,OS
 Act,act_target,person_id of targets of social actions (A gave B a gift),,2017-07-04,LH,2017-07-04,LH
 Act,start,Beginning (year) of an action / we cover reading acts between 1966 and 1981,,2017-07-04,LH,2017-07-04,LH
 Act,end,End (year) of an action. If only one year / point in time then use same as start year p.e. 1968-1968,,2017-07-04,LH,2017-07-04,LH
-Act,substantial_discussion,is the activity / text only mentioned briefly (>no) or substantially (>yes),,2017-07-04,LH,2017-07-04,LH
-Act,comment,if there is a substantial discussion; add substantial comment / summary or quotation from source,,2017-07-04,LH,2017-07-04,LH
+Act,substantial comment,if there is a substantial discussion; add substantial comment / summary or quotation from source. Try to limit it to three sentences at most.  ,,2017-07-04,LH,2017-07-04,LH
 Act,source_id,Reference to text in which an activity is recorded,,2017-07-04,LH,2017-07-04,LH
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
