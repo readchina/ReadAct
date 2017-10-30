@@ -104,9 +104,9 @@ T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,537,this po
 T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
 T00070,The Ninth Wave,,en,P0099,G04,,,,,,yes,T00045,,153-182 or 375-414,,,2017-09-15,MG,2017-09-15,MG
 T00070,九级浪,,zh,P0099,G04,,,,,,yes,T00045,,153-182 or 375-414,,,2017-09-15,MG,2017-09-15,MG
-T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,T00044,,534,?,,2017-09-15,MG,2017-10-02,DP
+T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,T00044,,534,,not sure about the english title,2017-09-15,MG,2017-10-30,MG
 T00071,献给爱琴海,,zh,P0102,G10,,,,,,,T00044,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2017-09-20,MG
-T00072,For a sick boy,,en,P0102,G10,,,,,,,T00044,,536,?,,2017-09-15,MG,2017-10-02,DP
+T00072,For a sick boy,,en,P0102,G10,,,,,,,T00044,,536,,not sure about the english title,2017-09-15,MG,2017-10-30,MG
 T00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,T00044,,536,influenced by Sylvia Plath‘s style written in 1979,,2017-09-15,MG,2017-09-15,MG
 T00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
 T00073,往上爬,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
@@ -161,26 +161,26 @@ T00096,Materialism and Empiriocriticism,,en,P0182,G24,PL0003,1949,Xinzhi lianhe 
 T00096,唯物主义和经验批判主义,,zh,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,,2017-10-24,MG
 T00097,Flowers in the Mirror,,en,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,,2017-10-25,MG
 T00097,镜花缘,,zh,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,,2017-10-25,MG
-T00098,Analects,,en,,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-25,MG
-T00098,论语,,zh,,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-25,MG
-T00099,Ten Crimes of Qin,,en,,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-25,MG
-T00099,过秦论,,zh,,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-25,MG
-T00100,Discourses on Salt and Iron,,en,,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-25,MG
-T00100,盐铁论,,zh,,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-25,MG
-T00101,Shen Mie Lun,,en,,G24,,,,,,,,,,,,,,,
-T00101,神灭论,,zh,,G24,,,,,,,,,,,,,,,
+T00098,Analects,,en,P0186,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-30,MG
+T00098,论语,,zh,P0186,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,,,,,2017-10-30,MG
+T00099,Ten Crimes of Qin,,en,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-30,MG
+T00099,过秦论,,zh,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,,2017-10-30,MG
+T00100,Discourses on Salt and Iron,,en,P0187,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-30,MG
+T00100,盐铁论,,zh,P0187,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,,2017-10-30,MG
+T00101,Shen Mie Lun,,en,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,,2017-10-30,MG
+T00101,神灭论,,zh,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,,2017-10-30,MG
 T00102,Krushchev,A Career,en,P0179,G02,PL0002,1973,Sanlian shudian,,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
 T00102,赫鲁晓夫,回忆录,zh,P0179,G02,PL0002,1973,Sanlian shudian,,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
-T00103,,,,P0178,,,,,,,,T00030,,52,,,2017-10-08,MG,2017-10-08,MG
-T00103,"""广泛的求知欲，往往可以使人成为有系统的博物学家""",,zh,P0178,,,,,,quotation and comment,,T00030,,52,,,2017-10-08,MG,2017-10-08,MG
-T00104,Rome 11 o'clock,,en,P0177,,,,,,,no,T00109,,,,,2017-10-08,MG,2017-10-08,MG
-T00104,罗马十一点钟,,zh,P0177,,,,,,,no,T00109,,,,,2017-10-08,MG,2017-10-08,MG
-T00105,Tito,,en,P0176,G02,,1963,,,,yes,T00045,,159,,,2017-10-08,MG,2017-10-08,MG
-T00105,铁托传,,zh,P0176,G02,,1963,,,,yes,T00045,,159,,,2017-10-08,MG,2017-10-08,MG
-T00106,David Copperfield,,en,P0160,G04,,,,,,no,T00029,,118f,,,2017-10-08,MG,2017-10-08,MG
-T00106,大卫科波菲尔,,zh,P0160,G04,,,,,,no,T00029,,118f,,,2017-10-08,MG,2017-10-08,MG
-T00107,A Tale of Two Cities,,en,P0160,G04,,,,,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-08,MG
-T00107,双城记,,zh,P0160,G04,,,,,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-08,MG
-T00108,"""A Glance at the Underground Reading Movement during the Cultural Revolution""",,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2017-10-25,DP
+T00103,,,,P0178,,,,,,,,T00030,,52,quotation and comment,,2017-10-08,MG,2017-10-08,MG
+T00103,广泛的求知欲 往往可以使人成为有系统的博物学家,,zh,P0178,,,,,,,,T00030,,52,quotation and comment,,2017-10-08,MG,2017-10-08,MG
+T00104,Rome 11 o'clock,,en,P0177,,,,,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-10-30,MG
+T00104,罗马十一点钟,,zh,P0177,,,,,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-10-30,MG
+T00105,Tito,,en,P0176,G02,PL0002,1963,Sanlian shudian ziliaoshi,,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
+T00105,铁托传,,zh,P0176,G02,PL0002,1963,Sanlian shudian ziliaoshi,,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
+T00106,David Copperfield,,en,P0160,G04,PL0003,1950,Sanlian shudian,,,no,T00029,,118f,,,2017-10-08,MG,2017-10-30,MG
+T00106,大卫科波菲尔,,zh,P0160,G04,PL0003,1950,Sanlian shudian,,,no,T00029,,118f,,,2017-10-08,MG,2017-10-30,MG
+T00107,A Tale of Two Cities,,en,P0160,G04,PL0003,1950,Sanlian shudian,,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-30,MG
+T00107,双城记,,zh,P0160,G04,PL0003,1950,Sanlian shudian,,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-30,MG
+T00108,A Glance at the Underground Reading Movement during the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2017-10-25,DP
 T00109,Memorial for Not Forgetting,remembering My friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,,,NULL,No 53,NULL,,,2017-10-09,MG,2017-10-25,DP
 T00109,为了不忘却的纪念,忆难友朱时贤,zh,P0031,G19,,2010-07-15,Remembrance,,,,NULL,No 53,NULL,,,2017-10-09,MG,2017-10-25,DP
