@@ -90,8 +90,8 @@ T00062,Waves,,en,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,T00044,,311,t
 T00062,波动,,zh,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,T00044,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2017-10-18,MG
 T00063,The Answer,,en,P0009,G10,PL0002,1978,,,,,T00044,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2017-09-08,MG
 T00063,回答,,zh,P0009,G10,PL0002,1978,,,,,T00044,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2017-09-08,MG
-T00064,,,en,P0009,G10,,,,,,,T00044,,312,,MIRA,2017-09-06,MG,2017-09-06,MG
-T00064,峭壁上的诗集,,zh,P0009,G10,,,,,,,T00044,,312,,MIRA,2017-09-06,MG,2017-09-06,MG
+T00064,The Window on the Cliffs ,,en,P0009,G10,,1982,,,,,T00044,,312,,MIRA,2017-09-06,MG,2017-10-31,CW
+T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,,T00044,,312,,MIRA,2017-09-06,MG,2017-10-31,CW
 T00065,,,en,P0009,G10,,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
 T00065,烟,,zh,P0009,G10,,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
 T00066,,,en,P0009,G10,,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
@@ -102,8 +102,8 @@ T00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,
 T00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
 T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
 T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
-T00070,The Ninth Wave,,en,P0099,G04,,,,,,yes,T00045,,153-182 or 375-414,,,2017-09-15,MG,2017-09-15,MG
-T00070,九级浪,,zh,P0099,G04,,,,,,yes,T00045,,153-182 or 375-414,,,2017-09-15,MG,2017-09-15,MG
+T00070,The Ninth Wave,,en,P0099,G06,,1970,,,,yes,T00045,,153-182 or 375-414,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,2017-09-15,MG,2017-10-31,CW
+T00070,九级浪,,zh,P0099,G06,,1970,,,,yes,T00045,,153-182 or 375-414,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,2017-09-15,MG,2017-10-31,CW
 T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,T00044,,534,?,,2017-09-15,MG,2017-10-02,DP
 T00071,献给爱琴海,,zh,P0102,G10,,,,,,,T00044,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2017-09-20,MG
 T00072,For a sick boy,,en,P0102,G10,,,,,,,T00044,,536,?,,2017-09-15,MG,2017-10-02,DP
@@ -118,8 +118,8 @@ T00076,L‘Étranger,,fr,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,,yes,T0
 T00076,局外人,,zh,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,,yes,T00005,,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,,2017-09-22,MG,2017-10-18,MG
 T00077,Dream of the Red Chamber,,en,P0152,G04,PL0003,1949,Kaiming shudian,,,,T00044,,372,,,2017-09-22,MG,2017-10-18,MG
 T00077,红楼梦,,zh,P0152,G04,PL0003,1949,Kaiming shudian,,,,T00044,,372,,,2017-09-22,MG,2017-10-18,MG
-T00078,Shouchang wenji,,en,P0157,G24,PL0002,1949,Beixin shuju faxingzhe,,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
-T00078,守常文集,,zh,P0157,G24,PL0002,1949,北新书局发行者,,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
+T00078,Shouchang wenji,,en,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
+T00078,守常文集,,zh,P0157,G01,PL0002,1949,北新书局发行者,,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
 T00079,City Lights,,en,P0158,,,1931,,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
 T00079,城市之光,,zh,P0158,,,1931,,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
 T00080,The Gold Rush,,en,P0158,,,1925,,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
@@ -130,12 +130,13 @@ T00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,T00043,,455
 T00082,卓别林自传,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
 T00083,The House with the Mezzanine,,en,P0159,G05,,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
 T00083,带阁楼的房子,,zh,P0159,G05,,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
-T00084,,,,P0132,G10,,,,,,no,T00043,,452,,,2017-09-29,MG,2017-09-29,MG
+T00084,For Mr. Yan Wenliang,,,P0132,G10,,,,,,no,T00043,,452,,,2017-09-29,MG,2017-10-31,CW
 T00084,为颜文梁先生作,,zh,P0132,G10,,,,,,no,T00043,,452,,,2017-09-29,MG,2017-09-29,MG
 T00085,What is to be done?,,en,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 T00085,怎么办 ?,,zh,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 T00085,Что делать? ,,ru,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
-T00086,守常文集,,zh,,G27,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
 T00087,Quotations from Chairman Mao Tse-tung,,en,,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,,2017-10-24,MG
 T00087,红宝书,,zh,,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,,2017-10-24,MG
 T00088,Project 571,,en,,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,,2017-10-24,MG
