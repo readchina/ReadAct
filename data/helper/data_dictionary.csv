@@ -5,16 +5,18 @@ Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
 Person,rustication,records whether or when a person experienced rustication; write 'NULL'  if not provide year for yes,,2017-07-04,LH,2017-07-18,DP
-Person,place_of_rust,place of rustication (or major place of rustication if several),,2017-07-04,LH,2017-07-04,LH
+Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
+Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
+Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
 Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
 Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
 Person,alt_name,Alternative family name under which a person may also be known i.e. Zhou Shuren for Lu Xun. Limit to one pseudonym per person.,,2017-07-04,LH,2017-07-04,LH
 Person,alt_name_lang,Language code of this name,,2017-07-04,LH,2017-07-04,LH
 Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
-Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading; not of those who are only authors in our data-set such as Shakespeare or Lu Xun,,2017-07-04,LH,2017-07-04,LH
-Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add 0 in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
-Person,source_id,Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts. This can be left empty.,,2017-07-04,LH,2017-07-04,LH
-Person,pages,Page number in a text that the column source_id refers to; for several pages use 7-10,,2017-07-04,LH,2017-07-04,LH
+Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading; not of those who are only authors in our data-set such as Shakespeare or Lu Xun. For the rest add 'NULL'.,,2017-07-04,LH,2017-07-04,LH
+Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add NULL in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
+Person,source_id,Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts. This can be an internet adress as well.,,2017-07-04,LH,2017-07-04,LH
+Person,page_number,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
 Person,commentary,Please only add information relevant for our project (like '手抄本') or which helps to trace it (like 'part of xy anthology') or about its general importance. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
 Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
