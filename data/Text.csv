@@ -7,11 +7,11 @@ T00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,y
 T00004,白轮船,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,,7-10,,,2017-07-12,OS,2017-07-12,OS
 T00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0, englische Übersetzung oder besser pinyin als Zusatz zum chin. Titel ,MIRA: please stick to the English language,2017-07-12,OS,2017-10-16,MG
+T00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,Xingzou zai lishi de heliu,,2017-07-12,OS,2017-11-04,MG
 T00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,,,2017-07-12,OS,2017-10-16,MG
 T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,none,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00007,韩少功,知青与寻根,zh,none,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00008,[A Collection of her works],,en,P0077,G10,,,,,NULL,T00009,,219, englische Übersetzung oder besser pinyin als Zusatz zum chin. Titel ,MIRA: please stick to the English language,2017-07-12,OS,2017-10-02,DP
+T00008,unknown,,en,P0077,G10,,,,,NULL,T00009,,219,A Collection of her works,,2017-07-12,OS,2017-11-04,MG
 T00009,Ma Jia fangtan lu,,en,P0017,G03,PL0002,2009,Sanlian shudian,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00009,马佳访谈录,,zh,P0017,G03,PL0002,2009,Sanlian shudian,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00010,Ticket to the Stars,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,,,,,,,2017-07-12,OS,2017-07-12,OS
@@ -40,8 +40,8 @@ T00026,I Almost Killed Someone That Year,,en,P0119,G03,http://www.xujuneberlein.
 T00026,那年我差点杀人,,zh,P0119,G03,http://www.xujuneberlein.com/rem48.html,2010,记忆,2010,no,,,,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
 T00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,http://www.xujuneberlein.com/rem72.html,2011,Remembrance,2011,no,,,,,,2017-07-27,LH,2017-07-27,LH
 T00027,春色谁为主，南北东西路——四中琐记,,zh,P0058,G03,http://www.xujuneberlein.com/rem72.html,2011,记忆,2011,no,,,,,,2017-07-27,LH,2017-07-27,LH
-T00028,Wild Grass,,en,P0001,G10,Beijing,1952,Renmin wenxue chubanshe ,1927,yes,T00028,,,,,2017-07-28,LH,2017-11-01,OS
-T00028,野草,,zh,P0001,G10,Beijing,1952,Renmin wenxue chubanshe ,1927,yes,T00028,,,,,2017-07-28,LH,2017-11-01,OS
+T00028,Wild Grass,,en,P0001,G10,PL0002,1952,Renmin wenxue chubanshe ,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
+T00028,野草,,zh,P0001,G10,PL0002,1952,Renmin wenxue chubanshe ,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
 T00029,‘Meeting by chance’,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,,,2017-07-28,LH,2017-07-28,LH
 T00029,"""不期而遇""",对书的记忆与记忆中的读书,zh,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,,,2017-07-28,LH,2017-07-28,LH
 T00030,The Literary Inquisition of ‘The Second Handshake’,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
@@ -67,8 +67,8 @@ T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This bo
 T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837 ,,2017-08-25,MG,2017-10-16,MG
 T00053,Eugénie Grandet,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,T00044,,555,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833 ,,2017-08-25,MG,2017-10-16,MG
 T00053,欧也妮·葛朗台,,zh,P0092,G04,PL0002,1954,Renmin wenxue chubanshe ,,,T00044,,555,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833 ,,2017-08-25,MG,2017-10-16,MG
-T00054,?,,,P0086,,,,,,,T00005,,569f,No title mentioned in the old text file,,2017-08-25,MG,2017-08-25,MG
-T00054,?,,,P0086,,,,,,,T00005,,569f,No title mentioned in the old text file,MIRA,2017-08-25,MG,2017-08-25,MG
+T00054,unknown,,,P0086,,,,,,,T00005,,569f,No title mentioned in the old text file,,2017-08-25,MG,2017-08-25,MG
+T00054,unknown,,,P0086,,,,,,,T00005,,569f,No title mentioned in the old text file,MIRA,2017-08-25,MG,2017-08-25,MG
 T00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 T00055,新越华报,,zh,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 T00056,Light over the Earth,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,?,,2017-08-26,MG,2017-10-02,DP
@@ -158,12 +158,12 @@ T00096,Materialism and Empiriocriticism,,en,P0182,G24,PL0003,1949,Xinzhi lianhe 
 T00096,唯物主义和经验批判主义,,zh,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,2017-10-24,MG
 T00097,Flowers in the Mirror,,en,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,2017-10-25,MG
 T00097,镜花缘,,zh,P0183,G04,PL0002,1955,Renmin wenxue chubanshe ,,,,,,,,,,2017-10-25,MG
-T00098,Analects,,en,P0186,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,pub house ,,,2017-10-30,MG
-T00098,论语,,zh,P0186,G24,PL0089,1963,Taiwan zhonghua shuju,,,,,,,pub house ,,,2017-10-30,MG
+T00098,Analects,,en,P0186,G24,PL0002,1962,Renmin chubanshe,,,,,,,pub house ,,,2017-11-04,MG
+T00098,论语,,zh,P0186,G24,PL0002,1962,Renmin chubanshe,,,,,,,pub house ,,,2017-11-04,MG
 T00099,Ten Crimes of Qin,,en,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
 T00099,过秦论,,zh,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
-T00100,Discourses on Salt and Iron,,en,P0187,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,2017-10-30,MG
-T00100,盐铁论,,zh,P0187,G24,PL0089,1956,Taiwan Shangwu Yinshuguan,,,,,,,,,,2017-10-30,MG
+T00100,Discourses on Salt and Iron,,en,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,,,2017-11-04,MG
+T00100,盐铁论,,zh,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,,,2017-11-04,MG
 T00101,Shen Mie Lun,,en,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,2017-10-30,MG
 T00101,神灭论,,zh,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,2017-10-30,MG
 T00102,Krushchev,A Career,en,P0179,G02,PL0002,1973,Sanlian shudian,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
