@@ -55,10 +55,10 @@ P0027,Zhang,Xinhua,en,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,,2017-07-05,LH,201
 P0027,张,新华,zh,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,,2017-07-05,LH,2017-07-12,OS
 P0028,Zhang,Jiuxing,en,,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,,2017-07-05,LH,2017-07-12,OS
 P0028,张,久兴,zh,,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,,2017-07-05,LH,2017-07-12,OS
-P0029,Wu,Hong,en,,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-07-12,OS
-P0029,巫,鸿,zh,,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-07-12,OS
-P0030,Dong,Shabei,en,,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
-P0030,董,沙贝,zh,,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
+P0029,Wu,Hong,en,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-11-07,LH
+P0029,巫,鸿,zh,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-11-07,LH
+P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-07,LH
+P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-07,LH
 P0031,Huang ,Guangzu ,en,male,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0031,黄,光祖,zh,male,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0032,Zhu ,Shixian ,en,male,,NULL,NULL,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
@@ -237,18 +237,18 @@ P0118,Милован,Ђилас,sr,male,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,,
 P0118,米洛凡,吉拉斯,zh,male,NULL,NULL,NULL,NULL,1911,1995,密洛凡德热拉斯,zh,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-25,MG,2017-10-13,MG
 P0119,Huang,Xiaolong,en,,yes,1963,1966,PL0006,1943,NULL,NULL,en,PL0012,,,T00026,,,2017-07-27,LH,2017-07-27,LH
 P0119,黄,晓龙,zh,,yes,1963,1966,PL0006,1943,NULL,NULL,zh,PL0012,,,T00026,,,2017-07-27,LH,2017-09-16,CW
+P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,2017-08-01,LH,2017-11-06,OS
+P0120,张, 扬,zh,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,2017-08-01,LH,2017-11-06,OS
 P0130,Xu,Chenggang,en,,,,,,,,,,,,,,,,2017-07-28,MG,2017-09-16,CW
 P0130,许,成钢,zh,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
 P0131,Li,Daxing,en,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
 P0131,李,大兴,zh,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
-P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,2017-08-01,LH,2017-11-06,OS
-P0120,张, 扬,zh,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,2017-08-01,LH,2017-11-06,OS
 P0132,Chen,Jianhua,en,,,,,,1956,,,,PL0061,,,https://zh.wikipedia.org/wiki/%E9%99%88%E5%BB%BA%E5%8D%8E,,Mira: are we sure that this is the guy we are looking for?,2017-08-07,MG,2017-08-07,MG
 P0132,陈,建华,zh,,,,,,1956,,,,PL0061,,,https://zh.wikipedia.org/wiki/%E9%99%88%E5%BB%BA%E5%8D%8E,,,2017-08-07,MG,2017-08-07,MG
 P0133,Bo,Hua,en,,,,,,1956,,,,PL0012,,,,,,2017-08-07,MG,2017-08-08,MG
 P0133,柏,桦,zh,,,,,,1956,,,,PL0012,,,,,,2017-08-07,MG,2017-08-08,MG
-P0134,Lin,Mang,en,,,,,,,,,,,,,,,,2017-08-11,MG,2017-08-11,MG
-P0134,林,莽 ,zh,,,,,,,,,,,,,,,,2017-08-11,MG,2017-08-11,MG
+P0134,Lin,Mang,en,male,,,,,,,,,,,,,,,2017-08-11,MG,2017-11-07,LH
+P0134,林,莽 ,zh,male,,,,,,,,,,,,,,,2017-08-11,MG,2017-11-07,LH
 P0135,Liao,Yiwu,en,male,0,0,0,0,1958,,Lao Wei,en,PL0062,,,https://de.wikipedia.org/wiki/Liao_Yiwu,,,2017-08-11,MG,2017-11-06,OS
 P0135,廖,亦武,zh,male,0,0,0,0,1958,,,,PL0062,,,https://de.wikipedia.org/wiki/Liao_Yiwu,,,2017-08-11,MG,2017-11-06,OS
 P0136,Bao,Jia,en,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,,,"Mira: are we sure that this is the guy we are looking for? You don‘t mean this guy, right: https:// did not find him in the text filebaike.baidu.com/item/%E6%B1%A0%E5%AE%9D%E5%98%89 Btw, I",2017-08-26,MG,2017-09-16,CW
@@ -283,8 +283,8 @@ P0154,Yan,Lianke,en,male,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://de.wikip
 P0154,阎,连科,zh,male,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,,2017-09-22,MG,2017-11-06,OS
 P0155,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,2017-09-22,MG,2017-11-06,OS
 P0155,张,郎郎,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,2017-09-22,MG,2017-11-06,OS
-P0156,Qi,Zhi,en,,no,NULL,NULL,NULL,,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
-P0156,启,之,zh,,no,NULL,NULL,NULL,,,,,,,,,,,2017-09-24,CW,2017-09-24,CW
+P0156,Qi,Zhi,en,male,no,NULL,NULL,NULL,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
+P0156,启,之,zh,male,no,NULL,NULL,NULL,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
 P0157,Li,Dazhao,en,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,2017-09-24,CW,2017-11-06,OS
 P0157,李,大釗,zh,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,2017-09-24,CW,2017-11-06,OS
 P0158,Chaplin,Charlie,en,male,NULL,NULL,NULL,NULL,1889,1977,Charles Spencer Chaplin,en,PL0036,NULL,NULL,https://de.wikipedia.org/wiki/Charlie_Chaplin,,,2017-09-27,MG,2017-10-13,MG
