@@ -1,5 +1,5 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
-Person,person_id,P and a five-digit number with leading zeros if necessary,,2017-07-04,LH,2017-07-04,LH
+Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-07-04,LH
 Person,family_name,Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren); Bei for Bei Dao (not Zhao Zhenkai),,2017-07-04,LH,2017-07-04,LH
 Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
