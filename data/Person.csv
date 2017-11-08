@@ -225,9 +225,9 @@ P0109,舒,婷,zh,female,yes,1969,1972,?,1952,,龚佩瑜 ,zh,PL0056,?,?,,,,2017-0
 P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
 P0110,Горький ,Максим,ru,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
 P0110,高尔基,马克西姆,zh,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,2017-07-19,LH,2017-10-13,MG
-P0115,Brodsky,Joseph,en,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
-P0115,Бродский,Иосиф ,zh,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
-P0115,布罗茨基,约瑟夫,ru,male,,1940,1996,,,,,,,,,,,,2017-07-19,OS,2017-10-13,MG
+P0115,Brodsky,Joseph,en,male,,,,,1940,1996,,,,,,,,,2017-07-19,OS,2017-11-08,MG
+P0115,Бродский,Иосиф ,zh,male,,,,,1940,1996,,,,,,,,,2017-07-19,OS,2017-11-08,MG
+P0115,布罗茨基,约瑟夫,ru,male,,,,,1940,1996,,,,,,,,,2017-07-19,OS,2017-11-08,MG
 P0116,Kafka,Franz,en,male,NULL,NULL,NULL,NULL,1883,1924,,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,,2017-07-19,OS,2017-10-13,MG
 P0116,卡夫卡 ,弗朗茨,zh,male,NULL,NULL,NULL,NULL,1883,1924,弗朗兹,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,,2017-07-19,OS,2017-10-13,MG
 P0117,Kerouac,Jack,en,male,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,,2017-07-20,OS,2017-10-13,MG
@@ -243,16 +243,16 @@ P0130,Xu,Chenggang,en,,,,,,,,,,,,,,,,2017-07-28,MG,2017-09-16,CW
 P0130,许,成钢,zh,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
 P0131,Li,Daxing,en,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
 P0131,李,大兴,zh,,,,,,,,,,,,,,,,2017-07-28,MG,2017-08-01,MG
-P0132,Chen,Jianhua,en,,,,,,1956,,,,PL0061,,,https://zh.wikipedia.org/wiki/%E9%99%88%E5%BB%BA%E5%8D%8E,,Mira: are we sure that this is the guy we are looking for?,2017-08-07,MG,2017-08-07,MG
-P0132,陈,建华,zh,,,,,,1956,,,,PL0061,,,https://zh.wikipedia.org/wiki/%E9%99%88%E5%BB%BA%E5%8D%8E,,,2017-08-07,MG,2017-08-07,MG
+P0132,Tao,Jianhua,en,,,,,,,,,,,,,T00084,452,,2017-08-07,MG,2017-11-08,MG
+P0132,陶,建华,zh,,,,,,,,,,,,,T00084,452,,2017-08-07,MG,2017-11-08,MG
 P0133,Bo,Hua,en,,,,,,1956,,,,PL0012,,,,,,2017-08-07,MG,2017-08-08,MG
 P0133,柏,桦,zh,,,,,,1956,,,,PL0012,,,,,,2017-08-07,MG,2017-08-08,MG
 P0134,Lin,Mang,en,male,,,,,,,,,,,,,,,2017-08-11,MG,2017-11-07,LH
 P0134,林,莽 ,zh,male,,,,,,,,,,,,,,,2017-08-11,MG,2017-11-07,LH
 P0135,Liao,Yiwu,en,male,0,0,0,0,1958,,Lao Wei,en,PL0062,,,https://de.wikipedia.org/wiki/Liao_Yiwu,,,2017-08-11,MG,2017-11-06,OS
 P0135,廖,亦武,zh,male,0,0,0,0,1958,,,,PL0062,,,https://de.wikipedia.org/wiki/Liao_Yiwu,,,2017-08-11,MG,2017-11-06,OS
-P0136,Bao,Jia,en,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,,,"Mira: are we sure that this is the guy we are looking for? You don‘t mean this guy, right: https:// did not find him in the text filebaike.baidu.com/item/%E6%B1%A0%E5%AE%9D%E5%98%89 Btw, I",2017-08-26,MG,2017-09-16,CW
-P0136,宝,嘉,zh,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,,,,2017-08-26,MG,2017-09-16,CW
+P0136,Bao,Jia,en,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00057,495,"Mira: are we sure that this is the guy we are looking for? You don‘t mean this guy, right: https:// did not find him in the text filebaike.baidu.com/item/%E6%B1%A0%E5%AE%9D%E5%98%89 Btw, I",2017-08-26,MG,2017-11-08,MG
+P0136,宝,嘉,zh,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00057,495,This person is a reader recorded in the Act-file and in the project bibliography,2017-08-26,MG,2017-11-08,MG
 P0137,Fan,Qian,en,,no,NULL,NULL,NULL,,,,,PL0003,,,,,,2017-08-31,MG,2017-09-16,CW
 P0137,范,迁,zh,,no,NULL,NULL,NULL,,,,,PL0003,,,,,,2017-08-31,MG,2017-09-16,CW
 P0138,Bao ,Kun,en,,no,NULL,NULL,NULL,1953,NULL,,,PL0002,,,,,,2017-08-31,MG,2017-09-16,CW
