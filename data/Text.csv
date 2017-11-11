@@ -61,7 +61,7 @@ T00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chuba
 T00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
 T00050,,,en,P0082,G04,PL0002,,,,,T00045,,24,,THE NOVEL CANNOT BE FOUND,2017-08-20,MG,2017-10-02,DP
 T00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,T00045,,24,recommended by Guo Shiyin / It's about a man left his father and devoted himself in dangerous work the reader said it is similar to his situation,"what does ""recommended"" mean here?",2017-08-20,MG,2017-08-20,MG
-T00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe ,1927,,T00045,,18,?,,2017-08-20,MG,2017-10-24,MG
+T00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe ,1927,,T00045,,18,,Translated by project member,2017-08-20,MG,2017-11-11,MG
 T00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe ,1927,,T00045,,18,recommended by Guo Shiyin,"what does ""recommended"" mean here?",2017-08-20,MG,2017-10-24,MG
 T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
 T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837 ,,2017-08-25,MG,2017-10-16,MG
@@ -90,9 +90,9 @@ T00063,The Answer,,en,P0009,G10,PL0002,1978,,,,T00044,,537,this poem was publish
 T00063,回答,,zh,P0009,G10,PL0002,1978,,,,T00044,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2017-09-08,MG
 T00064,The Window on the Cliffs ,,en,P0009,G10,,1982,,,,T00044,,312,,"the anthology was finished in 1982. Why is it relevant to us? If there was a first version before 1979, please write this into the commentary. ",2017-09-06,MG,2017-10-31,CW
 T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,T00044,,312,,"the anthology was finished in 1982. Why is it relevant to us? If there was a first version before 1979, please write this into the commentary. ",2017-09-06,MG,2017-10-31,CW
-T00065,,,en,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
+T00065,Smoke,,en,P0009,G10,,,,,,T00045,,291,,Translated by project member,2017-09-08,MG,2017-11-11,MG
 T00065,烟,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
-T00066,,,en,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
+T00066,Alcohol,,en,P0009,G10,,,,,,T00045,,291,,Translated by project member,2017-09-08,MG,2017-11-11,MG
 T00066,酒,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
 T00067,Rainy Night,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
 T00067,雨夜,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
@@ -102,16 +102,15 @@ T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00044,,537,this poe
 T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00044,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2017-10-24,MG
 T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
 T00070,九级浪,,zh,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
-T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,T00044,,534,?,,2017-09-15,MG,2017-10-02,DP
+T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,T00044,,534,,Translated by project member,2017-09-15,MG,2017-11-11,MG
 T00071,献给爱琴海,,zh,P0102,G10,,,,,,T00044,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2017-09-20,MG
-T00072,For a sick boy,,en,P0102,G10,,,,,,T00044,,536,,not sure about the english title,2017-09-15,MG,2017-10-30,MG
+T00072,For a sick boy,,en,P0102,G10,,,,,,T00044,,536,,Translated by project member,2017-09-15,MG,2017-11-11,MG
 T00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,T00044,,536,influenced by Sylvia Plath‘s style written in 1979,,2017-09-15,MG,2017-09-15,MG
 T00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
 T00073,往上爬,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
 T00074,Jane Eyre,An Autobiography,en,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre - Charlotte Bronte; Tale of Two Cities - Charles Dickens; Gone with the Wind - Margaret Mitchell; The Scarlett Letter - Nathaniel Hawthorne; The Red and the Black - Maurice Stendhal (no source or date for the list is given though))",,2017-09-22,MG,2017-10-18,MG
 T00074,简爱,自传,zh,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre - Charlotte Bronte; Tale of Two Cities - Charles Dickens; Gone with the Wind - Margaret Mitchell; The Scarlett Letter - Nathaniel Hawthorne; The Red and the Black - Maurice Stendhal (no source or date for the list is given though))",,2017-09-22,MG,2017-10-18,MG
 T00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
-T00075,,,zh,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
 T00076,L‘Étranger,,fr,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,T00005,,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,,2017-09-22,MG,2017-10-18,MG
 T00076,局外人,,zh,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,T00005,,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,,2017-09-22,MG,2017-10-18,MG
 T00077,Dream of the Red Chamber,,en,P0152,G04,PL0003,1949,Kaiming shudian,,,T00044,,372,,,2017-09-22,MG,2017-10-18,MG
@@ -170,8 +169,8 @@ T00102,Krushchev,A Career,en,P0179,G02,PL0002,1973,Sanlian shudian,,no,T00108,,3
 T00102,赫鲁晓夫,回忆录,zh,P0179,G02,PL0002,1973,Sanlian shudian,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
 T00103,,,,P0178,,,,,,,T00030,,52,quotation and comment,,2017-10-08,MG,2017-10-08,MG
 T00103,广泛的求知欲 往往可以使人成为有系统的博物学家,,zh,P0178,,,,,,,T00030,,52,quotation and comment,,2017-10-08,MG,2017-10-08,MG
-T00104,Rome 11 o'clock,,en,P0177,,,,,,no,T00109,,,movie first screened in 1952 (Italy),any information on the time of its sreening in China? Also okay if it is within a certain range. Would be more important for us,2017-10-08,MG,2017-10-30,MG
-T00104,罗马十一点钟,,zh,P0177,,,,,,no,T00109,,,movie first screened in 1952 (Italy),any information on the time of its sreening in China? Also okay if it is within a certain range. Would be more important for us,2017-10-08,MG,2017-10-30,MG
+T00104,Rome 11 o'clock,,en,P0177,,,1956,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-11-11,MG
+T00104,罗马十一点钟,,zh,P0177,,,1956,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-11-11,MG
 T00105,Tito,,en,P0176,G02,PL0002,1963,Sanlian shudian ,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
 T00105,铁托传,,zh,P0176,G02,PL0002,1963,Sanlian shudian ,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
 T00106,David Copperfield,,en,P0160,G04,PL0003,1950,Sanlian shudian,,no,T00029,,118f,,,2017-10-08,MG,2017-10-30,MG
