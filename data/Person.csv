@@ -1,64 +1,64 @@
 person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id,page_number,note,created,created_by,last_modified,last_modified_by
 P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,,,,2017-07-03,LH,2017-10-13,MG
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,,,,2017-07-03,LH,2017-10-13,MG
-P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,,,,2017-07-05,LH,2017-10-13,MG
-P0002,牟,敦白,zh,male,,,,,1947,,,,,,,,,,2017-07-05,LH,2017-10-13,MG
-P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,,2017-07-05,LH,2017-10-13,MG
-P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,,Wang Shiqiang 2014 p 75f 79f Zhang Langlang 1999 p 52,,2017-07-05,LH,2017-10-13,MG
-P0004,Mang,Ke,en,male,,1969,1969,,1950,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,,2017-07-05,LH,2017-10-13,MG
-P0004,芒,克,zh,male,,1969,1969,,1950,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 75f 79f,,2017-07-05,LH,2017-10-13,MG
-P0005,Peng,Gang,en,female,,,,,1953,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,,2017-07-05,LH,2017-10-13,MG
-P0005,彭,刚,zh,female,,,,,1953,,,,,,,,Liao Yiwu Chen Yong p 183ff and Wang Shiqiang 2014 p 79,,2017-07-05,LH,2017-10-13,MG
-P0006,Tan,Xiaochun,en,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,,2017-07-05,LH,2017-07-12,OS
-P0006,谭,小春,zh,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,,2017-07-05,LH,2017-07-12,OS
-P0007,Cheng,Chuan,en,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,,2017-07-05,LH,2017-07-12,OS
-P0007,呈,川,zh,,,,,,,,,,,,,,Liao Yiwu Chen Yong p 183ff,,2017-07-05,LH,2017-07-12,OS
-P0008,Lu,Zhongnan,en,male,,,,,1950,,,,,,,,Liao Yiwu Chen Yong p 188,,2017-07-05,LH,2017-10-13,MG
-P0008,卢,中南,zh,male,,,,,1950,,,,,,,,Liao Yiwu Chen Yong p 188,,2017-07-05,LH,2017-10-13,MG
-P0009,Bei,Dao,en,male,,?,?,?,1949,,Zhao Zhenkai,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,,2017-07-05,LH,2017-10-13,MG
-P0009,北,岛,zh,male,,?,?,?,1949,,赵振开,,,,Yes ,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 78 80,,2017-07-05,LH,2017-10-13,MG
-P0010,Duo,Duo,en,male,,,,,1951,,Li Shizheng,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,,2017-07-05,LH,2017-10-13,MG
-P0010,多,多,zh,male,,,,,1951,,栗世征,,,,,,Liao Yiwu Chen Yong p 188 and Wang Shiqiang 2014 p 75-77,,2017-07-05,LH,2017-10-13,MG
-P0011,Xu,Haoyuan,en,female,,,,,1949,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,,2017-07-05,LH,2017-11-06,OS
-P0011,徐,浩渊,zh,female,,,,,1949,,,,,,,,Liao Yiwu Chen Yong p 190 and Wang Shiqiang 2014 p 76f 80,,2017-07-05,LH,2017-11-06,OS
-P0012,Genzi,,en,male,,,,,1951,,Yue Chong,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,,2017-07-05,LH,2017-10-13,MG
-P0012,根子,,zh,male,,,,,1951,,岳重,,,,,,Duo Duo 1999 p 196 and Wang Shiqiang 2014 p 75 80,,2017-07-05,LH,2017-10-13,MG
-P0013,Ma,Desheng,en,male ,,,,,1952,,,,,,,,Liao Yiwu Chen Yong p 191,,2017-07-05,LH,2017-10-13,MG
-P0013,马,德升,zh,male,,,,,1952,,,,,,,,Liao Yiwu Chen Yong p 191,,2017-07-05,LH,2017-10-13,MG
-P0014,Zhao,Yifan,en,male,no,NULL,NULL,NULL,1935,1988,,,,,,,Liao Yiwu Chen Yong p 194,,2017-07-05,LH,2017-11-06,OS
-P0014,赵,一凡,zh,male,no,NULL,NULL,NULL,1935,1988,,,,,,,Liao Yiwu Chen Yong p 194,,2017-07-05,LH,2017-11-06,OS
-P0015,Yi,Qun,en,male,,,,,1947,,,,,,,,Duo Duo 1999 p 197,,2017-07-05,LH,2017-11-06,OS
-P0015,依,群,zh,male,,,,,1947,,,,,,,,Duo Duo 1999 p 197,,2017-07-05,LH,2017-11-06,OS
+P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,T00045,18 24,,2017-07-05,LH,2017-11-17,MG
+P0002,牟,敦白,zh,male,,,,,1947,,,,,,,T00045,18 24,,2017-07-05,LH,2017-11-17,MG
+P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,T00011,75f 79f,Zhang Langlang 1999 p 52,2017-07-05,LH,2017-11-17,MG
+P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,T00011,75f 79f,Zhang Langlang 1999 p 52,2017-07-05,LH,2017-11-17,MG
+P0004,Mang,Ke,en,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-11-17,MG
+P0004,芒,克,zh,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-11-17,MG
+P0005,Peng,Gang,en,female,,,,,1953,,,,,,,T00011,79,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-11-17,MG
+P0005,彭,刚,zh,female,,,,,1953,,,,,,,T00011,79,Liao Yiwu Chen Yong p 183ff,2017-07-05,LH,2017-11-17,MG
+P0006,Tan,Xiaochun,en,,,,,,,,,,,,,T00045,183ff,,2017-07-05,LH,2017-11-17,MG
+P0006,谭,小春,zh,,,,,,,,,,,,,T00045,183ff,,2017-07-05,LH,2017-11-17,MG
+P0007,Cheng,Chuan,en,,,,,,,,,,,,,T00045,183ff,,2017-07-05,LH,2017-11-17,MG
+P0007,呈,川,zh,,,,,,,,,,,,,T00045,183ff,,2017-07-05,LH,2017-11-17,MG
+P0008,Lu,Zhongnan,en,male,,,,,1950,,,,,,,T00045,188,,2017-07-05,LH,2017-11-17,MG
+P0008,卢,中南,zh,male,,,,,1950,,,,,,,T00045,188,,2017-07-05,LH,2017-11-17,MG
+P0009,Bei,Dao,en,male,,?,?,?,1949,,Zhao Zhenkai,,,,Yes ,T00011,78 80, And T00045 p 188,2017-07-05,LH,2017-11-17,MG
+P0009,北,岛,zh,male,,?,?,?,1949,,赵振开,,,,Yes ,T00011,78 80, And T00045 p 188,2017-07-05,LH,2017-11-17,MG
+P0010,Duo,Duo,en,male,,,,,1951,,Li Shizheng,,,,,T00011,75-77, And T00045 p 188,2017-07-05,LH,2017-11-17,MG
+P0010,多,多,zh,male,,,,,1951,,栗世征,,,,,T00011,75-77, And T00045 p 188,2017-07-05,LH,2017-11-17,MG
+P0011,Xu,Haoyuan,en,female,,,,,1949,,,,,,,T00011,76f 80, And T00045 p 190,2017-07-05,LH,2017-11-17,MG
+P0011,徐,浩渊,zh,female,,,,,1949,,,,,,,T00011,76f 80, And T00045 p 190,2017-07-05,LH,2017-11-17,MG
+P0012,Genzi,,en,male,,,,,1951,,Yue Chong,,,,,T00011,75 80, And Duo Duo 1999 p 196 ,2017-07-05,LH,2017-11-17,MG
+P0012,根子,,zh,male,,,,,1951,,岳重,,,,,T00011,75 80, And Duo Duo 1999 p 196 ,2017-07-05,LH,2017-11-17,MG
+P0013,Ma,Desheng,en,male ,,,,,1952,,,,,,,T00045,191,,2017-07-05,LH,2017-11-17,MG
+P0013,马,德升,zh,male,,,,,1952,,,,,,,T00045,191,,2017-07-05,LH,2017-11-17,MG
+P0014,Zhao,Yifan,en,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00045,194,,2017-07-05,LH,2017-11-17,MG
+P0014,赵,一凡,zh,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00045,194,,2017-07-05,LH,2017-11-17,MG
+P0015,Yi,Qun,en,male,,,,,1947,,,,,,,,197,Duo Duo 1999 p 197,2017-07-05,LH,2017-11-17,MG
+P0015,依,群,zh,male,,,,,1947,,,,,,,,197,Duo Duo 1999 p 197,2017-07-05,LH,2017-11-17,MG
 P0016,Zhou,Duo,en,,,,,,,,,,,,,,Zhou Duo 1999 p 210,,2017-07-05,LH,2017-07-12,OS
 P0016,周,舵,zh,,,,,,,,,,,,,,Zhou Duo 1999 p 210,,2017-07-05,LH,2017-07-12,OS
-P0017,Ma,Jia,en,male,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,,2017-07-05,LH,2017-11-06,OS
-P0017,马,佳,zh,male,,,,,1953,,,,,,,,Ma Jia 1999 p 219ff,,2017-07-05,LH,2017-11-06,OS
-P0018,Yan,Li,en,male,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-10-13,MG
-P0018,严,力,zh,male,,,,,1954,,,,,,,,Ma Jia 1999 p 220,,2017-07-05,LH,2017-10-13,MG
-P0019,Guo,Lusheng,en,male,,,,,1948,,Shi Zhi ,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-10-13,MG
-P0019,郭,路生,zh,male,,,,,1948,,食指,,,,,,Ma Jia 1999 p 229 and Wang Shiqiang 2014 p 74-75,,2017-07-05,LH,2017-10-13,MG
-P0020,Gao,Hua,en,male,,,,,1954,2011,,,,,Indirect,,Gao Hua 2006 p 132-139,,2017-07-05,LH,2017-11-06,OS
-P0020,高,华,zh,male,,,,,1954,2011,,,,,Indirect,,Gao Hua 2006 p 132-139,,2017-07-05,LH,2017-11-06,OS
-P0021,Guo,Shiying,en,male,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
-P0021,郭,世英,zh,male,,,,,1942,1968,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
-P0022,Zhang,Heci,en,male,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
-P0022,张,鹤慈,zh,male,,,,,1943,,,,,,Maybe Yes,,Wang Shiqiang 2014 p 75f 80,,2017-07-05,LH,2017-10-13,MG
-P0023,Yang,Sanbai,en,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,,2017-07-05,LH,2017-07-12,OS
-P0023,杨,三白,zh,,,,,,,,,,,,,,Wang Shiqiang 2014 p 75,,2017-07-05,LH,2017-07-12,OS
-P0024,Song,Haiquan,en,male,,,,,1936,,,,,,,,Wang Shiqiang 2014 p 75 79f,,2017-07-05,LH,2017-11-06,OS
-P0024,宋,海泉,zh,male,,,,,1936,,,,,,,,Wang Shiqiang 2014 p 75 79f,,2017-07-05,LH,2017-11-06,OS
-P0025,Gan,Tiesheng,en,male,,,,,1946,,,,,,,,Wang Shiqiang 2014 p 75-76  80,,2017-07-05,LH,2017-11-06,OS
-P0025,甘,铁生,zh,male,,,,,1946,,,,,,,,Wang Shiqiang 2014 p 75-76  80,,2017-07-05,LH,2017-11-06,OS
-P0026,Lu,Shuangqin,en,,,,,?,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,,2017-07-05,LH,2017-07-12,OS
-P0026,鲁,双芹,zh,,,,,?,,,,,,,Yes,,Wang Shiqiang 2014 p 76f,,2017-07-05,LH,2017-07-12,OS
-P0027,Zhang,Xinhua,en,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,,2017-07-05,LH,2017-07-12,OS
-P0027,张,新华,zh,,,,,,,,,,,,,,Wang Shiqiang 2014 p 76 80,,2017-07-05,LH,2017-07-12,OS
-P0028,Zhang,Jiuxing,en,,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,,2017-07-05,LH,2017-07-12,OS
-P0028,张,久兴,zh,,,,,,to1972or1973,,,,,,,,Wang Shiqiang 2014 p 76,,2017-07-05,LH,2017-07-12,OS
-P0029,Wu,Hong,en,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-11-07,LH
-P0029,巫,鸿,zh,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,,Wang Shiqiang 2014 p 78 80 and Wu Hong 2012 p 116-125,,2017-07-05,LH,2017-11-07,LH
-P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-07,LH
-P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,,Wang Shiqiang 2014 p 78 Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-07,LH
+P0017,Ma,Jia,en,male,,,,,1953,,,,,,,T00009,219ff,,2017-07-05,LH,2017-11-17,MG
+P0017,马,佳,zh,male,,,,,1953,,,,,,,T00009,219ff,,2017-07-05,LH,2017-11-17,MG
+P0018,Yan,Li,en,male,,,,,1954,,,,,,,T00009,220,,2017-07-05,LH,2017-11-17,MG
+P0018,严,力,zh,male,,,,,1954,,,,,,,T00009,220,,2017-07-05,LH,2017-11-17,MG
+P0019,Guo,Lusheng,en,male,,,,,1948,,Shi Zhi ,,,,,T00009,229,and T00011 74-75,2017-07-05,LH,2017-11-17,MG
+P0019,郭,路生,zh,male,,,,,1948,,食指,,,,,T00009,229,and T00011 74-75,2017-07-05,LH,2017-11-17,MG
+P0020,Gao,Hua,en,male,,,,,1954,2011,,,,,Indirect,,132-139,Gao Hua 2006,2017-07-05,LH,2017-11-17,MG
+P0020,高,华,zh,male,,,,,1954,2011,,,,,Indirect,,132-139,Gao Hua 2006,2017-07-05,LH,2017-11-17,MG
+P0021,Guo,Shiying,en,male,,,,,1942,1968,,,,,Maybe Yes,T00011,75f 80,,2017-07-05,LH,2017-11-17,MG
+P0021,郭,世英,zh,male,,,,,1942,1968,,,,,Maybe Yes,T00011,75f 80,,2017-07-05,LH,2017-11-17,MG
+P0022,Zhang,Heci,en,male,,,,,1943,,,,,,Maybe Yes,T00011,75f 80,,2017-07-05,LH,2017-11-17,MG
+P0022,张,鹤慈,zh,male,,,,,1943,,,,,,Maybe Yes,T00011,75f 80,,2017-07-05,LH,2017-11-17,MG
+P0023,Yang,Sanbai,en,,,,,,,,,,,,,T00011,75,,2017-07-05,LH,2017-11-17,MG
+P0023,杨,三白,zh,,,,,,,,,,,,,T00011,75,,2017-07-05,LH,2017-11-17,MG
+P0024,Song,Haiquan,en,male,,,,,1936,,,,,,,T00011,75 79f,,2017-07-05,LH,2017-11-17,MG
+P0024,宋,海泉,zh,male,,,,,1936,,,,,,,T00011,75 79f,,2017-07-05,LH,2017-11-17,MG
+P0025,Gan,Tiesheng,en,male,,,,,1946,,,,,,,T00011,75-76  80,,2017-07-05,LH,2017-11-17,MG
+P0025,甘,铁生,zh,male,,,,,1946,,,,,,,T00011,75-76  80,,2017-07-05,LH,2017-11-17,MG
+P0026,Lu,Shuangqin,en,,,,,?,,,,,,,Yes,T00011,76f,,2017-07-05,LH,2017-11-17,MG
+P0026,鲁,双芹,zh,,,,,?,,,,,,,Yes,T00011,76f,,2017-07-05,LH,2017-11-17,MG
+P0027,Zhang,Xinhua,en,,,,,,,,,,,,,T00011,76 80,,2017-07-05,LH,2017-11-17,MG
+P0027,张,新华,zh,,,,,,,,,,,,,T00011,76 80,,2017-07-05,LH,2017-11-17,MG
+P0028,Zhang,Jiuxing,en,,,,,,to1972or1973,,,,,,,T00011,76,,2017-07-05,LH,2017-11-17,MG
+P0028,张,久兴,zh,,,,,,to1972or1973,,,,,,,T00011,76,,2017-07-05,LH,2017-11-17,MG
+P0029,Wu,Hong,en,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,T00011,78 80,and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-11-17,MG
+P0029,巫,鸿,zh,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,T00011,78 80,and Wu Hong 2012 p 116-125,2017-07-05,LH,2017-11-17,MG
+P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,T00011,78,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-11-17,MG
+P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,T00011,78,Zhang Langlang 1999 p 51,2017-07-05,LH,2017-11-17,MG
 P0031,Huang ,Guangzu ,en,male,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0031,黄,光祖,zh,male,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0032,Zhu ,Shixian ,en,male,,NULL,NULL,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
@@ -141,8 +141,8 @@ P0070,Jiang,Dingyue,en,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017
 P0070,蒋,定粤,zh,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0071,Gan,Huili,en,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
 P0071,甘,恢理,zh,,,,,,,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-07-12,OS
-P0072,Zhang,Dawei,en,,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,,2017-07-05,LH,2017-07-12,OS
-P0072,张,大伟,zh,,,,,,,,,,,,,,Zhang Langlang and Liao Yiwu 1999 p 52,,2017-07-05,LH,2017-07-12,OS
+P0072,Zhang,Dawei,en,,,,,,,,,,,,,T00045,52,Zhang Langlang and Liao Yiwu 1999 p 52,2017-07-05,LH,2017-11-17,MG
+P0072,张,大伟,zh,,,,,,,,,,,,,T00045,52,Zhang Langlang and Liao Yiwu 1999 p 52,2017-07-05,LH,2017-11-17,MG
 P0073,Rae,Yang,en,female,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-06,OS
 P0073,杨,瑞,zh,female,,1968,1973,PL0008,1950,,,,,,,,Zhang Langlang 1999 p 51,,2017-07-05,LH,2017-11-06,OS
 P0074,Bai,Di,en,,,,,,1954,,,,,,,,Zhong Wang Bai 2001,,2017-07-05,LH,2017-07-12,OS
