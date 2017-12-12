@@ -64,25 +64,25 @@ P0031,黄,光祖,zh,male,,NULL,NULL,PL0006,1946,,,,,,no,,Huang Guangzu 2010,,201
 P0032,Zhu ,Shixian ,en,male,,NULL,NULL,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0032,朱,时贤,zh,male,,NULL,NULL,PL0006,1944,1972,,,,,,,Huang Guangzu 2010,,2017-07-05,LH,2017-10-14,CW
 P0033,Zhou ,Ziren ,en,male,,,,PL0007,,,,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-10-14,CW
-P0033,周,孜仁,zh,male,,,,PL0007,,,,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-10-14,CW
-P0034,Zhou,Jiren,en,male,,1962,?,PL0006,,,Zhou Zhaoming,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-10-14,CW
-P0034,周,继仁,zh,male,,1962,?,PL0006,,,周照明 ,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-10-14,CW
-P0035,Zhang ,Kunquan ,en,male,,,,,,,Shamo,,,,,,Bai Hua 2010,,2017-07-05,LH,2017-10-14,CW
-P0035,张,坤权 ,zh,male,,,,,,,沙漠 ,,,,,,Bai Hua 2010,,2017-07-05,LH,2017-10-14,CW
+P0033,周,孜仁,zh,male,,,,PL0007,,,,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-11-19,CW
+P0034,Zhou,Jiren,en,male,no,,,PL0006,,,Zhou Zhaoming,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-11-19,CW
+P0034,周,继仁,zh,male,no,,,PL0006,,,周照明 ,,,,,,Zhou Ziren 2010,,2017-07-05,LH,2017-10-14,CW
+P0035,Zhang ,Kunquan ,en,female,no,,,,1926,,Shamo,,PL0100,,,,Bai Hua 2010,,2017-07-05,LH,2017-11-19,CW
+P0035,张,坤权 ,zh,female,no,,,,1926,,沙漠 ,,PL0100,,,,Bai Hua 2010,,2017-07-05,LH,2017-11-19,CW
 P0036,Huang,Zhongjing,en,male,,,,,,,,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-10-14,CW
 P0036,黄,中敬 ,zh,male,,,,,,,,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-10-14,CW
-P0037,Huang,Xiaozhen,en,male,,1964,1964,PL0009, Shandong,1947,1995,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-10-14,CW
-P0037,黄,小振,zh,male,,1964,1964,PL0009, Shandong,1947,1995,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-10-14,CW
+P0037,Huang,Xiaozhen,en,male,,1964,1964,PL0009,1947,1995,,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-11-19,CW
+P0037,黄,小振,zh,male,,1964,1964,PL0009,1947,1995,,,,,,,Sha Mou 2010,,2017-07-05,LH,2017-11-19,CW
 P0038,Wang ,Xiulian ,en,male,,,,,,,,,,,,,Huang Xiaolong 2010,,2017-07-05,LH,2017-10-14,CW
 P0038,王,秀濂,zh,male,,,,,,,,,,,,,Huang Xiaolong 2010,,2017-07-05,LH,2017-10-14,CW
-P0039,Dong,Fu ,en,male,,1969-,1969-,PL0055, Ningnan,1951,Wang Dongyu,,,,,,Dong Fu 2010,,2017-07-05,LH,2017-10-14,CW
-P0039,东,夫,zh,male,,1969-,1969-,PL0055, Ningnan,1951,王东渝,,,,,,Dong Fu 2010,,2017-07-05,LH,2017-10-14,CW
-P0040,Jin,Zhong,en,male,,NULL,NULL,PL0011,1926,2008,?,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-10-14,CW
+P0039,Dong,Fu ,en,male,yes,1969,1970,PL0055,,1951,Wang Dongyu,,PL0004,,,,Dong Fu 2010,,2017-07-05,LH,2017-10-14,CW
+P0039,东,夫,zh,male,yes,1969,1970,PL0055,,1951,王东渝,,PL0004,,,,Dong Fu 2010,,2017-07-05,LH,2017-10-14,CW
+P0040,Jin,Zhong,en,male,,NULL,NULL,PL0011,1926,2008,Zhang Shijing,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-10-14,CW
 P0040,金,中,zh,male,,NULL,NULL,PL0011,1926,2008,章世箐 ,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-10-14,CW
-P0041,Zhao,Xiaoling,en,female,,1967 joined the Red guard,1967 joined the Red guard,PL0012,,,,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-10-14,CW
-P0041,赵,晓铃,zh,female,,1967 joined the Red guard,1967 joined the Red guard,PL0012,,,,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-10-14,CW
+P0041,Zhao,Xiaoling,en,female,no,,,PL0012,,,,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-11-19,CW
+P0041,赵,晓铃,zh,female,no,,,PL0012,,,,,,,,,Zhao Xiaoling 2010,,2017-07-05,LH,2017-11-19,CW
 P0042,Cao,Ying,en,male,,,,,1923,2015,Sheng Junfeng,,,,,,Lin Da 2010,,2017-07-05,LH,2017-10-14,CW
-P0042,草,婴,zh,male,,,,,1923,2015,盛峻峰 ,,,,,,Lin Da 2010,,2017-07-05,LH,2017-10-14,CW
+P0042,草,婴,zh,male,,,,,1923,2015,盛峻峰,,,,,,Lin Da 2010,,2017-07-05,LH,2017-10-14,CW
 P0043,Huang,Aihe,en,male,,,,,,,,,,,,,Huang Aihe 2008,,2017-07-05,LH,2017-10-14,CW
 P0043,黄,艾禾,zh,male,,,,,,,,,,,,,Huang Aihe 2008,,2017-07-05,LH,2017-10-14,CW
 P0044,Huang,Xiaolong,en,male,,,,PL0006,1943,,,,,,,,Huang Xiaolong 2010,,2017-07-05,LH,2017-10-14,CW
@@ -95,14 +95,14 @@ P0047,Han,Pingzao,en,male,,,,PL0012,,,,,,,,,Huang Aihe 2008,,2017-07-05,LH,2017-
 P0047,韩,平藻,zh,male,,,,PL0012,,,,,,,,,Huang Aihe 2008,,2017-07-05,LH,2017-10-14,CW
 P0048,Hui,Xianjun,en,male,,,,,1932,,,,,,,,Tang Shaojie 2010,,2017-07-05,LH,2017-10-14,CW
 P0048,惠,宪钧,zh,male,,,,,1932,,,,,,,,Tang Shaojie 2010,,2017-07-05,LH,2017-10-14,CW
-P0049,Piao,Mu,en,male,,1971,1971,PL0013, Henan,,,,,,,,Piao Mu 2010,,2017-07-05,LH,2017-10-14,CW
-P0049,漂,木,zh,male,,1971,1971,PL0013, Henan,,,,,,,,Piao Mu 2010,,2017-07-05,LH,2017-10-14,CW
+P0049,Piao,Mu,en,male,,1971,1971,PL0013,,,,,,,,,Piao Mu 2010,,2017-07-05,LH,2017-10-14,CW
+P0049,漂,木,zh,male,,1971,1971,PL0013,,,,,,,,,Piao Mu 2010,,2017-07-05,LH,2017-10-14,CW
 P0050,Wu,Yunhong,en,male,,,,,1940,,,,,,,,Wu Yunhong 2010,,2017-07-05,LH,2017-10-14,CW
 P0050,吴,允弘,zh,male,,,,,1940,,,,,,,,Wu Yunhong 2010,,2017-07-05,LH,2017-10-14,CW
 P0051,Wu,Tianshi,en,male,NULL,,,,1911,1966,,,,,,,Wu Yunhong 2010,,2017-07-05,LH,2017-10-14,CW
 P0051,吴,天石,zh,male,NULL,,,,1911,1966,,,,,,,Wu Yunhong 2010,,2017-07-05,LH,2017-10-14,CW
-P0052,Liu,Haiou,en,female,,1967,1967,PL0014,1958,,,,,,,,Liu Haiou 2010,,2017-07-05,LH,2017-10-14,CW
-P0052,刘,海鸥,zh,female,,1967,1967,PL0014,1958,,,,,,,,Liu Haiou 2010,,2017-07-05,LH,2017-10-14,CW
+P0052,Liu,Haiou,en,female,no,,,PL0014,1958,,,,,,,,Liu Haiou 2010,,2017-07-05,LH,2017-10-14,CW
+P0052,刘,海鸥,zh,female,no,,,PL0014,1958,,,,,,,,Liu Haiou 2010,,2017-07-05,LH,2017-10-14,CW
 P0053,Huang,Yongsheng,en,male,,,,PL0015,1910,1983,Huang Xuqian,,,,,,Chi Zehou 2010,,2017-07-05,LH,2017-10-14,CW
 P0053,黄,永胜,zh,male,,,,PL0015,1910,1983,黄叙钱,,,,,,Chi Zehou 2010,,2017-07-05,LH,2017-10-14,CW
 P0054,Xi,Liufang,en,male,,,,,1947,,,,,,,,zugong tongxun 1980,,2017-07-05,LH,2017-10-14,CW
