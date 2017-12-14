@@ -123,8 +123,8 @@ P0061,Yang,Xiguang,en,male,,,,,1948,2004,Yang Xiaokai,,,,,,,,2017-07-05,LH,2017-
 P0061,杨,曦光,zh,male,,,,,1948,2004,杨小凯,,,,,,,,2017-07-05,LH,2017-10-14,CW
 P0062,Siao,Eva,en,female,,,,,1911,2001,,,,,,T00113,,,2017-07-05,LH,2017-12-13,MG
 P0062,叶,华,zh,female,,,,,1911,2001,,,,,,T00113,,,2017-07-05,LH,2017-12-13,MG
-P0063,Nanchu , ,en,female,,1970,1973,PL0008,1953,,,,,,yes,,Nanchu 2001,,2017-07-05,LH,2017-07-12,OS
-P0063,Nanchu , ,zh,female,,1970,1973,PL0008,1953,,,,,,yes,,Nanchu 2001,,2017-07-05,LH,2017-07-12,OS
+P0063,Nanchu , ,en,female,,1970,1973,PL0008,1953,,,,,,yes,T00003,196f,,2017-07-05,LH,2017-12-14,MG
+P0063,Nanchu , ,zh,female,,1970,1973,PL0008,1953,,,,,,yes,T00003,196f,,2017-07-05,LH,2017-12-14,MG
 P0064,Gao,Yuan,en,male,,,,,1952,,,,,,,,Gao Yuan 1987,,2017-07-05,LH,2017-11-06,OS
 P0064,高 ,原,zh,male,,,,,1952,,,,,,,,Gao Yuan 1987,,2017-07-05,LH,2017-11-06,OS
 P0065,Zhang,Zhenzhou,en,,,,,,,,,,,,,T00112,51,,2017-07-05,LH,2017-12-13,MG
@@ -352,3 +352,8 @@ P0187,Kuan,Huan,en,male,NULL,NULL,NULL,NULL,,,,,PL0099,,NULL,https://zh.wikipedi
 P0187,桓,宽,zh,male,NULL,NULL,NULL,NULL,,,,,PL0099,,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,2017-10-30,MG,2017-10-30,MG
 P0999,anonymous, ,en,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,2017-11-07,DP,2017-11-07,DP
 P0999,无名, ,zh,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,2017-11-07,DP,2017-11-07,DP
+P0188,Salinger,Jerome David,en,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-14,MG
+P0188,塞林格,杰罗姆 大卫,zh,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-14,MG
+P0189,Turgenev,Ivan Sergeyevich,en,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
+P0189,Турге́нев,Ива́н Серге́евич,ru,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
+P0189,屠格涅夫,伊万 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
