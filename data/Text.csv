@@ -184,8 +184,8 @@ T00110,Wren Makes Nestle in this Branch,,en,P0136,G03,PL0002,2009,Sanlian shudia
 T00110,鹪鹩巢于这一枝,,zh,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-11-08,MG,2017-12-13,MG
 T00111,The predawn agitation,,en,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-11-08,MG,2017-12-13,MG
 T00111,黎明前的跃动,,zh,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-11-08,MG,2017-12-13,MG
-T00112,The legend of Taiang zongdui and others,,en,P0155,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00112,太阳纵队传说及其他,,zh,P0155,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00112,The legend of Taiang zongdui and others,,en,P0003,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-17,MG
+T00112,太阳纵队传说及其他,,zh,P0003,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-17,MG
 T00113,China,mein Traum mein Leben,de,P0062,G03,PL0101,1994,ECON,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
 T00114,The buried Chinese poets (1972-1978),,en,P0010,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
 T00114,被埋葬的中国诗人,,zh,P0010,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
@@ -205,3 +205,4 @@ T00121,The Catcher in the Rye,,en,P0188,G04,PL0002,1963,Zuojia chubanshe,,yes,T0
 T00121,麦田的守望者,,zh,P0188,G04,PL0002,1963,Zuojia chubanshe,,yes,T00011,,79,,,2017-12-14,MG,2017-12-14,MG
 T00122,Rudin,,en,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
 T00122,罗亭,,zh,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
+T00123,Some of us,Chinese women growing up in the Mao era,en,P0074,G03,PL0102,2001,Rutgers Univ. Press,,NULL,NULL,NULL,NULL,,,2017-12-17,MG,2017-12-17,MG
