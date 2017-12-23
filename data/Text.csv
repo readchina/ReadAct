@@ -9,8 +9,8 @@ T00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,,0,,0
 T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,Xingzou zai lishi de heliu,,2017-07-12,OS,2017-11-04,MG
 T00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,,,2017-07-12,OS,2017-10-16,MG
-T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,none,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00007,韩少功,知青与寻根,zh,none,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00007,韩少功,知青与寻根,zh,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00008,unknown,,en,P0077,G10,,,,,NULL,T00009,,219,A Collection of her works,,2017-07-12,OS,2017-11-04,MG
 T00009,Ma Jia fangtan lu,,en,P0017,G03,PL0002,2009,Sanlian shudian,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00009,马佳访谈录,,zh,P0017,G03,PL0002,2009,Sanlian shudian,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
@@ -132,18 +132,18 @@ T00084,为颜文梁先生作,,zh,P0132,G10,,,,,no,T00043,,452,,,2017-09-29,MG,20
 T00085,What is to be done?,,en,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 T00085,怎么办 ?,,zh,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 T00085,Что делать? ,,ru,P0161,G04,PL0002,1959,Renmin wenxue chubanshe ,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
-T00087,Quotations from Chairman Mao Tse-tung,,en,,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
-T00087,红宝书,,zh,,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
-T00088,Project 571,,en,,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-10-24,MG
-T00088,571工程纪要,,zh,,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-10-24,MG
-T00089,Three Character Classic,,en,,?,,,,,,,,,,,,,,
-T00089,三字经,,zh,,?,,,,,,,,,,,,,,
-T00090,Chronicles of the Eastern Zhou Kingdoms,,en,,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
-T00090,东周列国志,,zh,,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
-T00091,Economic Problems of Socialism in the U.S.S.R. ,,en,,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
-T00091,苏联社会主义经济问题,,zh,,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
-T00092,Notice of the Central Committee of the Communist Party of China on Lin Biao's Treason,,en,,G26,,,,,,,,,,,,,,
-T00092,中共中央关于林彪叛国出逃的通知,,zh,,G26,,,,,,,,,,,,,,
+T00087,Quotations from Chairman Mao Tse-tung,,en,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
+T00087,红宝书,,zh,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
+T00088,Project 571,,en,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
+T00088,571工程纪要,,zh,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
+T00089,Three Character Classic,,en,P0191,?,,,,,,,,,,,,,,
+T00089,三字经,,zh,P0191,?,,,,,,,,,,,,,,
+T00090,Chronicles of the Eastern Zhou Kingdoms,,en,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
+T00090,东周列国志,,zh,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
+T00091,Economic Problems of Socialism in the U.S.S.R. ,,en,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
+T00091,苏联社会主义经济问题,,zh,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
+T00092,Notice of the Central Committee of the Communist Party of China on Lin Biao's Treason,,en,I0004,G26,,,,,,,,,,,,,2017-12-23,OS
+T00092,中共中央关于林彪叛国出逃的通知,,zh,I0004,G26,,,,,,,,,,,,,2017-12-23,OS
 T00093,The Communist Manifesto,,en,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-23,MG
 T00093,共产党宣言,,zh,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-23,MG
 T00093,Manifest der Kommunistischen Partei,,de,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-24,MG
@@ -206,8 +206,7 @@ T00121,麦田的守望者,,zh,P0188,G04,PL0002,1963,Zuojia chubanshe,,yes,T00011
 T00122,Rudin,,en,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
 T00122,罗亭,,zh,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
 T00123,Some of us,Chinese women growing up in the Mao era,en,P0074,G03,PL0102,2001,Rutgers Univ. Press,,NULL,NULL,NULL,NULL,,,2017-12-17,MG,2017-12-17,MG
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
+T00124,Mao,The Real Story,en,P0195,G02,PL0050,2012,Simon&Schuster,,NULL,NULL,NULL,784,,,2017-12-23,OS,2017-12-23,OS
 T00125,A Hundred Thousand Whys,,en,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
 T00125,十万个为什么,,zh,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
 T00126,A Thousand and One Nights,,en,P0999,G08,PL0002,1957,Renmin wenxue chubanshe ,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG

@@ -1,6 +1,7 @@
 inst_ID,inst_name,inst_name_lang,inst_alt_name,members_id,source_id,page_number,created,created_by,last_modified,last_modified_by
 I0001,Association of overseas Chinese in Vietnam,en,,,,,2017-07-09,OS,2017-07-09,OS
-I0001,越南华侨协会,zh-Latn-pinyin,,,,,2017-07-09,OS,2017-07-09,OS
+I0001,越南华侨协会,zh,,,,,2017-07-09,OS,2017-07-09,OS
 I0002,Beatles,en,,,,,2017-07-09,OS,2017-07-09,OS
-I0002,,,,,,,,,,
 I0003,English Language Services,en,,,,,2017-07-12,OS,2017-07-12,OS
+I0004,Central Committee of the Communist Party in China,en,,,,,2017-12-23,OS,2017-12-23,OS
+I0004,中国共产党中央委员会,zh,,,,,2017-12-23,OS,2017-12-23,OS

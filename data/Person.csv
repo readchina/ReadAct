@@ -357,8 +357,15 @@ P0188,塞林格,杰罗姆 大卫,zh,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL
 P0189,Turgenev,Ivan Sergeyevich,en,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
 P0189,Турге́нев,Ива́н Серге́евич,ru,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
 P0189,屠格涅夫,伊万 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
 P0190,Ilin,Mikhail,en,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
 P0190,伊林,米,zh,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
 P0190,Ильин,Михаил,ru,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
+P0191,Wang,Yinglin,en,male,NULL,NULL,NULL,NULL,1223,1296,NULL,NULL,PL0069,,NULL,http://www.chinaknowledge.de/History/Song/personswangyinglin.html,,,2017-12-23,OS,2017-12-23,OS
+P0191,王,應麟 ,zh,male,NULL,NULL,NULL,NULL,1223,1296,NULL,NULL,PL0069,,NULL,http://www.chinaknowledge.de/History/Song/personswangyinglin.html,,,2017-12-23,OS,2017-12-23,OS
+P0192,Feng,Menglong,en,male,NULL,NULL,NULL,NULL,1574,1646,NULL,NULL,PL0103,,NULL,https://en.wikipedia.org/wiki/Feng_Menglong,,,2017-12-23,OS,2017-12-23,OS
+P0192,冯,梦龙,zh,male,NULL,NULL,NULL,NULL,1574,1646,NULL,NULL,PL0103,,NULL,https://en.wikipedia.org/wiki/Feng_Menglong,,,2017-12-23,OS,2017-12-23,OS
+P0193,Stalin,Joseph Vissarionovich,en,male,NULL,NULL,NULL,NULL,1878,1953,NULL,NULL,PL0105,,NULL,https://en.wikipedia.org/wiki/Joseph_Stalin,,,2017-12-23,OS,2017-12-23,OS
+P0193,Сталин,Иосиф Виссарионович,ru,male,NULL,NULL,NULL,NULL,1878,1953,NULL,NULL,PL0105,,NULL,https://en.wikipedia.org/wiki/Joseph_Stalin,,,2017-12-23,OS,2017-12-23,OS
+P0194,Lin,Liguo,en,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T00124,544,"1945 and 1946 can be found for his birth year, academic publications rather stick to 1946. Generally speaking, few information is known about his early years.",2017-12-23,OS,2017-12-23,OS
+P0194,林,立果,zh,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T00124,544,"1945 and 1946 can be found for his birth year, academic publications rather stick to 1946. Generally speaking, few information is known about his early years.",2017-12-23,OS,2017-12-23,OS
+P0195,Pantsov,Alexander,en,male,NULL,NULL,NULL,NULL,1955,,NULL,NULL,PL0106,,NULL,https://prabook.com/web/alexander_vadimovich.pantsov/640626,,,2017-12-23,OS,2017-12-23,OS
