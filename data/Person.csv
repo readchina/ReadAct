@@ -3,8 +3,8 @@ P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,,
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,,,,2017-07-03,LH,2017-10-13,MG
 P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,T00045,18 24,,2017-07-05,LH,2017-11-17,MG
 P0002,牟,敦白,zh,male,,,,,1947,,,,,,,T00045,18 24,,2017-07-05,LH,2017-11-17,MG
-P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,T00011,75f 79f,And T00112 p 52,2017-07-05,LH,2017-12-13,MG
-P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943 or 1944?,,,,,,Yes ,T00011,75f 79f,And T00112 p 52,2017-07-05,LH,2017-12-13,MG
+P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943 or 1944?,,,,PL0021,,Yes ,T00011,75f 79f,And T00112 p 52,2017-07-05,LH,2017-12-23,MG
+P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943 or 1944?,,,,PL0021,,Yes ,T00011,75f 79f,And T00112 p 52,2017-07-05,LH,2017-12-23,MG
 P0004,Mang,Ke,en,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,And T00115 p 183ff,2017-07-05,LH,2017-12-13,MG
 P0004,芒,克,zh,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,And T00115 p 183ff,2017-07-05,LH,2017-12-13,MG
 P0005,Peng,Gang,en,female,,,,,1953,,,,,,,T00011,79,And T00115 p 183ff,2017-07-05,LH,2017-12-13,MG
@@ -233,8 +233,8 @@ P0116,卡夫卡 ,弗朗茨,zh,male,NULL,NULL,NULL,NULL,1883,1924,弗朗兹,,PL00
 P0117,Kerouac,Jack,en,male,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,,2017-07-20,OS,2017-10-13,MG
 P0117,杰克,凯鲁亚克 ,zh,male,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,,2017-07-20,OS,2017-10-13,MG
 P0118,Milovan,Djilas,en,male,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-19,OS,2017-10-13,MG
-P0118,Милован,Ђилас,sr,male,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-25,MG,2017-10-13,MG
-P0118,米洛凡,吉拉斯,zh,male,NULL,NULL,NULL,NULL,1911,1995,密洛凡德热拉斯,zh,PL0059,,,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-25,MG,2017-10-13,MG
+P0118,Милован,Ђилас,sr,male,NULL,NULL,NULL,NULL,1911,1995,,,PL0059,NULL,NULL,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-25,MG,2017-12-23,MG
+P0118,米洛凡,吉拉斯,zh,male,NULL,NULL,NULL,NULL,1911,1995,密洛凡德热拉斯,zh,PL0059,NULL,NULL,https://en.wikipedia.org/wiki/Milovan_Djilas,,,2017-07-25,MG,2017-12-23,MG
 P0119,Huang,Xiaolong,en,,yes,1963,1966,PL0006,1943,NULL,NULL,en,PL0012,,,T00026,,,2017-07-27,LH,2017-07-27,LH
 P0119,黄,晓龙,zh,,yes,1963,1966,PL0006,1943,NULL,NULL,zh,PL0012,,,T00026,,,2017-07-27,LH,2017-09-16,CW
 P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,2017-08-01,LH,2017-11-06,OS
@@ -259,28 +259,28 @@ P0138,Bao ,Kun,en,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00
 P0138,鲍,昆,zh,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00111,196,,2017-08-31,MG,2017-12-19,MG
 P0139,Xiao,Xiao,en,,,,,,,,,,,,,,,,2017-08-31,MG,2017-08-31,MG
 P0139,萧,萧,zh,,,,,,,,,,,,,,,,2017-08-31,MG,2017-08-31,MG
-P0140,Chen,Danqing,en,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,https://en.wikipedia.org/wiki/Chen_Danqing,,,2017-08-31,MG,2017-12-19,MG
-P0140,陈,丹青,zh,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,https://en.wikipedia.org/wiki/Chen_Danqing,,,2017-08-31,MG,2017-12-19,MG
-P0141,Deledda,Grazia ,en,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,,,,2017-09-06,CW,2017-09-06,CW
-P0141,格拉齐亚,黛莱达 ,zh,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,,,,2017-09-06,CW,2017-09-06,CW
+P0140,Chen,Danqing,en,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00044,74,,2017-08-31,MG,2017-12-23,MG
+P0140,陈,丹青,zh,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00044,74,,2017-08-31,MG,2017-12-23,MG
+P0141,Deledda,Grazia ,en,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,2017-09-06,CW,2017-12-23,MG
+P0141,格拉齐亚,黛莱达 ,zh,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,2017-09-06,CW,2017-12-23,MG
 P0142,Lin,Da,en,,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,,,,2017-09-06,CW,2017-09-24,CW
 P0142,林,达,zh,,yes,,,PL0008,1952,,丁林,zh,PL0003,,,,,,2017-09-06,CW,2017-09-24,CW
 P0143,Jin,Zhong,en,,,,,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,,,,2017-09-06,CW,2017-09-06,CW
 P0143,金,中,zh,,,,,PL0011,1926,2008,章世箐 ,zh,PL0069,,,,,,2017-09-06,CW,2017-09-06,CW
-P0144,Bei,Shan,en,,,,,,,,,,,,,,,,2017-09-20,MG,2017-09-20,MG
-P0144,贝,山,zh,,,,,,,,,,,,,,,,2017-09-20,MG,2017-09-20,MG
+P0144,Bei,Shan,en,,,,,,,,,,,,,T00011,78,,2017-09-20,MG,2017-12-23,MG
+P0144,贝,山,zh,,,,,,,,,,,,,T00011,78,,2017-09-20,MG,2017-12-23,MG
 P0145,Brontë,Charlotte,en,female,NULL,NULL,NULL,NULL,1816,1855,Currer Bell,en,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,2017-09-22,MG,2017-10-13,MG
 P0145,勃朗特,夏綠蒂,zh,female,NULL,NULL,NULL,NULL,1816,1855,,,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,2017-09-22,MG,2017-10-13,MG
-P0150,Link,Perry,en,male,NULL,NULL,NULL,NULL,1944,,,,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,2017-09-22,MG,2017-10-13,MG
-P0150, 林,培瑞,zh,male,NULL,NULL,NULL,NULL,1944,,,,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,2017-09-22,MG,2017-10-13,MG
-P0151,Camus,Albert,fr,male,NULL,NULL,NULL,NULL,1913,1960,,,PL0073,NULL,NULL,https://de.wikipedia.org/wiki/Albert_Camus,,,2017-09-22,MG,2017-10-13,MG
-P0151,加缪,阿尔贝,zh,male,NULL,NULL,NULL,NULL,1913,1960,,,PL0073,NULL,NULL,https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA,,,2017-09-22,MG,2017-10-13,MG
+P0150,Link,Perry,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,2017-09-22,MG,2017-12-23,MG
+P0150, 林,培瑞,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,2017-09-22,MG,2017-12-23,MG
+P0151,Camus,Albert,fr,male,NULL,NULL,NULL,NULL,1913,1960,NULL,NULL,PL0073,NULL,NULL,https://de.wikipedia.org/wiki/Albert_Camus,,,2017-09-22,MG,2017-12-23,MG
+P0151,加缪,阿尔贝,zh,male,NULL,NULL,NULL,NULL,1913,1960,NULL,NULL,PL0073,NULL,NULL,https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA,,,2017-09-22,MG,2017-12-23,MG
 P0152,Cao,Xueqin,en,male,NULL,NULL,NULL,NULL,1715-1724,1762-1763,,,,NULL,NULL,https://de.wikipedia.org/wiki/Der_Traum_der_Roten_Kammer,,,2017-09-22,MG,2017-11-06,OS
 P0152,曹,雪芹,zh,male,NULL,NULL,NULL,NULL,1715-1724,1762-1763,,,,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9B%B9%E9%9B%AA%E8%8A%B9,,,2017-09-22,MG,2017-11-06,OS
 P0153,Yu,Pingbo,en,male,yes,CHIA-YI,,,1900,1990,Yu Mingheng,en,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,,2017-09-22,MG,2017-11-06,OS
 P0153,俞,平伯,zh,male,yes,,,,1900,1990,俞銘衡,zh,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,,2017-09-22,MG,2017-11-06,OS
-P0154,Yan,Lianke,en,male,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://de.wikipedia.org/wiki/Yan_Lianke,,,2017-09-22,MG,2017-11-06,OS
-P0154,阎,连科,zh,male,no,NULL,NULL,NULL,1958,,,,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,,2017-09-22,MG,2017-11-06,OS
+P0154,Yan,Lianke,en,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://de.wikipedia.org/wiki/Yan_Lianke,,,2017-09-22,MG,2017-11-06,OS
+P0154,阎,连科,zh,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,,2017-09-22,MG,2017-11-06,OS
 P0155,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,2017-09-22,MG,2017-11-06,OS
 P0155,张,郎郎,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,2017-09-22,MG,2017-11-06,OS
 P0156,Qi,Zhi,en,male,no,NULL,NULL,NULL,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
@@ -289,16 +289,16 @@ P0157,Li,Dazhao,en,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xuju
 P0157,李,大釗,zh,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,2017-09-24,CW,2017-11-06,OS
 P0158,Chaplin,Charlie,en,male,NULL,NULL,NULL,NULL,1889,1977,Charles Spencer Chaplin,en,PL0036,NULL,NULL,https://de.wikipedia.org/wiki/Charlie_Chaplin,,,2017-09-27,MG,2017-10-13,MG
 P0158,卓别林,查理,zh,male,NULL,NULL,NULL,NULL,1889,1977,查尔斯 斯宾赛,zh,PL0036,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%C2%B7%E5%8D%93%E5%88%AB%E6%9E%97,,,2017-09-27,MG,2017-10-13,MG
-P0159,Chekhov,Anton,en,male,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-10-13,MG
-P0159,契诃夫,安东,zh,male,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-10-13,MG
-P0159,Че́хов ,Анто́н ,ru,male,NULL,NULL,NULL,NULL,1860,1904,,,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-10-13,MG
-P0160,Dickens,Charles,en,male,NULL,NULL,NULL,NULL,1812,1870,,,PL0083,NULL,NULL,,,,2017-09-29,MG,2017-10-13,MG
-P0160,狄更斯,查尔斯,zh,male,NULL,NULL,NULL,NULL,1812,1870,,,PL0083,NULL,NULL,,,,2017-09-29,MG,2017-10-13,MG
-P0161,Chernyshevsky,Nikolay Gavrilovich,en,male,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-10-13,MG
-P0161,车尔尼雪夫斯基,尼古拉 加夫里诺维奇,zh,male,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-10-13,MG
-P0161,Николай ,Гаврилович Чернышевский,ru,male,NULL,NULL,NULL,NULL,1828,1889,,,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-10-13,MG
-P0162,Hai,Mo,en,male,,,,,1923,1968,,,,,,https://baike.baidu.com/item/%E6%B5%B7%E9%BB%98,,,2017-10-03,MG,2017-10-03,MG
-P0162,海,默,zh,,,,,,1923,1968,原名张泽藩 ,zh,,,,https://baike.baidu.com/item/%E6%B5%B7%E9%BB%98,,,2017-10-03,MG,2017-10-03,MG
+P0159,Chekhov,Anton,en,male,NULL,NULL,NULL,NULL,1860,1904,NULL,NULL,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-12-23,MG
+P0159,契诃夫,安东,zh,male,NULL,NULL,NULL,NULL,1860,1904,NULL,NULL,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-12-23,MG
+P0159,Че́хов ,Анто́н ,ru,male,NULL,NULL,NULL,NULL,1860,1904,NULL,NULL,PL0078,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Chekhov,,,2017-09-27,MG,2017-12-23,MG
+P0160,Dickens,Charles,en,male,NULL,NULL,NULL,NULL,1812,1870,NULL,NULL,PL0083,NULL,NULL,https://en.wikipedia.org/wiki/Charles_Dickens,,,2017-09-29,MG,2017-12-23,MG
+P0160,狄更斯,查尔斯,zh,male,NULL,NULL,NULL,NULL,1812,1870,NULL,NULL,PL0083,NULL,NULL,https://en.wikipedia.org/wiki/Charles_Dickens,,,2017-09-29,MG,2017-12-23,MG
+P0161,Chernyshevsky,Nikolay Gavrilovich,en,male,NULL,NULL,NULL,NULL,1828,1889,NULL,NULL,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-12-23,MG
+P0161,车尔尼雪夫斯基,尼古拉 加夫里诺维奇,zh,male,NULL,NULL,NULL,NULL,1828,1889,NULL,NULL,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-12-23,MG
+P0161,Николай ,Гаврилович Чернышевский,ru,male,NULL,NULL,NULL,NULL,1828,1889,NULL,NULL,PL0079,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky,,,2017-09-29,MG,2017-12-23,MG
+P0162,Hai,Mo,en,male,NULL,NULL,NULL,NULL,1923,1968,,,PL0105,NULL,NULL,https://baike.baidu.com/item/%E6%B5%B7%E9%BB%98,,,2017-10-03,MG,2017-12-23,MG
+P0162,海,默,zh,male,NULL,NULL,NULL,NULL,1923,1968,原名张泽藩 ,zh,PL0105,NULL,NULL,https://baike.baidu.com/item/%E6%B5%B7%E9%BB%98,,,2017-10-03,MG,2017-12-23,MG
 P0163,Li,Shu,en,,NULL,NULL,NULL,NULL,1883,1954,,,PL0081,,,https://zh.wikipedia.org/wiki/%E9%BB%8E%E6%BE%8D,,,2017-10-03,MG,2017-10-03,MG
 P0163,黎,澍,zh,,NULL,NULL,NULL,NULL,1883,1954,,,PL0081,,,https://zh.wikipedia.org/wiki/%E9%BB%8E%E6%BE%8D,,,2017-10-03,MG,2017-10-03,MG
 P0164,Chen,Jingrong,en,,,,,,1917,1989,,,PL0006,,,https://zh.wikipedia.org/wiki/%E9%99%88%E6%95%AC%E5%AE%B9,,,2017-10-03,MG,2017-10-03,MG
@@ -307,8 +307,8 @@ P0165,Jiang,Dingyue,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0165,蔣,定粵,zh,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0166,Wu,,en,female,,,,,,,,,,,,,,(Wu Hong‘s mother),2017-10-03,MG,2017-10-13,MG
 P0166,鸿,,zh,female,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-13,MG
-P0167,Yan,Wenliang,en,,,,,,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,2017-10-03,MG,2017-10-03,MG
-P0167,颜,文樑 ,zh,,,,,,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,2017-10-03,MG,2017-10-03,MG
+P0167,Yan,Wenliang,en,male,,,,,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,2017-10-03,MG,2017-12-23,MG
+P0167,颜,文樑 ,zh,male,,,,,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,2017-10-03,MG,2017-12-23,MG
 P0168,Xiao,Xia,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0168,,,zh,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0169,Wang,Hanying,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
@@ -321,45 +321,45 @@ P0172,,Zhenzhen,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0172,,,zh,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0173,Liu,Nina,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0173,刘,妮娜,zh,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0174,Mao,Zedong,en,male,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,,2017-10-03,MG,2017-10-13,MG
-P0174,毛,泽东,zh,male,NULL,NULL,NULL,NULL,1893,1976,,,PL0080,,,,,,2017-10-03,MG,2017-10-13,MG
+P0174,Mao,Zedong,en,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,,,2017-10-03,MG,2017-12-23,MG
+P0174,毛,泽东,zh,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,,,2017-10-03,MG,2017-12-23,MG
 P0175,Peng,Yilin,en,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0175,,,zh,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0176,Dedijer ,Vladimir,en,male,NULL,NULL,NULL,NULL,1914,1990,,,PL0088,,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,,2017-10-08,MG,2017-10-13,MG
-P0176,杰吉耶尔,弗拉吉米尔,zh,male,NULL,NULL,NULL,NULL,1914,1990,,,PL0088,,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,,2017-10-08,MG,2017-10-13,MG
-P0177,De Santis,Giuseppe,it,male,NULL,NULL,NULL,NULL,1917,1997,,,PL0086,,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,,2017-10-08,MG,2017-10-13,MG
-P0177,德桑蒂斯,朱塞佩,zh,male,NULL,NULL,NULL,NULL,1917,1997,,,PL0086,,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,,2017-10-08,MG,2017-10-13,MG
-P0178,Darwin,Charles,en,male,NULL,NULL,NULL,NULL,1809,1882,,,PL0085,,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,,2017-10-08,MG,2017-10-13,MG
-P0178,达尔文,查尔斯,zh,male,NULL,NULL,NULL,NULL,1809,1882,,,PL0085,,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,,2017-10-08,MG,2017-10-13,MG
-P0179,Crankshaw ,Edward ,en,male,NULL,NULL,NULL,NULL,1909,1984,,,PL0087,,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,,2017-10-08,MG,2017-10-13,MG
-P0179,克兰克肖,爱德华,zh,male,NULL,NULL,NULL,NULL,1909,1984,,,PL0087,,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,,2017-10-08,MG,2017-11-11,MG
+P0176,Dedijer ,Vladimir,en,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,,2017-10-08,MG,2017-12-23,MG
+P0176,杰吉耶尔,弗拉吉米尔,zh,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,,,2017-10-08,MG,2017-12-23,MG
+P0177,De Santis,Giuseppe,it,male,NULL,NULL,NULL,NULL,1917,1997,NULL,NULL,PL0086,NULL,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,,2017-10-08,MG,2017-12-23,MG
+P0177,德桑蒂斯,朱塞佩,zh,male,NULL,NULL,NULL,NULL,1917,1997,NULL,NULL,PL0086,NULL,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,,,2017-10-08,MG,2017-12-23,MG
+P0178,Darwin,Charles,en,male,NULL,NULL,NULL,NULL,1809,1882,NULL,NULL,PL0085,NULL,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,,2017-10-08,MG,2017-12-23,MG
+P0178,达尔文,查尔斯,zh,male,NULL,NULL,NULL,NULL,1809,1882,NULL,NULL,PL0085,NULL,NULL,https://de.wikipedia.org/wiki/Charles_Darwin,,,2017-10-08,MG,2017-12-23,MG
+P0179,Crankshaw ,Edward ,en,male,NULL,NULL,NULL,NULL,1909,1984,NULL,NULL,PL0087,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,,2017-10-08,MG,2017-12-23,MG
+P0179,克兰克肖,爱德华,zh,male,NULL,NULL,NULL,NULL,1909,1984,NULL,NULL,PL0087,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Crankshaw,,,2017-10-08,MG,2017-12-23,MG
 P0180,Song,Yongyi,en,male,,,,,1949,,,,PL0003,,,https://fr.wikipedia.org/wiki/Song_Yongyi,,,2017-10-09,MG,2017-10-14,CW
 P0180,宋,永毅,zh,male,,,,,1949,,,,PL0003,,,https://fr.wikipedia.org/wiki/Song_Yongyi,,,2017-10-09,MG,2017-10-14,CW
-P0181,Marx,Karl,en,male,NULL,NULL,NULL,NULL,1818,1883,,,PL0095,,NULL,https://en.wikipedia.org/wiki/Karl_Marx,,,2017-10-24,MG,2017-10-24,MG
-P0181,马克思,卡尔,zh,male,NULL,NULL,NULL,NULL,1818,1883,,,PL0095,,NULL,https://en.wikipedia.org/wiki/Karl_Marx,,,2017-10-24,MG,2017-10-24,MG
-P0182,Lenin,Vladimir,en,male,NULL,NULL,NULL,NULL,1870,1924,,,PL0094,,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-10-24,MG
-P0182,列寧,弗拉基米尔,zh,male,NULL,NULL,NULL,NULL,1870,1924,,,PL0094,,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-10-24,MG
-P0182,Ленин,Владимир,ru,male,NULL,NULL,NULL,NULL,1870,1924,,,PL0094,,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-10-24,MG
-P0183,Li,Ruzhen,en,male,NULL,NULL,NULL,NULL,1763,1830,Songsh Daoren,en,PL0002,,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,2017-10-25,MG,2017-10-25,MG
-P0183,李,汝珍 ,zh,male,NULL,NULL,NULL,NULL,1763,1830,松石道人 ,zh,PL0002,,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,2017-10-25,MG,2017-10-25,MG
-P0184,Fan,Zhen,en,male,NULL,NULL,NULL,NULL,450,510,,,PL0097,,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,2017-10-30,MG,2017-10-30,MG
-P0184,范,缜,zh,male,NULL,NULL,NULL,NULL,450,510,,,PL0097,,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,2017-10-30,MG,2017-10-30,MG
-P0185,Yi,Jia,zh,male,NULL,NULL,NULL,NULL,200,169,Yi Sheng,en,PL0077,,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,2017-10-30,MG,2017-10-30,MG
-P0185,贾,谊 ,en,male,NULL,NULL,NULL,NULL,200,169,贾生 ,zh,PL0077,,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,2017-10-30,MG,2017-10-30,MG
-P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,551,479,Kong Fuzi,en,PL0098,,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,2017-10-30,MG,2017-10-30,MG
-P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,551,479,孔夫子,zh,PL0098,,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,2017-10-30,MG,2017-10-30,MG
-P0187,Kuan,Huan,en,male,NULL,NULL,NULL,NULL,,,,,PL0099,,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,2017-10-30,MG,2017-10-30,MG
-P0187,桓,宽,zh,male,NULL,NULL,NULL,NULL,,,,,PL0099,,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,2017-10-30,MG,2017-10-30,MG
+P0181,Marx,Karl,en,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0095,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Marx,,,2017-10-24,MG,2017-12-23,MG
+P0181,马克思,卡尔,zh,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0095,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Marx,,,2017-10-24,MG,2017-12-23,MG
+P0182,Lenin,Vladimir,en,male,NULL,NULL,NULL,NULL,1870,1924,Vladimir Ilyich Ulyanov,en,PL0094,NULL,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-12-23,MG
+P0182,列寧,弗拉基米尔,zh,male,NULL,NULL,NULL,NULL,1870,1924,弗拉基米尔 伊里奇 列宁,zh,PL0094,NULL,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-12-23,MG
+P0182,Ленин,Владимир,ru,male,NULL,NULL,NULL,NULL,1870,1924,Влади́мир Ильи́ч Улья́нов,ru,PL0094,NULL,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,2017-10-24,MG,2017-12-23,MG
+P0183,Li,Ruzhen,en,male,NULL,NULL,NULL,NULL,1763,1830,Songsh Daoren,en,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,2017-10-25,MG,2017-12-23,MG
+P0183,李,汝珍 ,zh,male,NULL,NULL,NULL,NULL,1763,1830,松石道人 ,zh,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,2017-10-25,MG,2017-12-23,MG
+P0184,Fan,Zhen,en,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,2017-10-30,MG,2017-12-23,MG
+P0184,范,缜,zh,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,2017-10-30,MG,2017-12-23,MG
+P0185,Yi,Jia,zh,male,NULL,NULL,NULL,NULL,200,169,Yi Sheng,en,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,2017-10-30,MG,2017-12-23,MG
+P0185,贾,谊 ,en,male,NULL,NULL,NULL,NULL,200,169,贾生 ,zh,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,2017-10-30,MG,2017-12-23,MG
+P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,551,479,Kong Fuzi,en,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,2017-10-30,MG,2017-12-23,MG
+P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,551,479,孔夫子,zh,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,2017-10-30,MG,2017-12-23,MG
+P0187,Kuan,Huan,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,2017-10-30,MG,2017-12-23,MG
+P0187,桓,宽,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,2017-10-30,MG,2017-12-23,MG
 P0999,anonymous, ,en,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,2017-11-07,DP,2017-11-07,DP
 P0999,无名, ,zh,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,2017-11-07,DP,2017-11-07,DP
-P0188,Salinger,Jerome David,en,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-14,MG
-P0188,塞林格,杰罗姆 大卫,zh,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-14,MG
-P0189,Turgenev,Ivan Sergeyevich,en,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
-P0189,Турге́нев,Ива́н Серге́евич,ru,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
-P0189,屠格涅夫,伊万 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-14,MG
-P0190,Ilin,Mikhail,en,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
-P0190,伊林,米,zh,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
-P0190,Ильин,Михаил,ru,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-19,MG
+P0188,Salinger,Jerome David,en,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,NULL,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-23,MG
+P0188,塞林格,杰罗姆 大卫,zh,male,NULL,NULL,NULL,NULL,1919,2010,NULL,NULL,PL0050,NULL,NULL,https://de.wikipedia.org/wiki/J._D._Salinger,,,2017-12-14,MG,2017-12-23,MG
+P0189,Turgenev,Ivan Sergeyevich,en,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,NULL,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-23,MG
+P0189,Турге́нев,Ива́н Серге́евич,ru,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,NULL,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-23,MG
+P0189,屠格涅夫,伊万 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1818,1883,NULL,NULL,PL0030,NULL,NULL,https://en.wikipedia.org/wiki/Ivan_Turgenev,,,2017-12-14,MG,2017-12-23,MG
+P0190,Ilin,Mikhail,en,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,NULL,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-23,MG
+P0190,伊林,米,zh,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,NULL,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-23,MG
+P0190,Ильин,Михаил,ru,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,NULL,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-23,MG
 P0191,Wang,Yinglin,en,male,NULL,NULL,NULL,NULL,1223,1296,NULL,NULL,PL0069,,NULL,http://www.chinaknowledge.de/History/Song/personswangyinglin.html,,,2017-12-23,OS,2017-12-23,OS
 P0191,王,應麟 ,zh,male,NULL,NULL,NULL,NULL,1223,1296,NULL,NULL,PL0069,,NULL,http://www.chinaknowledge.de/History/Song/personswangyinglin.html,,,2017-12-23,OS,2017-12-23,OS
 P0192,Feng,Menglong,en,male,NULL,NULL,NULL,NULL,1574,1646,NULL,NULL,PL0103,,NULL,https://en.wikipedia.org/wiki/Feng_Menglong,,,2017-12-23,OS,2017-12-23,OS
