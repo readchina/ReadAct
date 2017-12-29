@@ -17,7 +17,7 @@ T00009,马佳访谈录,,zh,P0017,G03,PL0002,2009,Sanlian shudian,,NULL,0,,0,,,20
 T00010,Ticket to the Stars,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,,,,,,,2017-07-12,OS,2017-07-12,OS
 T00010,帶星星的火車票,,zh,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. ,,2017-07-12,OS,2017-10-02,DP
 T00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
-T00011,1960-70年代 前朦胧诗 的发生探源,,zh,P0107,G19,PL0090,2014,扬子江评论,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
+T00011,1960-70年代 前朦胧诗 的发生探源,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
 T00012,Wuti wangshi,,zh-Latn-py,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00012,無題往事,,zh,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
 T00013,My Universities,,en,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
@@ -36,10 +36,10 @@ T00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,196
 T00024,新阶级,对共产主义制度的分析,zh,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,T00005,,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-16,MG
 T00025,Letters Between Two,,eh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
 T00025,两地书,,zh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
-T00026,I Almost Killed Someone That Year,,en,P0119,G03,http://www.xujuneberlein.com/rem48.html,2010,Remembrance,2010,no,,,,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
-T00026,那年我差点杀人,,zh,P0119,G03,http://www.xujuneberlein.com/rem48.html,2010,记忆,2010,no,,,,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
-T00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,http://www.xujuneberlein.com/rem72.html,2011,Remembrance,2011,no,,,,,,2017-07-27,LH,2017-07-27,LH
-T00027,春色谁为主，南北东西路——四中琐记,,zh,P0058,G03,http://www.xujuneberlein.com/rem72.html,2011,记忆,2011,no,,,,,,2017-07-27,LH,2017-07-27,LH
+T00026,I Almost Killed Someone That Year,,en,P0119,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+T00026,那年我差点杀人,,zh,P0119,G03,,2010,记忆,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+T00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
+T00027,春色谁为主，南北东西路——四中琐记,,zh,P0058,G03,,2011,记忆,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
 T00028,Wild Grass,,en,P0001,G10,PL0002,1952,Renmin wenxue chubanshe ,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
 T00028,野草,,zh,P0001,G10,PL0002,1952,Renmin wenxue chubanshe ,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
 T00029,‘Meeting by chance’,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,,,2017-07-28,LH,2017-07-28,LH
@@ -76,14 +76,14 @@ T00056,人世间,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045
 T00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,T00044,,495,,,2017-08-26,MG,2017-08-26,MG
 T00057,观刈麦,,zh,P0090,G10,,,,,,T00044,,495,,,2017-08-26,MG,2017-08-26,MG
 T00058,The Girl of the Mountains (Kenga e naftes),,en,P0081,,PL0091,1956,Qunyitang,,yes,T00044,,57,movie,,2017-08-27,MG,2017-10-24,MG
-T00058,山姑娘,,zh,P0081,,PL0091,1956,群益堂,,yes,T00044,,57,movie,,2017-08-27,MG,2017-10-24,MG
+T00058,山姑娘,,zh,P0081,,PL0091,1956,Qunyitang,,yes,T00044,,57,movie,,2017-08-27,MG,2017-10-24,MG
 T00059,Reeds in the wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
-T00059,风中芦苇,,zh,P0141,G04,PL0003,1992,上海译文出版社,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
+T00059,风中芦苇,,zh,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
 T00059,Canne al vento,,it,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
 T00060,En attendant Godot,,fr,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,,7-10,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-08-31,MG,2017-10-02,DP
 T00060,等待戈多,,zh,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00045,,7-10,According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-08-31,MG,2017-10-02,DP
 T00061,The Story of Translators,,en,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
-T00061,翻译家的故事,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,记忆,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
+T00061,翻译家的故事,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
 T00062,Waves,,en,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00044,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2017-10-18,MG
 T00062,波动,,zh,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00044,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2017-10-18,MG
 T00063,The Answer,,en,P0009,G10,PL0002,1978,,,,T00044,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2017-09-08,MG
@@ -116,7 +116,7 @@ T00076,局外人,,zh,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,T00005,
 T00077,Dream of the Red Chamber,,en,P0152,G04,PL0003,1949,Kaiming shudian,,,T00044,,372,,,2017-09-22,MG,2017-10-18,MG
 T00077,红楼梦,,zh,P0152,G04,PL0003,1949,Kaiming shudian,,,T00044,,372,,,2017-09-22,MG,2017-10-18,MG
 T00078,Shouchang wenji,,en,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
-T00078,守常文集,,zh,P0157,G01,PL0002,1949,北新书局发行者,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
+T00078,守常文集,,zh,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
 T00079,City Lights,,en,P0158,,,1931,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
 T00079,城市之光,,zh,P0158,,,1931,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
 T00080,The Gold Rush,,en,P0158,,,1925,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
@@ -211,5 +211,7 @@ T00125,A Hundred Thousand Whys,,en,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T
 T00125,十万个为什么,,zh,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
 T00126,A Thousand and One Nights,,en,P0999,G08,PL0002,1957,Renmin wenxue chubanshe ,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
 T00126,一千零一夜,,zh,P0999,G08,PL0002,1957,Renmin wenxue chubanshe ,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
-T00127,The best friend of that time,,en,P0016,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,203-215,,,,,,
-T00127,当年最好的朋友,,zh,P0016,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,203-215,,,,,,
+T00127,The best friend of that time,,en,P0016,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,203-215,,,2017-12-29,OS,2017-12-29,OS
+T00127,当年最好的朋友,,zh,P0016,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,203-215,,,2017-12-29,OS,2017-12-29,OS
+T00128,Born Red,A Chronicle of the Cultural Revolution,en,P0064,G03,PL0109,1987,Stanford University Press,,NULL,NULL,NULL,416,,,2017-12-29,OS,2017-12-29,OS
+T00129,The Cambridge History of Chinese Literature,Volume II: From 1375,en,P0196,G19,PL0050,1905-07-02,Cambridge University Press,,NULL,NULL,NULL,,,,2017-12-29,OS,2017-12-29,OS
