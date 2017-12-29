@@ -15,8 +15,10 @@ Person,alt_name_lang,Language code of this name,,2017-07-04,LH,2017-07-04,LH
 Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
 Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading. Add 'unknown' in case you do not know. It is not necessary for those who are only authors in our data-set such as Shakespeare or Lu Xun. For them add 'NULL'.,,2017-07-04,LH,2017-07-04,LH
 Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add NULL in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
-Person,source_id,Reference to text in which a reading is recorded; for person entries for authors of autobiographical texts or of academic texts. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
+Person,source_id,Reference to text in which relevant information to an author is recorded. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
 Person,page_number,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
+Person,2nd source_id,2nd reference to text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
+Person,2nd page_number,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-12-29,OS,2017-12-29,OS
 Person,commentary,Please only add information relevant for our project (like '手抄本') or which helps to trace it (like 'part of xy anthology') or about its general importance. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
 Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
