@@ -1,4 +1,4 @@
-person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id,page_number,2nd source_id,2nd page_number,note,created,created_by,last_modified,last_modified_by
+person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id_1,page_number_1,source_id_2,page_number_2,note,created,created_by,last_modified,last_modified_by
 P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,,,,,,2017-07-03,LH,2017-10-13,MG
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,,,,,,2017-07-03,LH,2017-10-13,MG
 P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,T00045,18 24,,,,2017-07-05,LH,2017-11-17,MG
