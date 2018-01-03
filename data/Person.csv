@@ -1,10 +1,10 @@
-person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id,page_number,2nd source_id,2nd page_number,note,created,created_by,last_modified,last_modified_by
+person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id_1,page_number_1,source_id_2,page_number_2,note,created,created_by,last_modified,last_modified_by
 P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,,,,,,2017-07-03,LH,2017-10-13,MG
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,,,,,,2017-07-03,LH,2017-10-13,MG
 P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,T00045,18 24,,,,2017-07-05,LH,2017-11-17,MG
 P0002,牟,敦白,zh,male,,,,,1947,,,,,,,T00045,18 24,,,,2017-07-05,LH,2017-11-17,MG
-P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943 or 1944?,,,,PL0021,,Yes ,T00011,75f 79f,T00112,52,MIRA: alle T00112 nochmal überprüfen,2017-07-05,LH,2017-12-29,OS
-P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943 or 1944?,,,,PL0021,,Yes ,T00011,75f 79f,T00112,52,MIRA: alle T00112 nochmal überprüfen,2017-07-05,LH,2017-12-29,OS
+P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,,Yes ,T00011,75f 79f,T00129,609,,2017-07-05,LH,2017-12-29,OS
+P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,,Yes ,T00011,75f 79f,T00129,609,,2017-07-05,LH,2017-12-29,OS
 P0004,Mang,Ke,en,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,T00115,183ff,,2017-07-05,LH,2017-12-29,OS
 P0004,芒,克,zh,male,,1969,1969,,1950,,,,,,,T00011,75f 79f,T00115,183ff,,2017-07-05,LH,2017-12-29,OS
 P0005,Peng,Gang,en,female,,,,,1953,,,,,,,T00011,79,T00115,183ff,,2017-07-05,LH,2017-12-29,OS
@@ -29,8 +29,8 @@ P0014,Zhao,Yifan,en,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00115,194,,,,2017-07-
 P0014,赵,一凡,zh,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00115,194,,,,2017-07-05,LH,2017-12-17,MG
 P0015,Yi,Qun,en,male,,,,,1947,,,,,,,T00114,197,,,,2017-07-05,LH,2017-12-13,MG
 P0015,依,群,zh,male,,,,,1947,,,,,,,T00114,197,,,,2017-07-05,LH,2017-12-13,MG
-P0016,Zhou,Duo,en,,,,,,,,,,,,,T00127,210,,,,2017-07-05,LH,2017-12-29,OS
-P0016,周,舵,zh,,,,,,,,,,,,,T00127,210,,,,2017-07-05,LH,2017-12-29,OS
+P0016,Zhou,Duo,en,male,,,,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,2017-07-05,LH,2017-12-29,OS
+P0016,周,舵,zh,male,,,,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,2017-07-05,LH,2017-12-29,OS
 P0017,Ma,Jia,en,male,,,,,1953,,,,,,,T00009,219ff,,,,2017-07-05,LH,2017-11-17,MG
 P0017,马,佳,zh,male,,,,,1953,,,,,,,T00009,219ff,,,,2017-07-05,LH,2017-11-17,MG
 P0018,Yan,Li,en,male,,,,,1954,,,,,,,T00009,220,,,,2017-07-05,LH,2017-11-17,MG
@@ -57,8 +57,8 @@ P0028,Zhang,Jiuxing,en,,,,,,to1972or1973,,,,,,,T00011,76,,,,2017-07-05,LH,2017-1
 P0028,张,久兴,zh,,,,,,to1972or1973,,,,,,,T00011,76,,,,2017-07-05,LH,2017-11-17,MG
 P0029,Wu,Hong,en,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,T00011,78 80,T00029,116-125,,2017-07-05,LH,2017-12-29,OS
 P0029,巫,鸿,zh,male,yes,1969 (?),1973 (?),PL0005,Zhangjiakoushi City,Hebei Province,,,,,Yes ,T00011,78 80,T00029,116-125,,2017-07-05,LH,2017-12-29,OS
-P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,T00011,78,T00112,51,,2017-07-05,LH,2017-12-29,OS
-P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,T00011,78,T00112,51,,2017-07-05,LH,2017-12-29,OS
+P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,T00011,78,T00112,51,MIRA: alle T00112 nochmal überprüfen,2017-07-05,LH,2017-12-29,OS
+P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,T00011,78,T00112,51,MIRA: alle T00112 nochmal überprüfen,2017-07-05,LH,2017-12-29,OS
 P0031,Huang ,Guangzu ,en,male,,NULL,NULL,PL0006,1946,,,,,,no,T00109,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0031,黄,光祖,zh,male,,NULL,NULL,PL0006,1946,,,,,,no,T00109,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0032,Zhu ,Shixian ,en,male,,NULL,NULL,PL0006,1944,1972,,,,,,T00109,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
@@ -125,8 +125,8 @@ P0062,Siao,Eva,en,female,,,,,1911,2001,,,,,,T00113,,,,,2017-07-05,LH,2017-12-13,
 P0062,叶,华,zh,female,,,,,1911,2001,,,,,,T00113,,,,,2017-07-05,LH,2017-12-13,MG
 P0063,Nanchu , ,en,female,,1970,1973,PL0008,1953,,,,,,yes,T00003,196f,,,,2017-07-05,LH,2017-12-14,MG
 P0063,Nanchu , ,zh,female,,1970,1973,PL0008,1953,,,,,,yes,T00003,196f,,,,2017-07-05,LH,2017-12-14,MG
-P0064,Gao,Yuan,en,male,,,,,1952,,,,,,,,Gao Yuan 1987,,,,2017-07-05,LH,2017-11-06,OS
-P0064,高 ,原,zh,male,,,,,1952,,,,,,,,Gao Yuan 1987,,,,2017-07-05,LH,2017-11-06,OS
+P0064,Gao,Yuan,en,male,,,,,1952,,,,Shuiyuan,,,T00128,5ff. ,,,Could not exactly locate Shuiyuan. Somewhere close to the Taihang mountains.,2017-07-05,LH,2017-12-29,OS
+P0064,高 ,原,zh,male,,,,,1952,,,,Shuiyuan,,,T00128,5ff. ,,,Could not exactly locate Shuiyuan. Somewhere close to the Taihang mountains.,2017-07-05,LH,2017-12-29,OS
 P0065,Zhang,Zhenzhou,en,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
 P0065,张,振州,zh,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
 P0066,Gan,Lulin,en,,,,,,-1972or 1973,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
@@ -281,8 +281,8 @@ P0153,Yu,Pingbo,en,male,yes,CHIA-YI,,,1900,1990,Yu Mingheng,en,,S03,,https://en.
 P0153,俞,平伯,zh,male,yes,,,,1900,1990,俞銘衡,zh,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,,,,2017-09-22,MG,2017-11-06,OS
 P0154,Yan,Lianke,en,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://de.wikipedia.org/wiki/Yan_Lianke,,,,,2017-09-22,MG,2017-11-06,OS
 P0154,阎,连科,zh,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,,,,2017-09-22,MG,2017-11-06,OS
-P0155,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,,,2017-09-22,MG,2017-11-06,OS
-P0155,张,郎郎,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,yes,,,,,,2017-09-22,MG,2017-11-06,OS
+P0155,,,,,,,,,,,,,,,,,,,,,,,,
+P0155,,,,,,,,,,,,,,,,,,,,,,,,
 P0156,Qi,Zhi,en,male,no,NULL,NULL,NULL,,,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
 P0156,启,之,zh,male,no,NULL,NULL,NULL,,,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
 P0157,Li,Dazhao,en,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,,,2017-09-24,CW,2017-11-06,OS
@@ -369,3 +369,5 @@ P0193,Сталин,Иосиф Виссарионович,ru,male,NULL,NULL,NULL,
 P0194,Lin,Liguo,en,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T00124,544,,,"1945 and 1946 can be found for his birth year, academic publications rather stick to 1946. Generally speaking, few information is known about his early years.",2017-12-23,OS,2017-12-23,OS
 P0194,林,立果,zh,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T00124,544,,,"1945 and 1946 can be found for his birth year, academic publications rather stick to 1946. Generally speaking, few information is known about his early years.",2017-12-23,OS,2017-12-23,OS
 P0195,Pantsov,Alexander,en,male,NULL,NULL,NULL,NULL,1955,,NULL,NULL,PL0106,,NULL,https://prabook.com/web/alexander_vadimovich.pantsov/640626,,,,,2017-12-23,OS,2017-12-23,OS
+P0196,Sun Chang ,Kang-i ,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
+P0196,孫,康宜,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
