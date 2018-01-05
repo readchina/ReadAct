@@ -369,33 +369,39 @@ P0194,林,立果,zh,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T0
 P0195,Pantsov,Alexander,en,male,NULL,NULL,NULL,NULL,1955,,NULL,NULL,PL0106,,NULL,https://prabook.com/web/alexander_vadimovich.pantsov/640626,,,,,2017-12-23,OS,2017-12-23,OS
 P0196,Sun Chang ,Kang-i ,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
 P0196,孫,康宜,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
-P0197,Fang,Zifen,en,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,Fang Zifen 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0197,方,子奋,zh,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,Fang Zifen 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0198,Chen,Zhiqong ,en,male,,,,,,,,,,,,Fang Zifen 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0198,陈,志琼,zh,male,,,,,,,陳眊子,zh,,,,Fang Zifen 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0199,Dai,Weiwei,en,,,,,,,,,,,,,Dai Weiwei 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0199,戴,为伟,zh,,,,,,,,,,,,,Dai Weiwei 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0200,Shao,Yanxiang,en,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,Shao Yanxiang 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0200,邵,燕祥,zh,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,Shao Yanxiang 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0201,Chen,Yinan,en,,,,,,1948,,NULL,NULL,PL0110,,,Chen Yinan 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0201,陈,益南,zh,,,,,,1948,,NULL,NULL,PL0110,,,Chen Yinan 2011,,,,,2018-01-04,MG,2018-01-04,MG
-P0202,Gu,Xunzhong,en,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0202,顾,训中,zh,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0203,Hu,Xiaoshui,en,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0203,胡,小水,zh,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0204,Han,Shuguan,en,,,,,,,,NULL,NULL,,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0204,韩,曙光,zh,,,,,,,,NULL,NULL,,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0205,Tu,Xiaolei,en,,,,,,1948,,NULL,NULL,PL0112,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0205,涂,晓雷,zh,,,,,,1948,,NULL,NULL,PL0112,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0206,Deng,Wuwen,en,,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0206,邓,伍文,zh,,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0207,Ma,Wenwei,en,,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0207,马,文蔚,zh,,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0208,Rao,Ruinong,en,,yes,1970,unknown,PL0090,1944,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0208,饶,瑞农,zh,,yes,1970,unknown,PL0090,1944,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0209,Liao,Zhenlü,en,,NULL,NULL,NULL,NULL,1936,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0209,廖,振旅,zh,,NULL,NULL,NULL,NULL,1936,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0210,Li,Zhengquan,en,,,,,,1950,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
-P0210,李,正权,zh,,,,,,1950,,NULL,NULL,unknown,,,,,,,,2018-01-04,MG,2018-01-04,MG
+P0197,Fang,Zifen,en,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0197,方,子奋,zh,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0198,Chen,Zhiqong ,en,male,,,,,,,,,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0198,陈,志琼,zh,male,,,,,,,陳眊子,zh,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0199,Dai,Weiwei,en,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0199,戴,为伟,zh,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0200,Shao,Yanxiang,en,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0200,邵,燕祥,zh,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0201,Chen,Yinan,en,,,,,,1948,,NULL,NULL,PL0110,,,T00142,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0201,陈,益南,zh,,,,,,1948,,NULL,NULL,PL0110,,,T00142,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0202,Gu,Xunzhong,en,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0202,顾,训中,zh,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0203,Hu,Xiaoshui,en,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,T00144,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0203,胡,小水,zh,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,T00144,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0204,Han,Shuguan,en,,,,,,,,NULL,NULL,,,,T00116,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0204,韩,曙光,zh,,,,,,,,NULL,NULL,,,,T00116,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0205,Tu,Xiaolei,en,,,,,,1948,,NULL,NULL,PL0112,,,T00116,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0205,涂,晓雷,zh,,,,,,1948,,NULL,NULL,PL0112,,,T00116,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0206,Deng,Wuwen,en,,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,T00145,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0206,邓,伍文,zh,,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,T00145,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0207,Ma,Wenwei,en,,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,T00145,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0207,马,文蔚,zh,,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,T00145,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0208,Rao,Ruinong,en,,yes,1970,unknown,PL0090,1944,,NULL,NULL,unknown,,,T00146,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0208,饶,瑞农,zh,,yes,1970,unknown,PL0090,1944,,NULL,NULL,unknown,,,T00146,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0209,Liao,Zhenlü,en,,NULL,NULL,NULL,NULL,1936,,NULL,NULL,unknown,,,T00147,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0209,廖,振旅,zh,,NULL,NULL,NULL,NULL,1936,,NULL,NULL,unknown,,,T00147,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0210,Li,Zhengquan,en,,,,,,1950,,NULL,NULL,unknown,,,T00148,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0210,李,正权,zh,,,,,,1950,,NULL,NULL,unknown,,,T00148,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0211,Li ,Qian,en,male,NO,NULL,NULL,NULL,1949,,NULL,NULL,PL0113,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR ,2018-01-03,OS,2018-01-03,OS
 P0211,李,乾,zh,male,NO,NULL,NULL,NULL,1949,,NULL,NULL,PL0113,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR ,2018-01-03,OS,2018-01-03,OS
+P0212,He,Zhaowu,en,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0212,何,兆武,zh,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0213,Chi,Zehou,en,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0213,迟,泽厚,zh,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0214,Tang,Shaojie,en,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0214,唐,少杰,zh,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
