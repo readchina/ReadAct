@@ -117,8 +117,8 @@ P0058,Qi,Zhi,en,male,,,,PL0002,,,,,,,,,Qi Zhi 2011,,,,2017-07-05,LH,2017-10-14,C
 P0058,启,之,zh,male,,,,PL0002,,,,,,,,,Qi Zhi 2011,,,,2017-07-05,LH,2017-10-14,CW
 P0059,Bai,Hua,en,male,,,,,,,,,,,,T00117,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0059,白,桦,zh,male,,,,,,,,,,,,T00117,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
-P0060,Li,Ping,en,male,,,,PL0006,1948,,Liu Huixuan,,,,,,Li Qian 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0060,礼,平,zh,male,,,,PL0006,1948,,刘辉宣,,,,,,Li Qian 2010,,,,2017-07-05,LH,2017-10-14,CW
+P0060,Li,Ping,en,male,,,,PL0006,1948,,Liu Huixuan,,,,,T00130,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-03,OS
+P0060,礼,平,zh,male,,,,PL0006,1948,,刘辉宣,,,,,T00130,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-03,OS
 P0061,Yang,Xiguang,en,male,,,,,1948,2004,Yang Xiaokai,,,,,,,,,,2017-07-05,LH,2017-10-14,CW
 P0061,杨,曦光,zh,male,,,,,1948,2004,杨小凯,,,,,,,,,,2017-07-05,LH,2017-10-14,CW
 P0062,Siao,Eva,en,female,,,,,1911,2001,,,,,,T00113,,,,,2017-07-05,LH,2017-12-13,MG
@@ -371,3 +371,5 @@ P0194,林,立果,zh,male,NULL,NULL,NULL,NULL,1946,1971,NULL,NULL,unknown,,YES,T0
 P0195,Pantsov,Alexander,en,male,NULL,NULL,NULL,NULL,1955,,NULL,NULL,PL0106,,NULL,https://prabook.com/web/alexander_vadimovich.pantsov/640626,,,,,2017-12-23,OS,2017-12-23,OS
 P0196,Sun Chang ,Kang-i ,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
 P0196,孫,康宜,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,2017-12-29,OS,2017-12-29,OS
+P0197,Li ,Qian,en,male,NO,NULL,NULL,NULL,1949,,NULL,NULL,PL0110,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR ,2018-01-03,OS,2018-01-03,OS
+P0197,李,乾,zh,male,NO,NULL,NULL,NULL,1949,,NULL,NULL,PL0110,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR ,2018-01-03,OS,2018-01-03,OS
