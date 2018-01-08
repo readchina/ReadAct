@@ -93,28 +93,28 @@ P0046,Xie,Shengxian,en,male,,,,PL0006,1945,,,,,,,T00120,ONLINE SOURCE,,,,2017-07
 P0046,谢,声显,zh,male,,,,PL0006,1945,,,,,,,T00120,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0047,Han,Pingzao,en,male,,,,PL0012,,,,,,,,,Huang Aihe 2008,,,,2017-07-05,LH,2017-10-14,CW
 P0047,韩,平藻,zh,male,,,,PL0012,,,,,,,,,Huang Aihe 2008,,,,2017-07-05,LH,2017-10-14,CW
-P0048,Hui,Xianjun,en,male,,,,,1932,,,,,,,,Tang Shaojie 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0048,惠,宪钧,zh,male,,,,,1932,,,,,,,,Tang Shaojie 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0049,Piao,Mu,en,male,,1971,1971,PL0013,,,,,,,,,Piao Mu 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0049,漂,木,zh,male,,1971,1971,PL0013,,,,,,,,,Piao Mu 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0050,Wu,Yunhong,en,male,,,,,1940,,,,,,,,Wu Yunhong 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0050,吴,允弘,zh,male,,,,,1940,,,,,,,,Wu Yunhong 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0051,Wu,Tianshi,en,male,NULL,,,,1911,1966,,,,,,,Wu Yunhong 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0051,吴,天石,zh,male,NULL,,,,1911,1966,,,,,,,Wu Yunhong 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0052,Liu,Haiou,en,female,no,,,PL0014,1958,,,,,,,,Liu Haiou 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0052,刘,海鸥,zh,female,no,,,PL0014,1958,,,,,,,,Liu Haiou 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0053,Huang,Yongsheng,en,male,,,,PL0015,1910,1983,Huang Xuqian,,,,,,Chi Zehou 2010,,,,2017-07-05,LH,2017-10-14,CW
-P0053,黄,永胜,zh,male,,,,PL0015,1910,1983,黄叙钱,,,,,,Chi Zehou 2010,,,,2017-07-05,LH,2017-10-14,CW
+P0048,Hui,Xianjun,en,male,,,,,1932,,,,,,,T00136,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0048,惠,宪钧,zh,male,,,,,1932,,,,,,,T00136,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0049,Piao,Mu,en,male,,1971,1971,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0049,漂,木,zh,male,,1971,1971,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0050,Wu,Yunhong,en,male,,,,,1940,,,,,,,T00137,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0050,吴,允弘,zh,male,,,,,1940,,,,,,,T00137,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0051,Wu,Tianshi,en,male,NULL,,,,1911,1966,,,,,,T00137,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0051,吴,天石,zh,male,NULL,,,,1911,1966,,,,,,T00137,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0052,Liu,Haiou,en,female,no,,,PL0014,1958,,,,,,,T00133,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0052,刘,海鸥,zh,female,no,,,PL0014,1958,,,,,,,T00133,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0053,Huang,Yongsheng,en,male,,,,PL0015,1910,1983,Huang Xuqian,,,,,T00134,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0053,黄,永胜,zh,male,,,,PL0015,1910,1983,黄叙钱,,,,,T00134,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
 P0054,Xi,Liufang,en,male,,,,,1947,,,,,,,,zugong tongxun 1980,,,,2017-07-05,LH,2017-10-14,CW
 P0054,奚,柳芳,zh,male,,,,,1947,,,,,,,,zugong tongxun 1980,,,,2017-07-05,LH,2017-10-14,CW
-P0055,Hou,Wailu,en,male,,,,,1903,1987,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0055,侯,外庐,zh,male,,,,,1903,1987,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0056,Gu,Jiegang,en,male,,,,,1893,1980,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0056,顾,颉刚,zh,male,,,,,1893,1980,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0057,Xie,Guozhen,en,male,,,,,1901,1982,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0057,谢,国桢,zh,male,,,,,1901,1982,,,,,,,He Zhaowu 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0058,Qi,Zhi,en,male,,,,PL0002,,,,,,,,,Qi Zhi 2011,,,,2017-07-05,LH,2017-10-14,CW
-P0058,启,之,zh,male,,,,PL0002,,,,,,,,,Qi Zhi 2011,,,,2017-07-05,LH,2017-10-14,CW
+P0055,Hou,Wailu,en,male,,,,,1903,1987,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0055,侯,外庐,zh,male,,,,,1903,1987,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0056,Gu,Jiegang,en,male,,,,,1893,1980,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0056,顾,颉刚,zh,male,,,,,1893,1980,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0057,Xie,Guozhen,en,male,,,,,1901,1982,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0057,谢,国桢,zh,male,,,,,1901,1982,,,,,,T00131,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0058,Qi,Zhi,en,male,,,,PL0002,,,,,,,,T00027,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
+P0058,启,之,zh,male,,,,PL0002,,,,,,,,T00027,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-08,MG
 P0059,Bai,Hua,en,male,,,,,,,,,,,,T00117,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0059,白,桦,zh,male,,,,,,,,,,,,T00117,ONLINE SOURCE,,,,2017-07-05,LH,2017-12-13,MG
 P0060,Li,Ping,en,male,,,,PL0006,1948,,Liu Huixuan,,,,,T00138,ONLINE SOURCE,,,,2017-07-05,LH,2018-01-03,OS
@@ -139,95 +139,95 @@ P0069,Yang,Xiamin,en,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
 P0069,杨,孝敏,zh,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
 P0070,Jiang,Dingyue,en,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
 P0070,蒋,定粤,zh,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
-P0071,Gan,Huili,en,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
-P0071,甘,恢理,zh,,,,,,,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
+P0071,Gan,Huili,en,,,,,,,,,,,,,T00112,52,,,,2017-07-05,LH,2018-01-08,MG
+P0071,甘,恢理,zh,,,,,,,,,,,,,T00112,52,,,,2017-07-05,LH,2018-01-08,MG
 P0072,Zhang,Dawei,en,,,,,,,,,,,,,T00112,52,,,,2017-07-05,LH,2017-12-17,MG
 P0072,张,大伟,zh,,,,,,,,,,,,,T00112,52,,,,2017-07-05,LH,2017-12-17,MG
-P0073,Rae,Yang,en,female,,1968,1973,PL0008,1950,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
-P0073,杨,瑞,zh,female,,1968,1973,PL0008,1950,,,,,,,T00112,51,,,,2017-07-05,LH,2017-12-13,MG
+P0073,Rae,Yang,en,female,,1968,1973,PL0008,1950,,,,,,,,,,,,2017-07-05,LH,2018-01-08,MG
+P0073,杨,瑞,zh,female,,1968,1973,PL0008,1950,,,,,,,,,,,,2017-07-05,LH,2018-01-08,MG
 P0074,Bai,Di,en,female,,,,,1954,,,,,,,T00123,92,,,,2017-07-05,LH,2017-12-17,MG
 P0074,柏,棣,zh,female,,,,,1954,,,,,,,T00123,92,,,,2017-07-05,LH,2017-12-17,MG
 P0075,Chen,Xiaomei,en,female,,1969,1973,Beidahuang,1954,,,,,,,T00123,,,,,2017-07-05,LH,2017-12-17,MG
-P0076,Aitmatov,Chinghiz,en,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0076,艾特玛托夫 ,钦吉斯,zh,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0076,Чыңгыз ,Айтматов,ky,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0077,Akhmatova,Anna ,en,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0077,阿赫玛托娃 ,安娜,zh,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0077,Ахматова ,Анна,ru,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0078,Aksyonov ,Vasily ,en,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0078,阿克肖诺夫,瓦西里,zh,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0078,Аксёнов,Васи́лий ,ru,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0079,Alliluyeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0079,阿利卢耶娃,斯韦特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0079,Аллилу́ева,Светла́на ,ru,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0080,Althusser,Louis,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0082,Андре́ев,Леони́д ,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,,,,,,2017-07-09,OS,2017-10-13,MG
+P0076,Aitmatov,Chinghiz,en,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,2017-07-09,OS,2018-01-08,MG
+P0076,艾特玛托夫 ,钦吉斯,zh,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,2017-07-09,OS,2018-01-08,MG
+P0076,Чыңгыз ,Айтматов,ky,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,Akhmatova,Anna ,en,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,阿赫玛托娃 ,安娜,zh,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,Ахматова ,Анна,ru,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,Aksyonov ,Vasily ,en,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,阿克肖诺夫,瓦西里,zh,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,Аксёнов,Васи́лий ,ru,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,Alliluyeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,阿利卢耶娃,斯韦特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,Аллилу́ева,Светла́на ,ru,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,2017-07-09,OS,2018-01-08,MG
+P0080,Althusser,Louis,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,2017-07-09,OS,2018-01-08,MG
+P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://en.wikipedia.org/wiki/Dhimit%C3%ABr_Anagnosti,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,Андре́ев,Леони́д ,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,,,,,,2017-07-09,OS,2017-10-13,MG
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,,,,,,2017-07-09,OS,2017-11-06,OS
-P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0085,Арцыба́шев,Михаи́л ,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0086,Ba ,Jin,en,male,NULL,NULL,NULL,NULL,1904,2005,Li Yaotang,en,PL0004,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0086,巴,金,zh,male,NULL,NULL,NULL,NULL,1904,2005,李尧棠,zh,PL0004,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0087,Baba,Corneliu,en,male,NULL,NULL,NULL,NULL,1906,1997,Baba ,en,PL0033,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0087,科内里,巴巴,zh,male,NULL,NULL,NULL,NULL,1906,1997,巴巴柯尔尼留,zh,PL0033,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0088,Babayevsky,Semyon ,en,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0088,巴巴耶夫斯基,谢苗,zh,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0088,Бабаевский,Семён,ru,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0089,Bach,Johann Sebastian,en,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0089,巴赫,约翰·塞巴斯蒂安,zh,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,,,,,,2017-07-10,OS,2017-11-06,OS
-P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,,,,,,2017-07-10,OS,2017-11-06,OS
-P0091,Balmont,Konstantin,en,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0091,巴尔蒙特,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0091,Бальмо́нт,Константи́н,ru,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0092,Balzac,Honoré de,en,male,NULL,NULL,NULL,NULL,1799,1850,,,PL0040,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0092,巴尔扎克,奥诺雷·德,zh,male,NULL,NULL,NULL,NULL,1799,1850,,,PL0040,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0093,Baudelaire,Charles,en,male,NULL,NULL,NULL,NULL,1821,1867,,,PL0047,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0093,波德莱尔,夏尔,zh,male,NULL,NULL,NULL,NULL,1821,1867,,,PL0047,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0094,Beckett,Samuel,en,male,NULL,NULL,NULL,NULL,1906,1989,,,PL0041,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0094,贝克特,萨缪尔,zh,male,NULL,NULL,NULL,NULL,1906,1989,,,PL0041,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0095,Beethoven,Ludwig van,en,male,NULL,NULL,NULL,NULL,1770,1827,,,PL0042,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0095,貝多芬,路德維希·范,zh,male,NULL,NULL,NULL,NULL,1770,1827,,,PL0042,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0096,Belinsky,Vissarion,en,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0096,别林斯基,维萨里昂,zh,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0096,Белинский,Виссарион ,ru,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0097,Berlioz,Hector,en,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0097,柏辽兹,埃克托,zh,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0098,Bernstein,Eduard,en,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0098,伯恩施坦,爱德华,zh,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,,,,,,2017-07-10,OS,2017-10-13,MG
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2018-01-08,MG
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2018-01-08,MG
+P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2018-01-08,MG
+P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2018-01-08,MG
+P0085,Арцыба́шев,Михаи́л ,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2018-01-08,MG
+P0086,Ba ,Jin,en,male,NULL,NULL,NULL,NULL,1904,2005,Li Yaotang,en,PL0004,,,https://en.wikipedia.org/wiki/Ba_Jin,,,,,2017-07-10,OS,2018-01-08,MG
+P0086,巴,金,zh,male,NULL,NULL,NULL,NULL,1904,2005,李尧棠,zh,PL0004,,,https://en.wikipedia.org/wiki/Ba_Jin,,,,,2017-07-10,OS,2018-01-08,MG
+P0087,Baba,Corneliu,en,male,NULL,NULL,NULL,NULL,1906,1997,Baba ,en,PL0033,,,https://en.wikipedia.org/wiki/Corneliu_Baba,,,,,2017-07-10,OS,2018-01-08,MG
+P0087,科内里,巴巴,zh,male,NULL,NULL,NULL,NULL,1906,1997,巴巴柯尔尼留,zh,PL0033,,,https://en.wikipedia.org/wiki/Corneliu_Baba,,,,,2017-07-10,OS,2018-01-08,MG
+P0088,Babayevsky,Semyon ,en,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0088,巴巴耶夫斯基,谢苗,zh,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0088,Бабаевский,Семён,ru,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0089,Bach,Johann Sebastian,en,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,2017-07-10,OS,2018-01-08,MG
+P0089,巴赫,约翰·塞巴斯蒂安,zh,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,2017-07-10,OS,2018-01-08,MG
+P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2018-01-08,MG
+P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2018-01-08,MG
+P0091,Balmont,Konstantin,en,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2018-01-08,MG
+P0091,巴尔蒙特,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2018-01-08,MG
+P0091,Бальмо́нт,Константи́н,ru,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2018-01-08,MG
+P0092,Balzac,Honoré de,en,male,NULL,NULL,NULL,NULL,1799,1850,,,PL0040,,,https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac,,,,,2017-07-10,OS,2018-01-08,MG
+P0092,巴尔扎克,奥诺雷·德,zh,male,NULL,NULL,NULL,NULL,1799,1850,,,PL0040,,,https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac,,,,,2017-07-10,OS,2018-01-08,MG
+P0093,Baudelaire,Charles,en,male,NULL,NULL,NULL,NULL,1821,1867,,,PL0047,,,https://en.wikipedia.org/wiki/Charles_Baudelaire,,,,,2017-07-10,OS,2018-01-08,MG
+P0093,波德莱尔,夏尔,zh,male,NULL,NULL,NULL,NULL,1821,1867,,,PL0047,,,https://en.wikipedia.org/wiki/Charles_Baudelaire,,,,,2017-07-10,OS,2018-01-08,MG
+P0094,Beckett,Samuel,en,male,NULL,NULL,NULL,NULL,1906,1989,,,PL0041,,,https://en.wikipedia.org/wiki/Samuel_Beckett,,,,,2017-07-10,OS,2018-01-08,MG
+P0094,贝克特,萨缪尔,zh,male,NULL,NULL,NULL,NULL,1906,1989,,,PL0041,,,https://en.wikipedia.org/wiki/Samuel_Beckett,,,,,2017-07-10,OS,2018-01-08,MG
+P0095,Beethoven,Ludwig van,en,male,NULL,NULL,NULL,NULL,1770,1827,,,PL0042,,,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven,,,,,2017-07-10,OS,2018-01-08,MG
+P0095,貝多芬,路德維希·范,zh,male,NULL,NULL,NULL,NULL,1770,1827,,,PL0042,,,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven,,,,,2017-07-10,OS,2018-01-08,MG
+P0096,Belinsky,Vissarion,en,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,https://en.wikipedia.org/wiki/Vissarion_Belinsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0096,别林斯基,维萨里昂,zh,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,https://en.wikipedia.org/wiki/Vissarion_Belinsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0096,Белинский,Виссарион ,ru,male,NULL,NULL,NULL,NULL,1811,1848,,,PL0043,,,https://en.wikipedia.org/wiki/Vissarion_Belinsky,,,,,2017-07-10,OS,2018-01-08,MG
+P0097,Berlioz,Hector,en,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,https://en.wikipedia.org/wiki/Hector_Berlioz,,,,,2017-07-10,OS,2018-01-08,MG
+P0097,柏辽兹,埃克托,zh,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,https://en.wikipedia.org/wiki/Hector_Berlioz,,,,,2017-07-10,OS,2018-01-08,MG
+P0098,Bernstein,Eduard,en,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,https://en.wikipedia.org/wiki/Eduard_Bernstein,,,,,2017-07-10,OS,2018-01-08,MG
+P0098,伯恩施坦,爱德华,zh,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,https://en.wikipedia.org/wiki/Eduard_Bernstein,,,,,2017-07-10,OS,2018-01-08,MG
 P0099,Bi ,Ruxie,en,male,,,,,,,,,,,,,,,,,2017-07-10,OS,2017-11-06,OS
 P0099,毕,汝协,zh,male,,,,,,,毕汝谐,zh,,,,,,,,,2017-07-10,OS,2017-11-06,OS
-P0100,Bian,Zhilin,en,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0100,卞,之琳,zh,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0101,Blake ,William ,en,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0101,布雷克,威廉,zh,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,,,,,,2017-07-10,OS,2017-10-13,MG
+P0100,Bian,Zhilin,en,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wikipedia.org/wiki/Bian_Zhilin,,,,,2017-07-10,OS,2018-01-08,MG
+P0100,卞,之琳,zh,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wikipedia.org/wiki/Bian_Zhilin,,,,,2017-07-10,OS,2018-01-08,MG
+P0101,Blake ,William ,en,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,https://en.wikipedia.org/wiki/William_Blake,,,,,2017-07-10,OS,2018-01-08,MG
+P0101,布雷克,威廉,zh,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,https://en.wikipedia.org/wiki/William_Blake,,,,,2017-07-10,OS,2018-01-08,MG
 P0102,Bo,Hua,en,male,,,,,1956,,,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
 P0102,柏,桦,zh,male,,,,,1956,,,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0103,Boccaccio,Giovanni ,en,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0103,薄伽丘,乔万尼,zh,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0104,Brahms,Johannes,en,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0104,勃拉姆斯,约翰内斯,zh,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0105,Braine,John,en,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0105,勃莱恩,约翰 ,zh,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,,,,,,2017-07-10,OS,2017-10-13,MG
-P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,,,,,,2017-07-12,OS,2017-11-06,OS
-P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,,,,,,2017-07-12,OS,2017-11-06,OS
+P0103,Boccaccio,Giovanni ,en,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,https://www.britannica.com/biography/Giovanni-Boccaccio,,,,,2017-07-10,OS,2018-01-08,MG
+P0103,薄伽丘,乔万尼,zh,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,https://www.britannica.com/biography/Giovanni-Boccaccio,,,,,2017-07-10,OS,2018-01-08,MG
+P0104,Brahms,Johannes,en,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,https://en.wikipedia.org/wiki/Johannes_Brahms,,,,,2017-07-10,OS,2018-01-08,MG
+P0104,勃拉姆斯,约翰内斯,zh,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,https://en.wikipedia.org/wiki/Johannes_Brahms,,,,,2017-07-10,OS,2018-01-08,MG
+P0105,Braine,John,en,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,https://en.wikipedia.org/wiki/John_Braine,,,,,2017-07-10,OS,2018-01-08,MG
+P0105,勃莱恩,约翰 ,zh,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,https://en.wikipedia.org/wiki/John_Braine,,,,,2017-07-10,OS,2018-01-08,MG
+P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,2017-07-12,OS,2018-01-08,MG
+P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,2017-07-12,OS,2018-01-08,MG
 P0107,Wang ,Shiqiang,en,male,,,,,,,,,,,,,,,,,2017-07-12,OS,2017-11-06,OS
 P0107,王,士强,zh,male,,,,,,,,,,,,,,,,,2017-07-12,OS,2017-11-06,OS
 P0108,Xu ,Xiao,en,male,yes,,,,,,,,,,,,,,,,2017-07-12,OS,2017-07-12,OS
 P0108,徐,晓 ,zh,male,yes,,,,1954,,,,PL0003,,,,,,,,2017-07-12,OS,2017-07-12,OS
-P0109,Shu ,Ting,en,female,yes,1969,1972,?,1952,,Gong Peiyu,en,PL0056,?,?,,,,,,2017-07-18,LH,2017-10-13,MG
-P0109,舒,婷,zh,female,yes,1969,1972,?,1952,,龚佩瑜 ,zh,PL0056,?,?,,,,,,2017-07-18,LH,2017-10-13,MG
-P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,,,2017-07-19,LH,2017-10-13,MG
-P0110,Горький ,Максим,ru,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,,,2017-07-19,LH,2017-10-13,MG
-P0110,高尔基,马克西姆,zh,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,,,,,,2017-07-19,LH,2017-10-13,MG
-P0115,Brodsky,Joseph,en,male,,,,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-11-08,MG
-P0115,Бродский,Иосиф ,zh,male,,,,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-11-08,MG
-P0115,布罗茨基,约瑟夫,ru,male,,,,,1940,1996,,,,,,,,,,,2017-07-19,OS,2017-11-08,MG
+P0109,Shu ,Ting,en,female,yes,1969,1972,?,1952,,Gong Peiyu,en,PL0056,?,?,https://en.wikipedia.org/wiki/Shu_Ting,,,,,2017-07-18,LH,2018-01-08,MG
+P0109,舒,婷,zh,female,yes,1969,1972,?,1952,,龚佩瑜 ,zh,PL0056,?,?,https://en.wikipedia.org/wiki/Shu_Ting,,,,,2017-07-18,LH,2018-01-08,MG
+P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2018-01-08,MG
+P0110,Горький ,Максим,ru,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2018-01-08,MG
+P0110,高尔基,马克西姆,zh,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2018-01-08,MG
+P0115,Brodsky,Joseph,en,male,,,,,1940,1996,,,,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2018-01-08,MG
+P0115,Бродский,Иосиф ,zh,male,,,,,1940,1996,,,,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2018-01-08,MG
+P0115,布罗茨基,约瑟夫,ru,male,,,,,1940,1996,,,,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2018-01-08,MG
 P0116,Kafka,Franz,en,male,NULL,NULL,NULL,NULL,1883,1924,,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,,,,2017-07-19,OS,2017-10-13,MG
 P0116,卡夫卡 ,弗朗茨,zh,male,NULL,NULL,NULL,NULL,1883,1924,弗朗兹,,PL0065,,,https://en.wikipedia.org/wiki/Franz_Kafka,,,,,2017-07-19,OS,2017-10-13,MG
 P0117,Kerouac,Jack,en,male,NULL,NULL,NULL,NULL,1922,1969,,,PL0066,,,https://en.wikipedia.org/wiki/Jack_Kerouac,,,,,2017-07-20,OS,2017-10-13,MG
@@ -239,8 +239,8 @@ P0119,Huang,Xiaolong,en,,yes,1963,1966,PL0006,1943,NULL,NULL,en,PL0012,,,T00026,
 P0119,黄,晓龙,zh,,yes,1963,1966,PL0006,1943,NULL,NULL,zh,PL0012,,,T00026,,,,,2017-07-27,LH,2017-09-16,CW
 P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,2017-08-01,LH,2017-11-06,OS
 P0120,张, 扬,zh,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,2017-08-01,LH,2017-11-06,OS
-P0130,Xu,Chenggang,en,,,,,,,,,,,,,T00027,422,,,,2017-07-28,MG,2017-12-19,MG
-P0130,许,成钢,zh,,,,,,,,,,,,,T00027,422,,,,2017-07-28,MG,2017-12-19,MG
+P0130,Xu,Chenggang,en,,,,,,,,,,,,,T00149,422,,,,2017-07-28,MG,2018-01-08,MG
+P0130,许,成钢,zh,,,,,,,,,,,,,T00149,422,,,,2017-07-28,MG,2018-01-08,MG
 P0131,Li,Daxing,en,,,,,,,,,,,,,T00044,554,,,,2017-07-28,MG,2017-12-19,MG
 P0131,李,大兴,zh,,,,,,,,,,,,,T00044,554,,,,2017-07-28,MG,2017-12-19,MG
 P0132,Tao,Jianhua,en,,,,,,,,,,,,,T00043,452,,,,2017-08-07,MG,2017-11-09,MG
@@ -281,8 +281,6 @@ P0153,Yu,Pingbo,en,male,yes,CHIA-YI,,,1900,1990,Yu Mingheng,en,,S03,,https://en.
 P0153,俞,平伯,zh,male,yes,,,,1900,1990,俞銘衡,zh,,S03,,https://en.wikipedia.org/wiki/Yu_Pingbo,,,,,2017-09-22,MG,2017-11-06,OS
 P0154,Yan,Lianke,en,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://de.wikipedia.org/wiki/Yan_Lianke,,,,,2017-09-22,MG,2017-11-06,OS
 P0154,阎,连科,zh,male,no,NULL,NULL,NULL,1958,,NULL,NULL,PL0077,S09 ,,https://paper-republic.org/authors/yan-lianke/,,,,,2017-09-22,MG,2017-11-06,OS
-P0156,Qi,Zhi,en,male,no,NULL,NULL,NULL,,,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
-P0156,启,之,zh,male,no,NULL,NULL,NULL,,,,,,,,,,,,,2017-09-24,CW,2017-11-07,LH
 P0157,Li,Dazhao,en,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,,,2017-09-24,CW,2017-11-06,OS
 P0157,李,大釗,zh,male,NULL,NULL,NULL,NULL,1889,1927,,,PL0076,,,http://www.xujuneberlein.com/rem72.html,,,,,2017-09-24,CW,2017-11-06,OS
 P0158,Chaplin,Charlie,en,male,NULL,NULL,NULL,NULL,1889,1977,Charles Spencer Chaplin,en,PL0036,NULL,NULL,https://de.wikipedia.org/wiki/Charlie_Chaplin,,,,,2017-09-27,MG,2017-10-13,MG
@@ -375,12 +373,12 @@ P0198,Chen,Zhiqong ,en,male,,,,,,,,,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,201
 P0198,陈,志琼,zh,male,,,,,,,陳眊子,zh,,,,T00139,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0199,Dai,Weiwei,en,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0199,戴,为伟,zh,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
-P0200,Shao,Yanxiang,en,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
-P0200,邵,燕祥,zh,,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0200,Shao,Yanxiang,en,male,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,https://baike.baidu.com/item/%E9%82%B5%E7%87%95%E7%A5%A5,,,2018-01-04,MG,2018-01-08,MG
+P0200,邵,燕祥,zh,male,yes,1958,1978,PL0076,1933,,NULL,NULL,PL0002,S03,,T00141,ONLINE SOURCE,https://baike.baidu.com/item/%E9%82%B5%E7%87%95%E7%A5%A5,,,2018-01-04,MG,2018-01-08,MG
 P0201,Chen,Yinan,en,,,,,,1948,,NULL,NULL,PL0110,,,T00142,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0201,陈,益南,zh,,,,,,1948,,NULL,NULL,PL0110,,,T00142,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
-P0202,Gu,Xunzhong,en,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
-P0202,顾,训中,zh,,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
+P0202,Gu,Xunzhong,en,male,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,https://baike.baidu.com/item/%E9%A1%BE%E8%AE%AD%E4%B8%AD,,,2018-01-04,MG,2018-01-08,MG
+P0202,顾,训中,zh,male,NULL,NULL,NULL,NULL,1948,,NULL,NULL,PL0003,,,T00143,ONLINE SOURCE,https://baike.baidu.com/item/%E9%A1%BE%E8%AE%AD%E4%B8%AD,,,2018-01-04,MG,2018-01-08,MG
 P0203,Hu,Xiaoshui,en,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,T00144,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0203,胡,小水,zh,,yes,1968,unknown,PL0111,1952,,NULL,NULL,unknown,,,T00144,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
 P0204,Han,Shuguan,en,,,,,,,,NULL,NULL,,,,T00116,ONLINE SOURCE,,,,2018-01-04,MG,2018-01-05,MG
