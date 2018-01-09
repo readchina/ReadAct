@@ -19,7 +19,7 @@ Person,source_id_1,Reference to text in which relevant information to an author 
 Person,page_number_1,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
 Person,source_id_2,2nd reference to text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
 Person,page_number_2,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-12-29,OS,2017-12-29,OS
-Person,commentary,Please only add information relevant for our project (like '手抄本') or which helps to trace it (like 'part of xy anthology') or about its general importance. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
+Person,commentary,"Please only add information relevant for our project, such as daugher of or friends with xy. Keep it as short as possible and as long as necessary.",,2017-10-27,OS,2017-10-27,OS
 Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
