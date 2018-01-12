@@ -178,8 +178,8 @@ P0088,巴巴耶夫斯基,谢苗,zh,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,
 P0088,Бабаевский,Семён,ru,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,,2017-07-10,OS,2018-01-08,MG
 P0089,Bach,Johann Sebastian,en,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-08,MG
 P0089,巴赫,约翰·塞巴斯蒂安,zh,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-08,MG
-P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-10,DP
-P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-08,MG
+P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-10,DP
+P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-08,MG
 P0091,Balmont,Konstantin,en,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
 P0091,巴尔蒙特,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
 P0091,Бальмо́нт,Константи́н,ru,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
@@ -239,26 +239,26 @@ P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,,2017-08-01,LH
 P0120,张,扬,zh,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,,2017-08-01,LH,2017-11-06,OS
 P0130,Xu,Chenggang,en,male,yes,1967,1976,yes,1950,,,,PL0096,S03,yes,T00149,413 422,,,,,2017-07-28,MG,2018-01-09,OS
 P0130,许,成钢,zh,male,yes,1967,1976,yes,1950,,,,PL0096,S03,yes,T00149,413; 422,,,,,2017-07-28,MG,2018-01-09,OS
-P0131,Li,Daxing,en,,,,,,,,,,,,,T00044,554,,,,,2017-07-28,MG,2017-12-19,MG
-P0131,李,大兴,zh,,,,,,,,,,,,,T00044,554,,,,,2017-07-28,MG,2017-12-19,MG
+P0131,Li,Daxing,en,,,,,,,,,,,,,T00153,554,,,,,2017-07-28,MG,2018-01-12,MG
+P0131,李,大兴,zh,,,,,,,,,,,,,T00153,554,,,,,2017-07-28,MG,2018-01-12,MG
 P0132,Tao,Jianhua,en,,,,,,,,,,,,,T00043,452,,,,,2017-08-07,MG,2017-11-09,MG
 P0132,陶,建华,zh,,,,,,,,,,,,,T00043,452,,,,,2017-08-07,MG,2017-11-09,MG
-P0133,Bo,Hua,en,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00044,533 539,,,,,2017-08-07,MG,2017-12-19,MG
-P0133,柏,桦,zh,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00044,533 539,,,,,2017-08-07,MG,2017-12-19,MG
+P0133,Bo,Hua,en,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
+P0133,柏,桦,zh,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
 P0134,Lin,Mang,en,male,,,,,1949,,NULL,NULL,PL0104,S03,,T00045,291,,,,,2017-08-11,MG,2017-12-19,MG
 P0134,林,莽,zh,male,,,,,1949,,NULL,NULL,PL0104,S03,,T00045,291,,,,,2017-08-11,MG,2017-12-19,MG
 P0135,Liao,Yiwu,en,male,NULL,NULL,NULL,NULL,1958,,Lao Wei,en,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-12-19,MG
 P0135,廖,亦武,zh,male,NULL,NULL,NULL,NULL,1958,,老 威,zh,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-11-06,OS
 P0136,Bao,Jia,en,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2017-12-19,MG
 P0136,宝,嘉,zh,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2017-11-09,MG
-P0137,Fan,Qian,en,,no,NULL,NULL,NULL,,,,,PL0003,,,T00044,353,,,,,2017-08-31,MG,2017-12-19,MG
-P0137,范,迁,zh,,no,NULL,NULL,NULL,,,,,PL0003,,,T00044,353,,,,,2017-08-31,MG,2017-12-19,MG
+P0137,Fan,Qian,en,,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,MG
+P0137,范,迁,zh,,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,MG
 P0138,Bao,Kun,en,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00111,196,,,,,2017-08-31,MG,2017-12-19,MG
 P0138,鲍,昆,zh,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00111,196,,,,,2017-08-31,MG,2017-12-19,MG
 P0139,Xiao,Xiao,en,,,,,,,,,,,,,,,,,,,2017-08-31,MG,2017-08-31,MG
 P0139,萧,萧,zh,,,,,,,,,,,,,,,,,,,2017-08-31,MG,2017-08-31,MG
-P0140,Chen,Danqing,en,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00044,74,,,,,2017-08-31,MG,2017-12-23,MG
-P0140,陈,丹青,zh,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00044,74,,,,,2017-08-31,MG,2017-12-23,MG
+P0140,Chen,Danqing,en,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00157,74,,,,,2017-08-31,MG,2018-01-12,MG
+P0140,陈,丹青,zh,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00157,74,,,,,2017-08-31,MG,2018-01-12,MG
 P0141,Deledda,Grazia,en,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,,,,2017-09-06,CW,2017-12-23,MG
 P0141,格拉齐亚,黛莱达,zh,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,,,,2017-09-06,CW,2017-12-23,MG
 P0142,Lin,Da,en,,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,,,,,,,2017-09-06,CW,2017-09-24,CW
@@ -401,3 +401,11 @@ P0213,Chi,Zehou,en,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0213,迟,泽厚,zh,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0214,Tang,Shaojie,en,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0214,唐,少杰,zh,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
+P0215,Cai,Xiang,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0215,蔡,翔,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0216,Deng,Gang,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0216,邓,刚,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0217,Wang,Xiaoni,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0217,王,小妮,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0218,Tang,Xiaodu,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0218,唐,小渡,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
