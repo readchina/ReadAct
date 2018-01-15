@@ -3,8 +3,8 @@ P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,,
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,,,,,,,2017-07-03,LH,2017-10-13,MG
 P0002,Mou,Dunbai,en,male,,,,,1947,,,,,,,T00045,18 24,,,,,2017-07-05,LH,2017-11-17,MG
 P0002,牟,敦白,zh,male,,,,,1947,,,,,,,T00045,18 24,,,,,2017-07-05,LH,2017-11-17,MG
-P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,,Yes,T00011,75f 79f,T00129,609,,,2017-07-05,LH,2017-12-29,OS
-P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,,Yes,T00011,75f 79f,T00129,609,,,2017-07-05,LH,2017-12-29,OS
+P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,Yes,T00011,75f 79f,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军、弟弟张大伟、张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
+P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,Yes,T00011,75f 79f,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军、弟弟张大伟、张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
 P0004,Mang,Ke,en,male,yes,1969,1969,PL0022,1950,,,,,,,T00011,75f 79f,T00115,183ff,,,2017-07-05,LH,2017-12-29,OS
 P0004,芒,克,zh,male,yes,1969,1969,PL0022,1950,,,,,,,T00011,75f 79f,T00115,183ff,,,2017-07-05,LH,2017-12-29,OS
 P0005,Peng,Gang,en,female,,,,,1953,,,,,,,T00011,79,T00115,183ff,,,2017-07-05,LH,2017-12-29,OS
@@ -35,8 +35,8 @@ P0017,Ma,Jia,en,male,,,,,1953,,,,,,,T00009,219ff,,,,,2017-07-05,LH,2017-11-17,MG
 P0017,马,佳,zh,male,,,,,1953,,,,,,,T00009,219ff,,,,,2017-07-05,LH,2017-11-17,MG
 P0018,Yan,Li,en,male,,,,,1954,,,,,,,T00009,220,,,,,2017-07-05,LH,2017-11-17,MG
 P0018,严,力,zh,male,,,,,1954,,,,,,,T00009,220,,,,,2017-07-05,LH,2017-11-17,MG
-P0019,Guo,Lusheng,en,male,,,,,1948,,Shi Zhi,,,,,T00009,229,T00011,74-75,,,2017-07-05,LH,2017-12-29,OS
-P0019,郭,路生,zh,male,,,,,1948,,食指,,,,,T00009,229,T00011,74-75,,,2017-07-05,LH,2017-12-29,OS
+P0019,Guo,Lusheng,en,male,yes,1969,,PL0138,1948,,Shi Zhi,,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2017-01-12,OS
+P0019,郭,路生,zh,male,yes,1969,1971,PL0138,1948,,食指,,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2017-01-12,OS
 P0020,Gao,Hua,en,male,,,,,1954,2011,,,,,Indirect,T00006,132-139,,,,,2017-07-05,LH,2017-12-13,MG
 P0020,高,华,zh,male,,,,,1954,2011,,,,,Indirect,T00006,132-139,,,,,2017-07-05,LH,2017-12-13,MG
 P0021,Guo,Shiying,en,male,,,,,1942,1968,,,,,Maybe Yes,T00011,75f 80,,,,,2017-07-05,LH,2017-11-17,MG
@@ -139,8 +139,8 @@ P0070,Jiang,Dingyue,en,female,,,,,,,,,PL0136,S05,yes,T00112,51,https://book.doub
 P0070,蒋,定粤,zh,female,,,,,,,,,PL0136,S05,yes,T00112,51,https://book.douban.com/review/6519809/,ONLINE SOURCE,Grew up in Beijing. 抗日名将蒋光鼐之女 ,,2017-07-05,LH,2018-01-10,OS
 P0071,Gan,Huili,en,,,,,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2018-01-08,MG
 P0071,甘,恢理,zh,,,,,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2018-01-08,MG
-P0072,Zhang,Dawei,en,,,,,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2017-12-17,MG
-P0072,张,大伟,zh,,,,,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2017-12-17,MG
+P0072,Zhang,Dawei,en,male,,,,,,,,,,S03,,T00112,52,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军和张郎郎、弟弟张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
+P0072,张,大伟,zh,male,,,,,,,,,,S03,,T00112,52,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军和张郎郎、弟弟张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
 P0073,Rae,Yang,en,female,,1968,1973,PL0008,1950,,,,,,,T00151,,https://en.wikipedia.org/wiki/Rae_Yang,,,,2017-07-05,LH,2018-01-10,MG
 P0073,杨,瑞,zh,female,,1968,1973,PL0008,1950,,,,,,,T00151,,https://en.wikipedia.org/wiki/Rae_Yang,,,,2017-07-05,LH,2018-01-10,MG
 P0074,Bai,Di,en,female,,,,,1954,,,,,,,T00123,92,,,,,2017-07-05,LH,2017-12-17,MG
@@ -239,20 +239,19 @@ P0120,Zhang,Yang,en,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,,2017-08-01,LH
 P0120,张,扬,zh,male,yes,LENA,LENA,LENA,1944,,,,PL0060,,,,,,,,,2017-08-01,LH,2017-11-06,OS
 P0130,Xu,Chenggang,en,male,yes,1967,1976,yes,1950,,,,PL0096,S03,yes,T00149,413 422,,,,,2017-07-28,MG,2018-01-09,OS
 P0130,许,成钢,zh,male,yes,1967,1976,yes,1950,,,,PL0096,S03,yes,T00149,413; 422,,,,,2017-07-28,MG,2018-01-09,OS
-P0131,Li,Daxing,en,,,,,,,,,,,,,T00153,554,,,,,2017-07-28,MG,2018-01-12,MG
-P0131,李,大兴,zh,,,,,,,,,,,,,T00153,554,,,,,2017-07-28,MG,2018-01-12,MG
-P0132,Tao,Jianhua,en,,,,,,,,,,,,,T00043,452,,,,,2017-08-07,MG,2017-11-09,MG
-P0132,陶,建华,zh,,,,,,,,,,,,,T00043,452,,,,,2017-08-07,MG,2017-11-09,MG
+P0131,Li,Daxing,en,male,no,NULL,NULL,NULL,1960,,,,,,,T00153,554,http://book.sina.com.cn/news/xsxx/2017-12-04/doc-ifyphxwa7852332.shtml,ONLINE SOURCE,父亲是著名历史学家李新,,2017-07-28,MG,2018-01-12,OS
+P0131,李,大兴,zh,male,no,NULL,NULL,NULL,1960,,,,,,,T00153,554,http://book.sina.com.cn/news/xsxx/2017-12-04/doc-ifyphxwa7852332.shtml,ONLINE SOURCE,父亲是著名历史学家李新,,2017-07-28,MG,2018-01-12,OS
+P0132,Chen,Jianhua,en,male,no,NULL,NULL,NULL,1947,,,,PL0003,,,T00043,452,,,,,2017-08-07,MG,2018-01-12,OS
 P0133,Bo,Hua,en,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
 P0133,柏,桦,zh,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
 P0134,Lin,Mang,en,male,,,,,1949,,NULL,NULL,PL0104,S03,,T00045,291,,,,,2017-08-11,MG,2017-12-19,MG
 P0134,林,莽,zh,male,,,,,1949,,NULL,NULL,PL0104,S03,,T00045,291,,,,,2017-08-11,MG,2017-12-19,MG
 P0135,Liao,Yiwu,en,male,NULL,NULL,NULL,NULL,1958,,Lao Wei,en,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-12-19,MG
 P0135,廖,亦武,zh,male,NULL,NULL,NULL,NULL,1958,,老 威,zh,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-11-06,OS
-P0136,Bao,Jia,en,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2017-12-19,MG
-P0136,宝,嘉,zh,,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2017-11-09,MG
-P0137,Fan,Qian,en,,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,MG
-P0137,范,迁,zh,,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,MG
+P0136,Bao,Jia,en,male,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2018-01-12,OS
+P0136,宝,嘉,zh,male,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2018-01-12,OS
+P0137,Fan,Qian,en,male,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,OS
+P0137,范,迁,zh,male,no,NULL,NULL,NULL,,,,,PL0003,,,T00163,353,,,,,2017-08-31,MG,2018-01-12,OS
 P0138,Bao,Kun,en,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00111,196,,,,,2017-08-31,MG,2017-12-19,MG
 P0138,鲍,昆,zh,male,no,NULL,NULL,NULL,1953,NULL,NULL,NULL,PL0002,unknown,,T00111,196,,,,,2017-08-31,MG,2017-12-19,MG
 P0139,Xiao,Xiao,en,,,,,,,,,,,,,,,,,,,2017-08-31,MG,2017-08-31,MG
@@ -261,12 +260,10 @@ P0140,Chen,Danqing,en,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,
 P0140,陈,丹青,zh,male,yes,1969,unknown,PL0067,1953,,NULL,NULL,PL0003,NULL,,T00157,74,,,,,2017-08-31,MG,2018-01-12,MG
 P0141,Deledda,Grazia,en,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,,,,2017-09-06,CW,2017-12-23,MG
 P0141,格拉齐亚,黛莱达,zh,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,,,,2017-09-06,CW,2017-12-23,MG
-P0142,Lin,Da,en,,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,,,,,,,2017-09-06,CW,2017-09-24,CW
-P0142,林,达,zh,,yes,,,PL0008,1952,,丁林,zh,PL0003,,,,,,,,,2017-09-06,CW,2017-09-24,CW
-P0143,Jin,Zhong,en,,yes,,,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
-P0143,金,中,zh,,yes,,,PL0011,1926,2008,章世箐,zh,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
-P0144,Bei,Shan,en,,,,,,,,,,,,,T00011,78,,,,,2017-09-20,MG,2017-12-23,MG
-P0144,贝,山,zh,,,,,,,,,,,,,T00011,78,,,,,2017-09-20,MG,2017-12-23,MG
+P0142,Lin,Da,en,female,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,https://baike.baidu.com/item/%E6%9E%97%E8%BE%BE/10490620,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-12,OS
+P0142,林,达,zh,female,yes,,,PL0008,1952,,丁林,zh,PL0003,,,https://baike.baidu.com/item/%E6%9E%97%E8%BE%BE/10490620,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-12,OS
+P0143,Jin,Zhong,en,male,yes,,,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
+P0143,金,中,zh,male,yes,,,PL0011,1926,2008,章世箐,zh,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
 P0145,Brontë,Charlotte,en,female,NULL,NULL,NULL,NULL,1816,1855,Currer Bell,en,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,,,,2017-09-22,MG,2017-10-13,MG
 P0145,勃朗特,夏綠蒂,zh,female,NULL,NULL,NULL,NULL,1816,1855,,,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,,,,2017-09-22,MG,2017-10-13,MG
 P0150,Link,Perry,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,,,,2017-09-22,MG,2017-12-23,MG
@@ -297,8 +294,6 @@ P0163,Li,Shu,en,,NULL,NULL,NULL,NULL,1883,1954,,,PL0081,,,https://zh.wikipedia.o
 P0163,黎,澍,zh,,NULL,NULL,NULL,NULL,1883,1954,,,PL0081,,,https://zh.wikipedia.org/wiki/%E9%BB%8E%E6%BE%8D,,,,,,2017-10-03,MG,2017-10-03,MG
 P0164,Chen,Jingrong,en,,,,,,1917,1989,,,PL0006,,,https://zh.wikipedia.org/wiki/%E9%99%88%E6%95%AC%E5%AE%B9,,,,,,2017-10-03,MG,2017-10-03,MG
 P0164,陈,敬容,zh,,,,,,1917,1989,陈懿范,zh,PL0006,,,https://zh.wikipedia.org/wiki/%E9%99%88%E6%95%AC%E5%AE%B9,,,,,,2017-10-03,MG,2017-10-03,MG
-P0165,Jiang,Dingyue,en,,,,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
-P0165,蔣,定粵,zh,,,,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-03,MG
 P0166,Wu,,en,female,,,,,,,,,,,,,,,,,(Wu Hong‘s mother),2017-10-03,MG,2017-10-13,MG
 P0166,鸿,,zh,female,,,,,,,,,,,,,,,,,,2017-10-03,MG,2017-10-13,MG
 P0167,Yan,Wenliang,en,male,,,,,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,,,,2017-10-03,MG,2017-12-23,MG
@@ -367,7 +362,7 @@ P0196,Sun Chang,Kang-i,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,N
 P0196,孫,康宜,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Kang-i_Sun_Chang,,,,,,2017-12-29,OS,2017-12-29,OS
 P0197,Fang,Zifen,en,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,T00139,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
 P0197,方,子奋,zh,male,yes,1970,unknown,PL0090,1941,,NULL,NULL,,,,T00139,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
-P0198,Chen,Zhiqong,en,male,,,,,,,,,,,,T00139,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
+P0198,Chen,Zhiqiong,en,male,,,,,,,,,,,,T00139,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
 P0198,陈,志琼,zh,male,,,,,,,陳眊子,zh,,,,T00139,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
 P0199,Dai,Weiwei,en,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
 P0199,戴,为伟,zh,,,,,,,,,,,,,T00140,ONLINE SOURCE,,,,,2018-01-04,MG,2018-01-05,MG
