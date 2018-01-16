@@ -77,8 +77,8 @@ P0038,Wang,Xiulian,en,male,,,,,,,,,,,,T00026,ONLINE SOURCE,,,,,2017-07-05,LH,201
 P0038,王,秀濂,zh,male,,,,,,,,,,,,T00026,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
 P0039,Dong,Fu,en,male,yes,1969,1970,PL0055,1951,,Wang Dongyu,en,PL0004,,,T00135,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-03,MG
 P0039,东,夫,zh,male,yes,1969,1970,PL0055,1951,,王东渝,zh,PL0004,,,T00135,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-03,MG
-P0040,Jin,Zhong,en,male,NULL,NULL,NULL,PL0011,1926,2008,Zhang Shijing,en,,,,T00119,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-04,MG
-P0040,金,中,zh,male,NULL,NULL,NULL,PL0011,1926,2008,章世箐,zh,,,,T00119,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-04,MG
+P0040,Jin,Zhong,en,male,NULL,NULL,NULL,PL0011,1926,2008,Zhang Shijing,en,,,,T00061,ONLINE SOURCE,http://www.baike.com/wiki/%E9%87%91%E4%B8%AD,,,,2017-07-05,LH,2018-01-16,MG
+P0040,金,中,zh,male,NULL,NULL,NULL,PL0011,1926,2008,章世箐,zh,,,,T00061,ONLINE SOURCE,http://www.baike.com/wiki/%E9%87%91%E4%B8%AD,,,,2017-07-05,LH,2018-01-16,MG
 P0041,Zhao,Xiaoling,en,female,no,,,PL0012,,,,,,,,T00119,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
 P0041,赵,晓铃,zh,female,no,,,PL0012,,,,,,,,T00119,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
 P0042,Cao,Ying,en,male,,,,,1923,2015,Sheng Junfeng,,,,,T00119,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
@@ -262,8 +262,6 @@ P0141,Deledda,Grazia,en,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NU
 P0141,格拉齐亚,黛莱达,zh,female,NULL,NULL,NULL,NULL,1871,1936,NULL,NULL,PL0068,NULL,NULL,https://de.wikipedia.org/wiki/Grazia_Deledda,,,,,,2017-09-06,CW,2017-12-23,MG
 P0142,Lin,Da,en,female,yes,,,PL0008,1952,,Dinglin,en,PL0003,,,https://baike.baidu.com/item/%E6%9E%97%E8%BE%BE/10490620,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-12,OS
 P0142,林,达,zh,female,yes,,,PL0008,1952,,丁林,zh,PL0003,,,https://baike.baidu.com/item/%E6%9E%97%E8%BE%BE/10490620,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-12,OS
-P0143,Jin,Zhong,en,male,yes,,,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
-P0143,金,中,zh,male,yes,,,PL0011,1926,2008,章世箐,zh,PL0069,,,T00119,ONLINE SOURCE,,,,,2017-09-06,CW,2018-01-10,MG
 P0145,Brontë,Charlotte,en,female,NULL,NULL,NULL,NULL,1816,1855,Currer Bell,en,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,,,,2017-09-22,MG,2017-10-13,MG
 P0145,勃朗特,夏綠蒂,zh,female,NULL,NULL,NULL,NULL,1816,1855,,,PL0071,NULL,NULL,https://de.wikipedia.org/wiki/Charlotte_Bront%C3%AB,,,,,,2017-09-22,MG,2017-10-13,MG
 P0150,Link,Perry,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,,NULL,NULL,https://en.wikipedia.org/wiki/Perry_Link,,,,,,2017-09-22,MG,2017-12-23,MG
@@ -396,11 +394,11 @@ P0213,Chi,Zehou,en,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0213,迟,泽厚,zh,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0214,Tang,Shaojie,en,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
 P0214,唐,少杰,zh,,,,,,,,,,,,,,,,,,,2018-01-05,MG,2018-01-05,MG
-P0215,Cai,Xiang,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0215,蔡,翔,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0216,Deng,Gang,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0216,邓,刚,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0217,Wang,Xiaoni,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0217,王,小妮,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0218,Tang,Xiaodu,en,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
-P0218,唐,小渡,zh,,,,,,,,,,,,,,,,,,,2018-01-12,MG,2018-01-12,MG
+P0215,Cai,Xiang,en,male,,,,,1953,,NULL,NULL,PL0003,,,https://baike.baidu.com/item/%E8%94%A1%E7%BF%94/3300403,,,,,,2018-01-12,MG,2018-01-16,MG
+P0215,蔡,翔,zh,male,,,,,1953,,NULL,NULL,PL0003,,,https://baike.baidu.com/item/%E8%94%A1%E7%BF%94/3300403,,,,,,2018-01-12,MG,2018-01-16,MG
+P0216,Deng,Gang,en,male,,,,,1945,,Ma Quanli,en,,,,https://paper-republic.org/authors/deng-gang/,,,,,,2018-01-12,MG,2018-01-16,MG
+P0216,邓,刚,zh,male,,,,,1945,,,,,,,https://paper-republic.org/authors/deng-gang/,,,,,,2018-01-12,MG,2018-01-16,MG
+P0217,Wang,Xiaoni,en,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikipedia.org/wiki/Wang_Xiaoni,,,,,,2018-01-12,MG,2018-01-16,MG
+P0217,王,小妮,zh,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikipedia.org/wiki/Wang_Xiaoni,,,,,,2018-01-12,MG,2018-01-16,MG
+P0218,Tang,Xiaodu,en,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
+P0218,唐,小渡,zh,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
