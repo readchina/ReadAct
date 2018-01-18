@@ -15,9 +15,9 @@ Person,alt_name_lang,Language code of this name,,2017-07-04,LH,2017-07-04,LH
 Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
 Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading. Add 'unknown' in case you do not know. It is not necessary for those who are only authors in our data-set such as Shakespeare or Lu Xun. For them add 'NULL'.,,2017-07-04,LH,2017-07-04,LH
 Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add NULL in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
-Person,source_id_1,Reference to text in which relevant information to an author is recorded. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
+Person,source_id_1,Reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
 Person,page_number_1,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
-Person,source_id_2,2nd reference to text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
+Person,source_id_2,2nd reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
 Person,page_number_2,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-12-29,OS,2017-12-29,OS
 Person,commentary,The commentary can include the information that one person‘s birth place is not the place where he grew up or other necessary additional information. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
 Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
@@ -42,7 +42,7 @@ Text,publication_date,date of publication; first mainland edition between the ye
 Text,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
 Text,first_chin_edition,year of first edition in China (where easily available). Data is incomplete. ,,2017-07-04,LH,2017-07-04,LH
 Text,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
-Text,source_id,Reference to text in which a reading is recorded. Column may remain empty if this line records an academic or autobiographical text,,2017-07-04,LH,2017-07-04,LH
+Text,source_id,Source of a text; i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
 Text,serial_part,additional citation ranges for serials such as volume or issue,,,,,
 Text,pages,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Text,commentary,Space for background information on the text. If necessary; for example reference to translation of a poem into English; on when a text was written…,,2017-07-04,LH,2017-07-04,LH
