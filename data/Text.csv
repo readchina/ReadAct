@@ -59,10 +59,10 @@ T00044,The Seventies,,en,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-0
 T00044,七十年代,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
 T00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
 T00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
-T00050,,,en,P0082,G04,PL0002,,,,,T00045,,24,,THE NOVEL CANNOT BE FOUND,2017-08-20,MG,2017-10-02,DP
-T00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,T00045,,24,recommended by Guo Shiyin / It's about a man left his father and devoted himself in dangerous work the reader said it is similar to his situation,"what does ""recommended"" mean here?",2017-08-20,MG,2017-08-20,MG
+T00050,,,en,P0082,G04,PL0002,,,,,T00045,,24,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中.",,2017-08-20,MG,2018-01-16,OS
+T00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,T00045,,24,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中.",,2017-08-20,MG,2018-01-16,OS
 T00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,T00045,,18,,Translated by project member,2017-08-20,MG,2017-11-11,MG
-T00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,T00045,,18,recommended by Guo Shiyin,"what does ""recommended"" mean here?",2017-08-20,MG,2017-10-24,MG
+T00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,T00045,,18,,,2017-08-20,MG,2018-01-16,OS
 T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
 T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
 T00053,Eugénie Grandet,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,T00153,,555,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2017-08-25,MG,2018-01-12,MG
