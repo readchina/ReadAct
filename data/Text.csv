@@ -71,7 +71,7 @@ T00054,unknown,,,P0086,,,,,,,T00005,,569f,,No title mentioned in the old text fi
 T00054,unknown,,,P0086,,,,,,,T00005,,569f,,No title mentioned in the old text file,2017-08-25,MG,2017-11-08,MG
 T00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 T00055,新越华报,,zh,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
-T00056,Light over the Earth,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,?,,2017-08-26,MG,2017-10-02,DP
+T00056,Light above the Land,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,,,2017-08-26,MG,2018-01-18,MG
 T00056,人世间,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,,,2017-08-26,MG,2017-08-26,MG
 T00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
 T00057,观刈麦,,zh,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
@@ -88,8 +88,8 @@ T00062,Waves,,en,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00158,,311,th
 T00062,波动,,zh,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00158,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2018-01-12,MG
 T00063,The Answer,,en,P0009,G10,PL0002,1978,,,,T00154,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
 T00063,回答,,zh,P0009,G10,PL0002,1978,,,,T00154,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
-T00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,T00158,,312,,"the anthology was finished in 1982. Why is it relevant to us? If there was a first version before 1979, please write this into the commentary. ",2017-09-06,MG,2018-01-12,CW
-T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,T00158,,312,,"the anthology was finished in 1982. Why is it relevant to us? If there was a first version before 1979, please write this into the commentary. ",2017-09-06,MG,2018-01-12,CW
+T00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,T00158,,312,,Translated by project member,2017-09-06,MG,2018-01-18,MG
+T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,T00158,,312,,,2017-09-06,MG,2018-01-18,MG
 T00065,Smoke,,en,P0009,G10,,,,,,T00045,,291,,Translated by project member,2017-09-08,MG,2017-11-11,MG
 T00065,烟,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
 T00066,Alcohol,,en,P0009,G10,,,,,,T00045,,291,,Translated by project member,2017-09-08,MG,2017-11-11,MG
@@ -100,7 +100,7 @@ T00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,5
 T00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
+T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,Translated by project member,2017-09-15,MG,2018-01-18,MG
 T00070,九级浪,,zh,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
 T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,T00154,,534,,Translated by project member,2017-09-15,MG,2018-01-12,MG
 T00071,献给爱琴海,,zh,P0102,G10,,,,,,T00154,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
@@ -127,7 +127,7 @@ T00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,
 T00082,卓别林自传,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
 T00083,The House with the Mezzanine,,en,P0159,G05,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
 T00083,带阁楼的房子,,zh,P0159,G05,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
-T00084,For Mr. Yan Wenliang,,en,P0132,G10,,,,,no,T00043,,452,,,2017-09-29,MG,2017-11-08,MG
+T00084,For Mr. Yan Wenliang,,en,P0132,G10,,,,,no,T00043,,452,,Translated by project member,2017-09-29,MG,2018-01-18,MG
 T00084,为颜文梁先生作,,zh,P0132,G10,,,,,no,T00043,,452,,,2017-09-29,MG,2017-09-29,MG
 T00085,What is to be done?,,en,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 T00085,怎么办 ?,,zh,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
