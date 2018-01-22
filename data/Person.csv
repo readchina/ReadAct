@@ -17,38 +17,38 @@ P0008,Lu,Zhongnan,en,male,yes,1969,,PL0022,1950,,,,,,,T00115,188,,,,,2017-07-05,
 P0008,卢,中南,zh,male,yes,1969,,PL0022,1950,,,,,,,T00115,188,,,,,2017-07-05,LH,2018-01-16,OS
 P0009,Bei,Dao,en,male,?,?,?,?,1949,,Zhao Zhenkai,en,PL0002,,Yes,T00011,78 80,T00115,188,,,2017-07-05,LH,2018-01-16,OS
 P0009,北,岛,zh,male,?,?,?,?,1949,,赵振开,zh,PL0002,,Yes,T00011,78 80,T00115,188,,,2017-07-05,LH,2018-01-16,OS
-P0010,Duo,Duo,en,male,yes,1969,,PL0022,1951,,Li Shizheng,en,,,,T00011,75-77,T00115,188,,,2017-07-05,LH,2018-01-16,OS
-P0010,多,多,zh,male,yes,1969,,PL0022,1951,,栗世征,zh,,,,T00011,75-77,T00115,188,,,2017-07-05,LH,2018-01-16,OS
-P0011,Xu,Haoyuan,en,female,yes,,,PL0135,1949,,,,,,,T00011,76f 80,T00115,190,,,2017-07-05,LH,2017-12-29,OS
-P0011,徐,浩渊,zh,female,yes,,,PL0135,1949,,,,,,,T00011,76f 80,T00115,190,,,2017-07-05,LH,2018-01-16,OS
+P0010,Duo,Duo,en,male,yes,1969,,PL0022,1951,,Li Shizheng,en,PL0002,,,T00011,75-77,T00115,188,,,2017-07-05,LH,2018-01-18,OS
+P0010,多,多,zh,male,yes,1969,,PL0022,1951,,栗世征,zh,PL0002,,,T00011,75-77,T00115,188,,,2017-07-05,LH,2018-01-18,OS
+P0011,Xu,Haoyuan,en,female,yes,,,PL0135,1949,,,,PL0139,,,T00011,76f 80,T00115,190,,,2017-07-05,LH,2018-01-18,OS
+P0011,徐,浩渊,zh,female,yes,,,PL0135,1949,,,,PL0139,,,T00011,76f 80,T00115,190,,,2017-07-05,LH,2018-01-18,OS
 P0012,Genzi,,en,male,yes,1969,1972,PL0022,1951,,Yue Chong,en,PL0002,S03,yes,T00011,75 80,T00114,196,,,2017-07-05,LH,2018-01-16,OS
 P0012,根子,,zh,male,yes,1969,1972,PL0022,1951,,岳重,zh,PL0002,S03,yes,T00011,75 80,T00114,196,,,2017-07-05,LH,2018-01-16,OS
-P0013,Ma,Desheng,en,male,,,,,1952,,,,,,,T00115,191,,,,,2017-07-05,LH,2017-12-17,MG
-P0013,马,德升,zh,male,,,,,1952,,,,,,,T00115,191,,,,,2017-07-05,LH,2017-12-17,MG
-P0014,Zhao,Yifan,en,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00115,194,,,,,2017-07-05,LH,2017-12-17,MG
-P0014,赵,一凡,zh,male,no,NULL,NULL,NULL,1935,1988,,,,,,T00115,194,,,,,2017-07-05,LH,2017-12-17,MG
+P0013,Ma,Desheng,en,male,,,,,1952,,,,PL0002,,,T00115,191,,,,,2017-07-05,LH,2018-01-18,OS
+P0013,马,德升,zh,male,,,,,1952,,,,PL0002,,,T00115,191,,,,,2017-07-05,LH,2018-01-18,OS
+P0014,Zhao,Yifan,en,male,no,NULL,NULL,NULL,1935,1988,,,PL0003,S03,,T00115,194,https://baike.baidu.com/item/%E8%B5%B5%E4%B8%80%E5%87%A1/5968597,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0014,赵,一凡,zh,male,no,NULL,NULL,NULL,1935,1988,,,PL0003,S03,,T00115,194,https://baike.baidu.com/item/%E8%B5%B5%E4%B8%80%E5%87%A1/5968597,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
 P0015,Yi,Qun,en,male,,,,,1947,,,,,,,T00114,197,,,,,2017-07-05,LH,2017-12-13,MG
 P0015,依,群,zh,male,,,,,1947,,,,,,,T00114,197,,,,,2017-07-05,LH,2017-12-13,MG
 P0016,Zhou,Duo,en,male,,,,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,,2017-07-05,LH,2017-12-29,OS
 P0016,周,舵,zh,male,,,,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,,2017-07-05,LH,2017-12-29,OS
-P0017,Ma,Jia,en,male,,,,,1953,,,,,,,T00009,219ff,,,,,2017-07-05,LH,2017-11-17,MG
-P0017,马,佳,zh,male,,,,,1953,,,,,,,T00009,219ff,,,,,2017-07-05,LH,2017-11-17,MG
-P0018,Yan,Li,en,male,,,,,1954,,,,,,,T00009,220,,,,,2017-07-05,LH,2017-11-17,MG
-P0018,严,力,zh,male,,,,,1954,,,,,,,T00009,220,,,,,2017-07-05,LH,2017-11-17,MG
+P0017,Ma,Jia,en,male,yes,1969,1975,PL0008,1953,,Feng Huai,en,PL0002,,,T00009,219ff,http://www.chinawriter.com.cn/zxhy/member/9075.shtml,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0017,马,佳,zh,male,yes,1969,1975,PL0008,1953,,冯淮 ,zh,PL0002,,,T00009,219ff,http://www.chinawriter.com.cn/zxhy/member/9075.shtml,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0018,Yan,Li,en,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山 ,,2017-07-05,LH,2018-01-18,OS
+P0018,严,力,zh,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山 ,,2017-07-05,LH,2018-01-18,OS
 P0019,Guo,Lusheng,en,male,yes,1969,1971,PL0138,1948,,Shi Zhi,en,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2018-01-16,OS
 P0019,郭,路生,zh,male,yes,1969,1971,PL0138,1948,,食指,zh,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2018-01-16,OS
-P0020,Gao,Hua,en,male,,,,,1954,2011,,,,,Indirect,T00006,132-139,,,,,2017-07-05,LH,2017-12-13,MG
-P0020,高,华,zh,male,,,,,1954,2011,,,,,Indirect,T00006,132-139,,,,,2017-07-05,LH,2017-12-13,MG
-P0021,Guo,Shiying,en,male,,,,,1942,1968,,,,,Maybe Yes,T00011,75f 80,,,,,2017-07-05,LH,2017-11-17,MG
-P0021,郭,世英,zh,male,,,,,1942,1968,,,,,Maybe Yes,T00011,75f 80,,,,,2017-07-05,LH,2017-11-17,MG
-P0022,Zhang,Heci,en,male,,,,,1943,,,,,,Maybe Yes,T00011,75f 80,,,,,2017-07-05,LH,2017-11-17,MG
-P0022,张,鹤慈,zh,male,,,,,1943,,,,,,Maybe Yes,T00011,75f 80,,,,,2017-07-05,LH,2017-11-17,MG
+P0020,Gao,Hua,en,male,no,NULL,NULL,NULL,1954,2011,,,PL0090,S07,Indirect,T00006,132-139,https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0020,高,华,zh,male,no,NULL,NULL,NULL,1954,2011,,,PL0090,S07,Indirect,T00006,132-139,https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0021,Guo,Shiying,en,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun ,,2017-07-05,LH,2018-01-18,OS
+P0021,郭,世英,zh,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun ,,2017-07-05,LH,2018-01-18,OS
+P0022,Zhang,Heci,en,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論 ,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal. ,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
+P0022,张,鹤慈,zh,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論 ,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal. ,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
 P0023,Yang,Sanbai,en,,,,,,,,,,,,,T00011,75,,,,,2017-07-05,LH,2017-11-17,MG
 P0023,杨,三白,zh,,,,,,,,,,,,,T00011,75,,,,,2017-07-05,LH,2017-11-17,MG
-P0024,Song,Haiquan,en,male,yes,1969,,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,,,,2017-07-05,LH,2018-01-16,OS
-P0024,宋,海泉,zh,male,yes,1969,,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,,,,2017-07-05,LH,2018-01-16,OS
-P0025,Gan,Tiesheng,en,male,,,,,1946,,,,,,,T00011,75-76  80,,,,,2017-07-05,LH,2017-11-17,MG
-P0025,甘,铁生,zh,male,,,,,1946,,,,,,,T00011,75-76  80,,,,,2017-07-05,LH,2017-11-17,MG
+P0024,Song,Haiquan,en,male,yes,1969,,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-07-05,LH,2018-01-16,OS
+P0024,宋,海泉,zh,male,yes,1969,,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-07-05,LH,2018-01-16,OS
+P0025,Gan,Tiesheng,en,male,yes,1968,1974,PL0141,1946,,Zifeng,en,PL0002,S03,,T00011,75-76  80,http://baogaowenxue.xiusha.com/z/zheyongping/stmq/004.htm,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0025,甘,铁生,zh,male,yes,1968,1974,PL0141,1946,,紫峰 ,zh,PL0002,S03,,T00011,75-76  80,http://baogaowenxue.xiusha.com/z/zheyongping/stmq/004.htm,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
 P0026,Lu,Shuangqin,en,female,yes,1969,,PL0008,1953,,,,PL0002,,Yes,T00011,76f,https://www.jintian.net/today/html/28/n-17928.html,ONLINE SOURCE,,,2017-07-05,LH,2018-01-10,OS
 P0026,鲁,双芹,zh,female,yes,1969,,PL0008,1953,,,,PL0002,,Yes,T00011,76f,https://www.jintian.net/today/html/28/n-17928.html,ONLINE SOURCE,,,2017-07-05,LH,2018-01-10,OS
 P0027,Zhang,Xinhua,en,,,,,,,,,,,,,T00011,76 80,,,,,2017-07-05,LH,2017-11-17,MG
@@ -59,10 +59,10 @@ P0029,Wu,Hong,en,male,yes,1969,1972,PL0005,1945,,,,PL0134,,Yes,T00011,78 80,http
 P0029,巫,鸿,zh,male,yes,1969,1972,PL0005,1945,,,,PL0134,,Yes,T00011,78 80,https://www.douban.com/group/topic/33998632/,ONLINE SOURCE,he grew up in Beijing. Friend of Zhang Langlang,,2017-07-05,LH,2018-01-09,OS
 P0030,Dong,Shabei,en,male,,,,,,,,,,,Yes,T00011,78,T00112,51,,,2017-07-05,LH,2017-12-29,OS
 P0030,董,沙贝,zh,male,,,,,,,,,,,Yes,T00011,78,T00112,51,,,2017-07-05,LH,2017-12-29,OS
-P0031,Huang,Guangzu,en,male,,NULL,NULL,PL0006,1946,,,,,,no,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
-P0031,黄,光祖,zh,male,,NULL,NULL,PL0006,1946,,,,,,no,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
-P0032,Zhu,Shixian,en,male,,NULL,NULL,PL0006,1944,1972,,,,,,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
-P0032,朱,时贤,zh,male,,NULL,NULL,PL0006,1944,1972,,,,,,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2017-12-13,MG
+P0031,Huang,Guangzu,en,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLINE SOURCE,http://irrc.swu.edu.cn/s/irrc/gw/20160415/902381.html,ONLINE SOURCE,川东师范学堂第二十三任校长黄子裳之子 。 Aus Remembrance: [朱]时贤读的东西比较多，在部队中接触过一些内部资料，如《我军不利战战史》，这让他对众多问题的看法发生 了重大变化。,,2017-07-05,LH,2018-01-18,OS
+P0031,黄,光祖,zh,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLINE SOURCE,http://irrc.swu.edu.cn/s/irrc/gw/20160415/902381.html,ONLINE SOURCE,川东师范学堂第二十三任校长黄子裳之子 。 Aus Remembrance: [朱]时贤读的东西比较多，在部队中接触过一些内部资料，如《我军不利战战史》，这让他对众多问题的看法发生 了重大变化。,,2017-07-05,LH,2018-01-18,OS
+P0032,Zhu,Shixian,en,male,,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-18,OS
+P0032,朱,时贤,zh,male,,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-18,OS
 P0033,Zhou,Ziren,en,male,,,,PL0007,,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2017-10-14,CW
 P0033,周,孜仁,zh,male,,,,PL0007,,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2017-11-19,CW
 P0034,Zhou,Jiren,en,male,no,,,PL0006,,,Zhou Zhaoming,en,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-16,OS
