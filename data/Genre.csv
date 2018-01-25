@@ -8,7 +8,7 @@ G06,shouchaoben fiction,en,fiction,2017-07-03,LH,2017-07-03,LH
 G07,science fiction,en,fiction,2017-07-03,LH,2017-07-03,LH
 G08,fairy tale,en,fiction,2017-07-03,LH,2017-07-03,LH
 G09,chuanqi,zh-Latn-pinyin,fiction,2017-07-03,LH,2017-07-03,LH
-G10,poetry,en,poetry,2017-07-03,LH,2017-07-03,LH
+,poetry,en,poetry,2017-07-03,LH,2017-07-03,LH
 G11,prose poetry,en,poetry,2017-07-03,LH,2017-07-03,LH
 G12,shi,zh-Latn-pinyin,poetry,2017-07-03,LH,2017-07-03,LH
 G13,ci,zh-Latn-pinyin,poetry,2017-07-03,LH,2017-07-03,LH
@@ -26,3 +26,4 @@ G24,political theory,en,non-fiction,2017-07-25,MG,2017-07-25,MG
 G25,correspondence,en,non-fiction,2017-07-27,LH,2017-07-27,LH
 G26,CCP central document,en,non-fiction,2017-10-03,CW,2017-10-03,CW
 G27,Speech,en,non-fiction,2017-10-03,CW,2017-10-03,CW
+G28,Collection of works,en,,2018-01-25,OS,2018-01-25,OS
