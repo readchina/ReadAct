@@ -4,7 +4,7 @@ Person,family_name,Family name of a person by which he/she is commonly known; i.
 Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
-Person,rustication,records whether or when a person experienced rustication; write 'NULL'  if not provide year for yes,,2017-07-04,LH,2017-07-18,DP
+Person,rustication,records whether or when a person experienced rustication; in case he or she did not write 'no'. If yes write 'yes'. If he or she was a foreigner or born before 1930 write 'NULL'. If we do not (yet) know write 'unknown'.,,2017-07-04,LH,2018-01-23,OS
 Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
 Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
 Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
