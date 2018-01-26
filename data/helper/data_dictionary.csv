@@ -4,7 +4,7 @@ Person,family_name,Family name of a person by which he/she is commonly known; i.
 Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
-Person,rustication,records whether or when a person experienced rustication; write 'NULL'  if not provide year for yes,,2017-07-04,LH,2017-07-18,DP
+Person,rustication,records whether or when a person experienced rustication; in case he or she did not write 'no'. If yes write 'yes'. If he or she was a foreigner or born before 1930 write 'NULL'. If we do not (yet) know write 'unknown'.,,2017-07-04,LH,2018-01-23,OS
 Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
 Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
 Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
@@ -108,10 +108,10 @@ Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,L
 Act,agent,person_id of agent (person doing something) ,,2017-07-04,LH,2017-07-04,LH
 Act,action,add ActType/action_ID,,2017-07-04,LH,2017-07-04,LH
 Act,act_object,Object of an action (text_id),,2017-07-25,OS,2017-07-25,OS
-Act,act_target,person_id of targets of social actions (A gave B a gift),,2017-07-04,LH,2017-07-04,LH
-Act,start,Beginning (year) of an action / we cover reading acts between 1966 and 1981,,2017-07-04,LH,2017-07-04,LH
-Act,end,End (year) of an action. If only one year / point in time then use same as start year p.e. 1968-1968,,2017-07-04,LH,2017-07-04,LH
-Act,substantial_discussion,if there is a substantial discussion; add substantial comment / summary or quotation from source. Try to limit it to three sentences at most.  ,,2017-07-04,LH,2017-07-04,LH
+Act,act_target,person_id of targets of social actions (A gave B a gift); Remains empty when not applicable,,2017-07-04,LH,2018-01-22,MG
+Act,start,Beginning (year) of an action / we cover reading acts between 1966 and 1981; Add 19XX (196X etc.) to provide an approximate,,2017-07-04,LH,2018-01-22,MG
+Act,end,End (year) of an action. If only one year / point in time then use same as start year p.e. 1968-1968; Add 19XX (196X etc.) to provide an approximate,,2017-07-04,LH,2018-01-22,MG
+Act,substantial_discussion,if there is a substantial discussion; add substantial comment / summary or quotation from source. Try to limit it to three sentences at most. Add ‚unknown‘ in case we don‘t know,,2017-07-04,LH,2018-01-22,MG
 Act,source_id,Reference to text in which an activity is recorded,,2017-07-04,LH,2017-07-04,LH
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP

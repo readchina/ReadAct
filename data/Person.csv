@@ -63,8 +63,8 @@ P0031,Huang,Guangzu,en,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLI
 P0031,黄,光祖,zh,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLINE SOURCE,http://irrc.swu.edu.cn/s/irrc/gw/20160415/902381.html,ONLINE SOURCE,川东师范学堂第二十三任校长黄子裳之子 。 Aus Remembrance: [朱]时贤读的东西比较多，在部队中接触过一些内部资料，如《我军不利战战史》，这让他对众多问题的看法发生 了重大变化。,,2017-07-05,LH,2018-01-18,OS
 P0032,Zhu,Shixian,en,male,unknown,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0032,朱,时贤,zh,male,unknown,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0033,Zhou,Ziren,en,male,unknown,NULL,NULL,PL0007,,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0033,周,孜仁,zh,male,unknown,NULL,NULL,PL0007,,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
+P0033,Zhou,Ziren,en,male,unknown,NULL,NULL,PL0007,1943?,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-26,DP
+P0033,周,孜仁,zh,male,unknown,NULL,NULL,PL0007,1943?,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-26,DP
 P0034,Zhou,Jiren,en,male,no,NULL,NULL,PL0006,,,Zhou Zhaoming,en,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0034,周,继仁,zh,male,no,NULL,NULL,PL0006,,,周照明,zh,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0035,Zhang,Kunquan,en,female,no,NULL,NULL,,1926,,Shamo,en,PL0100,,,T00117,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
@@ -402,3 +402,18 @@ P0217,Wang,Xiaoni,en,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikip
 P0217,王,小妮,zh,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikipedia.org/wiki/Wang_Xiaoni,,,,,,2018-01-12,MG,2018-01-16,MG
 P0218,Tang,Xiaodu,en,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
 P0218,唐,小渡,zh,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
+P0219,Tang,Xiaofeng,en,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0219,唐,晓峰,zh,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0220,Qian ,Dachuan,en,male,unknown,unknown,unknown,unknown,unknown,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0220,钱,大川,zh,male,unknown,unknown,unknown,unknown,unknown,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0250,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0250,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0250,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0251,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0251,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0252,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
+P0252,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
+P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
