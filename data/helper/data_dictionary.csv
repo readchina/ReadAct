@@ -27,13 +27,27 @@ Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 SocialPosition,soc_pos_id,SP and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but  record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Text,text_id,T and a five-digit number (leading),,2017-07-04,LH,2017-07-04,LH
+SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-25,OS
+SocialRelation,ego,Add a person_id. The relation must be drawn from this person.,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,related person,Add a person_id. This is the person the ego is related to.,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,relation,In case of relatives apply the classification system proposed by Qian/Piao (2007); e.g. 'S4.1.1m'. In case of all other relations: measure the emotional depth of their relation and distinguish between friends and acquaintances. Use S.3.1 for the first and S.3.2 and add m/f for the sex.,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,rel_zh,"add the chinese term for kinship relations, for the other category use 朋友 or 熟人",,2018-01-25,OS,2018-01-25,OS
+SocialRelation,rel_en,add the english term for kinship relations. For the other category use friend or acquaintance,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,source,add a text_id,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,page,add a page number or 'ONLINE SOURCE' for online sources,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,note,for internal communication on a specific line,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-25,OS
+,,,,,,,
+Text,text_id,T and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
 Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
