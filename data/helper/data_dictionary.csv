@@ -5,8 +5,8 @@ Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
 Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
 Person,rustication,records whether or when a person experienced rustication; in case he or she did not write 'no'. If yes write 'yes'. If he or she was a foreigner or born before 1930 write 'NULL'. If we do not (yet) know write 'unknown'.,,2017-07-04,LH,2018-01-23,OS
-Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
-Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time ,,2017-11-03,OS,2017-11-03,OS
+Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
+Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
 Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
 Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
 Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
@@ -33,28 +33,28 @@ SocialPosition,created_by,acronym of project member creating this line,,2017-07-
 SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-25,OS
-SocialRelation,ego,Add a person_id. The relation must be drawn from this person.,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,related person,Add a person_id. This is the person the ego is related to.,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,relation,In case of relatives apply the classification system proposed by Qian/Piao (2007); e.g. 'S4.1.1m'. In case of all other relations: measure the emotional depth of their relation and distinguish between friends and acquaintances. Use S.3.1 for the first and S.3.2 and add m/f for the sex.,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,rel_zh,"add the chinese term for kinship relations, for the other category use 朋友 or 熟人",,2018-01-25,OS,2018-01-25,OS
-SocialRelation,rel_en,add the english term for kinship relations. For the other category use friend or acquaintance,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,source,add a text_id,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,page,add a page number or 'ONLINE SOURCE' for online sources,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,note,for internal communication on a specific line,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-25,OS
-SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-25,OS
+SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,ego,person_id of ego,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,related,person_id of related,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,note,for internal communication on a specific line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-28,DP
 ,,,,,,,
 Text,text_id,T and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
 Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
-Text,publication_place  ,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+Text,publication_place,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
 Text,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
 Text,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
-Text,first_chin_edition,year of first edition in China (where easily available). Data is incomplete. ,,2017-07-04,LH,2017-07-04,LH
+Text,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2017-07-04,LH,2017-07-04,LH
 Text,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
 Text,source_id,Source of a text; i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
 Text,serial_part,additional citation ranges for serials such as volume or issue,,,,,
@@ -82,7 +82,7 @@ IsoLangCode,created_by,acronym of project member creating this line,,2017-07-04,
 IsoLangCode,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 IsoLangCode,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Institution,inst_ID,I and a four-digit number (leading zeros) ,,2017-07-04,LH,2017-07-04,LH
+Institution,inst_ID,I and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name,Generic institutional names in english ( e.g.:  'school'; 'university';  Chinese Communist Party);  others in pinyin,,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,language code of this institution,,2017-07-04,LH,2017-07-12,OS
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
@@ -94,7 +94,7 @@ Institution,created_by,acronym of project member creating this line,,2017-07-04,
 Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Institution,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Place,place_ID,PL and a five-digit number (leading zeroes) ,,2017-07-04,LH,2017-07-04,LH
+Place,place_ID,PL and a five-digit number (leading zeroes),,2017-07-04,LH,2017-07-04,LH
 Place,place_name,Name of a place in English; e.g. Shanghai; Cologne; Rome,,2017-07-04,LH,2017-07-12,OS
 Place,long,geo.data,,2017-07-04,LH,2017-07-04,LH
 Place,lat,geo.data,,2017-07-04,LH,2017-07-04,LH
@@ -103,7 +103,7 @@ Place,created_by,acronym of project member creating this line,,2017-07-04,LH,201
 Place,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Place,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Location,loc_id,L and a four-digit number (leading zeroes) ,,2017-07-04,LH,2017-07-04,LH
+Location,loc_id,L and a four-digit number (leading zeroes),,2017-07-04,LH,2017-07-04,LH
 Location,loc_name,Give name of a location - location refers to a type of place: market place; the toilet ; on a boat; …,,2017-07-04,LH,2017-07-04,LH
 Location,loc_name_lang,language of the term in loc_name,,2017-07-04,LH,2017-07-04,LH
 Location,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -119,7 +119,7 @@ ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-Act,agent,person_id of agent (person doing something) ,,2017-07-04,LH,2017-07-04,LH
+Act,agent,person_id of agent (person doing something),,2017-07-04,LH,2017-07-04,LH
 Act,action,add ActType/action_ID,,2017-07-04,LH,2017-07-04,LH
 Act,act_object,Object of an action (text_id),,2017-07-25,OS,2017-07-25,OS
 Act,act_target,person_id of targets of social actions (A gave B a gift); Remains empty when not applicable,,2017-07-04,LH,2018-01-22,MG
