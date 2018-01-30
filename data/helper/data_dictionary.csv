@@ -99,6 +99,7 @@ Location,last_modified_by,acronym of project member last modifying this line,,20
 ,,,,,,,
 ActType,action_ID,AT and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-12,OS
 ActType,action_name,verb for an action undertaken in the course of a wider act of reading: circulate; steal; buy;,,2017-07-04,LH,2017-07-04,LH
+ActType,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-01-30,MG,2018-01-30,MG
 ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
