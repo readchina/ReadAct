@@ -1,4 +1,4 @@
-person_id,family_name,first_name,name_lang,sex,rustication,time_of_rustication_start,time_of_rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id_1,page_number_1,source_id_2,page_number_2,commentary,note,created,created_by,last_modified,last_modified_by
+person_id,family_name,first_name,name_lang,sex,rustication,rustication_start,rustication_end,place_of_rust,birthyear,deathyear,alt_name,alt_name_lang,place_of_birth,social_position,neibu_access,source_id_1,page_number_1,source_id_2,page_number_2,commentary,note,created,created_by,last_modified,last_modified_by
 P0001,Lu,Xun,en,male,NULL,NULL,NULL,NULL,1881,1936,Zhou Shuren,en,PL0045,,NULL,https://en.wikipedia.org/wiki/Lu_Xun,ONLINE SOURCE,,,,,2017-07-03,LH,2018-01-16,OS
 P0001,鲁,迅,zh,male,NULL,NULL,NULL,NULL,1881,1936,周树人,zh,PL0045,,NULL,https://en.wikipedia.org/wiki/Lu_Xun,ONLINE SOURCE,,,,,2017-07-03,LH,2018-01-16,OS
 P0002,Mou,Dunbai,en,male,yes,1968,unknown,PL0008,1947,,,,,,,T00045,18 24,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-07-05,LH,2018-01-26,WH
@@ -6,7 +6,7 @@ P0002,牟,敦白,zh,male,yes,1968,unknown,PL0008,1947,,,,,,,T00045,18 24,http://
 P0003,Zhang,Langlang,en,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,Yes,T00011,75f 79f,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军、弟弟张大伟、张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
 P0003,张,朗朗,zh,male,no,NULL,NULL,NULL,1943,,,,PL0021,S03,Yes,T00011,75f 79f,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军、弟弟张大伟、张寥寥、张沛沛。,,2017-07-05,LH,2018-01-12,OS
 P0004,Mang,Ke,en,male,yes,1969,unknown,PL0022,1950,,Jiang Shiwei,en,PL0020,,,T00011,75f 79f,T00115,183ff,,,2017-07-05,LH,2018-01-25,WH
-P0004,芒,克,zh,male,yes,1969,unknown,PL0022,1950,,姜世伟 ,zh,PL0020,,,T00011,75f 79f,T00115,183ff,,,2017-07-05,LH,2018-01-25,WH
+P0004,芒,克,zh,male,yes,1969,unknown,PL0022,1950,,姜世伟,zh,PL0020,,,T00011,75f 79f,T00115,183ff,,,2017-07-05,LH,2018-01-25,WH
 P0005,Peng,Gang,en,male,unknown,NULL,NULL,,1953,,,,,,,T00011,79,T00115,183ff,,,2017-07-05,LH,2018-01-25,WH
 P0005,彭,刚,zh,male,unknown,NULL,NULL,,1953,,,,,,,T00011,79,T00115,183ff,,,2017-07-05,LH,2018-01-25,WH
 P0006,Tan,Xiaochun,en,,unknown,NULL,NULL,,,,,,,,,T00115,183ff,,,,,2017-07-05,LH,2018-01-25,WH
@@ -32,23 +32,23 @@ P0015,依,群,zh,male,unknown,NULL,NULL,,1947,,,,,,,T00114,197,,,,,2017-07-05,LH
 P0016,Zhou,Duo,en,male,unknown,NULL,NULL,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,,2017-07-05,LH,2018-01-25,WH
 P0016,周,舵,zh,male,unknown,NULL,NULL,,1947,,,,,,,T00127,211,worldcat.org,ONLINE SOURCE,,,2017-07-05,LH,2018-01-25,WH
 P0017,Ma,Jia,en,male,yes,1969,1975,PL0008,1953,,Feng Huai,en,PL0002,,,T00009,219ff,http://www.chinawriter.com.cn/zxhy/member/9075.shtml,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
-P0017,马,佳,zh,male,yes,1969,1975,PL0008,1953,,冯淮 ,zh,PL0002,,,T00009,219ff,http://www.chinawriter.com.cn/zxhy/member/9075.shtml,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
-P0018,Yan,Li,en,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山 ,,2017-07-05,LH,2018-01-18,OS
-P0018,严,力,zh,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山 ,,2017-07-05,LH,2018-01-18,OS
-P0019,Guo,Lusheng,en,male,yes,1969,1971,PL0138,1948,,Shi Zhi,en,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2018-01-16,OS
-P0019,郭,路生,zh,male,yes,1969,1971,PL0138,1948,,食指,zh,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing. ,,2017-07-05,LH,2018-01-16,OS
+P0017,马,佳,zh,male,yes,1969,1975,PL0008,1953,,冯淮,zh,PL0002,,,T00009,219ff,http://www.chinawriter.com.cn/zxhy/member/9075.shtml,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0018,Yan,Li,en,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山,,2017-07-05,LH,2018-01-18,OS
+P0018,严,力,zh,male,no,NULL,NULL,NULL,1954,,,,PL0002,S03,,T00009,220,http://blog.sina.com.cn/s/blog_77f3ab7f0101aabk.html,ONLINE SOURCE,爷爷是上海名中医，叫严苍山,,2017-07-05,LH,2018-01-18,OS
+P0019,Guo,Lusheng,en,male,yes,1969,1971,PL0138,1948,,Shi Zhi,en,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing.,,2017-07-05,LH,2018-01-16,OS
+P0019,郭,路生,zh,male,yes,1969,1971,PL0138,1948,,食指,zh,PL0137,,,T00009,229,T00011,74-75,author of the books Xiangxin weilai 相信未來 and Zhe shi sidian bafen Beijing 《這是四點零八分的北京》; both written in 1968. Very influential among zhiqing.,,2017-07-05,LH,2018-01-16,OS
 P0020,Gao,Hua,en,male,no,NULL,NULL,NULL,1954,2011,,,PL0090,S07,Indirect,T00006,132-139,https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
 P0020,高,华,zh,male,no,NULL,NULL,NULL,1954,2011,,,PL0090,S07,Indirect,T00006,132-139,https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%8E,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
-P0021,Guo,Shiying,en,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun ,,2017-07-05,LH,2018-01-18,OS
-P0021,郭,世英,zh,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun ,,2017-07-05,LH,2018-01-18,OS
-P0022,Zhang,Heci,en,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論 ,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal. ,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
-P0022,张,鹤慈,zh,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論 ,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal. ,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
+P0021,Guo,Shiying,en,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun,,2017-07-05,LH,2018-01-18,OS
+P0021,郭,世英,zh,male,no,NULL,NULL,NULL,1942,1968,,,PL0012,S03,yes,T00011,75f 80,https://baike.baidu.com/item/%E9%83%AD%E4%B8%96%E8%8B%B1/63658,ONLINE SOURCE,son of Guo Moruo and Yu Liqun,,2017-07-05,LH,2018-01-18,OS
+P0022,Zhang,Heci,en,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal.,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
+P0022,张,鹤慈,zh,male,no,NULL,NULL,NULL,1943,,,,,S03,yes,T00011,75f 80,精神重力與個人詞源 ——中國先鋒詩歌論,122,grandson of Zhang Dongsun 张东荪. Son of Zhang Zongbing 张宗炳. Was sent to a laogai for 15 years. He founded the X literary society and the X shouchao journal.,pls add the source_2 in the text file,2017-07-05,LH,2018-01-18,OS
 P0023,Yang,Sanbai,en,,unknown,NULL,NULL,,,,,,,,,T00011,75,,,,,2017-07-05,LH,2018-01-25,WH
 P0023,杨,三白,zh,,unknown,NULL,NULL,,,,,,,,,T00011,75,,,,,2017-07-05,LH,2018-01-25,WH
 P0024,Song,Haiquan,en,male,yes,1969,unknown,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-07-05,LH,2018-01-25,WH
 P0024,宋,海泉,zh,male,yes,1969,unknown,PL0022,1949,,,,,,,T00011,75 79f,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-07-05,LH,2018-01-25,WH
 P0025,Gan,Tiesheng,en,male,yes,1968,1974,PL0141,1946,,Zifeng,en,PL0002,S03,,T00011,75-76  80,http://baogaowenxue.xiusha.com/z/zheyongping/stmq/004.htm,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
-P0025,甘,铁生,zh,male,yes,1968,1974,PL0141,1946,,紫峰 ,zh,PL0002,S03,,T00011,75-76  80,http://baogaowenxue.xiusha.com/z/zheyongping/stmq/004.htm,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
+P0025,甘,铁生,zh,male,yes,1968,1974,PL0141,1946,,紫峰,zh,PL0002,S03,,T00011,75-76  80,http://baogaowenxue.xiusha.com/z/zheyongping/stmq/004.htm,ONLINE SOURCE,,,2017-07-05,LH,2018-01-18,OS
 P0026,Lu,Shuangqin,en,female,yes,1969,,PL0008,1953,,,,PL0002,,Yes,T00011,76f,https://www.jintian.net/today/html/28/n-17928.html,ONLINE SOURCE,,,2017-07-05,LH,2018-01-10,OS
 P0026,鲁,双芹,zh,female,yes,1969,,PL0008,1953,,,,PL0002,,Yes,T00011,76f,https://www.jintian.net/today/html/28/n-17928.html,ONLINE SOURCE,,,2017-07-05,LH,2018-01-10,OS
 P0027,Zhang,Xinhua,en,male,unknown,NULL,NULL,,,,,,,,,T00011,76 80,,,,,2017-07-05,LH,2018-01-25,WH
@@ -135,8 +135,8 @@ P0068,Zhang,Runfeng,en,male,unknown,NULL,NULL,,,,,,,,,T00112,51,,,,,2017-07-05,L
 P0068,张,润峰,zh,male,unknown,NULL,NULL,,,,,,,,,T00112,51,,,,,2017-07-05,LH,2018-01-26,WH
 P0069,Yang,Xiaomin,en,female,unknown,NULL,NULL,,,,,,,,,T00112,51,,,,,2017-07-05,LH,2018-01-26,WH
 P0069,杨,孝敏,zh,female,unknown,NULL,NULL,,,,,,,,,T00112,51,,,,,2017-07-05,LH,2018-01-26,WH
-P0070,Jiang,Dingyue,en,female,yes,unknown,unknown,PL0133,,,,,PL0136,S05,yes,T00112,51,https://book.douban.com/review/6519809/,ONLINE SOURCE,Grew up in Beijing. 抗日名将蒋光鼐之女 ,,2017-07-05,LH,2018-01-26,WH
-P0070,蒋,定粤,zh,female,yes,unknown,unknown,PL0133,,,,,PL0136,S05,yes,T00112,51,https://book.douban.com/review/6519809/,ONLINE SOURCE,Grew up in Beijing. 抗日名将蒋光鼐之女 ,,2017-07-05,LH,2018-01-26,WH
+P0070,Jiang,Dingyue,en,female,yes,unknown,unknown,PL0133,,,,,PL0136,S05,yes,T00112,51,https://book.douban.com/review/6519809/,ONLINE SOURCE,Grew up in Beijing. 抗日名将蒋光鼐之女,,2017-07-05,LH,2018-01-26,WH
+P0070,蒋,定粤,zh,female,yes,unknown,unknown,PL0133,,,,,PL0136,S05,yes,T00112,51,https://book.douban.com/review/6519809/,ONLINE SOURCE,Grew up in Beijing. 抗日名将蒋光鼐之女,,2017-07-05,LH,2018-01-26,WH
 P0071,Gan,Huili,en,male,unknown,NULL,NULL,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2018-01-26,WH
 P0071,甘,恢理,zh,male,unknown,NULL,NULL,,,,,,,,,T00112,52,,,,,2017-07-05,LH,2018-01-26,WH
 P0072,Zhang,Dawei,en,male,unknown,NULL,NULL,,,,,,,S03,,T00112,52,http://history.sina.com.cn/bk/wgs/2013-09-03/144052895.shtml,ONLINE SOURCE,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军和张郎郎、弟弟张寥寥、张沛沛。,,2017-07-05,LH,2018-01-26,WH
@@ -245,7 +245,7 @@ P0132,Chen,Jianhua,en,male,no,NULL,NULL,NULL,1947,,,,PL0003,,,T00043,452,,,,,201
 P0133,Bo,Hua,en,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
 P0133,柏,桦,zh,male,,,,,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,,,,,2017-08-07,MG,2018-01-12,MG
 P0134,Lin,Mang,en,male,yes,1969,1975,PL0022,1949,,Zhang Jianzhong,en,PL0104,S03,,T00045,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-08-11,MG,2018-01-16,OS
-P0134,林,莽,zh,male,yes,1969,1975,PL0022,1949,,张建中  ,zh,PL0104,S03,,T00045,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-08-11,MG,2018-01-16,OS
+P0134,林,莽,zh,male,yes,1969,1975,PL0022,1949,,张建中,zh,PL0104,S03,,T00045,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-08-11,MG,2018-01-16,OS
 P0135,Liao,Yiwu,en,male,NULL,NULL,NULL,NULL,1958,,Lao Wei,en,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-12-19,MG
 P0135,廖,亦武,zh,male,NULL,NULL,NULL,NULL,1958,,老 威,zh,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,,,,,,2017-08-11,MG,2017-11-06,OS
 P0136,Bao,Jia,en,male,yes,1970,1972,PL0072,1954,NULL,,,PL0002,,,T00110,495,,,,,2017-08-26,MG,2018-01-12,OS
