@@ -164,8 +164,8 @@ P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://e
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,384,322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
@@ -329,12 +329,12 @@ P0182,列寧,弗拉基米尔,zh,male,NULL,NULL,NULL,NULL,1870,1924,弗拉基米�
 P0182,Ленин,Владимир,ru,male,NULL,NULL,NULL,NULL,1870,1924,Влади́мир Ильи́ч Улья́нов,ru,PL0094,NULL,NULL,https://en.wikipedia.org/wiki/Vladimir_Lenin,,,,,,2017-10-24,MG,2017-12-23,MG
 P0183,Li,Ruzhen,en,male,NULL,NULL,NULL,NULL,1763,1830,Songsh Daoren,en,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,,,,2017-10-25,MG,2017-12-23,MG
 P0183,李,汝珍,zh,male,NULL,NULL,NULL,NULL,1763,1830,松石道人,zh,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,,,,,,2017-10-25,MG,2017-12-23,MG
-P0184,Fan,Zhen,en,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,,,,2017-10-30,MG,2018-01-16,WH
-P0184,范,缜,zh,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,,,,2017-10-30,MG,2018-01-16,WH
-P0185,Yi,Jia,zh,male,NULL,NULL,NULL,NULL,-200,-169,Yi Sheng,en,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,,,,2017-10-30,MG,2018-01-16,WH
-P0185,贾,谊,en,male,NULL,NULL,NULL,NULL,-200,-169,贾生,zh,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,,,,2017-10-30,MG,2018-01-16,WH
-P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,-551,-479,Kong Fuzi,en,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,,,,2017-10-30,MG,2018-01-16,WH
-P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,-551,-479,孔夫子,zh,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,,,,2017-10-30,MG,2018-01-16,WH
+P0184,Fan,Zhen,en,male,NULL,NULL,NULL,NULL,0450,0515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,,,,2017-10-30,MG,2018-01-16,WH
+P0184,范,缜,zh,male,NULL,NULL,NULL,NULL,0450,0515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,,,,,,2017-10-30,MG,2018-01-16,WH
+P0185,Yi,Jia,zh,male,NULL,NULL,NULL,NULL,-0200,-0169,Yi Sheng,en,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,,,,2017-10-30,MG,2018-01-16,WH
+P0185,贾,谊,en,male,NULL,NULL,NULL,NULL,-0200,-0169,贾生,zh,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,,,,,,2017-10-30,MG,2018-01-16,WH
+P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,-0551,-0479,Kong Fuzi,en,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,,,,2017-10-30,MG,2018-01-16,WH
+P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,-0551,-0479,孔夫子,zh,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,,,,,,2017-10-30,MG,2018-01-16,WH
 P0187,Kuan,Huan,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,,,,2017-10-30,MG,2017-12-23,MG
 P0187,桓,宽,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,,,,,,2017-10-30,MG,2017-12-23,MG
 P0999,anonymous,,en,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,,,,2017-11-07,DP,2017-11-07,DP
