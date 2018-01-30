@@ -27,13 +27,27 @@ Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 SocialPosition,soc_pos_id,SP and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but  record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Text,text_id,T and a five-digit number (leading),,2017-07-04,LH,2017-07-04,LH
+SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,ego,person_id of ego,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,related,person_id of related,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,note,for internal communication on a specific line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-28,DP
+,,,,,,,
+Text,text_id,T and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
 Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
