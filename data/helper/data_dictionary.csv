@@ -129,6 +129,7 @@ Act,end,End (year) of an action. If only one year / point in time then use same 
 Act,substantial_discussion,if there is a substantial discussion; add substantial comment / summary or quotation from source. Try to limit it to three sentences at most. Add ‚unknown‘ in case we don‘t know,,2017-07-04,LH,2018-01-22,MG
 Act,source_id,Reference to text in which an activity is recorded,,2017-07-04,LH,2017-07-04,LH
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Act,status_of_source,Genre_type of the source. Add ‚01‘ for academic-writing / ‚02‘ for life-writing / ‚03‘ for fiction,,2018-01-31,MG,2018-01-31,MG
 Act,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
