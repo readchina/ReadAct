@@ -1,26 +1,26 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
 Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-7,DP
-Person,family_name,Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren); Bei for Bei Dao (not Zhao Zhenkai),,2017-07-04,LH,2017-07-04,LH
-Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
-Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
-Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
-Person,rustication,records whether or when a person experienced rustication; in case he or she did not write 'no'. If yes write 'yes'. If he or she was a foreigner or born before 1930 write 'NULL'. If we do not (yet) know write 'unknown'.,,2017-07-04,LH,2018-01-23,OS
-Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
-Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
-Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
-Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
-Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
-Person,alt_name,Alternative family name under which a person may also be known i.e. Zhou Shuren for Lu Xun. Limit to one pseudonym per person.,,2017-07-04,LH,2017-07-04,LH
-Person,alt_name_lang,Language code of this name,,2017-07-04,LH,2017-07-04,LH
-Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
-Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading. Add 'unknown' in case you do not know. It is not necessary for those who are only authors in our data-set such as Shakespeare or Lu Xun. For them add 'NULL'.,,2017-07-04,LH,2017-07-04,LH
-Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add NULL in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
-Person,source_id_1,Reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
-Person,page_number_1,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
-Person,source_id_2,2nd reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
-Person,page_number_2,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-12-29,OS,2017-12-29,OS
-Person,commentary,The commentary can include the information that one person‘s birth place is not the place where he grew up or other necessary additional information. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
-Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
+Person,family_name,Commonly used family name (姓).,'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-01-30,DP
+Person,first_name,First name (名),,2017-07-04,LH,2018-01-30,DP
+Person,name_lang,ISO-639-1 language code,,2017-07-04,LH,2018-01-30,DP
+Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2018-01-30,DP
+Person,rustication,One of four values related to 知识青年: 'yes' if elligible person underwent rustication; 'no' where elligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
+Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
+Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
+Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no' or 'NULL'; 'unknown' in case we do not know the place.,,2017-07-04,LH,2018-01-30,DP
+Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name,Alias limited to one pseudonym per person.,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name_lang,Language code of alias,,2017-07-04,LH,2018-01-30,DP
+Person,place_of_birth,place_ID,,2017-07-04,LH,2018-01-30,DP
+Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers.,(worker / party-cadre /…),2017-07-04,LH,2018-01-30,DP
+Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
+Person,source_id_1,text_id of evidential source; URL for online sources.,,2017-07-04,LH,2018-01-30,DP
+Person,page_number_1,Page number or range for source_id_1; 'ONLINE SOURCE' if source_id_1 is a URL.,,2017-07-04,LH,2018-01-30,DP
+Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
+Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
+Person,commentary,Supplemental information; not for project internal notes.,,2017-10-27,OS,2018-01-30,DP
+Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
