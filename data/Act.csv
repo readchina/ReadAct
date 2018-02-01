@@ -1,4 +1,4 @@
-act_ID,agent,action,act_object,act_target,start,end,substantial_discussion,source_id,page_number,status_of_source,note,created,created_by,last_modified,last_modified_by
+act_ID,agent,action,act_object,act_target,start,end,substantial_discussion,source_id,page_number,source_status,note,created,created_by,last_modified,last_modified_by
 A00001,P0063,AT01,T00002,,1973,1973,A student was criticized while reading this American textbook in public. The author takes this book as an example of how volatile the attitude towards studying English was even/especially (?) at the East China Normal University's Foreign Languages Department in 1973. She also states that it was forbidden to listen to foreign broadcasting stations or to foreigners in general. So the only way listening to English was the  single official radio station broadcasting in English.,T00003,196f,,,2017-07-12,OS,2017-10-02,OS
 A00002,P0106,AT01,T00004,,1972,1976,mentions it among others as an important reading for him and his zhiqing fellows,T00007,581,,,2017-07-12,OS,2017-07-12,OS
 A00003,P0017,AT01,T00008,,1968,1978,mentions it among others as an important reading for the whole development in the field of literature after 1978,T00009,219,,,2017-07-12,OS,2017-07-12,OS
@@ -15,16 +15,16 @@ A00012,P0130,AT01,T00024,,1968,1968,The author read this banned book and thought
 A00013,P0131,AT01,T00024,,1975,1975,This book triggered up the author's understanding of literature. Intellectual  society and the era.,T00153,554,,,2017-07-28,MG,2018-01-12,MG
 A00014,P0014,AT03,T00024,P0108,1966,19XX,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,T00012,381,,,2017-07-25,MG,2018-01-22,MG
 A00015,P0119,AT04,T00025,,1971,1971,He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. 'To be or not to be' and  not to surrender to the evilness and enemy became his motto.,T00026,ONLINE SOURCE,,,2017-07-27,LH,2018-01-22,MG
-A00016,P0058,AT04,T00025,,19XX,19XX,He came up with the idea of editing quotations of Lu Xun after reading Letters between two ,T00027,ONLINE SOURCE,,,2017-07-27,LH,2018-01-22,MG
+A00016,P0058,AT04,T00025,,19XX,19XX,He came up with the idea of editing quotations of Lu Xun after reading Letters between two,T00027,ONLINE SOURCE,,,2017-07-27,LH,2018-01-22,MG
 A00017,P0120,AT04,P0001,,19XX,19XX,Lu Xun as his most important literary inspiration,T00030,79,,LENA,2017-08-01,LH,2018-01-22,MG
 A00018,P0029,AT09,T00028,,1966,1969,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xun's collection on paper. The copy was found and confiscated by the supervisor.,T00029,121,,,2017-07-28,LH,2018-01-25,MG
 A00018,P0029,AT02,T00028,,1966,1969,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xun's collection on paper. The copy was found and confiscated by the supervisor.,T00029,121,,,2017-07-28,LH,2018-01-25,MG
 A00019,P0120,AT01,T00165,,1954,1956,for the next two years he read many texts by Lu Xun; especially his essays,T00030,57,,,2017-07-28,LH,2018-01-30,MG
 A00020,P0120,AT10,T00164,,1967,1967,in 1967 he compiled 鲁迅语录 not for publications but for his friends,T00030,21,,,2017-07-28,LH,2018-01-29,MG
-A00021,P0106,AT01,T00165,,1967,1967,Later the author's home was plundered as well and all of his collections were confiscated by the red guards. ,T00005,569,,,2017-07-28,LH,2018-01-30,MG
-A00021,P0106,AT12,T00165,,1967?,1967?,Later the author's home was plundered as well and all of his collections were confiscated by the red guards. ,T00005,569,,,2017-07-28,LH,2018-01-30,MG
+A00021,P0106,AT01,T00165,,1967,1967,Later the author's home was plundered as well and all of his collections were confiscated by the red guards.,T00005,569,,,2017-07-28,LH,2018-01-30,MG
+A00021,P0106,AT12,T00165,,1967?,1967?,Later the author's home was plundered as well and all of his collections were confiscated by the red guards.,T00005,569,,,2017-07-28,LH,2018-01-30,MG
 A00022,P0133,AT01,T00042,,1979,1979,The author read the poem of Baudelaire （Le Balcon 露台／阳台） at this time when so many foreign poems appeared again in public.,T00154,533,,,2017-08-07,MG,2018-01-22,MG
-A00023,P0133,AT01,T00041,,1984,1984,The author visited Chen Jingrong in a morning of the summer in 1984.  She showed him a collection of her translations from the 1960s. These Poems were once published on 'World Literature' and   had influenced Bei Dao and other poets at that time.  ,T00154,539,,,2017-08-08,MG,2018-01-12,MG
+A00023,P0133,AT01,T00041,,1984,1984,The author visited Chen Jingrong in a morning of the summer in 1984.  She showed him a collection of her translations from the 1960s. These Poems were once published on 'World Literature' and   had influenced Bei Dao and other poets at that time.,T00154,539,,,2017-08-08,MG,2018-01-12,MG
 A00024,P0132,AT11,T00040,,1975,1980,The author started to translate these works,T00043,454,,,2017-08-08,MG,2017-08-08,MG
 A00025,P0106,AT01,T00040,,1968,1974,The author remembered that there was a worker whose surname was Zhu. He wrote many poems and mentioned these poets very often,T00005,583,,,2017-08-08,MG,2017-08-11,MG
 A00026,P0017,AT04,T00040,,19XX,19XX,big influence,T00009,220,,,2017-08-11,MG,2018-01-22,MG
@@ -36,8 +36,8 @@ A00031,P0021,AT01,T00050,,19XX,19XX,unknown,T00045,24,,,2017-08-20,MG,2018-01-22
 A00032,P0022,AT01,T00050,,1962,1963,His favorite quote from the book is 'Either unknown or outstanding',T00045,24,,,2017-08-20,MG,2017-08-20,MG
 A00033,P0002,AT01,T00051,,1962,1963,unknown,T00045,18,,,2017-08-20,MG,2018-01-22,MG
 A00034,P0003,AT01,T00052,,1960,1965?,Channel of obtaining: the collection of writer '海默',T00045,38,,end of action maybe 1965,2017-08-25,MG,2018-01-23,MG
-A00035,P0131,AT01,T00053,,19XX,19XX, Li Daxing had access to western works via his father‘s friend Li Shu 黎澍,T00153,555,,,2017-08-25,MG,2018-01-22,MG
-A00036,P0106,AT01,T00054,,1967,1967,Later the author's home was plundered as well and all of his collections were confiscated by the red guards. ,T00005,569f,,,2017-08-25,MG,2017-10-02,DP
+A00035,P0131,AT01,T00053,,19XX,19XX,Li Daxing had access to western works via his father‘s friend Li Shu 黎澍,T00153,555,,,2017-08-25,MG,2018-01-22,MG
+A00036,P0106,AT01,T00054,,1967,1967,Later the author's home was plundered as well and all of his collections were confiscated by the red guards.,T00005,569f,,,2017-08-25,MG,2017-10-02,DP
 A00037,P0020,AT01,T00055,,1966,1970?,Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union;  Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.,T00006,135,,end of action maybe 1970,2017-08-26,MG,2018-01-23,MG
 A00038,P0136,AT01,T00057,,19XX,19XX,unknown,T00110,495,,,2017-08-26,MG,2018-01-22,MG
 A00039,P0011,AT01,T00058,,19XX,19XX,unknown,T00155,57,,not sure about act-type,2017-08-27,MG,2018-01-22,MG
@@ -75,7 +75,7 @@ A00070,P0068,AT15,T00081,,1961,196X,unknown,T00045,38,,,2017-09-27,MG,2018-01-30
 A00071,P0132,AT11,T00082,,1975,1979,The author published some translated chapters of Charlie Chaplin's autobiography on the magazine 'Foreign Films' which was founded by Huang Tianmin,T00043,455,,maybe we should reconsider the act type for this entry,2017-09-27,MG,2018-01-22,MG
 A00072,P0109,AT01,T00083,,1970,1975,story-telling context: in her spare time Shu Ting tells this in her own words,T00014,304,,,2017-09-27,MG,2017-09-27,MG
 A00073,P0132,AT13,T00084,P0167,1978,1978,Tao wrote this Poem for Mr. Yan Wenliang. The author first touched upon impressionism fine arts in Yan's home at which he was totally impressed.,T00043,452,,,2017-09-29,MG,2017-11-08,MG
-A00074,P0020,AT04,T00085,,1970,1975, Rakhmetov the novel's protagonist - as well as other idealistic heroes and pioneers of communist revolution - glistened his heart and mind. At the same time Gao Hua was torn between on one hand Tsarist Russia's occupation of China and Stalin's hegemony toward China and on the other hand 'real socialism' and 'Sino-Russian friendly relationships'. ,T00006,134,,,2017-09-29,MG,2017-10-02,DP
+A00074,P0020,AT04,T00085,,1970,1975, Rakhmetov the novel's protagonist - as well as other idealistic heroes and pioneers of communist revolution - glistened his heart and mind. At the same time Gao Hua was torn between on one hand Tsarist Russia's occupation of China and Stalin's hegemony toward China and on the other hand 'real socialism' and 'Sino-Russian friendly relationships'.,T00006,134,,,2017-09-29,MG,2017-10-02,DP
 A00075,P0120,AT01,T00103,,19XX,19XX,Zhang found it in his uncle's notebook,T00030,52,,This quotation also appears verbatim in Zhang 1979: 186,2017-10-09,MG,2018-01-22,MG
 A00076,P0031,AT12,T00104,,1969,1969,brought from outside into the prison and confiscated while sent into the prison,T00109,ONLINE SOURCE,,,2017-10-09,MG,2017-12-17,MG
 A00077,P0029,AT01,T00106,,1964,1966,Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,T00029,118f,,,2017-10-09,MG,2017-10-09,MG
@@ -92,8 +92,8 @@ A00147,P0009,AT01,T00181,,1962,1965,"Ehrenburg's work was among the most influen
 A00148,P0003,AT03,T00184,P0999,1968?,1968?,Zhang Langlang gave that poem to some students from Beijing to read and memorize,T00185,112,,,2018-01-24,OS,2018-01-24,OS
 A00149,P0120,AT01,T00186,,1971,1976?,Zhang Yang read it in prison after the Lin Biao incident,T00030,110ff,,,2018-01-25,OS,2018-01-25,OS
 A00150,P0120,AT01,T00187,,1971,1976?,Zhang Yang read it in prison after the Lin Biao incident,T00030,110ff,,,2018-01-25,OS,2018-01-25,OS
-A00151,P0999,AT03,T00187,P0120,1971?,1976?,Several Books were sent to him when he was in prison ,T00030,435,,,2018-01-25,OS,2018-01-25,OS
-A00152,P0999,AT03,T00188,P0120,1971?,1976?,Several Books were sent to him when he was in prison ,T00030,435,,,2018-01-25,OS,2018-01-25,OS
+A00151,P0999,AT03,T00187,P0120,1971?,1976?,Several Books were sent to him when he was in prison,T00030,435,,,2018-01-25,OS,2018-01-25,OS
+A00152,P0999,AT03,T00188,P0120,1971?,1976?,Several Books were sent to him when he was in prison,T00030,435,,,2018-01-25,OS,2018-01-25,OS
 A00153,P0009,AT01,T00186,,1971,1971,Bei Dao mentioned that he had read the book in 1971,T00189,33,,,2018-01-25,OS,2018-01-25,OS
 A00154,P0219,AT01,T00188,,1968,1972,This book was the initiation of his history study.,T00190,258-259,,,2018-01-25,OS,2018-01-25,OS
 A00155,P0999,AT14,T00191,,1966,1966,This book in a precious editon was left in the house by Qian Dachuan‘s maternal grandfather and later found by Red Guards and destroyed.,,,,,,,,

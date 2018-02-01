@@ -129,8 +129,8 @@ Act,end,Year in EDTF when act ends; instintaneous acts have equal start and end 
 Act,substantial_discussion,substantial comment or quotation from source; 'unknown' in case we don‘t know,,2017-07-04,LH,2018-02-01,DP
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
-Act,status_of_source,Genre_type of the source. '01' for academic writing / '02' for life-writing / '03' for fiction,,2018-01-31,MG,2018-02-01,DP
-Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
+Act,source_status,Genre_type of the source. '01' for academic writing / '02' for life-writing / '03' for fiction,,2018-01-31,MG,2018-02-01,DP
+Act,source_status,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
