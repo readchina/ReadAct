@@ -1,12 +1,14 @@
-action_ID,action_name,created,created_by,last_modified,last_modified_by
-AT01,to read,2017-07-12,OS,2017-07-12,OS
-AT02,to copy by hand  (shouchao),2017-07-12,OS,2018-01-23,LH
-AT03,to hand over (to sb),2017-07-12,OS,2017-07-12,OS
-AT04,to take as ideal / guide,2017-07-19,LH,2017-07-19,LH
-AT06,to plan to edit texts / quotations by,2017-07-27,LH,2017-07-27,LH
-AT09,to memorize,2017-07-28,LH,2018-01-25,MG
-AT10,to compile / edit texts / quotations by,2017-08-01,LH,2017-08-01,LH
-AT11,to translate,2017-09-06,CW,2017-09-06,CW
-AT12,to have the text confiscated,2017-09-06,CW,2017-09-06,CW
-AT13,to write,2017-09-29,MG,2017-09-29,MG
-AT14,to destroy,2017-10-14,CW,2017-10-14,CW
+action_ID,action_name,note,created,created_by,last_modified,last_modified_by
+AT01,to read,,2017-07-12,OS,2017-07-12,OS
+AT02,to copy by hand  (shouchao),,2017-07-12,OS,2018-01-23,LH
+AT03,to hand over (to sb),,2017-07-12,OS,2017-07-12,OS
+AT04,to take as ideal / guide,,2017-07-19,LH,2017-07-19,LH
+AT05,to mention,,2018-01-25,MG,2018-01-25,MG
+AT06,to plan to edit texts / quotations by,,2017-07-27,LH,2017-07-27,LH
+AT09,to memorize,,2017-07-28,LH,2018-01-25,MG
+AT10,to compile / edit texts / quotations by,,2017-08-01,LH,2017-08-01,LH
+AT11,to translate,,2017-09-06,CW,2017-09-06,CW
+AT12,to have the text confiscated,,2017-09-06,CW,2017-09-06,CW
+AT13,to write,,2017-09-29,MG,2017-09-29,MG
+AT14,to destroy,,2017-10-14,CW,2017-10-14,CW
+AT15,to contemplate,e.g. (visual) art / performances or music,2018-01-30,MG,2018-01-30,MG

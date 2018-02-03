@@ -1,26 +1,26 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
 Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-7,DP
-Person,family_name,Family name of a person by which he/she is commonly known; i.e. Lu for Lu Xun (instead of Zhou Shuren); Bei for Bei Dao (not Zhao Zhenkai),,2017-07-04,LH,2017-07-04,LH
-Person,first_name,First name,,2017-07-04,LH,2017-07-04,LH
-Person,name_lang,Language code of this name,,2017-07-04,LH,2017-07-12,OS
-Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2017-10-14,DP
-Person,rustication,records whether or when a person experienced rustication; in case he or she did not write 'no'. If yes write 'yes'. If he or she was a foreigner or born before 1930 write 'NULL'. If we do not (yet) know write 'unknown'.,,2017-07-04,LH,2018-01-23,OS
-Person,time_of_rustication_start,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
-Person,time_of_rustication_end,add a four-digit number; time between 1968-1979. Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the time,,2017-11-03,OS,2017-11-03,OS
-Person,place_of_rust,place of rustication (or major place of rustication if several). Add 'NULL' in case he or she has not been a Zhiqing. Add 'unknown' in case we do not know the place.,,2017-07-04,LH,2017-07-04,LH
-Person,birthyear,provide birth year here,,2017-07-04,LH,2017-07-04,LH
-Person,deathyear,provide death year here,,2017-07-04,LH,2017-07-04,LH
-Person,alt_name,Alternative family name under which a person may also be known i.e. Zhou Shuren for Lu Xun. Limit to one pseudonym per person.,,2017-07-04,LH,2017-07-04,LH
-Person,alt_name_lang,Language code of this name,,2017-07-04,LH,2017-07-04,LH
-Person,place_of_birth,Record city / town where a person was born,,2017-07-04,LH,2017-07-04,LH
-Person,social_position,Social position of a person: worker; party-cadre;… It is only necessary to record the SP of persons who were reading. Add 'unknown' in case you do not know. It is not necessary for those who are only authors in our data-set such as Shakespeare or Lu Xun. For them add 'NULL'.,,2017-07-04,LH,2017-07-04,LH
-Person,neibu_access,Record whether a person had access to neibu material (access means: oneself or one‘s relatives were authorized to receive neibu materials over a period of time): yes/no; add NULL in case that this does not apply; p.e. for Shakespeare; for Lu Xun or for a Chinese person living in the 1970s outside of China,,2017-07-04,LH,2017-07-04,LH
-Person,source_id_1,Reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-07-04,LH,2017-07-04,LH
-Person,page_number_1,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-07-04,LH,2017-11-03,OS
-Person,source_id_2,2nd reference to a text in which relevant information to an author is recorded. This can be an URL as well.,,2017-12-29,OS,2017-12-29,OS
-Person,page_number_2,Page number in a text that the column source_id refers to; for several pages use 7-10. Add 'ONLINE SOURCE' for online sources,,2017-12-29,OS,2017-12-29,OS
-Person,commentary,The commentary can include the information that one person‘s birth place is not the place where he grew up or other necessary additional information. Keep it as short as possible and as long as necessary.,,2017-10-27,OS,2017-10-27,OS
-Person,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
+Person,family_name,Commonly used family name (姓).,'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-01-30,DP
+Person,first_name,First name (名),,2017-07-04,LH,2018-01-30,DP
+Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2018-01-30,DP
+Person,rustication,One of four values related to 知识青年: 'yes' if elligible person underwent rustication; 'no' where elligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
+Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2018-02-01,DP
+Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
+Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no' or 'NULL'; 'unknown' in case we do not know the place.,,2017-07-04,LH,2018-02-01,DP
+Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name,Alias limited to one pseudonym per person.,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Person,place_of_birth,key: Place.place_ID,,2017-07-04,LH,2018-01-30,DP
+Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers.,(worker / party-cadre /…),2017-07-04,LH,2018-01-30,DP
+Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
+Person,source_id_1,Text.text_id of evidential source; URL for online sources.,,2017-07-04,LH,2018-02-01,DP
+Person,page_number_1,Page number or range for source_id_1; 'ONLINE SOURCE' if source_id_1 is a URL.,,2017-07-04,LH,2018-01-30,DP
+Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
+Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
+Person,commentary,Supplemental information; not for project internal notes.,,2017-10-27,OS,2018-01-30,DP
+Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -34,14 +34,14 @@ SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04
 SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-28,DP
-SocialRelation,ego,person_id of ego,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,related,person_id of related,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,ego,Person.person_id of ego,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,related,Person.person_id of related,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,http://ucrel.lancs.ac.uk/publications/CL2007/paper/63_Paper.pdf; http://ucrel.lancs.ac.uk/usas/,2018-01-25,OS,2018-02-01,DP
 SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
 SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,note,for internal communication on a specific line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,note,Internal notes of project members,,2018-01-25,OS,2018-02-01,DP
 SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-28,DP
@@ -59,7 +59,7 @@ Membership,modified_by,acronym of project member last modifying this line,,2018-
 Text,text_id,T and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
 Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
-Text,genre_id,Refer to genre IS,,2017-07-04,LH,2017-07-04,LH
+Text,genre_id,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
 Text,publication_place,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
 Text,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
 Text,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
@@ -75,16 +75,16 @@ Text,created_by,acronym of project member creating this line,,2017-07-04,LH,2017
 Text,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Text,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Genre,genre_id,G and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-12,OS
+Genre,genre_id,G and a two-digit number (leading zeros),http://id.loc.gov/authorities/genreForms.htmlv,2017-07-04,LH,2018-02-01,DP
 Genre,genre_name,genre name in English; if necessary use Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
-Genre,genre_name_lang,Language code of this name 'en' or 'zh' only,,2017-07-04,LH,2017-07-12,OS
+Genre,genre_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
 Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),,2017-07-04,LH,2017-07-04,LH
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Genre,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Genre,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Genre,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-IsoLangCode,iso_code,use standard codes from ISO 639-1,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,iso_code,two letter code ISO 639-1,https://www.loc.gov/standards/iso639-2/php/English_list.phpv,2017-07-04,LH,2018-02-01,DP
 IsoLangCode,name,name of the language in English,,2017-07-04,LH,2017-07-04,LH
 IsoLangCode,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 IsoLangCode,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -98,6 +98,11 @@ Institution,place_id,the spatial center of the institution‘s activities with a
 Institution,time_of_existence_start,start of its existence,,2018-01-30,OS,2018-01-30,OS
 Institution,time_of_existence_end,end of its existence,,2018-01-30,OS,2018-01-30,OS
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
+Institution,members_id,List Person Ids of members of an institution (only one?? Many??),,2017-07-04,LH,2017-07-04,LH
+Institution,source_id,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
+Institution,page_number,page number in source text,,2017-07-04,LH,2017-07-04,LH
 Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Institution,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -113,8 +118,8 @@ Place,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Place,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 Location,loc_id,L and a four-digit number (leading zeroes),,2017-07-04,LH,2017-07-04,LH
-Location,loc_name,Give name of a location - location refers to a type of place: market place; the toilet ; on a boat; …,,2017-07-04,LH,2017-07-04,LH
-Location,loc_name_lang,language of the term in loc_name,,2017-07-04,LH,2017-07-04,LH
+Location,loc_name,location refers to a type of place: market place; the toilet ; on a boat; …,,2017-07-04,LH,2017-07-04,LH
+Location,loc_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-01-02,LH
 Location,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Location,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Location,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -122,22 +127,24 @@ Location,last_modified_by,acronym of project member last modifying this line,,20
 ,,,,,,,
 ActType,action_ID,AT and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-12,OS
 ActType,action_name,verb for an action undertaken in the course of a wider act of reading: circulate; steal; buy;,,2017-07-04,LH,2017-07-04,LH
+ActType,note,Internal notes of project members,,2018-01-30,MG,2018-02-01,DP
 ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-Act,agent,person_id of agent (person doing something),,2017-07-04,LH,2017-07-04,LH
-Act,action,add ActType/action_ID,,2017-07-04,LH,2017-07-04,LH
-Act,act_object,Object of an action (text_id),,2017-07-25,OS,2017-07-25,OS
-Act,act_target,person_id of targets of social actions (A gave B a gift); Remains empty when not applicable,,2017-07-04,LH,2018-01-22,MG
-Act,start,Beginning (year) of an action / we cover reading acts between 1966 and 1981; Add 19XX (196X etc.) to provide an approximate,,2017-07-04,LH,2018-01-22,MG
-Act,end,End (year) of an action. If only one year / point in time then use same as start year p.e. 1968-1968; Add 19XX (196X etc.) to provide an approximate,,2017-07-04,LH,2018-01-22,MG
-Act,substantial_discussion,if there is a substantial discussion; add substantial comment / summary or quotation from source. Try to limit it to three sentences at most. Add ‚unknown‘ in case we don‘t know,,2017-07-04,LH,2018-01-22,MG
-Act,source_id,Reference to text in which an activity is recorded,,2017-07-04,LH,2017-07-04,LH
+Act,agent,key: Person.person_id,'A' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,action,key: ActType.action_ID,'to  give' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,2017-07-25,OS,2018-02-01,DP
+Act,act_target,Person.person_id of targets of act; empty when not applicable,'B' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,start,Year in EDTF when act beginns (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
+Act,end,Year in EDTF when act ends; instintaneous acts have equal start and end dates,,2017-07-04,LH,2018-02-01,DP
+Act,substantial_discussion,substantial comment or quotation from source; 'unknown' in case we don‘t know,,2017-07-04,LH,2018-02-01,DP
+Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
-Act,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
+Act,source_status,Genre_type of the source. '01' for academic writing / '02' for life-writing / '03' for fiction,,2018-01-31,MG,2018-02-01,DP
+Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
