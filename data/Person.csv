@@ -164,8 +164,8 @@ P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://e
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
@@ -178,8 +178,8 @@ P0088,巴巴耶夫斯基,谢苗,zh,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,
 P0088,Бабаевский,Семён,ru,male,NULL,NULL,NULL,NULL,1909,2000,,,PL0034,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,,2017-07-10,OS,2018-01-08,MG
 P0089,Bach,Johann Sebastian,en,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-08,MG
 P0089,巴赫,约翰·塞巴斯蒂安,zh,male,NULL,NULL,NULL,NULL,1685,1750,,,PL0035,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,2017-07-10,OS,2018-01-08,MG
-P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-16,WH
-P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,772,846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-16,WH
+P0090,Bai,Juyi,en,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-16,WH
+P0090,白,居易,zh,male,NULL,NULL,NULL,NULL,0772,0846,,,PL0046,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,2017-07-10,OS,2018-01-16,WH
 P0091,Balmont,Konstantin,en,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
 P0091,巴尔蒙特,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
 P0091,Бальмо́нт,Константи́н,ru,male,NULL,NULL,NULL,NULL,1876,1942,,,PL0039,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,2017-07-10,OS,2018-01-08,MG
