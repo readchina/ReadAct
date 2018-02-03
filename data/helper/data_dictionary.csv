@@ -100,7 +100,6 @@ Institution,time_of_existence_end,end of its existence,,2018-01-30,OS,2018-01-30
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
-Institution,members_id,List Person Ids of members of an institution (only one?? Many??),,2017-07-04,LH,2017-07-04,LH
 Institution,source_id,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page_number,page number in source text,,2017-07-04,LH,2017-07-04,LH
 Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
