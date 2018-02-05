@@ -23,7 +23,7 @@ T00012,無題往事,,zh,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,N
 T00013,My Universities,,en,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
 T00013,Мои университеты,,ru,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
 T00013,我的大学,,zh,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
-T00014,Life  Books and Poems,,en,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,NULL,,,,,,2017-07-19,LH,2017-10-02,DP
+T00014,"Life,  Books and Poems",,en,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,NULL,,,,,,2017-07-19,LH,2017-10-02,DP
 T00014,生活、书籍与诗歌,,zh,P0109,G03,PL00054,1999,Xinjiang qingshaonian chubanshe,1980,NULL,,,,,,2017-07-19,LH,2017-07-24,DP
 T00015,My Apprenticeship,,en,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,T00006,,,,,2017-07-19,LH,2017-10-16,MG
 T00015,在人间,,zh,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,T00006,,,,,2017-07-19,LH,2017-10-16,MG
@@ -100,7 +100,7 @@ T00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,5
 T00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member ,,2017-09-15,MG,2018-01-18,MG
+T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
 T00070,九级浪,,zh,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
 T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,T00154,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
 T00071,献给爱琴海,,zh,P0102,G10,,,,,,T00154,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
@@ -249,7 +249,7 @@ T00147,,,en,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/re
 T00147,九一三使神话破灭,,zh,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
 T00148,,,en,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
 T00148,我在乡下听到林彪爆炸的消息,,zh,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00149,Explorations； Rectification and Fate,,en,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,Translated by project member,,2018-01-08,MG,2018-01-12,MG
+T00149,"Explorations, Rectification and Fate",,en,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,Translated by project member,,2018-01-08,MG,2018-01-12,MG
 T00149,探讨，整肃与命运,,zh,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,,,2018-01-08,MG,2018-01-12,MG
 T00150,,,en,P0043,,,2008,,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
 T00150,重庆火炉在燃烧,,zh,P0043,,,2008,国家历史,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
@@ -270,7 +270,7 @@ T00158,The Reminiscence of Sunshine and Storm,,en,P0018,G03,PL0002,2009,Sanlian 
 T00158,阳光与暴风雨的回忆,,zh,P0018,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,305-318,,,2018-01-12,MG,2018-01-12,MG
 T00159,I used to be a wolf of the mountain and a thief of the sea,,en,P0216,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,359-382,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 T00159,我曾经是山狼海贼,,zh,P0216,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,359-382,,,2018-01-12,MG,2018-01-12,MG
-T00160,Those times of mine ,,en,P0154,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00160,Those times of mine,,en,P0154,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 T00160,我的那年代,,zh,P0154,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,383-412,,,2018-01-12,MG,2018-01-12,MG
 T00161,Reminiscent Episodes of the 1970s,,en,P0217,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,457-474,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 T00161,七十年代记忆片段,,zh,P0217,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,457-474,,,2018-01-12,MG,2018-01-12,MG
@@ -278,31 +278,34 @@ T00162,1976,My First Love Died like Shabby Cotton,en,P0218,G03,PL0002,2009,Sanli
 T00162,1976,初恋败絮,zh,P0218,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,475-492,,,2018-01-12,MG,2018-01-12,MG
 T00163,The Black Painting Crisis,,en,P0137,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 T00163,黑画风波,,zh,P0137,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,349-358,,,2018-01-12,MG,2018-01-12,MG
-T00180,The Thaw,,en,P0250,G04,PL0002,1963,Zuojia chubanshe ,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
-T00180,Оттепель ,,ru,P0250,G04,PL0002,1963,Zuojia chubanshe ,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
-T00180,解冻,,zh,P0250,G04,PL0002,1963,Zuojia chubanshe ,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
-T00181,People; Years; Life,,en,P0250,G03,PL0002,1962,Zuojia chubanshe ,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979", ,2018-01-23,OS,2018-01-23,OS
-T00181,"Люди, годы, жизнь",,ru,P0250,G03,PL0002,1962,Zuojia chubanshe ,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
-T00181,人、岁月、生活,,zh,P0250,G03,PL0002,1962,Zuojia chubanshe ,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00164,,,en,P0001,,PL0003,1950,Lianyi chubanshe,,,,,,,,2018-01-29,MG,2018-01-29,MG
+T00164,鲁迅语录,,zh,P0001,,PL0003,1950,Lianyi chubanshe,,,,,,,,2018-01-29,MG,2018-01-29,MG
+T00165,unknown,,,P0001,G28,,,,,,NULL,NULL,NULL,Collected Works of Lu Xun,,2018-01-30,MG,2018-01-31,MG
+T00180,The Thaw,,en,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00180,Оттепель,,ru,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00180,解冻,,zh,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00181,"People, Years, Life",,en,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00181,"Люди, годы, жизнь",,ru,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00181,人、岁月、生活,,zh,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
 T00182,"Selected Essays, 1917-1932",,en,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
-T00182,艾略特论文选 ,,zh,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
-T00183,The collected poems of Paul Éluard ,,en,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,Translated by project member,,2018-01-24,OS,2018-01-24,OS
-T00183,艾吕雅诗钞 ,,zh,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,,,2018-01-24,OS,2018-01-24,OS
+T00182,艾略特论文选,,zh,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
+T00183,The collected poems of Paul Éluard,,en,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,Translated by project member,,2018-01-24,OS,2018-01-24,OS
+T00183,艾吕雅诗钞,,zh,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,,,2018-01-24,OS,2018-01-24,OS
 T00184,Hello sadness,,en,P0252,G10,,,,,,T00183,,,Translated by project member,,2018-01-24,OS,2018-01-24,OS
 T00184,你好，哀愁,,zh,P0252,G10,,,,,,T00183,,,,,2018-01-24,OS,2018-01-24,OS
 T00185,The tranquil horizon,,en,P0003,G03,,,,,,T00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
 T00185,宁静的地平线,,zh,P0003,G03,,,,,,T00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
 T00186,Anti-Dühring,,de,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
-T00186,反杜林论 ,,zh,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
+T00186,反杜林论,,zh,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
 T00187,Dialektik der Natur,,de,P0253,G01,PL0003,1949,Wenyuan chubanshe,,no,,,,,,2018-01-24,OS,2018-01-24,OS
 T00187,自然辩证法,,zh,P0253,G01,PL0003,1949,Wenyuan chubanshe,,no,,,,,,2018-01-24,OS,2018-01-24,OS
-T00188,A brief history of China ,,en,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
+T00188,A brief history of China,,en,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
 T00188,中国通史简编,,zh,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
 T00189,Broken chapter,,en,P0009,G03,,,,,,T00044,,31-50,Translated by project member,,2018-01-25,OS,2018-01-25,OS
 T00189,断章,,zh,P0009,G03,,,,,,T00044,,31-50,,,2018-01-25,OS,2018-01-25,OS
-T00190,The unforgettable 1971,,en,P0219,G03,,,,,,T00044,,257-278 ,Translated by project member,,2018-01-25,OS,2018-01-25,OS
-T00190,难忘的1971,,zh,P0219,G03,,,,,,T00044,,257-278 ,,,2018-01-25,OS,2018-01-25,OS
+T00190,The unforgettable 1971,,en,P0219,G03,,,,,,T00044,,257-278,Translated by project member,,2018-01-25,OS,2018-01-25,OS
+T00190,难忘的1971,,zh,P0219,G03,,,,,,T00044,,257-278,,,2018-01-25,OS,2018-01-25,OS
 T00191,Stories Old and New,,en,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
 T00191,古今小说,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
-T00192,The unjustly murdered woman from the neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html ,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
-T00192,被冤杀的街坊大妈 ,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html ,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+T00192,The unjustly murdered woman from the neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+T00192,被冤杀的街坊大妈,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS

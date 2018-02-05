@@ -406,3 +406,20 @@ P0217,Wang,Xiaoni,en,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikip
 P0217,王,小妮,zh,female,,,,,1955,,NULL,NULL,PL0093,,unknown,https://en.wikipedia.org/wiki/Wang_Xiaoni,,,,,,2018-01-12,MG,2018-01-16,MG
 P0218,Tang,Xiaodu,en,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
 P0218,唐,小渡,zh,male,,,,,1954,,NULL,NULL,PL0116,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,,,,,2018-01-12,MG,2018-01-16,MG
+P0219,Tang,Xiaofeng,en,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0219,唐,晓峰,zh,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0220,Qian ,Dachuan,en,male,unknown,unknown,unknown,unknown,unknown,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0220,钱,大川,zh,male,unknown,unknown,unknown,unknown,unknown,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0250,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0250,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0250,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
+P0251,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0251,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0252,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
+P0252,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
+P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
+P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
+P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
