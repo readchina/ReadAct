@@ -165,8 +165,8 @@ P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://e
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,0384,0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-16,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-08,MG
