@@ -10,7 +10,7 @@ A00007,P0020,AT04,T00013,,1966,1976,Gao Hua mentions that during the turmoil yea
 A00008,P0009,AT01,T00022,,1966,19XX,They started reading neibu books before rustication time already. Kafka's 'Trial' was among the most influential neibu books for Bei Dao,T00011,80,,,2017-07-19,OS,2018-01-22,MG
 A00009,P0014,AT03,T00024,P0108,1966,1970?,Zhao Yifan gave the book as a shouchaoben to Xu Xiao,T00012,381,,,2017-07-25,MG,2018-01-23,MG
 A00010,P0119,AT04,T00025,,1971,1971,He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. 'To be or not to be' and  not to surrender to the evilness and enemy became his motto.,T00026,ONLINE SOURCE,,,2017-07-27,LH,2017-10-02,DP
-A00011,P0106,AT01,T00024,,1968,1974,The author found the book left by two educated youth from other unit.  So he hid in his dorm reading it for the reason of illness and starved all through.,T00005,574,,,2017-07-28,MG,2017-10-02,DP
+A00011,P0106,AT01,T00024,,1968,1974,The author found the book left by two educated youth from other unit. So he hid in his dorm reading it for the reason of illness and starved all through.,T00005,574,,,2017-07-28,MG,2017-10-02,DP
 A00012,P0130,AT01,T00024,,1968,1968,The author read this banned book and thought Marx's works explains better than this one.,T00149,422,,,2017-07-28,MG,2018-01-08,MG
 A00013,P0131,AT01,T00024,,1975,1975,This book triggered up the author's understanding of literature. Intellectual  society and the era.,T00153,554,,,2017-07-28,MG,2018-01-12,MG
 A00014,P0014,AT03,T00024,P0108,1966,19XX,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,T00012,381,,,2017-07-25,MG,2018-01-22,MG
@@ -96,21 +96,31 @@ A00151,P0999,AT03,T00187,P0120,1971?,1976?,Several Books were sent to him when h
 A00152,P0999,AT03,T00188,P0120,1971?,1976?,Several Books were sent to him when he was in prison,T00030,435,,,2018-01-25,OS,2018-01-25,OS
 A00153,P0009,AT01,T00186,,1971,1971,Bei Dao mentioned that he had read the book in 1971,T00189,33,,,2018-01-25,OS,2018-01-25,OS
 A00154,P0219,AT01,T00188,,1968,1972,This book was the initiation of his history study.,T00190,258-259,,,2018-01-25,OS,2018-01-25,OS
-A00155,P0999,AT14,T00191,,1966,1966,This book in a precious editon was left in the house by Qian Dachuan‘s maternal grandfather and later found by Red Guards and destroyed.,,,,,,,,
-A00156,P0221,AT01,T00171,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00157,P0221,AT01,T00172,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00158,P0221,AT01,T00173,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00159,P0221,AT01,T00174,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00160,P0221,AT01,T00175,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00161,P0221,AT01,T00176,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00162,P0221,AT01,T00177,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00163,P0221,AT01,T00178,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00164,P0221,AT01,T00024,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00165,P0221,AT01,T00179,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00166,P0221,AT01,T00169,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,,,,2018-02-01,OS,2018-02-01,OS
-A00167,P0221,AT04,T00168,,196x,196x,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,,,,,2018-02-02,OS,2018-02-02,OS
-A00168,P0221,AT03,T00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it. ,,,,,2018-02-02,OS,2018-02-02,OS
-A00169,P0221,AT03,T00168,P0230,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,,,,2018-02-02,OS,2018-02-02,OS
-A00170,P0229,AT04,T00168,,1968?,1971,Liu was very influenced by it and from there on had doubted the official line.,,,,,2018-02-02,OS,2018-02-02,OS
-A00171,P0230,AT04,T00168,,1968?,1971,Zhang was very influenced by it and from there on had doubted the official line.,,,,,2018-02-02,OS,2018-02-02,OS
-A00172,P108,AT16,T00194,,1974,1974,Xu read it when being 20 years old and cried like a child. She states that no 20-year-old could read it without being completely stunned. She acted differently so that the boss of (her parent's) danwei came along and checked for her. He found the book and scolded her and adviced to rather read 欧阳海之歌 or The Golden Road by Hao Ran. Thereafter she was marked as somebody with inclinations to a petty-capitalist life style.,T00012,158-159,,,2018-02-03,OS,2018-02-03,OS
+A00155,P0999,AT14,T00191,,1966,1966,This book in a precious editon was left in the house by Qian Dachuan‘s maternal grandfather and later found by Red Guards and destroyed.,http://www.xujuneberlein.com/rem57.html#E,ONLINE SOURCE,02,,2018-02-01,OS,2018-02-01,OS
+A00156,P0221,AT01,T00171,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00157,P0221,AT01,T00172,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00158,P0221,AT01,T00173,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00159,P0221,AT01,T00174,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00160,P0221,AT01,T00175,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00161,P0221,AT01,T00176,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00162,P0221,AT01,T00177,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00163,P0221,AT01,T00178,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00164,P0221,AT01,T00024,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00165,P0221,AT01,T00179,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00166,P0221,AT01,T00169,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,T00170,249,02,,2018-02-01,OS,2018-02-01,OS
+A00167,P0221,AT04,T00168,,196x,196x,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,,249,02,,2018-02-02,OS,2018-02-02,OS
+A00168,P0221,AT03,T00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it. ,,249,02,,2018-02-02,OS,2018-02-02,OS
+A00169,P0221,AT03,T00168,P0230,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,249,02,,2018-02-02,OS,2018-02-02,OS
+A00170,P0229,AT04,T00168,,1968?,1971,Liu was very influenced by it and from there on had doubted the official line.,,249,02,,2018-02-02,OS,2018-02-02,OS
+A00171,P0230,AT04,T00168,,1968?,1971,Zhang was very influenced by it and from there on had doubted the official line.,,249,02,,2018-02-02,OS,2018-02-02,OS
+A00172,P0108,AT16,T00194,,1974,1974,Xu read it when being 20 years old and cried like a child. She states that no 20-year-old could read it without being completely stunned. She acted differently so that the boss of (her parent's) danwei came along and checked for her. He found the book and scolded her and adviced to rather read 欧阳海之歌 or The Golden Road by Hao Ran. Thereafter she was marked as somebody with inclinations to a petty-capitalist life style.,T00012,158-159,02,,2018-02-03,OS,2018-02-03,OS
+A00173,P0031,AT01,T00198,,1969,1969,Huang read Dimitrov when in prison,http://www.xujuneberlein.com/rem53.html#B,ONLINE SOURCE,02,,2018-02-05,OS,2018-02-05,OS
+A00174,P0029,AT16,T00200,,1964,1966,He read it around the beginning of the CR and mentions that this book was one of the most-beloved and widely-read among his book friends.,T00029,118-119,02,,2018-02-05,OS,2018-02-05,OS
+A00175,P0108,AT04,T00199,,1966,1968,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevsky‘s novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,,,02,,2018-02-05,OS,2018-02-05,OS
+A00176,P0062,AT01,T00202,,1974,1974,after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.,T00113 ,477,02,,2018-02-06,OS,2018-02-06,OS
+A00177,P0237,AT18,T00204,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out. ,http://www.xujuneberlein.com/rem51.html#B,ONLINE SOURCE,02,,2018-02-06,OS,2018-02-06,OS
+A00178,P0029,AT17,T00203,P0999,1969,1972,Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.,T00029,122,02,,2018-02-06,OS,2018-02-06,OS
+A00179,P0999,AT17,T00203,P0238,1968?,1975?,Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book; therefore nobody knew whether the story was correct. ,T00205,121,02,,2018-02-06,OS,2018-02-06,OS
+A00180,P0999,AT17,T00203,P0999,1968,1979,The Monte Christo counted among the most-sougt after stories; yet it was very hard to obtain. There were some Master story tellers who would profit a lot from being able to vividly retell these stories as a whole.,T00005,572,02,,2018-02-06,OS,2018-02-06,OS
+A00181,P0037,AT17,T00203,P0999,1965,1973,Huang could tell Monte Christo off the top of his head. His audience were people who lacked this kind of knowledge.,T00118,ONLINE Source,02,,2018-02-06,OS,2018-02-06,OS
+A00182,P0003,AT17,T00203,P0999,1970?,1972?,Zhang told the story of this Novel to Red guards in the prison. ,T00185,121,02,,2018-02-06,OS,2018-02-06,OS
