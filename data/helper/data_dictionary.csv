@@ -51,6 +51,7 @@ Membership,inst_ID,the id of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,person_id,the member of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,source_id,source which says that one person was or is a member of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,page_number,page number of the source in source_id; for online sources write 'ONLINE SOURCE',,2018-01-30,OS,2018-01-30,OS
+Membership,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Membership,created,date of creation of line,,2018-01-30,OS,2018-01-30,OS
 Membership,created_by,acronym of project member creating this line,,2018-01-30,OS,2018-01-30,OS
 Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
@@ -93,13 +94,15 @@ IsoLangCode,last_modified_by,acronym of project member last modifying this line,
 ,,,,,,,
 Institution,inst_ID,I and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name,Generic institutional names in english ( e.g.:  'school'; 'university';  Chinese Communist Party);  others in pinyin,,2017-07-04,LH,2017-07-04,LH
-Institution,inst_name_lang,language code of this institution,,2017-07-04,LH,2017-07-12,OS
-Institution,place_id,the spatial center of the institution‘s activities with a special focus on the time of its founding,,2018-01-30,OS,2018-01-30,OS
-Institution,time_of_existence_start,start of its existence,,2018-01-30,OS,2018-01-30,OS
-Institution,time_of_existence_end,end of its existence,,2018-01-30,OS,2018-01-30,OS
-Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
-Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
+Institution,place_id,the spatial center of the institution‘s activities with a special focus on the time of its founding; key: Place.place_ID,,2018-01-30,OS,2018-02-05,MG
+Institution,start,start of its existence: year in EDTF; if unknown uses approximate and uncertain dates,,2018-01-30,OS,2018-02-05,MG
+Institution,end,end of its existence: year in EDTF; if unknown uses approximate and uncertain dates; ‚NULL‘ if open-ended,,2018-01-30,OS,2018-02-06,MG
+Institution,alt_start,start of alternative name: year in EDTF; if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
+Institution,alt_end,end of alternative name: year in EDTF; if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
+Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
+Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Institution,source_id,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page_number,page number in source text,,2017-07-04,LH,2017-07-04,LH
 Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
