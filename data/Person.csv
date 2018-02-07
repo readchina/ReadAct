@@ -63,16 +63,16 @@ P0031,Huang,Guangzu,en,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLI
 P0031,黄,光祖,zh,male,no,NULL,NULL,NULL,1946,,,,PL0012,S03,yes,T00109,ONLINE SOURCE,http://irrc.swu.edu.cn/s/irrc/gw/20160415/902381.html,ONLINE SOURCE,川东师范学堂第二十三任校长黄子裳之子 。 Aus Remembrance: [朱]时贤读的东西比较多，在部队中接触过一些内部资料，如《我军不利战战史》，这让他对众多问题的看法发生 了重大变化。,,2017-07-05,LH,2018-01-18,OS
 P0032,Zhu,Shixian,en,male,unknown,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0032,朱,时贤,zh,male,unknown,NULL,NULL,PL0006,1944,1972,,,,,yes,T00109,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0033,Zhou,Ziren,en,male,unknown,NULL,NULL,PL0007,1943?,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-26,DP
-P0033,周,孜仁,zh,male,unknown,NULL,NULL,PL0007,1943?,,,,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-26,DP
+P0033,Zhou,Ziren,en,male,,,,PL0007,1943?,,,,PL0004,S06,no,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,OS
+P0033,周,孜仁,zh,male,,,,PL0007,1943?,,,,PL0004,S06,no,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,OS
 P0034,Zhou,Jiren,en,male,no,NULL,NULL,PL0006,,,Zhou Zhaoming,en,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0034,周,继仁,zh,male,no,NULL,NULL,PL0006,,,周照明,zh,,,,T00116,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0035,Zhang,Kunquan,en,female,NULL,NULL,NULL,,1926,,Shamo,en,PL0100,,,T00117,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-06,WH
 P0035,张,坤权,zh,female,NULL,NULL,NULL,,1926,,沙漠,zh,PL0100,,,T00117,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-06,WH
 P0036,Huang,Zhongjing,en,male,unknown,NULL,NULL,,,,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0036,黄,中敬,zh,male,unknown,NULL,NULL,,,,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0037,Huang,Xiaozhen,en,male,yes,1964,1972,PL0009,1947,1995,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0037,黄,小振,zh,male,yes,1964,1972,PL0009,1947,1995,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
+P0037,Huang,Xiaozhen,en,male,,1965,1973,PL0009,1947,1995,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-06,OS
+P0037,黄,小振,zh,male,,1965,1973,PL0009,1947,1995,,,,,,T00118,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-06,OS
 P0038,Wang,Xiulian,en,male,no,NULL,NULL,,,,,,,,,T00026,ONLINE SOURCE,,,He was the group leader of Huang Xiaolong.,,2017-07-05,LH,2018-01-25,WH
 P0038,王,秀濂,zh,male,no,NULL,NULL,,,,,,,,,T00026,ONLINE SOURCE,,,He was the group leader of Huang Xiaolong.,,2017-07-05,LH,2018-01-25,WH
 P0039,Dong,Fu,en,male,yes,1969,1970,PL0055,1951,,Wang Dongyu,en,PL0004,,,T00135,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-03,MG
@@ -146,23 +146,24 @@ P0073,杨,瑞,zh,female,yes,1968,1973,PL0008,1950,,,,,,,T00151,,https://en.wikip
 P0074,Bai,Di,en,female,unknown,NULL,NULL,,1954,,,,,,,T00123,92,,,,,2017-07-05,LH,2018-01-26,WH
 P0074,柏,棣,zh,female,unknown,NULL,NULL,,1954,,,,,,,T00123,92,,,,,2017-07-05,LH,2018-01-26,WH
 P0075,Chen,Xiaomei,en,female,yes,1969,1973,PL0008,1954,,,,,,,T00123,,,,,,2017-07-05,LH,2018-01-26,WH
-P0076,Aitmatov,Chinghiz,en,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0076,艾特玛托夫,钦吉斯,zh,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0076,Чыңгыз,Айтматов,ky,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0077,Akhmatova,Anna,en,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-26,WH
-P0077,阿赫玛托娃,安娜,zh,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-26,WH
-P0077,Ахматова,Анна,ru,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-26,WH
-P0078,Aksyonov,Vasily,en,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0078,阿克肖诺夫,瓦西里,zh,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0078,Аксёнов,Васи́лий,ru,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-26,WH
-P0079,Alliluyeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-26,WH
-P0079,阿利卢耶娃,斯韦特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-26,WH
-P0079,Аллилу́ева,Светла́на,ru,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-26,WH
-P0080,Althusser,Louis,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2017-07-09,OS,2018-01-26,WH
-http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://en.wikipedia.org/wiki/Dhimit%C3%ABr_Anagnosti,,,,,,2017-07-09,OS,2018-01-26,WH
-P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-26,WH
-P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-26,WH
-P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-26,WH
+P0076,Aitmatov,Chinghiz,en,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0076,艾特玛托夫,钦吉斯,zh,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0076,Чыңгыз,Айтматов,ky,male,NULL,NULL,NULL,NULL,1928,2009,,,PL0024,,,https://en.wikipedia.org/wiki/Chinghiz_Aitmatov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,Akhmatova,Anna,en,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,阿赫玛托娃,安娜,zh,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-08,MG
+P0077,Ахматова,Анна,ru,female,NULL,NULL,NULL,NULL,1889,1966,,,PL0025,,,https://en.wikipedia.org/wiki/Anna_Akhmatova,,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,Aksyonov,Vasily,en,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,阿克肖诺夫,瓦西里,zh,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0078,Аксёнов,Васи́лий,ru,male,NULL,NULL,NULL,NULL,1932,2009,,,PL0026,,,https://en.wikipedia.org/wiki/Vasily_Aksyonov,,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,Alliluyeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,阿利卢耶娃,斯韦特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-08,MG
+P0079,Аллилу́ева,Светла́на,ru,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-08,MG
+P0080,Althusser,Louis,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2017-07-09,OS,2018-01-08,MG
+P0080,阿尔都塞,路易,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2018-02-03,OS,2018-02-03,OS
+P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://en.wikipedia.org/wiki/Dhimit%C3%ABr_Anagnosti,,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
+P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0083,Anonymous,,en,,NULL,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-09,OS,2017-07-12,OS
 P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
 P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
@@ -216,8 +217,8 @@ P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wiki
 P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,,2017-07-12,OS,2018-01-08,MG
 P0107,Wang,Shiqiang,en,male,unknown,NULL,NULL,,,,,,,,,,,,,,,2017-07-12,OS,2018-02-02,WH
 P0107,王,士强,zh,male,unknown,NULL,NULL,,,,,,,,,,,,,,,2017-07-12,OS,2018-02-02,WH
-P0108,Xu,Xiao,en,female,unknown,NULL,NULL,,1954,,,,PL0003,,,https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6),,http://www.china.com.cn/chinese/RS/736605.htm,,,"she was a teacher after her study, but I don’t know yet if she has be rusticated.",2017-07-12,OS,2018-02-02,WH
-P0108,徐,晓,zh,female,unknown,NULL,NULL,,1954,,,,PL0003,,,https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6),,http://www.china.com.cn/chinese/RS/736605.htm,,,"she was a teacher after her study, but I don’t know yet if she has be rusticated.",2017-07-12,OS,2018-02-02,WH
+P0108,Xu,Xiao,en,female,unknown,NULL,NULL,,1954,,,,PL0003,,,T00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don’t know yet if she has been rusticated.",2017-07-12,OS,2018-02-02,WH
+P0108,徐,晓,zh,female,unknown,NULL,NULL,,1954,,,,PL0003,,,T00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don’t know yet if she has been rusticated.",2017-07-12,OS,2018-02-02,WH
 P0109,Shu,Ting,en,female,yes,1969,1972,?,1952,,Gong Peiyu,en,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2017-07-16,OS
 P0109,舒,婷,zh,female,yes,1969,1972,?,1952,,龚佩瑜,zh,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2017-07-16,OS
 P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,,2017-07-19,LH,2018-01-08,MG
@@ -421,5 +422,48 @@ P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NU
 P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
 P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
 P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
-P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
-P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0147,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0221,Ling,Li,en,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,T00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Provinz Shanxi).,,2018-02-01,OS,2018-02-01,OS
+P0221,零,李,zh,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,T00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Provinz Shanxi).,,2018-02-01,OS,2018-02-01,OS
+P0222,Kautsky,Karl,en,male,NULL,NULL,NULL,NULL,1854,1938,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0222,考茨基,卡尔,zh,male,NULL,NULL,NULL,NULL,1854,1938,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0223,Trotsky,Leon,en,male,NULL,NULL,NULL,NULL,1879,1940,NULL,NULL,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0223,Троцкий,Лев ,ru,male,NULL,NULL,NULL,NULL,1879,1940,NULL,NULL,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0223,托洛茨基,列夫,zh,male,NULL,NULL,NULL,NULL,1879,1940,NULL,NULL,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0224,Bukharin ,Nikolai,en,male,NULL,NULL,NULL,NULL,1888,1938,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Bukharin,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0224,Бухарин,Николай ,ru,male,NULL,NULL,NULL,NULL,1888,1938,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Bukharin,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0224,布哈林,尼古拉,zh,male,NULL,NULL,NULL,NULL,1888,1938,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Bukharin,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0225,Tito,Josip,en,male,NULL,NULL,NULL,NULL,1892,1980,NULL,NULL,PL0127,NULL,NULL,https://en.wikipedia.org/wiki/Josip_Broz_Tito,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0225,Тито,Јосип ,sr,male,NULL,NULL,NULL,NULL,1892,1980,NULL,NULL,PL0127,NULL,NULL,https://en.wikipedia.org/wiki/Josip_Broz_Tito,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0225,铁托,约瑟普,zh,male,NULL,NULL,NULL,NULL,1892,1980,NULL,NULL,PL0127,NULL,NULL,https://en.wikipedia.org/wiki/Josip_Broz_Tito,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0226,Lukacs ,György ,en,male,NULL,NULL,NULL,NULL,1885,1971,NULL,NULL,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0226,卢卡奇,捷尔吉,zh,male,NULL,NULL,NULL,NULL,1885,1971,NULL,zh,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0227,Solzhenitsyn,Aleksandr ,en,male,NULL,NULL,NULL,NULL,1918,2008,NULL,NULL,PL0125,NULL,NULL,https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0227,Солженицын,Александр,ru,male,NULL,NULL,NULL,NULL,1918,2008,NULL,NULL,PL0125,NULL,NULL,https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0227,索尔仁尼琴,亚历山大,zh,male,NULL,NULL,NULL,NULL,1918,2008,NULL,NULL,PL0125,NULL,NULL,https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0228,Khrushchev,Nikita,en,male,NULL,NULL,NULL,NULL,1894,1971,NULL,NULL,PL0124,NULL,NULL,https://en.wikipedia.org/wiki/Nikita_Khrushchev,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0228,Хрущёв,Никита ,ru,male,NULL,NULL,NULL,NULL,1894,1971,NULL,NULL,PL0124,NULL,NULL,https://en.wikipedia.org/wiki/Nikita_Khrushchev,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0228,赫鲁晓夫,尼基塔,zh,male,NULL,NULL,NULL,NULL,1894,1971,NULL,NULL,PL0124,NULL,NULL,https://en.wikipedia.org/wiki/Nikita_Khrushchev,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0229,Zhang,Xiaokang,en,female,yes,1968,1971,PL0130,1949,,NULL,NULL,PL0004,S01,unknown,https://baike.baidu.com/item/%E5%BC%A0%E5%B0%8F%E5%BA%B7/8904922,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
+P0229,张,小康,zh,female,yes,1968,1971,PL0130,1949,,NULL,NULL,PL0004,S01,unknown,https://baike.baidu.com/item/%E5%BC%A0%E5%B0%8F%E5%BA%B7/8904922,ONLINE Source,,,,,2018-02-02,OS,2018-02-02,OS
+P0230,Liu,Jingzi,en,female,yes,1968?,unknown,PL0130,unknown,,NULL,NULL,unknown,unknown,unknown,T00170,249,,,,,2018-02-02,OS,2018-02-02,OS
+P0230,刘,静子,zh,female,yes,1968?,unknown,PL0130,unknown,,NULL,NULL,unknown,unknown,unknown,T00170,249,,,,,2018-02-02,OS,2018-02-02,OS
+P0231,Voynich ,Ethel,en,female,NULL,NULL,NULL,NULL,1864,1960,NULL,NULL,PL0123,NULL,NULL,https://en.wikipedia.org/wiki/Ethel_Voynich,ONLINE Source,,,,,2018-02-02,OS,2018-02-02,OS
+P0231,伏尼契,艾捷尔,zh,female,NULL,NULL,NULL,NULL,1864,1960,NULL,NULL,PL0123,NULL,NULL,https://en.wikipedia.org/wiki/Ethel_Voynich,ONLINE Source,,,,,2018-02-02,OS,2018-02-02,OS
+P0232,Dimitrov,Georgi,en,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0232,Димитров ,Георги ,bg,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0232,季米特洛夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0233,Dostoyevsky,Fyodor ,en,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0233,Dostoyevsky,Fyodor ,ru,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0233,Dostoyevsky,Fyodor ,zh,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0234,Doyle,Arthur Conan,en,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0234,道尔 ,柯南,zh,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0235,Drabkina,Elizaveta ,en,female,NULL,NULL,NULL,NULL,1901,1974,NULL,NULL,PL0120,NULL,NULL,https://encyclopedia2.thefreedictionary.com/Elizaveta+Drabkina,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0235,Drabkina,Jelisaweta,de,female,NULL,NULL,NULL,NULL,1901,1974,NULL,NULL,PL0120,NULL,NULL,https://encyclopedia2.thefreedictionary.com/Elizaveta+Drabkina,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
+P0236,Dumas ,Alexandre,en,male,NULL,NULL,NULL,NULL,1802,1870,NULL,NULL,PL0119,https://en.wikipedia.org/wiki/Alexandre_Dumas,NULL,https://en.wikipedia.org/wiki/Alexandre_Dumas,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
+P0236,仲马,亚历山大,zh,male,NULL,NULL,NULL,NULL,1802,1870,大仲马,zh,PL0119,https://en.wikipedia.org/wiki/Alexandre_Dumas,NULL,https://en.wikipedia.org/wiki/Alexandre_Dumas,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
+P0237,Yuan,Shuren,en,female,unknown ,unknown ,unknown ,unknown ,1938,,NULL,NULL,PL0118,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
+P0237,袁,树仁,zh,female,unknown ,unknown ,unknown ,unknown ,1938,,NULL,NULL,PL0118,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
+P0238,Ye ,Weili,en,female,yes,1968,1973,PL0131,1950~,,NULL,NULL,PL0002,S03,,T00205,126,,,,,2018-02-06,OS,2018-02-06,OS
+P0239,Ma,Xiaodong,en,female,yes,1968,1973,PL0007,1950~,,NULL,NULL,PL0002,S03,,T00205,126,,,,,2018-02-06,OS,2018-02-06,OS
