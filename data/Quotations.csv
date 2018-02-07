@@ -1,0 +1,355 @@
+text_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
+T00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,0,,0,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,03-07-2017,LH,2017-10-02,DP
+T00001,无声的中国,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,0,,0,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,03-07-2017,LH,2017-10-02,DP
+T00002,English 900,,en,I0003,G20,PL0050,1964,Macmillan,,no,T00003,,196,,,2017-07-12,OS,2017-10-16,MG
+T00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,,7-10,,,2017-07-12,OS,2017-07-12,OS
+T00004,白轮船,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,T00005,,7-10,,,2017-07-12,OS,2017-07-12,OS
+T00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
+T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
+T00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,Xingzou zai lishi de heliu,,2017-07-12,OS,2017-11-04,MG
+T00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,,,2017-07-12,OS,2017-10-16,MG
+T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00007,韩少功,知青与寻根,zh,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00008,unknown,,en,P0077,G10,,,,,NULL,T00009,,219,A Collection of her works,,2017-07-12,OS,2017-11-04,MG
+T00009,Ma Jia fangtan lu,,en,P0017,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,T00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
+T00009,马佳访谈录,,zh,P0017,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,T00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
+T00010,Ticket to the Stars,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,,,,,,,2017-07-12,OS,2017-07-12,OS
+T00010,帶星星的火車票,,zh,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets.,,2017-07-12,OS,2017-10-02,DP
+T00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
+T00011,1960-70年代 前朦胧诗 的发生探源,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
+T00012,Wuti wangshi,,zh-Latn-py,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00012,無題往事,,zh,P0108,G03,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
+T00013,My Universities,,en,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
+T00013,Мои университеты,,ru,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
+T00013,我的大学,,zh,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,T00006,,133,,,2017-07-19,LH,2017-10-16,MG
+T00014,"Life,  Books and Poems",,en,P0109,G03,,,,,NULL,T00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
+T00014,生活、书籍与诗歌,,zh,P0109,G03,,,,,NULL,T00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
+T00015,My Apprenticeship,,en,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,T00006,,,,,2017-07-19,LH,2017-10-16,MG
+T00015,在人间,,zh,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,T00006,,,,,2017-07-19,LH,2017-10-16,MG
+T00015,V lyudyakh,,ru,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,T00006,,,,,2017-07-19,LH,2017-10-16,MG
+T00022,Der Prozess,,de,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,,,2017-07-19,OS,2017-07-19,OS
+T00022,审判及其它,,zh,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,,,,2017-07-19,OS,2017-07-19,OS
+T00023,On the road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,T00011,,78,According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Shi Rong 石荣 and others.,,2017-07-20,OS,2017-10-02,DP
+T00023,在路上,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,T00011,,78,,,2017-09-27,MG,2017-09-27,MG
+T00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,T00005,,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-16,MG
+T00024,新阶级,对共产主义制度的分析,zh,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,T00005,,574,According to Wang Shiqiang's research  this piece was one of the most influential grey-covered books for the generation of pre-''misty'' poets.,,2017-07-25,MG,2017-10-16,MG
+T00025,Letters Between Two,,eh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
+T00025,两地书,,zh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. It is the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
+T00026,I Almost Killed Someone That Year,,en,P0119,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+T00026,那年我差点杀人,,zh,P0119,G03,,2010,记忆,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+T00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
+T00027,春色谁为主，南北东西路——四中琐记,,zh,P0058,G03,,2011,记忆,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
+T00028,Wild Grass,,en,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
+T00028,野草,,zh,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,T00029,,121,,,2017-07-28,LH,2017-11-04,MG
+T00029,‘Meeting by chance’,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,Translated by Project Member,,2017-07-28,LH,2017-07-28,LH
+T00029,"""不期而遇""",对书的记忆与记忆中的读书,zh,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,,,2017-07-28,LH,2017-07-28,LH
+T00030,The Literary Inquisition of ‘The Second Handshake’,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
+T00030,《第二次握手》文字狱,,zh,P0120,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book  Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
+T00040,Les Fleurs du Mal,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00043,,454,手抄本. First french edition of Les Fleurs du Mal 1857,,2017-08-07,MG,2017-10-16,MG
+T00040,恶之华,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00043,,454,手抄本. First french edition of Les Fleurs du Mal 1857,,2017-08-07,MG,2017-10-16,MG
+T00041,Ciel brouillé,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00154,,539,,I guess the other ones are Shouchaoben as well?,2017-08-07,MG,2018-01-12,MG
+T00041,乌云密布的天空,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00154,,539,,,2017-08-07,MG,2018-01-12,MG
+T00042,Le Balcon,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00154,,533,,,2017-08-07,MG,2018-01-12,MG
+T00042,阳台,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,T00154,,533,,,2017-08-07,MG,2018-01-12,MG
+T00043,Dreams and Reminiscences,,en,P0132,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,441-456,Translated by project member,,2017-08-08,MG,2018-01-12,MG
+T00043,梦想与回忆,,zh,P0132,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,441-456,,,2017-08-08,MG,2018-01-12,MG
+T00044,The Seventies,,en,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
+T00044,七十年代,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
+T00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
+T00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
+T00050,,,en,P0082,G04,PL0002,,,,,T00045,,24,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中.",,2017-08-20,MG,2018-01-16,OS
+T00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,T00045,,24,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中.",,2017-08-20,MG,2018-01-16,OS
+T00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,T00045,,18,Translated by project member,,2017-08-20,MG,2017-11-11,MG
+T00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,T00045,,18,,,2017-08-20,MG,2018-01-16,OS
+T00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
+T00052,钢巴拉,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,T00045,,38,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
+T00053,Eugénie Grandet,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,T00153,,555,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2017-08-25,MG,2018-01-12,MG
+T00053,欧也妮·葛朗台,,zh,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,T00153,,555,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2017-08-25,MG,2018-01-12,MG
+T00054,unknown,,,P0086,,,,,,,T00005,,569f,,No title mentioned in the old text file,2017-08-25,MG,2017-11-08,MG
+T00054,unknown,,,P0086,,,,,,,T00005,,569f,,No title mentioned in the old text file,2017-08-25,MG,2017-11-08,MG
+T00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
+T00055,新越华报,,zh,I0001,G22,PL0064,,,,no,T00006,,135,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
+T00056,Light above the Land,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,,,2017-08-26,MG,2018-01-18,MG
+T00056,人世间,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,T00045,,7-10,,,2017-08-26,MG,2017-08-26,MG
+T00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
+T00057,观刈麦,,zh,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
+T00058,The Girl of the Mountains (Kenga e naftes),,en,P0081,,PL0091,1956,Qunyitang,,yes,T00155,,57,movie,,2017-08-27,MG,2018-01-12,MG
+T00058,山姑娘,,zh,P0081,,PL0091,1956,Qunyitang,,yes,T00155,,57,movie,,2017-08-27,MG,2018-01-12,MG
+T00059,Reeds in the wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
+T00059,风中芦苇,,zh,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
+T00059,Canne al vento,,it,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
+T00060,En attendant Godot,,fr,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00152,,7-10,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-08-31,MG,2018-01-12,MG
+T00060,等待戈多,,zh,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,T00152,,7-10,According to Wang Shiqiang's research  this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-08-31,MG,2018-01-12,MG
+T00061,The Story of Translators,,en,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
+T00061,翻译家的故事,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
+T00062,Waves,,en,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00158,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2018-01-12,MG
+T00062,波动,,zh,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,T00158,,311,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2018-01-12,MG
+T00063,The Answer,,en,P0009,G10,PL0002,1978,,,,T00154,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
+T00063,回答,,zh,P0009,G10,PL0002,1978,,,,T00154,,537,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
+T00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,T00158,,312,Translated by project member,,2017-09-06,MG,2018-01-18,MG
+T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,T00158,,312,,,2017-09-06,MG,2018-01-18,MG
+T00065,Smoke,,en,P0009,G10,,,,,,T00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
+T00065,烟,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
+T00066,Alcohol,,en,P0009,G10,,,,,,T00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
+T00066,酒,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
+T00067,Rainy Night,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00067,雨夜,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,T00154,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
+T00070,九级浪,,zh,P0099,G06,,1970,,,yes,T00045,,153-182 or 375-414,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
+T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,T00154,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
+T00071,献给爱琴海,,zh,P0102,G10,,,,,,T00154,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
+T00072,For a sick boy,,en,P0102,G10,,,,,,T00154,,536,Translated by project member,,2017-09-15,MG,2018-01-12,MG
+T00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,T00154,,536,influenced by Sylvia Plath‘s style written in 1979,,2017-09-15,MG,2018-01-12,MG
+T00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
+T00073,往上爬,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,T00011,,78,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets,,2017-09-15,MG,2017-09-15,MG
+T00074,Jane Eyre,An Autobiography,en,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre - Charlotte Bronte; Tale of Two Cities - Charles Dickens; Gone with the Wind - Margaret Mitchell; The Scarlett Letter - Nathaniel Hawthorne; The Red and the Black - Maurice Stendhal (no source or date for the list is given though))",,2017-09-22,MG,2017-10-18,MG
+T00074,简爱,自传,zh,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works: Jane Eyre - Charlotte Bronte; Tale of Two Cities - Charles Dickens; Gone with the Wind - Margaret Mitchell; The Scarlett Letter - Nathaniel Hawthorne; The Red and the Black - Maurice Stendhal (no source or date for the list is given though))",,2017-09-22,MG,2017-10-18,MG
+T00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
+T00076,L‘Étranger,,fr,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,T00005,,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,,2017-09-22,MG,2017-10-18,MG
+T00076,局外人,,zh,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,T00005,,580,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-''misty'' poets. Translated by Meng An 孟安. According to Wang Shiqiang the Novel was published by Shanghai wenyi chubanshe.,,2017-09-22,MG,2017-10-18,MG
+T00077,Dream of the Red Chamber,,en,P0152,G04,PL0003,1949,Kaiming shudian,,,T00159,,372,,,2017-09-22,MG,2018-01-12,MG
+T00077,红楼梦,,zh,P0152,G04,PL0003,1949,Kaiming shudian,,,T00159,,372,,,2017-09-22,MG,2018-01-12,MG
+T00078,Shouchang wenji,,en,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
+T00078,守常文集,,zh,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,T00027,,ONLINE SOURCE,,,2017-09-24,CW,2017-09-24,CW
+T00079,City Lights,,en,P0158,,,1931,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00079,城市之光,,zh,P0158,,,1931,,,yes,T00045,,32,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00080,The Gold Rush,,en,P0158,,,1925,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00080,淘金记,,zh,P0158,,,1925,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00081,Monsieur Verdoux,,en,P0158,,,1947,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00081,凡尔杜先生,,zh,P0158,,,1947,,,yes,T00045,,38,It was first screened internally in 1960s,,2017-09-27,MG,2017-09-27,MG
+T00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
+T00082,卓别林自传,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
+T00083,The House with the Mezzanine,,en,P0159,G05,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
+T00083,带阁楼的房子,,zh,P0159,G05,,,,,,T00014,,304,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
+T00084,For Mr. Yan Wenliang,,en,P0132,G10,,,,,no,T00043,,452,Translated by project member,,2017-09-29,MG,2018-01-18,MG
+T00084,为颜文梁先生作,,zh,P0132,G10,,,,,no,T00043,,452,,,2017-09-29,MG,2017-09-29,MG
+T00085,What is to be done?,,en,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
+T00085,怎么办 ?,,zh,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
+T00085,Что делать?,,ru,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,T00006,,134,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
+T00087,Quotations from Chairman Mao Tse-tung,,en,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
+T00087,红宝书,,zh,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
+T00088,Project 571,,en,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
+T00088,571工程纪要,,zh,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
+T00089,Three Character Classic,,en,P0191,?,,,,,,,,,,,,,,
+T00089,三字经,,zh,P0191,?,,,,,,,,,,,,,,
+T00090,Chronicles of the Eastern Zhou Kingdoms,,en,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
+T00090,东周列国志,,zh,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
+T00091,Economic Problems of Socialism in the U.S.S.R.,,en,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
+T00091,苏联社会主义经济问题,,zh,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
+T00092,Notice of the Central Committee of the Communist Party of China on Lin Biao's Treason,,en,I0004,G26,,,,,,,,,,,,,2017-12-23,OS
+T00092,中共中央关于林彪叛国出逃的通知,,zh,I0004,G26,,,,,,,,,,,,,2017-12-23,OS
+T00093,The Communist Manifesto,,en,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-23,MG
+T00093,共产党宣言,,zh,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-23,MG
+T00093,Manifest der Kommunistischen Partei,,de,P0181,G24,PL0002,1949,Jie fangshe,,,,,,,,,,2017-10-24,MG
+T00094,Critique of the Gotha Program,,en,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
+T00094,哥达纲领批判,,zh,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
+T00094,Kritik des Gothaer Programms,,de,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
+T00095,The Civil War in France,,en,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
+T00095,法兰西内战,,zh,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
+T00095,Der Bürgerkrieg in Frankreich,,de,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
+T00096,Materialism and Empiriocriticism,,en,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,2017-10-24,MG
+T00096,唯物主义和经验批判主义,,zh,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,2017-10-24,MG
+T00097,Flowers in the Mirror,,en,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,,,2017-10-25,MG
+T00097,镜花缘,,zh,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,,,2017-10-25,MG
+T00098,Analects,,en,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,,,2017-11-06,OS
+T00098,论语,,zh,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,,,2017-11-06,OS
+T00099,Ten Crimes of Qin,,en,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
+T00099,过秦论,,zh,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
+T00100,Discourses on Salt and Iron,,en,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,,,2017-11-04,MG
+T00100,盐铁论,,zh,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,,,2017-11-04,MG
+T00101,Shen Mie Lun,,en,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,2017-10-30,MG
+T00101,神灭论,,zh,P0184,G24,PL0096,1957,Zhejiang renmin chubanshe,,,,,,,,,,2017-10-30,MG
+T00102,Krushchev,A Career,en,P0179,G02,PL0002,1973,Sanlian shudian,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
+T00102,赫鲁晓夫,回忆录,zh,P0179,G02,PL0002,1973,Sanlian shudian,,no,T00108,,327,,,2017-10-08,MG,2017-10-18,MG
+T00104,Rome 11 o'clock,,en,P0177,,,1956,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-11-11,MG
+T00104,罗马十一点钟,,zh,P0177,,,1956,,,no,T00109,,,movie first screened in 1952 (Italy),,2017-10-08,MG,2017-11-11,MG
+T00105,Tito,,en,P0176,G02,PL0002,1963,Sanlian shudian,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
+T00105,铁托传,,zh,P0176,G02,PL0002,1963,Sanlian shudian,,yes,T00045,,159,,,2017-10-08,MG,2017-10-30,MG
+T00106,David Copperfield,,en,P0160,G04,PL0003,1950,Sanlian shudian,,no,T00029,,118f,,,2017-10-08,MG,2017-10-30,MG
+T00106,大卫科波菲尔,,zh,P0160,G04,PL0003,1950,Sanlian shudian,,no,T00029,,118f,,,2017-10-08,MG,2017-10-30,MG
+T00107,A Tale of Two Cities,,en,P0160,G04,PL0003,1950,Sanlian shudian,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-30,MG
+T00107,双城记,,zh,P0160,G04,PL0003,1950,Sanlian shudian,,no,T00075,,170,"Perry Link (2000: 170) mentions that The Count of Monte Cristo ""became well known and an intensely sought prize during the Cultural Revolution. This was when Jiang Qing listed it with seven other works as 'highly recommended' reading."" This explains the post-CR success of the book (The other works are Jane Eyre/Charlotte Bronte; Tale of Two Cities/ Charles Dickens; Gone with the Wind/ Margaret Mitchell; The Scarlett Letter / Nathaniel Hawthorne; The Red and the Black / Maurice Stendhal; (no source or date for the list is given though)",,2017-10-08,MG,2017-10-30,MG
+T00108,A Glance at the Underground Reading Movement during the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2017-10-25,DP
+T00109,Memorial for Not Forgetting,remembering My friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
+T00109,为了不忘却的纪念,忆难友朱时贤,zh,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
+T00110,Wren Makes Nestle in this Branch,,en,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,493-506,Translated by project member,,2017-11-08,MG,2018-01-12,MG
+T00110,鹪鹩巢于这一枝,,zh,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,493-506,,,2017-11-08,MG,2018-01-12,MG
+T00111,The predawn agitation,,en,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,187-201,Translated by project member,,2017-11-08,MG,2018-01-12,MG
+T00111,黎明前的跃动,,zh,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,187-201,,,2017-11-08,MG,2018-01-12,MG
+T00112,The legend of Taiyang zongdui and others,,en,P0003,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-17,MG
+T00112,太阳纵队传说及其他,,zh,P0003,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-17,MG
+T00113,China,mein Traum mein Leben,de,P0062,G03,PL0101,1994,ECON,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00114,The buried Chinese poets (1972-1978),,en,P0010,G03,,,,,NULL,T00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
+T00114,被埋葬的中国诗人,,zh,P0010,G03,,,,,NULL,T00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
+T00115,A transcript of the interview with Peng Gang and Mang Ke,,en,P0135,G02,,,,,NULL,T00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
+T00115,彭刚 芒克访谈录,,zh,P0135,G02,,,,,NULL,T00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
+T00116,Second Older Brother,The Absurd Life of Torturing and Being Tortured,en,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00116,二哥,折腾与被折腾的荒诞人生,zh,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00117,This Is a Miracle,Writing Prologue for Shamo’s Somewhere Deep in My Heart,en,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00117,这是一个奇迹,为沙漠 我心深处 序,zh,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00118,Confessions of a Mother,,en,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00118,一个母亲的忏悔,,zh,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00119,The Bloody Flowering Season,,en,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00119,血腥的花季,,zh,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00120,How I Was Made into A strictly Treated Object,,en,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00120,我怎样被炮制成 从严对象,,zh,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
+T00121,The Catcher in the Rye,,en,P0188,G04,PL0002,1963,Zuojia chubanshe,,yes,T00011,,79,,,2017-12-14,MG,2017-12-14,MG
+T00121,麦田的守望者,,zh,P0188,G04,PL0002,1963,Zuojia chubanshe,,yes,T00011,,79,,,2017-12-14,MG,2017-12-14,MG
+T00122,Rudin,,en,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
+T00122,罗亭,,zh,P0189,G04,PL0003,1952,Wenhua shenghuo chubanshe,,,T00115,,191,,,2017-12-14,MG,2017-12-14,MG
+T00123,Some of us,Chinese women growing up in the Mao era,en,P0074,G03,PL0102,2001,Rutgers Univ. Press,,NULL,NULL,NULL,NULL,,,2017-12-17,MG,2017-12-17,MG
+T00124,Mao,The Real Story,en,P0195,G02,PL0050,2012,Simon & Schuster,,NULL,NULL,NULL,784,,,2017-12-23,OS,2017-12-23,OS
+T00125,A Hundred Thousand Whys,,en,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
+T00125,十万个为什么,,zh,P0190,,PL0051,1999,Hunan jiaoyu chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
+T00126,A Thousand and One Nights,,en,P0999,G08,PL0002,1957,Renmin wenxue chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
+T00126,一千零一夜,,zh,P0999,G08,PL0002,1957,Renmin wenxue chubanshe,,,T00123,NULL,92,,,2017-12-19,MG,2017-12-19,MG
+T00127,The best friend of that time,,en,P0016,G03,,,,,NULL,T00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
+T00127,当年最好的朋友,,zh,P0016,G03,,,,,NULL,T00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
+T00128,Born Red,A Chronicle of the Cultural Revolution,en,P0064,G03,PL0109,1987,Stanford University Press,,NULL,NULL,NULL,416,,,2017-12-29,OS,2017-12-29,OS
+T00129,The Cambridge History of Chinese Literature,Volume II: From 1375,en,P0196,G19,PL0050,1905-07-02,Cambridge University Press,,NULL,NULL,NULL,,,,2017-12-29,OS,2017-12-29,OS
+T00130,The Trivia of Shen Qiu's ‘training’,Countryside Life and The ‘reactionary Slogan’ incident,en,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00130,沈邱‘锻炼’琐记,田园生活与‘反标’事件,zh,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,,,2017-12-27,MG,2017-12-27,MG
+T00131,The Old Person in History Department Who Went from the Republic to the Cultural Revolution,,en,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00131,从民国走到文革的历史所老人,,zh,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,,,2017-12-27,MG,2018-01-05,MG
+T00133,The Xinjiang Trip during the Great link ups,,en,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00133,大串联中新疆行,,zh,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2017-12-27,MG
+T00134,Not Recognizing the Current Situation yet Still Outstanding,the Huang Yongsheng in Secretary’s Eyes,en,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00134,不识时务亦俊杰,秘书眼里的黄永胜,zh,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,,,2017-12-27,MG,2018-01-05,MG
+T00135,I Was Once an official Red Guard,,en,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00135,我曾是官办红卫兵,,zh,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-27,MG,2018-01-02,MG
+T00136,The Interviews with Hui Xianjun,,en,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00136,惠宪钧访谈录,,zh,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,,,2017-12-27,MG,2018-01-05,MG
+T00137,Remembering My Father Wu Tianshi,,en,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+T00137,忆父亲吴天石,,zh,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2018-01-02,MG
+T00138,The Divided Consciousness and the Interpretation of History,Some Thoughts after Reading Li Ping’s Interview and Discussing the Red Guard’s movement ‘Red August’,en,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
+T00138,分裂的意识与历史的解读,读礼平访谈录有感兼议‘红八月’的红卫兵运动,zh,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
+T00139,,,en,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00139,我在狱中是怎样知道林彪事件的,,zh,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00140,,,en,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00140,九一三和小学生的政治课,,zh,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00141,,,en,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00141,遥远又不遥远的林彪,,zh,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00142,,,en,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00142,我被禁止听九一三文件传达,,zh,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00143,,,en,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00143,我在空军部队经历九一三,,zh,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00144,,,en,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00144,九 一三断想,,zh,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00145,,,en,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00145,我的九一三记忆很平淡,,zh,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00146,,,en,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00146,走出恐惧——九一三事件40年祭,,zh,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00147,,,en,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00147,九一三使神话破灭,,zh,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00148,,,en,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00148,我在乡下听到林彪爆炸的消息,,zh,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+T00149,"Explorations, Rectification and Fate",,en,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,Translated by project member,,2018-01-08,MG,2018-01-12,MG
+T00149,探讨，整肃与命运,,zh,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,,,2018-01-08,MG,2018-01-12,MG
+T00150,,,en,P0043,,,2008,,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
+T00150,重庆火炉在燃烧,,zh,P0043,,,2008,国家历史,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
+T00151,Spider Eaters,a Memoir,en,P0073,G03,PL0114,1997,University of California Press,,NULL,,NULL,NULL,,,2018-01-10,MG,2018-01-10,MG
+T00152,Course of Books,A Spirited Reading History,en,P0139,G03,,,,,NULL,T00045,NULL,4-16,Translated by project member,,2018-01-12,MG,2018-02-03,OS
+T00152,书的轨道,一部精神阅读史,zh,P0139,G03,,,,,NULL,T00045,NULL,4-16,,,2018-01-12,MG,2018-02-03,OS
+T00153,Those Times in the Mist of Light and Shade,,en,P0131,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,547-562,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00153,明暗交错的时光,,zh,P0131,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,547-562,,,2018-01-12,MG,2018-01-12,MG
+T00154,Starting from 1979,That Happiness Keener than Ice and Steel,en,P0133,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,531-546,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00154,始于1979,比冰和铁更刺人心肠的欢乐,zh,P0133,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,531-546,,,2018-01-12,MG,2018-01-12,MG
+T00155,Years being like a poem,,en,P0011,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,51-58,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00155,诗样年华,,zh,P0011,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,51-58,,,2018-01-12,MG,2018-01-12,MG
+T00156,1970s,The last Reminiscence,en,P0215,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,331-348,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00156,七十年代,末代回忆,zh,P0215,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,331-348,,,2018-01-12,MG,2018-01-12,MG
+T00157,Luckily to be young,1970s in Retrospect,en,P0140,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,59-80,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00157,幸亏年轻,回想七十年代,zh,P0140,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,59-80,,,2018-01-12,MG,2018-01-12,MG
+T00158,The Reminiscence of Sunshine and Storm,,en,P0018,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,305-318,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00158,阳光与暴风雨的回忆,,zh,P0018,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,305-318,,,2018-01-12,MG,2018-01-12,MG
+T00159,I used to be a wolf of the mountain and a thief of the sea,,en,P0216,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,359-382,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00159,我曾经是山狼海贼,,zh,P0216,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,359-382,,,2018-01-12,MG,2018-01-12,MG
+T00160,Those times of mine,,en,P0154,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00160,我的那年代,,zh,P0154,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,383-412,,,2018-01-12,MG,2018-01-12,MG
+T00161,Reminiscent Episodes of the 1970s,,en,P0217,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,457-474,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00161,七十年代记忆片段,,zh,P0217,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,457-474,,,2018-01-12,MG,2018-01-12,MG
+T00162,1976,My First Love Died like Shabby Cotton,en,P0218,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,475-492,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00162,1976,初恋败絮,zh,P0218,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,475-492,,,2018-01-12,MG,2018-01-12,MG
+T00163,The Black Painting Crisis,,en,P0137,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+T00163,黑画风波,,zh,P0137,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,349-358,,,2018-01-12,MG,2018-01-12,MG
+T00164,,,en,P0001,,PL0003,1950,Lianyi chubanshe,,,,,,,,2018-01-29,MG,2018-01-29,MG
+T00164,鲁迅语录,,zh,P0001,,PL0003,1950,Lianyi chubanshe,,,,,,,,2018-01-29,MG,2018-01-29,MG
+T00165,unknown,,,P0001,G28,,,,,,NULL,NULL,NULL,Collected Works of Lu Xun,,2018-01-30,MG,2018-01-31,MG
+T00180,The Thaw,,en,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00180,Оттепель,,ru,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00180,解冻,,zh,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
+T00181,"People, Years, Life",,en,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00181,"Люди, годы, жизнь",,ru,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00181,人、岁月、生活,,zh,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
+T00182,"Selected Essays, 1917-1932",,en,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
+T00182,艾略特论文选,,zh,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
+T00183,The collected poems of Paul Éluard,,en,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,Translated by project member,,2018-01-24,OS,2018-01-24,OS
+T00183,艾吕雅诗钞,,zh,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,,,2018-01-24,OS,2018-01-24,OS
+T00184,Hello sadness,,en,P0252,G10,,,,,,T00183,,,Translated by project member,,2018-01-24,OS,2018-01-24,OS
+T00184,你好，哀愁,,zh,P0252,G10,,,,,,T00183,,,,,2018-01-24,OS,2018-01-24,OS
+T00185,The tranquil horizon,,en,P0003,G03,,,,,,T00044,,105-146,Translated by project member,,2018-01-24,OS,2018-01-24,OS
+T00185,宁静的地平线,,zh,P0003,G03,,,,,,T00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
+T00186,Anti-Dühring,,de,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
+T00186,反杜林论,,zh,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
+T00187,Dialektik der Natur,,de,P0253,G01,PL0003,1949,Wenyuan chubanshe,,no,,,,,,2018-01-24,OS,2018-01-24,OS
+T00187,自然辩证法,,zh,P0253,G01,PL0003,1949,Wenyuan chubanshe,,no,,,,,,2018-01-24,OS,2018-01-24,OS
+T00188,A brief history of China,,en,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
+T00188,中国通史简编,,zh,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
+T00189,Broken chapter,,en,P0009,G03,,,,,,T00044,,31-50,Translated by project member,,2018-01-25,OS,2018-01-25,OS
+T00189,断章,,zh,P0009,G03,,,,,,T00044,,31-50,,,2018-01-25,OS,2018-01-25,OS
+T00190,The unforgettable 1971,,en,P0219,G03,,,,,,T00044,,257-278,Translated by project member,,2018-01-25,OS,2018-01-25,OS
+T00190,难忘的1971,,zh,P0219,G03,,,,,,T00044,,257-278,,,2018-01-25,OS,2018-01-25,OS
+T00191,Stories Old and New,,en,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
+T00191,古今小说,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
+T00192,The unjustly murdered woman from the neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+T00192,被冤杀的街坊大妈,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+T00170,The Seventies,The broken pieces in my heart,en,P0221,G03,,,,,,T00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
+T00170,七十年代,我心中的碎片,zh,P0221,G03,,,,,,T00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
+T00171,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00172,unknown,,en,P0222,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00173,unknown,,en,P0223,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00174,unknown,,en,P0224,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00175,unknown,,en,P0225,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00176,unknown,,en,P0226,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00177,unknown,,en,P0227,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00178,unknown,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00179,unknown,,en,P0080,G29,unknown,unknown,unknown,unknown,unknown,,,,,,2018-02-01,OS,2018-02-01,OS
+T00169,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+T00168,On the Cult of Personality and its Consequences ,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
+T00168,О культе личности и его последствиях,,ru,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
+T00168,关于个人崇拜及其后果,,zh,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-02-02,OS,2018-02-02,OS
+T00193,Starting in 1979,Heart-stabbing joy keener than ice or iron  ,en,P0133,G03,,,,,,T00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
+T00193,始于1979年,,zh,P0133,G03,,,,,,T00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
+T00194,The Gadfly,,en,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2018-02-02,OS
+T00194,牛虻,,zh,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2018-02-02,OS
+T00195,The X literary society and the death of Guo Shiying,,en,P0002,G03,,,,,NULL,T00045,,17-29,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+T00195,X诗社与郭世英之死,,zh,P0002,G03,,,,,NULL,T00045,,17-29,,,2018-02-03,OS,2018-02-03,OS
+T00196,A transcript of the interview with Lin Mang,,en,P0135,G02,,,,,NULL,T00045,,282-296,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+T00196,林莽访谈录,,zh,P0135,G02,,,,,NULL,T00045,,282-296,,,2018-02-03,OS,2018-02-03,OS
+T00197,"""Jintian"" and I",,en,P0108,G03,,,,,NULL,T00045,,379-410,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+T00197,《今天》与我,,zh,P0108,G03,,,,,NULL,T00045,,379-410,,,2018-02-03,OS,2018-02-03,OS
+T00198,Denouncing Fascism,The two speeches during the Leipzig interrogation,en,P0232,G27,PL0002,1958,Renmin chubanshe,,no,,,,Translated by project member,,2018-02-05,OS,2018-02-05,OS
+T00198,控诉法西斯,在莱比锡审讯中的两个发言,zh,P0232,G27,PL0002,1958,Renmin chubanshe,,no,,,,,,2018-02-05,OS,2018-02-05,OS
+T00199,The Insulted and Humiliated ,,en,P0233,G04,PL0003,1950,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00199,Униженные и оскорблённые,,ru,P0233,G04,PL0003,1950,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00199,被侮辱与被损害的 ,,zh,P0233,G04,PL0003,1950,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00200,Crime and Punishment,,en,P0233,G04,PL0003,1953,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00200,Преступлéние и наказáние,,ru,P0233,G04,PL0003,1953,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00200,罪与罚,,zh,P0233,G04,PL0003,1953,Wenguang shudian,,NULL,,,,,,2018-02-05,OS,2018-02-05,OS
+T00201,Canon of Sherlock Holmes,,en,P0234,G28,PL0003,1927,Shijie shuju,1908,NULL,,,,It seems that there was no early PRC edition of the Canon.,,2018-02-05,OS,2018-02-05,OS
+T00201,福尔摩斯探案 ,,zh,P0234,G28,PL0003,1927,Shijie shuju,1908,NULL,,,,It seems that there was no early PRC edition of the Canon.,,2018-02-05,OS,2018-02-05,OS
+T00202,Schwarzer Zwieback,,de,P0235,G04 ,PL0063,1962,Dietz Verlag,,NULL,,,,,,2018-02-06,OS,2018-02-06,OS
+T00202,Черные сухари ,,ru,P0235,G04 ,PL0063,1962,Dietz Verlag,,NULL,,,,,,2018-02-06,OS,2018-02-06,OS
+T00203,Le Comte de Monte-Cristo ,,fr,P0236,G04 ,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An early PRC edition could not be found,,2018-02-06,OS,2018-02-06,OS
+T00203,基督山伯爵,,zh,P0236,G04 ,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An early PRC edition could not be found,,2018-02-06,OS,2018-02-06,OS
+T00204,La Dame aux Camélias ,,fr,P0236,G04 ,PL0002,1955,Zuojia chubanshe,,no,,,,,,2018-02-06,OS,2018-02-06,OS
+T00204,茶花女,,zh,P0236,G04 ,PL0002,1955,Zuojia chubanshe,,no,,,,,,2018-02-06,OS,2018-02-06,OS
+T00205,Growing up in the People's Republic,conversations between two daughters of China's revolution,en,P0238,G03,PL0050,2005,Palgrave MacMillan,,NULL,,,,,,2018-02-06,OS,2018-02-06,OS
+,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
+,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
+,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
