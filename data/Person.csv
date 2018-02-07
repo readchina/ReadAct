@@ -461,10 +461,5 @@ P0236,Dumas ,Alexandre,en,male,NULL,NULL,NULL,NULL,1802,1870,NULL,NULL,PL0119,ht
 P0236,仲马,亚历山大,zh,male,NULL,NULL,NULL,NULL,1802,1870,大仲马,zh,PL0119,https://en.wikipedia.org/wiki/Alexandre_Dumas,NULL,https://en.wikipedia.org/wiki/Alexandre_Dumas,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
 P0237,Yuan,Shuren,en,female,unknown ,unknown ,unknown ,unknown ,1938,,NULL,NULL,PL0118,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
 P0237,袁,树仁,zh,female,unknown ,unknown ,unknown ,unknown ,1938,,NULL,NULL,PL0118,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
-P0238,Ye ,Weili,en,female,yes,1968,1975,,1950?,,NULL,NULL,PL0002,S03,,,ONLINE Source,,,,,2018-02-06,OS,2018-02-06,OS
-P0239,Ma,Xiaodong,en,female,yes,1968,,PL0007,1950?,,NULL,NULL,PL0002,S03,,,,,,,,2018-02-06,OS,2018-02-06,OS
-,,,,,,,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
-,,,,,,,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
-,,,,,,,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
-,,,,,,,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
-,,,,,,,,,,,,,,,,,,,,,,2018-02-06,OS,2018-02-06,OS
+P0238,Ye ,Weili,en,female,yes,1968,1973,PL0131,1950~,,NULL,NULL,PL0002,S03,,T00205,126,,,,,2018-02-06,OS,2018-02-06,OS
+P0239,Ma,Xiaodong,en,female,yes,1968,1973,PL0007,1950~,,NULL,NULL,PL0002,S03,,T00205,126,,,,,2018-02-06,OS,2018-02-06,OS

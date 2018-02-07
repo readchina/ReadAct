@@ -1,4 +1,4 @@
 soc_rel_id,ego,related,relation,rel_zh,rel_en,source,page,note,created,created_by,last_modified,modified_by
 SR00001,P0003,P0255,S4.1.1m,父亲,father,http://focus.news.163.com/10/0410/10/63TE57DT00011SM9_all.html,ONLINE SOURCE,,2018-01-26,OS,2018-01-26,OS
-SR00002,P0221,P0229,S3.1f,熟人,acquaintance,T00170,249,,2018-02-02,OS,2018-02-02,OS
-SR00003,P0221,P0230,S3.1f,熟人,acquaintance,T00170,249,,2018-02-02,OS,2018-02-02,OS
+SR00002,P0221,P0229,S3.1,熟人,acquaintance,T00170,249,,2018-02-02,OS,2018-02-02,OS
+SR00003,P0221,P0230,S3.1,熟人,acquaintance,T00170,249,,2018-02-02,OS,2018-02-02,OS
