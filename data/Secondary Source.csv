@@ -1,187 +1,179 @@
-text_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
-T00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
-T00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
-T00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,Xingzou zai lishi de heliu,,2017-07-12,OS,2017-11-04,MG
-T00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,0,,0,,,2017-07-12,OS,2017-10-16,MG
-T00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00007,韩少功,知青与寻根,zh,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,0,,0,,,2017-07-12,OS,2017-07-12,OS
-T00008,unknown,,en,P0077,G10,,,,,NULL,T00009,,219,A Collection of her works,,2017-07-12,OS,2017-11-04,MG
-T00009,Ma Jia fangtan lu,,en,P0017,G03,,,,,NULL,T00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
-T00009,马佳访谈录,,zh,P0017,G03,,,,,NULL,T00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
-T00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
-T00011,1960-70年代 前朦胧诗 的发生探源,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,0,,0,,,2017-07-12,OS,2017-10-24,MG
-T00012,Wuti wangshi,,zh-Latn-py,P0108,G03,,,,,NULL,T00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
-T00012,無題往事,,zh,P0108,G03,,,,,NULL,T00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
-T00014,"Life,  Books and Poems",,en,P0109,G03,,,,,NULL,T00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
-T00014,生活、书籍与诗歌,,zh,P0109,G03,,,,,NULL,T00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
-T00026,I Almost Killed Someone That Year,,en,P0119,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
-T00026,那年我差点杀人,,zh,P0119,G03,,2010,记忆,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
-T00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
-T00027,春色谁为主，南北东西路——四中琐记,,zh,P0058,G03,,2011,记忆,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
-T00029,‘Meeting by chance’,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,Translated by Project Member,,2017-07-28,LH,2017-07-28,LH
-T00029,"""不期而遇""",对书的记忆与记忆中的读书,zh,P0029,G03,PL0002,2012,Sanlian shudian,2012,no,,,116-125,,,2017-07-28,LH,2017-07-28,LH
-T00030,The Literary Inquisition of ‘The Second Handshake’,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
-T00030,《第二次握手》文字狱,,zh,P0120,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book  Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
-T00043,Dreams and Reminiscences,,en,P0132,G03,,,,,NULL,T00044,NULL,441-456,Translated by project member,,2017-08-08,MG,2018-01-12,MG
-T00043,梦想与回忆,,zh,P0132,G03,,,,,NULL,T00044,NULL,441-456,,,2017-08-08,MG,2018-01-12,MG
-T00044,The Seventies,,en,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
-T00044,七十年代,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
-T00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
-T00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
-T00054,unknown,,en,P0086,,,,,,,,,,,,2017-08-25,MG,2017-11-08,MG
-T00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
-T00057,观刈麦,,zh,P0090,G10,,,,,,T00110,,495,,,2017-08-26,MG,2018-01-12,MG
-T00059,Reeds in the wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
-T00059,风中芦苇,,zh,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
-T00059,Canne al vento,,it,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-24,CW
-T00061,The Story of Translators,,en,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
-T00061,翻译家的故事,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,T00061,,ONLINE SOURCE,,,2017-09-06,CW,2017-09-06,CW
-T00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,T00158,,312,Translated by project member,,2017-09-06,MG,2018-01-18,MG
-T00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,T00158,,312,,,2017-09-06,MG,2018-01-18,MG
-T00065,Smoke,,en,P0009,G10,,,,,,T00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
-T00065,烟,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
-T00066,Alcohol,,en,P0009,G10,,,,,,T00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
-T00066,酒,,zh,P0009,G10,,,,,,T00045,,291,,,2017-09-08,MG,2017-09-13,MG
-T00067,Rainy Night,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00067,雨夜,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-T00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
-T00070,九级浪,,zh,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
-T00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
-T00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
-T00072,For a sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-01-12,MG
-T00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,influenced by Sylvia Plath‘s style written in 1979,,2017-09-15,MG,2018-01-12,MG
-T00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
-T00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
-T00082,卓别林自传,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,T00043,,455,,,2017-09-27,MG,2017-10-18,MG
-T00108,A Glance at the Underground Reading Movement during the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2017-10-25,DP
-T00109,Memorial for Not Forgetting,remembering My friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
-T00109,为了不忘却的纪念,忆难友朱时贤,zh,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
-T00110,Wren Makes Nestle in this Branch,,en,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,493-506,Translated by project member,,2017-11-08,MG,2018-01-12,MG
-T00110,鹪鹩巢于这一枝,,zh,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,493-506,,,2017-11-08,MG,2018-01-12,MG
-T00111,The predawn agitation,,en,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,187-201,Translated by project member,,2017-11-08,MG,2018-01-12,MG
-T00111,黎明前的跃动,,zh,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,187-201,,,2017-11-08,MG,2018-01-12,MG
-T00112,The legend of Taiyang zongdui and others,,en,P0003,G02,,,,,NULL,T00045,NULL,30-52,,,2017-12-13,MG,2017-12-17,MG
-T00112,太阳纵队传说及其他,,zh,P0003,G02,,,,,NULL,T00045,NULL,30-52,,,2017-12-13,MG,2017-12-17,MG
-T00113,China,mein Traum mein Leben,de,P0062,G03,PL0101,1994,ECON,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00114,The buried Chinese poets (1972-1978),,en,P0010,G03,,,,,NULL,T00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
-T00114,被埋葬的中国诗人,,zh,P0010,G03,,,,,NULL,T00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
-T00115,A transcript of the interview with Peng Gang and Mang Ke,,en,P0135,G02,,,,,NULL,T00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
-T00115,彭刚 芒克访谈录,,zh,P0135,G02,,,,,NULL,T00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
-T00116,Second Older Brother,The Absurd Life of Torturing and Being Tortured,en,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00116,二哥,折腾与被折腾的荒诞人生,zh,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00117,This Is a Miracle,Writing Prologue for Shamo’s Somewhere Deep in My Heart,en,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00117,这是一个奇迹,为沙漠 我心深处 序,zh,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00118,Confessions of a Mother,,en,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00118,一个母亲的忏悔,,zh,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00119,The Bloody Flowering Season,,en,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00119,血腥的花季,,zh,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00120,How I Was Made into A strictly Treated Object,,en,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00120,我怎样被炮制成 从严对象,,zh,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
-T00123,Some of us,Chinese women growing up in the Mao era,en,P0074,G03,PL0102,2001,Rutgers Univ. Press,,NULL,NULL,NULL,NULL,,,2017-12-17,MG,2017-12-17,MG
-T00124,Mao,The Real Story,en,P0195,G02,PL0050,2012,Simon & Schuster,,NULL,NULL,NULL,784,,,2017-12-23,OS,2017-12-23,OS
-T00127,The best friend of that time,,en,P0016,G03,,,,,NULL,T00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
-T00127,当年最好的朋友,,zh,P0016,G03,,,,,NULL,T00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
-T00128,Born Red,A Chronicle of the Cultural Revolution,en,P0064,G03,PL0109,1987,Stanford University Press,,NULL,NULL,NULL,416,,,2017-12-29,OS,2017-12-29,OS
-T00129,The Cambridge History of Chinese Literature,Volume II: From 1375,en,P0196,G19,PL0050,1905-07-02,Cambridge University Press,,NULL,NULL,NULL,,,,2017-12-29,OS,2017-12-29,OS
-T00130,The Trivia of Shen Qiu's ‘training’,Countryside Life and The ‘reactionary Slogan’ incident,en,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00130,沈邱‘锻炼’琐记,田园生活与‘反标’事件,zh,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,,,2017-12-27,MG,2017-12-27,MG
-T00131,The Old Person in History Department Who Went from the Republic to the Cultural Revolution,,en,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00131,从民国走到文革的历史所老人,,zh,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,,,2017-12-27,MG,2018-01-05,MG
-T00133,The Xinjiang Trip during the Great link ups,,en,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00133,大串联中新疆行,,zh,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2017-12-27,MG
-T00134,Not Recognizing the Current Situation yet Still Outstanding,the Huang Yongsheng in Secretary’s Eyes,en,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00134,不识时务亦俊杰,秘书眼里的黄永胜,zh,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,,,2017-12-27,MG,2018-01-05,MG
-T00135,I Was Once an official Red Guard,,en,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00135,我曾是官办红卫兵,,zh,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-27,MG,2018-01-02,MG
-T00136,The Interviews with Hui Xianjun,,en,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00136,惠宪钧访谈录,,zh,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,,,2017-12-27,MG,2018-01-05,MG
-T00137,Remembering My Father Wu Tianshi,,en,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
-T00137,忆父亲吴天石,,zh,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2018-01-02,MG
-T00138,The Divided Consciousness and the Interpretation of History,Some Thoughts after Reading Li Ping’s Interview and Discussing the Red Guard’s movement ‘Red August’,en,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
-T00138,分裂的意识与历史的解读,读礼平访谈录有感兼议‘红八月’的红卫兵运动,zh,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
-T00139,,,en,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00139,我在狱中是怎样知道林彪事件的,,zh,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00140,,,en,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00140,九一三和小学生的政治课,,zh,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00141,,,en,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00141,遥远又不遥远的林彪,,zh,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00142,,,en,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00142,我被禁止听九一三文件传达,,zh,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00143,,,en,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00143,我在空军部队经历九一三,,zh,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00144,,,en,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00144,九 一三断想,,zh,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00145,,,en,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00145,我的九一三记忆很平淡,,zh,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00146,,,en,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00146,走出恐惧——九一三事件40年祭,,zh,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00147,,,en,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00147,九一三使神话破灭,,zh,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00148,,,en,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00148,我在乡下听到林彪爆炸的消息,,zh,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
-T00149,"Explorations, Rectification and Fate",,en,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,Translated by project member,,2018-01-08,MG,2018-01-12,MG
-T00149,探讨，整肃与命运,,zh,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,T00044,NULL,413-440,,,2018-01-08,MG,2018-01-12,MG
-T00150,,,en,P0043,,,2008,,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
-T00150,重庆火炉在燃烧,,zh,P0043,,,2008,国家历史,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
-T00151,Spider Eaters,a Memoir,en,P0073,G03,PL0114,1997,University of California Press,,NULL,,NULL,NULL,,,2018-01-10,MG,2018-01-10,MG
-T00152,Course of Books,A Spirited Reading History,en,P0139,G03,,,,,NULL,T00045,NULL,4-16,Translated by project member,,2018-01-12,MG,2018-02-03,OS
-T00152,书的轨道,一部精神阅读史,zh,P0139,G03,,,,,NULL,T00045,NULL,4-16,,,2018-01-12,MG,2018-02-03,OS
-T00153,Those Times in the Mist of Light and Shade,,en,P0131,G03,,,,,NULL,T00044,NULL,547-562,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00153,明暗交错的时光,,zh,P0131,G03,,,,,NULL,T00044,NULL,547-562,,,2018-01-12,MG,2018-01-12,MG
-T00154,Starting from 1979,That Happiness Keener than Ice and Steel,en,P0133,G03,,,,,NULL,T00044,NULL,531-546,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00154,始于1979,比冰和铁更刺人心肠的欢乐,zh,P0133,G03,,,,,NULL,T00044,NULL,531-546,,,2018-01-12,MG,2018-01-12,MG
-T00155,Years being like a poem,,en,P0011,G03,,,,,NULL,T00044,NULL,51-58,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00155,诗样年华,,zh,P0011,G03,,,,,NULL,T00044,NULL,51-58,,,2018-01-12,MG,2018-01-12,MG
-T00156,1970s,The last Reminiscence,en,P0215,G03,,,,,NULL,T00044,NULL,331-348,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00156,七十年代,末代回忆,zh,P0215,G03,,,,,NULL,T00044,NULL,331-348,,,2018-01-12,MG,2018-01-12,MG
-T00157,Luckily to be young,1970s in Retrospect,en,P0140,G03,,,,,NULL,T00044,NULL,59-80,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00157,幸亏年轻,回想七十年代,zh,P0140,G03,,,,,NULL,T00044,NULL,59-80,,,2018-01-12,MG,2018-01-12,MG
-T00158,The Reminiscence of Sunshine and Storm,,en,P0018,G03,,,,,NULL,T00044,NULL,305-318,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00158,阳光与暴风雨的回忆,,zh,P0018,G03,,,,,NULL,T00044,NULL,305-318,,,2018-01-12,MG,2018-01-12,MG
-T00159,I used to be a wolf of the mountain and a thief of the sea,,en,P0216,G03,,,,,NULL,T00044,NULL,359-382,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00159,我曾经是山狼海贼,,zh,P0216,G03,,,,,NULL,T00044,NULL,359-382,,,2018-01-12,MG,2018-01-12,MG
-T00160,Those times of mine,,en,P0154,G03,,,,,NULL,T00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00160,我的那年代,,zh,P0154,G03,,,,,NULL,T00044,NULL,383-412,,,2018-01-12,MG,2018-01-12,MG
-T00161,Reminiscent Episodes of the 1970s,,en,P0217,G03,,,,,NULL,T00044,NULL,457-474,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00161,七十年代记忆片段,,zh,P0217,G03,,,,,NULL,T00044,NULL,457-474,,,2018-01-12,MG,2018-01-12,MG
-T00162,1976,My First Love Died like Shabby Cotton,en,P0218,G03,,,,,NULL,T00044,NULL,475-492,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00162,1976,初恋败絮,zh,P0218,G03,,,,,NULL,T00044,NULL,475-492,,,2018-01-12,MG,2018-01-12,MG
-T00163,The Black Painting Crisis,,en,P0137,G03,,,,,NULL,T00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-T00163,黑画风波,,zh,P0137,G03,,,,,NULL,T00044,NULL,349-358,,,2018-01-12,MG,2018-01-12,MG
-T00185,The tranquil horizon,,en,P0003,G03,,,,,NULL,T00044,,105-146,Translated by project member,,2018-01-24,OS,2018-01-24,OS
-T00185,宁静的地平线,,zh,P0003,G03,,,,,NULL,T00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
-T00189,Broken chapter,,en,P0009,G03,,,,,NULL,T00044,,31-50,Translated by project member,,2018-01-25,OS,2018-01-25,OS
-T00189,断章,,zh,P0009,G03,,,,,NULL,T00044,,31-50,,,2018-01-25,OS,2018-01-25,OS
-T00190,The unforgettable 1971,,en,P0219,G03,,,,,NULL,T00044,,257-278,Translated by project member,,2018-01-25,OS,2018-01-25,OS
-T00190,难忘的1971,,zh,P0219,G03,,,,,NULL,T00044,,257-278,,,2018-01-25,OS,2018-01-25,OS
-T00192,The unjustly murdered woman from the neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
-T00192,被冤杀的街坊大妈,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
-T00170,The Seventies,The broken pieces in my heart,en,P0221,G03,,,,,,T00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
-T00170,七十年代,我心中的碎片,zh,P0221,G03,,,,,,T00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
-T00171,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00172,unknown,,en,P0222,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00173,unknown,,en,P0223,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00174,unknown,,en,P0224,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00175,unknown,,en,P0225,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00176,unknown,,en,P0226,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00177,unknown,,en,P0227,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00178,unknown,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00179,unknown,,en,P0080,G29,unknown,unknown,unknown,unknown,unknown,,,,,,2018-02-01,OS,2018-02-01,OS
-T00169,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
-T00168,On the Cult of Personality and its Consequences ,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
-T00168,О культе личности и его последствиях,,ru,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
-T00168,关于个人崇拜及其后果,,zh,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-02-02,OS,2018-02-02,OS
-T00193,Starting in 1979,Heart-stabbing joy keener than ice or iron  ,en,P0133,G03,,,,,,T00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
-T00193,始于1979年,,zh,P0133,G03,,,,,,T00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
-T00195,The X literary society and the death of Guo Shiying,,en,P0002,G03,,,,,NULL,T00045,,17-29,Translated by project member,,2018-02-03,OS,2018-02-03,OS
-T00195,X诗社与郭世英之死,,zh,P0002,G03,,,,,NULL,T00045,,17-29,,,2018-02-03,OS,2018-02-03,OS
-T00196,A transcript of the interview with Lin Mang,,en,P0135,G02,,,,,NULL,T00045,,282-296,Translated by project member,,2018-02-03,OS,2018-02-03,OS
-T00196,林莽访谈录,,zh,P0135,G02,,,,,NULL,T00045,,282-296,,,2018-02-03,OS,2018-02-03,OS
-T00197,"""Jintian"" and I",,en,P0108,G03,,,,,NULL,T00045,,379-410,Translated by project member,,2018-02-03,OS,2018-02-03,OS
-T00197,《今天》与我,,zh,P0108,G03,,,,,NULL,T00045,,379-410,,,2018-02-03,OS,2018-02-03,OS
-T00205,Growing up in the People's Republic,conversations between two daughters of China's revolution,en,P0238,G03,PL0050,2005,Palgrave MacMillan,,NULL,,,,,,2018-02-06,OS,2018-02-06,OS
+sec_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
+SS00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2017-07-12,OS
+SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
+SS00005,?????,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
+SS00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-11-04,MG
+SS00006,????????,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-10-16,MG
+SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2017-07-12,OS
+SS00007,???,?????,zh,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2017-07-12,OS
+SS00009,Ma Jia fangtan lu,,en,P0017,G03,,,,,NULL,SS00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
+SS00009,?????,,zh,P0017,G03,,,,,NULL,SS00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
+SS00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,2017-07-12,OS,2017-10-24,MG
+SS00011,1960-70?? ???? ?????,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,2017-07-12,OS,2017-10-24,MG
+SS00012,Wuti wangshi,,zh-Latn-py,P0108,G03,,,,,NULL,SS00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
+SS00012,????,,zh,P0108,G03,,,,,NULL,SS00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
+SS00014,"Life,  Books and Poems",,en,P0109,G03,,,,,NULL,SS00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
+SS00014,????????,,zh,P0109,G03,,,,,NULL,SS00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
+SS00026,I Almost Killed Someone That Year,,en,P0119,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (???????) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+SS00026,???????,,zh,P0119,G03,,2010,??,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,The text is bout the author's experience in Fishing grounds while checking out the May 16th components (???????) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
+SS00027,Trivia at Beijing No. 4 High School,,en,P0058,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
+SS00027,"?????,?????��????",,zh,P0058,G03,,2011,??,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,,2017-07-27,LH,2017-07-27,LH
+SS00029,�Meeting by chance�,Memories of books and the reading in my memories,en,P0029,G03,PL0002,2012,Dushu,2012,no,,2012.09,116-125,Translated by Project Member,,2017-07-28,LH,2018-02-09,OS
+SS00029,"""????""",????????????,zh,P0029,G03,PL0002,2012,Dushu,2012,no,,2012.09,116-125,,,2017-07-28,LH,2018-02-09,OS
+SS00030,The Literary Inquisition of �The Second Handshake�,,en,P0120,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
+SS00030,??????????,,zh,P0120,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,In this book  Zhang Yang relates how he wrote and rewrote his shouchao novel The Second Handshake. He thus also relates his imprisonment and other experiences during the CR (also includes childhood and time after the CR),,2017-08-01,LH,2017-10-02,DP
+SS00043,Dreams and Reminiscences,,en,P0132,G03,,,,,NULL,SS00044,NULL,441-456,Translated by project member,,2017-08-08,MG,2018-01-12,MG
+SS00043,?????,,zh,P0132,G03,,,,,NULL,SS00044,NULL,441-456,,,2017-08-08,MG,2018-01-12,MG
+SS00044,The Seventies,,en,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
+SS00044,????,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
+SS00045,A sunken holy place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
+SS00045,?????,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
+SS00054,unknown,,en,P0086,,,,,,,,,,,,2017-08-25,MG,2017-11-08,MG
+SS00061,The Story of Translators,,en,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2017-09-06,CW
+SS00061,??????,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2017-09-06,CW
+SS00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,,,,Translated by project member,,2017-09-06,MG,2018-01-18,MG
+SS00064,??????,,zh,P0009,G10,,1982,,,,,,,,,2017-09-06,MG,2018-01-18,MG
+SS00065,Smoke,,en,P0009,G10,,,,,,SS00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
+SS00065,?,,zh,P0009,G10,,,,,,SS00045,,291,,,2017-09-08,MG,2017-09-13,MG
+SS00066,Alcohol,,en,P0009,G10,,,,,,SS00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
+SS00066,?,,zh,P0009,G10,,,,,,SS00045,,291,,,2017-09-08,MG,2017-09-13,MG
+SS00067,Rainy Night,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00067,??,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00068,??�???,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00069,??,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
+SS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
+SS00071,?????,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
+SS00072,For a sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-01-12,MG
+SS00072,?????????,,zh,P0102,G10,,,,,,,,536,influenced by Sylvia Plath�s style written in 1979,,2017-09-15,MG,2018-01-12,MG
+SS00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
+SS00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2017-09-27,MG,2017-10-18,MG
+SS00082,?????,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2017-09-27,MG,2017-10-18,MG
+SS00108,A Glance at the Underground Reading Movement during the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2017-10-25,DP
+SS00109,Memorial for Not Forgetting,remembering My friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
+SS00109,????????,??????,zh,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2017-12-13,MG
+SS00110,Wren Makes Nestle in this Branch,,en,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,493-506,Translated by project member,,2017-11-08,MG,2018-01-12,MG
+SS00110,???????,,zh,P0136,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,493-506,,,2017-11-08,MG,2018-01-12,MG
+SS00111,The predawn agitation,,en,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,187-201,Translated by project member,,2017-11-08,MG,2018-01-12,MG
+SS00111,??????,,zh,P0138,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,187-201,,,2017-11-08,MG,2018-01-12,MG
+SS00112,The legend of Taiyang zongdui and others,,en,P0003,G02,,,,,NULL,SS00045,NULL,30-52,,,2017-12-13,MG,2017-12-17,MG
+SS00112,?????????,,zh,P0003,G02,,,,,NULL,SS00045,NULL,30-52,,,2017-12-13,MG,2017-12-17,MG
+SS00113,China,mein Traum mein Leben,de,P0062,G03,PL0101,1994,ECON,,NULL,NULL,NULL,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00114,The buried Chinese poets (1972-1978),,en,P0010,G03,,,,,NULL,SS00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
+SS00114,????????,,zh,P0010,G03,,,,,NULL,SS00045,NULL,195-202,,,2017-12-13,MG,2018-02-03,OS
+SS00115,A transcript of the interview with Peng Gang and Mang Ke,,en,P0135,G02,,,,,NULL,SS00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
+SS00115,?? ?????,,zh,P0135,G02,,,,,NULL,SS00045,NULL,183-194,,,2017-12-13,MG,2018-02-03,OS
+SS00116,Second Older Brother,The Absurd Life of Torturing and Being Tortured,en,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00116,??,???????????,zh,P0033,G03,,2010-08-15,Remembrance,,NULL,NULL,No 55,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00117,This Is a Miracle,Writing Prologue for Shamo�s Somewhere Deep in My Heart,en,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00117,??????,??? ???? ?,zh,P0059,G03,,2010-06-15,Remembrance,,NULL,NULL,No 51,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00118,Confessions of a Mother,,en,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00118,???????,,zh,P0035,G03,,2010,Yanhuang Chunqiu Zazhi,,NULL,NULL,No 01,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00119,The Bloody Flowering Season,,en,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00119,?????,,zh,P0041,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00120,How I Was Made into A strictly Treated Object,,en,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00120,??????? ????,,zh,P0046,G03,,2010-09-13,Remembrance,,NULL,NULL,No 57,NULL,,,2017-12-13,MG,2017-12-13,MG
+SS00123,Some of us,Chinese women growing up in the Mao era,en,P0074,G03,PL0102,2001,Rutgers Univ. Press,,NULL,NULL,NULL,NULL,,,2017-12-17,MG,2017-12-17,MG
+SS00124,Mao,The Real Story,en,P0195,G02,PL0050,2012,Simon & Schuster,,NULL,NULL,NULL,784,,,2017-12-23,OS,2017-12-23,OS
+SS00127,The best friend of that time,,en,P0016,G03,,,,,NULL,SS00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
+SS00127,???????,,zh,P0016,G03,,,,,NULL,SS00045,NULL,203-215,,,2017-12-29,OS,2018-02-03,OS
+SS00128,Born Red,A Chronicle of the Cultural Revolution,en,P0064,G03,PL0109,1987,Stanford University Press,,NULL,NULL,NULL,416,,,2017-12-29,OS,2017-12-29,OS
+SS00129,The Cambridge History of Chinese Literature,Volume II: From 1375,en,P0196,G19,PL0050,1905-07-02,Cambridge University Press,,NULL,NULL,NULL,,,,2017-12-29,OS,2017-12-29,OS
+SS00130,The Trivia of Shen Qiu's �training�,Countryside Life and The �reactionary Slogan� incident,en,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00130,??�??�??,?????�??�??,zh,P0049,G03,,2010-10-30,Remembrance,,NULL,NULL,No 61,NULL,,,2017-12-27,MG,2017-12-27,MG
+SS00131,The Old Person in History Department Who Went from the Republic to the Cultural Revolution,,en,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00131,?????????????,,zh,P0212,G03,,2011-04-30,Remembrance,,NULL,NULL,No 70,NULL,,,2017-12-27,MG,2018-01-05,MG
+SS00133,The Xinjiang Trip during the Great link ups,,en,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00133,???????,,zh,P0052,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2017-12-27,MG
+SS00134,Not Recognizing the Current Situation yet Still Outstanding,the Huang Yongsheng in Secretary�s Eyes,en,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00134,???????,????????,zh,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,,,2017-12-27,MG,2018-01-05,MG
+SS00135,I Was Once an official Red Guard,,en,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00135,????????,,zh,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-27,MG,2018-01-02,MG
+SS00136,The Interviews with Hui Xianjun,,en,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00136,??????,,zh,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,,,2017-12-27,MG,2018-01-05,MG
+SS00137,Remembering My Father Wu Tianshi,,en,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
+SS00137,??????,,zh,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2018-01-02,MG
+SS00138,The Divided Consciousness and the Interpretation of History,Some Thoughts after Reading Li Ping�s Interview and Discussing the Red Guard�s movement �Red August�,en,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
+SS00138,???????????,??????????�???�??????,zh,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
+SS00139,,,en,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00139,??????????????,,zh,P0197,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00140,,,en,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00140,???????????,,zh,P0199,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00141,,,en,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00141,?????????,,zh,P0200,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00142,,,en,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00142,????????????,,zh,P0201,,,2011-08-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem74.html#b,No 74,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00143,,,en,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00143,???????????,,zh,P0202,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00144,,,en,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00144,? ????,,zh,P0203,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00145,,,en,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00145,??????????,,zh,P0206,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00146,,,en,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00146,????��?????40??,,zh,P0208,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00147,,,en,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00147,????????,,zh,P0209,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00148,,,en,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00148,?????????????,,zh,P0210,,,2011-09-13,Remembrance,,NULL,http://www.xujuneberlein.com/rem75.html#GG,No 75,NULL,,,2018-01-05,MG,2018-01-05,MG
+SS00149,"Explorations, Rectification and Fate",,en,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,413-440,Translated by project member,,2018-01-08,MG,2018-01-12,MG
+SS00149,"??,?????",,zh,P0130,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,413-440,,,2018-01-08,MG,2018-01-12,MG
+SS00150,,,en,P0043,,,2008,,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
+SS00150,???????,,zh,P0043,,,2008,????,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
+SS00151,Spider Eaters,a Memoir,en,P0073,G03,PL0114,1997,University of California Press,,NULL,,NULL,NULL,,,2018-01-10,MG,2018-01-10,MG
+SS00152,Course of Books,A Spirited Reading History,en,P0139,G03,,,,,NULL,SS00045,NULL,4-16,Translated by project member,,2018-01-12,MG,2018-02-03,OS
+SS00152,????,???????,zh,P0139,G03,,,,,NULL,SS00045,NULL,4-16,,,2018-01-12,MG,2018-02-03,OS
+SS00153,Those Times in the Mist of Light and Shade,,en,P0131,G03,,,,,NULL,SS00044,NULL,547-562,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00153,???????,,zh,P0131,G03,,,,,NULL,SS00044,NULL,547-562,,,2018-01-12,MG,2018-01-12,MG
+SS00154,Starting from 1979,That Happiness Keener than Ice and Steel,en,P0133,G03,,,,,NULL,SS00044,NULL,531-546,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00154,??1979,????????????,zh,P0133,G03,,,,,NULL,SS00044,NULL,531-546,,,2018-01-12,MG,2018-01-12,MG
+SS00155,Years being like a poem,,en,P0011,G03,,,,,NULL,SS00044,NULL,51-58,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00155,????,,zh,P0011,G03,,,,,NULL,SS00044,NULL,51-58,,,2018-01-12,MG,2018-01-12,MG
+SS00156,1970s,The last Reminiscence,en,P0215,G03,,,,,NULL,SS00044,NULL,331-348,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00156,????,????,zh,P0215,G03,,,,,NULL,SS00044,NULL,331-348,,,2018-01-12,MG,2018-01-12,MG
+SS00157,Luckily to be young,1970s in Retrospect,en,P0140,G03,,,,,NULL,SS00044,NULL,59-80,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00157,????,??????,zh,P0140,G03,,,,,NULL,SS00044,NULL,59-80,,,2018-01-12,MG,2018-01-12,MG
+SS00158,The Reminiscence of Sunshine and Storm,,en,P0018,G03,,,,,NULL,SS00044,NULL,305-318,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00158,?????????,,zh,P0018,G03,,,,,NULL,SS00044,NULL,305-318,,,2018-01-12,MG,2018-01-12,MG
+SS00159,I used to be a wolf of the mountain and a thief of the sea,,en,P0216,G03,,,,,NULL,SS00044,NULL,359-382,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00159,????????,,zh,P0216,G03,,,,,NULL,SS00044,NULL,359-382,,,2018-01-12,MG,2018-01-12,MG
+SS00160,Those times of mine,,en,P0154,G03,,,,,NULL,SS00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00160,?????,,zh,P0154,G03,,,,,NULL,SS00044,NULL,383-412,,,2018-01-12,MG,2018-01-12,MG
+SS00161,Reminiscent Episodes of the 1970s,,en,P0217,G03,,,,,NULL,SS00044,NULL,457-474,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00161,????????,,zh,P0217,G03,,,,,NULL,SS00044,NULL,457-474,,,2018-01-12,MG,2018-01-12,MG
+SS00162,1976,My First Love Died like Shabby Cotton,en,P0218,G03,,,,,NULL,SS00044,NULL,475-492,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00162,1976,????,zh,P0218,G03,,,,,NULL,SS00044,NULL,475-492,,,2018-01-12,MG,2018-01-12,MG
+SS00163,The Black Painting Crisis,,en,P0137,G03,,,,,NULL,SS00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-01-12,MG
+SS00163,????,,zh,P0137,G03,,,,,NULL,SS00044,NULL,349-358,,,2018-01-12,MG,2018-01-12,MG
+SS00185,The tranquil horizon,,en,P0003,G03,,,,,NULL,SS00044,,105-146,Translated by project member,,2018-01-24,OS,2018-01-24,OS
+SS00185,??????,,zh,P0003,G03,,,,,NULL,SS00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
+SS00189,Broken chapter,,en,P0009,G03,,,,,NULL,SS00044,,31-50,Translated by project member,,2018-01-25,OS,2018-01-25,OS
+SS00189,??,,zh,P0009,G03,,,,,NULL,SS00044,,31-50,,,2018-01-25,OS,2018-01-25,OS
+SS00190,The unforgettable 1971,,en,P0219,G03,,,,,NULL,SS00044,,257-278,Translated by project member,,2018-01-25,OS,2018-01-25,OS
+SS00190,???1971,,zh,P0219,G03,,,,,NULL,SS00044,,257-278,,,2018-01-25,OS,2018-01-25,OS
+SS00192,The unjustly murdered woman from the neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+SS00192,????????,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,57,ONLINE SOURCE,,,2018-01-25,OS,2018-01-25,OS
+SS00170,The Seventies,The broken pieces in my heart,en,P0221,G03,,,,,,SS00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
+SS00170,????,??????,zh,P0221,G03,,,,,,SS00044,,235-256,,,2018-02-01,OS,2018-02-01,OS
+SS00171,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00172,unknown,,en,P0222,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00173,unknown,,en,P0223,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00174,unknown,,en,P0224,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00175,unknown,,en,P0225,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00176,unknown,,en,P0226,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00177,unknown,,en,P0227,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00178,unknown,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00179,unknown,,en,P0080,G29,unknown,unknown,unknown,unknown,unknown,,,,,,2018-02-01,OS,2018-02-01,OS
+SS00169,unknown,,en,P0098,G24,unknown,unknown,unknown,unknown,yes,,,,very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-02-01,OS
+SS00168,On the Cult of Personality and its Consequences ,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
+SS00168,? ?????? ???????? ? ??? ????????????,,ru,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
+SS00168,??????????,,zh,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-02-02,OS,2018-02-02,OS
+SS00193,Starting in 1979,Heart-stabbing joy keener than ice or iron  ,en,P0133,G03,,,,,,SS00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
+SS00193,??1979?,,zh,P0133,G03,,,,,,SS00044,,530-546,the 2nd part of the title is a reference to a poem by Baudelaire. Translation by project member,,2018-02-02,OS,2018-02-02,OS
+SS00195,The X literary society and the death of Guo Shiying,,en,P0002,G03,,,,,NULL,SS00045,,17-29,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+SS00195,X????????,,zh,P0002,G03,,,,,NULL,SS00045,,17-29,,,2018-02-03,OS,2018-02-03,OS
+SS00196,A transcript of the interview with Lin Mang,,en,P0135,G02,,,,,NULL,SS00045,,282-296,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+SS00196,?????,,zh,P0135,G02,,,,,NULL,SS00045,,282-296,,,2018-02-03,OS,2018-02-03,OS
+SS00197,"""Jintian"" and I",,en,P0108,G03,,,,,NULL,SS00045,,379-410,Translated by project member,,2018-02-03,OS,2018-02-03,OS
+SS00197,??????,,zh,P0108,G03,,,,,NULL,SS00045,,379-410,,,2018-02-03,OS,2018-02-03,OS
+SS00205,Growing up in the People's Republic,conversations between two daughters of China's revolution,en,P0238,G03,PL0050,2005,Palgrave MacMillan,,NULL,,,,,,2018-02-06,OS,2018-02-06,OS

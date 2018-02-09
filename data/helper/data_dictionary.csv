@@ -1,5 +1,5 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
-Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-7,DP
+Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-07,DP
 Person,family_name,Commonly used family name (姓).,'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-01-30,DP
 Person,first_name,First name (名),,2017-07-04,LH,2018-01-30,DP
 Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
@@ -57,29 +57,83 @@ Membership,created_by,acronym of project member creating this line,,2018-01-30,O
 Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
 Membership,modified_by,acronym of project member last modifying this line,,2018-01-30,OS,2018-01-30,OS
 ,,,,,,,
-Text,text_id,T and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-Text,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
-Text,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
-Text,genre_id,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
-Text,publication_place,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
-Text,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
-Text,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
-Text,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2017-07-04,LH,2017-07-04,LH
-Text,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
-Text,source_id,Source of a text; i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
-Text,serial_part,additional citation ranges for serials such as volume or issue,,,,,
-Text,pages,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
-Text,commentary,Space for background information on the text. If necessary; for example reference to translation of a poem into English; on when a text was written…,,2017-07-04,LH,2017-07-04,LH
-Text,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2017-10-14,OS,2017-10-14,DP
-Text,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
-Text,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
-Text,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
-Text,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+ArtWork,artwork_id,AW and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+ArtWork,title,Title of an artwork; both in the original language and Chinese. If the Original language is not either English or French or German; add English.,,2018-02-09,OS,2018-02-09,OS
+ArtWork,subtitle,Subtitle of an artwork; both in the original language and Chinese. If the Original language is not either English or French or German; add English.,,2018-02-09,OS,2018-02-09,OS
+ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). ,,2018-02-09,OS,2018-02-09,OS
+ArtWork,person_id,key: Person.person_id,,2018-02-09,OS,2018-02-09,OS
+ArtWork,art_form_id,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_place_id,place of first performance or showing; key: Place.place_id ,,2018-02-09,OS,2018-02-09,OS
+ArtWork,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every artwork before 1949 and after 1980.,,2018-02-09,OS,2018-02-09,OS
+ArtWork,commentary,Space for background information on the trtworkeaxt. If necessary; for example a reference to a world premiere of a movie,,2018-02-09,OS,2018-02-09,OS
+ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+ArtWork,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+ArtWork,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+ArtWork,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+ArtWork,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
-Genre,genre_id,G and a two-digit number (leading zeros),http://id.loc.gov/authorities/genreForms.htmlv,2017-07-04,LH,2018-02-01,DP
+ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+ArtForm,art_form_name,art form name in English; if necessary use Chinese pinyin,,2018-02-09,OS,2018-02-09,OS
+ArtForm,art_form_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS
+ArtForm,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+ArtForm,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+ArtForm,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+ArtForm,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+PrimarySource,prim_source_id,PS and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,genre_id,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
+PrimarySource,publication_place,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2017-07-04,LH,2017-10-27,OS
+PrimarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,source_id,Source of a text; i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
+PrimarySource,serial_part,additional citation ranges for serials such as volume or issue,,,,,
+PrimarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,commentary,Space for background information on the text. If necessary; for example reference to translation of a poem into English; on when a text was written…,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+SecondarySource,sec_source_id,SS and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,genre_id,key: Genre.genre_id,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_place,place of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_date,date of publication; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publishing_house,name of publishing house in pinyin; first mainland edition between the years 1949 and 1978; after 1978 the edition at hand is sufficient,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,source_id,Source of a text; i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,serial_part,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+Quotation,quotation_id,Q and a four-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+Quotation,quotation,quotation in full,,2018-02-09,OS,2018-02-09,OS
+Quotation,source_id,source of a quotation,,2018-02-09,OS,2018-02-09,OS
+Quotation,page number,page number of the quote in the cited edition,,2018-02-09,OS,2018-02-09,OS
+Quotation,commentary,Space for background information on the quotation.,,2018-02-09,OS,2018-02-09,OS
+Quotation,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+Quotation,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+Quotation,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+Quotation,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+Quotation,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+Genre,genre_id,G and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Genre,genre_name,genre name in English; if necessary use Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
 Genre,genre_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
-Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),,2017-07-04,LH,2017-07-04,LH
+Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),http://id.loc.gov/authorities/genreForms.htmlv,2017-07-04,LH,2018-02-01,DP
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Genre,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Genre,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
