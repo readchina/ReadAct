@@ -40,7 +40,7 @@ SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese k
 SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
 SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,page_number,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,note,Internal notes of project members,,2018-01-25,OS,2018-02-01,DP
 SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
@@ -74,7 +74,7 @@ ArtWork,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
 ArtWork,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
 ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
-ArtForm,art_form_name,art form name in English; if necessary use Chinese pinyin,,2018-02-09,OS,2018-02-09,OS
+ArtForm,art_form_name,art form name in English; if necessary use Chinese pinyin. A guide for possible art forms is the following webpage: https://en.wikipedia.org/wiki/Fine_art,,2018-02-09,OS,2018-02-09,OS
 ArtForm,art_form_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS
 ArtForm,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
 ArtForm,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
