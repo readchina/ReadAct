@@ -93,8 +93,8 @@ P0047,Han,Pingzao,en,male,unknown,NULL,NULL,PL0012,,,,,,,,T00150,ONLINE SOURCE,,
 P0047,韩,平藻,zh,male,unknown,NULL,NULL,PL0012,,,,,,,,T00150,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
 P0048,Hui,Xianjun,en,male,no,NULL,NULL,NULL,1932,,,,,,,T00136,ONLINE SOURCE,https://zh.wikipedia.org/wiki/%E6%83%A0%E5%AE%AA%E9%92%A7,,,,2017-07-05,LH,2018-01-25,WH
 P0048,惠,宪钧,zh,male,no,NULL,NULL,NULL,1932,,,,,,,T00136,ONLINE SOURCE,https://zh.wikipedia.org/wiki/%E6%83%A0%E5%AE%AA%E9%92%A7,,,,2017-07-05,LH,2018-01-25,WH
-P0049,Piao,Mu,en,male,yes,1971%,1971%,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
-P0049,漂,木,zh,male,yes,1971%,1971%,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-25,WH
+P0049,Piao,Mu,en,male,yes,1971,1971,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,Wenxin: check again rustication time,,2017-07-05,LH,2018-01-25,WH
+P0049,漂,木,zh,male,yes,1971,1971,PL0013,,,,,,,,T00130,ONLINE SOURCE,,,Wenxin: check again rustication time,,2017-07-05,LH,2018-01-25,WH
 P0050,Wu,Yunhong,en,male,unknown,NULL,NULL,NULL,1938,,,,,,,T00137,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-07,WH
 P0050,吴,允弘,zh,male,unknown,NULL,NULL,NULL,1938,,,,,,,T00137,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-07,WH
 P0051,Wu,Tianshi,en,male,NULL,NULL,NULL,NULL,1911,1966,,,,,,T00137,ONLINE SOURCE,,,,,2017-07-05,LH,2018-02-07,WH
@@ -244,8 +244,8 @@ P0131,Li,Daxing,en,male,no,NULL,NULL,NULL,1960,,,,,,,T00153,554,http://book.sina
 P0131,李,大兴,zh,male,no,NULL,NULL,NULL,1960,,,,,,,T00153,554,http://book.sina.com.cn/news/xsxx/2017-12-04/doc-ifyphxwa7852332.shtml,ONLINE SOURCE,父亲是著名历史学家李新,,2017-07-28,MG,2018-01-12,OS
 P0132,Chen,Jianhua,en,male,no,NULL,NULL,NULL,1947,,,,PL0003,,,T00043,452,,,,,2017-08-07,MG,2018-01-12,OS
 P0132,陈,建华,zh,male,no,NULL,NULL,NULL,1947,,,,PL0003,,,T00043,452,,,,,2018-02-08,OS,2018-02-08,OS
-P0133,Bo,Hua,en,male,yes,1975,1978,PL0152,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,2017-08-07,MG,2018-02-07,WH
-P0133,柏,桦,zh,male,yes,1975,1978,PL0152,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,2017-08-07,MG,2018-02-07,WH
+P0133,Bo,Hua,en,male,yes,1975,1978,PL0155,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,2017-08-07,MG,2018-02-07,WH
+P0133,柏,桦,zh,male,yes,1975,1978,PL0155,1956,,NULL,NULL,PL0012,unknown,,T00154,533 539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,2017-08-07,MG,2018-02-07,WH
 P0134,Lin,Mang,en,male,yes,1969,1975,PL0022,1949,,Zhang Jianzhong,en,PL0104,S03,,T00045,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-08-11,MG,2018-01-16,OS
 P0134,林,莽,zh,male,yes,1969,1975,PL0022,1949,,张建中  ,zh,PL0104,S03,,T00045,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,,2017-08-11,MG,2018-01-16,OS
 P0135,Liao,Yiwu,en,male,NULL,NULL,NULL,NULL,1958,,Lao Wei,en,PL0062,NULL,NULL,https://de.wikipedia.org/wiki/Liao_Yiwu,ONLINE SOURCE,,,,,2017-08-11,MG,2017-12-19,MG
