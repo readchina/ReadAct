@@ -40,7 +40,7 @@ SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese k
 SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
 SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,page_number,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,note,Internal notes of project members,,2018-01-25,OS,2018-02-01,DP
 SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
