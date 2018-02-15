@@ -205,8 +205,6 @@ P0100,Bian,Zhilin,en,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wi
 P0100,卞,之琳,zh,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wikipedia.org/wiki/Bian_Zhilin,,,,,,2017-07-10,OS,2018-02-06,WH
 P0101,Blake,William,en,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,https://en.wikipedia.org/wiki/William_Blake,,,,,,2017-07-10,OS,2018-01-08,MG
 P0101,布雷克,威廉,zh,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,https://en.wikipedia.org/wiki/William_Blake,,,,,,2017-07-10,OS,2018-01-08,MG
-P0102,Bo,Hua,en,male,yes,1975,1978,PL0012,1956,,,,,,,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,,,2017-07-10,OS,2018-02-02,WH
-P0102,柏,桦,zh,male,yes,1975,1978,PL0012,1956,,,,,,,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,,,,2017-07-10,OS,2018-02-02,WH
 P0103,Boccaccio,Giovanni,en,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,https://www.britannica.com/biography/Giovanni-Boccaccio,,,,,,2017-07-10,OS,2018-01-08,MG
 P0103,薄伽丘,乔万尼,zh,male,NULL,NULL,NULL,NULL,1313,1375,,,,,,https://www.britannica.com/biography/Giovanni-Boccaccio,,,,,,2017-07-10,OS,2018-01-08,MG
 P0104,Brahms,Johannes,en,male,NULL,NULL,NULL,NULL,1833,1897,,,PL0048,,,https://en.wikipedia.org/wiki/Johannes_Brahms,,,,,,2017-07-10,OS,2018-01-08,MG
@@ -484,3 +482,21 @@ P0252,Jiang,He,en,male,,,,,1949,1968,Yu Youze,en,PL0002,,,https://baike.baidu.co
 P0252,江,河,zh,male,,,,,1949,1968,于友泽 ,zh,PL0002,,,https://baike.baidu.com/item/%E6%B1%9F%E6%B2%B3/9571871,ONLINE SOURCE,,,,,2018-02-13,OS,2018-02-13,OS
 P0253,Guo,Xiaochuan,en,male,NULL,NULL,NULL,NULL,1919,1976,NULL,NULL,PL0165,,,https://zh.wikipedia.org/wiki/%E9%83%AD%E5%B0%8F%E5%B7%9D,ONLINE SOURCE,,,,,2018-02-13,OS,2018-02-13,OS
 P0253,郭,小川,zh,male,NULL,NULL,NULL,NULL,1919,1976,NULL,NULL,PL0165,,,https://zh.wikipedia.org/wiki/%E9%83%AD%E5%B0%8F%E5%B7%9D,ONLINE SOURCE,,,,,2018-02-13,OS,2018-02-13,OS
+P0254,Hawthorne ,Nathaniel ,en,male,NULL,NULL,NULL,NULL,1804,1864,NULL,NULL,PL0166,NULL,NULL,https://en.wikipedia.org/wiki/Nathaniel_Hawthorne,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0254,霍桑,纳撒尼尔,zh,male,NULL,NULL,NULL,NULL,1804,1864,NULL,NULL,PL0166,NULL,NULL,https://en.wikipedia.org/wiki/Nathaniel_Hawthorne,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0255,Hayek,Friedrich,en,male,NULL,NULL,NULL,NULL,1899,1972,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Hayek,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0255,哈耶克  ,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1899,1972,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Hayek,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0256,He,Jingzhi,en,male,NULL,NULL,NULL,NULL,1924,,Aimo,en,PL0168,NULL,NULL,https://en.wikipedia.org/wiki/He_Jingzhi,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0256,贺 ,敬之,zh,male,NULL,NULL,NULL,NULL,1924,,艾漠,zh,PL0168,NULL,NULL,https://en.wikipedia.org/wiki/He_Jingzhi,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0257,He,Qifang,en,male,NULL,NULL,NULL,NULL,1912,1977,NULL,NULL,PL0169,NULL,NULL,https://en.wikipedia.org/wiki/He_Qifang,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0257,何,其芳,zh,male,NULL,NULL,NULL,NULL,1912,1977,NULL,NULL,PL0169,NULL,NULL,https://en.wikipedia.org/wiki/He_Qifang,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0258,Hegel,Georg Wilhelm Friedrich,en,male,NULL,NULL,NULL,NULL,1770,1831,NULL,NULL,PL0170,NULL,NULL,https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0258,黑格尔 ,格奥尔格·威廉·弗里德里希,zh,male,NULL,NULL,NULL,NULL,1770,1831,NULL,NULL,PL0170,NULL,NULL,https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0259,Heller,Joseph,en,male,NULL,NULL,NULL,NULL,1923,1999,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Joseph_Heller,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0259,海勒,约瑟夫 ,zh,male,NULL,NULL,NULL,NULL,1923,1999,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Joseph_Heller,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0260,Hemingway ,Ernest,en,male,NULL,NULL,NULL,NULL,1899,1961,NULL,NULL,PL0171,NULL,NULL,https://en.wikipedia.org/wiki/Ernest_Hemingway,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0260,海明威,欧内斯特,zh,male,NULL,NULL,NULL,NULL,1899,1961,NULL,NULL,PL0171,NULL,NULL,https://en.wikipedia.org/wiki/Ernest_Hemingway,ONLINE SOURCE,,,,,2018-02-14,OS,2018-02-14,OS
+P0261,Hugo,Victor,en,male,NULL,NULL,NULL,NULL,1802,1885,NULL,NULL,PL0172,NULL,NULL,https://en.wikipedia.org/wiki/Victor_Hugo,ONLINE SOURCE,,,,,2018-02-15,OS,2018-02-15,OS
+P0261,雨果 ,维克多,zh,male,NULL,NULL,NULL,NULL,1802,1885,NULL,NULL,PL0172,NULL,NULL,https://en.wikipedia.org/wiki/Victor_Hugo,ONLINE SOURCE,,,,,2018-02-15,OS,2018-02-15,OS
+P0262,Ionesco,Eugene,en,male,NULL,NULL,NULL,NULL,1909,1994,NULL,NULL,PL0173,NULL,NULL,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco,ONLINE SOURCE,,,,,2018-02-15,OS,2018-02-15,OS
+P0262,尤内斯库,欧仁,zh,male,NULL,NULL,NULL,NULL,1909,1994,NULL,NULL,PL0173,NULL,NULL,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco,ONLINE SOURCE,,,,,2018-02-15,OS,2018-02-15,OS
