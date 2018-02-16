@@ -199,8 +199,8 @@ P0097,Berlioz,Hector,en,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,https://en
 P0097,柏辽兹,埃克托,zh,male,NULL,NULL,NULL,NULL,1803,1869,,,PL0044,,,https://en.wikipedia.org/wiki/Hector_Berlioz,,,,,,2017-07-10,OS,2018-01-26,WH
 P0098,Bernstein,Eduard,en,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,https://en.wikipedia.org/wiki/Eduard_Bernstein,,,,,,2017-07-10,OS,2018-01-26,WH
 P0098,伯恩施坦,爱德华,zh,male,NULL,NULL,NULL,NULL,1850,1932,,,PL0038,,,https://en.wikipedia.org/wiki/Eduard_Bernstein,,,,,,2017-07-10,OS,2018-01-26,WH
-P0099,Bi,Ruxie,en,male,unknown,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-10,OS,2018-02-07,WH
-P0099,毕,汝协,zh,male,unknown,NULL,NULL,NULL,,,毕汝谐,zh,,,,,,,,,,2017-07-10,OS,2018-02-07,WH
+P0099,Bi,Ruxie,en,male,unknown,NULL,NULL,NULL,,,,,,,,http://blog.sina.com.cn/s/blog_70d8bb250100njh0.html,,,,,,2017-07-10,OS,2018-02-16,WH
+P0099,毕,汝协,zh,male,unknown,NULL,NULL,NULL,,,毕汝谐,zh,,,,http://blog.sina.com.cn/s/blog_70d8bb250100njh0.html,,,,,,2017-07-10,OS,2018-02-16,WH
 P0100,Bian,Zhilin,en,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wikipedia.org/wiki/Bian_Zhilin,,,,,,2017-07-10,OS,2018-02-06,WH
 P0100,卞,之琳,zh,male,NULL,NULL,NULL,NULL,1910,2000,,,PL0037,,,https://en.wikipedia.org/wiki/Bian_Zhilin,,,,,,2017-07-10,OS,2018-02-06,WH
 P0101,Blake,William,en,male,NULL,NULL,NULL,NULL,1757,1827,,,PL0036,,,https://en.wikipedia.org/wiki/William_Blake,,,,,,2017-07-10,OS,2018-01-08,MG
@@ -215,8 +215,8 @@ P0105,Braine,John,en,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,https://en.wi
 P0105,勃莱恩,约翰,zh,male,NULL,NULL,NULL,NULL,1922,1986,,,PL0049,,,https://en.wikipedia.org/wiki/John_Braine,,,,,,2017-07-10,OS,2018-01-08,MG
 P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,,2017-07-12,OS,2018-01-08,MG
 P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,,2017-07-12,OS,2018-01-08,MG
-P0107,Wang,Shiqiang,en,male,unknown,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-12,OS,2018-02-07,WH
-P0107,王,士强,zh,male,unknown,NULL,NULL,NULL,,,,,,,,,,,,,,2017-07-12,OS,2018-02-07,WH
+P0107,Wang,Shiqiang,en,male,NULL,NULL,NULL,NULL,1979,,,,,,,http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549,,He interviewed 芒克.,,2017-07-12,OS,2018-02-16,WH
+P0107,王,士强,zh,male,NULL,NULL,NULL,NULL,1979,,,,,,,http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549,,He interviewed 芒克.,,2017-07-12,OS,2018-02-16,WH
 P0108,Xu,Xiao,en,female,unknown,NULL,NULL,NULL,1954,,,,PL0003,,,T00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don’t know yet if she has been rusticated.",2017-07-12,OS,2018-02-07,WH
 P0108,徐,晓,zh,female,unknown,NULL,NULL,NULL,1954,,,,PL0003,,,T00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don’t know yet if she has been rusticated.",2017-07-12,OS,2018-02-07,WH
 P0109,Shu,Ting,en,female,yes,1969,1972,unknown,1952,,Gong Peiyu,en,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2018-02-07,WH
