@@ -19,8 +19,8 @@ P0009,Bei,Dao,en,male,no,NULL,NULL,NULL,1949,,Zhao Zhenkai,en,PL0002,,Yes,SS0001
 P0009,北,岛,zh,male,no,NULL,NULL,NULL,1949,,赵振开,zh,PL0002,,Yes,SS00011,78 80,SS00115,188,,Third source: https://baike.baidu.com/item/%E5%8C%97%E5%B2%9B/372#reference-[7]-4995327-wrap,2017-07-05,LH,2018-01-25,WH
 P0010,Duo,Duo,en,male,yes,1969,unknown,PL0022,1951,,Li Shizheng,en,PL0002,,,SS00011,75-77,SS00115,188,,,2017-07-05,LH,2018-01-25,WH
 P0010,多,多,zh,male,yes,1969,unknown,PL0022,1951,,栗世征,zh,PL0002,,,SS00011,75-77,SS00115,188,,,2017-07-05,LH,2018-01-25,WH
-P0011,Xu,Haoyuan,en,female,yes,1968,unknown,PL0135,1949,,,,PL0139,,,SS00011,76f 80,SS00115,190,,,2017-07-05,LH,2018-01-25,WH
-P0011,徐,浩渊,zh,female,yes,1968,unknown,PL0135,1949,,,,PL0139,,,SS00011,76f 80,SS00115,190,,,2017-07-05,LH,2018-01-25,WH
+P0011,Xu,Haoyuan,en,female,yes,1968,unknown,PL0135,1949,,,,PL0139,,,SS00011,76f 80,SS00115,190,,Third source: SS00238 (Place of Rustication: PL0022?),2017-07-05,LH,2018-02-27,MG
+P0011,徐,浩渊,zh,female,yes,1968,unknown,PL0135,1949,,,,PL0139,,,SS00011,76f 80,SS00115,190,,Third source: SS00238 (Place of Rustication: PL0022?),2017-07-05,LH,2018-02-27,MG
 P0012,Genzi,,en,male,yes,1969,1972,PL0022,1951,,Yue Chong,en,PL0002,S03,yes,SS00011,75 80,SS00114,196,,,2017-07-05,LH,2018-01-16,OS
 P0012,根子,,zh,male,yes,1969,1972,PL0022,1951,,岳重,zh,PL0002,S03,yes,SS00011,75 80,SS00114,196,,,2017-07-05,LH,2018-01-16,OS
 P0013,Ma,Desheng,en,male,unknown,NULL,NULL,NULL,1952,,,,PL0002,,,SS00115,191,,,,,2017-07-05,LH,2018-02-07,WH
@@ -374,8 +374,8 @@ P0205,Tu,Xiaolei,en,male,unknown,NULL,NULL,NULL,1948,,NULL,NULL,PL0112,,,SS00116
 P0205,涂,晓雷,zh,male,unknown,NULL,NULL,NULL,1948,,NULL,NULL,PL0112,,,SS00116,ONLINE SOURCE,http://www.wengewang.org/read.php?tid=12318,,He was a member from anti revolution Lin Biao-Jiang Qing group.,,2018-01-04,MG,2018-02-06,WH
 P0206,Deng,Wuwen,en,male,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
 P0206,邓,伍文,zh,male,yes,unknown,unknown,PL0056,1952,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
-P0207,Ma,Wenwei,en,unknown,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
-P0207,马,文蔚,zh,unknown,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
+P0207,Ma,Wenwei,en,unknown,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,SS00245,ONLINE SOURCE,,,2018-01-04,MG,2018-02-27,MG
+P0207,马,文蔚,zh,unknown,yes,unknown,unknown,PL0111,1940,,NULL,NULL,unknown,,,SS00145,ONLINE SOURCE,SS00245,ONLINE SOURCE,,,2018-01-04,MG,2018-02-27,MG
 P0208,Rao,Ruinong,en,unknown,no,NULL,NULL,NULL,1944,,NULL,NULL,unknown,,,SS00146,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
 P0208,饶,瑞农,zh,unknown,no,NULL,NULL,NULL,1944,,NULL,NULL,unknown,,,SS00146,ONLINE SOURCE,,,,,2018-01-04,MG,2018-02-06,WH
 P0209,Liao,Zhenlü,en,unknown,no,NULL,NULL,NULL,1935,,NULL,NULL,unknown,,,SS00147,ONLINE SOURCE,http://www.difangwenge.org/read.php?tid=5185,ONLINE SOURCE,,,2018-01-04,MG,2018-02-06,WH
