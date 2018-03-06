@@ -533,8 +533,8 @@ P0273,Gu,Yunpu,en,male,,,,,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.
 P0273,顾,蕴璞,zh ,male,,,,,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0274,Kang,Zhengguo,en,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
 P0274,康,正果,zh ,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
-P0275,Li,Daoyuan,en,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
-P0275,郦,道元,zh,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
+P0275,Li,Daoyuan,en,male,NULL,NULL,NULL,NULL,0466..0472,527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
+P0275,郦,道元,zh,male,NULL,NULL,NULL,NULL,0466..0472,527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0276,Zhao ,Yuesheng,en,male,no,NULL,NULL,NULL,1955~,,,,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0276,赵 ,越胜,zh,male,no,NULL,NULL,NULL,1955~,,,,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0277,Tang,Ke,en,male,,,,,,,,,,,,SS00209,279ff.,,,,,2018-02-27,OS,2018-02-27,OS
@@ -543,3 +543,9 @@ P0278,Li,Jiantong,en,male,NULL,NULL,NULL,NULL,1919,2005,Qiuxin,en,PL0184,NULL,NU
 P0278,李,建彤,zh,male,NULL,NULL,NULL,NULL,1919,2005,秋心 ,zh,PL0184,NULL,NULL,https://baike.baidu.com/item/%E6%9D%8E%E5%BB%BA%E5%BD%A4/9743407,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-28,OS
 P0279,Keats,John,en,male,NULL,NULL,NULL,NULL,1795,1821,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Keats,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
 P0279,济慈,约翰,zh,male,NULL,NULL,NULL,NULL,1795,1821,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Keats,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
+P0280,Shen,Congwen,en,male,unknown,NULL,NULL,NULL,1902,1988,Shen Yuehuan,en,PL0185,,,https://en.wikipedia.org/wiki/Shen_Congwen,ONLINE SOURCE,,,,,2018-03-06,MG,2018-03-06,MG
+P0280,沈,从文,zh,male,unknown,NULL,NULL,NULL,1902,1988,沈岳煥 ,zh,PL0185,,,https://en.wikipedia.org/wiki/Shen_Congwen,ONLINE SOURCE,,,,,2018-03-06,MG,2018-03-06,MG
+P0281,Wu,Ningkun,en,male,yes,1968,1970,PL0187,1920,,NULL,NULL,PL0186,,,https://en.wikipedia.org/wiki/Wu_Ningkun,ONLINE SOURCE,SS00248,,,,2018-03-06,MG,2018-03-06,MG
+P0281,巫,宁坤 ,zh,male,yes,1968,1970,PL0187,1920,,NULL,NULL,PL0186,,,https://en.wikipedia.org/wiki/Wu_Ningkun,ONLINE SOURCE,SS00248,,,,2018-03-06,MG,2018-03-06,MG
+P0282,Li,Yikai,en,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0018,,,,,SS00248,,,,2018-03-06,MG,2018-03-06,MG
+P0282,李,怡楷 ,zh,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0018,,,,,SS00248,,,,2018-03-06,MG,2018-03-06,MG
