@@ -135,7 +135,7 @@ Genre,genre_id,G and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-0
 Genre,genre_name,genre name in English; if necessary use Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
 Genre,genre_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
 Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),http://id.loc.gov/authorities/genreForms.htmlv,2017-07-04,LH,2018-02-01,DP
-Genre,source_link,link to Library of Congress Subject Headings,http://id.loc.gov/authorities/subjects.html,2018-03-02,MG,2018-03-02,MG
+Genre,source_link,External hierarchy linked to Library of Congress Subject Headings,http://id.loc.gov/authorities/genreForms.html or ttp://id.loc.gov/authorities/subjects.html,2018-03-02,MG,2018-03-08,MG
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Genre,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Genre,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -201,7 +201,7 @@ Act,end,Year in EDTF when act ends; instintaneous acts have equal start and end 
 Act,substantial_discussion,substantial comment or quotation from source; 'unknown' in case we don‘t know,,2017-07-04,LH,2018-02-01,DP
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
-Act,source_status,Genre_type of the source. '01' for academic writing / '02' for life-writing / '03' for fiction,,2018-01-31,MG,2018-02-01,DP
+Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
