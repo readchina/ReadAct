@@ -533,8 +533,8 @@ P0273,Gu,Yunpu,en,male,,,,,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.
 P0273,顾,蕴璞,zh ,male,,,,,1931,,NULL,NULL,PL0181,NULL,NULL,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0274,Kang,Zhengguo,en,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
 P0274,康,正果,zh ,male,yes,1967,,,1944,,NULL,NULL,PL0182,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,not in a real zhiqing. He was sentenced to 3 years of laogai in 1964 and used to live on the countryside close to Xi'an  from 1967 onwards for a longer time.,,2018-02-27,OS,2018-02-27,OS
-P0275,Li,Daoyuan,en,male,NULL,NULL,NULL,NULL,0466..0472,527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
-P0275,郦,道元,zh,male,NULL,NULL,NULL,NULL,0466..0472,527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
+P0275,Li,Daoyuan,en,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
+P0275,郦,道元,zh,male,NULL,NULL,NULL,NULL,0466..0472,0527,NULL,NULL,PL0183,NULL,NULL,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0276,Zhao ,Yuesheng,en,male,no,NULL,NULL,NULL,1955~,,,,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0276,赵 ,越胜,zh,male,no,NULL,NULL,NULL,1955~,,,,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-27,OS
 P0277,Tang,Ke,en,male,,,,,,,,,,,,SS00209,279ff.,,,,,2018-02-27,OS,2018-02-27,OS
@@ -549,3 +549,7 @@ P0281,Wu,Ningkun,en,male,yes,1968,1970,PL0187,1920,,NULL,NULL,PL0186,,,https://e
 P0281,巫,宁坤 ,zh,male,yes,1968,1970,PL0187,1920,,NULL,NULL,PL0186,,,https://en.wikipedia.org/wiki/Wu_Ningkun,ONLINE SOURCE,SS00248,,,,2018-03-06,MG,2018-03-06,MG
 P0282,Li,Yikai,en,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0018,,,,,SS00248,,,,2018-03-06,MG,2018-03-06,MG
 P0282,李,怡楷 ,zh,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0018,,,,,SS00248,,,,2018-03-06,MG,2018-03-06,MG
+P0283,Deng,Muhang,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,,,,SS00248,103,,,,,2018-03-09,MG,2018-03-09,MG
+P0284,Chen,Yu,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,,S08,,SS00248,239,,,,,2018-03-09,MG,2018-03-09,MG
+P0285,Fast,Howard,en,male,NULL,NULL,NULL,NULL,1914,2003,E. V. Cunningham,en,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Howard_Fast,ONLINE SOURCE,,,,,2018-03-09,MG,2018-03-09,MG
+P0285,法斯特,霍华德,zh,male,NULL,NULL,NULL,NNU,1914,2003,E. V. Cunningham,en,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Howard_Fast,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-12,MG
