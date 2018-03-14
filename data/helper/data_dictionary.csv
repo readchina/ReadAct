@@ -120,7 +120,7 @@ SecondarySource,created_by,acronym of project member creating this line,,2018-02
 SecondarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
-Quotation,quotation_id,Q and a four-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+Quotation,quotation_id,Q and a four-digit number (leading zeros),http://id.loc.gov/authorities/genreForms/gf2014026159.html,2018-02-09,OS,2018-03-14,MG
 Quotation,quotation,quotation in full,,2018-02-09,OS,2018-02-09,OS
 Quotation,source_id,source of a quotation,,2018-02-09,OS,2018-02-09,OS
 Quotation,page number,page number of the quote in the cited edition,,2018-02-09,OS,2018-02-09,OS

@@ -543,3 +543,35 @@ P0278,Li,Jiantong,en,male,NULL,NULL,NULL,NULL,1919,2005,Qiuxin,en,PL0184,NULL,NU
 P0278,李,建彤,zh,male,NULL,NULL,NULL,NULL,1919,2005,秋心 ,zh,PL0184,NULL,NULL,https://baike.baidu.com/item/%E6%9D%8E%E5%BB%BA%E5%BD%A4/9743407,ONLINE SOURCE,,,,,2018-02-27,OS,2018-02-28,OS
 P0279,Keats,John,en,male,NULL,NULL,NULL,NULL,1795,1821,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Keats,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
 P0279,济慈,约翰,zh,male,NULL,NULL,NULL,NULL,1795,1821,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Keats,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
+P0280,Shen,Congwen,en,male,unknown,NULL,NULL,NULL,1902,1988,Shen Yuehuan,en,PL0199,,,https://en.wikipedia.org/wiki/Shen_Congwen,ONLINE SOURCE,,,,,2018-03-06,MG,2018-03-14,MG
+P0280,沈,从文,zh,male,unknown,NULL,NULL,NULL,1902,1988,沈岳煥 ,zh,PL0199,,,https://en.wikipedia.org/wiki/Shen_Congwen,ONLINE SOURCE,,,,,2018-03-06,MG,2018-03-14,MG
+P0281,Wu,Ningkun,en,male,yes,1968,1970,PL0201,1920,,NULL,NULL,PL0200,,,https://en.wikipedia.org/wiki/Wu_Ningkun,ONLINE SOURCE,SS00248,,,,2018-03-06,MG,2018-03-14,MG
+P0281,巫,宁坤 ,zh,male,yes,1968,1970,PL0201,1920,,NULL,NULL,PL0200,,,https://en.wikipedia.org/wiki/Wu_Ningkun,ONLINE SOURCE,SS00248,,,,2018-03-06,MG,2018-03-14,MG
+P0282,Li,Yikai,en,female,yes,1969,1970,PL0205,,,NULL,NULL,PL0018,,,,,SS00248,270,,,2018-03-06,MG,2018-03-14,MG
+P0282,李,怡楷 ,zh,female,yes,1969,1970,PL0205,,,NULL,NULL,PL0018,,,,,SS00248,270,,,2018-03-06,MG,2018-03-14,MG
+P0283,Deng,Muhang,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,unknown,,,SS00248,103,,,,,2018-03-09,MG,2018-03-14,MG
+P0284,Chen,Yu,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,unknown,S08,,SS00248,239,,,,,2018-03-09,MG,2018-03-14,MG
+P0285,Fast,Howard,en,male,NULL,NULL,NULL,NULL,1914,2003,E. V. Cunningham,en,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Howard_Fast,ONLINE SOURCE,,,,,2018-03-09,MG,2018-03-09,MG
+P0285,法斯特,霍华德,zh,male,NULL,NULL,NULL,NULL,1914,2003,E. V. Cunningham,en,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Howard_Fast,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-12,MG
+P0286,Shi,Nai‘an,en,male,NULL,NULL,NULL,NULL,1296,1372,NULL,NULL,PL0082,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%96%BD%E8%80%90%E5%BA%B5,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-14,MG
+P0286,施,耐庵,zh,male,NULL,NULL,NULL,NULL,1296,1372,NULL,NULL,PL0082,NULL,NULL,https://en.wikipedia.org/wiki/Shi_Nai%27an,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-14,MG
+P0287,More,Thomas,en,male,NULL,NULL,NULL,NULL,1478,1535,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Thomas_More,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-12,MG
+P0287,莫尔,托马斯,zh,male,NULL,NULL,NULL,NULL,1478,1535,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Thomas_More,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-12,MG
+P0288,Beyle,Marie-Henri,fr,male,NULL,NULL,NULL,NULL,1783,1842,Stendhal,fr,PL0203,NULL,NULL,https://en.wikipedia.org/wiki/Stendhal,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-14,MG
+P0288,贝尔,马利 亨利,zh,male,NULL,NULL,NULL,NULL,1783,1842,司汤达,zh,PL0203,NULL,NULL,https://en.wikipedia.org/wiki/Stendhal,ONLINE SOURCE,,,,,2018-03-12,MG,2018-03-14,MG
+P0289,Li,Shiyu,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0018,NULL,unknown,SS00248,205,,,he was an expert on Chinese folk religions,,2018-03-12,MG,2018-03-12,MG
+P0290,Wu,Cheng‘en,en,male,NULL,NULL,NULL,NULL,1506,1582,Ruzhong,en,PL0204,NULL,NULL,https://en.wikipedia.org/wiki/Wu_Cheng%27en,ONLINE SOURCE,,,,,2018-03-13,MG,2018-03-14,MG
+P0290,吴,承恩,zh,male,NULL,NULL,NULL,NULL,1506,1582,汝忠,zh,PL0204,NULL,NULL,https://en.wikipedia.org/wiki/Wu_Cheng%27en,ONLINE SOURCE,,,,,2018-03-13,MG,2018-03-14,MG
+P0291,Wu,Yiding,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,,unknown,SS00248,246f,,,,,2018-03-13,MG,2018-03-14,MG
+P0292,,Yian,en,female,unknown,NULL,NULL,NULL,1958?,,NULL,NULL,unknown,,unknown,SS00248,326,SS00248,76,,,2018-03-13,MG,2018-03-14,MG
+P0293,Mao,,en,male,yes,1968?,1970?,PL0187,unknown,unknown,NULL,NULL,unknown,,unknown,SS00248,239,,,Professor,,2018-03-13,MG,2018-03-13,MG
+P0294,Gardner,Helen,en,female,NULL,NULL,NULL,NULL,1878,1946,NULL,NULL,PL0206,NULL,NULL,https://en.wikipedia.org/wiki/Helen_Gardner_(art_historian),,,,,,2018-03-13,MG,2018-03-14,MG
+P0294,加德纳,海伦,zh,female,NULL,NULL,NULL,NULL,1878,1946,NULL,NULL,PL0206,NULL,NULL,https://en.wikipedia.org/wiki/Helen_Gardner_(art_historian),,,,,,2018-03-13,MG,2018-03-14,MG
+P0295,Allan,Ted,en,male,NULL,NULL,NULL,NULL,1916,1995,Ted Herman,en,PL0176,NULL,NULL,https://en.wikipedia.org/wiki/Ted_Allan,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0295,阿兰,泰德,zh,male,NULL,NULL,NULL,NULL,1916,1995,NULL,NULL,PL0176,NULL,NULL,https://en.wikipedia.org/wiki/Ted_Allan,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0296,Luo,Guanzhong,en,male,NULL,NULL,NULL,NULL,1320,1400,Huhai Sanren,en,PL0046,NULL,NULL,https://en.wikipedia.org/wiki/Luo_Guanzhong,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0296,罗,贯中,zh,male,NULL,NULL,NULL,NULL,1320,1400,湖海散人,zh,PL0046,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%BD%97%E8%B4%AF%E4%B8%AD,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0297,A Kempis,Thomas,en,male,NULL,NULL,NULL,NULL,1380,1471,NULL,NULL,PL0207,NULL,NULL,https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0297,肯皮斯,托马斯,zh,male,NULL,NULL,NULL,NULL,1380,1471,NULL,NULL,PL0207,NULL,NULL,https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0298,Gibbon,Edward,en,male,NULL,NULL,NULL,NULL,1737,1794,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Gibbon,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
+P0298,吉本,爱德华,zh,male,NULL,NULL,NULL,NULL,1737,1794,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Gibbon,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
