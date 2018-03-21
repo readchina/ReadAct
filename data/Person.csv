@@ -575,7 +575,18 @@ P0297,A Kempis,Thomas,en,male,NULL,NULL,NULL,NULL,1380,1471,NULL,NULL,PL0207,NUL
 P0297,肯皮斯,托马斯,zh,male,NULL,NULL,NULL,NULL,1380,1471,NULL,NULL,PL0207,NULL,NULL,https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
 P0298,Gibbon,Edward,en,male,NULL,NULL,NULL,NULL,1737,1794,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Gibbon,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
 P0298,吉本,爱德华,zh,male,NULL,NULL,NULL,NULL,1737,1794,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Edward_Gibbon,ONLINE SOURCE,,,,,2018-03-14,MG,2018-03-14,MG
-P0320,Mu,Aiping,en,female,yes,1968?,[1969..1970],unknown,1951,,NULL,NULL,PL0002,unknown,unknown,SS00268,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,,2018-03-17,MG,2018-03-17,MG
-P0320,,,zh,female,yes,1968?,[1969..1970],unknown,1951,,NULL,NULL,PL0002,unknown,unknown,SS00268,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,,2018-03-17,MG,2018-03-17,MG
+P0320,Mu,Aiping,en,female,yes,1968,1969,PL0227,1951,,NULL,NULL,PL0002,unknown,unknown,SS00268,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,,2018-03-17,MG,2018-03-21,MG
+P0320,慕,,zh,female,yes,1968,1969,PL0227,1951,,NULL,NULL,PL0002,unknown,unknown,SS00268,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,,2018-03-17,MG,2018-03-21,MG
 P0321,Brontë,Emily,en,female,NULL,NULL,NULL,NULL,1818,1848,Ellis Bell,en,PL0071,NULL,NULL,https://en.wikipedia.org/wiki/Emily_Bront%C3%AB,ONLINE SOURCE,,,,,2018-03-17,MG,2018-03-17,MG
 P0321,勃朗特,艾米莉,zh,female,NULL,NULL,NULL,NULL,1818,1848,NULL,NULL,PL0071,NULL,NULL,https://en.wikipedia.org/wiki/Emily_Bront%C3%AB,ONLINE SOURCE,,,,,2018-03-17,MG,2018-03-17,MG
+P0322,Mu,Xiang,en,male,no,NULL,NULL,NULL,1916,1988,NULL,NULL,PL0228,,,https://baike.baidu.com/item/%E6%85%95%E6%B9%98,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0322,慕 ,湘,zh,male,no,NULL,NULL,NULL,1916,1988,NULL,NULL,PL0228,,,https://baike.baidu.com/item/%E6%85%95%E6%B9%98,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0323,Tolstoy,Lev Nikolayevich,en,male,NULL,NULL,NULL,NULL,1828,1910,Leo Tolstoy,en,PL0229,NULL,NULL,https://en.wikipedia.org/wiki/Leo_Tolstoy,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0323,托尔斯泰,列夫 尼古拉耶维奇,zh,male,NULL,NULL,NULL,NULL,1828,1910,NULL,NULL,PL0229,NULL,NULL,https://en.wikipedia.org/wiki/Leo_Tolstoy,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0323,Толстой,Лев Николаевич,ru,male,NULL,NULL,NULL,NULL,1828,1910,NULL,NULL,PL0229,NULL,NULL,https://en.wikipedia.org/wiki/Leo_Tolstoy,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0324,Pushkin,Alexander Sergeyevich,en,male,NULL,NULL,NULL,NULL,1799,1837,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Pushkin,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0324,Пу́шкин,Алекса́ндр Серге́евич,ru,male,NULL,NULL,NULL,NULL,1799,1837,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Pushkin,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0324,普希金,亚历山大 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1799,1837,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Pushkin,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0325,Gogol,Nikolai Wassiljewitsch,en,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0325,Го́голь,Никола́й Васи́льевич,ru,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0325,果戈里,尼古拉 瓦西里耶维奇,zh,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
