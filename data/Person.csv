@@ -590,3 +590,9 @@ P0324,普希金,亚历山大 谢尔盖耶维奇,zh,male,NULL,NULL,NULL,NULL,1799
 P0325,Gogol,Nikolai Wassiljewitsch,en,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
 P0325,Го́голь,Никола́й Васи́льевич,ru,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
 P0325,果戈里,尼古拉 瓦西里耶维奇,zh,male,NULL,NULL,NULL,NULL,1809,1852,NULL,NULL,PL0230,NULL,NULL,https://de.wikipedia.org/wiki/Nikolai_Wassiljewitsch_Gogol,ONLINE SOURCE,,,,,2018-03-21,MG,2018-03-21,MG
+P0326,Tchaikovsky,Pyotr Ilyich,en,male,NULL,NULL,NULL,NULL,1840,1893,NULL,NULL,PL0231,NULL,NULL,https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
+P0326,Чайко́вский,Пётр Ильи́ч,ru,male,NULL,NULL,NULL,NULL,1840,1893,NULL,NULL,PL0231,NULL,NULL,https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
+P0326,柴可夫斯基,彼得 伊里奇,zh,male,NULL,NULL,NULL,NULL,1840,1893,NULL,NULL,PL0231,NULL,NULL,https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
+P0327,He,Zhanhao,en,male,unknown,NULL,NULL,NULL,1933,,NULL,NULL,PL0232,NULL,NULL,https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8D%A0%E8%B1%AA,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
+P0327,何,占豪,zh,male,unknown,NULL,NULL,NULL,1933,,NULL,NULL,PL0232,NULL,NULL,https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8D%A0%E8%B1%AA,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
+P0328,Mu,Feng-an,en,male,unknown,NULL,NULL,NULL,1950,,NULL,NULL,PL0002,NULL,NULL,SS00268,454,,,,,2018-03-23,MG,2018-03-23,MG

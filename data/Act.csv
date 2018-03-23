@@ -65,12 +65,12 @@ A00061,P0029,AT01,PS00077,,19XX,19XX,He read it before his university studies an
 A00062,P0154,AT01,PS00077,,19XX,19XX,He wanted the book so badly and it was really hard to have one. But he finally got one from the brother of one of his classmates and read it secretly.,SS00160,390,,,2017-09-22,MG,2018-01-22,MG
 A00063,P0003,AT01,PS00077,,1964,196X,unknown,SS00112,46,,,2017-09-22,MG,2018-01-22,MG
 A00064,P0058,AT01,PS00078,,1966,1967~,after reading Li Dazhao and other foreign and Chinese classics he still found Lu Xun the best,SS00027,ONLINE SOURCE,,,2017-09-24,CW,2018-01-22,MG
-A00065,P0003,AT15,PS00079,,1961,196X,unknown,SS00045,32,,,2017-09-27,MG,2018-01-30,MG
-A00066,P0068,AT15,PS00079,,1961,196X,unknown,SS00045,32,,,2017-09-27,MG,2018-01-30,MG
-A00067,P0003,AT15,PS00080,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-01-30,MG
-A00068,P0068,AT15,PS00080,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-01-30,MG
-A00069,P0003,AT15,PS00081,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-01-30,MG
-A00070,P0068,AT15,PS00081,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-01-30,MG
+A00065,P0003,AT15,AW00079,,1961,196X,unknown,SS00045,32,,,2017-09-27,MG,2018-03-23,MG
+A00066,P0068,AT15,AW00079,,1961,196X,unknown,SS00045,32,,,2017-09-27,MG,2018-03-23,MG
+A00067,P0003,AT15,AW00080,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-03-23,MG
+A00068,P0068,AT15,AW00080,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-03-23,MG
+A00069,P0003,AT15,AW00081,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-03-23,MG
+A00070,P0068,AT15,AW00081,,1961,196X,unknown,SS00045,38,,,2017-09-27,MG,2018-03-23,MG
 A00071,P0132,AT11,PS00082,,1975,1979,The author published some translated chapters of Charlie Chaplin's autobiography on the magazine 'Foreign Films' which was founded by Huang Tianmin,SS00043,455,,maybe we should reconsider the act type for this entry,2017-09-27,MG,2018-01-22,MG
 A00072,P0109,AT01,PS00083,,1970,1975,story-telling context: in her spare time Shu Ting tells this in her own words,SS00014,304,,,2017-09-27,MG,2017-09-27,MG
 A00073,P0132,AT13,PS00084,P0167,1978,1978,Chen wrote this Poem for Mr. Yan Wenliang. The author first touched upon impressionism fine arts in Yan's home at which he was totally impressed.,SS00043,452,,,2017-09-29,MG,2017-11-08,MG
@@ -213,8 +213,8 @@ A00257,P0281,AT11,PS00261,,1957,19xx,Diversion; the story contrasted with the po
 A00258,P0289,AT12,PS00262,,1966,1966,a lifetime collection confiscated by the Red Guards,SS00248,205,2,,2018-03-12,MG,2018-03-12,MG
 A00259,P0291,AT17,PS00263,,1968,1970,Wu‘s son Yiding told stories from this novel to Wu and his friends,SS00248,246f,2,,2018-03-13,MG,2018-03-13,MG
 A00260,P0282,AT22,Q0006,,1969,1970,reminds this quotation while meeting a tortured teacher,SS00248,284f,2,,2018-03-13,MG,2018-03-13,MG
-A00261,P0282,,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,2018-03-13,MG,2018-03-13,MG
-A00262,P0281,,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,2018-03-13,MG,2018-03-13,MG
+A00261,P0282,AT23,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,2018-03-13,MG,2018-03-23,MG
+A00262,P0281,AT23,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,2018-03-13,MG,2018-03-23,MG
 A00263,P0281,AT01,PS00264,,1970,1973,a textbook Wu had kept from Manchester college days. Showed it to the peasants in his neighbourhood. They ‚giggled and nudged‘ when they saw the nudes from the Sistine Chapel,SS00248,301,2,,2018-03-13,MG,2018-03-13,MG
 A00264,P0281,AT01,PS00265,,1973,1973,the family was touched to tears,SS00248,311f,2,,2018-03-13,MG,2018-03-13,MG
 A00265,P0282,AT01,PS00265,,1973,1973,the family was touched to tears,SS00248,311f,2,,2018-03-13,MG,2018-03-13,MG
@@ -226,11 +226,17 @@ A00270,P0292,AT01,PS00269,,1974,1974,,SS00248,326,2,,2018-03-13,MG,2018-03-13,MG
 A00271,P0281,AT11,PS00270,,19xx,19xx,his translation of this book was banned after his condemnation as rightist,SS00248,348,2,,2018-03-13,MG,2018-03-13,MG
 A00291,P0083,AT17,PS00290,,1968,1968,some pupils are reciting this poem while being sent to the lambor camp,SS00268,403,2,,2018-03-17,MG,2018-03-17,MG
 A00292,P0320,AT17,PS00292,,1968,1969,Wu was telling stories from the books she read at home. At the end of the story they were often in tears.,SS00268,424,2,,2018-03-17,MG,2018-03-17,MG
-A00293,P0320,A01,PS00293,,1970~,1970~,she learned about aspects of Victorian society such as the widespread poverty and the plight of orphans.,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
+A00293,P0320,AT01,PS00293,,1970~,1970~,she learned about aspects of Victorian society such as the widespread poverty and the plight of orphans.,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
 A00294,P0322,AT03,PS00293,P0320,1970~,1970~,under her father‘s supervision Mu Aiping started reading the familiy‘s collection of literature,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
 A00295,P0322,AT03,PS00294,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
-A00295,P0320,A01,PS00294,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
+A00295,P0320,AT01,PS00294,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
 A00296,P0322,AT03,PS00295,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
-A00296,P0320,A01,PS00295,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
+A00296,P0320,AT01,PS00295,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
 A00297,P0322,AT03,PS00296,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
-A00297,P0320,A01,PS00296,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-21,MG
+A00298,P0320,AT01,PS00296,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,,2018-03-21,MG,2018-03-23,MG
+A00299,P0320,AT01,PS00077,,1970~,1970~,she read it as a condensed history of feudal society in China,SS00268,452,2,,2018-03-23,MG,2018-03-23,MG
+A00300,P0320,AT23,AW00082,,1970~,1977?,Listened to the music of Swan Lake. Her brother had borrowed them (among others) from friends in Beijing,SS00268,454,2,,2018-03-23,MG,2018-03-23,MG
+A00301,P0320,AT23,AW00083,,1970~,1977?,her brother had borrowed them (among others) from friends in Beijing,SS00268,454,2,,2018-03-23,MG,2018-03-23,MG
+A00302,P0328,AT03,AW00082,P0320,1970~,1977?,her brother had borrowed them (among others) from friends in Beijing,SS00268,454,2,,2018-03-23,MG,2018-03-23,MG
+A00303,P0328,AT03,AW00083,P0320,1970~,1977?,her brother had borrowed them (among others) from friends in Beijing,SS00268,454,2,,2018-03-23,MG,2018-03-23,MG
+A00304,P0322,AT17,PS00297,,1966?,1977?,he liked to cite this novel while criticising financial disputes in other families,SS00268,641,2,,2018-03-23,MG,2018-03-23,MG
