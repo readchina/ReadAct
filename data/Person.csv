@@ -447,7 +447,7 @@ P0232,Димитров ,Георги ,bg,male,NULL,NULL,NULL,NULL,1882,1949,NULL
 P0232,季米特洛夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0233,Dostoyevsky,Fyodor ,en,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0233,Dostoyevsky,Fyodor ,ru,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
-P0233,Dostoyevsky,Fyodor ,zh,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0233,陀思妥耶夫斯基,费奥多尔,zh,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-03-28,WH
 P0234,Doyle,Arthur Conan,en,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0234,道尔 ,柯南,zh,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0235,Drabkina,Elizaveta ,en,female,NULL,NULL,NULL,NULL,1901,1974,NULL,NULL,PL0120,NULL,NULL,https://encyclopedia2.thefreedictionary.com/Elizaveta+Drabkina,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
@@ -579,3 +579,9 @@ P0299,Ding,Ling,en,female,NULL,NULL,NULL,NULL,1904,1986,Jiang Wei,en,PL0208,NULL
 P0299,丁,玲,zh,female,NULL,NULL,NULL,NULL,1904,1986,蒋伟,zh,PL0208,NULL,,https://zh.wikipedia.org/zh-hans/%E4%B8%81%E7%8E%B2,,,,,,2018-03-17,WH,2018-03-17,WH
 P0300,Dong,Xiwen,en,male,NULL,NULL,NULL,NULL,1914,1973,NULL,NULL,PL0045,NULL,,https://zh.wikipedia.org/wiki/%E8%91%A3%E5%B8%8C%E6%96%87,,,,,,2018-03-17,WH,2018-03-17,WH
 P0300,董,希文,zh,male,NULL,NULL,NULL,NULL,1914,1973,NULL,NULL,PL0045,NULL,,https://zh.wikipedia.org/wiki/%E8%91%A3%E5%B8%8C%E6%96%87,,,,,,2018-03-17,WH,2018-03-17,WH
+P0301,Dreiser,Theodore ,en,male,NULL,NULL,NULL,NULL,1871,1945,NULL,NULL,PL0209,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,,2018-03-28,WH,2018-03-28,WH
+P0301,德莱塞,西奥多,zh,male,NULL,NULL,NULL,NULL,1871,1956,NULL,NULL,PL0209,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,,2018-03-28,WH,2018-03-28,WH
+P0302,Du,Fu,en,male,NULL,NULL,NULL,NULL,0712,0770,,,PL0210,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,2018-03-28,WH,2018-03-28,WH
+P0302,杜,甫,zh,male,NULL,NULL,NULL,NULL,0712,0770,,,PL0210,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,2018-03-28,WH,2018-03-28,WH
+P0303,Du,Pengcheng,en,male,NULL,NULL,NULL,NULL,1922,1991,NULL,NULL,PL0211,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,,2018-03-28,WH,2018-03-28,WH
+P0303,杜,鹏程,zh,male,NULL,NULL,NULL,NULL,1922,1911,NULL,NULL,PL0211,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,,2018-03-28,WH,2018-03-28,WH
