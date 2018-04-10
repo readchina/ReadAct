@@ -82,7 +82,7 @@ ArtForm,created_by,acronym of project member creating this line,,2018-02-09,OS,2
 ArtForm,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
 ArtForm,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
-PrimarySource,prim_source_id,PS and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+PrimarySource,prim_source_id,PS and a five-digit number (leading zeros); PS09999 is structural entry for untitled/unknown works,,2017-07-04,LH,2018-04-10,MG
 PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters; b) title in original language,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,genre_id,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
@@ -202,6 +202,7 @@ Act,substantial_discussion,substantial comment or quotation from source; 'unknow
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
+Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘; ‘genre_id‘,,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
