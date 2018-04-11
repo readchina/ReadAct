@@ -446,8 +446,8 @@ P0232,Dimitrov,Georgi,en,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NUL
 P0232,Димитров ,Георги ,bg,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0232,季米特洛夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1882,1949,NULL,NULL,PL0122,NULL,NULL,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0233,Dostoyevsky,Fyodor ,en,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
-P0233,Dostoyevsky,Fyodor ,ru,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
-P0233,Dostoyevsky,Fyodor ,zh,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
+P0233,Достое́вский,Фёдор,ru,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-04-06,MG
+P0233,陀思妥耶夫斯基,費奧多爾,zh,male,NULL,NULL,NULL,NULL,1821,1881,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky,ONLINE Source,,,,,2018-02-05,OS,2018-04-06,MG
 P0234,Doyle,Arthur Conan,en,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0234,道尔 ,柯南,zh,male,NULL,NULL,NULL,NULL,1859,1930,NULL,NULL,PL0121,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
 P0235,Drabkina,Elizaveta ,en,female,NULL,NULL,NULL,NULL,1901,1974,NULL,NULL,PL0120,NULL,NULL,https://encyclopedia2.thefreedictionary.com/Elizaveta+Drabkina,ONLINE Source,,,,,2018-02-05,OS,2018-02-05,OS
@@ -596,3 +596,37 @@ P0326,柴可夫斯基,彼得 伊里奇,zh,male,NULL,NULL,NULL,NULL,1840,1893,NUL
 P0327,He,Zhanhao,en,male,unknown,NULL,NULL,NULL,1933,,NULL,NULL,PL0232,NULL,NULL,https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8D%A0%E8%B1%AA,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
 P0327,何,占豪,zh,male,unknown,NULL,NULL,NULL,1933,,NULL,NULL,PL0232,NULL,NULL,https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8D%A0%E8%B1%AA,ONLINE SOURCE,,,,,2018-03-23,MG,2018-03-23,MG
 P0328,Mu,Feng-an,en,male,unknown,NULL,NULL,NULL,1950,,NULL,NULL,PL0002,NULL,NULL,SS00268,454,,,,,2018-03-23,MG,2018-03-23,MG
+P0329,Zhu,Xiao Di,en,male,NULL,NULL,NULL,NULL,1958,,NULL,NULL,PL0090,NULL,unknown,SS00269,71f,https://en.wikipedia.org/wiki/Zhu_Xiao_Di,ONLINE SOURCE,,,2018-03-27,MG,2018-03-29,MG
+P0329,朱,小棣,zh,male,NULL,NULL,NULL,NULL,1958,,NULL,NULL,PL0090,NULL,unknown,SS00269,71f,https://en.wikipedia.org/wiki/Zhu_Xiao_Di,ONLINE SOURCE,,,2018-03-27,MG,2018-03-29,MG
+P0330,Snow,Edgar,en,male,NULL,NULL,NULL,NULL,1905,1972,NULL,NULL,PL0233,NULL,NULL,https://en.wikipedia.org/wiki/Edgar_Snow,ONLINE SOURCE,,,,,2018-03-27,MG,2018-03-29,MG
+P0330,斯诺,埃德加,zh,male,NULL,NULL,NULL,NULL,1905,1972,NULL,NULL,PL0233,NULL,NULL,https://en.wikipedia.org/wiki/Edgar_Snow,ONLINE SOURCE,,,,,2018-03-27,MG,2018-03-29,MG
+P0331,Reed,John,en,male,NULL,NULL,NULL,NULL,1887,1920,John Silas Reed,en,PL0234,NULL,NULL,https://en.wikipedia.org/wiki/John_Reed_(journalist),ONLINE SOURCE,,,,,2018-03-27,MG,2018-03-29,MG
+P0331,里德,約翰,zh,male,NULL,NULL,NULL,NULL,1887,1920,約翰 賽拉斯 里德,zh,PL0234,NULL,NULL,https://en.wikipedia.org/wiki/John_Reed_(journalist),ONLINE SOURCE,,,,,2018-03-27,MG,2018-03-29,MG
+P0332,Fadeyev,Alexander Alexandrovich,en,male,NULL,NULL,NULL,NULL,1901,1956,NULL,NULL,PL0235,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Fadeyev_(writer),ONLINE SOURCE,,,,,2018-03-27,MG,2018-03-29,MG
+P0332,法捷耶夫,亚历山大 亚历山大罗维奇,zh,male,NULL,NULL,NULL,NULL,1901,1956,NULL,NULL,PL0235,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Fadeyev_(writer),ONLINE SOURCE,,,,,2018-03-29,MG,2018-03-29,MG
+P0332,Фаде́ев,Алекса́ндр Алекса́ндрович,ru,male,NULL,NULL,NULL,NULL,1901,1956,NULL,NULL,PL0235,NULL,NULL,https://en.wikipedia.org/wiki/Alexander_Fadeyev_(writer),ONLINE SOURCE,,,,,2018-03-29,MG,2018-03-29,MG
+P0333,De Geyter,Pierre,fr,male,NULL,NULL,NULL,NULL,1848,1932,NULL,NULL,PL0236,NULL,NULL,https://en.wikipedia.org/wiki/Pierre_De_Geyter,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0333,狄盖特,皮埃尔,zh,male,NULL,NULL,NULL,NULL,1848,1932,NULL,NULL,PL0236,NULL,NULL,https://en.wikipedia.org/wiki/Pierre_De_Geyter,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0334,Zhu,Qiluan,en,male,no,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0239,NULL,NULL,SS00269,5,,,,,2018-04-03,MG,2018-04-03,MG
+P0334,朱,,zh,male,no,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0239,NULL,NULL,SS00269,5,,,,,2018-04-03,MG,2018-04-03,MG
+P0335,Frank,Anne,en,female,NULL,NULL,NULL,NULL,1929,1945,Anneliese Marie Frank,en,PL0240,NULL,NULL,https://en.wikipedia.org/wiki/Anne_Frank,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0335,弗蘭克,安妮,zh,female,NULL,NULL,NULL,NULL,1929,1945,NULL,NULL,PL0240,NULL,NULL,https://en.wikipedia.org/wiki/Anne_Frank,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0336,Yang,,en,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,unknown,SS00269,188,,,a woman writer and retired faculty member named Yang,,2018-04-03,MG,2018-04-03,MG
+P0337,Freud,Sigmund,en,male,NULL,NULL,NULL,NULL,1856,1939,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Sigmund_Freud,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0337,弗洛伊德,西格蒙德,zh,male,NULL,NULL,NULL,NULL,1856,1939,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Sigmund_Freud,ONLINE SOURCE,,,,,2018-04-03,MG,2018-04-03,MG
+P0338,Ellis,Havelock,en,male,NULL,NULL,NULL,NULL,1859,1939,Henry Havelock Ellis,en,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Havelock_Ellis,ONLINE SOURCE,,,,,2018-04-05,MG,2018-04-05,MG
+P0338,艾利斯,哈维洛克,zh,male,NULL,NULL,NULL,NULL,1859,1939,亨利 哈维洛 艾利斯,zh,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Havelock_Ellis,ONLINE SOURCE,,,,,2018-04-05,MG,2018-04-05,MG
+P0339,Shakespeare,William,en,male,NULL,NULL,NULL,NULL,1564,1616,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/William_Shakespeare,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0339,莎士比亚,威廉,zh,male,NULL,NULL,NULL,NULL,1564,1616,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/William_Shakespeare,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0340,Galsworthy,John,en,male,NULL,NULL,NULL,NULL,1864,1933,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/John_Galsworthy,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0340,高尔斯华绥,约翰,zh,male,NULL,NULL,NULL,NULL,1864,1933,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/John_Galsworthy,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0341,von Goethe,Johann Wolfgang,en,male,NULL,NULL,NULL,NULL,1749,1832,NULL,NULL,PL0240,NULL,NULL,https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0341,冯 歌德,约翰 沃尔夫冈,zh,male,NULL,NULL,NULL,NULL,1749,1832,NULL,NULL,PL0240,NULL,NULL,https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0342,Flaubert,Gustave,en,male,NULL,NULL,NULL,NULL,1821,1880,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Gustave_Flaubert,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0342,福樓拜,古斯塔夫,zh,male,NULL,NULL,NULL,NULL,1821,1880,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Gustave_Flaubert,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0343,de Maupassant,Guy,en,male,NULL,NULL,NULL,NULL,1850,1893,Henri René Albert Guy de Maupassant,fr,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Guy_de_Maupassant,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0343,德 莫泊桑,居伊,zh,male,NULL,NULL,NULL,NULL,1850,1893,亨利 侯內 亞伯特 居伊 德 莫泊桑,zh,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Guy_de_Maupassant,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0344,Chaucer,Geoffrey,en,male,NULL,NULL,NULL,NULL,1343,1400,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Geoffrey_Chaucer,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0344,乔叟,杰弗里,zh,male,NULL,NULL,NULL,NULL,1343,1400,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Geoffrey_Chaucer,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
+P0345,Zhu,,en,female,yes,1968~,unknown,PL0239,1948,,NULL,NULL,unknown,unknown,yes,SS00269,9,,,rusticated in the south of Anhui province,,2018-04-06,MG,2018-04-06,MG
+P0345,朱,,zh,female,yes,1968~,unknown,PL0239,1948,,NULL,NULL,unknown,unknown,yes,SS00269,9,,,rusticated in the south of Anhui province,,2018-04-06,MG,2018-04-06,MG
