@@ -225,12 +225,22 @@ A00269,P0292,AT01,PS00268,,1974,1978,,SS00248,326,2,,2018-03-13,MG,2018-03-13,MG
 A00270,P0292,AT01,PS00269,,1974,1974,,SS00248,326,2,,2018-03-13,MG,2018-03-13,MG
 A00271,P0281,AT11,PS00270,,19xx,19xx,his translation of this book was banned after his condemnation as rightist,SS00248,348,2,,2018-03-13,MG,2018-03-13,MG
 A00272,P0120,AT01,PS00271,,1944..,1944..,,SS00030,56,2,,2018-03-17,WH,2018-03-17,WH
-A00273,P0011,,AW00082,,1953..,1953..,,SS00030,56,2,,2018-03-17,WH,2018-03-17,WH
+A00273,P0011,AT05,AW00083,,1953..,1953..,She mentions this painting to recall her friend Dong Shabei.,SS00030,56,2,,2018-03-17,WH,2018-04-06,WH
 A00274,P0029,AT05,PS00200,,1964~,[1966..1970],Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118f,2,,2018-03-17,WH,2018-03-17,WH
-A00275,P0106,AT05,PS00201,,[1968..1974],[1968..1974],"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it.",SS00005,572,2,,2018-03-28,WH,2018-03-28,WH
+A00275,P0106,AT23,PS00201,,[1968..1974],[1968..1974],"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it.",SS00005,572,2,,2018-03-28,WH,2018-03-28,WH
 A00276,P0029,AT05,,,..1966,..1966,Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time. ,SS00029,116f,2,,2018-03-28,WH,2018-03-28,WH
 A00277,P0120,AT04,,,1944..,1944..,Du Fu stands in for his love of old poetry - he read/learned them when class struggle became more and more intensive.,SS00030,57,2,,2018-03-28,WH,2018-03-28,WH
 A00278,P0120,AT01,PS00272,,1944..,1944..,,SS00030,206,2,,2018-03-28,WH,2018-03-28,WH
 A00279,P0120,,PS00273,,1944..,1944..,,SS00030,13,2,,2018-03-28,WH,2018-03-28,WH
-A00280,P0238,,PS00203,,[1966..1976][1966..1976],,it was recounted completely by heart by a fellow zhiqing who has read it himself to Ye and others. ,SS00205,121,2,,2018-03-28,WH,2018-03-28,WH
-A00281,P0029,AT23,PS00203,,[1969..1971][1969..1971],,"Wu Hong told the stories every evening after the political studies session. He would sit on the bed and talk. One of the listeners would take the detailed notes, the next day Wu Hong would have told the same story in the other room. Wu Hong mentions this work under its full name 基督山恩仇记.",SS00029,122,2,,2018-03-28,WH,2018-03-28,WH
+A00280,P0238,AT23,PS00203,,[1966..1976],[1966..1976],it was recounted completely by heart by a fellow zhiqing who has read it himself to Ye and others. ,SS00205,121,2,,2018-03-28,WH,2018-04-06,WH
+A00281,P0029,AT17,PS00203,,[1969..1971],[1969..1971,"Wu Hong told the stories every evening after the political studies session. He would sit on the bed and talk. One of the listeners would take the detailed notes, the next day Wu Hong would have told the same story in the other room. Wu Hong mentions this work under its full name 基督山恩仇记.",SS00029,122,2,,2018-03-28,WH,2018-03-28,WH
+A00282,P0003,AT17,PS00203,,[1970..1974~],[1970..1974~],Zhang told the story of this Novel to those old red guards in the prison. ,SS00185,121,2,,2018-04-06,WH,2018-04-06,WH
+A00283,P0037,AT17,PS00203,,1964~,1972~,The author told the story of her family (actor and play directors) during the CR / He adapted Western stories and shared them with others in the rural area,SS00118,,2,,2018-04-06,WH,2018-04-06,WH
+A00284,P0106,AT23,PS00203,,[1968..1974],[1968..1974],"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it.",SS00007,572,2,,2018-04-06,WH,2018-04-06,WH
+A00285,P0120,,PS00274,,1952~,1952~,,SS00030,56,2,,2018-04-11,WH,2018-04-11,WH
+A00286,P0120,,PS00275,,1952~,1952~,,SS00030,56,2,,2018-04-11,WH,2018-04-11,WH
+A00287,P0237,AT24,PS00276,,1970,1970,"He went to the library, tried to borrow the book but didn't succeed.",SS00061,ONLINE SOURCE,2,,2018-04-11,WH,2018-04-11,WH
+A00288,P0003,AT17,AW00084,,1971..,1971..,He taught this song to other youth with Laoqi.,SS00185,142,2,,2018-04-11,WH,2018-04-11,WH
+A00289,P0003,AT17,AW00085,,1971..,1971..,"The author taught the other prisoners these songs, and he also wrote a Novel ""The Tale of A House 房子的故事"" during his stay in labor camp.",SS00185,144,2,,2018-04-11,WH,2018-04-11,WH
+A00290,P0132,AT05,,,[1975..1979],[1975..1979],"A new round of foreign culture swept China in the end of the 1970s, both from the classics and the modern ones.",SS00043,453,2,,2018-04-11,WH,2018-04-11,WH
+A00291,P0106,AT25,PS00180,,1972,1972,"The author introduced the categories of those internal published books. The year 1972 was overwhelming to those book lovers, for they sensed there seemed to be a chance of opening  up.",SS00005,581,2,,2018-04-11,WH,2018-04-11,WH
