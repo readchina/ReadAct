@@ -644,3 +644,10 @@ P0344,Chaucer,Geoffrey,en,male,NULL,NULL,NULL,NULL,1343,1400,NULL,NULL,PL0036,NU
 P0344,乔叟,杰弗里,zh,male,NULL,NULL,NULL,NULL,1343,1400,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Geoffrey_Chaucer,ONLINE SOURCE,,,,,2018-04-06,MG,2018-04-06,MG
 P0345,Zhu,,en,female,yes,1968~,unknown,PL0239,1948,,NULL,NULL,unknown,unknown,yes,SS00269,9,,,rusticated in the south of Anhui province,,2018-04-06,MG,2018-04-06,MG
 P0345,朱,,zh,female,yes,1968~,unknown,PL0239,1948,,NULL,NULL,unknown,unknown,yes,SS00269,9,,,rusticated in the south of Anhui province,,2018-04-06,MG,2018-04-06,MG
+P0346,Tagore,Rabindranath,en,male,NULL,NULL,NULL,NULL,1861,1941,Bhānusiṃha,en,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0346,ঠাকুর,রবীন্দ্রনাথ,bn,male,NULL,NULL,NULL,NULL,1861,1941,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0346,泰戈尔,罗宾德拉纳特,zh,male,NULL,NULL,NULL,NULL,1861,1941,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0347,Toynbee,Arnold Joseph,en,male,NULL,NULL,NULL,NULL,1889,1975,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Arnold_J._Toynbee,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0347,汤因比,阿诺尔德,zh,male,NULL,NULL,NULL,NULL,1889,1975,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Arnold_J._Toynbee,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0348,Zhu,Zhenglin,en,male,unknown,NULL,NULL,NULL,1947,,NULL,NULL,,NULL,NULL,https://baike.baidu.com/item/%E6%9C%B1%E6%AD%A3%E7%90%B3,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
+P0348,朱,正琳,zh,male,unknown,NULL,NULL,NULL,1947,,NULL,NULL,,NULL,NULL,https://baike.baidu.com/item/%E6%9C%B1%E6%AD%A3%E7%90%B3,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
