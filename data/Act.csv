@@ -76,7 +76,7 @@ A00072,P0109,AT01,PS00083,,1970,1975,story-telling context: in her spare time Sh
 A00073,P0132,AT13,PS00084,P0167,1978,1978,Chen wrote this Poem for Mr. Yan Wenliang. The author first touched upon impressionism fine arts in Yan's home at which he was totally impressed.,SS00043,452,,,,2017-09-29,MG,2017-11-08,MG
 A00074,P0020,AT04,PS00085,,1970,1975,Rakhmetov the novel's protagonist - as well as other idealistic heroes and pioneers of communist revolution - glistened his heart and mind. At the same time Gao Hua was on the one hand torn between Tsarist Russia's occupation of China and Stalin's hegemony toward China and on the other hand 'real socialism' and 'Sino-Russian friendly relationships'.,SS00006,134,,,,2017-09-29,MG,2017-10-02,DP
 A00075,P0120,AT01,Q0002,,19XX,19XX,Zhang found it in his uncle's notebook,SS00030,52,,,This quotation also appears verbatim in Zhang 1979: 186. Does 'Zhang 1979' equate to 'The Second Handshake'?,2017-10-09,MG,2018-02-11,OS
-A00076,P0031,AT12,PS00104,,1969,1969,brought from outside into the prison and confiscated while sent into the prison,SS00109,ONLINE SOURCE,,,,2017-10-09,MG,2017-12-17,MG
+A00076,P0031,AT12,AW00090,,1969,1969,brought from outside into the prison and confiscated while sent into the prison,SS00109,ONLINE SOURCE,,,,2017-10-09,MG,2017-04-25,MG
 A00077,P0029,AT01,PS00106,,1964,1966,Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118f,,,,2017-10-09,MG,2017-10-09,MG
 A00078,P0130,AT13,G15,,1967,1968,"Xu Chenggang wrote many letters to his former classmates at 清华附中 to discuss political theories revolving around Social theories, as he was influenced by Djilas' The New Class and thought about a lot about an economical and political model, which would suit China. ",SS00149,422,,,,2018-01-09,OS,2018-01-09,OS
 A00079,P0999,AT14,PS00059,,1969,1969,The book was destroyed before the 1969 9th National Congress as the translator's home got raided and hundreds pages of translation became cigarette paper and were burned.,SS00061,ONLINE SOURCE,,,,2017-11-07,CW,2017-11-07,CW
@@ -178,7 +178,7 @@ A00222,P0106,AT12,PS09999,,1967~,1967~,Among those books taken away by the Red G
 A00223,P0037,AT17,PS00236,P0999,1972~,1972~,Huang told Les Miserables off the top of his head to fellow Zhiqing or co-workers/ farmers. He turned these stories into Chinese ones to arouse no suspicions,SS00118,ONLINE SOURCE,2,,,2018-02-15,OS,2018-02-15,OS
 A00224,P0109,AT17,PS00236,P0999,1972,1972,Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen. She turned a simple vocabulary and adjusted the story a bit. ,SS00014,304,2,,,2018-02-15,OS,2018-02-15,OS
 A00225,P0010,AT05,PS00208,,1970,1970,Duo Duo states that in the spring of 1970 Ionesco's book was one of the most popular ones among the Beijing youth,SS00114,195,2,,,2018-02-15,OS,2018-02-15,OS
-A00226,P0144,AT05,PS00262,,1966,1976,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-'misty' poets,SS00011,78,2,,,2018-02-15,OS,2018-02-15,OS
+A00226,P0144,AT05,PS09999,,1966,1976,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-'misty' poets,SS00011,78,2,unknown work by: P0083; G28,a collection of thousands of rare manuscript sutras,2018-02-15,OS,2018-04-26,MG
 A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time; so it could be 济慈诗选 from 1958,SS00014,301,2,unknown work by: P027; G10,,2018-02-16,OS,2018-04-10,MG
 A00228,P0139,AT05,PS00023,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,9,,,,2018-02-16,OS,2018-02-16,OS
 A00229,P0011,AT03,PS00023,P0010,1970~,1970~,Xu Haoyuan gave that book to Peng Gang,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
@@ -187,11 +187,11 @@ A00231,P0010,AT01,PS00023,,1970~,1970~,Peng Gang read On the Road,SS00115,190,2,
 A00232,P0010,AT01,PS00121,,1970~,1970~,Peng Gang read Catcher in the Rye,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
 A00233,P0144,AT05,PS00023,,1966,1976,According to Wang Shiqiang's research this piece was one of the most influential yellow-covered books for the generation of pre-'misty' poets,SS00011,78,,,,2018-02-16,OS,2018-02-16,OS
 A00234,P0020,AT01,PS00239,,1970..1975,1970..1975,"Gao Hua read this book during the ""early or middle period"" of the 1970s",SS00006,136,2,,,2018-02-16,OS,2018-02-16,OS
-A00235,P0139,AT05,PS00240,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,8,,,,2018-02-16,OS,2018-02-16,OS
-A00236,P0180,AT05,PS00240,,1966,1976,Song Yongyi mentions it as one of the most important grey-covered books during the CR,SS00108,327,,,,2018-02-16,OS,2018-02-16,OS
+A00235,P0139,AT05,PS00102,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,8,,,,2018-02-16,OS,2018-04-25,MG
+A00236,P0180,AT05,PS00102,,1966,1976,Song Yongyi mentions it as one of the most important grey-covered books during the CR,SS00108,327,,,,2018-02-16,OS,2018-04-25,MG
 A00237,P0266,AT01,PS00242,,1972,1972,she took a look at it in the reading room of Beida. The collection appeared on the book shelves just one day before North Korean exchange students arrived at Beida,SS00210,67,2,,,2018-02-16,OS,2018-02-16,OS
 A00238,P0266,AT05,PS00243,,1972,1972,"was among the very few works in July 1972, which could be obtained at Xinhua bookstore",SS00210,42,2,,,2018-02-16,OS,2018-02-16,OS
-A00239,P0139,AT05,PS00240,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,10,,,,2018-02-19,OS,2018-02-19,OS
+A00239,P0139,AT05,PS00102,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,10,,,,2018-02-19,OS,2018-04-25,MG
 A00240,P0020,AT01,PS00247,,1970..1975,1970..1975,Among several other Soviet works Gao Hua also read this one by a Soviet defector which was printed before the founding of the PRC,SS00006,136,2,,,2018-02-19,OS,2018-02-19,OS
 A00241,P0999,AT17,PS00248,P0999,1968,1974,"There was an educated youth who took story-telling as his unique ""currency"". With that ""currency"" he could ""purchase"" daily necessities.",SS00005,573,2,,,2018-02-19,OS,2018-02-19,OS
 A00242,P0273,AT15,Q0004,,1963..1973,1963..1973,Gu Yunpu had to think of this quote and compared it with his fate,SS00061,ONLINE SOURCE,,,,2018-02-27,OS,2018-02-27,OS
@@ -210,15 +210,15 @@ A00254,P0284,AT01,PS00258,,1968,1970,Chen was secretly reading a translation of 
 A00255,P0284,AT01,PS00259,,1968,1970,for reading this he was accused and had to write a self criticism,SS00248,253,2,,,2018-03-12,MG,2018-03-12,MG
 A00256,P0281,AT11,PS00260,,1958,1960,started to translate this book,SS00248,169,2,,,2018-03-12,MG,2018-03-12,MG
 A00257,P0281,AT11,PS00261,,1957,19xx,Diversion; the story contrasted with the politics around him. He never finished the translation,SS00248,301,2,,,2018-03-12,MG,2018-03-12,MG
-A00258,P0289,AT12,PS00262,,1966,1966,a lifetime collection confiscated by the Red Guards,SS00248,205,2,,,2018-03-12,MG,2018-03-12,MG
+A00258,P0289,AT12,PS09999,,1966,1966,a lifetime collection confiscated by the Red Guards,SS00248,205,2,unknown work by: P0083; G28,a collection of thousands of rare manuscript sutras,2018-03-12,MG,2018-04-26,MG
 A00259,P0291,AT17,PS00263,,1968,1970,Wu‘s son Yiding told stories from this novel to Wu and his friends,SS00248,246f,2,,,2018-03-13,MG,2018-03-13,MG
 A00260,P0282,AT22,Q0006,,1969,1970,reminds this quotation while meeting a tortured teacher,SS00248,284f,2,,,2018-03-13,MG,2018-03-13,MG
 A00261,P0282,AT23,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,,2018-03-13,MG,2018-03-23,MG
 A00262,P0281,AT23,PS00002,,1970,1973,they tuned in to this program to teach english to their elder son,SS00248,300,2,,,2018-03-13,MG,2018-03-23,MG
 A00263,P0281,AT01,PS00264,,1970,1973,a textbook Wu had kept from Manchester college days. Showed it to the peasants in his neighbourhood. They ‚giggled and nudged‘ when they saw the nudes from the Sistine Chapel,SS00248,301,2,,,2018-03-13,MG,2018-03-13,MG
-A00264,P0281,AT01,PS00265,,1973,1973,the family was touched to tears,SS00248,311f,2,,,2018-03-13,MG,2018-03-13,MG
-A00265,P0282,AT01,PS00265,,1973,1973,the family was touched to tears,SS00248,311f,2,,,2018-03-13,MG,2018-03-13,MG
-A00266,P0291,AT16,PS00265,,1973,1973,the family was touched to tears; he began to read Shen Congwen‘s books a few years later,SS00248,311f,2,,,2018-03-13,MG,2018-03-13,MG
+A00264,P0281,AT01,PS09999,,1973,1973,the family was touched to tears,SS00248,311f,2,unknown work by: P0280; G15,,2018-03-13,MG,2018-04-26,MG
+A00265,P0282,AT01,PS09999,,1973,1973,the family was touched to tears,SS00248,311f,2,unknown work by: P0280; G15,,2018-03-13,MG,2018-04-26,MG
+A00266,P0291,AT16,PS09999,,1973,1973,the family was touched to tears; he began to read Shen Congwen‘s books a few years later,SS00248,311f,2,unknown work by: P0280; G15,,2018-03-13,MG,2018-04-26,MG
 A00267,P0281,AT01,PS00266,,1974,1978,starts rereading this book. Saw parallels between ancient Rome and modern China,SS00248,329,2,,,2018-03-13,MG,2018-03-13,MG
 A00268,P0282,AT01,PS00267,,1974,1978,her favorite book,SS00248,326,2,,,2018-03-13,MG,2018-03-13,MG
 A00269,P0292,AT01,PS00268,,1974,1978,,SS00248,326,2,,,2018-03-13,MG,2018-03-13,MG
