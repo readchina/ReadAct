@@ -998,5 +998,10 @@ P0356,陶,渊明,zh,male,NULL,NULL,NULL,NULL,0365,0427,NULL,NULL,PL0253,NULL,NUL
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 P0521,Edison,Thomas,en,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
 P0521,爱迪生,托马斯,zh,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
-P0522,,,,,,,,,,,,,,,,,,,,,,,,,
-P0522,,,,,,,,,,,,,,,,,,,,,,,,,
+P0522,Fechin,Nicolai,en,male,NULL,NULL,NULL,NULL,1881,1955,,,PL0026,,,https://en.wikipedia.org/wiki/Nicolai_Fechin,,https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E7%94%B3,,,,2018-05-03,WH,2018-05-03,WH
+P0522,Фешин,Николай,ru,male,NULL,NULL,NULL,NULL,1881,1955,,,PL0026,,,https://en.wikipedia.org/wiki/Nicolai_Fechin,,https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E7%94%B3,,,,2018-05-03,WH,2018-05-03,WH
+P0522,费申,尼古拉,zh,male,NULL,NULL,NULL,NULL,1881,1955,,,PL0026,,,https://en.wikipedia.org/wiki/Nicolai_Fechin,,https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E7%94%B3,,,,2018-05-03,WH,2018-05-03,WH
+P0523,Feng,Zhi,en,male,NULL,NULL,NULL,NULL,1905,1993,Feng Chengzhi,en,PL0183,,,https://zh.wikipedia.org/wiki/%E5%86%AF%E8%87%B3,,,,,,2018-05-03,WH,2018-05-03,WH
+P0523,冯,至,zh,male,NULL,NULL,NULL,NULL,1905,1993,冯承植,zh,PL0183,,,https://zh.wikipedia.org/wiki/%E5%86%AF%E8%87%B3,,,,,,2018-05-03,WH,2018-05-03,WH
+P0524,Fu,Chongju,en,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
+P0524,傅,崇矩,zh,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
