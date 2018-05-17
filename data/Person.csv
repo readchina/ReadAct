@@ -651,25 +651,25 @@ P0347,Toynbee,Arnold Joseph,en,male,NULL,NULL,NULL,NULL,1889,1975,NULL,NULL,PL00
 P0347,汤因比,阿诺尔德,zh,male,NULL,NULL,NULL,NULL,1889,1975,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/Arnold_J._Toynbee,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
 P0348,Zhu,Zhenglin,en,male,unknown,NULL,NULL,NULL,1947,,NULL,NULL,,NULL,NULL,https://baike.baidu.com/item/%E6%9C%B1%E6%AD%A3%E7%90%B3,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
 P0348,朱,正琳,zh,male,unknown,NULL,NULL,NULL,1947,,NULL,NULL,,NULL,NULL,https://baike.baidu.com/item/%E6%9C%B1%E6%AD%A3%E7%90%B3,ONLINE SOURCE,,,,,2018-04-09,MG,2018-04-09,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0349,Trifonov,Yuri Valentinovich,en,male,NULL,NULL,NULL,NULL,1925,1981,NULL,NULL,PL0027,NULL,NULL,https://baike.baidu.com/item/%E7%89%B9%E9%87%8C%E4%B8%B0%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,https://www.britannica.com/biography/Yuri-Valentinovich-Trifonov,ONLINE SOURCE,,,2018-05-07,MG,2018-05-07,MG
+P0349,特里丰诺夫,尤利 瓦连季诺维奇,zh,male,NULL,NULL,NULL,NULL,1925,1981,NULL,NULL,PL0027,NULL,NULL,https://baike.baidu.com/item/%E7%89%B9%E9%87%8C%E4%B8%B0%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,https://www.britannica.com/biography/Yuri-Valentinovich-Trifonov,ONLINE SOURCE,,,2018-05-07,MG,2018-05-07,MG
+P0349,Трифонов,Юрий Валентинович,ru,male,NULL,NULL,NULL,NULL,1925,1981,NULL,NULL,PL0027,NULL,NULL,https://baike.baidu.com/item/%E7%89%B9%E9%87%8C%E4%B8%B0%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,https://www.britannica.com/biography/Yuri-Valentinovich-Trifonov,ONLINE SOURCE,,,2018-05-07,MG,2018-05-07,MG
+P0350,Trostky,Leon,en,male,NULL,NULL,NULL,NULL,1879,1940,Lev Davidovich Bronstein,en,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0350,托洛茨基,列夫,zh,male,NULL,NULL,NULL,NULL,1879,1940,NULL,NULL,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0350,Троцкий,Лев,ru,male,NULL,NULL,NULL,NULL,1879,1940,NULL,NULL,PL0128,NULL,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0351,Troyepolsky,Gavriil,en,male,NULL,NULL,NULL,NULL,1905,1995,NULL,NULL,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Gavriil_Troyepolsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0351,特罗耶波利斯基,加夫里伊尔,zh,male,NULL,NULL,NULL,NULL,1905,1995,NULL,NULL,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Gavriil_Troyepolsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0351,Троепольский,Гавриил,ru,male,NULL,NULL,NULL,NULL,1905,1995,NULL,NULL,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Gavriil_Troyepolsky,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0352,Truman,Harry S.,en,male,NULL,NULL,NULL,NULL,1884,1972,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Harry_S._Truman,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0352,杜鲁门,哈里 S.,zh,male,NULL,NULL,NULL,NULL,1884,1972,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Harry_S._Truman,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0353,Clemens,Samuel Langhorne,en,male,NULL,NULL,NULL,NULL,1835,1910,Mark Twain,en,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Mark_Twain,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0353,克列門斯,塞姆 朗赫恩,zh,male,NULL,NULL,NULL,NULL,1835,1910,马克 吐温,zh,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Mark_Twain,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0354,Tang,Xianzu,en,male,NULL,NULL,NULL,NULL,1550,1616,Yireng,en,PL0252,NULL,NULL,https://en.wikipedia.org/wiki/Tang_Xianzu,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0354,汤 ,显祖 ,zh,male,NULL,NULL,NULL,NULL,1550,1616,義仍,zh,PL0252,NULL,NULL,https://en.wikipedia.org/wiki/Tang_Xianzu,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-08,MG
+P0355,Tang,Guizhang ,en,male,unknown,NULL,NULL,NULL,1901,1990,NULL,NULL,PL0090,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-14,MG
+P0355,唐,圭璋,zh,male,unknown,NULL,NULL,NULL,1901,1990,NULL,NULL,PL0090,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,,2018-05-08,MG,2018-05-14,MG
+P0356,Tao,Yuanming,en,male,NULL,NULL,NULL,NULL,0365,0427,NULL,NULL,PL0253,NULL,NULL,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,2018-05-14,MG,2018-05-14,MG
+P0356,陶,渊明,zh,male,NULL,NULL,NULL,NULL,0365,0427,NULL,NULL,PL0253,NULL,NULL,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,2018-05-14,MG,2018-05-14,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
