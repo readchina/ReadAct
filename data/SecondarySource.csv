@@ -1,9 +1,9 @@
 sec_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
-SS00003,Red Sorrow,A memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2017-07-12,OS
+SS00003,Red Sorrow,A Memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2018-05-07,MG
 SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
 SS00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
-SS00006,Walking on the stream of history,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-11-04,MG
-SS00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-10-16,MG
+SS00006,Walking on the Stream of History,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-11-04,MG
+SS00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2018-05-07,MG
 SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2017-07-12,OS
 SS00007,韩少功,知青与寻根,zh,P106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2017-07-12,OS
 SS00009,Ma Jia fangtan lu,,en,P0017,G03,,,,,NULL,SS00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
@@ -178,6 +178,8 @@ SS00268,Vermilion Gate,,en,P0320,G03,PL0036,2000,Little; Brown and Company,,NULL
 SS00269,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,P0310,G03,,1998,University of Massachusetts Press,,NULL,,,,,,2018-03-27,MG,2018-03-27,MG
 SS00270,Let the Thought Brake the Cage,,en,P0348,G03,,,,,,SS00044,NULL,165-186,Translated by project member,,2018-04-09,MG,2018-04-09,MG
 SS00270,让思想冲破牢笼,,zh,P0348,G03,,,,,,SS00044,NULL,165-186,,,2018-04-09,MG,2018-04-09,MG
-SS00271,Youth Cannot Help,,en,P0362,G03,,,,,NULL,SS00044,NULL,507-530,Translated by project member,,2018-05-15,MG,2018-05-15,MG
-SS00271,Qingchun wunai ,,zh-Latn-py,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-15,MG
-SS00271,青春无奈,,zh,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-15,MG
+SS00271,My father and I,,en,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,周孜仁 recalled his father.,,2018-05-03,WH,2018-05-17,WH
+SS00271,我和父亲,,zh,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,周孜仁 recalled his father.,,2018-05-03,WH,2018-05-17,WH
+SS00272,Youth Cannot Help,,en,P0362,G03,,,,,NULL,SS00044,NULL,507-530,Translated by project member,,2018-05-15,MG,2018-05-20,MG
+SS00272,Qingchun wunai ,,zh-Latn-py,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-20,MG
+SS00272,青春无奈,,zh,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-20,MG
