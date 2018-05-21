@@ -57,7 +57,7 @@ Membership,created_by,acronym of project member creating this line,,2018-01-30,O
 Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
 Membership,modified_by,acronym of project member last modifying this line,,2018-01-30,OS,2018-01-30,OS
 ,,,,,,,
-ArtWork,artwork_id,AW and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+ArtWork,artwork_id,AW and a five-digit number (leading zeros); AW09999 is structural entry for unknown artworks,,2018-02-09,OS,2018-05-15,MG
 ArtWork,title,Title of an artwork; both in the original language and Chinese. If the Original language is not either English or French or German; add English.,,2018-02-09,OS,2018-02-09,OS
 ArtWork,subtitle,Subtitle of an artwork; both in the original language and Chinese. If the Original language is not either English or French or German; add English.,,2018-02-09,OS,2018-02-09,OS
 ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). ,,2018-02-09,OS,2018-02-09,OS
