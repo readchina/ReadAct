@@ -694,17 +694,17 @@ P0366,Есе́нин,Серге́й Алекса́ндрович ,ru,male,NULL,N
 P0367,Yevtushenko,Yevgeny Aleksandrovich,en,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
 P0367,叶夫图申科,叶夫根尼 亚历山德罗维奇,zh,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
 P0367,Евтушенко,Евгений Александрович,ru,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0368,Zhukov,Georgy,en,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0368,朱可夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0368,Жу́ков,Гео́ргий,ru,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0369,Zikmund,Miroslav,en,male,NULL,NULL,NULL,NULL,1919,,NULL,NULL,PL0263,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0369,席克蒙德,,zh,male,NULL,NULL,NULL,NULL,1919,,NULL,NULL,PL0263,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0370,Hanzelka,Jiří,en,male,NULL,NULL,NULL,NULL,1920,2003,NULL,NULL,PL0264,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0370,施雨乐,,zh,male,NULL,NULL,NULL,NULL,1920,2003,NULL,NULL,PL0264,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0371,Zola,Émile,fr,male,NULL,NULL,NULL,NULL,1840,1902,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/%C3%89mile_Zola,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0371,左拉,埃米尔,zh,male,NULL,NULL,NULL,NULL,1840,1902,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/%C3%89mile_Zola,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0372,Zweig,Stefan,en,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0372,茨威格,斯蒂芬,zh,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
