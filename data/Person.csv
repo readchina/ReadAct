@@ -682,32 +682,31 @@ P0361,Vlahović ,Veljko,en,male,NULL,NULL,NULL,NULL,1914,1975,NULL,NULL,PL0258,N
 P0361,弗拉霍维奇,维利科,zh,male,NULL,NULL,NULL,NULL,1914,1975,NULL,NULL,PL0258,NULL,NULL,https://en.wikipedia.org/wiki/Veljko_Vlahovi%C4%87,ONLINE SOURCE,,,,,2018-05-15,MG,2018-05-15,MG
 P0362,Zhai,Yongming,en,female,yes,unknown,unknown,unknown,1955,,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Zhai_Yongming,ONLINE SOURCE,,,she was rusticated for 2 years and returned to Chengdu afterwards,,2018-05-15,MG,2018-05-15,MG
 P0362,翟,永明,zh,female,yes,unknown,unknown,unknown,1955,,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Zhai_Yongming,ONLINE SOURCE,,,she was rusticated for 2 years and returned to Chengdu afterwards,,2018-05-15,MG,2018-05-15,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0363,Whitehead,Alfred North,en,male,NULL,NULL,NULL,NULL,1861,1947,NULL,NULL,PL0259,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_North_Whitehead,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0363,懷特黑德,阿爾弗雷德 諾思,zh,male,NULL,NULL,NULL,NULL,1861,1947,NULL,NULL,PL0259,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_North_Whitehead,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0364,Whitman,Walt,en,male,NULL,NULL,NULL,NULL,1818,1892,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Walt_Whitman,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0364,沃尔特,惠特曼,zh,male,NULL,NULL,NULL,NULL,1818,1892,NULL,NULL,PL0050,NULL,NULL,https://en.wikipedia.org/wiki/Walt_Whitman,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0365,Wittgenstein,Ludwig,en,male,NULL,NULL,NULL,NULL,1889,1951,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Ludwig_Wittgenstein,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0365,维特根斯坦,路德维希,zh,male,NULL,NULL,NULL,NULL,1889,1951,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Ludwig_Wittgenstein,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0366,Yesenin,Sergei Alexandrovich,en,male,NULL,NULL,NULL,NULL,1895,1925,NULL,NULL,PL0260,NULL,NULL,https://en.wikipedia.org/wiki/Sergei_Yesenin,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0366,叶赛宁,谢尔盖 亚历山德罗维奇,zh,male,NULL,NULL,NULL,NULL,1895,1925,NULL,NULL,PL0260,NULL,NULL,https://en.wikipedia.org/wiki/Sergei_Yesenin,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0366,Есе́нин,Серге́й Алекса́ндрович ,ru,male,NULL,NULL,NULL,NULL,1895,1925,NULL,NULL,PL0260,NULL,NULL,https://en.wikipedia.org/wiki/Sergei_Yesenin,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0367,Yevtushenko,Yevgeny Aleksandrovich,en,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0367,叶夫图申科,叶夫根尼 亚历山德罗维奇,zh,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0367,Евтушенко,Евгений Александрович,ru,male,NULL,NULL,NULL,NULL,1933,2017,NULL,NULL,PL0261,NULL,NULL,https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko,ONLINE SOURCE,,,,,2018-05-17,MG,2018-05-17,MG
+P0368,Zhukov,Georgy,en,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0368,朱可夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0368,Жу́ков,Гео́ргий,ru,male,NULL,NULL,NULL,NULL,1896,1974,NULL,NULL,PL0262,NULL,NULL,https://en.wikipedia.org/wiki/Georgy_Zhukov,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0369,Zikmund,Miroslav,en,male,NULL,NULL,NULL,NULL,1919,,NULL,NULL,PL0263,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0369,席克蒙德,,zh,male,NULL,NULL,NULL,NULL,1919,,NULL,NULL,PL0263,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0370,Hanzelka,Jiří,en,male,NULL,NULL,NULL,NULL,1920,2003,NULL,NULL,PL0264,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0370,施雨乐,,zh,male,NULL,NULL,NULL,NULL,1920,2003,NULL,NULL,PL0264,NULL,NULL,https://en.wikipedia.org/wiki/Hanzelka_and_Zikmund,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0371,Zola,Émile,fr,male,NULL,NULL,NULL,NULL,1840,1902,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/%C3%89mile_Zola,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0371,左拉,埃米尔,zh,male,NULL,NULL,NULL,NULL,1840,1902,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/%C3%89mile_Zola,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0372,Zweig,Stefan,en,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0372,茨威格,斯蒂芬,zh,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
+P0373,Ji,Kun,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
+P0373,纪,琨,zh,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
