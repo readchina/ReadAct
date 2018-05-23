@@ -1,179 +1,179 @@
 prim_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
 PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2017-07-03,LH,2017-10-02,DP
-PS00001,,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2018-04-25,MG,2018-04-25,MG
+PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2018-04-25,MG,2018-05-23,MG
 PS00001,无声的中国 ,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2017-07-03,LH,2017-10-02,DP
 PS00002,English 900,,en,I0003,G20,PL0050,1964,Macmillan,,no,,,,,,2017-07-12,OS,2017-10-16,MG
 PS00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2017-07-12,OS,2017-07-12,OS
-PS00004,,,zh-Latn-pinyin,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00004,Bai lunchuan,,zh-Latn-pinyin,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00004,白轮船 ,,zh,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2017-07-12,OS,2017-07-12,OS
 PS00010,Ticket to the Stars,,en,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,,,2017-07-12,OS,2018-04-25,MG
-PS00010,,,zh-Latn-pinyin,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. ,,2018-04-25,MG,2018-04-25,MG
+PS00010,Dai xingxing de huoche piao,,zh-Latn-pinyin,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. ,,2018-04-25,MG,2018-05-23,MG
 PS00010,帶星星的火車票 ,,zh,P0078,G04,PL0002,1963,Zuojia chubanshe,,yes,,,,translated into Chinese only 2 years after the original publication. Translated by Wang Ping 王平 and others. ,,2017-07-12,OS,2017-10-02,DP
 PS00013,My Universities,,en,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
 PS00013,Мои университеты ,,ru,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
-PS00013,,,zh-Latn-pinyin,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00013,Wo de daxue,,zh-Latn-pinyin,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00013,我的大学 ,,zh,P0110,G03,PL0003,1950,Guanghua chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
 PS00015,My Apprenticeship,,en,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
 PS00015,在人间 ,,zh,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
-PS00015,,,zh-Latn-pinyin,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00015,Zai renjian,,zh-Latn-pinyin,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00015,V lyudyakh,,ru,P0110,G03,PL0002,1956,Renmin wenxue chubanshe,,no,,,,,,2017-07-19,LH,2017-10-16,MG
 PS00022,Der Prozess,,de,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,,,,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,2017-07-19,OS,2017-07-19,OS
-PS00022,,,zh-Latn-pinyin,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,,,,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,2018-04-25,MG,2018-04-25,MG
+PS00022,Shenpan ji qita,,zh-Latn-pinyin,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,,,,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,2018-04-25,MG,2018-05-23,MG
 PS00022,审判及其它 ,,zh,P0116,G04,PL0003,1966,Zuojia chubanshe,,yes,,,,http://epaper.gmw.cn/blqs/html/2012-01/07/nw.D110000blqs_20120107_3-08.htm?div=-1,,2017-07-19,OS,2017-07-19,OS
 PS00023,On the Road,,en,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,,,,,,2017-07-20,OS,2018-04-18,MG
-PS00023,,,zh-Latn-pinyin,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00023,Zai lushang,,zh-Latn-pinyin,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00023,在路上 ,,zh,P0117,G04,PL0003,1962,Zuojia chubanshe,,yes,,,,,,2017-09-27,MG,2017-09-27,MG
 PS00024,The New Class,An Analysis of the Communist System,en,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,,,,,,2017-07-25,MG,2017-10-16,MG
-PS00024,,,zh-Latn-pinyin,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00024,Xin jieji,Dui gongchang zhuyi zhidu de fenxi,zh-Latn-pinyin,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00024,新阶级 ,对共产主义制度的分析,zh,P0118,G24,PL0002,1963,Shijie zhishi chubanshe,1963,yes,,,,,,2017-07-25,MG,2017-10-16,MG
 PS00025,Letters Between Two,,eh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. These are the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
-PS00025,,,zh-Latn-pinyin,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. These are the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2018-04-25,MG,2018-04-25,MG
+PS00025,Liang di shu,,zh-Latn-pinyin,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. These are the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2018-04-25,MG,2018-05-23,MG
 PS00025,两地书 ,,zh,P0001,G25,PL0002,1951,Lu Xun quanji chubanshe,1933,no,,,,Letters between Two has been translated into English by Bonnie MacDougall. These are the heavily edited love letters between Lu Xun and his wife Xu Guangping,,2017-07-27,LH,2017-10-24,MG
 PS00028,Wild Grass,,en,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,,,,,,2017-07-28,LH,2017-11-04,MG
-PS00028,,,zh-Latn-pinyin,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00028,Yecao,,zh-Latn-pinyin,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00028,野草 ,,zh,P0001,G10,PL0002,1952,Renmin wenxue chubanshe,1927,yes,,,,,,2017-07-28,LH,2017-11-04,MG
 PS00040,Les Fleurs du Mal,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,, 手抄本. First french edition of Les Fleurs du Mal 1857,,2017-08-07,MG,2017-10-16,MG
-PS00040,,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,, 手抄本. First french edition of Les Fleurs du Mal 1857,,2018-04-25,MG,2018-04-25,MG
+PS00040,E zhi hua,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,, 手抄本. First french edition of Les Fleurs du Mal 1857,,2018-04-25,MG,2018-05-23,MG
 PS00040,恶之华 ,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,, 手抄本. First french edition of Les Fleurs du Mal 1857,,2017-08-07,MG,2017-10-16,MG
 PS00041,Ciel brouillé ,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,I guess the other ones are Shouchaoben as well?,2017-08-07,MG,2018-01-12,MG
-PS00041,,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00041,Wuyun mibu de tiankong,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00041,乌云密布的天空 ,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
 PS00042,Le Balcon,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
-PS00042,,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00042,Yangtai,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00042,阳台 ,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
 PS00050,,,en,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2017-08-20,MG,2018-02-08,OS
-PS00050,,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2018-04-25,MG,2018-04-25,MG
+PS00050,Xiaoshi zai andan de ye wu zhong,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2018-04-25,MG,2018-05-23,MG
 PS00050,消失在暗淡的夜雾中 ,,zh,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2017-08-20,MG,2018-02-08,OS
 PS00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,Translated by project member,,2017-08-20,MG,2017-11-11,MG
-PS00051,,,zh-Latn-pinyin,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00051,Gongren sui hui lüe fu,,zh-Latn-pinyin,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00051,工人绥惠略夫 ,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2017-08-20,MG,2018-01-16,OS
 PS00052,Gambara,,fr,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,,,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
-PS00052,,,zh-Latn-pinyin,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,,,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2018-04-25,MG,2018-04-25,MG
+PS00052,Gang ba la,,zh-Latn-pinyin,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,,,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2018-04-25,MG,2018-05-23,MG
 PS00052,钢巴拉 ,,zh,P0092,G21,PL0003,1953,Xinwenyi chubanshe,,,,,,This book is a novella from the philosophical part from Balzac‘s La Comédie Humaine. First french edition 1837,,2017-08-25,MG,2017-10-16,MG
 PS00053,Eugénie Grandet ,,fr,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2017-08-25,MG,2018-01-12,MG
-PS00053,,,zh-Latn-pinyin,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2018-04-25,MG,2018-04-25,MG
+PS00053,Ouyeni gelangtai,,zh-Latn-pinyin,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2018-04-25,MG,2018-05-23,MG
 PS00053,欧也妮·葛朗台 ,,zh,P0092,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,A novel in Scènes de la vie en province in La Comédie Humaine. First french edition 1833,,2017-08-25,MG,2018-01-12,MG
 PS00055,New Vietnamese Chinese Newspaper,,en,I0001,G22,PL0064,,,,no,,,,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
-PS00055,,,zh-Latn-pinyin,I0001,G22,PL0064,,,,no,,,,a weekly newspaper,,2018-04-25,MG,2018-04-25,MG
+PS00055,Xin yuehua bao,,zh-Latn-pinyin,I0001,G22,PL0064,,,,no,,,,a weekly newspaper,,2018-04-25,MG,2018-05-23,MG
 PS00055,新越华报 ,,zh,I0001,G22,PL0064,,,,no,,,,a weekly newspaper,,2017-08-26,MG,2017-08-26,MG
 PS00056,Light Above the Land,,en,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2017-08-26,MG,2018-04-18,MG
-PS00056,,,zh-Latn-pinyin,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00056,Ren shijian,,zh-Latn-pinyin,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00056,人世间 ,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2017-08-26,MG,2017-08-26,MG
 PS00057,Watching the Barley Harvest, ,en,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-01-12,MG
-PS00057,,,zh-Latn-pinyin,P0090,G10,,,,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00057,Guan yi mai,,zh-Latn-pinyin,P0090,G10,,,,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00057,观刈麦,,en,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-01-12,MG
-PS00058,,,zh-Latn-pinyin,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-04-25,MG
-PS00058,,,zh,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00058,,,en,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-05-23,MG
+PS00058,Shan guniang,,zh-Latn-pinyin,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00058,山姑娘,,zh,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-04-25,MG
 PS00059,Reeds in the Wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2018-04-25,MG,2018-04-25,MG
-PS00059,,,zh-Latn-pinyin,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2018-04-25,MG,2018-04-25,MG
+PS00059,Feng zhong luwei,,zh-Latn-pinyin,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2018-04-25,MG,2018-05-23,MG
 PS00059,风中芦苇,,zh,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2017-09-06,CW,2018-02-09,OS
 PS00059,Canne al Vento,,it,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2017-09-06,CW,2018-04-18,MG
 PS00060,En Attendant Godot,,fr,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,,,,,,2017-08-31,MG,2018-01-12,MG
-PS00060,,,zh-Latn-pinyin,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00060,Dengdai ge duo,,zh-Latn-pinyin,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00060,等待戈多 ,,zh,P0094,G17,PL0002,1965,Zhongguo xiju chubanshe,,yes,,,,,,2017-08-31,MG,2018-01-12,MG
 PS00062,Waves,,en,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,,,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2018-01-12,MG
-PS00062,,,zh-Latn-pinyin,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,,,the novel was first finished in 1974 but not published until 1979 in a revised version,,2018-04-25,MG,2018-04-25,MG
+PS00062,Bodong,,zh-Latn-pinyin,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,,,the novel was first finished in 1974 but not published until 1979 in a revised version,,2018-04-25,MG,2018-05-23,MG
 PS00062,波动 ,,zh,P0009,G21,PL0017,1987,Zhongwen Daxue chubanshe,,,,,,the novel was first finished in 1974 but not published until 1979 in a revised version,,2017-09-06,MG,2018-01-12,MG
 PS00063,The Answer,,en,P0009,G10,PL0002,1978,,,,,,,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
-PS00063,,,zh-Latn-pinyin,P0009,G10,PL0002,1978,,,,,,,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2018-04-25,MG,2018-04-25,MG
+PS00063,Huida,,zh-Latn-pinyin,P0009,G10,PL0002,1978,,,,,,,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2018-04-25,MG,2018-05-23,MG
 PS00063,回答 ,,zh,P0009,G10,PL0002,1978,,,,,,,this poem was published in the underground magazine Jintian in 1978. first finished in 1973 and revised in 1978,,2017-09-06,MG,2018-01-12,MG
 PS00064,The Window on the Cliffs,,en,P0009,G10,,1982,,,,,,,Translated by project member,,2017-09-06,MG,2018-01-18,MG
-PS00064,,,zh-Latn-pinyin,P0009,G10,,1982,,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00064,Qiaobi shang de chuanghu,,zh-Latn-pinyin,P0009,G10,,1982,,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00064,峭壁上的窗户,,zh,P0009,G10,,1982,,,,,,,,,2017-09-06,MG,2018-01-18,MG
 PS00065,Smoke,,en,P0009,G10,,,,,,SS00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
-PS00065,,,zh-Latn-pinyin,P0009,G10,,,,,,SS00045,,291,,,2018-04-25,MG,2018-04-25,MG
+PS00065,Yan,,zh-Latn-pinyin,P0009,G10,,,,,,SS00045,,291,,,2018-04-25,MG,2018-05-23,MG
 PS00065,烟,,zh,P0009,G10,,,,,,SS00045,,291,,,2017-09-08,MG,2017-09-13,MG
 PS00066,Alcohol,,en,P0009,G10,,,,,,SS00045,,291,Translated by project member,,2017-09-08,MG,2017-11-11,MG
-PS00066,,,zh-Latn-pinyin,P0009,G10,,,,,,SS00045,,291,,,2018-04-25,MG,2018-04-25,MG
+PS00066,Jiu,,zh-Latn-pinyin,P0009,G10,,,,,,SS00045,,291,,,2018-04-25,MG,2018-05-23,MG
 PS00066,酒,,zh,P0009,G10,,,,,,SS00045,,291,,,2017-09-08,MG,2017-09-13,MG
 PS00067,Rainy Night,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-PS00067,,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-04-25,MG
+PS00067,Yuye,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-05-23,MG
 PS00067,雨夜,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 PS00068,Dusk: Dingjiatan,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-PS00068,,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-04-25,MG
+PS00068,Huanghun: Ding jia tan,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-05-23,MG
 PS00068,黄昏·丁家滩,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1970 and 1978. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 PS00069,Habit,,en,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
-PS00069,,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-04-25,MG
+PS00069,Xiguan,,zh-Latn-pinyin,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2018-04-25,MG,2018-05-23,MG
 PS00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem was written between 1979 and 1983. published in Bei Dao Shi Xuan in 1986,,2017-09-08,MG,2018-01-12,MG
 PS00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
-PS00070,,,zh-Latn-pinyin,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2018-04-25,MG,2018-04-25,MG
+PS00070,Jiu ji lang,,zh-Latn-pinyin,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2018-04-25,MG,2018-05-23,MG
 PS00070,九级浪 ,,zh,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
 PS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,,2017-09-15,MG,2018-01-12,MG
-PS00071,,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2018-04-25,MG,2018-04-25,MG
+PS00071,Xian gei ai qinhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2018-04-25,MG,2018-05-23,MG
 PS00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
 PS00072,For a Sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-04-18,MG
-PS00072,,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,influenced by Sylvia Plath's style written in 1979,,2018-04-25,MG,2018-04-25,MG
+PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,influenced by Sylvia Plath's style written in 1979,,2018-04-25,MG,2018-05-23,MG
 PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,influenced by Sylvia Plath's style written in 1979,,2017-09-15,MG,2018-01-12,MG
 PS00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
-PS00073,,,zh-Latn-pinyin,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00073,Wang shang pa,,zh-Latn-pinyin,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00073,往上爬 ,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
 PS00074,Jane Eyre,An Autobiography,en,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,,,,,,2017-09-22,MG,2017-10-18,MG
-PS00074,,,zh-Latn-pinyin,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00074,Jian ai,Zizhuan,zh-Latn-pinyin,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00074,简爱 ,自传,zh,P0145,G04,PL0003,1949,Wenhua shenghuo chubanshe,,no,,,,,,2017-09-22,MG,2017-10-18,MG
 PS00076,L‘Étranger ,,fr,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,,,,Translated by Meng An 孟安.,,2017-09-22,MG,2018-02-08,OS
-PS00076,,,zh-Latn-pinyin,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,,,,Translated by Meng An 孟安.,,2018-04-25,MG,2018-04-25,MG
+PS00076,Juwairen,,zh-Latn-pinyin,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,,,,Translated by Meng An 孟安.,,2018-04-25,MG,2018-05-23,MG
 PS00076,局外人 ,,zh,P0151,G04,PL0003,1961,Shanghai wenyi chubanshe,,yes,,,,Translated by Meng An 孟安.,,2017-09-22,MG,2018-02-08,OS
 PS00077,Dream of the Red Chamber,,en,P0152,G04,PL0003,1949,Kaiming shudian,,,,,,,,2017-09-22,MG,2018-01-12,MG
-PS00077,,,zh-Latn-pinyin,P0152,G04,PL0003,1949,Kaiming shudian,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00077,Hongloumeng,,zh-Latn-pinyin,P0152,G04,PL0003,1949,Kaiming shudian,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00077,红楼梦 ,,zh,P0152,G04,PL0003,1949,Kaiming shudian,,,,,,,,2017-09-22,MG,2018-01-12,MG
-PS00078,Shouchang wenji,,en,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,,,,,2017-09-24,CW,2017-09-24,CW
-PS00078,,,zh-Latn-pinyin,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00078,Shouchang wenji,,zh-Latn-pinyin,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,,,,,2017-09-24,CW,2018-05-23,CW
+PS00078,,,en,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00078,守常文集 ,,zh,P0157,G01,PL0002,1949,Beixin shuju faxingzhe,,,,,,,,2017-09-24,CW,2017-09-24,CW
 PS00082,My Autobiography,,en,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2017-09-27,MG,2017-10-18,MG
-PS00082,,,zh-Latn-pinyin,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00082,Zhuo bie lin zizhuan,,zh-Latn-pinyin,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00082,卓别林自传,,zh,P0158,G03,PL0089,1977,Zhiyi chubanshe,,,,,,,,2017-09-27,MG,2017-10-18,MG
 PS00083,The House with the Mezzanine,,en,P0159,G05,,,,,,,,,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
-PS00083,,,zh-Latn-pinyin,P0159,G05,,,,,,,,,Original publication 1896,,2018-04-25,MG,2018-04-25,MG
+PS00083,Dai gelou de fangzi,,zh-Latn-pinyin,P0159,G05,,,,,,,,,Original publication 1896,,2018-04-25,MG,2018-05-23,MG
 PS00083,带阁楼的房子 ,,zh,P0159,G05,,,,,,,,,Original publication 1896,,2017-09-27,MG,2017-10-18,MG
 PS00084,For Mr. Yan Wenliang,,en,P0132,G10,,,,,no,,,,Translated by project member,,2017-09-29,MG,2018-01-18,MG
-PS00084,,,zh-Latn-pinyin,P0132,G10,,,,,no,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00084,Wei yan wenliang xiangsheng zuo,,zh-Latn-pinyin,P0132,G10,,,,,no,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00084,为颜文梁先生作 ,,zh,P0132,G10,,,,,no,,,,,,2017-09-29,MG,2017-09-29,MG
 PS00085,What is to be Done?,,en,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,,,,Original publication 1863,,2017-09-29,MG,2018-04-18,MG
-PS00085,,,zh-Latn-pinyin,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,,,,Original publication 1863,,2018-04-25,MG,2018-04-25,MG
+PS00085,Zenme ban ?,,zh-Latn-pinyin,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,,,,Original publication 1863,,2018-04-25,MG,2018-05-23,MG
 PS00085,怎么办 ? ,,zh,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,,,,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 PS00085,Что делать? ,,ru,P0161,G04,PL0002,1959,Renmin wenxue chubanshe,,no,,,,Original publication 1863,,2017-09-29,MG,2017-10-18,MG
 PS00087,Quotations From Chairman Mao Tse-tung,,en,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2018-04-18,MG
-PS00087,,,zh-Latn-pinyin,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00087,Hong bao shu,,zh-Latn-pinyin,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00087,红宝书 ,,zh,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,,,2017-10-24,MG
 PS00088,Project 571,,en,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
-PS00088,,,zh-Latn-pinyin,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,OS
+PS00088,571 gongcheng jiyao,,zh-Latn-pinyin,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00088,571工程纪要 ,,zh,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,,,2017-12-23,OS
 PS00089,Three Character Classic,,en,P0191,?,,,,,,,,,,,,,,
-PS00089,,,zh-Latn-pinyin,P0191,?,,,,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00089,Sanzijing,,zh-Latn-pinyin,P0191,?,,,,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00089,三字经 ,,zh,P0191,?,,,,,,,,,,,,,,
 PS00090,Chronicles of the Eastern Zhou Kingdoms,,en,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
-PS00090,,,zh-Latn-pinyin,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00090,Dongzhou lie guozhi,,zh-Latn-pinyin,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00090,东周列国志 ,,zh,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,,,2017-10-18,MG
 PS00091,Economic Problems of Socialism in the U.S.S.R.,,en,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
-PS00091,,,zh-Latn-pinyin,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00091,Sulian shehui zhuyi jingji wenti,,zh-Latn-pinyin,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00091,苏联社会主义经济问题 ,,zh,P0193,G24,PL0002,1978,Minzu chubanshe,,,,,,,,,,2017-10-23,MG
 PS00092,Notice of the Central Committee of the Communist Party of China on Lin Biao's Treason,,en,I0004,G26,,1971,,,,,,,,,,,2017-12-23,OS
-PS00092,,,zh-Latn-pinyin,I0004,G26,,1971,,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00092,Zhonggong zhongyang guanyu linbiao panguo chutao de tongzhi,,zh-Latn-pinyin,I0004,G26,,1971,,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00092,中共中央关于林彪叛国出逃的通知 ,,zh,I0004,G26,,1971,,,,,,,,,,,2017-12-23,OS
 PS00093,The Communist Manifesto,,en,P0181,G24,PL0002,1949,Jiefangshe,,,,,,,,,,2017-10-23,MG
-PS00093,,,zh-Latn-pinyin,P0181,G24,PL0002,1949,Jiefangshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00093,Gongchandan xuanyan,,zh-Latn-pinyin,P0181,G24,PL0002,1949,Jiefangshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00093,共产党宣言 ,,zh,P0181,G24,PL0002,1949,Jiefangshe,,,,,,,,,,2017-10-23,MG
 PS00093,Manifest der Kommunistischen Partei,,de,P0181,G24,PL0002,1949,Jiefangshe,,,,,,,,,,2017-10-24,MG
 PS00094,Critique of the Gotha Program,,en,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
-PS00094,,,zh-Latn-pinyin,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00094,Ge da gangling pipan,,zh-Latn-pinyin,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00094,哥达纲领批判 ,,zh,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
 PS00094,Kritik des Gothaer Programms,,de,P0181,G24,PL0093,1949,Dongbei shudian,1926,,,,,,,,,2017-10-24,MG
 PS00095,The Civil War in France,,en,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
-PS00095,,,zh-Latn-pinyin,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00095,Falanxi neizhan,,zh-Latn-pinyin,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00095,法兰西内战 ,,zh,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
 PS00095,Der Bürgerkrieg in Frankreich ,,de,P0181,G24,PL0002,1949,Xinhua shudian,,,,,,,,,,2017-10-24,MG
 PS00096,Materialism and Empiriocriticism,,en,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,2017-10-24,MG
-PS00096,,,zh-Latn-pinyin,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00096,Weiwu zhuyi he jingyan pipan zhuyi,,zh-Latn-pinyin,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00096,唯物主义和经验批判主义 ,,zh,P0182,G24,PL0003,1949,Xinzhi lianhe faxingsuo,,,,,,,,,,2017-10-24,MG
 PS00097,Flowers in the Mirror,,en,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,,,2017-10-25,MG
-PS00097,,,zh-Latn-pinyin,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00097,Jing hua yuan,,zh-Latn-pinyin,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00097,镜花缘 ,,zh,P0183,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,,,2017-10-25,MG
 PS00098,Analects,,en,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,,,2017-11-06,OS
-PS00098,,,zh-Latn-pinyin,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,2018-04-25,MG,2018-04-25,MG
+PS00098,Lunyu,,zh-Latn-pinyin,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,2018-04-25,MG,2018-05-23,MG
 PS00098,论语 ,,zh,P0186,G24,PL0003,1958,Guji chubanshe,,,,,,,pub house,,,2017-11-06,OS
 PS00099,Ten Crimes of Qin,,en,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
-PS00099,,,zh-Latn-pinyin,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
+PS00099,Guo qin lun,,zh-Latn-pinyin,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00099,过秦论 ,,zh,P0185,G24,PL0017,1950-1979,Youlian chubanshe,,,,,,,,,,2017-10-30,MG
 PS00100,Discourses on Salt and Iron,,en,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,,,2017-11-04,MG
 PS00100,,,zh-Latn-pinyin,P0187,G24,PL0002,1957,Kexue chubanshe,,,,,,,,2018-04-25,MG,2018-04-25,MG
