@@ -707,22 +707,22 @@ P0372,Zweig,Stefan,en,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,N
 P0372,茨威格,斯蒂芬,zh,male,NULL,NULL,NULL,NULL,1881,1942,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,,2018-05-22,MG,2018-05-22,MG
 P0373,Ji,Kun,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
 P0373,纪,琨,zh,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,unknown,NULL,SS00061,ONLINE SOURCE,,,,,2018-05-23,MG,2018-05-23,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0374,Remarque,Erich Maria,de,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0374,雷马克,埃里希 玛利亚,zh,male,NULL,NULL,NULL,NULL,1898,1970,NULL,NULL,PL0242,NULL,NULL,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0375,Renoir,Pierre-Auguste,fr,male,NULL,NULL,NULL,NULL,1841,1919,Auguste Renoir,fr,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0375,雷諾瓦,皮耶-奧古斯特,zh,male,NULL,NULL,NULL,NULL,1841,1919,奧古斯特 雷諾瓦,zh,PL0243,NULL,NULL,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0376,Repin,Ilya Yafimovich,en,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0376,Ре́пин,Илья́ Ефи́мович,ru,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0376,列宾,伊利亚 叶菲莫维奇,zh,male,NULL,NULL,NULL,NULL,1844,1930,NULL,NULL,PL0244,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Repin,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0377,Rilke,Rainer Maria,en,male,NULL,NULL,NULL,NULL,1875,1926,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Rainer_Maria_Rilke,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0377,里尔克,莱纳 玛利亚,zh,male,NULL,NULL,NULL,NULL,1875,1926,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Rainer_Maria_Rilke,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0378,Rimbaud,Arthur,fr,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0378,兰波,阿蒂尔,zh,male,NULL,NULL,NULL,NULL,1854,1891,NULL,NULL,PL0245,NULL,NULL,https://en.wikipedia.org/wiki/Arthur_Rimbaud,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0379,Rimsky-Korsakov,Nikolay Andreyevich,en,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0379,Римский-Корсаков,Николай Андреевич,ru,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0379,里姆斯基-科萨科夫,尼古拉 安德烈耶维奇,zh,male,NULL,NULL,NULL,NULL,1844,1908,NULL,NULL,PL0246,NULL,NULL,https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0380,Rolland,Romain,fr,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
+P0380,罗兰,罗曼,zh,male,NULL,NULL,NULL,NULL,1866,1944,NULL,NULL,PL0247,NULL,NULL,https://en.wikipedia.org/wiki/Romain_Rolland,ONLINE SOURCE,,,,,2018-05-28,MG,2018-05-28,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
