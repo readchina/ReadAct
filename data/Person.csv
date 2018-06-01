@@ -728,12 +728,12 @@ P0381,马,波 ,zh,male,yes,1968,1976,PL0111,1947,,老鬼 ,zh,PL0076,,,https://en
 P0382,Romm,Mikhail ,en,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
 P0382,Ромм,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
 P0382,罗姆,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1901,1971,NULL,NULL,PL0248,NULL,NULL,https://en.wikipedia.org/wiki/Mikhail_Romm,ONLINE SOURCE,,,,,2018-05-30,MG,2018-05-30,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0383,Rommel,Erwin,de,male,NULL,NULL,NULL,NULL,1891,1944,Desert Fox,en,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0383,隆美尔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1891,1944,沙漠之狐,zh,PL0249,NULL,NULL,https://en.wikipedia.org/wiki/Erwin_Rommel,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0384,Rousseau ,Jean-Jacques,fr,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0384,卢梭,让-雅克,zh,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0385,Russell,Bertrand,en,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
+P0385,罗素,伯特兰,zh,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
