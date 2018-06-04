@@ -734,12 +734,12 @@ P0384,Rousseau ,Jean-Jacques,fr,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL
 P0384,卢梭,让-雅克,zh,male,NULL,NULL,NULL,NULL,1712,1778,NULL,NULL,PL0250,NULL,NULL,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
 P0385,Russell,Bertrand,en,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
 P0385,罗素,伯特兰,zh,male,NULL,NULL,NULL,NULL,1872,1970,NULL,NULL,PL0251,NULL,NULL,https://en.wikipedia.org/wiki/Bertrand_Russell,ONLINE SOURCE,,,,,2018-06-01,MG,2018-06-01,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0386,Pu ,Songling,en,male,NULL,NULL,NULL,NULL,1640,1715,NULL,NULL,PL0266,NULL,NULL,https://en.wikipedia.org/wiki/Pu_Songling,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
+P0386,蒲,松龄,zh,male,NULL,NULL,NULL,NULL,1640,1715,NULL,NULL,PL0266,NULL,NULL,https://en.wikipedia.org/wiki/Pu_Songling,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
+P0387,Presley,Elvis,en,male,NULL,NULL,NULL,NULL,1935,1977,NULL,NULL,PL0267,NULL,NULL,https://en.wikipedia.org/wiki/Elvis_Presley,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
+P0387,普雷斯利,埃尔维斯,zh,male,NULL,NULL,NULL,NULL,1935,1977,猫王,zh,PL0267,NULL,NULL,https://en.wikipedia.org/wiki/Elvis_Presley,ONLINE SOURCE,,,,,2018-06-04,MG,2018-06-04,MG
+P0388,,,en,male,NULL,NULL,NULL,NULL,,,,,,NULL,NULL,,,,,,,2018-06-04,MG,2018-06-04,MG
+P0388,,,zh,male,NULL,NULL,NULL,NULL,,,,,,NULL,NULL,,,,,,,2018-06-04,MG,2018-06-04,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
