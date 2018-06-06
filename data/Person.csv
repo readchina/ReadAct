@@ -748,11 +748,11 @@ P0390,普列汉诺夫,格奥尔基,zh,male,NULL,NULL,NULL,NULL,1856,1918,NULL,NU
 P0391,Mitin,Mark Borisovich,en,male,NULL,NULL,NULL,NULL,1901,1987,NULL,NULL,PL0271,NULL,NULL,https://en.wikipedia.org/wiki/Mark_Borisovich_Mitin,ONLINE SOURCE,,,,,2018-06-05,MG,2018-06-05,MG
 P0391,Митин,Марк Борисович,ru,male,NULL,NULL,NULL,NULL,1901,1987,NULL,NULL,PL0271,NULL,NULL,https://en.wikipedia.org/wiki/Mark_Borisovich_Mitin,ONLINE SOURCE,,,,,2018-06-05,MG,2018-06-05,MG
 P0391,米丁,马克 鲍里索维奇,zh,male,NULL,NULL,NULL,NULL,1901,1987,NULL,NULL,PL0271,NULL,NULL,https://en.wikipedia.org/wiki/Mark_Borisovich_Mitin,ONLINE SOURCE,,,,,2018-06-05,MG,2018-06-05,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0392,Plato,,en,male,NULL,NULL,NULL,NULL,"[-0424,-0423]","[-0348,-0347]",NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Plato,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
+P0392,柏拉图,,zh,male,NULL,NULL,NULL,NULL,"[-0424,-0423]","[-0348,-0347]",NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Plato,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
+P0392,Πλάτων,,grc,male,NULL,NULL,NULL,NULL,"[-0424,-0423]","[-0348,-0347]",NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Plato,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
+P0393,Plath,Sylvia,en,female,NULL,NULL,NULL,NULL,1932,1963,NULL,NULL,PL0269,NULL,NULL,https://en.wikipedia.org/wiki/Sylvia_Plath,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
+P0393,普拉斯,希薇亞,zh,female,NULL,NULL,NULL,NULL,1932,1963,NULL,NULL,PL0269,NULL,NULL,https://en.wikipedia.org/wiki/Sylvia_Plath,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
