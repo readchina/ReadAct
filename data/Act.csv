@@ -413,7 +413,7 @@ A00435,P0132,AT23,AW09999,,1972~,1972~,unknown,SS00043,453,2,unknown work by: P0
 A00436,P0108,AT01,PS00350,,1966..1970~,1966..1970~,unknown,SS00012,159,2,,,2018-05-29,MG,2018-05-29,MG
 A00437,P0020,AT01,PS00350,,1970..1975,1970..1975,This novel was important to Gao Hua. He got access to many foreign books in a rear office where a lot of books from Nanjing Secondary Schools were stored.,SS00006,134,2,,,2018-05-29,MG,2018-05-29,MG
 A00438,P0999,AT03,PS00350,P0238,1966~,1966~,Some people she knew were circulating this novel.,SS00205,94,2,,,2018-05-29,MG,2018-05-29,MG
-A00439,P0238,AT05,PS00350,,1966~,1966~,"Even though the main character could 'easily be criticized as egocentric by the revolutionary standard of the day' his personality attracted many people.",SS00205,94,2,,,2018-05-29,MG,2018-06-02,MG
+A00439,P0238,AT05,PS00350,,1966~,1966~,Even though the main character could 'easily be criticized as egocentric by the revolutionary standard of the day' his personality attracted many people.,SS00205,94,2,,,2018-05-29,MG,2018-06-02,MG
 A00440,P0999,AT03,PS00348,P0238,1966~,1966~,her next-door neighbors had a big collection of Western literature. As they moved to the suburbs they left the key of the apartment to Ye‘s parents.,SS00205,94,2,,,2018-05-29,MG,2018-05-29,MG
 A00441,P0029,AT05,PS00350,,1964~,1966~,Wu Hong cites this novel as one of the most favourite and frequently read by his book friends between 1964 and the beginning of the CR.,SS00029,119,2,,,2018-05-29,MG,2018-05-29,MG
 A00442,P0131,AT01,PS00350,,1972,1972,unknown,SS00153,559,2,,,2018-05-29,MG,2018-05-29,MG
@@ -425,4 +425,24 @@ A00447,P0047,AT15,AW00101,,1967,1967,unknown,SS00150,ONLINE SOURCE,2,,,2018-06-0
 A00448,P0043,AT15,AW00101,,1967,1967,unknown,SS00150,ONLINE SOURCE,2,,,2018-06-01,MG,2018-06-01,MG
 A00449,P0010,AT01,PS00352,,1971..1972,1971..1972,unknown,SS00114,196,2,,,2018-06-01,MG,2018-06-01,MG
 A00450,P0029,AT05,PS00353,,1964..1966,1964..1966,Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,119,2,,,2018-06-01,MG,2018-06-01,MG
-A00451,P0131,AT01,PS00354,,1978,1978,Someone recommended him to borrow this book,SS00153,560f,2,,,2018-06-01,MG,2018-06-01,MG
+A00601,P0131,AT01,PS00354,,1978,1978,Someone recommended him to borrow this book,SS00153,560f,2,,,2018-06-01,MG,2018-06-05,MG
+A00602,P0033,AT22,PS00357,,1961..1962,1961..1962,Zhou reminds this tale seeing his brother,SS00116,ONLINE SOURCE,2,,,2018-06-04,MG,2018-06-05,MG
+A00603,P0041,AT01,PS09999,,1966..1976,1966..1976,she writes that now she can only recall having secretly read works from Hugo and Pushkin at that time,SS00119,ONLINE SOURCE,2,unknown work by: P0324,,2018-06-04,MG,2018-06-05,MG
+A00604,P0018,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00158,311,2,unknown work by: P0324,pls check the source again,2018-06-04,MG,2018-06-05,MG
+A00605,P0003,AT05,PS00356,,196x..197x,196x..197x,unknown,SS00185,112,2,,,2018-06-04,MG,2018-06-05,MG
+A00606,P0106,AT02,PS00355,,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
+A00607,P0106,AT03,PS00355,P0999,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
+A00608,P0140,AT05,AW09999,,197x,197x,Chen reports that this was popular among underground circles in Beijing ,SS00157,75,2,unknown work by: P0387; AF05,,2018-06-04,MG,2018-06-05,MG
+A00609,P0999,AT05,PS09999,,196x..197x,196x..197x,Han remembers a worker who frequently mentioned Pound,SS00005,583,2,uknown work by: P0388; G10,,2018-06-04,MG,2018-06-05,MG
+A00610,P0132,AT11,PS00359,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,,,2018-06-05,MG,2018-06-05,MG
+A00611,P0132,AT11,PS09999,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,unknown work by: P0389,,2018-06-05,MG,2018-06-05,MG
+A00612,P0133,AT01,PS00360,,1970..1979,1970..1979,Bo and his middle scchool classmates were reading a lot of books in a private study group,SS00154,531,2,,,2018-06-05,MG,2018-06-05,MG
+A00613,P0130,AT16,PS00451,,1967~,1967~,Influenced the way Xu perceived the role of the individual,SS00149,417,2,,,2018-06-05,MG,2018-06-05,MG
+A00614,P0130,AT16,PS00452,,1967~,1967~,Influenced the way Xu perceived the role of the individual,SS00149,417,2,,,2018-06-05,MG,2018-06-05,MG
+A00615,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions Plato as an item which appears in his uncle‘s notebook,SS00030,52,2,unknown work by P0392,,2018-06-06,MG,2018-06-06,MG
+A00616,P0109,AT01,PS00453,,1969~,1972~,A friend (possibly penpal) recommended to read Plato. Hard reading which she forgot completely afterwards,SS00014,301,2,,,2018-06-06,MG,2018-06-06,MG
+A00617,P0133,AT16,PS09999,,1979~,1979~,Bo was influenced by Plath and adapted her style in his early work,SS00154,536,2,unknown work by P0393; G10,,2018-06-06,MG,2018-06-06,MG
+A00618,P0397,AT01,PS00454,,197x,197x,Ma read this prose to Bo Hua and others,SS00154,542,2,,,2018-06-11,MG,2018-06-11,MG
+A00619,P0133,AT23,PS00454,,197x,197x,Ma read this prose to Bo Hua and others,SS00154,542,2,,,2018-06-11,MG,2018-06-11,MG
+A00620,P0133,AT05,PS00455,,197x,197x,Bo mentions this as a well-known and aesthetically influential book among the youth,SS00154,541,2,,,2018-06-11,MG,2018-06-11,MG
+A00621,P0131,AT16,PS00456,,1975,1975,This novel influenced Li‘s understanding of literature and society,SS00153,554,2,,,2018-06-11,MG,2018-06-11,MG
