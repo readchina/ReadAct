@@ -753,19 +753,19 @@ P0392,柏拉图,,zh,male,NULL,NULL,NULL,NULL,"[-0424,-0423]","[-0348,-0347]",NUL
 P0392,Πλάτων,,grc,male,NULL,NULL,NULL,NULL,"[-0424,-0423]","[-0348,-0347]",NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Plato,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
 P0393,Plath,Sylvia,en,female,NULL,NULL,NULL,NULL,1932,1963,NULL,NULL,PL0269,NULL,NULL,https://en.wikipedia.org/wiki/Sylvia_Plath,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
 P0393,普拉斯,希薇亞,zh,female,NULL,NULL,NULL,NULL,1932,1963,NULL,NULL,PL0269,NULL,NULL,https://en.wikipedia.org/wiki/Sylvia_Plath,ONLINE SOURCE,,,,,2018-06-06,MG,2018-06-06,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0394,Pissarro,Camille,fr,male,NULL,NULL,NULL,NULL,1830,1903,NULL,NULL,PL0273,NULL,NULL,https://en.wikipedia.org/wiki/Camille_Pissarro,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0394,畢沙羅,卡米耶,zh,male,NULL,NULL,NULL,NULL,1830,1903,NULL,NULL,PL0273,NULL,NULL,https://en.wikipedia.org/wiki/Camille_Pissarro,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0395,Picasso,Pablo,es,male,NULL,NULL,NULL,NULL,1881,1973,NULL,NULL,PL0274,NULL,NULL,https://en.wikipedia.org/wiki/Pablo_Picasso,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0395,毕卡索,巴勃罗,zh,male,NULL,NULL,NULL,NULL,1881,1973,NULL,NULL,PL0274,NULL,NULL,https://en.wikipedia.org/wiki/Pablo_Picasso,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0396,Paustovsky,Konstantin,en,male,NULL,NULL,NULL,NULL,1892,1968,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Konstantin_Paustovsky,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0396,Паусто́вский,Константи́н,ru,male,NULL,NULL,NULL,NULL,1892,1968,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Konstantin_Paustovsky,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0396,帕乌斯托夫斯基,康斯坦丁,zh,male,NULL,NULL,NULL,NULL,1892,1968,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Konstantin_Paustovsky,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0397,Ma,Xinglin,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00154,542,,,,,2018-06-11,MG,2018-06-11,MG
+P0398,Pasternak,Boris Leonidovich,en,male,NULL,NULL,NULL,NULL,1890,1960,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Boris_Pasternak,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0398,Пастерна́к,Бори́с Леони́дович,ru,male,NULL,NULL,NULL,NULL,1890,1960,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Boris_Pasternak,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0398,帕斯捷尔纳克,鲍里斯 列昂尼多维奇,zh,male,NULL,NULL,NULL,NULL,1890,1960,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Boris_Pasternak,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0399,Paganini,Niccolò,it,male,NULL,NULL,NULL,NULL,1782,1840,NULL,NULL,PL0276,NULL,NULL,https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
+P0399,帕格尼尼,尼可罗,zh,male,NULL,NULL,NULL,NULL,1782,1840,NULL,NULL,PL0276,NULL,NULL,https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini,ONLINE SOURCE,,,,,2018-06-11,MG,2018-06-11,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,

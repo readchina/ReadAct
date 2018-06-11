@@ -558,23 +558,23 @@ PS00350,约翰·克利斯朵夫,,zh,P0380,G04,PL0002,1950,Sanlian shudian,,no,,,
 PS00351,Vie de Beethoven,,fr,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
 PS00351,Beiduofen zhuan,,zh-Latn-pinyin,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
 PS00351,貝多芬傳,,zh,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
-PS00352,The Rommel Papers ,,en,P0383,G14,,,,,no,,,,,not sure about English title,2018-06-01,MG,2018-06-01,MG
-PS00352,,,zh-Latn-pinyin,P0383,G14,,,,,no,,,,,,2018-06-01,MG,2018-06-01,MG
-PS00352,战时日记,,zh,P0383,G14,,,,,no,,,,,,2018-06-01,MG,2018-06-01,MG
+PS00352,The Rommel Papers ,,en,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
+PS00352,,,zh-Latn-pinyin,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
+PS00352,隆美尔战时文件,,zh,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
 PS00353,Les Confessions,,fr,P0384,G03,PL0002,1980,Renmin wenxue chubanshe,,no,,,,,,2018-06-01,MG,2018-06-01,MG
 PS00353,,,zh-Latn-pinyin,P0384,G03,PL0002,1980,Renmin wenxue chubanshe,,no,,,,,,2018-06-01,MG,2018-06-01,MG
 PS00353,忏悔彔,,zh,P0384,G03,PL0002,1980,Renmin wenxue chubanshe,,no,,,,,,2018-06-01,MG,2018-06-01,MG
 PS00354,A History of Western Philosophy,,en,P0385,G29,PL0002,1963,Shangwu yinshuguan,,,,,,,,2018-06-01,MG,2018-06-01,MG
 PS00354,,,zh-Latn-pinyin,P0385,G29,PL0002,1963,Shangwu yinshuguan,,,,,,,,2018-06-01,MG,2018-06-01,MG
 PS00354,西方哲学史,,zh,P0385,G29,PL0002,1963,Shangwu yinshuguan,,,,,,,,2018-06-01,MG,2018-06-01,MG
-PS00355,To the Sea,,en,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00355,К Морю,,ru,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00355,,,zh-Latn-pinyin,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00355,致大海,,zh,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00356,If by Life you Were Deceived,,en,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00356,Если жизнь тебя обманет,,ru,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00356,,,zh-Latn-pinyin,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
-PS00356,假如生活欺骗了你,,zh,P0324,G10,,,,,,,,,,,2018-06-04,MG,2018-06-04,MG
+PS00355,To the Sea,,en,P0324,G10,,,,,,PS09999,,,first russian publication in 1825,,2018-06-04,MG,2018-06-11,MG
+PS00355,К Морю,,ru,P0324,G10,,,,,,PS09999,,,first russian publication in 1825,,2018-06-04,MG,2018-06-11,MG
+PS00355,,,zh-Latn-pinyin,P0324,G10,,,,,,PS09999,,,first russian publication in 1825,,2018-06-04,MG,2018-06-11,MG
+PS00355,致大海,,zh,P0324,G10,,,,,,PS09999,,,first russian publication in 1825,,2018-06-04,MG,2018-06-11,MG
+PS00356,If by Life you Were Deceived,,en,P0324,G10,,,,,,PS09999,,,,,2018-06-04,MG,2018-06-11,MG
+PS00356,Если жизнь тебя обманет,,ru,P0324,G10,,,,,,PS09999,,,,,2018-06-04,MG,2018-06-11,MG
+PS00356,,,zh-Latn-pinyin,P0324,G10,,,,,,PS09999,,,,,2018-06-04,MG,2018-06-11,MG
+PS00356,假如生活欺骗了你,,zh,P0324,G10,,,,,,PS09999,,,,,2018-06-04,MG,2018-06-11,MG
 PS00357,The Tale of the Fisherman and the Fish,,en,P0324,G08,PL0003,1959,Shao nian er tong chubanshe,,,,,,,,2018-06-04,MG,2018-06-04,MG
 PS00357,Сказка о рыбаке и рыбке,,ru,P0324,G08,PL0003,1959,Shao nian er tong chubanshe,,,,,,,,2018-06-04,MG,2018-06-04,MG
 PS00357,,,zh-Latn-pinyin,P0324,G08,PL0003,1959,Shao nian er tong chubanshe,,,,,,,,2018-06-04,MG,2018-06-04,MG
@@ -600,15 +600,15 @@ PS00452,历史唯物论,,zh,P0391,G29,PL0002,1950,Sanlian shudian,,,,,,,,2018-06
 PS00453,The Dialogues of Plato,,en,P0392,G29,PL0003,1954,Wenyi lianhe chubanshe,,,,,,,,2018-06-06,MG,2018-06-06,MG
 PS00453,,,zh-Latn-pinyin,P0392,G29,PL0003,1954,Wenyi lianhe chubanshe,,,,,,,,2018-06-06,MG,2018-06-06,MG
 PS00453,柏腊图文艺对话集,,zh,P0392,G29,PL0003,1954,Wenyi lianhe chubanshe,,,,,,,,2018-06-06,MG,2018-06-06,MG
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
+PS00454,Rainy Dawn,And Other Stories,en,P0396,G05,PL0002,2002,Waiguo wenxue chubanshe,,,,,,,can‘t find any chinese publication earlier than 2002,2018-06-11,MG,2018-06-11,MG
+PS00454,,,zh-Latn-pinyin,P0396,G05,PL0002,2002,Waiguo wenxue chubanshe,,,,,,,can‘t find any chinese publication earlier than 2002,2018-06-11,MG,2018-06-11,MG
+PS00454,烟雨霏霏的黎明,,zh,P0396,G05,PL0002,2002,Waiguo wenxue chubanshe,,,,,,,can‘t find any chinese publication earlier than 2002,2018-06-11,MG,2018-06-11,MG
+PS00455,The Golden Rose,,en,P0396,G28,PL0003,1959,Shanghai wenyi chubanshe,,,,,,,,2018-06-11,MG,2018-06-11,MG
+PS00455,,,zh-Latn-pinyin,P0396,G28,PL0003,1959,Shanghai wenyi chubanshe,,,,,,,,2018-06-11,MG,2018-06-11,MG
+PS00455,金蔷薇,,zh,P0396,G28,PL0003,1959,Shanghai wenyi chubanshe,,,,,,,,2018-06-11,MG,2018-06-11,MG
+PS00456,Doctor Zhivago,,en,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
+PS00456,,,zh-Latn-pinyin,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
+PS00456,日瓦戈医生,,zh,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
