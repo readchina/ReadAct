@@ -436,7 +436,7 @@ A00608,P0140,AT05,AW09999,,197x,197x,Chen reports that this was popular among un
 A00609,P0999,AT05,PS09999,,196x..197x,196x..197x,Han remembers a worker who frequently mentioned Pound,SS00005,583,2,uknown work by: P0388; G10,,2018-06-04,MG,2018-06-05,MG
 A00610,P0132,AT11,PS00359,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,,,2018-06-05,MG,2018-06-05,MG
 A00611,P0132,AT11,PS09999,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,unknown work by: P0389,,2018-06-05,MG,2018-06-05,MG
-A00612,P0133,AT01,PS00360,,1970..1979,1970..1979,Bo and his middle scchool classmates were reading a lot of books in a private study group,SS00154,531,2,,,2018-06-05,MG,2018-06-05,MG
+A00612,P0133,AT01,PS00360,,1970..1979,1970..1979,Bo and his middle school classmates were reading a lot of books in a private study group,SS00154,531,2,,,2018-06-05,MG,2018-06-18,MG
 A00613,P0130,AT16,PS00451,,1967~,1967~,Influenced the way Xu perceived the role of the individual,SS00149,417,2,,,2018-06-05,MG,2018-06-05,MG
 A00614,P0130,AT16,PS00452,,1967~,1967~,Influenced the way Xu perceived the role of the individual,SS00149,417,2,,,2018-06-05,MG,2018-06-05,MG
 A00615,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions Plato as an item which appears in his uncle‘s notebook,SS00030,52,2,unknown work by P0392,,2018-06-06,MG,2018-06-06,MG
@@ -446,3 +446,17 @@ A00618,P0397,AT01,PS00454,,197x,197x,Ma read this prose to Bo Hua and others,SS0
 A00619,P0133,AT23,PS00454,,197x,197x,Ma read this prose to Bo Hua and others,SS00154,542,2,,,2018-06-11,MG,2018-06-11,MG
 A00620,P0133,AT05,PS00455,,197x,197x,Bo mentions this as a well-known and aesthetically influential book among the youth,SS00154,541,2,,,2018-06-11,MG,2018-06-11,MG
 A00621,P0131,AT16,PS00456,,1975,1975,This novel influenced Li‘s understanding of literature and society,SS00153,554,2,,,2018-06-11,MG,2018-06-11,MG
+A00622,P0106,AT01,PS09999,,196x..197x,196x..197x,unknown,SS00005,583,2,unknown work by: P0400; G29,,2018-06-12,MG,2018-06-12,MG
+A00623,P0999,AT03,PS09999,P0106,196x..197x,196x..197x,An educated youth had access to books via his father (cadre) and handed some of them over to Han.,SS00005,583,2,unknown work by: P0400; G29,,2018-06-12,MG,2018-06-12,MG
+A00624,P0154,AT05,AW00102,,196x..197x,196x..197x,unknown,SS00160,386,2,,for substantial discussion pls check the source again,2018-06-12,MG,2018-06-12,MG
+A00625,P0033,AT01,PS00457,,1955~,1955~,unknown,SS00116,ONLINE SOURCE,2,,,2018-06-12,MG,2018-06-12,MG
+A00626,P0106,AT05,PS09999,,1972~,1972~,unknown,SS00005,580,2,unknown work by: P0222,,2018-06-12,MG,2018-06-12,MG
+A00627,P0106,AT05,AW00103,,196x..197x,196x..197x,Han mentions that the educated youth also transcribed songs in their notebooks,SS00005,578,2,,,2018-06-12,MG,2018-06-12,MG
+A00628,P0138,AT05,PS00458,,1968,1968,unknown,SS00111,189,2,,,2018-06-18,MG,2018-06-18,MG
+A00629,P0131,AT01,PS00458,,196x..197x,196x..197x,The author remembered that Mr. Li Shu praised this book greatly.,SS00153,555,2,,,2018-06-18,MG,2018-06-18,MG
+A00630,P0020,AT01,PS00458,,1970..1975,1970..1975,Gao Hua mentioned that this book was one of the most influential for him during early/ mid 1970s.,SS00006,136,2,,,2018-06-18,MG,2018-06-18,MG
+A00631,P0033,AT01,PS00246,,1955~,1955~,unknown,SS00116,ONLINE SOURCE,2,,,2018-06-19,MG,2018-06-19,MG
+A00632,P0120,AT01,PS00246,,1952~,1952~,unknown,SS00030,56,2,,,2018-06-19,MG,2018-06-19,MG
+A00633,P0106,AT01,PS00246,,1967,1967,unknown,SS00005,569,2,,,2018-06-19,MG,2018-06-19,MG
+A00634,P0106,AT12,PS00246,,1967..197x,1967..197x,Han‘s home was plundered and his collections were confiscated by Red Guards,SS00005,569,2,,,2018-06-19,MG,2018-06-19,MG
+A00635,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions it as item listed in his uncle‘s notebook,SS00030,52,2,unknown work by: P0186,,2018-06-19,MG,2018-06-19,MG
