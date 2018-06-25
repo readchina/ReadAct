@@ -783,14 +783,14 @@ P0405,漢默斯坦二世,奧斯卡,zh,male,NULL,NULL,NULL,NULL,1895,1960,NULL,NU
 P0406,Lei,Feng,en,male,NULL,NULL,NULL,NULL,1940,1962,NULL,NULL,PL0280,NULL,NULL,https://en.wikipedia.org/wiki/Lei_Feng,ONLINE SOURCE,,,,,2018-06-19,MG,2018-06-19,MG
 P0406,雷,峰,zh,male,NULL,NULL,NULL,NULL,1940,1962,NULL,NULL,PL0280,NULL,NULL,https://en.wikipedia.org/wiki/Lei_Feng,ONLINE SOURCE,,,,,2018-06-19,MG,2018-06-19,MG
 P0407,Lu,Shu Jiang,en,,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00250,,,,,,2018-06-19,MG,2018-06-19,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0408,Li,Jieren,en,male,NULL,NULL,NULL,NULL,1891,1962,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Li_Jieren,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0408,李,劼人,zh,male,NULL,NULL,NULL,NULL,1891,1962,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Li_Jieren,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0409,Li,Qingzhao,en,female,NULL,NULL,NULL,NULL,1084,1155..1156,NULL,NULL,PL0153,NULL,NULL,https://en.wikipedia.org/wiki/Li_Qingzhao,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0409,李,清照,zh,female,NULL,NULL,NULL,NULL,1084,1155..1156,NULL,NULL,PL0153,NULL,NULL,https://en.wikipedia.org/wiki/Li_Qingzhao,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0410,Li,Jun,en,,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-25,MG,2018-06-25,MG
+P0410,李,俊,zh,,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,,,,,,,2018-06-25,MG,2018-06-25,MG
+P0411,Feng,Jicai,en,male,unknown,NULL,NULL,NULL,1942,,NULL,NULL,PL0018,NULL,NULL,https://en.wikipedia.org/wiki/Feng_Jicai,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
+P0411,冯,骥才,zh,male,unknown,NULL,NULL,NULL,1942,,NULL,NULL,PL0018,NULL,NULL,https://en.wikipedia.org/wiki/Feng_Jicai,ONLINE SOURCE,,,,,2018-06-25,MG,2018-06-25,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
