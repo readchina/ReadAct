@@ -797,12 +797,12 @@ P0413,Luo,Guangbin,en,male,unknown,NULL,NULL,NULL,1926,1967,NULL,NULL,PL0012,NUL
 P0413,罗,广斌,zh,male,unknown,NULL,NULL,NULL,1926,1967,NULL,NULL,PL0012,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B9%BF%E6%96%8C,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
 P0414,García Lorca,Federico,es,male,NULL,NULL,NULL,NULL,1898,1936,NULL,NULL,PL0282,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
 P0414,加西亚 洛尔卡,费德里戈,zh,male,NULL,NULL,NULL,NULL,1898,1936,NULL,NULL,PL0282,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca,ONLINE SOURCE,,,,,2018-06-28,MG,2018-06-28,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
+P0415,Osborne,John,en,male,NULL,NULL,NULL,NULL,1929,1994,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Osborne,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0415,奥斯本,,zh,male,NULL,NULL,NULL,NULL,1929,1994,NULL,NULL,PL0036,NULL,NULL,https://en.wikipedia.org/wiki/John_Osborne,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0416,Ormandy,Eugene,en,male,NULL,NULL,NULL,NULL,1899,1985,Jenő Blau,en,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Eugene_Ormandy,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0416,奥曼迪,尤金,zh,male,NULL,NULL,NULL,NULL,1899,1985,言 布勞,zh,PL0126,NULL,NULL,https://en.wikipedia.org/wiki/Eugene_Ormandy,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0417,Nobel,Alfred,en,male,NULL,NULL,NULL,NULL,1833,1896,NULL,NULL,PL0283,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_Nobel,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
+P0417,诺贝尔,阿尔弗雷德,zh,male,NULL,NULL,NULL,NULL,1833,1896,NULL,NULL,PL0283,NULL,NULL,https://en.wikipedia.org/wiki/Alfred_Nobel,ONLINE SOURCE,,,,,2018-07-03,MG,2018-07-03,MG
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,

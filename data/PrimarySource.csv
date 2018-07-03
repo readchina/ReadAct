@@ -295,7 +295,7 @@ PS00215,问题的核心 ,,zh,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,
 PS00217,Grimms Märchen,,de,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-02-13,OS,2018-02-13,OS
 PS00217,Ertong yu jiating tonghuaji,,zh-Latn-pinyin,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00217,儿童与家庭童话集 ,,zh,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-02-13,OS,2018-02-13,OS
-PS00218,How the Steel Was Tempered ,,en,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-02-13,OS
+PS00218,How the Steel was Tempered,,en,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-07-03,MG
 PS00218,Gangtie shi zenyang liancheng de,,zh-Latn-pinyin,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00218,钢铁是怎样炼成的 ,,zh,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-02-13,OS
 PS00219,Great Changes in a Mountain Village,,en,P0249,G04,PL0002,1958,Renmin wenxue chubanshe,1958,no,,,,,,2018-02-13,OS,2018-04-18,MG
@@ -637,9 +637,9 @@ PS00465,纪念刘和珍君,,zh,P0001,G23,,,,,,PS09999,,, text was written on Apr
 PS00466,Red Crag,,en,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
 PS00466,Hong yan,,zh-Latn-pinyin,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
 PS00466,红岩,,zh,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
+PS00467,Look Back in Anger,,en,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
+PS00467,,,zh-Latn-pinyin,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
+PS00467,愤怒的回顾,,zh,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
