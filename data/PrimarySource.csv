@@ -1,7 +1,7 @@
 prim_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
-PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2017-07-03,LH,2017-10-02,DP
-PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2018-04-25,MG,2018-05-23,MG
-PS00001,无声的中国 ,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,In the essay Lu Xun 'critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a 'silent China' ... for centuries,,2017-07-03,LH,2017-10-02,DP
+PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2017-07-03,LH,2017-10-02,DP
+PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2018-04-25,MG,2018-05-23,MG
+PS00001,无声的中国 ,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2017-07-03,LH,2017-10-02,DP
 PS00002,English 900,,en,I0003,G20,PL0050,1964,Macmillan,,no,,,,,,2017-07-12,OS,2017-10-16,MG
 PS00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2017-07-12,OS,2017-07-12,OS
 PS00004,Bai lunchuan,,zh-Latn-pinyin,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2018-04-25,MG,2018-05-23,MG
@@ -41,9 +41,9 @@ PS00041,乌云密布的天空 ,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,
 PS00042,Le Balcon,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
 PS00042,Yangtai,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00042,阳台 ,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
-PS00050,,,en,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2017-08-20,MG,2018-02-08,OS
-PS00050,Xiaoshi zai andan de ye wu zhong,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2018-04-25,MG,2018-05-23,MG
-PS00050,消失在暗淡的夜雾中 ,,zh,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called called ""В тумане“, translated into English as „In the fog"", nowadays translated into Chinese as 雾中. We do not know in how far that book is related to the one mentioned by Guo Shiying. nlc.com does not know any 消失在暗淡的夜雾中. ",,2017-08-20,MG,2018-02-08,OS
+PS00050,,,en,P0082,G04,PL0002,,,,,,,,1902 Andreev published a short book called 'В тумане' (ru) 'In the Fog' (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown; nlc.com does not know any 消失在暗淡的夜雾中,,2017-08-20,MG,2018-06-22,DP
+PS00050,Xiaoshi zai andan de ye wu zhong,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,1902 Andreev published a short book called 'В тумане' (ru) 'In the Fog' (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown; nlc.com does not know any 消失在暗淡的夜雾中,,2018-04-25,MG,2018-06-22,DP
+PS00050,消失在暗淡的夜雾中 ,,zh,P0082,G04,PL0002,,,,,,,,1902 Andreev published a short book called 'В тумане' (ru) 'In the Fog' (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown; nlc.com does not know any 消失在暗淡的夜雾中,,2017-08-20,MG,2018-06-22,DP
 PS00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,Translated by project member,,2017-08-20,MG,2017-11-11,MG
 PS00051,Gongren Suihuilüefu,,zh-Latn-pinyin,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00051,工人绥惠略夫 ,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2017-08-20,MG,2018-01-16,OS
@@ -61,7 +61,7 @@ PS00056,Renshi jian,,zh-Latn-pinyin,P0088,G04,PL0003,1972,Shanghai renmin chuban
 PS00056,人世间 ,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2017-08-26,MG,2017-08-26,MG
 PS00057,Watching the Barley Harvest, ,en,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-01-12,MG
 PS00057,Guan yi mai,,zh-Latn-pinyin,P0090,G10,,,,,,,,,,,2018-04-25,MG,2018-05-23,MG
-PS00057,观刈麦,,en,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-01-12,MG
+PS00057,观刈麦,,zh,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-06-22,DP
 PS00058,,,en,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00058,Shan guniang,,zh-Latn-pinyin,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00058,山姑娘,,zh,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-04-25,MG
@@ -103,8 +103,8 @@ PS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by proje
 PS00071,Xian gei Aiqinhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2018-04-25,MG,2018-05-29,WH
 PS00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-01-12,MG
 PS00072,For a Sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-04-18,MG
-PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,influenced by Sylvia Plath's style written in 1979,,2018-04-25,MG,2018-05-23,MG
-PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,influenced by Sylvia Plath's style written in 1979,,2017-09-15,MG,2018-01-12,MG
+PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2018-04-25,MG,2018-05-23,MG
+PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2017-09-15,MG,2018-01-12,MG
 PS00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
 PS00073,Wang shang pa,,zh-Latn-pinyin,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00073,往上爬 ,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
@@ -216,18 +216,18 @@ PS00180,The Thaw,,en,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-0
 PS00180,Оттепель ,,ru,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
 PS00180,Jiedong,,zh-Latn-pinyin,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00180,解冻 ,,zh,P0250,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-01-23,OS
-PS00181,"People, Years, Life",,en,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
-PS00181,"Люди, годы, жизнь ",,ru,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
-PS00181,人、岁月、生活 ,,zh,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-01-23,OS,2018-01-23,OS
-PS00181,"Ren, suiyue, shenghuo",,zh-Latn-pinyin,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,"the first four volumes were published between 1962-1964, the last two in 1979",,2018-04-25,MG,2018-05-29,WH
-PS00182,"Selected Essays, 1917-1932",,en,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
+PS00181,"People, Years, Life",,en,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,vol.1-4 1962-1964; vol.3-4 1979,,2018-01-23,OS,2018-06-22,DP
+PS00181,"Люди, годы,  жизнь", ,ru,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,vol.1-4 1962-1964; vol.3-4 1979,,2018-01-23,OS,2018-06-22,DP
+PS00181,人、岁月、生活 ,,zh,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,vol.1-4 1962-1964; vol.3-4 1979,,2018-01-23,OS,2018-06-22,DP
+PS00181,"Ren, suiyue, shenghuo", ,zh-Latn-pinyin,P0250,G03,PL0002,1962,Zuojia chubanshe,1962,yes,,,,vol.1-4 1962-1964; vol.3-4 1979,,2018-04-25,MG,2018-06-22,DP
+PS00182,Selected Essays 1917-1932,,en,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
 PS00182,Ailuete lunwen xuan,,zh-Latn-pinyin,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00182,艾略特论文选 ,,zh,P0251,G01,PL0003,1962,Shanghai wenyi chubanshe,1962,yes,,,,,,2018-01-24,OS,2018-01-24,OS
 PS00183,The Collected Poems of Paul Éluard ,,en,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,Translated by project member,,2018-01-24,OS,2018-04-18,MG
 PS00183,Ailüya shichao,,zh-Latn-pinyin,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00183,艾吕雅诗钞 ,,zh,P0252,G10,PL0002,1954,Renmin wenxue chubanshe,1954,no,,,,,,2018-01-24,OS,2018-01-24,OS
 PS00184,Hello Sadness,,en,P0252,G10,,,,,,PS00183,,,Translated by project member,,2018-01-24,OS,2018-04-18,MG
-PS00184,"Nihao, aichou",,zh-Latn-pinyin,P0252,G10,,,,,,PS00183,,,,,2018-04-25,MG,2018-05-29,WH
+PS00184,"Nihao, aichou",,zh-Latn-pinyin,P0252,G10,,,,,,PS00183,,,,,2018-04-25,MG,2018-06-22,DP
 PS00184,你好，哀愁 ,,zh,P0252,G10,,,,,,PS00183,,,,,2018-01-24,OS,2018-01-24,OS
 PS00186,Anti-Dühring ,,de,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-01-24,OS,2018-01-24,OS
 PS00186,Fan Dulin lun,,zh-Latn-pinyin,P0253,G01,PL0002,1949,Sanlian shudian,,no,,,,there were many editions of this work before and after the founding of the PRC,,2018-04-25,MG,2018-05-29,WH
@@ -238,7 +238,7 @@ PS00187,自然辩证法 ,,zh,P0253,G01,PL0003,1949,Wenyuan chubanshe,,no,,,,,,20
 PS00188,A Brief History of China,,en,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-04-18,MG
 PS00188,Zhongguo tongshi jian bian ,,zh-Latn-pinyin,P0254,G19,,,,,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00188,中国通史简编 ,,zh,P0254,G19,,,,,,,,,,,2018-01-25,OS,2018-01-25,OS
-PS00191,反杜林论 ,,en,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
+PS00191,反杜林论 ,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-06-22,DP
 PS00191,,,zh-Latn-pinyin,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-04-25,MG,2018-04-25,MG
 PS00191,Stories Old and New ,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
 PS00194,The Gadfly,,en,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2018-02-02,OS
@@ -277,25 +277,25 @@ PS00208,当芙蓉花重新开放的时候 ,,zh,P0071,G04,,,,,,,,,never officiall
 PS00209,I Want to Study!,,en,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,,2018-02-11,OS,2018-04-18,MG
 PS00209,Wo yao dushu,,zh-Latn-pinyin,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00209,我要读书,,zh,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,,2018-02-11,OS,2018-02-11,OS
-PS00210,Perspectives de l'homme,"Existentialisme, Pensée catholique, Structuralisme, Marxisme",fr,P0241,G29,PL0002,1965,Sanlian shudian ,1965,yes,,,,,,2018-02-11,OS,2018-04-18,MG
+PS00210,"Perspectives de l'homme, Existentialisme, Pensée catholique, Structuralisme, Marxisme",,fr,P0241,G29,PL0002,1965,Sanlian shudian ,1965,yes,,,,,,2018-02-11,OS,2018-06-22,DP
 PS00210,Ren de yuanjing,,zh-Latn-pinyin,P0241,G29,PL0002,1965,Sanlian shudian ,1965,yes,,,,,,2018-04-25,MG,2018-05-29,WH
-PS00210,人的远景,存在主义，天主教思想，马克思主义,zh,P0241,G29,PL0002,1965,Sanlian shudian ,1965,yes,,,,,,2018-02-11,OS,2018-02-11,OS
-PS00211,,,en,P0012,G10,,,,,,,,,Genzi's poem circulated from the early 1970s onwards; probably 1972,,2018-02-12,OS,2018-02-12,OS
-PS00211,Sanyue yu mori,,zh-Latn-pinyin,P0012,G10,,,,,,,,,Genzi's poem circulated from the early 1970s onwards; probably 1972,,2018-04-25,MG,2018-05-29,WH
-PS00211,三月与末日,,zh,P0012,G10,,,,,,,,,Genzi's poem circulated from the early 1970s onwards; probably 1972,,2018-02-12,OS,2018-02-12,OS
-PS00212,Les Nourritures Terrestres ,,fr,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Originally published in 1897. It was forbidden after 1949. Not part of the neibu translations.,,2018-02-12,OS,2018-04-25,MG
-PS00212,Di liang,,zh-Latn-pinyin,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Originally published in 1897. It was forbidden after 1949. Not part of the neibu translations.,,2018-04-25,MG,2018-05-29,WH
-PS00212,地粮 ,,zh,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Originally published in 1897. It was forbidden after 1949. Not part of the neibu translations.,,2018-02-12,OS,2018-02-12,OS
+PS00210,人的远景，存在主义，天主教思想，马克思主义,,zh,P0241,G29,PL0002,1965,Sanlian shudian ,1965,yes,,,,,,2018-02-11,OS,2018-02-11,OS
+PS00211,,,en,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2018-02-12,OS,2018-06-22,DP
+PS00211,Sanyue yu mori,,zh-Latn-pinyin,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2018-04-25,MG,2018-06-22,DP
+PS00211,三月与末日,,zh,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2018-02-12,OS,2018-06-22,DP
+PS00212,Les Nourritures Terrestres ,,fr,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Not part of the neibu translations; published in 1897 and forbidden after 1949,,2018-02-12,OS,2018-04-25,MG
+PS00212,Di liang,,zh-Latn-pinyin,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Not part of the neibu translations; published in 1897 and forbidden after 1949,,2018-04-25,MG,2018-05-29,WH
+PS00212,地粮 ,,zh,P0242,G04,PL0003,1949,Wenhua shenghuo chubanshe,1941?,no,,,,Not part of the neibu translations; published in 1897 and forbidden after 1949,,2018-02-12,OS,2018-02-12,OS
 PS00213,The Decameron,,en,P0103,G04,PL0003,1958,Xin Wenyi chubanshe,,yes and no,,,697,It exists a neibu edition from 1959 (published in Shanghai wenyi chubanshe). In how far these two editions differ remains unclear.,,2018-02-12,OS,2018-02-12,OS
 PS00213,Shi ri tan,,zh-Latn-pinyin,P0103,G04,PL0003,1958,Xin Wenyi chubanshe,,yes and no,,,697,It exists a neibu edition from 1959 (published in Shanghai wenyi chubanshe). In how far these two editions differ remains unclear.,,2018-04-25,MG,2018-05-29,WH
 PS00213,十日谈,,zh,P0103,G04,PL0003,1958,Xin Wenyi chubanshe,,yes and no,,,697,It exists a neibu edition from 1959 (published in Shanghai wenyi chubanshe). In how far these two editions differ remains unclear.,,2018-02-12,OS,2018-02-12,OS
-PS00215,The Heart of the Matter ,,en,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,the translated seems to have obtained the original long before the date of the Chinese translation's publication,,2018-02-13,OS,2018-02-13,OS
-PS00215,Wenti de hexin,,zh-Latn-pinyin,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,the translated seems to have obtained the original long before the date of the Chinese translation's publication,,2018-04-25,MG,2018-05-29,WH
-PS00215,问题的核心 ,,zh,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,the translated seems to have obtained the original long before the date of the Chinese translation's publication,,2018-02-13,OS,2018-02-13,OS
+PS00215,The Heart of the Matter ,,en,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,Translator seems to have access to the  original long before publication date of the Chinese translations,,2018-02-13,OS,2018-06-22,DP
+PS00215,Wenti de hexin,,zh-Latn-pinyin,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,Translator seems to have access to the  original long before publication date of the Chinese translations,,2018-04-25,MG,2018-06-22,DP
+PS00215,问题的核心 ,,zh,P0243,G04,PL0002,1980,Waiguo wenxue chubanshe,1980,no,,,,Translator seems to have access to the  original long before publication date of the Chinese translations,,2018-02-13,OS,2018-06-22,DP
 PS00217,Grimms Märchen,,de,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-02-13,OS,2018-02-13,OS
 PS00217,Ertong yu jiating tonghuaji,,zh-Latn-pinyin,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00217,儿童与家庭童话集 ,,zh,P0246,G30,PL0003,1949,Shangwu yinshuguan ,NULL,no,,,,,,2018-02-13,OS,2018-02-13,OS
-PS00218,How the Steel Was Tempered ,,en,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-02-13,OS
+PS00218,How the Steel was Tempered,,en,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-07-03,MG
 PS00218,Gangtie shi zenyang liancheng de,,zh-Latn-pinyin,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00218,钢铁是怎样炼成的 ,,zh,P0248,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-02-13,OS,2018-02-13,OS
 PS00219,Great Changes in a Mountain Village,,en,P0249,G04,PL0002,1958,Renmin wenxue chubanshe,1958,no,,,,,,2018-02-13,OS,2018-04-18,MG
@@ -336,7 +336,7 @@ PS00230,三门峡／梳妆台 ,,zh,P0256,G10,,,,,,,,,,,2018-02-14,OS,2018-02-14,
 PS00231,Prophecy ,,en,P0257,G10,,,,,,,,,,,2018-02-14,OS,2018-02-14,OS
 PS00231,Yuyan,,zh-Latn-pinyin,P0257,G10,,,,,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00231,预言 ,,zh,P0257,G10,,,,,,,,,,,2018-02-14,OS,2018-02-14,OS
-PS00232,The Brief 'Logic' by Hegel,,en,P0258,G29,PL0003,1950,Shangwu yinshuguan,,no,,,,,,2018-02-14,OS,2018-04-18,MG
+PS00232,The Brief Logic by Hegel,,en,P0258,G29,PL0003,1950,Shangwu yinshuguan,,no,,,,,,2018-02-14,OS,2018-04-18,MG
 PS00232,Hegeer de xiao luoji,,zh-Latn-pinyin,P0258,G29,PL0003,1950,Shangwu yinshuguan,,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00232,黑格尔的小逻辑 ,,zh,P0258,G29,PL0003,1950,Shangwu yinshuguan,,no,,,,,,2018-02-14,OS,2018-02-14,OS
 PS00233,Catch-22 ,,en,P0259,G04,PL0003,1981,Shanghai yiwen chubanshe,,,,,,Chen Danqing claims that this book was popular among Zhiqing. We however could not find an earlier Chinese edition than 1981.,,2018-02-14,OS,2018-02-14,OS
@@ -609,122 +609,41 @@ PS00455,金蔷薇,,zh,P0396,G28,PL0003,1959,Shanghai wenyi chubanshe,,,,,,,,2018
 PS00456,Doctor Zhivago,,en,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
 PS00456,,,zh-Latn-pinyin,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
 PS00456,日瓦戈医生,,zh,P0398,G04,PL0275,1986,Lijiang chubanshe,,,,,,,can‘t find any chinese publication earlier than 1986,2018-06-11,MG,2018-06-11,MG
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
+PS00457,Early Dawn,A Story About a Young Artist,en,P0402,G02,PL0002,1956,Zhonguo qing nian chubanshe,,no,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00457,,,zh-Latn-pinyin,P0402,G02,PL0002,1956,Zhonguo qing nian chubanshe,,no,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00457,初升的太阳,一个少年艺术家的故事,zh,P0402,G02,PL0002,1956,Zhonguo qing nian chubanshe,,no,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00458,Khrushchev Remembers,,en,P0228,G03,PL0002,1973,Sanlian shudian,,,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00458,,,zh-Latn-pinyin,P0228,G03,PL0002,1973,Sanlian shudian,,,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00458,赫鲁晓夫回忆录,,zh,P0228,G03,PL0002,1973,Sanlian shudian,,,,,,,,2018-06-12,MG,2018-06-12,MG
+PS00459,Lei Feng Diary,,en,P0406,G14,PL0002,1963,Jiefangshe wenyi she,,no,,,,,,2018-06-19,MG,2018-06-19,MG
+PS00459,,,zh-Latn-pinyin,P0406,G14,PL0002,1963,Jiefangshe wenyi she,,no,,,,,,2018-06-19,MG,2018-06-19,MG
+PS00459,雷锋日记,,zh,P0406,G14,PL0002,1963,Jiefangshe wenyi she,,no,,,,,,2018-06-19,MG,2018-06-19,MG
+PS00460,Ripple on Stagnant Water,,en,P0408,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00460,,,zh-Latn-pinyin,P0408,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00460,死水微澜,,zh,P0408,G04,PL0002,1955,Renmin wenxue chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00461,When the Sunset Disappears,,en,P0060,G04,PL0002,1981,Zhonguo qing nian chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00461,,,zh-Latn-pinyin,P0060,G04,PL0002,1981,Zhonguo qing nian chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00461,晚霞消失的时候,,zh,P0060,G04,PL0002,1981,Zhonguo qing nian chubanshe,,,,,,,,2018-06-25,MG,2018-06-25,MG
+PS00462,,,en,P0001,G23,,,,,,PS09999,,,http://www.ziyexing.com/luxun/luxun_zw_hgj_12.htm,,2018-06-26,MG,2018-06-28,MG
+PS00462,,,zh-Latn-pinyin,P0001,G23,,,,,,PS09999,,,http://www.ziyexing.com/luxun/luxun_zw_hgj_12.htm,,2018-06-26,MG,2018-06-28,MG
+PS00462,鲁迅文集·杂文集·华盖集,,zh,P0001,G23,,,,,,PS09999,,,http://www.ziyexing.com/luxun/luxun_zw_hgj_12.htm,,2018-06-26,MG,2018-06-28,MG
+PS00463,Great Wall,,en,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
+PS00463,,,zh-Latn-pinyin,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
+PS00463,长城,,zh,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
+PS00464,莽原,,zh,P0999,,PL0002,1926,,,,,No. 04,,,,2018-06-26,MG,2018-06-26,MG
+PS00465,In Memory of Miss Liu Hezhen,,en,P0001,G23,,,,,,PS09999,,, text was written on April 1; 1926,Only edition I could find was published in Hongkong; 1973; Chaoyang chubanshe,2018-06-28,MG,2018-06-28,MG
+PS00465,Ji nian Liu Hezhen jun,,zh-Latn-pinyin,P0001,G23,,,,,,PS09999,,, text was written on April 1; 1926,Only edition I could find was published in Hongkong; 1973; Chaoyang chubanshe,2018-06-28,MG,2018-06-28,MG
+PS00465,纪念刘和珍君,,zh,P0001,G23,,,,,,PS09999,,, text was written on April 1; 1926,Only edition I could find was published in Hongkong; 1973; Chaoyang chubanshe,2018-06-28,MG,2018-06-28,MG
+PS00466,Red Crag,,en,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
+PS00466,Hong yan,,zh-Latn-pinyin,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
+PS00466,红岩,,zh,P0413,G04,PL0002,1961,Zhongguo qingnian chubanshe,,,,,,,,2018-06-28,MG,2018-06-28,MG
+PS00467,Look Back in Anger,,en,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
+PS00467,,,zh-Latn-pinyin,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
+PS00467,愤怒的回顾,,zh,P0415,G40,PL0002,1962,Zhongguo xiju chubanshe,,yes,,,,,,2018-07-03,MG,2018-07-03,MG
+PS00468,Who is Happy in Russia?,,en,P0420,G10,PL0002,1950,Sanlian shudian,,,,,,,,2018-07-04,MG,2018-07-04,MG
+PS00468,,,zh-Latn-pinyin,P0420,G10,PL0002,1950,Sanlian shudian,,,,,,,,2018-07-04,MG,2018-07-04,MG
+PS00468,在俄罗斯谁能快乐而自由,,zh,P0420,G10,PL0002,1950,Sanlian shudian,,,,,,,,2018-07-04,MG,2018-07-04,MG
+PS00468,Кому На руси жить хорошо ,,ru,P0420,G10,PL0002,1950,Sanlian shudian,,,,,,,,2018-07-04,MG,2018-07-04,MG
 PS00401,Liberté,,fr,P0252,G10,,,,,,,,,,,2018-04-26,WH,2018-04-26,WH
 PS00401,Ziyou,,zh-Latn-pinyin,P0252,G10,,,,,,,,,,,2018-05-29,WH,2018-05-29,WH
 PS00401,自由,,zh,P0252,G10,,,,,,,,,,,2018-04-26,WH,2018-04-26,WH
