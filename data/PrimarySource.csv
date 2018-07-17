@@ -662,10 +662,10 @@ PS00405,蚕马,,zh,P0523,G10,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
 PS00406,Chengdu Overview,,en,P0524,G01,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
 PS00406,Chengdu tong lan,,zh-Latn-pinyin,P0524,G01,,,,,,,,,,,2018-05-29,WH,2018-05-29,WH
 PS00406,成都通览,,zh,P0524,G01,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
-PS00469,Road to Life,,en,P0422,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-09,MG
-PS00469,Педагогическая поэма,,ru,P0422,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-09,MG
-PS00469,,,zh-Latn-pinyin,P0422,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-09,MG
-PS00469,教育诗,,zh,P0422,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-09,MG
+PS00469,Road to Life,,en,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
+PS00469,Педагогическая поэма,,ru,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
+PS00469,,,zh-Latn-pinyin,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
+PS00469,教育诗,,zh,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
 PS00470,Reply to Comrade Guo Moruo,,en,P0174,G10,,,,,,PS00471,,,written in 1963,,2018-07-10,MG,2018-07-10,MG
 PS00470,,,zh-Latn-pinyin,P0174,G10,,,,,,PS00471,,,written in 1963,,2018-07-10,MG,2018-07-10,MG
 PS00470,满江红 和郭沫若同志,,zh,P0174,G10,,,,,,PS00471,,,written in 1963,,2018-07-10,MG,2018-07-10,MG
@@ -687,15 +687,21 @@ PS00475,毛泽东选集,,zh,P0174,G24,PL0002,1964,Renmin chubanshe,,,,,,,,2018-0
 PS00476,Talks at the Yenan Forum on Literature and Art,,en,P0174,G27,PL0002,1967,Renmin wenxue chubanshe,,,,,,,,2018-07-10,MG,2018-07-10,MG
 PS00476,,,zh-Latn-pinyin,P0174,G27,PL0002,1967,Renmin wenxue chubanshe,,,,,,,,2018-07-10,MG,2018-07-10,MG
 PS00476,在延安文艺座谈会上的讲话,,zh,P0174,G27,PL0002,1967,Renmin wenxue chubanshe,,,,,,,,2018-07-10,MG,2018-07-10,MG
-PS00477,One Dimensional Man,,en,P0425,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00477,Dan xiang du de ren,,zh-Latn-pinyin,P0425,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00477,单向度的人,,zh,P0425,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00478,Das Kapital,,de,P0181,G24,PL0003,1949,Xue yong she,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00478,Zi ben lun,,zh-Latn-pinyin,P0181,G24,PL0003,1949,Xue yong she,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00478,资本论,,zh,P0181,G24,PL0003,1949,Xue yong she,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00479,Kritik des Gothaer Programms,,de,P0181,G15,PL0002,1971,Minzu chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00479,Ge da gang ling pi ping,,zh-Latn-pinyin,P0181,G15,PL0002,1971,Minzu chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
-PS00479,哥达纲领批评,,zh,P0181,G15,PL0002,1971,Minzu chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
+PS00477,One Dimensional Man,,en,P0626,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00477,Dan xiang du de ren,,zh-Latn-pinyin,P0626,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00477,单向度的人,,zh,P0626,G29,PL0012,1988,Chongqing chubanshe,,,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00478,Das Kapital,,de,P0181,G24,PL0003,1949,Xue yong she,,yes,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00478,Zi ben lun,,zh-Latn-pinyin,P0181,G24,PL0003,1949,Xue yong she,,yes,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00478,资本论,,zh,P0181,G24,PL0003,1949,Xue yong she,,yes,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00479,Kritik des Gothaer Programms,,de,P0181,G15,PL0002,1971,Minzu chubanshe,,no,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00479,Ge da gang ling pi ping,,zh-Latn-pinyin,P0181,G15,PL0002,1971,Minzu chubanshe,,no,,,,,,2018-07-13,MG,2018-07-17,MG
+PS00479,哥达纲领批评,,zh,P0181,G15,PL0002,1971,Minzu chubanshe,,no,,,,,,2018-07-13,MG,2018-07-17,MG
 PS00480,Ökonomisch-philosophischen Manuskripte aus dem Jahre 1844,,de,P0181,G24,PL0002,1979,Renmin chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
 PS00480,1844 nian jing ji xue zhe xue shou gao,,zh-Latn-pinyin,P0181,G24,PL0002,1979,Renmin chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
 PS00480,1844年经濟学哲学手稿,,zh,P0181,G24,PL0002,1979,Renmin chubanshe,,,,,,,,2018-07-13,MG,2018-07-13,MG
+PS00481,La Révolution Française,,fr,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2018-07-17,MG,2018-07-17,MG
+PS00481,Fa guo da ge ming shi,,zh-Latn-pinyin,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2018-07-17,MG,2018-07-17,MG
+PS00481,法国大革命史,,zh,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2018-07-17,MG,2018-07-17,MG
+PS00482,Karl Marx,Geschichte seines Lebens,de,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
+PS00482,,,zh-Latn-pinyin,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
+PS00482,马克思传,,zh,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
