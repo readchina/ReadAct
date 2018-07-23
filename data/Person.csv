@@ -810,6 +810,11 @@ P0419,尼采,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1844,1900,NULL,NULL,PL0
 P0420,Nekrasov,Nikolay,en,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
 P0420,Некра́сов,Никола́й,ru,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
 P0420,涅克拉索夫,尼古拉,zh,male,NULL,NULL,NULL,NULL,1821,1878,NULL,NULL,PL0286,NULL,NULL,https://en.wikipedia.org/wiki/Nikolay_Nekrasov,ONLINE SOURCE,,,,,2018-07-04,MG,2018-07-04,MG
+P0622,Ma,Yanxiang,en,male,unknown,NULL,NULL,NULL,1907,1988,NULL,NULL,PL0003,NULL,NULL,https://baike.baidu.com/item/%E9%A9%AC%E5%BD%A6%E7%A5%A5,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0622,马,彦祥,zh,male,unknown,NULL,NULL,NULL,1907,1988,NULL,NULL,PL0003,NULL,NULL,https://baike.baidu.com/item/%E9%A9%AC%E5%BD%A6%E7%A5%A5,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,Makarenko,Anton,en,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,Мака́ренко,Анто́н,ru,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
+P0623,马卡连柯,安东,zh,male,NULL,NULL,NULL,NULL,1888,1939,NULL,NULL,PL0287,NULL,NULL,https://en.wikipedia.org/wiki/Anton_Makarenko,ONLINE SOURCE,,,,,2018-07-09,MG,2018-07-17,MG
 P0521,Edison,Thomas,en,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
 P0521,爱迪生,托马斯,zh,male,NULL,NULL,NULL,NULL,1847,1931,NULL,NULL,PL0351,NULL,,https://zh.wikipedia.org/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F,,,,,,2018-04-26,WH,2018-04-26,WH
 P0522,Fechin,Nicolai,en,male,NULL,NULL,NULL,NULL,1881,1955,,,PL0026,,,https://en.wikipedia.org/wiki/Nicolai_Fechin,,https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E7%94%B3,,,,2018-05-03,WH,2018-05-03,WH
@@ -819,3 +824,26 @@ P0523,Feng,Zhi,en,male,NULL,NULL,NULL,NULL,1905,1993,Feng Chengzhi,en,PL0183,,,h
 P0523,冯,至,zh,male,NULL,NULL,NULL,NULL,1905,1993,冯承植,zh,PL0183,,,https://zh.wikipedia.org/wiki/%E5%86%AF%E8%87%B3,,,,,,2018-05-03,WH,2018-05-03,WH
 P0524,Fu,Chongju,en,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
 P0524,傅,崇矩,zh,male,NULL,NULL,NULL,NULL,1875,1917,,,PL0352,,,https://book.douban.com/subject/1733761/,,,,,,2018-05-03,WH,2018-05-03,WH
+P0624,Huang,Ziping,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00253,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+P0624,黄,子平,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00253,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+P0625,Xu,Bing,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00254,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+P0625,徐,冰,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,NULL,NULL,SS00254,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+P0626,Marcuse,Herbert,en,male,NULL,NULL,NULL,NULL,1898,1979,NULL,NULL,PL0063,NULL,NULL,https://en.wikipedia.org/wiki/Herbert_Marcuse,ONLINE SOURCE,,,,,2018-07-13,MG,2018-07-17,MG
+P0626,马尔库塞,赫伯特,zh,male,NULL,NULL,NULL,NULL,1898,1979,NULL,NULL,PL0063,NULL,NULL,https://en.wikipedia.org/wiki/Herbert_Marcuse,ONLINE SOURCE,,,,,2018-07-13,MG,2018-07-17,MG
+P0627,Shulman,Norman,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,,NULL,NULL,,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0628,Mathiez,Albert,fr,male,NULL,NULL,NULL,NULL,1874,1932,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0628,马迪厄,,zh,male,NULL,NULL,NULL,NULL,1874,1932,NULL,NULL,PL0289,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0621,Mehring,Franz,en,male,NULL,NULL,NULL,NULL,1846,1919,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Franz_Mehring,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0621,梅林,弗兰茨,zh,male,NULL,NULL,NULL,NULL,1846,1919,NULL,NULL,PL0290,NULL,NULL,https://en.wikipedia.org/wiki/Franz_Mehring,ONLINE SOURCE,,,,,2018-07-17,MG,2018-07-17,MG
+P0629,Mengzi,,en,male,NULL,NULL,NULL,NULL,0372,0289,Mencius,en,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0629,孟子,,zh,male,NULL,NULL,NULL,NULL,0372,0289,NULL,NULL,PL0291,NULL,NULL,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0630,Mérimée,Prosper,fr,male,NULL,NULL,NULL,NULL,1803,1870,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0630,梅里美,普羅斯佩,zh,male,NULL,NULL,NULL,NULL,1803,1870,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0631,Michelet,Jules,fr,male,NULL,NULL,NULL,NULL,1798,1874,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0631,米什莱,儒勒,zh,male,NULL,NULL,NULL,NULL,1798,1874,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0632,Mickiewicz,Adam,pl,male,NULL,NULL,NULL,NULL,1798,1855,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Adam_Mickiewicz,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0632,密茨凯维奇,亚当,zh,male,NULL,NULL,NULL,NULL,1798,1855,NULL,NULL,PL0292,NULL,NULL,https://en.wikipedia.org/wiki/Adam_Mickiewicz,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0633,Mitchell,Margaret,en,female,NULL,NULL,NULL,NULL,1900,1949,Peggy Mitchell,en,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Margaret_Mitchell,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0633,米切尔,玛格丽特,zh,female,NULL,NULL,NULL,NULL,1900,1949,NULL,NULL,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Margaret_Mitchell,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
+P0634,de Secondat,Charles-Louis,fr,male,NULL,NULL,NULL,NULL,1689,1755,Montesquieu,fr,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
+P0634,德 塞孔达,夏尔 路易,zh,male,NULL,NULL,NULL,NULL,1689,1755,孟德斯鸠,zh,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
