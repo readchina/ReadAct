@@ -402,19 +402,19 @@ P0219,Tang,Xiaofeng,en,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https:
 P0219,唐,晓峰,zh,male,yes,1968,1972,PL0111,1948,,NULL,NULL,PL0146,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
 P0220,Qian ,Dachuan,en,male,unknown,unknown,unknown,unknown,1952,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-03-13,WH
 P0220,钱,大川,zh,male,unknown,unknown,unknown,unknown,1952,,NULL,NULL,unknown,unknown,unknown,http://www.xujuneberlein.com/rem57.html ,ONLINE Source,,,,,2018-01-25,OS,2018-03-13,WH
-P0250,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0250,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0250,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-01-23,OS
-P0251,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0251,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0252,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
-P0252,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-01-24,OS
-P0253,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0253,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-01-24,OS
-P0254,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
-P0254,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-01-25,OS
-P0255,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
-P0255,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-01-26,OS
+P0635,Ehrenburg,Ilya,en,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0635,Эренбу́рг ,Илья́ ,ru,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0635,爱伦堡,伊利亚,zh,male,NULL,NULL,NULL,NULL,1891,1967,NULL,NULL,PL0142,NULL,NULL,https://en.wikipedia.org/wiki/Ilya_Ehrenburg,ONLINE Source,,,,,2018-01-23,OS,2018-07-24,MG
+P0636,Eliot,T.S.,en,male,NULL,NULL,NULL,NULL,1888,1965,NULL,NULL,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0636,艾略特,T.S.,zh,male,NULL,NULL,NULL,NULL,1888,1965,托·史·艾略特 ,zh,PL0143,NULL,NULL,https://en.wikipedia.org/wiki/T._S._Eliot,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0637,Éluard,Paul,en,male,NULL,NULL,NULL,NULL,1895,1952,Eugène Émile Paul Grindel,en,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-07-24,MG
+P0637,艾吕雅,保尔,zh,male,NULL,NULL,NULL,NULL,1895,1952,欧仁·埃米尔·保罗·格林德尔,zh,PL0144,NULL,NULL,https://en.wikipedia.org/wiki/Paul_%C3%89luard,ONLINE Source,https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%B0%94%C2%B7%E8%89%BE%E5%90%95%E9%9B%85,ONLINE SOURCE,,,2018-01-24,OS,2018-07-24,MG
+P0638,Engels,Friedrich,en,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0638,恩格斯,弗里德里希,zh,male,NULL,NULL,NULL,NULL,1820,1895,NULL,NULL,PL0145,NULL,NULL,https://en.wikipedia.org/wiki/Friedrich_Engels,ONLINE Source,,,,,2018-01-24,OS,2018-07-24,MG
+P0639,Fan ,Wenlan,en,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-07-24,MG
+P0639,范,文澜,zh,male,NULL,NULL,NULL,NULL,1893,1969,NULL,NULL,PL0045,NULL,NULL,http://theory.people.com.cn/GB/17955655.html,ONLINE Source,,,,,2018-01-25,OS,2018-07-24,MG
+P0640,Zhang ,Ding,en,male,NULL,NULL,NULL,NULL,1917,2010,Tashan,en,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-07-24,MG
+P0640,张,仃,zh,male,NULL,NULL,NULL,NULL,1917,2010,它山 ,zh,PL0149,NULL,yes,https://baike.baidu.com/item/%E5%BC%A0%E4%BB%83,ONLINE Source,,,,,2018-01-26,OS,2018-07-24,MG
 P0221,Li,Ling,en,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,SS00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Shanxi).,,2018-02-01,OS,2018-02-07,WH
 P0221,李,零,zh,male,yes,1968,1975,PL0130,1948,,NULL,NULL,PL0129,unknown,yes,SS00170,235,,,Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Shanxi).,,2018-02-01,OS,2018-02-07,WH
 P0222,Kautsky,Karl,en,male,NULL,NULL,NULL,NULL,1854,1938,NULL,NULL,PL0065,NULL,NULL,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,,2018-02-01,OS,2018-02-01,OS
@@ -847,3 +847,5 @@ P0633,Mitchell,Margaret,en,female,NULL,NULL,NULL,NULL,1900,1949,Peggy Mitchell,e
 P0633,米切尔,玛格丽特,zh,female,NULL,NULL,NULL,NULL,1900,1949,NULL,NULL,PL0293,NULL,NULL,https://en.wikipedia.org/wiki/Margaret_Mitchell,ONLINE SOURCE,,,,,2018-07-20,MG,2018-07-20,MG
 P0634,de Secondat,Charles-Louis,fr,male,NULL,NULL,NULL,NULL,1689,1755,Montesquieu,fr,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
 P0634,德 塞孔达,夏尔 路易,zh,male,NULL,NULL,NULL,NULL,1689,1755,孟德斯鸠,zh,PL0294,NULL,NULL,https://en.wikipedia.org/wiki/Montesquieu,ONLINE SOURCE,,,,,2018-07-23,MG,2018-07-23,MG
+P0641,Guo,Moruo,en,male,NULL,NULL,NULL,NULL,1892,1978,Dingtang,en,PL0134,NULL,NULL,https://en.wikipedia.org/wiki/Guo_Moruo,ONLINE SOURCE,,,,,2018-07-24,MG,2018-07-24,MG
+P0641,郭,沫若,zh,male,NULL,NULL,NULL,NULL,1892,1978,鼎堂,zh,PL0134,NULL,NULL,https://en.wikipedia.org/wiki/Guo_Moruo,ONLINE SOURCE,,,,,2018-07-24,MG,2018-07-24,MG
