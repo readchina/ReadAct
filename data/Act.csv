@@ -37,7 +37,7 @@ A00032,P0022,AT01,PS00050,,1962,1963,His favorite quote from the book is Either 
 A00033,P0002,AT01,PS00051,,1962,1963,unknown,SS00045,18,,,,2017-08-20,MG,2018-01-22,MG
 A00034,P0003,AT01,PS00052,,1960,1965?,Channel of obtaining: the collection of writer 海默,SS00045,38,,,,2017-08-25,MG,2018-01-23,MG
 A00035,P0131,AT01,PS00053,,19XX,19XX,Li Daxing had access to western works via his fathers friend Li Shu 黎澍,SS00153,555,,,,2017-08-25,MG,2018-01-22,MG
-A00036,P0106,AT01,PS00054,,1967,1967,Later the authors home was plundered as well and all of his collections were confiscated by the red guards.,SS00005,569f,,,,2017-08-25,MG,2017-10-02,DP
+A00036,P0106,AT01,PS09999,,1967,1967,Later the authors home was plundered as well and all of his collections were confiscated by the red guards.,SS00005,569f,,unknown work by: P0086,,2017-08-25,MG,2018-07-30,MG
 A00037,P0020,AT01,PS00055,,1966,1970?,Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union;  Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.,SS00006,135,,,,2017-08-26,MG,2018-01-23,MG
 A00038,P0136,AT21,PS00057,,1970,1970,when XXX one is reminded of the quote by Bai Juyi,,,,,,,,2018-06-22,DP
 A00039,P0999,AT20,AW00058,,1972,1972,Xu Haoyuan mentions that this play was staged by fellow zhiqing,SS00155,57,,,,2017-08-27,MG,2018-02-09,OS
@@ -283,7 +283,7 @@ A00325,P0329,AT01,PS00194,,1970,197x,One lesson he drew from it was that he shou
 A00326,P0329,AT01,PS00307,,197x,197x,unknown,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
 A00327,P0329,AT01,PS09999,,197x,197x,unknown,SS00269,188,2,unknown work; Rodin‘s biography; G02,,2018-04-03,MG,2018-04-10,MG
 A00328,P0336,AT03,PS00307,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
-A00329,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
+A00329,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,unknown work; Rodin‘s biography; G02,,2018-04-03,MG,2018-07-30,MG
 A00330,P0083,AT03,PS00309,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00331,P0329,AT01,PS00309,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00332,P0083,AT03,PS00310,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
@@ -535,3 +535,4 @@ A00759,P0150,AT05,PS00484,,19xx,19xx,Link mentions this title as listed by Jiang
 A00760,P0020,AT01,PS00485,,1971..197x,1971..197x,unknown,SS00006,137,2,Accessed in L0001,,2018-07-23,MG,2018-07-23,MG
 A00761,P0120,AT01,PS09999,,1952~,1952~,unknown,SS00030,57,2,unknown work by: P0110,,2018-07-24,MG,2018-07-24,MG
 A00762,P0106,AT12,PS09999,,1967..196x,1967..196x,The text was confiscated by Red Guards,SS00005,569,2,unknown work by: P0110,,2018-07-24,MG,2018-07-24,MG
+A00763,P0002,AT01,PS00486,,1962,1962,unknown,SS00195,18,2,Accessed in L0003 in PL0300,,2018-07-30,MG,2018-07-30,MG
