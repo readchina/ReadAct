@@ -648,6 +648,30 @@ PS00405,蚕马,,zh,P0523,G10,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
 PS00406,Chengdu Overview,,en,P0524,G01,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
 PS00406,Chengdu tong lan,,zh-Latn-pinyin,P0524,G01,,,,,,,,,,,2018-05-29,WH,2018-05-29,WH
 PS00406,成都通览,,zh,P0524,G01,,,,,,,,,,,2018-05-03,WH,2018-05-03,WH
+PS00407,Yuanhui,,en,P0526,G12,,,,,,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00407,Yuan hui,,zh-Latn-pinyin,P0526,G12,,,,,,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00407,原毁,,zh,P0526,G12,,,,,,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00408,Ancient Chinese Social History,,en,P0055,G19,PL0002,1955,Renmin chubanshe,,no,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00408,Zhongguo gudai shehui shilun,,zh-Latn-pinyin,P0055,G19,PL0002,1955,Renmin chubanshe,,no,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00408,中国古代社会史论,,zh,P0055,G19,PL0002,1955,Renmin chubanshe,,no,,,,,,2018-06-21,WH,2018-06-21,WH
+PS00409,Yuanjun,,en,P0527,G23,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00409,Yuan jun,,zh-Latn-pinyin,P0527,G23,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00409,原君,,zh,P0527,G23,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00410,History of Ancient Chinese Ideology,,en,P0055,G19,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00410,Zhongguo gudai sixiang xueshuo shi,,zh-Latn-pinyin,P0055,G19,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00410,中国古代思想学说史,,zh,P0055,G19,,,,,no,,,,,,2018-07-09,WH,2018-07-09,WH
+PS00411,History of Chinese Modern Ideology,,en,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00411,Zhongguo jindai sixiang xueshuo shi,,zh-Latn-pinyin,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00411,中国近代思想学说史,,zh,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00412,General history of Chinese Ideology,,en,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00412,Zhongguo sixiang tongshi,,zh-Latn-pinyin,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00412,中国思想通史,,zh,P0055,G19,,,,,no,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00413,Barefoot doctor handbook,,en,P0528,G35,PL0357,1969,Jiangxi Xinhuashudian,,yes,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00413,Chijiaoyisheng shouce,,zh-Latn-pinyin,P0528,G35,PL0357,1969,Jiangxi Xinhuashudian,,yes,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00413,赤脚医生手册,,zh,P0528,G35,PL0357,1969,Jiangxi Xinhuashudian,,yes,,,,,,2018-07-10,WH,2018-07-10,WH
+PS00414,1793,,en,P0261,G04,PL0002,1957,Renmin wenxue chubanshe,,no,,,,,,2018-07-12,WH,2018-07-12,WH
+PS00414,Jiusan Nian,,zh-Latn-pinyin,P0261,G04,PL0002,1957,Renmin wenxue chubanshe,,no,,,,,,2018-07-12,WH,2018-07-12,WH
+PS00414,九三年,,zh,P0261,G04,PL0002,1957,Renmin wenxue chubanshe,,no,,,,,,2018-07-12,WH,2018-07-12,WH
 PS00469,Road to Life,,en,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
 PS00469,Педагогическая поэма,,ru,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
 PS00469,教育诗,,zh,P0623,G04,PL0002,1957,,,,,,,,,2018-07-09,MG,2018-07-17,MG
@@ -697,3 +721,6 @@ PS00484,飘,,zh,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier ed
 PS00485,De l‘Esprit de Lois,,fr,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
 PS00485,Lun fa de jing shen,,zh-Latn-pinyin,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
 PS00485,论法的精神,,zh,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
+PS00486,,,en,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
+PS00486,Bai hua qi fang,,zh-Latn-pinyin,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
+PS00486,百花齐放,,zh,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
