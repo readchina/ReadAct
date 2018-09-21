@@ -460,10 +460,12 @@ PS00297,人间喜剧,,zh,P0092,G04,PL0003,1949,Haiyan shudian,,,,,,,,2018-03-23,
 PS00298,Red Star Over China,,en,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-03-27,MG,2018-03-29,MG
 PS00298,Xi xing man ji,,zh-Latn-pinyin,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00298,西行漫记,,zh,P0330,G02,PL0003,1949,Jiliu chubanshe,1938,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00299,Ten Days That Shook the World,,en,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00299,Zhenhan shijie de shi tian,,zh-Latn-pinyin,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
-PS00299,震撼世界的十天,,zh,P0331,,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-03-29,MG
-PS00300,The Rout,,en,P0332,G04,,,,,,,,,also known as ‚The Nineteen‘,,2018-03-27,MG,2018-04-03,MG
+PS00299,Ten Days That Shook the World,,en,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-08-12,MG
+PS00299,Zhenhan shijie de shi tian,,zh-Latn-pinyin,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-08-12,MG
+PS00299,震撼世界的十天,,zh,P0331,G42,PL0002,1957,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-08-12,MG
+PS00300,The Rout,,en,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,also known as ‚The Nineteen‘,,2018-03-27,MG,2018-08-12,MG
+PS00300,Hui mie,,zh-Latn-pinyin,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,,,2018-08-12,MG,2018-08-12,MG
+PS00300,毁灭,,zh,P0332,G04,PL0003,1951,Yong xiang yin shu guan,,,,,,,,2018-08-12,MG,2018-08-12,MG
 PS00301,In Memory of Norman Bethune,,en,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-03-27,MG,2018-04-03,MG
 PS00301,Jinian Baiqiuen,,zh-Latn-pinyin,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00301,纪念白求恩,为人民服务,zh,P0174,G01,PL0002,1963,Renmin chubanshe,,,,,,,,2018-04-03,MG,2018-04-03,MG
@@ -722,3 +724,7 @@ PS00485,论法的精神,,zh,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2
 PS00486,,,en,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00486,Bai hua qi fang,,zh-Latn-pinyin,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00486,百花齐放,,zh,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
+PS00487,The Fourth Height,,en,P0642,G04,,,,,no,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00487,古丽娅的道路,,zh,P0642,G04,,,,,no,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00488,A Doll's House,,en,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
+PS00488,娜拉,,zh,P0643,G16,,,,,,,,,,,2018-08-16,MG,2018-08-16,MG
