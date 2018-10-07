@@ -4,7 +4,7 @@ A00002,P0106,AT01,PS00004,,1972,1976,mentions it among others as an important re
 A00003,P0017,AT01,PS09999,,1968,1978,mentions it among others as an important reading for the whole development in the field of literature after 1978,SS00009,219,,unknown work by: P0077; G10,,2017-07-12,OS,2018-04-10,MG
 A00004,P0108,AT01,PS00010,,1972,1975,Xu Xiao read Ticket to the Stars and was very much influenced by it,SS00012,381,,,,2017-07-12,OS,2017-07-12,OS
 A00005,P0014,AT02,PS00010,P0108,1972,1975,Zhao Yifan copied Ticket to the Stars and handed it to Xu Xiao,SS00012,381,,,,2017-07-12,OS,2018-01-25,MG
-A00005,P0014,AT03,PS00010,P0108,1972,1975,Zhao Yifan copied Ticket to the Stars and handed it to Xu Xiao,SS00012,381,,,,2017-07-12,OS,2018-01-25,MG
+A00770,P0014,AT03,PS00010,P0108,1972,1975,Zhao Yifan copied Ticket to the Stars and handed it to Xu Xiao,SS00012,381,,,,2017-07-12,OS,2018-09-07,DP
 A00006,P0109,AT04,PS00013,,1969,1969,Shu Ting wants to go to Gorkys Universities during her rustication,SS00014,300,,,,2017-07-19,LH,2017-10-02,DP
 A00007,P0020,AT04,PS00013,,1966,1976,Gao Hua mentions that during the turmoil years of CR  as a son of heiwulei (five black categories) he was  living at the bottom of the society.  He received supercilious looks and was discriminated against. During these hard times My Apprenticeship and My Universities by Gorky became his spiritual guides.,SS00006,133,,,,2017-07-19,LH,2017-10-02,DP
 A00008,P0009,AT01,PS00022,,1966,19XX,They started reading neibu books before rustication time already. Kafkas Trial was among the most influential neibu books for Bei Dao,SS00011,80,,,,2017-07-19,OS,2018-01-22,MG
@@ -122,20 +122,20 @@ A00164,P0221,AT01,PS00024,,1962?,1970?,Li read a lot of Marxist theory in the 19
 A00165,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,unknown work by: P0080; G29,,2018-02-01,OS,2018-04-10,MG
 A00166,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,unknown work by: P0098; G24; very likely that for the 1960s books by this author refer to a neibu publication,,2018-02-01,OS,2018-04-10,MG
 A00167,P0221,AT04,PS00168,,196x,196x,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00168,P0221,AT03,PS00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it. ,,249,2,,,2018-02-02,OS,2018-02-02,OS
+A00168,P0221,AT03,PS00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,249,2,,,2018-02-02,OS,2018-02-02,OS
 A00169,P0221,AT03,PS00168,P0230,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,249,2,,,2018-02-02,OS,2018-02-02,OS
 A00170,P0229,AT04,PS00168,,1968?,1971,Liu was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
 A00171,P0230,AT04,PS00168,,1968?,1971,Zhang was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00173,P0031,AT01,PS00198,,1969,1969,Huang read Dimitrov when in prison,http://www.xujuneberlein.com/rem53.html#B,ONLINE SOURCE,2,,,2018-02-05,OS,2018-02-05,OS
+A00173,P0031,AT01,PS00198,,1969,1969,Huang read Dimitrov when in prison,http://www.xujuneberlein.com/rem53.html
 A00174,P0029,AT16,PS00200,,1964,1966,He read it around the beginning of the CR and mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118-119,2,,,2018-02-05,OS,2018-02-05,OS
 A00175,P0108,AT04,PS00199,,1966,1968,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevskys novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,,,2,,,2018-02-05,OS,2018-02-05,OS
-A00176,P0062,AT01,PS00202,,1974,1974,after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.,SS00113 ,477,2,,,2018-02-06,OS,2018-02-06,OS
-A00177,P0237,AT18,PS00204,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out. ,http://www.xujuneberlein.com/rem51.html#B,ONLINE SOURCE,2,,,2018-02-06,OS,2018-02-06,OS
+A00176,P0062,AT01,PS00202,,1974,1974,after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.,SS00113,477,2,,,2018-02-06,OS,2018-02-06,OS
+A00177,P0237,AT18,PS00204,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.,http://www.xujuneberlein.com/rem51.html
 A00178,P0029,AT17,PS00203,P0999,1969,1972,Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.,SS00029,122,2,,,2018-02-06,OS,2018-02-06,OS
-A00179,P0999,AT17,PS00203,P0238,1968?,1975?,Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book; therefore nobody knew whether the story was correct. ,SS00205,121,2,,,2018-02-06,OS,2018-02-06,OS
+A00179,P0999,AT17,PS00203,P0238,1968?,1975?,Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book; therefore nobody knew whether the story was correct.,SS00205,121,2,,,2018-02-06,OS,2018-02-06,OS
 A00180,P0999,AT17,PS00203,P0999,1968,1979,The Monte Christo counted among the most-sougt after stories; yet it was very hard to obtain. There were some Master story tellers who would profit a lot from being able to vividly retell these stories as a whole.,SS00005,572,2,,,2018-02-06,OS,2018-02-06,OS
 A00181,P0037,AT17,PS00203,P0999,1965,1973,Huang could tell Monte Christo off the top of his head. His audience were people who lacked this kind of knowledge.,SS00118,ONLINE Source,2,,,2018-02-06,OS,2018-02-06,OS
-A00182,P0003,AT17,PS00203,P0999,1970?,1972?,Zhang told the story of this Novel to Red guards in the prison. ,SS00185,121,2,,,2018-02-06,OS,2018-02-06,OS
+A00182,P0003,AT17,PS00203,P0999,1970?,1972?,Zhang told the story of this Novel to Red guards in the prison.,SS00185,121,2,,,2018-02-06,OS,2018-02-06,OS
 A00183,P0010,AT05,PS00208,,1970,1970,Duo Duo states that in the spring of 1970 Gan Huilis book ranked among the most popular ones,SS00114,195,2,,,2018-02-11,OS,2018-02-11,OS
 A00184,P0999,AT16,PS00209,,1965~,1965~,the teachers were aware and touched by the irony of denouncing the unequal educational chances under Nationalist rule in the book while those were still existing shortly before the Cultural Revolution,SS00206,93,1,,,2018-02-11,OS,2018-02-11,OS
 A00185,P0139,AT05,PS00210,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,8,,,,2018-02-11,OS,2018-02-11,OS
@@ -144,7 +144,7 @@ A00187,P0003,AT01,PS00212,,1959,1963,Zhang Langlang read this forbidden book thr
 A00188,P0003,AT01,PS00213,,1959,1963,Zhang Langlang read this book through a special library card by his father Zhang Ding,SS00112,38,2,,,2018-02-12,OS,2018-02-12,OS
 A00189,P0106,AT01,PS09999,,1967,1967,Han Shaogong regarded Gorky as one of his most beloved readings.,SS00005,569,2,unknown work by: P0110; G04,,2018-02-12,OS,2018-04-10,MG
 A00190,P0045,AT22,Q0003,,1965..1975,1965..1975,he remembered that quote by Graham Greene and compared it to his own situation as an intellectual during the CR,SS00061,ONLINE SOURCE,2,,,2018-02-13,OS,2018-02-13,OS
-A00191,P0029,AT01,PS09999,,1960..1966,1966,Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time. ,SS00029,116-117,2,unknown work by: P0247; G16,,2018-02-13,OS,2018-04-10,MG
+A00191,P0029,AT01,PS09999,,1960..1966,1966,Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time.,SS00029,116-117,2,unknown work by: P0247; G16,,2018-02-13,OS,2018-04-10,MG
 A00192,P0074,AT12,PS00125,,1967~,1967~,Bai Dis favorite books were taken away by Red Guards,SS00123,92,2,,,2018-02-13,OS,2018-02-13,OS
 A00193,P0074,AT12,PS00126,,1967~,1967~,Bai Dis favorite books were taken away by Red Guards,SS00123,92,2,,,2018-02-13,OS,2018-02-13,OS
 A00194,P0074,AT12,PS00217,,1967~,1967~,Bai Dis favorite books were taken away by Red Guards,SS00123,92,2,,,2018-02-13,OS,2018-02-13,OS
@@ -154,7 +154,7 @@ A00197,P0139,AT05,PS00220,,1966,1976,Xiao Xiao mentions it as one of the most im
 A00198,P0180,AT05,PS00220,,1966,1976,Song Yongyi mentions it as one of the most important neibu books during the CR,SS00108,327,1,,,2018-02-13,OS,2018-02-13,OS
 A00199,P0180,AT05,PS00221,,1966,1976,Song Yongyi mentions it as one of the most important neibu books during the CR,SS00108,327,1,,,2018-02-13,OS,2018-02-13,OS
 A00200,P0139,AT05,PS00221,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,9,,,,2018-02-13,OS,2018-02-13,OS
-A00201,P0106,AT16,PS00221,,1966,1976,This book was a sensation among the youth. It was ascribed a huge value. Han Shaogong had to turn in his watch as he had lost the book accidentally. ,SS00005,570,2,,,2018-02-13,OS,2018-02-13,OS
+A00201,P0106,AT16,PS00221,,1966,1976,This book was a sensation among the youth. It was ascribed a huge value. Han Shaogong had to turn in his watch as he had lost the book accidentally.,SS00005,570,2,,,2018-02-13,OS,2018-02-13,OS
 A00202,P0019,AT13,PS00222,,1968,1968,The poem by Guo Lusheng captured the atmosphere of zhiqing leaving the big cities perfectly (according to Li Ling),SS00170,241,2,,,2018-02-13,OS,2018-02-13,OS
 A00203,P0009,AT15,PS00223,,1970,1970,Bei Dao listened to the poem and was moved. He did not know the authors name,SS00189,32,2,,,2018-02-13,OS,2018-02-13,OS
 A00204,P0009,AT15,PS00224,,1970,1970,Bei Dao listened to the poem and was moved. He did not know the authors name,SS00189,32,2,,,2018-02-13,OS,2018-02-13,OS
@@ -162,22 +162,22 @@ A00205,P0252,AT02,PS00224,,1970,1970,Jiang He has copied several poems by hand,S
 A00206,P0252,AT03,PS00224,P0134,1970,1970,Jiang He gave the hand-copied poem to Lin Mang,SS00196,291,2,,,2018-02-13,OS,2018-08-03,MG
 A00207,P0024,AT02,PS00225,,1970,1970,Song Haiquan copied the poem by hand,SS00196,291,2,,,2018-02-13,OS,2018-02-13,OS
 A00208,P0024,AT03,PS00225,P0134,1970,1970,Song Haiquan gave it to Lin Mang,SS00196,291,2,,,2018-02-13,OS,2018-08-03,MG
-A00209,P0999,AT17,PS00226,,1967~,1968~ ,the poem was often recited and copied by young people,SS00005,578,2,,,2018-02-13,OS,2018-02-13,OS
+A00209,P0999,AT17,PS00226,,1967~,1968~,the poem was often recited and copied by young people,SS00005,578,2,,,2018-02-13,OS,2018-02-13,OS
 A00210,P0108,AT16,PS00227,,1970~,1974~,the love story in this book aroused her interest,SS00012,159,2,,,2018-02-14,OS,2018-02-14,OS
 A00211,P0052,AT01,PS00227,,1964,1964,Liu Haiou read it in one night,SS00133,ONLINE SOURCE,2,,,2018-02-14,OS,2018-02-14,OS
 A00212,P0139,AT05,PS00228,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,8,,,,2018-02-14,OS,2018-02-14,OS
 A00213,P0180,AT05,PS00228,,1966,1976,Song Yongyi mentions it as one of the most important neibu books during the CR,SS00108,327,1,,,2018-02-14,OS,2018-02-14,OS
 A00214,P0144,AT05,PS00228,,1966,1976,According to Wang Shiqiangs research this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,1,,,2018-02-14,OS,2018-02-14,OS
 A00215,P0106,AT05,PS00228,,1966,1976,Han Shaogong mentions it as one of the most important neibu books of the CR,SS00005,580,,,,2018-02-14,OS,2018-02-14,OS
-A00216,P0999,AT17,PS00230,,1967~,1968~ ,the poem was often recited and copied by young people,SS00005,578,2,,,2018-02-14,OS,2018-02-14,OS
+A00216,P0999,AT17,PS00230,,1967~,1968~,the poem was often recited and copied by young people,SS00005,578,2,,,2018-02-14,OS,2018-02-14,OS
 A00217,P0219,AT16,PS00229,,1968,1968,he read it while sitting on the train to Inner Mongolia,SS00190,270,2,,,2018-02-14,OS,2018-02-14,OS
-A00218,P0133,AT01,PS00229,,1970..1979,1970..1979,he had read many poems. Among them also the one by He Jingzhi. All these however did not influence too much ,SS00154,531,2,,,2018-02-14,OS,2018-02-14,OS
+A00218,P0133,AT01,PS00229,,1970..1979,1970..1979,he had read many poems. Among them also the one by He Jingzhi. All these however did not influence too much,SS00154,531,2,,,2018-02-14,OS,2018-02-14,OS
 A00219,P0109,AT02,PS00231,,1969..1972,1969..1972,Shu Ting copied the poem Prophecy into her notebook,SS00014,301,2,,,2018-02-14,OS,2018-02-14,OS
 A00220,P0106,AT01,PS00232,,1967,1967,He read it and did not understand much,SS00005,567,2,,,2018-02-14,OS,2018-02-14,OS
 A00221,P0999,AT16,PS00233,,1970~,1980~,Chen claims that this book was important among the Zhiqing in Beijing,SS00157,75,2,,,2018-02-14,OS,2018-02-14,OS
 A00222,P0106,AT12,PS09999,,1967~,1967~,Among those books taken away by the Red Guard was a Hemingway volume,SS00005,569,2,unknown work by: P0260; G04,,2018-02-14,OS,2018-04-10,MG
 A00223,P0037,AT17,PS00236,P0999,1972~,1972~,Huang told Les Miserables off the top of his head to fellow Zhiqing or co-workers/ farmers. He turned these stories into Chinese ones to arouse no suspicions,SS00118,ONLINE SOURCE,2,,,2018-02-15,OS,2018-02-15,OS
-A00224,P0109,AT17,PS00236,P0999,1972,1972,Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen. She turned a simple vocabulary and adjusted the story a bit. ,SS00014,304,2,,,2018-02-15,OS,2018-02-15,OS
+A00224,P0109,AT17,PS00236,P0999,1972,1972,Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen. She turned a simple vocabulary and adjusted the story a bit.,SS00014,304,2,,,2018-02-15,OS,2018-02-15,OS
 A00225,P0010,AT05,PS00208,,1970,1970,Duo Duo states that in the spring of 1970 Ionescos book was one of the most popular ones among the Beijing youth,SS00114,195,2,,,2018-02-15,OS,2018-02-15,OS
 A00226,P0144,AT05,PS09999,,1966,1976,According to Wang Shiqiang this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,2,unknown work by: P0999; G28,a collection of thousands of rare manuscript sutras,2018-02-15,OS,2018-04-26,MG
 A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time; so it could be 济慈诗选 from 1958,SS00014,301,2,unknown work by: P027; G10,,2018-02-16,OS,2018-04-10,MG
@@ -197,7 +197,7 @@ A00240,P0020,AT01,PS00247,,1970..1975,1970..1975,Among several other Soviet work
 A00241,P0999,AT17,PS00248,P0999,1968,1974,"There was an educated youth who took story-telling as his unique ""currency"". With that ""currency"" he could ""purchase"" daily necessities.",SS00005,573,2,,,2018-02-19,OS,2018-02-19,OS
 A00242,P0273,AT15,Q0004,,1963..1973,1963..1973,Gu Yunpu had to think of this quote and compared it with his fate,SS00061,ONLINE SOURCE,,,,2018-02-27,OS,2018-02-27,OS
 A00243,P0274,AT11,PS09999,,1972,1979,Kang translated poems by Lermontov,SS00208,279,,unknown work by: P0272; G10,,2018-02-27,OS,2018-04-10,MG
-A00244,P0277,AT03,Q0005,P0276,1974,1974,Due to the Pilin-Pikong campaign suddenly many unseen before books were on the shelves again. Tang Ke used to copy classical quotations and send it over to Zhao Yuesheng. In this case Tang Ke passed the Three Gorges and sent a quotation from the Shuijingzhu. ,SS00209,295,,,,2018-02-27,OS,2018-02-27,OS
+A00244,P0277,AT03,Q0005,P0276,1974,1974,Due to the Pilin-Pikong campaign suddenly many unseen before books were on the shelves again. Tang Ke used to copy classical quotations and send it over to Zhao Yuesheng. In this case Tang Ke passed the Three Gorges and sent a quotation from the Shuijingzhu.,SS00209,295,,,,2018-02-27,OS,2018-02-27,OS
 A00245,P0120,AT01,PS00253,,1970?,1970?,Zhang Yang read this book which was considered not in line with official policy during the CR,SS00030,13,,,pls check the date of reading in the source,2018-02-28,OS,2018-02-28,OS
 A00246,P0281,AT01,PS00254,,1958,1960,distraction from tough labor at the state farm. Read them loud; made them happy and forget their sorrows,SS00248,103,2,,,2018-03-09,MG,2018-03-09,MG
 A00247,P0281,AT01,PS00255,,1958,1960,distraction from tough labor at the state farm. Read them loud; made them happy and forget their sorrows,SS00248,103,2,,,2018-03-09,MG,2018-03-09,MG
@@ -229,13 +229,13 @@ A00272,P0120,AT01,PS00271,,1944..,1944..,,SS00030,56,2,,,2018-03-17,WH,2018-03-1
 A00273,P0011,AT05,AW00083,,1953..,1953..,She mentions this painting to recall her friend Dong Shabei.,SS00030,56,2,,,2018-03-17,WH,2018-04-06,WH
 A00274,P0029,AT05,PS00200,,1964~,[1966..1970],Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118f,2,,,2018-03-17,WH,2018-03-17,WH
 A00275,P0106,AT24,PS00201,,[1968..1974],[1968..1974],"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it.",SS00005,572,2,,,2018-03-28,WH,2018-04-20,WH
-A00276,P0029,AT05,,,..1966,..1966,Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time. ,SS00029,116f,2,,,2018-03-28,WH,2018-03-28,WH
+A00276,P0029,AT05,,,..1966,..1966,Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time.,SS00029,116f,2,,,2018-03-28,WH,2018-03-28,WH
 A00277,P0120,AT04,,,1944..,1944..,Du Fu stands in for his love of old poetry - he read/learned them when class struggle became more and more intensive.,SS00030,57,2,,,2018-03-28,WH,2018-03-28,WH
 A00278,P0120,AT01,PS00272,,1944..,1944..,,SS00030,206,2,,,2018-03-28,WH,2018-03-28,WH
 A00279,P0120,,PS00273,,1944..,1944..,,SS00030,13,2,,,2018-03-28,WH,2018-03-28,WH
-A00280,P0999,AT17,PS00203,,[1966..1976],[1966..1976],it was recounted completely by heart by a fellow zhiqing who has read it himself to Ye and others. ,SS00205,121,2,,,2018-03-28,WH,2018-04-13,WH
+A00280,P0999,AT17,PS00203,,[1966..1976],[1966..1976],it was recounted completely by heart by a fellow zhiqing who has read it himself to Ye and others.,SS00205,121,2,,,2018-03-28,WH,2018-04-13,WH
 A00281,P0029,AT17,PS00203,,[1969..1971],[1969..1971,"Wu Hong told the stories every evening after the political studies session. He would sit on the bed and talk. One of the listeners would take the detailed notes, the next day Wu Hong would have told the same story in the other room. Wu Hong mentions this work under its full name 基督山恩仇记.",SS00029,122,2,,,2018-03-28,WH,2018-03-28,WH
-A00282,P0003,AT17,PS00203,,[1970..1974~],[1970..1974~],Zhang told the story of this Novel to those old red guards in the prison. ,SS00185,121,2,,,2018-04-06,WH,2018-04-06,WH
+A00282,P0003,AT17,PS00203,,[1970..1974~],[1970..1974~],Zhang told the story of this Novel to those old red guards in the prison.,SS00185,121,2,,,2018-04-06,WH,2018-04-06,WH
 A00283,P0037,AT17,PS00203,,1964~,1972~,The author told the story of her family (actor and play directors) during the CR / He adapted Western stories and shared them with others in the rural area,SS00118,,2,,,2018-04-06,WH,2018-04-06,WH
 A00284,P0999,AT17,PS00203,,[1968..1974],[1968..1974],"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it.",SS00007,572,2,,,2018-04-06,WH,2018-04-13,WH
 A00285,P0120,,PS00274,,1952~,1952~,,SS00030,56,2,,,2018-04-11,WH,2018-04-11,WH
@@ -325,7 +325,7 @@ A00364,P0345,AT03,PS09999,P0329,1975,197x,She had access to those books in the l
 A00365,P0345,AT03,PS09999,P0329,1975,197x,She had access to those books in the library of her university,SS00269,162f,2,unknown work by: P0343,,2018-04-06,MG,2018-04-10,MG
 A00366,P0345,AT03,PS09999,P0329,1975,197x,She had access to those books in the library of her university,SS00269,162f,2,unknown work by: P0342,,2018-04-06,MG,2018-04-10,MG
 A00367,P0345,AT03,PS09999,P0329,1975,197x,She had access to those books in the library of her university,SS00269,162f,2,unknown work by: P0344,,2018-04-06,MG,2018-04-10,MG
-A00368,P0106,AT01,PS00328,,196x,1968~ ,at the time he read widely but only and remembers these when he later saw these titles again,SS00005,565,2,,,2018-04-09,MG,2018-04-09,MG
+A00368,P0106,AT01,PS00328,,196x,1968~,at the time he read widely but only and remembers these when he later saw these titles again,SS00005,565,2,,,2018-04-09,MG,2018-04-09,MG
 A00369,P0109,AT01,PS09999,,1969,1972,,SS00014,301,2,unknown work by: P0346; G11,,2018-04-09,MG,2018-04-13,MG
 A00370,P0009,AT19,PS00330,,1968?,1968?,discussed the text with a friend,SS00189,36,2,,,2018-04-09,MG,2018-04-09,MG
 A00371,P0108,AT01,PS00331,,197x,197x,supported the process of alienation towards her parents and giving Xu a more rebellious edge,SS00012,159,2,,,2018-04-09,MG,2018-04-09,MG
@@ -334,7 +334,7 @@ A00373,P0029,AT05,PS00330,,1960~,1965..1969,Wu Hong mentions that this book was 
 A00374,P0140,AT05,PS00330,,197x,197x,,SS00157,79,2,,,2018-04-09,MG,2018-04-09,MG
 A00375,P0003,AT05,PS00330,,197x,197x,,SS00185,129,2,,,2018-04-09,MG,2018-04-09,MG
 A00376,P0140,AT05,PS00331,,197x,197x,,SS00157,60,2,,,2018-04-09,MG,2018-04-09,MG
-A00377,P0166,AT03,PS00294,P0029,1960..1966,1966,from her private collection ,SS00029,116,2,,,2018-04-09,MG,2018-04-09,MG
+A00377,P0166,AT03,PS00294,P0029,1960..1966,1966,from her private collection,SS00029,116,2,,,2018-04-09,MG,2018-04-09,MG
 A00378,P0106,AT01,PS00294,,1967,1967,,SS00005,569,2,,,2018-04-09,MG,2018-04-09,MG
 A00378,P0106,AT12,PS00294,,1967~,196x..197x,the authors home was plundered and all of his collections were confiscated by the red guards,SS00005,569,2,,,2018-04-09,MG,2018-04-09,MG
 A00379,P0216,AT05,PS00294,,197x,197x,,SS00159,372,2,,,2018-04-09,MG,2018-04-09,MG
@@ -377,10 +377,10 @@ A00415,P0999,AT19,PS09999,,196x..197x,196x..197x,Han knew sb who was fascinated 
 A00416,P0017,AT16,PS09999,,196x..197x,196x..197x,Described Whitman as one of his biggest influences,SS00009,220,2,unknown work by: P0364,,2018-05-17,MG,2018-05-17,MG
 A00417,P0018,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00158,312,1,unknown work by: P0364,,2018-05-17,MG,2018-05-17,MG
 A00418,P0999,AT19,PS09999,,196x..197x,196x..197x,Han knew sb who was fascinated by this authors‘ theories,SS00005,583,2,unknown work by: P0365,,2018-05-17,MG,2018-05-17,MG
-A00419,P0017,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘ ,2018-05-22,MG,2018-05-22,MG
-A00420,P0018,AT01,PS09999,,196x..197x,196x..197x,Most of the poems of Yans reading list were from the Soviet Union.,SS00158,311,2,unknown work by: P0366,marked as ‚neibu‘ ,2018-05-22,MG,2018-05-22,MG
-A00421,P0999,AT03,PS09999,P0017,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘ ,2018-05-22,MG,2018-05-22,MG
-A00422,P0999,AT02,PS09999,,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘ ,2018-05-22,MG,2018-05-22,MG
+A00419,P0017,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘,2018-05-22,MG,2018-05-22,MG
+A00420,P0018,AT01,PS09999,,196x..197x,196x..197x,Most of the poems of Yans reading list were from the Soviet Union.,SS00158,311,2,unknown work by: P0366,marked as ‚neibu‘,2018-05-22,MG,2018-05-22,MG
+A00421,P0999,AT03,PS09999,P0017,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘,2018-05-22,MG,2018-05-22,MG
+A00422,P0999,AT02,PS09999,,196x..197x,196x..197x,unknown,SS00009,231,2,unknown work by: P0366,marked as ‚neibu‘,2018-05-22,MG,2018-05-22,MG
 A00423,P0020,AT16,PS09999,,1976~,1976..1979,Gao Hua imitated the way Yevtushenko highlighted the influence on himself and friends by the 20th Congress of the Communist Part of the Soviet Union. Gao Hua called himself and everyone who entered the university in 1977;1978 and 1979 ‚the product of the Third Plenum of the CCP‘.,SS00006,138,2,unknown work by: P0367; G10,,2018-05-22,MG,2018-05-22,MG
 A00424,P0018,AT05,PS09999,,196x..197x,196x..197x,Most of the Poems of the authors reading list were from the Soviet Union.,SS00158,311,2,unknown work by: P0367; G10,,2018-05-22,MG,2018-05-22,MG
 A00425,P0139,AT05,PS00344,,196x..197x,196x..197x,unknown,SS00152,7-10,1,,,2018-05-22,MG,2018-05-22,MG
@@ -433,7 +433,7 @@ A00604,P0018,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00158,311,2,unknown w
 A00605,P0003,AT05,PS00356,,196x..197x,196x..197x,unknown,SS00185,112,2,,,2018-06-04,MG,2018-06-05,MG
 A00606,P0106,AT02,PS00355,,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
 A00607,P0106,AT03,PS00355,P0999,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
-A00608,P0140,AT05,AW09999,,197x,197x,Chen reports that this was popular among underground circles in Beijing ,SS00157,75,2,unknown work by: P0387; AF05,,2018-06-04,MG,2018-06-05,MG
+A00608,P0140,AT05,AW09999,,197x,197x,Chen reports that this was popular among underground circles in Beijing,SS00157,75,2,unknown work by: P0387; AF05,,2018-06-04,MG,2018-06-05,MG
 A00609,P0999,AT05,PS09999,,196x..197x,196x..197x,Han remembers a worker who frequently mentioned Pound,SS00005,583,2,uknown work by: P0388; G10,,2018-06-04,MG,2018-06-05,MG
 A00610,P0132,AT11,PS00359,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,,,2018-06-05,MG,2018-06-05,MG
 A00611,P0132,AT11,PS09999,,1975..1979,1975..1979,Chen started to translate works by Poe,SS00043,454,2,unknown work by: P0389,,2018-06-05,MG,2018-06-05,MG
