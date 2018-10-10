@@ -249,9 +249,9 @@ A00292,P0320,AT17,PS00292,,1968,1969,Wu was telling stories from the books she r
 A00293,P0320,AT01,PS09999,,1970~,1970~,she learned about aspects of Victorian society such as the widespread poverty and the plight of orphans.,SS00268,452,2,unknown work by: P0160,,2018-03-21,MG,2018-04-10,MG
 A00294,P0322,AT03,PS09999,P0320,1970~,1970~,under her father‘s supervision Mu Aiping started reading the familiy's collection of literature,SS00268,452,2,unknown work by: P0160,,2018-03-21,MG,2018-04-10,MG
 A00295,P0322,AT03,PS09999,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0323,,2018-03-21,MG,2018-04-10,MG
-A00295,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0323,,2018-03-21,MG,2018-04-10,MG
+A00690,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0323,,2018-03-21,MG,2018-09-10,DP
 A00296,P0322,AT03,PS09999,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0324,,2018-03-21,MG,2018-04-10,MG
-A00296,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0324,,2018-03-21,MG,2018-04-10,MG
+A00691,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0324,,2018-03-21,MG,2018-09-10,DP
 A00297,P0322,AT03,PS09999,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0325,,2018-03-21,MG,2018-04-10,MG
 A00298,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0325,,2018-03-21,MG,2018-03-23,MG
 A00299,P0320,AT01,PS00077,,1970~,1970~,she read it as a condensed history of feudal society in China,SS00268,452,2,,,2018-03-23,MG,2018-03-23,MG
@@ -286,8 +286,8 @@ A00327,P0329,AT01,PS09999,,197x,197x,unknown,SS00269,188,2,unknown work; Rodin�
 A00328,P0336,AT03,PS00307,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
 A00329,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,unknown work; Rodin‘s biography; G02,,2018-04-03,MG,2018-07-30,MG
 A00330,P0083,AT03,PS00309,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
-A00329,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
-A00330,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
+A00692,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-09-10,DP
+A00693,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-09-10,DP
 A00331,P0329,AT01,PS00309,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00332,P0999,AT03,PS00310,P0329,1970,197x,access via a reference librarian; a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00333,P0329,AT01,PS00310,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
@@ -336,7 +336,7 @@ A00375,P0003,AT05,PS00330,,197x,197x,,SS00185,129,2,,,2018-04-09,MG,2018-04-09,M
 A00376,P0140,AT05,PS00331,,197x,197x,,SS00157,60,2,,,2018-04-09,MG,2018-04-09,MG
 A00377,P0166,AT03,PS00294,P0029,1960..1966,1966,from her private collection,SS00029,116,2,,,2018-04-09,MG,2018-04-09,MG
 A00378,P0106,AT01,PS00294,,1967,1967,,SS00005,569,2,,,2018-04-09,MG,2018-04-09,MG
-A00378,P0106,AT12,PS00294,,1967~,196x..197x,the authors home was plundered and all of his collections were confiscated by the red guards,SS00005,569,2,,,2018-04-09,MG,2018-04-09,MG
+A00694,P0106,AT12,PS00294,,1967~,196x..197x,the authors home was plundered and all of his collections were confiscated by the red guards,SS00005,569,2,,,2018-04-09,MG,2018-09-10,DP
 A00379,P0216,AT05,PS00294,,197x,197x,,SS00159,372,2,,,2018-04-09,MG,2018-04-09,MG
 A00380,P0348,AT01,PS00333,,1971,1971,,SS00270,?,2,,,2018-04-09,MG,2018-04-09,MG
 A00381,P0139,AT05,PS00333,,196x,197x,,SS00152,7-10,2,,,2018-04-09,MG,2018-04-09,MG
@@ -400,7 +400,7 @@ A00506,P0999,AT01,PS00186,,1976~,1976~,"""A young factory lady was reading this 
 A00507,P0062,AT01,PS00186,,1969,19670,"The author was reading this book in prison, she describes the personal gain she gots out of reading ( more self-confidence, political understanding of her past, hope)",SS00113,461,2,,,2018-04-26,WH,2018-04-26,WH
 A00508,P0130,AT25,PS00402,,1968~,1968~,After reading this work the author could not understand  why  there were still class and class struggle under a socialist system.,SS00149,418,2,,,2018-04-26,WH,2018-04-26,WH
 A00509,P0999,AT03,PS00402,P0062,1973,1974,The book was given to her while she was in prison. First in Chinese and later in German.,SS00113,,2,,,2018-05-02,WH,2018-05-02,WH
-A00510,P0106,AT05,PS00300,,[1968..1974],[1968..1974],"There was a local cadre in charge of surveilling the educated youth in the village, so the author had no choice but to show the cadre quotations in Maos collected works or the title of this book would be considered as counterrevolutionary. ",SS00005,573,2,,,2018-05-03,WH,2018-05-03,WH
+A00695,P0106,AT05,PS00300,,[1968..1974],[1968..1974],"There was a local cadre in charge of surveilling the educated youth in the village, so the author had no choice but to show the cadre quotations in Maos collected works or the title of this book would be considered as counterrevolutionary. ",SS00005,573,2,,,2018-05-03,WH,2018-09-10,DP
 A00510,P0137,AT05,PS09999,,19xx,19xx,He painted in Fechin's style.,SS00163,351,2,,,2018-05-03,WH,2018-05-03,WH
 A00511,P0220,AT05,PS00403,,1966,1966,His grandfather used to have this book.,SS00192,,2,,,2018-05-03,WH,2018-05-03,WH
 A00512,P0131,AT01,PS00404,,1973,1973,He reads this book secretly at home. It was perhaps from the library of his father's institute.,SS00153,554,2,,,2018-05-03,WH,2018-05-03,WH
@@ -530,7 +530,7 @@ A00751,P0106,AT12,PS09999,,1967..197x,1967..197x,all of his collections were con
 A00752,P0109,AT01,PS00482,,1969..1972,1969..1972,recommended by a friend (possibly penpal),SS00014,301,2,,,2018-07-17,MG,2018-07-17,MG
 A00753,P0054,AT01,PS09999,,1950..196x,1950..196x,he was interested in the classics and read them a lot,SS00136,ONLINE SOURCE,1,unknown work by: P0629,,2018-07-20,MG,2018-07-20,MG
 A00754,P0048,AT01,PS09999,,1940..1950,1940..1950,he read the classics in his childhood,SS00136,ONLINE SOURCE,1,unknown work by: P0629,he learned this in sishu (私塾),2018-07-20,MG,2018-07-20,MG
-A00755,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions it as item listed in his uncle‘s notebook,SS00030,52,2,unknown work by: P0629,,2018-07-20,MG,2018-07-20,MG
+A00755,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions it as item listed in his uncle‘s notebook,SS00030,52,2,unknown work by: P0629,,2018-07-20,MG,2018-09-10,MG
 A00756,P0029,AT01,PS09999,,196x..1966,196x..1966,unknown,SS00029,116f,2,unknown work by: P0630,,2018-07-20,MG,2018-07-20,MG
 A00757,P0166,AT03,PS09999,P0029,196x..1966,196x..1966,Wu Hong had access to many books via his mother‘s private collection,SS00029,116f,2,unknown work by: P0630,,2018-07-20,MG,2018-07-20,MG
 A00758,P0109,AT02,PS09999,,1969..1972,1969..1972,copied into her notebook,SS00014,301,2,unknown work by: P0632,,2018-07-20,MG,2018-07-20,MG
