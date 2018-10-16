@@ -1,0 +1,12 @@
+language: ruby
+
+notifications:
+  email: false
+
+before_install:
+  - gem install csvlint
+
+install: skip
+
+script:
+  - for FILE in data/*csv; do csvlint $FILE; done
