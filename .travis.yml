@@ -3,10 +3,25 @@ language: ruby
 notifications:
   email: false
 
-before_install:
+install:
   - gem install csvlint
 
-install: skip
-
 script:
-  - for FILE in data/*csv; do csvlint $FILE; done
+  - csvlint data/Act.csv --schema=schema/Act.json
+  - csvlint data/ActType.csv --schema=schema/ActType.json
+  - csvlint data/ArtForm.csv --schema=schema/ArtForm.json
+  - csvlint data/ArtWork.csv --schema=schema/ArtWork.json
+  - csvlint data/Genre.csv --schema=schema/Genre.json
+  - csvlint data/Institution.csv --schema=schema/Institution.json
+  - csvlint data/IsoLangCode.csv --schema=schema/IsoLangCode.json
+  - csvlint data/Location.csv --schema=schema/Location.json
+  - csvlint data/Membership.csv --schema=schema/Membership.json
+  - csvlint data/Person.csv --schema=schema/Person.json
+  - csvlint data/Place.csv --schema=schema/Place.json
+  - csvlint data/PrimarySource.csv --schema=schema/PrimarySource.json
+  - csvlint data/Quotation.csv --schema=schema/Quotation.json
+  - csvlint data/SecondarySource.csv --schema=schema/SecondarySource.json
+  - csvlint data/SocialPosition.csv --schema=schema/SocialPosition.json
+  - csvlint data/SocialRelation.csv --schema=schema/SocialRelation.json
+  
+  # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done

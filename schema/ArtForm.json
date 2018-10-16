@@ -1,0 +1,61 @@
+{
+  // art_form_id,art_form_name,art_form_name_lang,source_link
+	"fields": [
+		{
+			"name": "art_form_id",
+			"constraints": {
+				"required": true,
+        "unique": true,
+				"pattern": "AF[0-9]{2}"
+			}
+		},
+    {
+      "name": "art_form_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "art_form_name_lang",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "source_link",
+      "constraints": {
+        "required": false,
+        "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+      }
+    },
+    {
+      "name": "created",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date"
+			}
+    },
+    {
+      "name": "created_by",
+			"constraints": {
+				"required": true,
+				"pattern": "[A-Z]{2}"
+			}
+    },
+    {
+      "name": "last_modified",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date"
+			}
+    },
+    {
+      "name": "last_modified_by",
+			"constraints": {
+				"required": true,
+				"pattern": "[A-Z]{2}"
+			}
+    }
+	]
+}

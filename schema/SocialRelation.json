@@ -1,0 +1,88 @@
+{
+  "fields": [{
+      "name": "soc_rel_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "pattern": "SR[0-9]{5}"
+      }
+    },
+    {
+      "name": "ego",
+      "constraints": {
+        "required": true,
+        "pattern": "P[0-9]{4}"
+      }
+    },
+    {
+      "name": "related",
+      "constraints": {
+        "required": true,
+        "pattern": "P[0-9]{4}"
+      }
+    },
+    {
+      "name": "relation",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "rel_zh",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "rel_en",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    }, {
+      "name": "source",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "page",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "note",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ]
+}

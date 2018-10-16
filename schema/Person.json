@@ -1,0 +1,150 @@
+{
+  //
+	"fields": [
+		{
+			"name": "person_id",
+			"constraints": {
+				"required": true,
+				"pattern": "P[0-9]{4}"
+			}
+		},
+    {
+      "name": "family_name",
+      "constraints": {
+        "required": true
+      }
+    },{
+      "name": "first_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "name_lang",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },{
+      "name": "sex",
+      "constraints": {
+        "required": true
+      }
+    },{
+      "name": "rustication",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "rustication_start",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "rustication_end",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "place_of_rust",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "birthyear",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    },{
+      "name": "deathyear",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    },{
+      "name": "alt_name",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "alt_name_lang",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "place_of_birth",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "social_position",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "neibu_access",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "source_id_1",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "page_number_1",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "source_id_2",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "page_number_2",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "commentary",
+      "constraints": {
+        "required": false
+      }
+    },{
+      "name": "note",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date"
+			}
+    },
+    {
+      "name": "created_by",
+			"constraints": {
+				"required": true,
+				"pattern": "[A-Z]{2}"
+			}
+    },
+    {
+      "name": "last_modified",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date"
+			}
+    },
+    {
+      "name": "last_modified_by",
+			"constraints": {
+				"required": true,
+				"pattern": "[A-Z]{2}"
+			}
+    }
+	]
+}
