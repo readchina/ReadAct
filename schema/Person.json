@@ -16,7 +16,7 @@
     },{
       "name": "first_name",
       "constraints": {
-        "required": true
+        "required": false
       }
     },
     {
