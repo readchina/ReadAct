@@ -7,21 +7,21 @@ install:
   - gem install csvlint
 
 script:
-  - csvlint data/Act.csv --schema=schema/Act.json
-  - csvlint data/ActType.csv --schema=schema/ActType.json
-  - csvlint data/ArtForm.csv --schema=schema/ArtForm.json
-  - csvlint data/ArtWork.csv --schema=schema/ArtWork.json
-  - csvlint data/Genre.csv --schema=schema/Genre.json
-  - csvlint data/Institution.csv --schema=schema/Institution.json
-  - csvlint data/IsoLangCode.csv --schema=schema/IsoLangCode.json
-  - csvlint data/Location.csv --schema=schema/Location.json
-  - csvlint data/Membership.csv --schema=schema/Membership.json
-  - csvlint data/Person.csv --schema=schema/Person.json
-  - csvlint data/Place.csv --schema=schema/Place.json
-  - csvlint data/PrimarySource.csv --schema=schema/PrimarySource.json
-  - csvlint data/Quotation.csv --schema=schema/Quotation.json
-  - csvlint data/SecondarySource.csv --schema=schema/SecondarySource.json
-  - csvlint data/SocialPosition.csv --schema=schema/SocialPosition.json
-  - csvlint data/SocialRelation.csv --schema=schema/SocialRelation.json
-  
+  - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Act.json
+  - csvlint data/ActType.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ActType.json
+  - csvlint data/ArtForm.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtForm.json
+  - csvlint data/ArtWork.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtWork.json
+  - csvlint data/Genre.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Genre.json
+  - csvlint data/Institution.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Institution.json
+  - csvlint data/IsoLangCode.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/IsoLangCode.json
+  - csvlint data/Location.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Location.json
+  - csvlint data/Membership.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Membership.json
+  - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Person.json
+  - csvlint data/Place.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Place.json
+  - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/PrimarySource.json
+  - csvlint data/Quotation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Quotation.json
+  - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SecondarySource.json
+  - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
+  - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
+
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
