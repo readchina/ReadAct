@@ -61,8 +61,6 @@ PS00056,人世间,,zh,P0088,G04,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,
 PS00057,Watching the Barley Harvest,,en,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-01-12,MG
 PS00057,Guan yi mai,,zh-Latn-pinyin,P0090,G10,,,,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00057,观刈麦,,zh,P0090,G10,,,,,,,,,,,2017-08-26,MG,2018-06-22,DP
-PS00058,Shan guniang,,zh-Latn-pinyin,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-05-23,MG
-PS00058,山姑娘,,zh,P0081,,PL0091,1956,Qunyitang,,,,,,,,2018-04-25,MG,2018-04-25,MG
 PS00059,Reeds in the Wind,,en,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2018-04-25,MG,2018-04-25,MG
 PS00059,Feng zhong luwei,,zh-Latn-pinyin,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2018-04-25,MG,2018-05-23,MG
 PS00059,风中芦苇,,zh,P0141,G04,PL0003,1992,Shanghai yiwen chubanshe,,,,,,During the early CR there circulated a translated manuscript. First Italian edition published in 1913.,,2017-09-06,CW,2018-02-09,OS
@@ -136,9 +134,9 @@ PS00087,红宝书,,zh,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,2017-1
 PS00088,Project 571,,en,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2017-12-23,OS,2017-12-23,OS
 PS00088,571 gongcheng jiyao,,zh-Latn-pinyin,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00088,571工程纪要,,zh,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2017-12-23,OS,2017-12-23,OS
-PS00089,Three Character Classic,,en,P0191,?,,,,,,,,,,,2017-12-23,OS,2017-12-23,OS
-PS00089,Sanzijing,,zh-Latn-pinyin,P0191,?,,,,,,,,,,,2018-04-25,MG,2018-05-23,MG
-PS00089,三字经,,zh,P0191,?,,,,,,,,,,,2017-12-23,OS,2017-12-23,OS
+PS00089,Three Character Classic,,en,P0191,G43,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
+PS00089,Sanzijing,,zh-Latn-pinyin,P0191,G43,,,,,,,,,,,2018-04-25,MG,2018-10-18,WH
+PS00089,三字经,,zh,P0191,G43,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
 PS00090,Chronicles of the Eastern Zhou Kingdoms,,en,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2017-10-18,MG
 PS00090,Dongzhou lieguo zhi,,zh-Latn-pinyin,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00090,东周列国志,,zh,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2017-10-18,MG
@@ -387,7 +385,7 @@ PS00253,Liu Zhidan,,en,P0278,G04,,,,,,,,,First published in a newspaper. Printed
 PS00253,Liu Zhidan,,zh-Latn-pinyin,P0278,G04,,,,,,,,,First published in a newspaper. Printed as a book in 1979.,,2018-04-26,MG,2018-05-29,WH
 PS00253,刘志丹,,zh,P0278,G04,,,,,,,,,First published in a newspaper. Printed as a book in 1979.,,2018-02-28,OS,2018-02-28,OS
 PS00254,Border Town,,en,P0280,G05,PL0003,1949,Kaiming shudian,,,,,,,,2018-03-06,MG,2018-03-06,MG
-PS00254,Bian cheng,,zh-Latn-pinyin,P0280,G05,PL0003,1949,Kaiming shudian,,,,,,,,2018-04-26,MG,2018-05-29,WG
+PS00254,Bian cheng,,zh-Latn-pinyin,P0280,G05,PL0003,1949,Kaiming shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00254,边城,,zh,P0280,G05,PL0003,1949,Kaiming shudian,,,,,,,,2018-03-06,MG,2018-03-06,WH
 PS00255,Long River,,en,P0280,G04,PL0003,1949,Kaiming shudian,,,,,,,,2018-03-06,MG,2018-03-06,MG
 PS00255,Changhe,,zh-Latn-pinyin,P0280,G04,PL0003,1949,Kaiming shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
@@ -401,9 +399,9 @@ PS00258,斯巴达克斯,,zh,P0285,G04,PL0003,1953,Wenhua gongzuoshe,,,,,,,,2018-
 PS00259,Water Margin,,en,P0286,G04,PL0003,1988,Shanghai guji chubanshe,,,,,,First translated into English as All Men are Brothers by Pearl S. Buck,,2018-03-12,MG,2018-03-14,MG
 PS00259,Shuihu zhuan,,zh-Latn-pinyin,P0286,G04,PL0003,1988,Shanghai guji chubanshe,,,,,,First translated into English as All Men are Brothers by Pearl S. Buck,,2018-04-26,MG,2018-05-29,WH
 PS00259,水滸傳,,zh,P0286,G04,PL0003,1988,Shanghai guji chubanshe,,,,,,First translated into English as All Men are Brothers by Pearl S. Buck,,2018-03-14,MG,2018-03-14,MG
-PS00260,Utopia,,en,P0287,,PL0002,1956,Sanlian shudian,,,,,,,,2018-03-12,MG,2018-03-12,MG
-PS00260,Wutuobang,,zh-Latn-pinyin,P0287,,PL0002,1956,Sanlian shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
-PS00260,乌托邦,,zh,P0287,,PL0002,1956,Sanlian shudian,,,,,,,,2018-03-12,MG,2018-03-12,MG
+PS00260,Utopia,,en,P0287,G29,PL0002,1956,Sanlian shudian,,,,,,,,2018-03-12,MG,2018-10-18,WH
+PS00260,Wutuobang,,zh-Latn-pinyin,P0287,G29,PL0002,1956,Sanlian shudian,,,,,,,,2018-04-26,MG,2018-10-18,WH
+PS00260,乌托邦,,zh,P0287,G29,PL0002,1956,Sanlian shudian,,,,,,,,2018-03-12,MG,2018-10-18,WH
 PS00261,La Chartreuse de Parme,,fr,P0288,G04,PL0003,1979,Shanghai yiwen chubanshe,,,,,,,,2018-03-12,MG,2018-03-14,MG
 PS00261,Bama xiudaoyuan,,zh-Latn-pinyin,P0288,G04,PL0003,1979,Shanghai yiwen chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00261,巴马修道院,,zh,P0288,G04,PL0003,1979,Shanghai yiwen chubanshe,,,,,,,,2018-03-12,MG,2018-03-14,MG
@@ -478,7 +476,7 @@ PS00310,夢的解析,,zh,P0337,G33,PL0002,1986,Zuojia chubanshe,,,,,,,,2018-04-0
 PS00311,Studies in the Psychology of Sex,,en,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-05,MG,2018-04-06,MG
 PS00311,Xing xinlixue,,zh-Latn-pinyin,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00311,性心理学,,zh,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-06,MG,2018-04-06,MG
-PS09999,unknown,unknown,en,P0999,unknown,unknown,unknown,unknown,,,,,,,,2018-04-10,MG,2018-04-10,MG
+PS09999,unknown,unknown,en,P0999,G99,unknown,unknown,unknown,,,,,,,,2018-04-10,MG,2018-10-18,MG
 PS00328,Stray Birds,,en,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-13,MG,2018-04-13,MG
 PS00328,Feiniao ji,,zh-Latn-pinyin,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00328,飞鸟集,,zh,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-13,MG,2018-04-13,MG
@@ -511,16 +509,16 @@ PS00338,Dulumen huiyilu,,zh-Latn-pinyin,P0352,G03,PL0002,1973,Sanlian shudian,,y
 PS00338,杜鲁门回忆录,,zh,P0352,G03,PL0002,1973,Sanlian shudian,,yes,,,,,,2018-05-08,MG,2018-05-08,MG
 PS00339,Quan songci,,zh-Latn-pinyin,P0355,G28,PL0002,1965,Zhonghua shuju,,no,,,,,,2018-05-14,MG,2018-05-29,WH
 PS00339,全宋词,,zh,P0355,G28,PL0002,1965,Zhonghua shuju,,no,,,,,,2018-05-14,MG,2018-05-14,MG
-PS00340,Gui qu lai xi ci,,zh-Latn-pinyin,P0356,,,,,,,,,,,,2018-05-14,MG,2018-05-29,WH
-PS00340,归去来兮辞,,zh,P0356,,,,,,,,,,,,2018-05-14,MG,2018-05-14,MG
+PS00340,Gui qu lai xi ci,,zh-Latn-pinyin,P0356,G44,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
+PS00340,归去来兮辞,,zh,P0356,G44,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
 PS00341,Le Cimetière Marin,,fr,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-15,MG
 PS00341,Haibin muyuan,,zh-Latn-pinyin,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-29,WH
 PS00341,海滨墓园,,zh,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-15,MG
 PS00342,Twenty Thousand Leagues Under the Sea,,en,P0360,G04,PL0003,1994,Yuandong chubanshe,,,,,,,,2018-05-15,MG,2018-05-15,MG
 PS00342,Fanerna kehuan gushi,,zh-Latn-pinyin,P0360,G04,PL0003,1994,Yuandong chubanshe,,,,,,,,2018-05-15,MG,2018-05-29,WH
 PS00342,凡尔纳科幻故事,,zh,P0360,G04,PL0003,1994,Yuandong chubanshe,,,,,,,,2018-05-15,MG,2018-05-15,MG
-PS00343,Nan gong ganglinbg he sixiang douzheng jianruihua,,zh-Latn-pinyin,P0361,,PL0002,1964,Sanlian shudian,,yes,,,,,,2018-05-15,MG,2018-05-29,WH
-PS00343,南共纲领和思想斗争「尖锐化」,,zh,P0361,,PL0002,1964,Sanlian shudian,,yes,,,,,,2018-05-15,MG,2018-05-15,MG
+PS00343,Nan gong ganglinbg he sixiang douzheng jianruihua,,zh-Latn-pinyin,P0361,G01,PL0002,1964,Sanlian shudian,,yes,,,,,,2018-05-15,MG,2018-10-18,WH
+PS00343,南共纲领和思想斗争「尖锐化」,,zh,P0361,G01,PL0002,1964,Sanlian shudian,,yes,,,,,,2018-05-15,MG,2018-10-18,WH
 PS00344,Babi Yar and Others,,en,P0367,G10,PL0002,1963,Zuojia chubanshe,,yes,,,,Translated by project member,,2018-05-22,MG,2018-05-22,MG
 PS00344,Niangzi gu ji qita,,zh-Latn-pinyin,P0367,G10,PL0002,1963,Zuojia chubanshe,,yes,,,,,,2018-05-22,MG,2018-05-22,MG
 PS00344,〈娘子谷〉及其他,,zh,P0367,G10,PL0002,1963,Zuojia chubanshe,,yes,,,,,,2018-05-22,MG,2018-05-22,MG
@@ -614,7 +612,7 @@ PS00462,鲁迅文集·杂文集·华盖集,,zh,P0001,G23,,,,,,PS09999,,,http://w
 PS00463,Great Wall,,en,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
 PS00463,Changcheng,,zh-Latn-pinyin,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
 PS00463,长城,,zh,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
-PS00464,莽原,,zh,P0999,,PL0002,1926,,,,,No. 04,,,,2018-06-26,MG,2018-06-26,MG
+PS00464,莽原,,zh,P0999,G45,PL0002,1926,,,,,No. 04,,,,2018-06-26,MG,2018-10-18,WH
 PS00465,In Memory of Miss Liu Hezhen,,en,P0001,G23,,,,,,PS09999,,,Written 1926-04-01,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
 PS00465,Ji nian Liu Hezhen jun,,zh-Latn-pinyin,P0001,G23,,,,,,PS09999,,,Written 1926-04-02,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
 PS00465,纪念刘和珍君,,zh,P0001,G23,,,,,,PS09999,,,Written 1926-04-03,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
@@ -718,7 +716,7 @@ PS00484,飘,,zh,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier ed
 PS00485,De l‘Esprit de Lois,,fr,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
 PS00485,Lun fa de jing shen,,zh-Latn-pinyin,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
 PS00485,论法的精神,,zh,P0634,G29,PL0002,1959,Shangwu yin shuguan,,no,,,,,,2018-07-23,MG,2018-07-23,MG
-PS00486,,,en,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
+PS00486,Hundred Flowers in Full Bloom,,en,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,Translated by project member.,,2018-07-30,MG,2018-10-18,WH
 PS00486,Bai hua qi fang,,zh-Latn-pinyin,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00486,百花齐放,,zh,P0641,G28,PL0002,1958,Renmin ribao chubanshe,,,,,,,,2018-07-30,MG,2018-07-30,MG
 PS00487,The Fourth Height,,en,P0642,G04,,,,,no,,,,,,2018-08-16,MG,2018-08-16,MG
