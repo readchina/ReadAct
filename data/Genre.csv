@@ -35,5 +35,9 @@ G31,geography,en,informational works,http://id.loc.gov/authorities/subjects/sh85
 G32,Devotional literature,en,educational works,http://id.loc.gov/authorities/genreForms/gf2015026057.html,2018-03-14,MG,2018-03-14,MG
 G33,Psychology,en,informational works,http://id.loc.gov/authorities/subjects/sh85108459.html,2018-04-06,MG,2018-04-06,MG
 G34,Travel writing,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026542.html,2018-05-22,MG,2018-05-22,MG
-G35,Romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
+G35,Medical fiction,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026430.html,2018-07-09,WH,2018-07-09,WH
 G36,historical nonfiction,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026074.html,2018-08-04,DM,2018-08-04,DM
+G40,Screenplay,en,drama,http://id.loc.gov/authorities/genreForms/gf2014026533.html,2018-07-03,MG,2018-07-20,MG
+G41,History,en,informational works,http://id.loc.gov/authorities/subjects/sh85061212.html,2018-07-23,MG,2018-07-23,MG
+G42,account books,en,informational works,http://id.loc.gov/authorities/genreForms/gf2017026136.html,2018-08-12,MG,2018-08-12,MG
+G43,Romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
