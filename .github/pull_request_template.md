@@ -1,12 +1,11 @@
-> Pull-requests should be ready to merge, and quick to review. Please help your reviewer by using this form. If you require a specific reviewer you can select them on the right. 
+> Pull-requests should be ready to merge, that is free of conflicts, and they should pass our testsuite. If you require a specific reviewer you can request a review on the right.
 
-### Please indicate relevant issues
+### Please indicate issues related to this RR (if any)
 See # .
 Close # .
 
 ### Checklist
--   [ ] The title line explains what these changes do
--   [ ] All my changes are marked in the `last_modfied` column
--   [ ] All formatting changes are intentional (dates, coordinates)
--   [ ] My changes do not add empty rows
--   [ ] I checked the modified table on GitHub (click `view`)
+-   The title line explains what these changes do
+-   All my changes are marked in the `last_modfied` column
+-   The PR has no merge conflicts
+-   Travis checks are passing

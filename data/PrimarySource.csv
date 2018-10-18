@@ -1,7 +1,7 @@
 prim_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
-PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2017-07-03,LH,2017-10-02,DP
-PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2018-04-25,MG,2018-05-23,MG
-PS00001,无声的中国,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,'In the essay Lu Xun ''critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ''silent China'' ... for centuries',,2017-07-03,LH,2017-10-02,DP
+PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2017-07-03,LH,2017-10-02,DP
+PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2018-04-25,MG,2018-05-23,MG
+PS00001,无声的中国,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2017-07-03,LH,2017-10-02,DP
 PS00002,English 900,,en,I0003,G20,PL0050,1964,Macmillan,,no,,,,,,2017-07-12,OS,2017-10-16,MG
 PS00004,The White Ship,,en,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2017-07-12,OS,2017-07-12,OS
 PS00004,Bai lunchuan,,zh-Latn-pinyin,P0076,G21,PL0003,1973,Shanghai renmin chubanshe,1973,yes,,,,,,2018-04-25,MG,2018-05-23,MG
@@ -41,8 +41,8 @@ PS00041,乌云密布的天空,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,
 PS00042,Le Balcon,,fr,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
 PS00042,Yangtai,,zh-Latn-pinyin,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00042,阳台,,zh,P0093,G10,PL0089,1985,Zhiwen chubanshe,,,,,,,,2017-08-07,MG,2018-01-12,MG
-PS00050,Xiaoshi zai andan de ye wu zhong,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,1902 Andreev published a short book called 'В тумане' (ru) 'In the Fog' (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown, nlc.com does not know any 消失在暗淡的夜雾中,2018-04-25,MG,2018-06-22,DP
-PS00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,,,,1902 Andreev published a short book called 'В тумане' (ru) 'In the Fog' (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown, nlc.com does not know any 消失在暗淡的夜雾中,2017-08-20,MG,2018-06-22,DP
+PS00050,Xiaoshi zai andan de ye wu zhong,,zh-Latn-pinyin,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called ""В тумане"" (ru) ""In the Fog"" (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown", nlc.com does not know any 消失在暗淡的夜雾中,2018-04-25,MG,2018-06-22,DP
+PS00050,消失在暗淡的夜雾中,,zh,P0082,G04,PL0002,,,,,,,,"1902 Andreev published a short book called ""В тумане"" (ru) ""In the Fog"" (en) nowadays 雾中 (zh) its relation to the one mentioned by Guo Shiying is unknown", nlc.com does not know any 消失在暗淡的夜雾中,2017-08-20,MG,2018-06-22,DP
 PS00051,Morning Shadow,,en,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,Translated by project member,,2017-08-20,MG,2017-11-11,MG
 PS00051,Gongren Suihuilüefu,,zh-Latn-pinyin,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00051,工人绥惠略夫,,zh,P0085,G04,PL0002,1959,Renmin wenxue chubanshe,1927,,,,,,,2017-08-20,MG,2018-01-16,OS
