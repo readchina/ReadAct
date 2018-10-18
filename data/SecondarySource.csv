@@ -1,5 +1,5 @@
 sec_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,commentary,note,created,created_by,last_modified,last_modified_by
-SS00003,Red Sorrow,A Memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2018-05-07,MG
+SS00003,Red Sorrow,A Memoir,,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2018-05-07,MG
 SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
 SS00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
 SS00006,Walking on the Stream of History,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-11-04,MG
@@ -29,8 +29,8 @@ SS00044,七十年代,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-0
 SS00045,A Sunken Holy Place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2018-04-18,MG
 SS00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
 SS00054,unknown,,en,P0086,,,,,,,,,,,,2017-08-25,MG,2017-11-08,MG
-SS00061,The Story of Translators,,en,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2017-09-06,CW
-SS00061,翻译家的故事,,zh,P0142,G02,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2017-09-06,CW
+SS00061,The Story of Translators,,en,P0142,G43,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2018-10-18,MG
+SS00061,翻译家的故事,,zh,P0142,G43,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2018-10-18,MG
 SS00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
 SS00108,A Glance at the Underground Reading Movement During the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2018-04-18,MG
 SS00109,Memorial for Not Forgetting,Remembering My Friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2018-04-18,MG
@@ -72,8 +72,8 @@ SS00134,Not Recognizing the Current Situation yet Still Outstanding,The Huang Yo
 SS00134,不识时务亦俊杰,秘书眼里的黄永胜,zh,P0213,G03,,2010-12-12,Remembrance,,NULL,NULL,No 64,NULL,,,2017-12-27,MG,2018-01-05,MG
 SS00135,I Was Once an Official Red Guard,,en,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,Translated by project member,,2017-12-27,MG,2018-04-18,MG
 SS00135,我曾是官办红卫兵,,zh,P0039,G03,,2010-01-31,Remembrance,,NULL,NULL,No 42,NULL,,,2017-12-27,MG,2018-01-02,MG
-SS00136,The Interviews With Hui Xianjun,,en,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,Translated by project member,,2017-12-27,MG,2018-04-18,MG
-SS00136,惠宪钧访谈录,,zh,P0214,G02,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,,,2017-12-27,MG,2018-01-05,MG
+SS00136,The Interviews With Hui Xianjun,,en,P0214,G43,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,Translated by project member,,2017-12-27,MG,2018-10-18,MG
+SS00136,惠宪钧访谈录,,zh,P0214,G43,,2010-10-20,Remembrance,,NULL,NULL,No 60,NULL,,,2017-12-27,MG,2018-10-18,MG
 SS00137,Remembering My Father Wu Tianshi,,en,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,Translated by project member,,2017-12-27,MG,2018-01-05,MG
 SS00137,忆父亲吴天石,,zh,P0050,G03,,2010-11-30,Remembrance,,NULL,NULL,No 63,NULL,,,2017-12-27,MG,2018-01-02,MG
 SS00138,The Divided Consciousness and the Interpretation of History,Some Thoughts after Reading Li Ping's Interview and Discussing the Red Guard's movement 'Red August',en,P0211,G01,,2010-09-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem58.html#D,No 58,,,,2018-01-03,OS,2018-01-03,OS
@@ -103,20 +103,20 @@ SS00149,探讨，整肃与命运,,zh,P0130,G03,PL0002,2009,Sanlian shudian,,NULL
 SS00150,,,en,P0043,,,2008,,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
 SS00150,重庆火炉在燃烧,,zh,P0043,,,2008,Guojia lishi,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,,2018-01-10,MG,2018-01-10,MG
 SS00151,Spider Eaters,A Memoir,en,P0073,G03,PL0114,1997,University of California Press,,NULL,,NULL,NULL,,,2018-01-10,MG,2018-04-19,MG
-SS00152,Course of Books,A Spirited Reading History,en,P0139,G03,,,,,NULL,SS00045,NULL,4-16,Translated by project member,,2018-01-12,MG,2018-04-09,MG
-SS00152,书的轨道,一部精神阅读史,zh,P0139,G03,,,,,NULL,SS00045,NULL,4-16,,,2018-01-12,MG,2018-04-09,MG
+SS00152,Course of Books,A Spirited Reading History,en,P0139,G44,,,,,NULL,SS00045,NULL,4-16,Translated by project member,,2018-01-12,MG,2018-10-18,MG
+SS00152,书的轨道,一部精神阅读史,zh,P0139,G44,,,,,NULL,SS00045,NULL,4-16,,,2018-01-12,MG,2018-10-18,MG
 SS00153,Those Times in the Mist of Light and Shade,,en,P0131,G03,,,,,NULL,SS00044,NULL,547-562,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 SS00153,明暗交错的时光,,zh,P0131,G03,,,,,NULL,SS00044,NULL,547-562,,,2018-01-12,MG,2018-01-12,MG
 SS00154,Starting From 1979,That Happiness Keener Than Ice and Steel,en,P0133,G03,,,,,NULL,SS00044,NULL,531-546,Translated by project member,,2018-01-12,MG,2018-04-18,MG
 SS00154,始于1979,比冰和铁更刺人心肠的欢乐,zh,P0133,G03,,,,,NULL,SS00044,NULL,531-546,,,2018-01-12,MG,2018-01-12,MG
-SS00155,Years Being Like a Poem,,en,P0011,G03,,,,,NULL,SS00044,NULL,51-58,Translated by project member,,2018-01-12,MG,2018-04-18,MG
-SS00155,诗样年华,,zh,P0011,G03,,,,,NULL,SS00044,NULL,51-58,,,2018-01-12,MG,2018-01-12,MG
+SS00155,Years Being Like a Poem,,en,P0011,G44,,,,,NULL,SS00044,NULL,51-58,Translated by project member,,2018-01-12,MG,2018-10-18,MG
+SS00155,诗样年华,,zh,P0011,G44,,,,,NULL,SS00044,NULL,51-58,,,2018-01-12,MG,2018-10-18,MG
 SS00156,1970s,The last Reminiscence,en,P0215,G03,,,,,NULL,SS00044,NULL,331-348,Translated by project member,,2018-01-12,MG,2018-01-12,MG
 SS00156,七十年代,末代回忆,zh,P0215,G03,,,,,NULL,SS00044,NULL,331-348,,,2018-01-12,MG,2018-01-12,MG
 SS00157,Luckily to be Young,1970s in Retrospect,en,P0140,G03,,,,,NULL,SS00044,NULL,59-80,Translated by project member,,2018-01-12,MG,2018-04-18,MG
 SS00157,幸亏年轻,回想七十年代,zh,P0140,G03,,,,,NULL,SS00044,NULL,59-80,,,2018-01-12,MG,2018-01-12,MG
-SS00158,The Reminiscence of Sunshine and Storm,,en,P0018,G03,,,,,NULL,SS00044,NULL,305-318,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-SS00158,阳光与暴风雨的回忆,,zh,P0018,G03,,,,,NULL,SS00044,NULL,305-318,,,2018-01-12,MG,2018-01-12,MG
+SS00158,The Reminiscence of Sunshine and Storm,,en,P0018,G44,,,,,NULL,SS00044,NULL,305-318,Translated by project member,,2018-01-12,MG,2018-10-18,MG
+SS00158,阳光与暴风雨的回忆,,zh,P0018,G44,,,,,NULL,SS00044,NULL,305-318,,,2018-01-12,MG,2018-10-18,MG
 SS00159,I Used to be a Wolf of the Mountain and a Thief of the Sea,,en,P0216,G03,,,,,NULL,SS00044,NULL,359-382,Translated by project member,,2018-01-12,MG,2018-04-18,MG
 SS00159,我曾经是山狼海贼,,zh,P0216,G03,,,,,NULL,SS00044,NULL,359-382,,,2018-01-12,MG,2018-01-12,MG
 SS00160,Those Times of Mine,,en,P0154,G03,,,,,NULL,SS00044,NULL,383-412,Translated by project member,,2018-01-12,MG,2018-04-18,MG
@@ -125,8 +125,8 @@ SS00161,Reminiscent Episodes of the 1970s,,en,P0217,G03,,,,,NULL,SS00044,NULL,45
 SS00161,七十年代记忆片段,,zh,P0217,G03,,,,,NULL,SS00044,NULL,457-474,,,2018-01-12,MG,2018-01-12,MG
 SS00162,1976,My First Love Died Like Shabby Cotton,en,P0218,G03,,,,,NULL,SS00044,NULL,475-492,Translated by project member,,2018-01-12,MG,2018-04-18,MG
 SS00162,1976,初恋败絮,zh,P0218,G03,,,,,NULL,SS00044,NULL,475-492,,,2018-01-12,MG,2018-01-12,MG
-SS00163,The Black Painting Crisis,,en,P0137,G03,,,,,NULL,SS00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-01-12,MG
-SS00163,黑画风波,,zh,P0137,G03,,,,,NULL,SS00044,NULL,349-358,,,2018-01-12,MG,2018-01-12,MG
+SS00163,The Black Painting Crisis,,en,P0137,G44,,,,,NULL,SS00044,NULL,349-358,Translated by project member,,2018-01-12,MG,2018-10-18,MG
+SS00163,黑画风波,,zh,P0137,G44,,,,,NULL,SS00044,NULL,349-358,,,2018-01-12,MG,2018-10-18,MG
 SS00185,The Tranquil Horizon,,en,P0003,G03,,,,,NULL,SS00044,,105-146,Translated by project member,,2018-01-24,OS,2018-04-18,MG
 SS00185,宁静的地平线,,zh,P0003,G03,,,,,NULL,SS00044,,105-146,,,2018-01-24,OS,2018-01-24,OS
 SS00189,Broken Chapter,,en,P0009,G03,,,,,NULL,SS00044,,31-50,Translated by project member,,2018-01-25,OS,2018-04-18,MG
@@ -171,8 +171,8 @@ SS00245,,,en,P0207,G03,,2011-09-13,Remembrance,,NULL,https://docs.google.com/doc
 SS00245,那个时代没有远去,,zh,P0207,G03,,2011-09-13,Remembrance,,NULL,https://docs.google.com/document/d/1wf58KOyiWvweUUGZAk1bWG3QvmvF10_EM2tPeWGjEp4/edit#bookmark=id.ec963a2ae041,No 75,ONLINE SOURCE,by 马文蔚 about 九一三,,2018-02-27,MG,2018-02-27,MG
 SS00246,,,en,P0033,G03,,2011-09-15,,,NULL,http://www.aisixiang.com/data/44238.html,NULL,ONLINE SOURCE,周孜仁 wrote it about 九一三,,2018-02-27,MG,2018-02-27,MG
 SS00246,省委秘书记忆中的’九一三‘,,zh,P0033,G03,,2011-09-15,,,NULL,http://www.aisixiang.com/data/44238.html,NULL,ONLINE SOURCE,周孜仁 wrote it about 九一三,,2018-02-27,MG,2018-02-27,MG
-SS00247,,,en,P0107,G02,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-02-27,MG
-SS00247,芒克访谈,,zh,P0107,G02,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-02-27,MG
+SS00247,,,en,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-10-18,MG
+SS00247,芒克访谈,,zh,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-10-18,MG
 SS00248,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,P0281,G02,PL0050,1993,The Atlantic Monthly Press,,NULL,,,,,,2018-03-06,MG,2018-03-06,MG
 SS00268,Vermilion Gate,,en,P0320,G03,PL0036,2000,Little: Brown and Company,,NULL,,NULL,,,,2018-03-17,MG,2018-03-17,MG
 SS00269,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,P0310,G03,,1998,University of Massachusetts Press,,NULL,,,,,,2018-03-27,MG,2018-03-27,MG
