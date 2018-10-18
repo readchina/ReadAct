@@ -134,9 +134,9 @@ PS00087,红宝书,,zh,P0174,G24,PL0092,1977,Henan Renmin chubanshe,,,,,,,,2017-1
 PS00088,Project 571,,en,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2017-12-23,OS,2017-12-23,OS
 PS00088,571 gongcheng jiyao,,zh-Latn-pinyin,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00088,571工程纪要,,zh,P0194,G26,PL0012,1991,Chongqing chubanshe,,,,,,,,2017-12-23,OS,2017-12-23,OS
-PS00089,Three Character Classic,,en,P0191,G43,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
-PS00089,Sanzijing,,zh-Latn-pinyin,P0191,G43,,,,,,,,,,,2018-04-25,MG,2018-10-18,WH
-PS00089,三字经,,zh,P0191,G43,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
+PS00089,Three Character Classic,,en,P0191,G50,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
+PS00089,Sanzijing,,zh-Latn-pinyin,P0191,G50,,,,,,,,,,,2018-04-25,MG,2018-10-18,WH
+PS00089,三字经,,zh,P0191,G50,,,,,,,,,,,2017-12-23,OS,2018-10-18,WH
 PS00090,Chronicles of the Eastern Zhou Kingdoms,,en,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2017-10-18,MG
 PS00090,Dongzhou lieguo zhi,,zh-Latn-pinyin,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00090,东周列国志,,zh,P0192,G04,PL0002,1955,Zuojia chubanshe,,,,,,,,2018-04-25,MG,2017-10-18,MG
@@ -509,8 +509,8 @@ PS00338,Dulumen huiyilu,,zh-Latn-pinyin,P0352,G03,PL0002,1973,Sanlian shudian,,y
 PS00338,杜鲁门回忆录,,zh,P0352,G03,PL0002,1973,Sanlian shudian,,yes,,,,,,2018-05-08,MG,2018-05-08,MG
 PS00339,Quan songci,,zh-Latn-pinyin,P0355,G28,PL0002,1965,Zhonghua shuju,,no,,,,,,2018-05-14,MG,2018-05-29,WH
 PS00339,全宋词,,zh,P0355,G28,PL0002,1965,Zhonghua shuju,,no,,,,,,2018-05-14,MG,2018-05-14,MG
-PS00340,Gui qu lai xi ci,,zh-Latn-pinyin,P0356,G44,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
-PS00340,归去来兮辞,,zh,P0356,G44,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
+PS00340,Gui qu lai xi ci,,zh-Latn-pinyin,P0356,G51,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
+PS00340,归去来兮辞,,zh,P0356,G51,,,,,,,,,,,2018-05-14,MG,2018-10-18,WH
 PS00341,Le Cimetière Marin,,fr,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-15,MG
 PS00341,Haibin muyuan,,zh-Latn-pinyin,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-29,WH
 PS00341,海滨墓园,,zh,P0357,G10,,,,,,,,,,,2018-05-15,MG,2018-05-15,MG
@@ -612,7 +612,7 @@ PS00462,鲁迅文集·杂文集·华盖集,,zh,P0001,G23,,,,,,PS09999,,,http://w
 PS00463,Great Wall,,en,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
 PS00463,Changcheng,,zh-Latn-pinyin,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
 PS00463,长城,,zh,P0001,G23,,,,,,PS00464,,,written in 1925,,2018-06-26,MG,2018-06-26,MG
-PS00464,莽原,,zh,P0999,G45,PL0002,1926,,,,,No. 04,,,,2018-06-26,MG,2018-10-18,WH
+PS00464,莽原,,zh,P0999,G52,PL0002,1926,,,,,No. 04,,,,2018-06-26,MG,2018-10-18,WH
 PS00465,In Memory of Miss Liu Hezhen,,en,P0001,G23,,,,,,PS09999,,,Written 1926-04-01,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
 PS00465,Ji nian Liu Hezhen jun,,zh-Latn-pinyin,P0001,G23,,,,,,PS09999,,,Written 1926-04-02,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
 PS00465,纪念刘和珍君,,zh,P0001,G23,,,,,,PS09999,,,Written 1926-04-03,Only found edition from  Chaoyang chubanshe Hongkong 1973,2018-06-28,MG,2018-06-28,MG
