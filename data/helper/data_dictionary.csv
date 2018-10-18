@@ -1,6 +1,6 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
 Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-07,DP
-Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘unknown’.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
+Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘anon’.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
 Person,first_name,First name (名),,2017-07-04,LH,2018-01-30,DP
 Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2018-01-30,DP

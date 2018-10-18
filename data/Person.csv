@@ -164,8 +164,8 @@ P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://e
 P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Андре́ев,Леони́д,ru,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
-P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
-P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-0384,-0322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
+P0084,Aristotle,,en,male,NULL,NULL,NULL,NULL,-384,-322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
+P0084,Ἀριστοτέλης,,grc,male,NULL,NULL,NULL,NULL,-384,-322,,,PL0031,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,Artsybashev,Mikhail,en,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,阿尔志跋绥夫,米哈伊尔,zh,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
 P0085,Арцыба́шев,Михаи́л,ru,male,NULL,NULL,NULL,NULL,1878,1927,,,PL0032,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,2017-07-09,OS,2018-01-26,WH
@@ -301,7 +301,7 @@ P0169,Wang,Hanying,en,unknown,,,,,,,,,,,,SS00207,ONLINE SOURCE,,,,CHECK GENDER,2
 P0169,汪,含英,zh,unknown,,,,,,,,,,,CHECK GENDER,SS00207,ONLINE SOURCE,,,,,2018-02-19,MG,2018-07-31,DP
 P0171,Teacher Ling,,en,unknown,,,,,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
 P0171,凌老师,,zh,unknown,,,,,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-07-31,DP
-P0172,unknown,Zhenzhen,en,unknown,,,,,,,,,,,,,,,,,CHECK GENDER,2017-10-03,MG,2018-10-18,WH
+P0172,anon,Zhenzhen,en,unknown,,,,,,,,,,,,,,,,,CHECK GENDER,2017-10-03,MG,2018-10-18,WH
 P0173,Liu,Nina,en,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
 P0173,刘,妮娜,zh,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
 P0174,Mao,Zedong,en,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,ONLINE SOURCE,,,,,2017-10-03,MG,2017-12-23,MG
@@ -326,10 +326,10 @@ P0183,Li,Ruzhen,en,male,NULL,NULL,NULL,NULL,1763,1830,Songsh Daoren,en,PL0002,NU
 P0183,李,汝珍,zh,male,NULL,NULL,NULL,NULL,1763,1830,松石道人,zh,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Ruzhen,ONLINE SOURCE,,,,,2017-10-25,MG,2017-12-23,MG
 P0184,Fan,Zhen,en,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
 P0184,范,缜,zh,male,NULL,NULL,NULL,NULL,450,515,NULL,NULL,PL0097,NULL,NULL,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
-P0185,Yi,Jia,en,male,NULL,NULL,NULL,NULL,-0200,-0169,Yi Sheng,en,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
-P0185,贾,谊,zh,male,NULL,NULL,NULL,NULL,-0200,-0169,贾生,zh,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
-P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,-0551,-0479,Kong Fuzi,en,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,2017-10-30,MG,2018-02-02,WH
-P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,-0551,-0479,孔夫子,zh,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,2017-10-30,MG,2018-02-02,WH
+P0185,Yi,Jia,en,male,NULL,NULL,NULL,NULL,-200,-169,Yi Sheng,en,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
+P0185,贾,谊,zh,male,NULL,NULL,NULL,NULL,-200,-169,贾生,zh,PL0077,NULL,NULL,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,2017-10-30,MG,2018-01-26,WH
+P0186,Kongzi,,en,male,NULL,NULL,NULL,NULL,-551,-479,Kong Fuzi,en,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,2017-10-30,MG,2018-02-02,WH
+P0186,孔子,,zh,male,NULL,NULL,NULL,NULL,-551,-479,孔夫子,zh,PL0098,NULL,NULL,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,2017-10-30,MG,2018-02-02,WH
 P0187,Kuan,Huan,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,,2017-10-30,MG,2017-12-23,MG
 P0187,桓,宽,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0099,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,,2017-10-30,MG,2017-12-23,MG
 P0999,anonymous,,en,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,,,,,,2017-11-07,DP,2017-11-07,DP
@@ -562,7 +562,7 @@ P0289,Li,Shiyu,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0018,N
 P0290,Wu,Cheng‘en,en,male,NULL,NULL,NULL,NULL,1506,1582,Ruzhong,en,PL0204,NULL,NULL,https://en.wikipedia.org/wiki/Wu_Cheng%27en,ONLINE SOURCE,,,,,2018-03-13,MG,2018-03-14,MG
 P0290,吴,承恩,zh,male,NULL,NULL,NULL,NULL,1506,1582,汝忠,zh,PL0204,NULL,NULL,https://en.wikipedia.org/wiki/Wu_Cheng%27en,ONLINE SOURCE,,,,,2018-03-13,MG,2018-03-14,MG
 P0291,Wu,Yiding,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,unknown,,unknown,SS00248,246f,,,,,2018-03-13,MG,2018-03-14,MG
-P0292,unknown,Yian,en,female,unknown,NULL,NULL,NULL,1958?,,NULL,NULL,unknown,,unknown,SS00248,326,SS00248,76,,,2018-03-13,MG,2018-10-18,WH
+P0292,anon,Yian,en,female,unknown,NULL,NULL,NULL,1958?,,NULL,NULL,unknown,,unknown,SS00248,326,SS00248,76,,,2018-03-13,MG,2018-10-18,WH
 P0293,Mao,,en,male,yes,1968?,1970?,PL0187,unknown,unknown,NULL,NULL,unknown,,unknown,SS00248,239,,,Professor,,2018-03-13,MG,2018-03-13,MG
 P0294,Gardner,Helen,en,female,NULL,NULL,NULL,NULL,1878,1946,NULL,NULL,PL0206,NULL,NULL,https://en.wikipedia.org/wiki/Helen_Gardner_(art_historian),,,,,,2018-03-13,MG,2018-03-14,MG
 P0294,加德纳,海伦,zh,female,NULL,NULL,NULL,NULL,1878,1946,NULL,NULL,PL0206,NULL,NULL,https://en.wikipedia.org/wiki/Helen_Gardner_(art_historian),,,,,,2018-03-13,MG,2018-03-14,MG
