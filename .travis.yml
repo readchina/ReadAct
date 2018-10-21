@@ -2,8 +2,8 @@ language: ruby
 
 notifications:
   email: false
-  
-# miller needs higher version of ubuntu to run
+
+# miller needs ubuntu xenial for apt install
 before_install:
   - wget https://github.com/johnkerl/miller/releases/download/5.4.0/mlr-5.4.0.tar.gz
   - tar -xzvf mlr-5.4.0.tar.gz
@@ -32,7 +32,7 @@ script:
   - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
   - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
 
-# referential integrity
+# referential integrity no failures for visual inspection only
 # Act
   - mlr --csv join -j agent -r person_id --np --ul -f data/Act.csv then cut -f agent then uniq -a data/Person.csv
   - mlr --csv join -j action -r action_ID --np --ul -f data/Act.csv then cut -f action then uniq -a data/ActType.csv
