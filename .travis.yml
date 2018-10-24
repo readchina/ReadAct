@@ -3,10 +3,18 @@ language: ruby
 notifications:
   email: false
 
+# miller needs ubuntu xenial for apt install
+before_install:
+  - wget https://github.com/johnkerl/miller/releases/download/5.4.0/mlr-5.4.0.tar.gz
+  - tar -xzvf mlr-5.4.0.tar.gz
+  - pushd mlr-5.4.0 && ./configure --prefix=/usr && make && sudo make install && popd
+
 install:
   - gem install csvlint
 
 script:
+  # validate each file against its schema
+  # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
   - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Act.json
   - csvlint data/ActType.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ActType.json
   - csvlint data/ArtForm.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtForm.json
@@ -24,4 +32,38 @@ script:
   - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
   - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
 
-  # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
+# referential integrity no failures for visual inspection only
+# Act
+  - mlr --csv join -j agent -r person_id --np --ul -f data/Act.csv then cut -f agent then uniq -a data/Person.csv
+  - mlr --csv join -j action -r action_ID --np --ul -f data/Act.csv then cut -f action then uniq -a data/ActType.csv
+
+# Artwork
+  - mlr --csv join -j person_id --np --ul -f data/ArtWork.csv then cut -f person_id then uniq -a data/Person.csv
+  - mlr --csv join -j art_form_id --np --ul -f data/ArtWork.csv then cut -f art_form_id then uniq -a data/ArtForm.csv
+
+# Institution
+  - mlr --csv join -j place_id -r place_ID --np --ul -f data/Institution.csv then cut -f place_id then uniq -a data/Place.csv
+
+# Membership
+  - mlr --csv join -j inst_ID --np --ul -f data/Membership.csv then cut -f inst_ID then uniq -a data/Institution.csv
+  - mlr --csv join -j person_id --np --ul -f data/Membership.csv then cut -f person_id then uniq -a data/Person.csv
+
+# Person
+  - mlr --csv join -j place_of_rust -r place_ID --np --ul -f data/Person.csv then cut -f place_of_rust then uniq -a data/Place.csv
+  - mlr --csv join -j place_of_birth -r place_ID --np --ul -f data/Person.csv then cut -f place_of_birth then uniq -a data/Place.csv
+  - mlr --csv join -j place_of_death -r place_ID --np --ul -f data/Person.csv then cut -f place_of_death then uniq -a data/Place.csv
+  - mlr --csv join -j social_position -r soc_pos_id --np --ul -f data/Person.csv then cut -f social_position then uniq -a data/SocialPosition.csv
+
+# PrimarySource
+  - mlr --csv join -j person_id --np --ul -f data/PrimarySource.csv then cut -f person_id then uniq -a data/Person.csv
+  - mlr --csv join -j genre_id --np --ul -f data/PrimarySource.csv then cut -f genre_id then uniq -a data/Genre.csv
+  - mlr --csv join -j publication_place -r place_ID --np --ul -f data/PrimarySource.csv then cut -f publication_place then uniq -a data/Place.csv
+
+# SecondarySource
+  - mlr --csv join -j person_id --np --ul -f data/SecondarySource.csv then cut -f person_id then uniq -a data/Person.csv
+  - mlr --csv join -j genre_id --np --ul -f data/SecondarySource.csv then cut -f genre_id then uniq -a data/Genre.csv
+  - mlr --csv join -j publication_place -r place_ID --np --ul -f data/SecondarySource.csv then cut -f publication_place then uniq -a data/Place.csv
+
+# SocialRelation
+  - mlr --csv join -j ego -r person_id --np --ul -f data/SocialRelation.csv then cut -f ego then uniq -a data/Person.csv
+  - mlr --csv join -j related -r person_id --np --ul -f data/SocialRelation.csv then cut -f related then uniq -a data/Person.csv
