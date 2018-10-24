@@ -867,13 +867,19 @@ P0644,Abbado,Claudio,en,male,NULL,NULL,NULL,NULL,1933,2014,NULL,NULL,PL0403,NULL
 P0644,阿巴多,克劳迪奥,zh,male,NULL,NULL,NULL,NULL,1933,2014,NULL,NULL,PL0403,NULL,NULL,https://en.wikipedia.org/wiki/Claudio_Abbado,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
 P0645,Allilujeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,Lana Peters,en,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
 P0645,阿利卢耶娃,斯维特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,NULL,NULL,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
-P0646,,,,,,,,,,,,,,,,,,,,,,,,,
-P0646,,,,,,,,,,,,,,,,,,,,,,,,,
-P0647,,,,,,,,,,,,,,,,,,,,,,,,,
-P0647,,,,,,,,,,,,,,,,,,,,,,,,,
-P0648,,,,,,,,,,,,,,,,,,,,,,,,,
-P0648,,,,,,,,,,,,,,,,,,,,,,,,,
-P0649,,,,,,,,,,,,,,,,,,,,,,,,,
-P0649,,,,,,,,,,,,,,,,,,,,,,,,,
-P0650,,,,,,,,,,,,,,,,,,,,,,,,,
-P0650,,,,,,,,,,,,,,,,,,,,,,,,,
+P0646,Luxemburg,Rosa,en,female,NULL,NULL,NULL,NULL,,,,,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0646,卢森堡,,zh,female,NULL,NULL,NULL,NULL,,,,,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0647,Liebknecht,Karl,de,male,NULL,NULL,NULL,NULL,,,,,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0647,李卜克内西,,zh,male,NULL,NULL,NULL,NULL,,,,,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0648,Li,Dazhao,en,male,NULL,NULL,NULL,NULL,1888,1927,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0648,李,大钊,zh,male,NULL,NULL,NULL,NULL,1888,1927,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0649,Yun,Daiying,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0649,恽,代英,zh,male,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0650,Liu,Bojian,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0650,刘,刘坚,zh,male,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0651,Thälmann,Ernst Johannes,de,male,NULL,NULL,NULL,NULL,,1944,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0651,台尔曼,,zh,male,NULL,NULL,NULL,NULL,,1944,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0652,Ibárruri,Dolores,es,female,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,ONLINE SOURCE,,,,,2018-10-24,MG,2018-10-24,MG
+P0652,伊巴露丽,多洛雷斯,zh,female,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,,,,,,2018-10-24,MG,2018-10-24,MG
+P0653,,,,,,,,,,,,,,,,,,,,,,,,,
+P0653,,,,,,,,,,,,,,,,,,,,,,,,,
