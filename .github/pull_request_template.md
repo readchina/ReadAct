@@ -1,6 +1,6 @@
 > Pull-requests should be ready to merge, that is free of conflicts, and they should pass our testsuite. If you require a specific reviewer you can request a review on the right.
 
-### Please indicate issues related to this RR (if any)
+### Please indicate issues related to this PR (if any)
 See # .
 Close # .
 
