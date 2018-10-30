@@ -30,7 +30,7 @@ A00025,P0106,AT01,PS00040,,1968,1974,The author remembered that there was a work
 A00026,P0017,AT04,PS00040,,19XX,19XX,big influence,SS00009,220,,,,2017-08-11,MG,2018-01-22,MG
 A00027,P0134,AT04,PS00040,,1973,1973,modernism such as Baudelaire influences the way he writes poetry,SS00045,291,,,,2017-08-11,MG,2017-08-11,MG
 A00028,P0010,AT01,PS00010,,19XX,19XX,unknown,SS00045,195,,,source should be checked for time of reading and act-type,2017-08-20,MG,2018-01-22,MG
-A00029,P0017,AT04,PS00010,,19XX,19XX,states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔,,,,,,2017-08-20,MG,2018-01-22,MG
+A00029,P0017,AT04,PS00010,,19XX,19XX,states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔,SS00009,999,,,pls check the source again for the exact page number,2017-08-20,MG,2018-10-30,MG
 A00030,P0002,AT01,PS00050,,1962,1963,Its about a man left his father and devoted himself in dangerous work. The reader said it is similar to his situation.,SS00045,24,,,,2017-08-20,MG,2017-10-02,DP
 A00031,P0021,AT01,PS00050,,19XX,19XX,unknown,SS00045,24,,,,2017-08-20,MG,2018-01-22,MG
 A00032,P0022,AT01,PS00050,,1962,1963,His favorite quote from the book is Either unknown or outstanding,SS00045,24,,,,2017-08-20,MG,2017-08-20,MG
@@ -39,7 +39,7 @@ A00034,P0003,AT01,PS00052,,1960,1965?,Channel of obtaining: the collection of wr
 A00035,P0131,AT01,PS00053,,19XX,19XX,Li Daxing had access to western works via his fathers friend Li Shu 黎澍,SS00153,555,,,,2017-08-25,MG,2018-01-22,MG
 A00036,P0106,AT01,PS09999,,1967,1967,Later the authors home was plundered as well and all of his collections were confiscated by the red guards.,SS00005,569f,,unknown work by: P0086,,2017-08-25,MG,2018-07-30,MG
 A00037,P0020,AT01,PS00055,,1966,1970?,Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.,SS00006,135,,,,2017-08-26,MG,2018-01-23,MG
-A00038,P0136,AT21,PS00057,,1970,1970,when XXX one is reminded of the quote by Bai Juyi,,,,,,2017-08-27,MG,2018-06-22,DP
+A00038,P0136,AT21,PS00057,,1970,1970,when XXX one is reminded of the quote by Bai Juyi,SS00110,495,2,,,2017-08-27,MG,2018-10-30,MG
 A00039,P0999,AT20,AW00058,,1972,1972,Xu Haoyuan mentions that this play was staged by fellow zhiqing,SS00155,57,,,,2017-08-27,MG,2018-02-09,OS
 A00040,P0137,AT04,AW09999,,19XX,19XX,The author and his friends knew about this painter from the Russian magazine 星火杂志.  They cherished this Romanian most.,SS00156,353,,unknown work by: P0087 AF01,,2017-08-31,MG,2018-08-03,MG
 A00041,P0138,AT01,AW09999,,1970,1976,During that time the music became popular again. Some pieces had survived through the early stage of the CR and they spread secretly among the people.,SS00111,196,,unknown work by:  P0089 AF05,,2017-08-31,MG,2018-08-03,MG
@@ -121,14 +121,14 @@ A00163,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 19
 A00164,P0221,AT01,PS00024,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,,,2018-02-01,OS,2018-02-01,OS
 A00165,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,unknown work by: P0080 G29,,2018-02-01,OS,2018-04-10,MG
 A00166,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,unknown work by: P0098 G24,very likely that for the 1960s books by this author refer to a neibu publication,2018-02-01,OS,2018-04-10,MG
-A00167,P0221,AT04,PS00168,,196x,196x,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00168,P0221,AT03,PS00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00169,P0221,AT03,PS00168,P0230,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00170,P0229,AT04,PS00168,,1968?,1971,Liu was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
-A00171,P0230,AT04,PS00168,,1968?,1971,Zhang was very influenced by it and from there on had doubted the official line.,,249,2,,,2018-02-02,OS,2018-02-02,OS
+A00167,P0221,AT04,PS00168,,196x,196x,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,SS00170,249,2,,,2018-02-02,OS,2018-10-30,MG
+A00168,P0221,AT03,PS00168,P0229,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,SS00170,249,2,,,2018-02-02,OS,2018-10-30,MG
+A00169,P0221,AT03,PS00168,P0230,1968?,1971,Li handed it over to Liu Jingzi and does not know to whom she gave it.,SS00170,249,2,,,2018-02-02,OS,2018-10-30,MG
+A00170,P0229,AT04,PS00168,,1968?,1971,Liu was very influenced by it and from there on had doubted the official line.,SS00170,249,2,,,2018-02-02,OS,2018-10-30,MG
+A00171,P0230,AT04,PS00168,,1968?,1971,Zhang was very influenced by it and from there on had doubted the official line.,SS00170,249,2,,,2018-02-02,OS,2018-10-30,MG
 A00173,P0031,AT01,PS00198,,1969,1969,Huang read Dimitrov when in prison,http://www.xujuneberlein.com/rem53.html#B,ONLINE SOURCE,2,,,2018-02-05,OS,2018-02-05,OS
 A00174,P0029,AT16,PS00200,,1964,1966,He read it around the beginning of the CR and mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118-119,2,,,2018-02-05,OS,2018-02-05,OS
-A00175,P0108,AT04,PS00199,,1966,1968,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevskys novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,,,2,,,2018-02-05,OS,2018-02-05,OS
+A00175,P0108,AT04,PS00199,,1966,1968,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevskys novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,SS00012,158f,2,,,2018-02-05,OS,2018-10-30,MG
 A00176,P0062,AT01,PS00202,,1974,1974,after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.,SS00113,477,2,,,2018-02-06,OS,2018-02-06,OS
 A00177,P0237,AT18,PS00204,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.,http://www.xujuneberlein.com/rem51.html#B,ONLINE SOURCE,2,,,2018-02-06,OS,2018-02-06,OS
 A00178,P0029,AT17,PS00203,P0999,1969,1972,Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.,SS00029,122,2,,,2018-02-06,OS,2018-02-06,OS

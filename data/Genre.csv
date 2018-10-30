@@ -28,7 +28,7 @@ G24,political theory,en,informational works,http://id.loc.gov/authorities/subjec
 G25,correspondence,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026141.html,2017-07-27,LH,2018-03-08,MG
 G26,CCP central document,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026163.html,2017-10-03,CW,2018-03-08,MG
 G27,Speech,en,informational works,http://id.loc.gov/authorities/genreForms/gf2011026363.html,2017-10-03,CW,2018-03-08,MG
-G28,Literary collections,en,,http://id.loc.gov/authorities/subjects/sh99001634.html,2018-01-25,OS,2018-03-01,MG
+G28,Literary collections,en,unknown,http://id.loc.gov/authorities/subjects/sh99001634.html,2018-01-25,OS,2018-10-30,MG
 G29,philosophy,en,educational works,http://id.loc.gov/authorities/subjects/sh85100849.html,2018-02-01,OS,2018-03-01,MG
 G30,juvenile literature,en,fiction,http://id.loc.gov/authorities/subjects/sh99001674.html,2018-02-08,OS,2018-03-01,MG
 G31,geography,en,informational works,http://id.loc.gov/authorities/subjects/sh85053986.html,2018-02-28,OS,2018-03-01,MG
@@ -42,4 +42,4 @@ G42,account books,en,informational works,http://id.loc.gov/authorities/genreForm
 G50,Children’s literature,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85023617.html,2018-10-18,WH,2018-10-18,WH
 G99,unknown,en,unknown,http://none,2018-10-18,WH,2018-10-18,WH
 G51,fu,Zh-Latn-pinyin,poetry,http://id.loc.gov/authorities/subjects/sh85052202.html,2018-10-18,WH,2018-10-18,WH
-G52,Periodicals,en,,http://id.loc.gov/authorities/genreForms/gf2014026139.html,2018-10-18,WH,2018-10-18,WH
+G52,Periodicals,en,unknown,http://id.loc.gov/authorities/genreForms/gf2014026139.html,2018-10-18,WH,2018-10-30,MG
