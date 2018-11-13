@@ -28,8 +28,8 @@ SS00044,The Seventies,,en,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-
 SS00044,七十年代,,zh,P0009,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,,2017-08-07,MG,2017-08-11,MG
 SS00045,A Sunken Holy Place,,en,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2018-04-18,MG
 SS00045,沉沦的圣殿,,zh,P0135,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,,2017-08-11,MG,2017-08-11,MG
-SS00061,The Story of Translators,,en,P0142,G43,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2018-10-18,MG
-SS00061,翻译家的故事,,zh,P0142,G43,http://www.xujuneberlein.com/rem51.html,2010,Remembrance,2010,no,,,,,,2017-09-06,CW,2018-10-18,MG
+SS00061,The Story of Translators,,en,P0142,G43,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,,2017-09-06,CW,2018-11-13,MG
+SS00061,翻译家的故事,,zh,P0142,G43,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,,2017-09-06,CW,2018-11-13,MG
 SS00075,The Uses of Literature,Life in the Socialist Chinese Literary System,en,P0150,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,,2017-09-22,MG,2017-09-22,MG
 SS00108,A Glance at the Underground Reading Movement During the Cultural Revolution,,en,P0180,G19,PL0084,2007,Journal of Contemporary China,,,NULL,vol 16:51,325-333,,,2017-10-09,MG,2018-04-18,MG
 SS00109,Memorial for Not Forgetting,Remembering My Friend Zhu Shixian,en,P0031,G19,,2010-07-15,Remembrance,,NULL,NULL,No 53,NULL,,,2017-10-09,MG,2018-04-18,MG
@@ -174,7 +174,7 @@ SS00247,XXX,,en,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.
 SS00247,芒克访谈,,zh,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-10-18,MG
 SS00248,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,P0281,G02,PL0050,1993,The Atlantic Monthly Press,,NULL,,,,,,2018-03-06,MG,2018-03-06,MG
 SS00268,Vermilion Gate,,en,P0320,G03,PL0036,2000,Little: Brown and Company,,NULL,,NULL,,,,2018-03-17,MG,2018-03-17,MG
-SS00269,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,P0310,G03,,1998,University of Massachusetts Press,,NULL,,,,,,2018-03-27,MG,2018-03-27,MG
+SS00269,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,P0329,G03,,1998,University of Massachusetts Press,,NULL,,,,,,2018-03-27,MG,2018-11-13,MG
 SS00270,Let the Thought Brake the Cage,,en,P0348,G03,,,,,,SS00044,NULL,165-186,Translated by project member,,2018-04-09,MG,2018-04-09,MG
 SS00270,让思想冲破牢笼,,zh,P0348,G03,,,,,,SS00044,NULL,165-186,,,2018-04-09,MG,2018-04-09,MG
 SS00271,My Father and I,,en,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,周孜仁 recalled his father.,,2018-05-03,WH,2018-06-26,MG

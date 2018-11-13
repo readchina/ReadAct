@@ -59,7 +59,7 @@ A00053,P0134,AT02,PS00065,,1973,1973,copied from Jiang He 江河,SS00045,291,,,,
 A00054,P0014,AT02,PS00070,,1974~,1974~,Xu Xiao copied and hid it,SS00012,159-160,,,,2017-09-15,MG,2018-02-09,OS
 A00055,P0133,AT13,PS00071,,1979,1979,This is the first poem of the author,SS00154,534,,,,2017-09-20,MG,2018-01-12,MG
 A00056,P0133,AT13,PS00072,,1979,1979,The author was deeply influenced by Sylvia Plath in the beginning of his work as a poet,SS00154,536,,,,2017-09-20,MG,2018-01-12,MG
-A00057,P0144,AT05,PS00073,,1966,1976,According to Wang Shiqiangs research this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,,,bad pointer see GH #300,2017-09-20,MG,2018-09-25,DP
+A00057,P0144,AT11,PS00073,,1966,1976,According to Wang Shiqiangs research this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,,,,2017-09-20,MG,2018-11-12,MG
 A00059,P0106,AT05,PS00076,,1960,1980,Han ranks the work among the most influential books during the long 1970s,SS00005,580,,,,2017-09-22,MG,2018-02-08,OS
 A00060,P0153,AT01,PS00077,,1966,1976,he wrote research of the Dream of the Red Chamber and was put on the hat of 牛鬼蛇神. In 1954 a campaign was launched to criticize his bourgeoise interpretation of the book.,SS00159,372,,,,2017-09-22,MG,2018-01-12,MG
 A00061,P0029,AT01,PS00077,,19XX,19XX,He read it before his university studies and mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,116-119,,,,2017-09-22,MG,2018-01-22,MG
@@ -285,7 +285,7 @@ A00326,P0329,AT01,PS00307,,197x,197x,unknown,SS00269,188,2,,,2018-04-03,MG,2018-
 A00327,P0329,AT01,PS09999,,197x,197x,unknown,SS00269,188,2,unknown work & Rodin‘s biography G02,,2018-04-03,MG,2018-04-10,MG
 A00328,P0336,AT03,PS00307,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
 A00329,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,unknown work & Rodin‘s biography G02,Rodin‘s biography,2018-04-03,MG,2018-07-30,MG
-A00330,P0083,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,bad pointer see GH #300,2018-04-03,MG,2018-09-25,DP
+A00330,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,bad pointer see GH #300,2018-04-03,MG,2018-11-12,MG
 A00692,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-09-10,DP
 A00693,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-09-10,DP
 A00331,P0329,AT01,PS00309,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG

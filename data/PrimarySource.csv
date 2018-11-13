@@ -95,12 +95,12 @@ PS00069,习惯,,zh,P0009,G10,PL0070,1986,Xinshiji chubanshe,,,,,537,this poem wa
 PS00070,The Ninth Wave,,en,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml. Translated by project member,,2017-09-15,MG,2018-01-18,MG
 PS00070,Jiu ji lang,,zh-Latn-pinyin,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2018-04-25,MG,2018-05-23,MG
 PS00070,九级浪,,zh,P0099,G06,,1970,,,yes,,,,http://blog.boxun.com/hero/201410/blqwz/1_1.shtml,,2017-09-15,MG,2017-10-31,CW
-PS00071,Dedicated to the Aegean Sea,,en,P0102,G10,,,,,,,,534,Translated by project member,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
-PS00071,Xian gei Aiqinhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,"bad pointer see GH #300",2018-04-25,MG,2018-09-25,DP
-PS00071,献给爱琴海,,zh,P0102,G10,,,,,,,,534,first poem of Bo Hua 1979,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
-PS00072,For a Sick boy,,en,P0102,G10,,,,,,,,536,Translated by project member,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
-PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,"bad pointer see GH #300",2018-04-25,MG,2018-09-25,DP
-PS00072,给一个有病的小男孩,,zh,P0102,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,"bad pointer see GH #300",2017-09-15,MG,2018-09-25,DP
+PS00071,Dedicated to the Aegean Sea,,en,P0133,G10,,,,,,,,534,Translated by project member,,2017-09-15,MG,2018-11-12,MG
+PS00071,Xian gei Aiqinhai,,zh-Latn-pinyin,P0133,G10,,,,,,,,534,first poem of Bo Hua 1979,,2018-04-25,MG,2018-11-12,MG
+PS00071,献给爱琴海,,zh,P0133,G10,,,,,,,,534,first poem of Bo Hua 1979,,2017-09-15,MG,2018-11-12,MG
+PS00072,For a Sick boy,,en,P0133,G10,,,,,,,,536,Translated by project member,,2017-09-15,MG,2018-11-12,MG
+PS00072,Gei yi ge you bing de xiao nanhai,,zh-Latn-pinyin,P0133,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2018-04-25,MG,2018-11-12,MG
+PS00072,给一个有病的小男孩,,zh,P0133,G10,,,,,,,,536,written in 1970 in the style of Sylvia Plath,,2017-09-15,MG,2018-11-12,MG
 PS00073,Room at the Top,,en,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
 PS00073,Wang shang pa,,zh-Latn-pinyin,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2018-04-25,MG,2018-05-23,MG
 PS00073,往上爬,,zh,P0105,G04,PL0002,1962,Zuojia chubanshe,,yes,,,,,,2017-09-15,MG,2017-09-15,MG
@@ -203,10 +203,10 @@ PS00126,一千零一夜,,zh,P0999,G08,PL0002,1957,Renmin wenxue chubanshe,,no,,,
 PS00164,Quotations From Lu Xun,,en,P0001,G23,PL0003,1950,Lianyi chubanshe,,no,,,,,,2018-01-29,MG,2018-04-18,MG
 PS00164,Lu Xun yulu,,zh-Latn-pinyin,P0001,G23,PL0003,1950,Lianyi chubanshe,,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00164,鲁迅语录,,zh,P0001,G23,PL0003,1950,Lianyi chubanshe,,no,,,,,,2018-01-29,MG,2018-01-29,MG
-PS00168,On the Cult of Personality and its Consequences,,en,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
-PS00168,О культе личности и его последствиях,,ru,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-02-02,OS
-PS00168,Guanyu gerenchongbai ji qi houguo,,zh-Latn-pinyin,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-04-25,MG,2018-05-29,WH
-PS00168,关于个人崇拜及其后果,,zh,P0228,G24,unknown,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-02-02,OS,2018-02-02,OS
+PS00168,On the Cult of Personality and its Consequences,,en,P0228,G24,PL0999,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-11-12,MG
+PS00168,О культе личности и его последствиях,,ru,P0228,G24,PL0999,unknown,unknown,unknown,yes,,,,,,2018-02-02,OS,2018-11-12,MG
+PS00168,Guanyu gerenchongbai ji qi houguo,,zh-Latn-pinyin,P0228,G24,PL0999,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-04-25,MG,2018-11-12,MG
+PS00168,关于个人崇拜及其后果,,zh,P0228,G24,PL0999,unknown,unknown,unknown,yes,,,,This text circulated in the 1960s according to Li Ling 2009. It however cannot be found in the neibu zongmu.,,2018-02-02,OS,2018-11-12,MG
 PS00180,The Thaw,,en,P0635,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-07-24,MG
 PS00180,Оттепель,,ru,P0635,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-01-23,OS,2018-07-24,MG
 PS00180,Jiedong,,zh-Latn-pinyin,P0635,G04,PL0002,1963,Zuojia chubanshe,1963,yes,,,,,,2018-04-25,MG,2018-07-24,MG
@@ -446,9 +446,9 @@ PS00290,Hui Yanan,,zh-Latn-pinyin,P0256,G10,,,,,,PS00291,,,,,2018-04-26,MG,2018-
 PS00290,回延安,,zh,P0256,G10,,,,,,PS00291,,,,,2018-03-17,MG,2018-03-17,MG
 PS00291,He Jingzhi shixuan,,zh-Latn-pinyin,P0256,G10,PL0153,1979,Shandong renmin chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00291,贺敬之诗选,,zh,P0256,G10,PL0153,1979,Shandong renmin chubanshe,,,,,,,,2018-03-17,MG,2018-03-17,MG
-PS00292,Wuthering Heights,,en,P0321,G04,unknown,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-03-17,MG,2018-03-21,MG
-PS00292,Paoxiao shanzhuang,,zh-Latn-pinyin,P0321,G04,unknown,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-04-26,MG,2018-05-29,WH
-PS00292,咆哮山莊,,zh,P0321,G04,unknown,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-03-17,MG,2018-03-21,MG
+PS00292,Wuthering Heights,,en,P0321,G04,PL0999,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-03-17,MG,2018-11-12,MG
+PS00292,Paoxiao shanzhuang,,zh-Latn-pinyin,P0321,G04,PL0999,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-04-26,MG,2018-11-12,MG
+PS00292,咆哮山莊,,zh,P0321,G04,PL0999,unknown,unknown,,,,,,,was published 1978 in Taipei,2018-03-17,MG,2018-11-12,MG
 PS00297,La Comédie Humaine,,fr,P0092,G04,PL0003,1949,Haiyan shudian,,,,,,,,2018-03-23,MG,2018-03-23,MG
 PS00297,Renjian xiju,,zh-Latn-pinyin,P0092,G04,PL0003,1949,Haiyan shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00297,人间喜剧,,zh,P0092,G04,PL0003,1949,Haiyan shudian,,,,,,,,2018-03-23,MG,2018-03-23,MG
@@ -476,7 +476,7 @@ PS00310,夢的解析,,zh,P0337,G33,PL0002,1986,Zuojia chubanshe,,,,,,,,2018-04-0
 PS00311,Studies in the Psychology of Sex,,en,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-05,MG,2018-04-06,MG
 PS00311,Xing xinlixue,,zh-Latn-pinyin,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00311,性心理学,,zh,P0338,G33,PL0002,1987,Sanlian shudian,,,,,,,,2018-04-06,MG,2018-04-06,MG
-PS09999,unknown,unknown,en,P0999,G99,unknown,unknown,unknown,,,,,,,,2018-04-10,MG,2018-10-18,MG
+PS09999,unknown,unknown,en,P0999,G99,PL0999,unknown,unknown,,,,,,,,2018-04-10,MG,2018-11-12,MG
 PS00328,Stray Birds,,en,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-13,MG,2018-04-13,MG
 PS00328,Feiniao ji,,zh-Latn-pinyin,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-26,MG,2018-05-29,WH
 PS00328,飞鸟集,,zh,P0346,G10,PL0003,1956,Xin wenhua chubanshe,,,,,,,,2018-04-13,MG,2018-04-13,MG
