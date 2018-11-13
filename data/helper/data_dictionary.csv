@@ -7,12 +7,12 @@ Person,sex,'male' or 'female'. If you have encountered any other possibility ple
 Person,rustication,One of four values related to 知识青年: 'yes' if elligible person underwent rustication; 'no' where elligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
 Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2018-02-01,DP
 Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
-Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no' or 'NULL'; 'unknown' in case we do not know the place.,,2017-07-04,LH,2018-02-01,DP
+Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no' or 'NULL'; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name,Alias limited to one pseudonym per person.,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
-Person,place_of_birth,key: Place.place_ID,,2017-07-04,LH,2018-01-30,DP
+Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers.,(worker / party-cadre /…),2017-07-04,LH,2018-01-30,DP
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
 Person,source_id_1,Text.text_id of evidential source; URL for online sources.,,2017-07-04,LH,2018-02-01,DP
