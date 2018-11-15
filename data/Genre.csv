@@ -40,7 +40,7 @@ G36,historical nonfiction,en,literary non-fiction,http://id.loc.gov/authorities/
 G40,Screenplay,en,drama,http://id.loc.gov/authorities/genreForms/gf2014026533.html,2018-07-03,MG,2018-07-20,MG
 G41,History,en,informational works,http://id.loc.gov/authorities/subjects/sh85061212.html,2018-07-23,MG,2018-07-23,MG
 G42,account books,en,informational works,http://id.loc.gov/authorities/genreForms/gf2017026136.html,2018-08-12,MG,2018-08-12,MG
-G43,Romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
+G53,Romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
 G50,Children’s literature,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85023617.html,2018-10-18,WH,2018-10-18,WH
 G99,unknown,en,unknown,http://none,2018-10-18,WH,2018-10-18,WH
 G51,fu,Zh-Latn-pinyin,poetry,http://id.loc.gov/authorities/subjects/sh85052202.html,2018-10-18,WH,2018-10-18,WH
