@@ -943,3 +943,9 @@ P0660,Da Vinci,Leonardo,it,male,NULL,NULL,NULL,NULL,1452,1519,NULL,NULL,PL0418,N
 P0660,达 芬奇,列奥纳多,zh,male,NULL,NULL,NULL,NULL,1452,1519,NULL,NULL,PL0418,NULL,NULL,https://en.wikipedia.org/wiki/Leonardo_da_Vinci,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
 P0661,Dai,Wangshu,en,male,NULL,NULL,NULL,NULL,1905,1950,NULL,NULL,PL0096,NULL,NULL,https://en.wikipedia.org/wiki/Dai_Wangshu,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
 P0661,戴,望舒,zh,male,NULL,NULL,NULL,NULL,1905,1950,NULL,NULL,PL0096,NULL,NULL,https://en.wikipedia.org/wiki/Dai_Wangshu,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
+P0662,A,Jian,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00256,203-234,,,,,2018-11-18,MG,2018-11-18,MG
+P0662,阿,坚,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00256,203-234,,,,,2018-11-18,MG,2018-11-18,MG
+P0663,Debussy,Achille-Claude,fr,male,NULL,NULL,NULL,NULL,1862,1918,NULL,NULL,PL0419,NULL,NULL,https://en.wikipedia.org/wiki/Claude_Debussy,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+P0663,德彪西,阿希尔-克洛德,zh,male,NULL,NULL,NULL,NULL,1862,1918,NULL,NULL,PL0419,NULL,NULL,https://en.wikipedia.org/wiki/Claude_Debussy,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+P0664,Deng,Lijun,en,female,no,NULL,NULL,NULL,1953,1995,Teresa Teng,en,,NULL,NULL,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+P0664,邓,丽君,zh,female,no,NULL,NULL,NULL,1953,1995,NULL,NULL,,NULL,NULL,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
