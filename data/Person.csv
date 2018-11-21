@@ -951,3 +951,16 @@ P0664,Deng,Lijun,en,female,no,NULL,NULL,NULL,1953,1995,Teresa Teng,en,PL0420,NUL
 P0664,邓,丽君,zh,female,no,NULL,NULL,NULL,1953,1995,NULL,NULL,PL0420,NULL,NULL,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-19,MG
 P0665,Lennon,John,en,male,NULL,NULL,NULL,NULL,1940,1980,NULL,NULL,PL0132,NULL,NULL,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,2018-11-19,MG,2018-11-19,MG
 P0665,列侬,约翰,zh,male,NULL,NULL,NULL,NULL,1940,1980,NULL,NULL,PL0132,NULL,NULL,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,2018-11-19,MG,2018-11-19,MG
+P0666,Sophocles,,en,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0666,Σοφοκλῆς,,grc,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0666,索福克勒斯,,zh,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,Euripides,,en,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,Εὐριπίδης,,grc,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,欧里庇得斯,,zh,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,Aeschylus,,en,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,Αἰσχύλος,,grc,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,埃斯库罗斯,,zh,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0669,Guan,Shanyue,en,male,unknown,NULL,NULL,NULL,1912,2000,Guan Zepei,en,PL0423,NULL,NULL,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0669,关,山月,zh,male,unknown,NULL,NULL,NULL,1912,2000,NULL,NULL,PL0423,NULL,NULL,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0670,Gauguin,Paul,fr,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0670,高更,保羅,zh,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
