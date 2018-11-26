@@ -939,6 +939,31 @@ P0659,Croce,Benedetto,it,male,NULL,NULL,NULL,NULL,1866,1952,NULL,NULL,PL0417,NUL
 P0659,克罗齐,贝内德托,zh,male,NULL,NULL,NULL,NULL,1866,1952,NULL,NULL,PL0417,NULL,NULL,https://en.wikipedia.org/wiki/Benedetto_Croce,ONLINE SOURCE,,,,,2018-11-09,MG,2018-11-09,MG
 P0144,Bei,Shan,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00011,78,,,,,2018-11-12,MG,2018-11-13,MG
 P0144,贝,山,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00011,78,,,,,2018-11-12,MG,2018-11-13,MG
+P0660,Da Vinci,Leonardo,it,male,NULL,NULL,NULL,NULL,1452,1519,NULL,NULL,PL0418,NULL,NULL,https://en.wikipedia.org/wiki/Leonardo_da_Vinci,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
+P0660,达 芬奇,列奥纳多,zh,male,NULL,NULL,NULL,NULL,1452,1519,NULL,NULL,PL0418,NULL,NULL,https://en.wikipedia.org/wiki/Leonardo_da_Vinci,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
+P0661,Dai,Wangshu,en,male,NULL,NULL,NULL,NULL,1905,1950,NULL,NULL,PL0096,NULL,NULL,https://en.wikipedia.org/wiki/Dai_Wangshu,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
+P0661,戴,望舒,zh,male,NULL,NULL,NULL,NULL,1905,1950,NULL,NULL,PL0096,NULL,NULL,https://en.wikipedia.org/wiki/Dai_Wangshu,ONLINE SOURCE,,,,,2018-11-14,MG,2018-11-14,MG
+P0662,A,Jian,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00256,203-234,,,,,2018-11-18,MG,2018-11-18,MG
+P0662,阿,坚,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00256,203-234,,,,,2018-11-18,MG,2018-11-18,MG
+P0663,Debussy,Achille-Claude,fr,male,NULL,NULL,NULL,NULL,1862,1918,NULL,NULL,PL0419,NULL,NULL,https://en.wikipedia.org/wiki/Claude_Debussy,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+P0663,德彪西,阿希尔-克洛德,zh,male,NULL,NULL,NULL,NULL,1862,1918,NULL,NULL,PL0419,NULL,NULL,https://en.wikipedia.org/wiki/Claude_Debussy,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+P0664,Deng,Lijun,en,female,no,NULL,NULL,NULL,1953,1995,Teresa Teng,en,PL0420,NULL,NULL,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-19,MG
+P0664,邓,丽君,zh,female,no,NULL,NULL,NULL,1953,1995,NULL,NULL,PL0420,NULL,NULL,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-19,MG
+P0665,Lennon,John,en,male,NULL,NULL,NULL,NULL,1940,1980,NULL,NULL,PL0132,NULL,NULL,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,2018-11-19,MG,2018-11-19,MG
+P0665,列侬,约翰,zh,male,NULL,NULL,NULL,NULL,1940,1980,NULL,NULL,PL0132,NULL,NULL,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,2018-11-19,MG,2018-11-19,MG
+P0666,Sophocles,,en,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0666,Σοφοκλῆς,,grc,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0666,索福克勒斯,,zh,male,NULL,NULL,NULL,NULL,-0497,-0406,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,Euripides,,en,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,Εὐριπίδης,,grc,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0667,欧里庇得斯,,zh,male,NULL,NULL,NULL,NULL,-0480,-0406,NULL,NULL,PL0421,NULL,NULL,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,Aeschylus,,en,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,Αἰσχύλος,,grc,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0668,埃斯库罗斯,,zh,male,NULL,NULL,NULL,NULL,-0525,-0456,NULL,NULL,PL0422,NULL,NULL,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0669,Guan,Shanyue,en,male,unknown,NULL,NULL,NULL,1912,2000,Guan Zepei,en,PL0423,NULL,NULL,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0669,关,山月,zh,male,unknown,NULL,NULL,NULL,1912,2000,NULL,NULL,PL0423,NULL,NULL,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0670,Gauguin,Paul,fr,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
+P0670,高更,保羅,zh,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
 P0700,Ke,Xiong,en,unknown,unknown,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2018-11-04,WH
 P0700,柯,雄,zh,unknown,unknown,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2018-11-04,WH
 P0701,Xue,Shanggong,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0096,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%96%9B%E5%B0%9A%E5%8A%9F,,,,,,2018-11-04,WH,2018-11-04,WH
