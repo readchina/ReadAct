@@ -1081,3 +1081,47 @@ P0753,奥当-拉哈,克洛德,zh,male,NULL,NULL,NULL,NULL,1901,2000,NULL,NULL,PL
 P0754,Fellini,Federico,en,male,NULL,NULL,NULL,NULL,1920,1993,NULL,NULL,PL0537,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Fellini,,,,,,2018-11-25,WH,2018-11-25,WH
 P0754,费里尼,费德里柯,zh,male,NULL,NULL,NULL,NULL,1920,1993,NULL,NULL,PL0537,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Fellini,,,,,,2018-11-25,WH,2018-11-25,WH
 P0755,Borsody,Eduard von,en,male,NULL,NULL,NULL,NULL,1989,1970,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Eduard_von_Borsody,,,,,,2018-11-25,WH,2018-11-25,WH
+P0671,Lamartine,Alphonse de,fr,male,NULL,NULL,NULL,NULL,1790,1869,NULL,NULL,PL0424,NULL,NULL,https://en.wikipedia.org/wiki/Alphonse_de_Lamartine,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0671,拉马丁,阿尔方斯 德,zh,male,NULL,NULL,NULL,NULL,1790,1869,NULL,NULL,PL0424,NULL,NULL,https://en.wikipedia.org/wiki/Alphonse_de_Lamartine,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0672,Larkin,Philip,en,male,NULL,NULL,NULL,NULL,1922,1985,NULL,NULL,PL0425,NULL,NULL,https://en.wikipedia.org/wiki/Philip_Larkin,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0672,拉金,菲利普,zh,male,NULL,NULL,NULL,NULL,1922,1985,NULL,NULL,PL0425,NULL,NULL,https://en.wikipedia.org/wiki/Philip_Larkin,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0673,Leibniz,Gottfried Wilhelm,en,male,NULL,NULL,NULL,NULL,1646,1716,NULL,NULL,PL0306,NULL,NULL,https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0673,莱布尼茨,戈特弗里德 威廉,zh,male,NULL,NULL,NULL,NULL,1646,1716,NULL,NULL,PL0306,NULL,NULL,https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0674,Levitan,Isaac,en,male,NULL,NULL,NULL,NULL,1860,1900,NULL,NULL,PL0426,NULL,NULL,https://en.wikipedia.org/wiki/Isaac_Levitan,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0674,列维坦,伊萨克,zh,male,NULL,NULL,NULL,NULL,1860,1900,NULL,NULL,PL0426,NULL,NULL,https://en.wikipedia.org/wiki/Isaac_Levitan,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0674,Левита́н,Исаа́к,ru,male,NULL,NULL,NULL,NULL,1860,1900,NULL,NULL,PL0426,NULL,NULL,https://en.wikipedia.org/wiki/Isaac_Levitan,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0675,Li,Rui,en,male,no,NULL,NULL,NULL,1917,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Rui_(politician),ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0675,李,锐,zh,male,no,NULL,NULL,NULL,1917,,NULL,NULL,PL0002,NULL,NULL,https://en.wikipedia.org/wiki/Li_Rui_(politician),ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0676,Li,Yingru,en,unknown,unknown,NULL,NULL,NULL,1914,1989,NULL,NULL,PL0999,NULL,NULL,http://www.worldcat.org/identities/lccn-n82-6271/,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0676,李,英儒,zh,unknown,unknown,NULL,NULL,NULL,1914,1989,NULL,NULL,PL0999,NULL,NULL,http://www.worldcat.org/identities/lccn-n82-6271/,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0677,Liang,Jinguang,en,male,no,NULL,NULL,NULL,1932,2008,Hao Ran,en,PL0427,NULL,NULL,https://en.wikipedia.org/wiki/Hao_Ran,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0677,梁,金广,zh,male,no,NULL,NULL,NULL,1932,2008,浩然,zh,PL0427,NULL,NULL,https://en.wikipedia.org/wiki/Hao_Ran,ONLINE SOURCE,,,,,2018-11-27,MG,2018-11-27,MG
+P0678,Li,Wenhua,en,male,unknown,NULL,NULL,NULL,1929,2012,NULL,NULL,PL0999,NULL,NULL,https://www.imdb.com/name/nm0508542/?ref_=tt_ov_dr,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0678,李,文化,zh,male,unknown,NULL,NULL,NULL,1929,2012,NULL,NULL,PL0999,NULL,NULL,https://www.imdb.com/name/nm0508542/?ref_=tt_ov_dr,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0679,Lin,Fengmian,en,male,no,NULL,NULL,NULL,1900,1991,NULL,NULL,PL0136,NULL,NULL,https://en.wikipedia.org/wiki/Lin_Fengmian,ONLINE SOURCE,,,not rusticated but imprisoned for four years during CR,,2018-12-06,MG,2018-12-06,MG
+P0679,林,风眠,zh,male,no,NULL,NULL,NULL,1900,1991,NULL,NULL,PL0136,NULL,NULL,https://en.wikipedia.org/wiki/Lin_Fengmian,ONLINE SOURCE,,,not rusticated but imprisoned for four years during CR,,2018-12-06,MG,2018-12-06,MG
+P0680,Lin,Yutang,en,male,NULL,NULL,NULL,NULL,1895,1976,NULL,NULL,PL0428,NULL,NULL,https://en.wikipedia.org/wiki/Lin_Yutang,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0680,林 ,語堂,zh,male,NULL,NULL,NULL,NULL,1895,1976,NULL,NULL,PL0428,NULL,NULL,https://en.wikipedia.org/wiki/Lin_Yutang,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0681,Liu,Chunhua,en,male,no,NULL,NULL,NULL,1944,,NULL,NULL,PL0429,NULL,NULL,https://chineseposters.net/artists/liuchunhua.php,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0681,刘,春华,zh,male,no,NULL,NULL,NULL,1944,,NULL,NULL,PL0429,NULL,NULL,https://chineseposters.net/artists/liuchunhua.php,ONLINE SOURCE,,,,,2018-12-06,MG,2018-12-06,MG
+P0682,Liu,Qigeng,en,unknown,unknown,NULL,NULL,NULL,1914,1977,Liu Liu,en,PL0999,NULL,NULL,http://none,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0682,刘,其庚,zh,unknown,unknown,NULL,NULL,NULL,1914,1977,刘流,zh,PL0999,NULL,NULL,http://none,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0683,Liu,Tianhua,en,male,NULL,NULL,NULL,NULL,1895,1932,NULL,NULL,PL0430,NULL,NULL,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0683,刘,天华,zh,male,NULL,NULL,NULL,NULL,1895,1932,NULL,NULL,PL0430,NULL,NULL,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0684,Liu,Xiang,en,unknown,NULL,NULL,NULL,NULL,-0077,-0006,NULL,NULL,PL0999,NULL,NULL,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0684,刘,向,zh,unknown,NULL,NULL,NULL,NULL,-0077,-0006,NULL,NULL,PL0999,NULL,NULL,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0685,Liu,Yong,en,male,NULL,NULL,NULL,NULL,0987,1053,NULL,NULL,PL0431,NULL,NULL,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0685,柳,永,zh,male,NULL,NULL,NULL,NULL,0987,1053,NULL,NULL,PL0431,NULL,NULL,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0686,London,John Griffith,en,male,NULL,NULL,NULL,NULL,1876,1916,Jack London,en,PL0432,NULL,NULL,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0686,伦敦,約翰 格里菲斯,zh,male,NULL,NULL,NULL,NULL,1876,1916,杰克 伦敦,zh,PL0432,NULL,NULL,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0687,Long,Yusheng,en,male,NULL,NULL,NULL,NULL,1902,1966,NULL,NULL,PL0433,NULL,NULL,http://www.wangjingwei.org/en/associates-en/long-yusheng/,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0687,龙,榆生,zh,male,NULL,NULL,NULL,NULL,1902,1966,NULL,NULL,PL0433,NULL,NULL,http://www.wangjingwei.org/en/associates-en/long-yusheng/,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0688,Lu,Erkui,en,male,NULL,NULL,NULL,NULL,1862,1935,NULL,NULL,PL0999,NULL,NULL,https://baike.baidu.com/item/%E9%99%86%E5%B0%94%E5%A5%8E,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0688,陆,尔奎,zh,male,NULL,NULL,NULL,NULL,1862,1935,NULL,NULL,PL0999,NULL,NULL,https://baike.baidu.com/item/%E9%99%86%E5%B0%94%E5%A5%8E,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0689,Lu,Xinhua,en,male,yes,1968,1973~,PL0434,1953,,NULL,NULL,PL0011,NULL,NULL,https://contemporary_chinese_culture.academic.ru/479/Lu_Xinhua,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0689,卢,新华,zh,male,yes,1968,1973~,PL0434,1953,,NULL,NULL,PL0011,NULL,NULL,https://contemporary_chinese_culture.academic.ru/479/Lu_Xinhua,ONLINE SOURCE,,,,,2018-12-11,MG,2018-12-11,MG
+P0690,Lipatow,Wil Wladimirowitsch,en,male,NULL,NULL,NULL,NULL,1927,1979,NULL,NULL,PL0435,NULL,NULL,https://de.wikipedia.org/wiki/Wil_Wladimirowitsch_Lipatow,ONLINE SOURCE,,,,,2018-12-15,MG,2018-12-15,MG
+P0690,李巴托夫,维,zh,male,NULL,NULL,NULL,NULL,1927,1979,NULL,NULL,PL0435,NULL,NULL,https://de.wikipedia.org/wiki/Wil_Wladimirowitsch_Lipatow,ONLINE SOURCE,,,,,2018-12-15,MG,2018-12-15,MG
+P0690,Липатов,Виль Владимирович,ru,male,NULL,NULL,NULL,NULL,1927,1979,NULL,NULL,PL0435,NULL,NULL,https://de.wikipedia.org/wiki/Wil_Wladimirowitsch_Lipatow,ONLINE SOURCE,,,,,2018-12-15,MG,2018-12-15,MG
+P0691,Lu,You,en,male,NULL,NULL,NULL,NULL,1125,1209,NULL,NULL,PL0999,NULL,NULL,https://en.wikipedia.org/wiki/Lu_You,ONLINE SOURCE,,,,,2018-12-15,MG,2018-12-15,MG
+P0691,陆,游,zh,male,NULL,NULL,NULL,NULL,1125,1209,NULL,NULL,PL0999,NULL,NULL,https://en.wikipedia.org/wiki/Lu_You,ONLINE SOURCE,,,,,2018-12-15,MG,2018-12-15,MG
