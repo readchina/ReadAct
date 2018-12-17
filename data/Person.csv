@@ -1081,3 +1081,17 @@ P0753,奥当-拉哈,克洛德,zh,male,NULL,NULL,NULL,NULL,1901,2000,NULL,NULL,PL
 P0754,Fellini,Federico,en,male,NULL,NULL,NULL,NULL,1920,1993,NULL,NULL,PL0537,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Fellini,,,,,,2018-11-25,WH,2018-11-25,WH
 P0754,费里尼,费德里柯,zh,male,NULL,NULL,NULL,NULL,1920,1993,NULL,NULL,PL0537,NULL,NULL,https://en.wikipedia.org/wiki/Federico_Fellini,,,,,,2018-11-25,WH,2018-11-25,WH
 P0755,Borsody,Eduard von,en,male,NULL,NULL,NULL,NULL,1989,1970,NULL,NULL,PL0167,NULL,NULL,https://en.wikipedia.org/wiki/Eduard_von_Borsody,,,,,,2018-11-25,WH,2018-11-25,WH
+P0756,Wang,Li,en,male,NULL,NULL,NULL,NULL,1900,1986,Wang Xiangying,en,PL0538,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B_(%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%AE%B6),,,,,,2018-12-15,WH,2018-12-15,WH
+P0756,王,力,zh,male,NULL,NULL,NULL,NULL,1900,1986,王祥瑛,zh,PL0538,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B_(%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%AE%B6),,,,,,2018-12-15,WH,2018-12-15,WH
+P0757,Wang,Lishan,en,male,yes,1970,1977,PL0539,1953,,NULL,NULL,PL0046,NULL,NULL,https://baike.baidu.com/item/%E7%8E%8B%E7%AB%8B%E5%B1%B1/9755790,,,,,,2018-12-15,WH,2018-12-15,WH
+P0757,王,立山,zh,male,yes,1970,1977,PL0539,1953,,NULL,NULL,PL0046,NULL,NULL,https://baike.baidu.com/item/%E7%8E%8B%E7%AB%8B%E5%B1%B1/9755790,,,,,,2018-12-15,WH,2018-12-15,WH
+P0758,Wang,Shikuo,en,male,NULL,NULL,NULL,NULL,1911,1973,NULL,NULL,PL0540,NULL,NULL,https://baike.baidu.com/item/%E7%8E%8B%E5%BC%8F%E5%BB%93/3669173?fr=aladdin,,,,,,2018-12-16,WH,2018-12-16,WH
+P0758,王,式廓,zh,male,NULL,NULL,NULL,NULL,1911,1973,NULL,NULL,PL0540,NULL,NULL,https://baike.baidu.com/item/%E7%8E%8B%E5%BC%8F%E5%BB%93/3669173?fr=aladdin,,,,,,2018-12-16,WH,2018-12-16,WH
+P0759,Wang,Xiaobo,en,male,yes,1968,1970,PL0007,1952,1997,NULL,NULL,PL0002,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2,,,,He was also rusticated in PL0541 between 1971 and 1972.,,2018-12-16,WH,2018-12-16,WH
+P0759,王,小波,zh,male,yes,1968,1970,PL0007,1952,1997,NULL,NULL,PL0002,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2,,,,He was also rusticated in PL0541 between 1971 and 1972.,,2018-12-16,WH,2018-12-16,WH
+P0760,Wang,Shifu,en,male,NULL,NULL,NULL,NULL,1260,1336,NULL,NULL,PL0002,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%9E%E7%94%AB,,,,,,2018-12-16,WH,2018-12-16,WH
+P0760,王,实甫,zh,male,NULL,NULL,NULL,NULL,1260,1336,NULL,NULL,PL0002,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%9E%E7%94%AB,,,,,,2018-12-16,WH,2018-12-16,WH
+P0761,Wu,Chucai,en,male,NULL,NULL,NULL,NULL,1655,1719,NULL,NULL,PL0045,NULL,NULL,https://baike.baidu.com/item/%E5%90%B4%E6%A5%9A%E6%9D%90/5465602,,,,,,2018-12-17,WH,2018-12-17,WH
+P0761,吴,楚材,zh,male,NULL,NULL,NULL,NULL,1655,1719,NULL,NULL,PL0045,NULL,NULL,https://baike.baidu.com/item/%E5%90%B4%E6%A5%9A%E6%9D%90/5465602,,,,,,2018-12-17,WH,2018-12-17,WH
+P0762,Wu,Diaohou,en,male,NULL,NULL,NULL,NULL,..1676/1694..,..1676/1694..,NULL,NULL,PL0045,NULL,NULL,https://baike.baidu.com/item/%E5%90%B4%E8%B0%83%E4%BE%AF,,,,,,2018-12-17,WH,2018-12-17,WH
+P0762,吴,调侯,zh,male,NULL,NULL,NULL,NULL,..1676/1694..,..1676/1694..,NULL,NULL,PL0045,NULL,NULL,https://baike.baidu.com/item/%E5%90%B4%E8%B0%83%E4%BE%AF,,,,,,2018-12-17,WH,2018-12-17,WH
