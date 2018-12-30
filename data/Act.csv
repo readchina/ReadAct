@@ -862,3 +862,22 @@ A00899,P0133,AT01,PS00610,,19xx,19xx,unknown,SS00193,531,2,,please check the sou
 A01000,P0139,AT05,PS00611,,19xx,19xx,unknown,SS00152,7-10,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
 A01001,P0276,AT01,PS00462,,1972,1972,unknown,SS00209,284,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
 A01002,P0120,AT05,PS00612,,19xx,19xx,unknown,SS00030,54,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
+A01003,P0011,AT05,AW09999,,19xx,19xx,unknown,SS00155,56,2,unknown work by: P0692 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01004,P0132,AT05,AW09999,,1978~,1978~,unknown,SS00043,452,2,unknown work by: P0692 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01005,P0276,AT05,AW09999,,19xx,19xx,unknown,SS00209,284,2,unknown work by: P0693 AF01 or AF08,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01006,P0180,AT05,PS00483,,1966..1976,1966..1976,unknown,SS00108,327,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01007,P0138,AT05,AW09999,,1966..1976,1966..1976,unknown,SS00111,196,2,unknown work by: P0694 AF05,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01008,P0221,AT05,PS00480,,1970..1979,1970..1979,unknown,SS00170,238,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01009,P0276,AT05,PS00477,,1978~,1978~,unknown,SS00209,298,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01010,P0133,AT05,PS00613,,19xx,19xx,unknown,SS00193,542,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01011,P0120,AT05,PS09999,,1964~,1964~,mentioned as explanation for increasing importance of the left,SS00030,62,2,unknown work by: P0174,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01012,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,574,2,unknown work by: P0174,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01013,P0120,AT01,PS00614,,1971..1972,1971..1972,read in L0002,SS00030,110,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01014,P0219,AT01,PS00614,,1968~,1968~,mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.,SS00190,262,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01015,P0018,AT01,PS00614,,1968~,1968~,studying the Quotations was part of the daily routine after the classes were cancelled,SS00158,306,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01016,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by P0696,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01017,P0003,AT05,AW00207,,19xx,19xx,unknown,SS00185,125,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01018,P0003,AT05,PS00615,,19xx,19xx,unknown,SS00185,139,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01019,P0003,AT05,PS00616,,19xx,19xx,unknown,SS00185,139,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01020,P0109,AT01,PS00617,,1966..1976,1966..1976,recommended by a friend (possibly penpal),SS00014,301,2,,,2018-12-30,MG,2018-12-30,MG
+A01021,P0033,AT16,PS09999,,1955~,1955~,the story of the protagonist Pavlik had a huge influence on Zhou Ziren,SS00116,ONLINE SOURCE,2,unknown work about P0698,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG

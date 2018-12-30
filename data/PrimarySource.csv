@@ -740,9 +740,9 @@ PS00481,法国大革命史,,zh,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2
 PS00482,Karl Marx,Geschichte seines Lebens,de,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
 PS00482,Makesi chuan,,zh-Latn-pinyin,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-23,MG
 PS00482,马克思传,,zh,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,MG
-PS00483,Histoire de France,,fr,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
-PS00483,Faguo shi,,zh-Latn-pinyin,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
-PS00483,法国史,,zh,P0631,G41,,1972,,,,,,,,,2018-07-20,MG,2018-07-23,MG
+PS00483,Histoire de France,,fr,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
+PS00483,Faguo shi,,zh-Latn-pinyin,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
+PS00483,法国史,,zh,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,MG
 PS00484,Gone With the Wind,,en,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
 PS00484,Piao,,zh-Latn-pinyin,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
 PS00484,飘,,zh,P0633,G04,PL0002,1990,Renmin wenxue chubanshe,,no,,,,,earlier editions published in Taiwan,2018-07-20,MG,2018-07-20,MG
@@ -1010,3 +1010,9 @@ PS00610,毛泽东的青年时代,,zh,P0675,G02,PL0999,unknown,unknown,,,,,,,I ju
 PS00611,普隆恰夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2018-12-15,MG
 PS00612,Northern Song,,en,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,MG
 PS00612,钗头凤,,zh,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,MG
+PS00613,大竹林,,zh,P0695,G10,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-17,MG,2018-12-17,MG
+PS00614,毛主席语录,,zh,P0174,G24,PL0002,1964,Zhongguo renmin jie fang jun,,,,,,,,2018-12-30,MG,2018-12-30,MG
+PS00615,Farewell Leighton Stuart,,en,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,MG
+PS00615,别了 司徒雷登,,zh,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,MG
+PS00616,敦促杜聿明等投降书,,zh,P0174,G99,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,MG
+PS00617,毛选四卷的注解部分,,zh,P0174,G24,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,MG
