@@ -115,10 +115,10 @@ P0058,Qi,Zhi,en,male,unknown,NULL,NULL,PL0002,1953,,,,,,,SS00027,ONLINE SOURCE,h
 P0058,启,之,zh,male,unknown,NULL,NULL,PL0002,1953,,,,,,,SS00027,ONLINE SOURCE,http://qizhi.shufa.com/,,,,2017-07-05,LH,2018-09-20,WH
 P0059,Bai,Hua,en,male,no,NULL,NULL,NULL,1930,,,,PL0148,,,SS00117,ONLINE SOURCE,http://www.baike.com/wiki/%E7%99%BD%E6%A1%A6,,,Third source: http://www.sohu.com/a/195608538_282764,2017-07-05,LH,2018-02-07,WH
 P0059,白,桦,zh,male,no,NULL,NULL,NULL,1930,,,,PL0148,,,SS00117,ONLINE SOURCE,http://www.baike.com/wiki/%E7%99%BD%E6%A1%A6,,,Third source: http://www.sohu.com/a/195608538_282764,2017-07-05,LH,2018-02-07,WH
-P0060,Li,Ping,en,male,no,NULL,NULL,NULL,1948,,Liu Huixuan,,PL0006,,,SS00138,ONLINE SOURCE,https://baike.baidu.com/item/%E7%A4%BC%E5%B9%B3,,,,2017-07-05,LH,2018-01-26,WH
-P0060,礼,平,zh,male,no,NULL,NULL,NULL,1948,,刘辉宣,,PL0006,,,SS00138,ONLINE SOURCE,https://baike.baidu.com/item/%E7%A4%BC%E5%B9%B3,,,,2017-07-05,LH,2018-01-26,WH
-P0061,Yang,Xiguang,en,male,no,NULL,NULL,NULL,1948,2004,Yang Xiaokai,,PL0194,,,https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF,,https://baike.baidu.com/item/%E6%9D%A8%E5%B0%8F%E5%87%AF/6900844?fromtitle=%E6%9D%A8%E6%9B%A6%E5%85%89&fromid=8785039,,,,2017-07-05,LH,2018-03-13,WH
-P0061,杨,曦光,zh,male,no,NULL,NULL,NULL,1948,2004,杨小凯,,PL0194,,,https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF,,https://baike.baidu.com/item/%E6%9D%A8%E5%B0%8F%E5%87%AF/6900844?fromtitle=%E6%9D%A8%E6%9B%A6%E5%85%89&fromid=8785039,,,,2017-07-05,LH,2018-03-13,WH
+P0060,Li,Ping,en,male,no,NULL,NULL,NULL,1948,,Liu Huixuan,en,PL0006,,,SS00138,,https://baike.baidu.com/item/%E7%A4%BC%E5%B9%B3,ONLINE SOURCE,,,2017-07-05,LH,2018-12-18,DP
+P0060,礼,平,zh,male,no,NULL,NULL,NULL,1948,,刘辉宣,zh,PL0006,,,SS00138,,https://baike.baidu.com/item/%E7%A4%BC%E5%B9%B3,ONLINE SOURCE,,,2017-07-05,LH,2018-12-18,DP
+P0061,Yang,Xiguang,en,male,no,NULL,NULL,NULL,1948,2004,Yang Xiaokai,en,PL0194,,,https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF,ONLINE SOURCE,https://baike.baidu.com/item/%E6%9D%A8%E5%B0%8F%E5%87%AF/6900844?fromtitle=%E6%9D%A8%E6%9B%A6%E5%85%89&fromid=8785039,ONLINE SOURCE,,,2017-07-05,LH,2018-12-18,DP
+P0061,杨,曦光,zh,male,no,NULL,NULL,NULL,1948,2004,杨小凯,zh,PL0194,,,https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF,ONLINE SOURCE,https://baike.baidu.com/item/%E6%9D%A8%E5%B0%8F%E5%87%AF/6900844?fromtitle=%E6%9D%A8%E6%9B%A6%E5%85%89&fromid=8785039,ONLINE SOURCE,,,2017-07-05,LH,2018-12-18,DP
 P0062,Siao,Eva,en,female,NULL,NULL,NULL,NULL,1911,2001,,,PL0195,,,SS00113,,https://en.wikipedia.org/wiki/Eva_Sandberg_Xiao,,,Third source: https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%8D%8E_(%E8%90%A7%E4%B8%89%E5%A4%AB%E4%BA%BA),2017-07-05,LH,2018-03-13,WH
 P0062,叶,华,zh,female,NULL,NULL,NULL,NULL,1911,2001,,,PL0195,,,SS00113,,https://en.wikipedia.org/wiki/Eva_Sandberg_Xiao,,,Third source: https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%8D%8E_(%E8%90%A7%E4%B8%89%E5%A4%AB%E4%BA%BA),2017-07-05,LH,2018-03-13,WH
 P0063,Nanchu,,en,female,yes,1970,1973,PL0008,1953,,,,,,yes,SS00003,196f,,,,,2017-07-05,LH,2018-01-26,WH
@@ -515,7 +515,7 @@ P0267,Li,Baiying,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NU
 P0267,李,白英,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,could not find a source to this person,2018-02-16,OS,2018-11-13,MG
 P0268,Kochetov,Vsevolod,en,male,NULL,NULL,NULL,NULL,1912,1973,NULL,NULL,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
 P0268,Ко́четов,Все́волод,ru,male,NULL,NULL,NULL,NULL,1912,1973,NULL,NULL,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
-P0268,柯切托夫,弗谢沃洛德,zh,male,NULL,NULL,NULL,NULL,1912,1973,弗．阿．弗谢沃洛德,NULL,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
+P0268,柯切托夫,弗谢沃洛德,zh,male,NULL,NULL,NULL,NULL,1912,1973,弗．阿．弗谢沃洛德,zh,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-12-18,DP
 P0269,Kosmodemyanskaya,Zoya,en,female,NULL,NULL,NULL,NULL,1923,1941,NULL,NULL,PL0178,NULL,NULL,https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
 P0269,Космодемья́нская,Зо́я,ru,female,NULL,NULL,NULL,NULL,1923,1941,NULL,NULL,PL0178,NULL,NULL,https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
 P0269,科斯莫杰米扬斯卡娅,卓娅,zh,female,NULL,NULL,NULL,NULL,1923,1941,NULL,NULL,PL0178,NULL,NULL,https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
