@@ -941,13 +941,17 @@ P0144,Bei,Shan,en,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL099
 P0144,贝,山,zh,unknown,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,SS00011,78,,,,,2018-11-12,MG,2018-11-13,MG
 P0440,舒,梦兰,zh,male,NULL,NULL,NULL,NULL,1759,1835,NULL,NULL,PL0999,NULL,NULL,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
 P0440,Shu,Menglan,en,male,NULL,NULL,NULL,NULL,1759,1835,NULL,NULL,PL0999,NULL,NULL,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
-P0441,司马,迁,zh,male,NULL,NULL,NULL,NULL,-0145...-0135,-0086,子长,zh,PL0314,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
-P0441,Sima,Qian,en,male,NULL,NULL,NULL,NULL,-0145...-0135,-0086,Zi Chang,en,PL0314,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
-P0442,司马,相如,zh,male,NULL,NULL,NULL,NULL,-0179,-0117,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
-P0442,Sima,Xiangru,en,male,NULL,NULL,NULL,NULL,-0179,-0117,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
+P0441,司马,迁,zh,male,NULL,NULL,NULL,NULL,-0145...-0135,-86,子长,zh,PL0314,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
+P0441,Sima,Qian,en,male,NULL,NULL,NULL,NULL,-0145...-0135,-86,Zi Chang,en,PL0314,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,,2018-11-15,DM,2018-11-15,DM
+P0442,司马,相如,zh,male,NULL,NULL,NULL,NULL,-179,-117,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
+P0442,Sima,Xiangru,en,male,NULL,NULL,NULL,NULL,-179,-117,NULL,NULL,PL0004,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0443,司马,光,zh,male,NULL,NULL,NULL,NULL,1019,1086,NULL,NULL,PL0148,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0443,Sima ,Guang,en,male,NULL,NULL,NULL,NULL,1019,1086,NULL,NULL,PL0148,NULL,NULL,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0444,西蒙诺夫 ,康斯坦丁·米哈依洛维奇,zh,male,NULL,NULL,NULL,NULL,1915,1979,NULL,NULL,PL0058,NULL,NULL,https://baike.baidu.com/item/%E5%BA%B7%E6%96%AF%E5%9D%A6%E4%B8%81%C2%B7%E7%B1%B3%E5%93%88%E4%BE%9D%E6%B4%9B%E7%BB%B4%E5%A5%87%C2%B7%E8%A5%BF%E8%92%99%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0444,Simonov,Konstantin Mikhailovich,en,male,NULL,NULL,NULL,NULL,1915,1979,NULL,NULL,PL0058,NULL,NULL,https://en.wikipedia.org/wiki/Konstantin_Simonov?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0445,斯美塔那,贝德里赫,zh,male,NULL,NULL,NULL,NULL,1824,1884,NULL,NULL,PL0315,NULL,NULL,https://baike.baidu.com/item/贝德里赫·斯美塔那,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
 P0445,Smetana,Bedřich,en,male,NULL,NULL,NULL,NULL,1824,1884,NULL,NULL,PL0315,NULL,NULL,https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana?oldformat=true,ONLINE SOURCE,,,,,2018-11-17,DM,2018-11-17,DM
+P0446,苏格拉底,,zh,male,NULL,NULL,NULL,NULL,-470,-399,NULL,NULL,PL0272,NULL,NULL,https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
+P0446,Socrates,,en,male,NULL,NULL,NULL,NULL,-470,-399,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
+P0447,宋,云彬,zh,male,unknown,NULL,NULL,NULL,1897,1979,NULL,NULL,PL0316,S03,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
+P0447,Song,Yunbin,en,male,unknown,NULL,NULL,NULL,1897,1979,NULL,NULL,PL0316,S03,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
