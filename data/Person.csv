@@ -955,3 +955,5 @@ P0446,苏格拉底,,zh,male,NULL,NULL,NULL,NULL,-470,-399,NULL,NULL,PL0272,NULL,
 P0446,Socrates,,en,male,NULL,NULL,NULL,NULL,-470,-399,NULL,NULL,PL0272,NULL,NULL,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
 P0447,宋,云彬,zh,male,unknown,NULL,NULL,NULL,1897,1979,NULL,NULL,PL0316,S03,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
 P0447,Song,Yunbin,en,male,unknown,NULL,NULL,NULL,1897,1979,NULL,NULL,PL0316,S03,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,2019-01-07,DM,2019-01-07,DM
+P0448,Spengler,Oswald,de,male,NULL,NULL,NULL,NULL,1880,1936,NULL,NULL,PL0317,NULL,NULL,https://en.wikipedia.org/wiki/Oswald_Spengler?oldformat=true,,,,,,,,,
+P0448,斯宾格勒,奥斯瓦尔德,zh,male,NULL,NULL,NULL,NULL,1880,1936,NULL,NULL,PL0317,NULL,NULL,https://zh.wikipedia.org/zh-hans/%E5%A5%A7%E6%96%AF%E7%93%A6%E7%88%BE%E5%BE%B7%C2%B7%E6%96%AF%E8%B3%93%E6%A0%BC%E5%8B%92?oldformat=true,,,,,,,,,
