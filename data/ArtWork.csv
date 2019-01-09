@@ -1,57 +1,207 @@
-"artwork_id","title","subtitle","title_lang","person_id","art_form_id","first_performance_date","first_performance_place","neibu","commentary","note","created","created_by","last_modified","last_modified_by"
-"AW00058","The Girl of the Mountains (Kenga e naftes)",,"en","P0081","AF03",,"PL0091","yes",,,"2018-02-09","OS","2018-02-11","OS"
-"AW00058","山姑娘",,"zh","P0081","AF03",,"PL0091","yes",,,"2018-02-09","OS","2018-02-11","OS"
-"AW00079","City Lights",,"en","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00079","城市之光",,"zh","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00080","The Gold Rush",,"en","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00080","淘金记",,"zh","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00081","Monsieur Verdoux",,"en","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00081","凡尔杜先生",,"zh","P0158","AF02","196x",,"yes",,,"2018-02-09","OS","2018-02-09","OS"
-"AW00082","Swan Lake",,"en","P0326","AF05",1877,"PL0027",,,,"2018-03-23","MG","2018-03-23","MG"
-"AW00082","天鹅湖",,"zh","P0326","AF05",1877,"PL0027",,,,"2018-03-23","MG","2018-03-23","MG"
-"AW00083","Butterfly Lovers‘ Violin Concerto",,"en","P0327","AF05",1959,"PL0003",,,,"2018-03-23","MG","2018-03-23","MG"
-"AW00083","梁祝小提琴协奏曲",,"zh","P0327","AF05",1959,"PL0003",,,,"2018-03-23","MG","2018-03-23","MG"
-"AW00084","The Legend of the Red Lantern",,"en","I0010","AF04","1967?",,"no",,,"2018-03-27","MG","2018-10-18","WH"
-"AW00084","红灯记",,"zh","I0010","AF04","1967?",,"no",,,"2018-03-27","MG","2018-10-18","WH"
-"AW00085","The Internationale",,"en","P0333","AF05",1888,"PL0237","no",,,"2018-04-03","MG","2018-04-03","MG"
-"AW00085","国际歌",,"zh","P0333","AF05",1888,"PL0237","no",,,"2018-04-03","MG","2018-04-03","MG"
-"AW00086","Inauguration of the State",,"en","P0300","AF01",1953,"PL0002",,,,"2018-03-17","WH","2018-03-17","WH"
-"AW00086","开国大典",,"zh","P0300","AF01",1953,"PL0002",,,,"2018-03-17","WH","2018-03-17","WH"
-"AW00087","Inauguration of the State",,"en","P0030","AF01",,,,,,"2018-03-17","WH","2018-04-06","WH"
-"AW00087","开国大典",,"zh","P0030","AF01",,,,"He copied his father’s painting, and this painting was exhibited in the Great Hall of the People.",,"2018-04-06","WH","2018-04-06","WH"
-"AW00088","My home",,"en","P0305","AF05",1893,"PL0050",,,,"2018-04-11","WH","2018-04-11","WH"
-"AW00088","思故乡",,"zh","P0305","AF05",1893,"PL0050",,,,"2018-04-11","WH","2018-04-11","WH"
-"AW00089","New World Symphony",,"en","P0305","AF05",1893,"PL0050",,,,"2018-04-11","WH","2018-04-11","WH"
-"AW00089","自新世界",,"zh","P0305","AF05",1893,"PL0050",,,,"2018-04-11","WH","2018-04-11","WH"
-"AW00090","Rome 11 o'clock",,"en","P0177","AF02",1956,,"no","movie first screened in 1952 (Italy)",,"2018-04-25","MG","2018-04-25","MG"
-"AW00090","罗马十一点钟 ",,"zh","P0177","AF02",1956,,"no","movie first screened in 1952 (Italy)",,"2018-04-25","MG","2018-04-25","MG"
-"AW00091","Zigeunerweisen",,"en","P0422","AF05",1878,"PL0306","yes",,,"2018-05-31","DM","2018-05-31","DM"
-"AW00091","流浪者之歌",,"zh","P0422","AF05",1878,"PL0306","yes",,,"2018-05-31","DM","2018-05-31","DM"
-"AW00092","Manhunt",,"en","P0426","AF02",1976,"PL0305",,,,"2018-05-31","DM","2018-05-31","DM"
-"AW00092","追捕",,"zh","P0426","AF02",1976,"PL0305",,,,"2018-05-31","DM","2018-05-31","DM"
-"AW00092","Kimo yo Fundo no Kawa o Watare",,"ja","P0426","AF02",1976,"PL0305",,,,"2018-05-31","DM","2018-05-31","DM"
-"AW00093","Beiguo jiangnan",,"zh-Latn-pinyin","P0432","AF02",1963,"PL0003","no",,,"2018-06-01","DM","2018-06-01","DM"
-"AW00093","北国江南",,"zh","P0432","AF02",1963,"PL0003","no",,,"2018-06-01","DM","2018-06-01","DM"
-"AW00100","Lenin in October",,"en","P0382","AF02",,,"no",,,"2018-05-30","MG","2018-05-30","MG"
-"AW00100","列宁在十月",,"zh","P0382","AF02",,,"no",,,"2018-05-30","MG","2018-05-30","MG"
-"AW00101","Lenin in 1918",,"en","P0382","AF02",,,"no",,,"2018-05-30","MG","2018-05-30","MG"
-"AW00101","列宁在1918",,"zh","P0382","AF02",,,"no",,,"2018-05-30","MG","2018-05-30","MG"
-"AW00102","The Tramp",,"en","P0401","AF02",1955,"PL0093",,,,"2018-06-12","MG","2018-06-12","MG"
-"AW00102","流浪者",,"zh","P0401","AF02",1955,"PL0093",,,,"2018-06-12","MG","2018-06-12","MG"
-"AW00103","Ol‘Man River",,"en","P0404","AF05",1927,,,"Show tune from the 1927 musical Show boat"," Lyrics by: P0405","2018-06-12","MG","2018-06-12","MG"
-"AW00103","老人河",,"zh","P0404","AF05",1927,,,"Show tune from the 1927 musical Show boat"," Lyrics by: P0405","2018-06-12","MG","2018-06-12","MG"
-"AW00104","The Sparkling Red Star",,"en","P0410","AF02",1972,,,,,"2018-06-25","MG","2018-06-25","MG"
-"AW00104","闪闪的红星 ",,"zh","P0410","AF02",1972,,,,,"2018-06-25","MG","2018-06-25","MG"
-"AW00105","The Shade of the Willow",,"en","P0622","AF04",1953,"PL0002","no","Translated by project member.",,"2018-07-09","MG","2018-11-01","MG"
-"AW00105","柳荫记",,"zh","P0622","AF04",1953,"PL0002","no",,,"2018-07-09","MG","2018-07-17","MG"
-"AW00106","Symphony No. 5",,"en","P0095","AF05",1808,,,,,"2018-08-03","MG","2018-08-03","MG"
-"AW00106","第五交响曲",,"zh","P0095","AF05",1808,,,,,"2018-08-03","MG","2018-08-03","MG"
-"AW00107","Symphony No. 9",,"en","P0095","AF05",1824,"PL0167",,,,"2018-08-03","MG","2018-08-03","MG"
-"AW00107","第九交响曲",,"zh","P0095","AF05",1824,"PL0167",,,,"2018-08-03","MG","2018-08-03","MG"
-"AW09999","unknown",,"en","unknown","AF99","unknown","PL0999","unknown",,,"2018-06-21","WH","2018-11-13","MG"
-"AW00200","Auld Lang Syne",,"en","P0655","AF05","unknown","PL0999","unknown","the poem was written in 1788",,"2018-11-06","MG","2018-11-13","MG"
-"AW00200","友谊地久天长",,"zh","P0655","AF05","unknown","PL0999","unknown","the poem was written in 1788",,"2018-11-06","MG","2018-11-13","MG"
-"AW00201","Les Chaises",,"fr","P0262","AF03",1952,"PL0047","yes",,,"2018-11-07","MG","2018-11-07","MG"
-"AW00201","椅子",,"zh","P0262","AF03",1952,"PL0047","yes",,,"2018-11-07","MG","2018-11-07","MG"
-"AW00094","Vltava",,"ch","P0445","AF05",1875,"PL0065","unknown","Part 2 of 6 of six symphonic poems titled Má vlast (""My Fatherland"")",,"2018-11-17","DM","2018-11-17","DM"
-"AW00094","伏尔塔瓦河",,"zh","P0445","AF05",1875,"PL0065","unknown","Part 2 of 6 of six symphonic poems titled Má vlast (""My Fatherland"")",,"2018-11-17","DM","2018-11-17","DM"
+artwork_id,title,subtitle,title_lang,person_id,art_form_id,first_performance_date,first_performance_place,neibu,commentary,note,created,created_by,last_modified,last_modified_by
+AW00058,The Girl of the Mountains (Kenga e naftes),,en,P0081,AF03,,PL0091,yes,,,2018-02-09,OS,2018-02-11,OS
+AW00058,山姑娘,,zh,P0081,AF03,,PL0091,yes,,,2018-02-09,OS,2018-02-11,OS
+AW00079,City Lights,,en,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00079,城市之光,,zh,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00080,The Gold Rush,,en,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00080,淘金记,,zh,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00081,Monsieur Verdoux,,en,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00081,凡尔杜先生,,zh,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
+AW00082,Swan Lake,,en,P0326,AF05,1877,PL0027,,,,2018-03-23,MG,2018-03-23,MG
+AW00082,天鹅湖,,zh,P0326,AF05,1877,PL0027,,,,2018-03-23,MG,2018-03-23,MG
+AW00083,Butterfly Lovers‘ Violin Concerto,,en,P0327,AF05,1959,PL0003,,,,2018-03-23,MG,2018-03-23,MG
+AW00083,梁祝小提琴协奏曲,,zh,P0327,AF05,1959,PL0003,,,,2018-03-23,MG,2018-03-23,MG
+AW00084,The Legend of the Red Lantern,,en,I0010,AF04,1967?,,no,,,2018-03-27,MG,2018-10-18,WH
+AW00084,红灯记,,zh,I0010,AF04,1967?,,no,,,2018-03-27,MG,2018-10-18,WH
+AW00085,The Internationale,,en,P0333,AF05,1888,PL0237,no,,,2018-04-03,MG,2018-04-03,MG
+AW00085,国际歌,,zh,P0333,AF05,1888,PL0237,no,,,2018-04-03,MG,2018-04-03,MG
+AW00086,Inauguration of the State,,en,P0300,AF01,1953,PL0002,,,,2018-03-17,WH,2018-03-17,WH
+AW00086,开国大典,,zh,P0300,AF01,1953,PL0002,,,,2018-03-17,WH,2018-03-17,WH
+AW00087,Inauguration of the State,,en,P0030,AF01,,,,,,2018-03-17,WH,2018-04-06,WH
+AW00087,开国大典,,zh,P0030,AF01,,,,"He copied his father’s painting, and this painting was exhibited in the Great Hall of the People.",,2018-04-06,WH,2018-04-06,WH
+AW00088,My home,,en,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
+AW00088,思故乡,,zh,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
+AW00089,New World Symphony,,en,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
+AW00089,自新世界,,zh,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
+AW00090,Rome 11 o'clock,,en,P0177,AF02,1956,,no,movie first screened in 1952 (Italy),,2018-04-25,MG,2018-04-25,MG
+AW00090,罗马十一点钟 ,,zh,P0177,AF02,1956,,no,movie first screened in 1952 (Italy),,2018-04-25,MG,2018-04-25,MG
+AW00091,Zigeunerweisen,,en,P0422,AF05,1878,PL0306,yes,,,2018-05-31,DM,2018-05-31,DM
+AW00091,流浪者之歌,,zh,P0422,AF05,1878,PL0306,yes,,,2018-05-31,DM,2018-05-31,DM
+AW00092,Manhunt,,en,P0426,AF02,1976,PL0305,,,,2018-05-31,DM,2018-05-31,DM
+AW00092,追捕,,zh,P0426,AF02,1976,PL0305,,,,2018-05-31,DM,2018-05-31,DM
+AW00092,Kimo yo Fundo no Kawa o Watare,,ja,P0426,AF02,1976,PL0305,,,,2018-05-31,DM,2018-05-31,DM
+AW00093,Beiguo jiangnan,,zh-Latn-pinyin,P0432,AF02,1963,PL0003,no,,,2018-06-01,DM,2018-06-01,DM
+AW00093,北国江南,,zh,P0432,AF02,1963,PL0003,no,,,2018-06-01,DM,2018-06-01,DM
+AW00100,Lenin in October,,en,P0382,AF02,,,no,,,2018-05-30,MG,2018-05-30,MG
+AW00100,列宁在十月,,zh,P0382,AF02,,,no,,,2018-05-30,MG,2018-05-30,MG
+AW00101,Lenin in 1918,,en,P0382,AF02,,,no,,,2018-05-30,MG,2018-05-30,MG
+AW00101,列宁在1918,,zh,P0382,AF02,,,no,,,2018-05-30,MG,2018-05-30,MG
+AW00102,The Tramp,,en,P0401,AF02,1955,PL0093,,,,2018-06-12,MG,2018-06-12,MG
+AW00102,流浪者,,zh,P0401,AF02,1955,PL0093,,,,2018-06-12,MG,2018-06-12,MG
+AW00103,Ol‘Man River,,en,P0404,AF05,1927,,,Show tune from the 1927 musical Show boat; Lyrics by: P0405,,2018-06-12,MG,2018-06-12,MG
+AW00103,老人河,,zh,P0404,AF05,1927,,,Show tune from the 1927 musical Show boat; Lyrics by: P0405,,2018-06-12,MG,2018-06-12,MG
+AW00104,The Sparkling Red Star,,en,P0410,AF02,1972,,,,,2018-06-25,MG,2018-06-25,MG
+AW00104,闪闪的红星 ,,zh,P0410,AF02,1972,,,,,2018-06-25,MG,2018-06-25,MG
+AW00105,The Shade of the Willow,,en,P0622,AF04,1953,PL0002,no,Translated by project member.,,2018-07-09,MG,2018-11-01,MG
+AW00105,柳荫记,,zh,P0622,AF04,1953,PL0002,no,,,2018-07-09,MG,2018-07-17,MG
+AW00106,Symphony No. 5,,en,P0095,AF05,1808,,,,,2018-08-03,MG,2018-08-03,MG
+AW00106,第五交响曲,,zh,P0095,AF05,1808,,,,,2018-08-03,MG,2018-08-03,MG
+AW00107,Symphony No. 9,,en,P0095,AF05,1824,PL0167,,,,2018-08-03,MG,2018-08-03,MG
+AW00107,第九交响曲,,zh,P0095,AF05,1824,PL0167,,,,2018-08-03,MG,2018-08-03,MG
+AW09999,unknown,,en,unknown,AF99,unknown,PL0999,unknown,,,2018-06-21,WH,2018-11-13,MG
+AW00200,Auld Lang Syne,,en,P0655,AF05,unknown,PL0999,unknown,the poem was written in 1788,,2018-11-06,MG,2018-11-13,MG
+AW00200,友谊地久天长,,zh,P0655,AF05,unknown,PL0999,unknown,the poem was written in 1788,,2018-11-06,MG,2018-11-13,MG
+AW00201,Les Chaises,,fr,P0262,AF03,1952,PL0047,yes,,,2018-11-07,MG,2018-11-07,MG
+AW00201,椅子,,zh,P0262,AF03,1952,PL0047,yes,,,2018-11-07,MG,2018-11-07,MG
+AW00108,Sun Hided Behind Mountain,,en,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00108,Солнце скрылось за горою,,ru,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00108,太阳落山,,zh,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00109,The Deep Sea,,en,P0999,AF05,unknown,unknown,,Translated by project member.,,2018-11-04,WH,2018-11-04,WH
+AW00109,O More Duboko,,hr,P0999,AF05,unknown,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00109,深深的海洋,,zh,P0999,AF05,unknown,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00110,Wave of anger,,en,P0704,AF02,1963,,,Translated by project member.,,2018-11-04,WH,2018-11-04,WH
+AW00110,怒潮,,zh,P0704,AF02,1963,,,,,2018-11-04,WH,2018-11-04,WH
+AW00111,Red Guards on Honghu Lake,,en,I0101,AF04,1950,,,It was later adapted into movie and TV shows.,,2018-11-04,WH,2018-11-04,WH
+AW00111,洪湖赤卫队,,zh,I0101,AF04,1950,,,,,2018-11-04,WH,2018-11-04,WH
+AW00112,Climbing the Taofeng Mountain Three Times,,en,I0102,AF04,1972,PL0417,,Translated by project member.,,2018-11-04,WH,2018-11-04,WH
+AW00112,三上桃峰,,zh,I0102,AF04,1972,PL0417,,,,2018-11-04,WH,2018-11-04,WH
+AW00113,National Anthem of China,,en,P0705,AF05,1935,,,Lyricis by P0706.,,2018-11-04,WH,2018-11-04,WH
+AW00113,中华人民共和国国歌,,zh,P0705,AF05,1935,,,Lyricis by P0706.,,2018-11-04,WH,2018-11-04,WH
+AW00114,The Internationale,,en,P0707,AF05,1888,,,Lyricis by P0708 in 1871.,,2018-11-04,WH,2018-11-04,WH
+AW00114,国际歌,,zh,P0707,AF05,1888,,,Lyricis by P0708 in 1871.,,2018-11-04,WH,2018-11-04,WH
+AW00115,A Song without Words,,en,P0999,AF05,1963,,,Insert song from AW00116; translated by project member.,,2018-11-04,WH,2018-11-04,WH
+AW00115,一支无字的歌,,zh,P0999,AF05,1963,,,Insert song from AW00116.,,2018-11-04,WH,2018-11-04,WH
+AW00116,Nong nu,,en,P0410,AF02,1963,,,,,2018-11-04,WH,2018-11-04,WH
+AW00116,农奴,,zh,P0410,AF02,1963,,,,,2018-11-04,WH,2018-11-04,WH
+AW00117,Come to the Sea,,en,P0999,AF05,,,,,,2018-11-04,WH,2018-11-04,WH
+AW00117,Vieni sul mar,,it,P0999,AF05,,,,,,2018-11-04,WH,2018-11-04,WH
+AW00117,来到海上,,zh,P0999,AF05,,,,,,2018-11-04,WH,2018-11-04,WH
+AW00118,Stele of Zhang Qian,,en,P0999,AF06,0186,,,,,2018-11-04,WH,2018-11-04,WH
+AW00118,张迁碑,,zh,P0999,AF06,0186,,,,,2018-11-04,WH,2018-11-04,WH
+AW00119,Londonderry Air,,en,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00119,伦敦德里小调,,zh,I0105,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00120,Model Mountain Township,,en,I0105,AF04,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00120,模范山乡,,zh,I0105,AF04,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00121,Dujuan Mountain,,en,I0107,AF04,1963,PL0003,,Original by I0106.,,2018-11-06,WH,2018-11-06,WH
+AW00121,杜鹃山,,zh,I0107,AF04,1963,PL0003,,Original by I0106.,,2018-11-06,WH,2018-11-06,WH
+AW00122,Ode to the Yimeng Mountains,,en,I0108,AF07,1973,PL0002,,,,2018-11-06,WH,2018-11-06,WH
+AW00122,沂蒙颂,,zh,I0108,AF07,1973,PL0002,,,,2018-11-06,WH,2018-11-06,WH
+AW00123,Serf’s Halberd,,en,I0109,AF04,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00123,农奴戟,,zh,I0109,AF04,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00124,The White Haired Girl,,en,I0110,AF04,1945,PL0021,,,,2018-11-06,WH,2018-11-06,WH
+AW00124,白毛女,,zh,I0110,AF04,1945,PL0021,,,,2018-11-06,WH,2018-11-06,WH
+AW00125,The White Haired Girl,,en,I0111,AF07,1965,PL0003,,It was adapted from AW00124.,,2018-11-06,WH,2018-11-06,WH
+AW00125,白毛女,,zh,I0111,AF07,1965,PL0003,,It was adapted from AW00124.,,2018-11-06,WH,2018-11-06,WH
+AW00126,The Yellow River,,en,P0717,AF05,1905,,,Lyricis by P0718.,,2018-11-06,WH,2018-11-06,WH
+AW00126,黄河,,zh,P0717,AF05,1905,,,Lyricis by P0718.,,2018-11-06,WH,2018-11-06,WH
+AW00127,Blue Street Light,,en,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00127,蓝色的街灯,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00128,Dream Garden,,en,P0719,AF05,1970,PL0089,,Translated by project member.,,2018-11-06,WH,2018-11-06,WH
+AW00128,寻梦园,,zh,P0719,AF05,1970,PL0089,,,,2018-11-06,WH,2018-11-06,WH
+AW00129,Night Star,,en,P0999,AF05,,,,Translated by project member.,,2018-11-06,WH,2018-11-06,WH
+AW00129,晚星,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00130,Tangbula,,en,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00130,唐布拉,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00131,Bitter Coffee,,en,P0999,AF05,,,,Translated by project member.,,2018-11-06,WH,2018-11-06,WH
+AW00131,苦咖啡,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00132,Waterloo Bridge,,en,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00132,魂断蓝桥,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00133,Farewell,,en,P0999,AF05,,,,Translated by project member.,,2018-11-06,WH,2018-11-06,WH
+AW00133,告别,,zh,P0999,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00134,Eine kleine Nachtmusik,,de,P0720,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00134,弦乐小夜曲,,zh,P0720,AF05,,,,,,2018-11-06,WH,2018-11-06,WH
+AW00135,Battleship Potemkin,,en,P0721,AF02,1925,,,,,2018-11-07,WH,2018-11-07,WH
+AW00135,Броненосец Потёмкин,,ru,P0721,AF02,1925,,,,,2018-11-07,WH,2018-11-07,WH
+AW00135,战舰波将金号,,zh,P0721,AF02,1925,,,,,2018-11-07,WH,2018-11-07,WH
+AW00136,The Forty-First,,en,P0722,AF02,1956,,,,,2018-11-07,WH,2018-11-07,WH
+AW00136,Сорок первый,,ru,P0722,AF02,1956,,,,,2018-11-07,WH,2018-11-07,WH
+AW00136,第四十一,,zh,P0722,AF02,1956,,,,,2018-11-07,WH,2018-11-07,WH
+AW00137,Bicycle Thieves,,en,P0723,AF02,1948,,,,,2018-11-07,WH,2018-11-07,WH
+AW00137,Ladri di biciclette,,it,P0723,AF02,1948,,,,,2018-11-07,WH,2018-11-07,WH
+AW00137,偷自行车的人,,zh,P0723,AF02,1948,,,,,2018-11-07,WH,2018-11-07,WH
+AW00138,Accattone,,it,P0724,AF02,1961,,,It was also called “迷惘的一代”.,,2018-11-07,WH,2018-11-07,WH
+AW00138,乞丐,,zh,P0724,AF02,1961,,,It was also called “迷惘的一代”.,,2018-11-07,WH,2018-11-07,WH
+AW00139,Last Year at Marienbad,,en,P0725,AF02,1961,,,It was also translated to “去年在马里安巴”.,,2018-11-07,WH,2018-11-07,WH
+AW00139,L'année dernière à Marienbad,,fr,P0725,AF02,1961,,,It was also translated to “去年在马里安巴”.,,2018-11-07,WH,2018-11-07,WH
+AW00139,去年在马伦巴,,zh,P0725,AF02,1961,,,It was also translated to “去年在马里安巴”.,,2018-11-07,WH,2018-11-07,WH
+AW00140,Admiral Yamamoto,,en,P0726,AF02,1968,,,,,2018-11-08,WH,2018-11-08,WH
+AW00140,連合艦隊司令長官 山本五十六,,jp,P0726,AF02,1968,,,,,2018-11-08,WH,2018-11-08,WH
+AW00140,连合舰队司令长官 山本五十六,,zh,P0726,AF02,1968,,,,,2018-11-08,WH,2018-11-08,WH
+AW00141,"Ah, navy",,en,P0727,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00141,あ，海軍,,jp,P0727,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00141,啊，海军,,zh,P0727,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00142,Tora! Tora! Tora!,,en,P0728,AF02,1970,,,,,2018-11-08,WH,2018-11-08,WH
+AW00142,トラ・トラ・トラ!,,jp,P0728,AF02,1970,,,,,2018-11-08,WH,2018-11-08,WH
+AW00142,虎！虎！虎！,,zh,P0728,AF02,1970,,,,,2018-11-08,WH,2018-11-08,WH
+AW00143,Battle of the Japan Sea,,en,P0726,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00143,日本海大海戦,,jp,P0726,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00143,日本海大海战,,zh,P0726,AF02,1969,,,,,2018-11-08,WH,2018-11-08,WH
+AW00144,Explosion,,en,P0729,AF02,1973,,,,,2018-11-08,WH,2018-11-08,WH
+AW00144,Explozia,,ro,P0729,AF02,1973,,,,,2018-11-08,WH,2018-11-08,WH
+AW00144,爆炸,,zh,P0729,AF02,1973,,,,,2018-11-08,WH,2018-11-08,WH
+AW00145,Three Rules of Discipline and Eight Points for Attention,,en,P0999,AF05,1981..,,,,,2018-11-10,WH,2018-11-10,WH
+AW00145,三大纪律，八项注意,,zh,P0999,AF05,1981..,,,,,2018-11-10,WH,2018-11-10,WH
+AW00146,On the Docks,,en,P0732,AF04,1964,,,,,2018-11-10,WH,2018-11-10,WH
+AW00146,海港,,zh,P0732,AF04,1964,,,,,2018-11-10,WH,2018-11-10,WH
+AW00147,Narrow Street,,en,P0733,AF02,1981,,,,,2018-11-10,WH,2018-11-10,WH
+AW00147,小街,,zh,P0733,AF02,1981,,,,,2018-11-10,WH,2018-11-10,WH
+AW00148,The Red Guards on the grassland saw Chairman Mao,,en,P0999,AF05,19xx,,,,,2018-11-11,WH,2018-11-11,WH
+AW00148,草原上的红卫兵见到了毛主席,,zh,P0999,AF05,19xx,,,,,2018-11-11,WH,2018-11-11,WH
+AW00149,Yanbian people love Chairman Mao,,en,P0734,AF03,1971,,,,,2018-11-11,WH,2018-11-11,WH
+AW00149,延边人民热爱毛主席,,zh,P0734,AF03,1971,,,,,2018-11-11,WH,2018-11-11,WH
+AW00150,Red Detachment of Women,,en,P0737,AF04,1958,,,Original by P0735.,,2018-11-11,WH,2018-11-13,WH
+AW00150,红色娘子军,,zh,P0737,AF04,1958,,,Original by P0735.,,2018-11-11,WH,2018-11-13,WH
+AW00151,Red Detachment of Women,,en,P0736,AF02,1962,,,,,2018-11-13,WH,2018-11-13,WH
+AW00151,红色娘子军,,zh,P0736,AF02,1962,,,,,2018-11-13,WH,2018-11-13,WH
+AW00152,Troika,,en,P0999,AF05,19xx,,,,,2018-11-13,WH,2018-11-25,WH
+AW00152,Вот мчится тройка почтовая,,ru,P0999,AF05,19xx,,,,,2018-11-13,WH,2018-11-25,WH
+AW00152,三套车,,zh,P0999,AF05,19xx,,,,,2018-11-13,WH,2018-11-25,WH
+AW00153,Siganushka,,en,P0999,AF05,,,,,,2018-11-13,WH,2018-11-25,WH
+AW00153,黑眼睛的姑娘,,zh,P0999,AF05,,,,,,2018-11-13,WH,2018-11-25,WH
+AW00154,River Water,,en,P0999,AF05,,,,Translated by project member.,,2018-11-13,WH,2018-11-25,WH
+AW00154,江河水,,zh,P0999,AF05,,,,,,2018-11-13,WH,2018-11-25,WH
+AW00155,Boarding the Jinggangshan Again,,en,P0999,AF03,19xx,,,Translated by project member.,,2018-11-13,WH,2018-11-13,WH
+AW00155,重上井冈山,,zh,P0999,AF03,19xx,,,,,2018-11-13,WH,2018-11-13,WH
+AW00156,Chairman Mao’s Brilliance Illuminates the Stove,,en,P0999,AF05,,,,Translated by project member.,,2018-11-14,WH,2018-11-25,WH
+AW00156,毛主席的光辉把炉台照亮,,zh,P0999,AF05,,,,,,2018-11-14,WH,2018-11-25,WH
+AW00157,Ural Rowan Tree,,en,P0740,AF05,1953,,,Lyricis by P0741.,,2018-11-14,WH,2018-11-25,WH
+AW00157,Уральская рябинушка,,ru,P0740,AF05,1953,,,Lyricis by P0741.,,2018-11-14,WH,2018-11-25,WH
+AW00157,山楂树,,zh,P0740,AF05,1953,,,Lyricis by P0741.,,2018-11-14,WH,2018-11-25,WH
+AW00158,Chairman Mao Traveled Across the Motherland,,en,P0742,AF05,1972,,,Translated by project member. Lyricis by P0743.,,2018-11-15,WH,2018-11-25,WH
+AW00158,毛主席走遍祖国大地,,zh,P0742,AF05,1972,,,Lyricis by P0743.,,2018-11-15,WH,2018-11-25,WH
+AW00159,Roars and groans the Dnipro,,en,P0745,AF05,188x?,,,Lyricis by P0746.,,2018-11-24,WH,2018-11-24,WH
+AW00159,Реве та стогне Дніпр широкий,,ru,P0745,AF05,188x?,,,Lyricis by P0746.,,2018-11-24,WH,2018-11-24,WH
+AW00159,第聂伯尔,,zh,P0745,AF05,188x?,,,Lyricis by P0746.,,2018-11-24,WH,2018-11-24,WH
+AW00160,Cao Quan’s Stele,,en,P0747,AF06,0185,,,,,2018-11-25,WH,2018-11-25,WH
+AW00160,曹全碑,,zh,P0747,AF06,0185,,,,,2018-11-25,WH,2018-11-25,WH
+AW00161,North Sea sketch,,en,P0748,AF01,19xx,,,,,2018-11-25,WH,2018-11-25,WH
+AW00161,北海写生,,zh,P0748,AF01,19xx,,,,,2018-11-25,WH,2018-11-25,WH
+AW00162,A Soldier's Experience,,en,P0999,AF02,,,,Translated by project member.,,2018-11-25,WH,2018-11-25,WH
+AW00162,一个士兵的经历,,zh,P0999,AF02,,,,,,2018-11-25,WH,2018-11-25,WH
+AW00163,The Ghost Goes West,,en,P0749,AF02,1935,,,,,2018-11-25,WH,2018-11-25,WH
+AW00163,鬼魂西行,,zh,P0749,AF02,1935,,,,,2018-11-25,WH,2018-11-25,WH
+AW00164,The Spessart Inn,,en,P0750,AF02,1958,,,,,2018-11-25,WH,2018-11-25,WH
+AW00164,神童,,zh,P0750,AF02,1958,,,,,2018-11-25,WH,2018-11-25,WH
+AW00165,Roses for the Prosecutor,,en,P0751,AF02,1959,,,,,2018-11-25,WH,2018-11-25,WH
+AW00165,献给检察官的玫瑰花,,zh,P0751,AF02,1959,,,,,2018-11-25,WH,2018-11-25,WH
+AW00166,The Haunted Castle,,en,P0750,AF02,1960,,,,,2018-11-25,WH,2018-11-25,WH
+AW00166,古堡幽灵,,zh,P0750,AF02,1960,,,,,2018-11-25,WH,2018-11-25,WH
+AW00167,Army of Shadows,,en,P0752,AF02,1957,,,,,2018-11-25,WH,2018-11-25,WH
+AW00167,影子部队,,zh,P0752,AF02,1957,,,,,2018-11-25,WH,2018-11-25,WH
+AW00168,The Red and the Black,,en,P0753,AF02,1954,,,,,2018-11-25,WH,2018-11-25,WH
+AW00168,红与黑,,zh,P0753,AF02,1954,,,,,2018-11-25,WH,2018-11-25,WH
+AW00169,Nights of Cabiria,,en,P0754,AF02,1957,,,,,2018-11-25,WH,2018-11-25,WH
+AW00169,她在黑夜中,,zh,P0754,AF02,1957,,,,,2018-11-25,WH,2018-11-25,WH
+AW00170,Traumrevue,,de,P0755,AF02,1959,,,,,2018-11-25,WH,2018-11-25,WH
+AW00170,冰上的梦,,zh,P0755,AF02,1959,,,,,2018-11-25,WH,2018-11-25,WH
+AW00202,Mona Lisa,,en,P0660,AF01,1503,,no,,,2018-11-14,MG,2018-11-14,MG
+AW00202,蒙娜丽萨,,zh,P0660,AF01,1503,,no,,,2018-11-14,MG,2018-11-14,MG
+AW00203,The Moon Represents my Heart,,en,P0664,AF05,1977,PL0999,no,,,2018-11-18,MG,2018-11-18,MG
+AW00203,月亮代表我的心,,zh,P0664,AF05,1977,PL0999,no,,,2018-11-18,MG,2018-11-18,MG
+AW00204,空山鸟语,,zh,P0683,AF05,unknown,PL0999,,,,2018-12-12,MG,2018-12-12,MG
+AW00205,毛主席去安源,,zh,P0681,AF01,unknown,PL0999,,,,2018-12-12,MG,2018-12-12,MG
+AW00206,决裂,,zh,P0678,AF02,1975,PL0002,no,,,2018-12-12,MG,2018-12-12,MG
+AW00207,Tormented by Grievous Bondage,,en,P0697,AF05,18xx,PL0999,no,,,2018-12-30,MG,2018-12-30,MG
+AW00207,光荣牺牲,,zh,P0697,AF05,18xx,PL0999,no,,,2018-12-30,MG,2018-12-30,MG
+AW00208,Tunnel War,,en,P0699,AF02,1965,PL0002,no,,,2019-01-02,MG,2019-01-02,MG
+AW00208,地道战,,zh,P0699,AF02,1965,PL0002,no,,,2019-01-02,MG,2019-01-02,MG
