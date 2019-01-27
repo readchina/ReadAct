@@ -48,7 +48,7 @@ G52,Periodicals,en,unknown,http://id.loc.gov/authorities/genreForms/gf2014026139
 G73,Maps,en,informational works,http://id.loc.gov/authorities/subjects/sh99002035.html,2018-11-03,WH,2018-11-19,WH
 G54,Newspaper reading,en,unknown,http://id.loc.gov/authorities/subjects/sh85091584.html,2018-11-04,WH,2018-11-04,WH
 G55,Newspaper,en,unknown,http://id.loc.gov/vocabulary/resourceTypes/nws.html,2018-11-04,WH,2018-11-04,WH
-G56,Record,en,informational works,http://id.loc.gov/vocabulary/organizations/njpaur.html,2018-11-04,WH,2018-11-04,WH
+G56,Recording and registration,en,informational works,http://id.loc.gov/authorities/subjects/sh85111932.html,2018-11-04,WH,2019-01-25,WH
 G57,Dictionary,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026086.html,2018-11-04,WH,2018-11-04,WH
 G58,Template,en,informational works,http://id.loc.gov/authorities/subjects/sh85018955.html,2018-11-04,WH,2018-11-04,WH
 G59,Poetry collection,en,poetry,http://id.loc.gov/authorities/subjects/sh85103707.html,2018-11-04,WH,2018-11-04,WH
@@ -56,3 +56,4 @@ G70,Commentary,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh
 G71,Criticism,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85034149.html,2018-11-04,WH,2018-11-04,WH
 G72,Doggerel,en,poetry,http://id.loc.gov/authorities/subjects/sh85038779.html,2018-11-16,WH,2018-11-16,WH
 G73,Artbook,en,informational works,http://id.loc.gov/authorities/names/nr98042246.html,2018-12-16,WH,2018-12-16,WH
+G74,Reportage literature,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85112927.html,2019-01-25,WH,2019-01-26,WH
