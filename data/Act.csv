@@ -970,3 +970,6 @@ A01045,P0120,AT05,PS00600,,19xx,19xx,unknown,SS00030,xx,2,,there is no source gi
 A01046,P0003,AT01,PS00601,,1963..1965~,1963..1965~,unknown,SS00112,46,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
 A01047,P0062,AT01,PS00187,,1969,1970,she describes the personal gain she got out of reading (self-confidence and political understanding) read in L0002,SS00113,474,2,,,2019-02-04,MG,2019-02-04,MG
 A01048,P0999,AT03,PS00187,P0062,1969,1969,in L0002. First in a chinese version then later in german,SS00113,474,2,,,2019-02-04,MG,2019-02-04,MG
+A01192,P0700,AT02,P0324,,1970?,1970?,,SS00255,148,2,,,2019-01-31,LH ,2019-01-31,LH
+A01193,P0700,AT27,PS00613,,1970,1970,,SS00255,149,2,,,2019-01-31,LH ,2019-01-31,LH
+A01194,P0700,AT42,PS00613,,1970,1970,,SS00255,150,2,,,2019-01-31,LH ,2019-01-31,LH
