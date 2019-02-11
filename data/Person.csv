@@ -1217,9 +1217,9 @@ P0774,Xu,Liangying,en,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,N
 P0774,许,良英,zh,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%AE%B8%E8%89%AF%E8%8B%B1,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,Xu,Zhimo,en,male,NULL,NULL,NULL,NULL,1897,1931,Xu Zhangxu,en,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,徐,志摩,zh,male,NULL,NULL,NULL,NULL,1897,1931,徐章垿,zh,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
-P0801,Huang,Yushi,en,unknown,unknown,NULL,NULL,NULL,19xx,19xx,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
-P0801,黄,雨石,zh,unknown,unknown,NULL,NULL,NULL,19xx,19xx,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0801,Huang,Ai,en,unknown,unknown,NULL,NULL,NULL,1919,2008,Huang Yushi,en,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0801,黄,爱,zh,unknown,unknown,NULL,NULL,NULL,1919,2008,黄 雨石,zh,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
 P0802,Jin,Jingmai,en,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
 P0802,金,敬迈,zh,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
-P0803,Akio,Shintani,en,unknown,NULL,NULL,NULL,NULL,19xx,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
-P0803,明生,新谷,zh,unknown,NULL,NULL,NULL,NULL,19xx,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0803,Akio,Shintani,en,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0803,明生,新谷,zh,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
