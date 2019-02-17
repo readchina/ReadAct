@@ -903,7 +903,7 @@ P0642,Ilyina,Yelena,en,female,NULL,NULL,NULL,NULL,1901,1964,Liya Yakovlevna Prey
 P0642,叶,伊琳娜,zh,female,NULL,NULL,NULL,NULL,1901,1964,NULL,NULL,PL0411,NULL,NULL,https://prabook.com/web/elena_yakovlevna.ilyina/3746477,ONLINE SOURCE,,,,,2018-08-12,MG,2018-11-01,MG
 P0643,Ibsen,Henrik,en,male,NULL,NULL,NULL,NULL,1828,1906,NULL,NULL,PL0401,NULL,NULL,https://en.wikipedia.org/wiki/Henrik_Ibsen,ONLINE SOURCE,,,,,2018-08-16,MG,2018-08-16,MG
 P0643,易卜生,亨里克,zh,male,NULL,NULL,NULL,NULL,1828,1906,NULL,NULL,PL0401,NULL,NULL,https://en.wikipedia.org/wiki/Henrik_Ibsen,ONLINE SOURCE,,,,,2018-08-16,MG,2018-08-16,MG
-P0700,Gong,Sasha,en,female,yes,,,,1956,,NULL,NULL,PL0002,NULL,,SS00255,,,,,,2018-10-16,LH,2018-10-16,LH
+P0700,Gong,Sasha,en,female,yes,1969,1971,PL0548,1956,,NULL,NULL,PL0002,NULL,,SS00255,,,,,,2018-10-16,LH,2019-01-31,LH
 P0644,Abbado,Claudio,en,male,NULL,NULL,NULL,NULL,1933,2014,NULL,NULL,PL0403,NULL,NULL,https://en.wikipedia.org/wiki/Claudio_Abbado,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
 P0644,阿巴多,克劳迪奥,zh,male,NULL,NULL,NULL,NULL,1933,2014,NULL,NULL,PL0403,NULL,NULL,https://en.wikipedia.org/wiki/Claudio_Abbado,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
 P0645,Allilujeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,Lana Peters,en,PL0027,NULL,NULL,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,ONLINE SOURCE,,,,,2018-10-19,MG,2018-10-19,MG
@@ -1175,6 +1175,8 @@ P0698,Моро́зов,Па́вел,ru,male,NULL,NULL,NULL,NULL,1918,1932,NULL,N
 P0698,莫罗佐夫,帕夫利克,zh,male,NULL,NULL,NULL,NULL,1918,1932,NULL,NULL,PL0440,NULL,NULL,https://en.wikipedia.org/wiki/Pavlik_Morozov,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
 P0699,Ren,Xudong,en,male,unknown,NULL,NULL,NULL,1924,,NULL,NULL,PL0076,NULL,NULL,http://www.worldcat.org/identities/viaf-315956575/,ONLINE SOURCE,,,,,2019-01-02,MG,2019-01-02,MG
 P0699,任,旭东,zh,male,unknown,NULL,NULL,NULL,1924,,NULL,NULL,PL0076,NULL,NULL,http://www.worldcat.org/identities/viaf-315956575/,ONLINE SOURCE,,,,,2019-01-02,MG,2019-01-02,MG
+P0800,Einstein,Albert,en,male,NULL,NULL,NULL,NULL,1879,1955,NULL,NULL,PL0441,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Einstein,ONLINE SOURCE,,,,,2019-01-08,MG,2019-01-08,MG
+P0800,爱因斯坦,阿尔伯特,zh,male,NULL,NULL,NULL,NULL,1879,1955,NULL,NULL,PL0441,NULL,NULL,https://en.wikipedia.org/wiki/Albert_Einstein,ONLINE SOURCE,,,,,2019-01-08,MG,2019-01-08,MG
 P0756,Wang,Li,en,male,NULL,NULL,NULL,NULL,1900,1986,Wang Xiangying,en,PL0538,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B_(%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%AE%B6),,,,,,2018-12-15,WH,2018-12-15,WH
 P0756,王,力,zh,male,NULL,NULL,NULL,NULL,1900,1986,王祥瑛,zh,PL0538,NULL,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8A%9B_(%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%AE%B6),,,,,,2018-12-15,WH,2018-12-15,WH
 P0757,Wang,Lishan,en,male,yes,1970,1977,PL0539,1953,,NULL,NULL,PL0046,NULL,NULL,https://baike.baidu.com/item/%E7%8E%8B%E7%AB%8B%E5%B1%B1/9755790,,,,,,2018-12-15,WH,2018-12-15,WH
@@ -1215,6 +1217,12 @@ P0774,Xu,Liangying,en,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,N
 P0774,许,良英,zh,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%AE%B8%E8%89%AF%E8%8B%B1,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,Xu,Zhimo,en,male,NULL,NULL,NULL,NULL,1897,1931,Xu Zhangxu,en,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,徐,志摩,zh,male,NULL,NULL,NULL,NULL,1897,1931,徐章垿,zh,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
+P0801,Huang,Ai,en,unknown,unknown,NULL,NULL,NULL,1919,2008,Huang Yushi,en,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0801,黄,爱,zh,unknown,unknown,NULL,NULL,NULL,1919,2008,黄 雨石,zh,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0802,Jin,Jingmai,en,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
+P0802,金,敬迈,zh,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
+P0803,Akio,Shintani,en,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0803,明生,新谷,zh,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
 P0776,Yamaguchi,Shirley,en,female,NULL,NULL,NULL,NULL,1920,2014,Li Xianglan,en,PL0548,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A6%99%E8%98%AD,,,,,,2019-01-28,WH,2019-01-28,WH
 P0776,山口,淑子,zh,female,NULL,NULL,NULL,NULL,1920,2014,李香兰,zh,PL0548,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A6%99%E8%98%AD,,,,,,2019-01-28,WH,2019-01-28,WH
 P0777,Yan,Fu,en,male,NULL,NULL,NULL,NULL,1854,1921,Yan Chuanchu,en,PL0549,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%9A%B4%E5%BE%A9,,,,,,2019-01-29,WH,2019-02-17,WH

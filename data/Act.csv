@@ -894,6 +894,12 @@ A01031,P0138,AT05,AW09999,,19xx..1966,19xx..1966,unknown,SS00111,198,2,unknown w
 A01032,P0137,AT05,AW09999,,19xx,19xx,unknown,SS00163,353,2,unknown work by: P0376,please check the source again to adjust act type and other relevant info see issue #299,2019-01-02,MG,2019-01-02,MG
 A01033,P0106,AT05,AW09999,,1967,1967,unknown,SS00005,565,2,unknown work by: P0376,please check the source again to adjust act type and other relevant info see issue #299,2019-01-02,MG,2019-01-02,MG
 A01034,P0133,AT05,PS09999,,19xx,19xx,unknown,SS00154,537,2,unknown work by: P0377,please check the source again to adjust act type and other relevant info see issue #299,2019-01-02,MG,2019-01-02,MG
+A01035,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions Edison as an item which appears in his uncle‘s notebook,SS00030,52,2,unknown work by: P0521,,2019-01-08,MG,2019-01-08,MG
+A01036,P0139,AT05,PS00181,,19xx,19xx,unknown,SS00152,7-10,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-01-08,MG,2019-01-08,MG
+A01037,P0180,AT05,PS00181,,19xx,19xx,unknown,SS00108,327,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-01-08,MG,2019-01-08,MG
+A01038,P0107,AT05,PS00181,,19xx,19xx,unknown,SS00247,78,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-01-08,MG,2019-01-08,MG
+A01039,P0276,AT05,PS00181,,19xx,19xx,unknown,SS00209,284,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-01-08,MG,2019-01-08,MG
+A01040,P0120,AT05,PS09999,,196x..197x,196x..197x,Zhang mentions Einstein as an item which appears in his uncle‘s notebook,SS00030,52,2,unknown work by: P0800,,2019-01-08,MG,2019-01-08,MG
 A00491,P0131,AT01,PS00372,,19xx,19xx,The author started to read these books at home after he dropped out from school,SS00153,554,2,,Added by JH transferred without rechecking requires further checks,2018-11-15,DM,2018-11-15,DM
 A00492,P0054,AT01,PS00373,,1950..196x,1950..196x,he was interested in the classics and read them a lot,SS00136,ONLINE SOURCE,2,,Added by CW and JH transferred without rechecking requires further checks,2018-11-15,DM,2018-11-15,DM
 A00493,P0212,AT05,PS00373,,19xx,19xx,unknown,SS00131,ONLINE SOURCE,2,All data missing in the original dataset,Added by CW and JH transferred without rechecking requires further checks,2018-11-15,DM,2018-11-15,DM
@@ -955,6 +961,23 @@ A01188,P0132,AT25,PS00584,,197x,197x,After reading Xu's works the author felt so
 A01189,P0132,AT25,PS00585,,197x,197x,After reading Xu's works the author felt so inspired and wanted to sent him his own works.,SS00043,454,2,,,2019-01-26,WH,2019-01-26,WH
 A01190,P0131,AT01,PS00586,,1978,1978,This book was recommended by a girl named Shu Hua. Who really liked western literature and influenced the author.,SS00153,561,2,,,2019-01-26,WH,2019-01-26,WH
 A01191,P0131,AT01,PS09999,,1975,1975,Li Daxing began to write new poems after he knew Shu Hua. He also read Xu Zhimo’s works. ,SS00153,560,2,unknown work by: P0775,,2019-01-26,WH,2019-01-26,WH
+A01054,P0108,AT05,PS00182,,19xx,19xx,unknown,SS00012,9999,2,,please check the source again to adjust act type and other relevant info see issue #299 there is no page number given! (maybe 159),2019-02-01,MG,2019-02-11,MG
+A01041,P0120,AT05,Q0011,,1964~,1964~,explains what the quotation means to him. also used as motto to the shouchaoben The Second Handshake,SS00030,61,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-01,MG,2019-02-01,MG
+A01042,P0140,AT05,AW09999,,1970..197x,1970..197x,unknown,SS00157,79,2,unknown work. Chen refers to the Barbizon school (Ecole de Barbizon) which was an art movement towards Realism (~2nd half of 19th century),please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
+A01043,P0003,AT05,PS00600,,19xx,19xx,unknown,SS00185,112,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
+A01044,P0018,AT05,PS00600,,19xx,19xx,unknown,SS00158,311,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
+A01045,P0120,AT05,PS00600,,19xx,19xx,unknown,SS00030,9999,2,,there is no source given just the reader‘s name: Zhang Yang check SS00030 see issue #299,2019-02-04,MG,2019-02-11,MG
+A01046,P0003,AT01,PS00601,,1963..1965~,1963..1965~,unknown,SS00112,46,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
+A01047,P0062,AT01,PS00187,,1969,1970,she describes the personal gain she got out of reading (self-confidence and political understanding) read in L0002,SS00113,474,2,,,2019-02-04,MG,2019-02-04,MG
+A01048,P0999,AT03,PS00187,P0062,1969,1969,in L0002. First in a chinese version then later in german,SS00113,474,2,,,2019-02-04,MG,2019-02-04,MG
+A01192,P0700,AT02,P0324,,1970?,1970?,,SS00255,148,2,,,2019-01-31,LH ,2019-01-31,LH
+A01193,P0700,AT27,PS00613,,1970,1970,,SS00255,149,2,,,2019-01-31,LH ,2019-01-31,LH
+A01194,P0700,AT42,PS00613,,1970,1970,,SS00255,150,2,,,2019-01-31,LH ,2019-01-31,LH
+A01049,P0107,AT05,AW00201,,19xx,19xx,unknown,SS00011,78,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01050,P0801,AT11,AW00201,,19xx,19xx,Wang Shiqiang mentions Huang as translator,SS00011,78,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01051,P0037,AT01,PS00602,,1962,1962,,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01052,P0999,AT03,PS00602,P0037,1962,1962,his parents gave him the book,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01053,P0020,AT05,PS00603,,1969,1969,Gao Hua mentions that  during the times when any connection with abroad was limited this book was a source of information on the current state of affairs in the Soviet Union. From reading this book Gao Hua also found about famous Lumumba's People's Friendship University in Moscow which enrolled the students from Asia Africa and Latin America.,SS00006,135,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
 A01192,P0138,AT05,AW00174,,1970..1976,1970..1976,During that time the music became popular again. Some pieces had survived through the early stage of the CR and they spread secretly among the people.,SS00111,196,2,,,2019-01-28,WH,2019-01-28,WH
 A01193,P0133,AT01,PS00587,,1969?,1969?,The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.,SS00154,531,2,,,2019-01-28,WH,2019-01-28,WH
 A01194,P0018,AT13,PS00588,,1973,1973,The author made this Poem by himself when he saw the village scene (peasants wearing patched clothes working in the field)  there in Baiyangdian.,SS00158,310,2,,,2019-01-29,WH,2019-01-29,WH
