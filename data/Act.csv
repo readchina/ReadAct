@@ -180,7 +180,7 @@ A00223,P0037,AT17,PS00236,P0999,1972~,1972~,Huang told Les Miserables off the to
 A00224,P0109,AT17,PS00236,P0999,1972,1972,Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen. She turned a simple vocabulary and adjusted the story a bit.,SS00014,304,2,,,2018-02-15,OS,2018-02-15,OS
 A00225,P0010,AT05,PS00208,,1970,1970,Duo Duo states that in the spring of 1970 Ionescos book was one of the most popular ones among the Beijing youth,SS00114,195,2,,,2018-02-15,OS,2018-02-15,OS
 A00226,P0144,AT05,PS09999,,1966,1976,According to Wang Shiqiang this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,2,unknown work by: P0999 G28,a collection of thousands of rare manuscript sutras,2018-02-15,OS,2018-04-26,MG
-A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time so it could be 济慈诗选 from 1958.,SS00014,301,2,unknown work by: P027 G10,,2018-02-16,OS,2018-04-10,MG
+A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time so it could be 济慈诗选 from 1958.,SS00014,301,2,unknown work by: P0279 G10,,2018-02-16,OS,2019-02-18,MG
 A00228,P0139,AT05,PS00023,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,9,,,,2018-02-16,OS,2018-02-16,OS
 A00229,P0011,AT03,PS00023,P0010,1970~,1970~,Xu Haoyuan gave that book to Peng Gang,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
 A00230,P0011,AT03,PS00121,P0010,1970~,1970~,Xu Haoyuan gave that book to Peng Gang,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
@@ -978,3 +978,11 @@ A01050,P0801,AT11,AW00201,,19xx,19xx,Wang Shiqiang mentions Huang as translator,
 A01051,P0037,AT01,PS00602,,1962,1962,,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
 A01052,P0999,AT03,PS00602,P0037,1962,1962,his parents gave him the book,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
 A01053,P0020,AT05,PS00603,,1969,1969,Gao Hua mentions that  during the times when any connection with abroad was limited this book was a source of information on the current state of affairs in the Soviet Union. From reading this book Gao Hua also found about famous Lumumba's People's Friendship University in Moscow which enrolled the students from Asia Africa and Latin America.,SS00006,135,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01054,P0139,AT05,PS00241,,196x,197x,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01055,P0180,AT05,PS00241,,19xx,19xx,unknown,SS00108,327,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01056,P0139,AT05,PS00244,,19xx,19xx,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01057,P0106,AT05,PS00244,,19xx,19xx,unknown,SS00005,581,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01058,P0106,AT05,PS00245,,19xx,19xx,unknown,SS00005,581,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01059,P0139,AT05,PS00245,,19xx,19xx,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01060,P0035,AT20,AW00209,,1956,1956,played the leading part in Qingdao,SS00118,ONLINE SOURCE,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01061,P0132,AT05,AW09999,,19xx,19xx,unknown,SS00043,448,2,unknown work by: P0805 and P0806 AF05,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
