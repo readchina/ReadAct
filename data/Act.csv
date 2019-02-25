@@ -180,7 +180,7 @@ A00223,P0037,AT17,PS00236,P0999,1972~,1972~,Huang told Les Miserables off the to
 A00224,P0109,AT17,PS00236,P0999,1972,1972,Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen. She turned a simple vocabulary and adjusted the story a bit.,SS00014,304,2,,,2018-02-15,OS,2018-02-15,OS
 A00225,P0010,AT05,PS00208,,1970,1970,Duo Duo states that in the spring of 1970 Ionescos book was one of the most popular ones among the Beijing youth,SS00114,195,2,,,2018-02-15,OS,2018-02-15,OS
 A00226,P0144,AT05,PS09999,,1966,1976,According to Wang Shiqiang this piece was one of the most influential yellow-covered books for the generation of pre-misty poets,SS00011,78,2,unknown work by: P0999 G28,a collection of thousands of rare manuscript sutras,2018-02-15,OS,2018-04-26,MG
-A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time so it could be 济慈诗选 from 1958.,SS00014,301,2,unknown work by: P027 G10,,2018-02-16,OS,2018-04-10,MG
+A00227,P0109,AT02,PS09999,,1969..1972,1969..1972,Shu Ting copied the poems by Keats into her notebook. There weren‘t so many books by Keats published at that time so it could be 济慈诗选 from 1958.,SS00014,301,2,unknown work by: P0279 G10,,2018-02-16,OS,2019-02-18,MG
 A00228,P0139,AT05,PS00023,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,9,,,,2018-02-16,OS,2018-02-16,OS
 A00229,P0011,AT03,PS00023,P0010,1970~,1970~,Xu Haoyuan gave that book to Peng Gang,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
 A00230,P0011,AT03,PS00121,P0010,1970~,1970~,Xu Haoyuan gave that book to Peng Gang,SS00115,190,2,,,2018-02-16,OS,2018-02-16,OS
@@ -702,9 +702,9 @@ A00930,P0056,AT29,PS00520,,195x,195x,Gu added comments and translated it into ve
 A00931,P0056,AT10,PS00521,,195x,195x,Gu was commissioned by Mao Zedong to take charge of the punctuation of the book.,SS00131,,2,,,2018-11-04,WH,2018-11-04,WH
 A00932,P0057,AT05,PS00522,,1966..1976,1966..1976,Xie made a joke with the reference of Empty Fort Strategy while doing labor work during the CR.,SS00131,,2,,,2018-11-04,WH,2018-11-04,WH
 A00933,P0263,AT27,PS00523,P0169,1966,1966,Mingxin’s teacher Wang Hanying encouraged him and lent when he said he wanted to try writing critiques and lent him the journals.,SS00207,,2,,,2018-11-04,WH,2018-11-04,WH
-A00934,P0120,AT05,AW00110,,1966.1976,1966.1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,13,2,,,2018-11-04,WH,2018-11-04,WH
-A00935,P0120,AT05,AW00111,,1966.1976,1966.1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,14,2,,,2018-11-04,WH,2018-11-04,WH
-A00936,P0120,AT05,AW00112,,1966.1976,1966.1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,14,2,,,2018-11-04,WH,2018-11-04,WH
+A00934,P0120,AT05,AW00110,,1966..1976,1966..1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,13,2,,,2018-11-04,WH,2018-11-04,WH
+A00935,P0120,AT05,AW00111,,1966..1976,1966..1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,14,2,,,2018-11-04,WH,2018-11-04,WH
+A00936,P0120,AT05,AW00112,,1966..1976,1966..1976,He mentioned that this work considered not in line with official policy during the CR.,SS00030,14,2,,,2018-11-04,WH,2018-11-04,WH
 A00937,P0120,AT05,PS00524,,1956..1959,1956..1959,He mentioned that this book was a criticism of the rightist remarks of the time.,SS00030,82,2,,,2018-11-04,WH,2018-11-04,WH
 A00938,P0120,AT05,PS00525,,1957,1957,There was a evaluation movement of Shuihu.,SS00030,186,2,,,2018-11-04,WH,2018-11-04,WH
 A00939,P0120,AT05,AW00113,,1976~,1976~,It would always be broadcasted before certain radio programmes since the 1960s.,SS00030,190,2,,,2018-11-04,WH,2018-11-04,WH
@@ -978,6 +978,21 @@ A01050,P0801,AT11,AW00201,,19xx,19xx,Wang Shiqiang mentions Huang as translator,
 A01051,P0037,AT01,PS00602,,1962,1962,,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
 A01052,P0999,AT03,PS00602,P0037,1962,1962,his parents gave him the book,SS00118,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
 A01053,P0020,AT05,PS00603,,1969,1969,Gao Hua mentions that  during the times when any connection with abroad was limited this book was a source of information on the current state of affairs in the Soviet Union. From reading this book Gao Hua also found about famous Lumumba's People's Friendship University in Moscow which enrolled the students from Asia Africa and Latin America.,SS00006,135,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-11,MG,2019-02-11,MG
+A01062,P0139,AT05,PS00241,,196x,197x,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01055,P0180,AT05,PS00241,,19xx,19xx,unknown,SS00108,327,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01056,P0139,AT05,PS00244,,19xx,19xx,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01057,P0106,AT05,PS00244,,19xx,19xx,unknown,SS00005,581,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01058,P0106,AT05,PS00245,,19xx,19xx,unknown,SS00005,581,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01059,P0139,AT05,PS00245,,19xx,19xx,unknown,SS00152,7-10,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01060,P0035,AT20,AW00209,,1956,1956,played the leading part in Qingdao,SS00118,ONLINE SOURCE,2,,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01061,P0132,AT05,AW09999,,19xx,19xx,unknown,SS00043,448,2,unknown work by: P0805 and P0806 AF05,Pls check source again for detailed info see #299,2019-02-18,MG,2019-02-18,MG
+A01068,P0700,AT01,PS00604,,1974,1974,,SS00255,161,2,,,2019-02-18,LH,2019-02-18,LH
+A01063,P0700,AT09,P0186,,197x,197x,,SS00255,162,2,,,2019-02-18,LH,2019-02-18,LH
+A01064,P0700,AT26,P0186,,197x,197x,,SS00255,162,2,,,2019-02-18,LH,2019-02-18,LH
+A01065,P0700,AT02,PS00228,,197x,197x,,SS00255,164,2,,,2019-02-18,LH,2019-02-18,LH
+A01066,P0700,AT01,P0181,,197x,197x,she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China,SS00255,164,2,,,2019-02-18,LH,2019-02-18,LH
+A01067,P0700,AT01,P0638,,197x,197x,she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China,SS00255,164,2,,,2019-02-18,LH,2019-02-18,LH
+A01069,P0808,AT01,PS00605,,1970,1970,It was a banned book of course… Because of the malaria problem we all slept under mosquito nets and once you dropped your net you could read as you liked. And so it happend that Landaus became my most beloved (and only) after-hours reading materisl,SS00261,147,2,,,2019-02-19,LH,2019-02-19,LH
 A01195,P0154,AT13,PS00589,,1975~,1977~,The author wrote this Novel in the beginning of his high school period. It took him two years to write it as his first Novel.,SS00159,401,2,,,2019-02-17,WH,2019-02-17,WH
 A01196,P0154,AT05,AW00175,,1976,1976,"The author heard it from the radio during working. The radio abruptly sang the traditional Henan opera; which is quite soft and ""bourgeois"".",SS00159,408,2,,,2019-02-17,WH,2019-02-17,WH
 A01197,P0154,AT01,PS00590,,1973~,1973~,The author was obsessed with revolution Novels back then and he didn't know there are better works other than those ones. For he could only get to read the revolution Novels at that time.,SS00159,389,2,,,2019-02-17,WH,2019-02-17,WH
@@ -1018,3 +1033,4 @@ A01331,P0029,AT05,PS00704,,1966..,1966..,This work became one of Wu Hong's favor
 A01332,P0029,AT05,PS00705,,1966..,1966..,This work became one of Wu Hong's favorites.,SS00029,120,2,,,2019-02-24,WH,2019-02-24,WH
 A01333,P0038,AT05,PS00706,P0119,1971,1971,Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature,SS00026,ONLINE SOURCE,2,The text recorded the author's experience in a fishing grounds in Sichuan in 1971. Desipte the fact that the high peak of violence in the CR came to an end the checking out the May 16th components just started,Added by CW transferred without rechecking requires further checks,2019-02-24,WH,2019-02-24,WH
 A01334,P0054,AT01,PS00706,,1950..196x,1950..196x,He was interested in the classics and read them a lot.,SS00136,ONLINE SOURCE,2,,Added by CW and JH transferred without rechecking requires further checks,2019-02-24,WH,2019-02-24,WH
+A01335,P052,AT27,AW00181,P0168,1959?,1959?,Xiao Xia lent Liu Haiou this work before she and her family  were assigned to Xinjiang.,SS00133,ONLINE SOURCE,2,,,2019-02-25,WH,2019-02-25,WH
