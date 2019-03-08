@@ -1277,5 +1277,15 @@ P0796,Zhu,Xi,en,male,NULL,NULL,NULL,NULL,1130,1200,NULL,NULL,PL0559,NULL,NULL,ht
 P0796,朱,熹,zh,male,NULL,NULL,NULL,NULL,1130,1200,NULL,NULL,PL0559,NULL,NULL,https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9,,,,,,2019-02-24,WH,2019-02-24,WH
 P0797,Zhuang,Zhou,en,male,NULL,NULL,NULL,NULL,-0396,-0286,NULL,NULL,unknown,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,2019-02-24,WH,2019-02-24,WH
 P0797,庄,周,zh,male,NULL,NULL,NULL,NULL,-0396,-0286,NULL,NULL,unknown,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,2019-02-24,WH,2019-02-24,WH
-P0798,Zuo,Qiuming,en,male,NULL,NULL,NULL,NULL,-0556%,-0451%,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
-P0798,左,丘明,zh,male,NULL,NULL,NULL,NULL,-0556%,-0451%,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
+P0798,Zuo,Qiuming,en,male,NULL,NULL,NULL,NULL,-0556,-0451,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
+P0798,左,丘明,zh,male,NULL,NULL,NULL,NULL,-0556,-0451,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
+P0810,Qian,Zhongshu,en,male,unknown,NULL,NULL,NULL,1910,1998,NULL,NULL,PL0181,NULL,unknown,https://en.wikipedia.org/wiki/Qian_Zhongshu,,,,,,2019-03-08,MG,2019-03-08,MG
+P0810,钱,钟书,zh,male,unknown,NULL,NULL,NULL,1910,1998,NULL,NULL,PL0181,NULL,unknown,https://en.wikipedia.org/wiki/Qian_Zhongshu,,,,,,2019-03-08,MG,2019-03-08,MG
+P0811,Qin ,Guan,en,male,NULL,NULL,NULL,NULL,1049,1100,NULL,NULL,PL0445,NULL,NULL,https://en.wikipedia.org/wiki/Qin_Guan,,,,,,2019-03-08,MG,2019-03-08,MG
+P0811,秦,观,zh,male,NULL,NULL,NULL,NULL,1049,1100,NULL,NULL,PL0445,NULL,NULL,https://en.wikipedia.org/wiki/Qin_Guan,,,,,,2019-03-08,MG,2019-03-08,MG
+P0812,Qu,Bo,en,male,unknown,NULL,NULL,NULL,1923,2002,NULL,NULL,PL0105,NULL,unknown,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,,2019-03-08,MG,2019-03-08,MG
+P0812,曲,波,zh,male,unknown,NULL,NULL,NULL,1923,2002,NULL,NULL,PL0105,NULL,unknown,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,,2019-03-08,MG,2019-03-08,MG
+P0813,Qu,Yuan,en,male,NULL,NULL,NULL,NULL,-0340,-0278,Lingjun,en,PL0415,NULL,NULL,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,2019-03-08,MG,2019-03-08,MG
+P0813,屈,原,zh,male,NULL,NULL,NULL,NULL,-0340,-0278,灵均,zh,PL0415,NULL,NULL,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,2019-03-08,MG,2019-03-08,MG
+P0814,Qu,Qiubai,en,male,NULL,NULL,NULL,NULL,1899,1935,NULL,NULL,PL0103,NULL,NULL,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,,2019-03-08,MG,2019-03-08,MG
+P0814,瞿,秋白,zh,male,NULL,NULL,NULL,NULL,1899,1935,NULL,NULL,PL0103,NULL,NULL,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,,2019-03-08,MG,2019-03-08,MG
