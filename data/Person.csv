@@ -1279,5 +1279,5 @@ P0797,Zhuang,Zhou,en,male,NULL,NULL,NULL,NULL,-0396,-0286,NULL,NULL,unknown,NULL
 P0797,庄,周,zh,male,NULL,NULL,NULL,NULL,-0396,-0286,NULL,NULL,unknown,NULL,NULL,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,2019-02-24,WH,2019-02-24,WH
 P0798,Zuo,Qiuming,en,male,NULL,NULL,NULL,NULL,-0556,-0451,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
 P0798,左,丘明,zh,male,NULL,NULL,NULL,NULL,-0556,-0451,NULL,NULL,unknown,NULL,NULL,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,2019-02-24,WH,2019-02-24,WH
-P0799,Sik,Ota,en,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,NULL,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,2019-03-08,LH,2019-03-08 ,LH
-P0799,锡克,锡克,zh,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,NULL,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,2019-03-08,LH,2019-03-08 ,LH
+P0799,Sik,Ota,en,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,NULL,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,2019-03-08,LH,2019-03-08,LH
+P0799,锡克,锡克,zh,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,NULL,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,2019-03-08,LH,2019-03-08,LH
