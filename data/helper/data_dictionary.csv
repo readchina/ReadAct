@@ -193,6 +193,7 @@ ActType,last_modified_by,acronym of project member last modifying this line,,201
 ,,,,,,,
 Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Act,agent,key: Person.person_id,'A' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,fictionality,F if an act is fictional; the fictionality of an act is determined by fictionality of the agent.,,2019-04-04,MG,2019-04-04,MG
 Act,action,key: ActType.action_ID,'to  give' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
 Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,2017-07-25,OS,2018-02-01,DP
 Act,act_target,Person.person_id of targets of act," empty when not applicable, 'B' in: A gives B a gift",2017-07-04,LH,2018-02-01,DP
