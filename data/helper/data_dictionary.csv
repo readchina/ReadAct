@@ -205,7 +205,7 @@ Act,substantial_discussion,substantial comment or quotation from source, 'unknow
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
-Act,act_status,Add F to state the fictionality of an act. If the agent of an act is fictional (F) the Act is fictional by default. If the agent is based on a real-life character the act_status is determined by the literary_status of the source.,,2019-04-09,MG,2019-04-09,MG
+Act,act_status,Add F to mark fictional reading acts. By definition if either Act.agent, or Act.act_object have a fictional character_status or literary_status (F) property, the resulting Act.act_status is fictional as well. Act.source_status property is insufficient to assert the fictionality of an act. Where real-world personas appear in fictional texts, contributors must indicate evidence for the act_status in Act.commentary,,2019-04-09,MG,2019-04-09,MG
 Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘, ‘genre_id‘,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
