@@ -1163,8 +1163,8 @@ P0693,Modigliani,Amedeo,it,male,NULL,NULL,NULL,NULL,1885,1920,NULL,NULL,PL0436,N
 P0693,莫迪利亚尼,阿梅代奥,zh,male,NULL,NULL,NULL,NULL,1885,1920,NULL,NULL,PL0436,NULL,NULL,https://en.wikipedia.org/wiki/Amedeo_Modigliani,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
 P0694,Mazas,Jacques Féréol,fr,male,NULL,NULL,NULL,NULL,1782,1849,NULL,NULL,PL0437,NULL,NULL,https://en.wikipedia.org/wiki/Jacques_F%C3%A9r%C3%A9ol_Mazas,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
 P0694,马扎斯,雅克 ,zh,male,NULL,NULL,NULL,NULL,1782,1849,NULL,NULL,PL0437,NULL,NULL,https://en.wikipedia.org/wiki/Jacques_F%C3%A9r%C3%A9ol_Mazas,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
-P0695,Ma,Xinglin,en,male,NULL,NULL,NULL,NULL,192x..193x,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,,,2018-12-17,MG,2019-04-28,WH
-P0695,马,星临,zh,male,NULL,NULL,NULL,NULL,192x..193x,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,,,2018-12-17,MG,2019-04-28,WH
+P0695,Ma,Xinglin,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,"He was nearly 50 years old around 1979, so he was probably born in 192x..193x.",,2018-12-17,MG,2019-04-28,WH
+P0695,马,星临,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,"He was nearly 50 years old around 1979, so he was probably born in 192x..193x.",,2018-12-17,MG,2019-04-28,WH
 P0696,Mach,Ernst,de,male,NULL,NULL,NULL,NULL,1838,1916,NULL,NULL,PL0438,NULL,NULL,https://en.wikipedia.org/wiki/Ernst_Mach,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
 P0696,马赫,恩斯特,zh,male,NULL,NULL,NULL,NULL,1838,1916,NULL,NULL,PL0438,NULL,NULL,https://en.wikipedia.org/wiki/Ernst_Mach,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
 P0697,Machtet,Grigori,en,male,NULL,NULL,NULL,NULL,1852,1901,NULL,NULL,PL0439,NULL,NULL,https://en.wikipedia.org/wiki/Grigori_Machtet,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
