@@ -611,7 +611,7 @@ PS00372,White Silence,,en,P0440,G13,,,,,,,,,Title translation needed.,,2018-11-1
 PS00372,白香词谱,,zh,P0440,G13,,,,,,,,,,,2018-11-15,DM,2018-11-15,MG
 PS00373,Records of the Grand Historian,,en,P0441,G41,,,,,,,,,,,2018-11-15,DM,2018-11-15,MG
 PS00373,史記,,zh,P0441,G41,,,,,,,,,,,2018-11-15,DM,2018-11-15,MG
-PS00374,An Announcement Letter to Ren An,,en,P0441,G15,,,,,,,,,"Translated by project member, please check.",,2018-11-15,DM,2018-11-15,MG
+PS00374,An Letter to Ren An,,en,P0441,G15,,,,,,,,,Translated by project member.,,2018-11-15,DM,2019-04-28,WH
 PS00374,报任安书,,zh,P0441,G15,,,,,,,,,,,2018-11-15,DM,2018-11-15,MG
 PS00375,Feng Qiu Huang,,en,P0442,G51,,,,,,,,,Official English translation missing.,,2018-11-17,DM,2018-11-17,MG
 PS00375,凤求凰,,zh,P0442,G51,,,,,,,,,,,2018-11-17,DM,2018-11-17,MG
@@ -619,28 +619,26 @@ PS00376,Zizhi Tongjian,,en,P0443,G41,,,,,,,,,,,2018-11-17,DM,2018-11-17,MG
 PS00376,资治通鉴,,zh,P0443,G41,,,,,,,,,,,2018-11-17,DM,2018-11-17,MG
 PS00377,The Living and the Dead,,en,P0444,G04,PL0002,1962,Zuojia chubanshe,1962,yes,,,,,,2018-11-17,DM,2018-11-17,MG
 PS00377,生者与死者,,zh,P0444,G04,PL0002,1962,Zuojia chubanshe,1962,yes,,,,,,2018-11-17,DM,2018-11-17,MG
-PS00378,鲁迅语录,,zh,P0447,G88,PL0003,1950,Shanghai lianyi chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-07,DM,2019-01-07,MG
-PS00378,Quotations from Lu Xun,,en,P0447,G88,PL0003,1950,Shanghai lianyi chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-07,DM,2019-01-07,MG
-PS00379,Der Untergang des Abendlandes,,de,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00379,The Decline of the West,,en,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00379,西方的没落,,zh,P0448,G41,,1963,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
+PS00379,Der Untergang des Abendlandes,,de,P0448,G41,,1961,Shangwu yin shuguan,1961,yes,,,,,,2019-01-08,DM,2019-04-13,WH
+PS00379,The Decline of the West,,en,P0448,G41,,1961,Shangwu yin shuguan,1961,yes,,,,,,2019-01-08,DM,2019-04-13,WH
+PS00379,西方的没落,,zh,P0448,G41,,1961,Shangwu yin shuguan,1961,yes,,,,,,2019-01-08,DM,2019-04-13,WH
 PS00380,History of the All-Union Communist Party (Bolsheviks),Short Course,en,P0193,G20,,,,,,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00380,苏联共产党（布尔什维克）党史简明教程,,zh,P0193,G20,,,,,,,,,,,2019-01-08,DM,2019-01-08,MG
-PS00381,Human Blood Is Not Water,,en,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00381,人血不是水,,zh,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
+PS00381,Human Blood Is Not Water,,en,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,,,2019-01-08,DM,2019-04-14,WH
+PS00381,人血不是水,,zh,P0450,G04,PL0002,1961,Zuojia chubanshe,,no,,,,,,2019-01-08,DM,2019-04-14,WH
 PS00382,Le Rouge et le Noir,,fr,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00382,The Red and the Black,,en,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00382,红与黑,,zh,P0288,G04,,,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
-PS00383,The Stalin Era,,en,P0451,G41,PL0002,1979,Shijie zhishi chubanshe,1957,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00383,斯大林时代,,zh,P0451,G41,PL0002,1979,Shijie zhishi chubanshe,1957,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
+PS00383,The Stalin Era,,en,P0451,G41,PL0002,1957,Shijie zhishi chubanshe,1957,yes,,,,,,2019-01-08,DM,2019-04-14,WH
+PS00383,斯大林时代,,zh,P0451,G41,PL0002,1957,Shijie zhishi chubanshe,1957,yes,,,,,,2019-01-08,DM,2019-04-14,WH
 PS00384,Liuhoulun,,en,P0452,G24,,1060,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00384,留侯论,,zh,P0452,G24,,1060,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00385,"Remembering Chibi, to the tune of Nian Nu Jiao",,en,P0452,G13,,,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
 PS00385,念奴娇·赤壁怀古,,zh,P0452,G13,,,,,no,,,,,,2019-01-08,DM,2019-01-08,MG
-PS00386,Selected Speeches and Writings,,en,P0454,G27,,,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00386,苏斯洛夫言论选,,zh,P0454,G27,,,,,yes,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00387,Kampanelly,,en,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
-PS00387,康帕内拉传记,,zh,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,"Transferred without rechecking, requires further checks.",,2019-01-08,DM,2019-01-08,MG
+PS00386,Selected Speeches and Writings,,en,P0454,G27,PL0003,1976,Shanghai renmin chubanshe,,yes,,,,,,2019-01-08,DM,2019-04-16,WH
+PS00386,苏斯洛夫言论选,,zh,P0454,G27,PL0003,1976,Shanghai renmin chubanshe,,yes,,,,,,2019-01-08,DM,2019-04-16,WH
+PS00387,Kampanelly,,en,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,,,2019-01-08,DM,2019-04-16,WH
+PS00387,康帕内拉传记,,zh,P0455,G43,PL0002,1963,Shangwu yin shuguan,,,,,,,,2019-01-08,DM,2019-04-16,WH
 PS00401,Liberté,,fr,P0637,G10,,,,,,,,,,,2018-04-26,WH,2018-07-24,MG
 PS00401,Ziyou,,zh-Latn-pinyin,P0637,G10,,,,,,,,,,,2018-05-29,WH,2018-07-24,MG
 PS00401,自由,,zh,P0637,G10,,,,,,,,,,,2018-04-26,WH,2018-07-24,MG
@@ -1109,21 +1107,19 @@ PS00620,The Scar,,en,P0689,G04,PL0002,1978,Beijing chuban she,,,,,,,,2018-12-11,
 PS00620,伤痕,,zh,P0689,G04,PL0002,1978,Beijing chuban she,,,,,,,,2018-12-11,MG,2018-03-18,DP
 PS00600,Pour Vivre ici,,fr,P0637,G10,PL0999,19xx,unknown,,,,,,Written in 1918,,2019-02-04,MG,2019-02-04,WH
 PS00600,为了在这里生活,,zh,P0637,G10,PL0999,19xx,unknown,,,,,,Written in 1918,,2019-02-04,MG,2019-02-04,WH
-PS00621,辞源,,zh,P0688,G04,PL0002,1994,Jingguan jiaoyu chuban she,1915,no,,,,,can‘t find any PRC publication earlier than 1994,2018-12-11,MG,2018-03-18,DP
-PS00601,xxx,,fr,P0637,G10,PL0999,19xx,unknown,,,,,,,please check the source for title (SS00112),2019-02-04,MG,2019-02-04,WH
-PS00601,xxx,,zh,P0637,G10,PL0999,19xx,unknown,,,,,,,please check the source for title (SS00112),2019-02-04,MG,2019-02-04,WH
+PS00621,辞源,,zh,P0688,G04,PL0002,1993,Jingguan jiaoyu chuban she,1912,no,,,,,can‘t find any PRC publication earlier than 1993.,2018-12-11,MG,2019-04-20,WH
 PS00602,唐宋名家词选,,zh,P0687,G13,PL0003,1956,Gu dian wen xue chu ban she,,,,,,,,2018-12-11,MG,2018-12-11,WH
 PS00622,The Song of Ouyang Hai,,en,P0802,G04,PL0002,1965,Jiefangjun wenyi she,,no,,,,,,2019-02-11,MG,2018-03-18,DP
 PS00622,欧阳海之歌,,zh,P0802,G04,PL0002,1965,Jiefangjun wenyi she,,no,,,,,,2019-02-11,MG,2018-03-18,DP
-PS00603,Yulin Bell,,en,P0685,G10,PL0999,unknown,unknown,,,PS09999,,,Translated by project member,,2018-12-15,MG,2018-12-15,WH
-PS00603,雨霖铃,,zh,P0685,G10,PL0999,unknown,unknown,,,PS09999,,,,publication info will be added later,2018-12-12,MG,2018-12-15,WH
-PS00623,苏联是社会主义国家吗,,zh,P0803,G99,PL0999,1970~,,,no,,,,Semi-overt distribution in China,could only find a publication in Hongkong in 1970 (Sanlian shudian),2019-02-11,MG,2018-03-18,DP
+PS00603,Yulin Bell,,en,P0685,G10,PL0999,,,,,PS09999,,,Translated by project member,,2018-12-15,MG,2018-12-15,WH
+PS00603,雨霖铃,,zh,P0685,G10,PL0999,,,,,PS09999,,,,,2018-12-12,MG,2018-12-15,WH
+PS00623,苏联是社会主义国家吗,,zh,P0803,G99,PL0017,1969,Xianggang sanlian shudian,1936,no,,,,Semi-overt distribution in China,,2019-02-11,MG,2019-04-16,WH
 PS00624,战国策,,zh,P0684,G99,PL0003,1978,Shanghai guji chubanshe,,,,,,earlier editions were published in Taipei,,2018-12-12,MG,2018-03-18,DP
 PS00604,Whither Guangdong?,,en,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,WH
 PS00604,广东怎么办,,zh,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,WH
 PS00604,Guangdong zenme ban,,zh-Latn-pinyin,P0807,G76,PL0079,1974,,,,,,,big character poster,,2019-02-18,LH,2019-02-18,WH
-PS00605,Steel Meets Fire,,en,P0682,G04,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-12,MG,2018-12-15,WH
-PS00605,烈火金刚,,zh,P0682,G04,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-12,MG,2018-12-15,WH
+PS00605,Steel Meets Fire,,en,P0682,G04,PL0999,1958,Zhongguo qingnian chubanshe,1958,,,,,,,2018-12-12,MG,2019-04-16,WH
+PS00605,烈火金刚,,zh,P0682,G04,PL0999,1958,Zhongguo qingnian chubanshe,1958,,,,,,,2018-12-12,MG,2019-04-16,WH
 PS00625,Classical Theory of Fields,,en,P0809,G19,,,,,,,,,,,2019-02-18,LH,2018-03-18,DP
 PS00606,The Sunny Day,,en,P0677,G04,PL0002,1964..1966,Zuojia chubanshe,,,,,,,,2018-12-12,MG,2018-12-15,WH
 PS00606,艳阳天,,zh,P0677,G04,PL0002,1964..1966,Zuojia chubanshe,,,,,,,,2018-12-12,MG,2018-12-15,WH
@@ -1137,12 +1133,12 @@ PS00608,Struggles in an Ancient City,,en,P0676,G99,PL0002,1958,Renmin wenxue chu
 PS00608,野火春风斗古城,,zh,P0676,G99,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,2018-12-12,MG,2018-12-15,WH
 PS00628,Li Sao,,en,P0813,G13,PL0003,1954,Shanghai wenyi lianhe chubanshe,,,,,,,,2019-03-09,MG,2018-03-18,DP
 PS00628,离骚,,zh,P0813,G13,PL0003,1954,Shanghai wenyi lianhe chubanshe,,,,,,,,2019-03-08,MG,2018-03-18,DP
-PS00629,三峡,,zh,P0275,G99,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-03-18,DP
-PS00609,Journey to The Land of Hunger,,en,P0814,G75,,,,1921,no,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,WH
-PS00609,饿乡纪程,,zh,P0814,G75,,,,1921,no,,,,,publication info will be added later,2019-03-08,MG,2019-03-09,WH
-PS00630,毛泽东的青年时代,,zh,P0675,G02,PL0999,unknown,unknown,,,,,,,I just could find an edition written by San Xiao published in 1949,2018-12-15,MG,2019-03-18,DP
-PS00610,Impressions of The Red Capital,,en,P0814,G75,,,,1924,no,,,,,publication info will be added later,2019-03-08,MG,2019-03-09,WH
-PS00610,赤都心史,,zh,P0814,G75,,,,1924,no,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,WH
+PS00629,三峡,,zh,P0275,G23,PL0999,unknown,unknown,,,,,,,,2018-12-15,MG,2019-04-20,WH
+PS00609,Journey to The Land of Hunger,,en,P0814,G75,PL0185,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-09,MG,2019-04-24,WH
+PS00609,饿乡纪程,,zh,P0814,G75,PL0185,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-08,MG,2019-04-24,WH
+PS00630,毛泽东的青年时代,,zh,P0675,G02,PL0002,1950,Renmin chubanshe,1948,,,,,The word “Tongzhi” was added to the work name after “Mao Zedong” on the first Chinese edition.,,2018-12-15,MG,2019-04-24,WH
+PS00610,Impressions of The Red Capital,,en,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-08,MG,2019-04-24,WH
+PS00610,赤都心史,,zh,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-09,MG,2019-04-24,WH
 PS00631,普隆恰夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2019-03-18,DP
 PS00611,昨日的我已不是我,,zh,P0006,G10,,,,,,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,WH
 PS00612,Northern Song,,en,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,WH
@@ -1152,8 +1148,8 @@ PS00613,Book on Xinjiang,,en,P0999,G20,PL0999,195x,unknown,,no,,,,,,2019-01-31,L
 PS00614,毛主席语录,,zh,P0174,G24,PL0002,1964,Zhongguo renmin jie fang jun,,,,,,,,2018-12-30,MG,2018-12-30,WH
 PS00615,Farewell Leighton Stuart,,en,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,WH
 PS00615,别了 司徒雷登,,zh,P0174,G01,,,,,,PS00475,,,,,2018-12-30,MG,2018-12-30,WH
-PS00616,敦促杜聿明等投降书,,zh,P0174,G99,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,WH
-PS00617,毛选四卷的注解部分,,zh,P0174,G24,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-30,MG,2018-12-30,WH
+PS00616,敦促杜聿明等投降书,,zh,P0174,G78,PL0999,unknown,unknown,1948,,,,,,,2018-12-30,MG,2019-04-24,WH
+PS00617,毛泽东选集第四卷,,zh,P0174,G24,PL0002,1950,Renmin chubanshe,,,,,,,,2018-12-30,MG,2019-04-24,WH
 PS00700,Chinese Historical Anthology,,en,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,Translated by project member.,,2019-02-23,WH,2019-02-23,WH
 PS00700,Zhongguo lishi wenxuan,,zh-Latn-pinyin,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
 PS00700,中国历史文选,,zh,P0791,G36,PL0003,1962,Shanghai guji chubanshe,,,,,,,,2019-02-23,WH,2019-02-23,WH
