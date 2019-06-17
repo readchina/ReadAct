@@ -15,7 +15,7 @@ install:
 script:
   # validate each file against its schema
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
-  - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Act.json
+  - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/Act.json
   - csvlint data/ActType.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ActType.json
   - csvlint data/ArtForm.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtForm.json
   - csvlint data/ArtWork.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtWork.json
