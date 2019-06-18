@@ -14,7 +14,7 @@ Person,alt_name,Alias limited to one pseudonym per person. Change all traditiona
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2018-01-30,DP
-Person,narrative_age,Narrative age of fictional personas only: 1: childhood / 2: mid-age / 3: old-age. Add 'unknown' in case you do not know; 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
+Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. Add 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
 Person,source_id_1,Text.text_id of evidential source, URL for online sources.,2017-07-04,LH,2018-02-01,DP
 Person,page_number_1,Page number or range for source_id_1, 'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
