@@ -24,7 +24,7 @@ script:
   - csvlint data/IsoLangCode.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/IsoLangCode.json
   - csvlint data/Location.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Location.json
   - csvlint data/Membership.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Membership.json
-  - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/schema-narrative_age/readingdata/Person.json
+  - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/Person.json
   - csvlint data/Place.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Place.json
   - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/PrimarySource.json
   - csvlint data/Quotation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Quotation.json
