@@ -26,9 +26,9 @@ script:
   - csvlint data/Membership.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Membership.json
   - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/Person.json
   - csvlint data/Place.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Place.json
-  - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/PrimarySource.json
+  - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/PrimarySource.json
   - csvlint data/Quotation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Quotation.json
-  - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SecondarySource.json
+  - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/SecondarySource.json
   - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
   - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
 
