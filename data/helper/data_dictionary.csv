@@ -20,6 +20,7 @@ Person,source_id_1,Text.text_id of evidential source, URL for online sources.,20
 Person,page_number_1,Page number or range for source_id_1, 'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
 Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
 Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
+Person,character_status,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,MG
 Person,commentary,Supplemental information, not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -95,6 +96,7 @@ PrimarySource,neibu,yes/no whether this was originally a neibu publication. Add 
 PrimarySource,source_id,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
 PrimarySource,serial_part,additional citation ranges for serials such as volume or issue,,,,,
 PrimarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,literary_status,literary status of the text. Add F for fictional texts. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,MG
 PrimarySource,commentary,Space for background information on the text. If necessary for example reference to translation of a poem into English on when a text was written…,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -114,6 +116,7 @@ SecondarySource,neibu,yes/no whether this was originally a neibu publication. Ad
 SecondarySource,source_id,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,serial_part,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,literary_status,literary status of the text. Add F for fictional texts. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,MG
 SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -203,6 +206,7 @@ Act,substantial_discussion,substantial comment or quotation from source, 'unknow
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
+Act,act_status,Add F to mark fictional reading acts. By definition if either Act.agent, or Act.act_object have a fictional character_status or literary_status (F) property, the resulting Act.act_status is fictional as well. Act.source_status property is insufficient to assert the fictionality of an act. Where real-world personas appear in fictional texts, contributors must indicate evidence for the act_status in Act.commentary,,2019-04-09,MG,2019-06-19,MG
 Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘, ‘genre_id‘,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
