@@ -10,7 +10,7 @@ P0004,芒,克,zh,male,yes,1969,unknown,PL0022,1950,,姜世伟,zh,PL0020,,,SS0001
 P0005,Peng,Gang,en,male,unknown,NULL,NULL,NULL,1952,,,,PL0002,,,SS00011,79,SS00115,183ff,,Third source: http://comment.artron.net/20080926/n59465.html,2017-07-05,LH,2018-03-13,WH
 P0005,彭,刚,zh,male,unknown,NULL,NULL,NULL,1952,,,,PL0002,,,SS00011,79,SS00115,183ff,,Third source: http://comment.artron.net/20080926/n59465.html,2017-07-05,LH,2018-03-13,WH
 P0006,Tan,Xiaochun,en,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,,2017-07-05,LH,2018-03-13,WH
-P0006,谭,小春,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,,2017-07-05,LH,2018-03-13,WH
+P0006,谭,晓春,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,The name “谭小春” was presumably a typo in the SS00115. So we choose the name with “晓” to represent this person.,2017-07-05,LH,2019-05-24,WH
 P0007,Cheng,Chuan,en,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,,,,,2017-07-05,LH,2018-02-07,WH
 P0007,呈,川,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,,,,,2017-07-05,LH,2018-02-07,WH
 P0008,Lu,Zhongnan,en,male,yes,1969,unknown,PL0022,1950,,,,PL0185,,,SS00115,188,https://baike.baidu.com/item/%E5%8D%A2%E4%B8%AD%E5%8D%97,,,,2017-07-05,LH,2018-03-13,WH

@@ -366,7 +366,7 @@ A00404,P0133,AT01,PS00341,,1979,1979,,SS00154,532,2,,,2018-05-15,MG,2018-05-15,M
 A00405,P0175,AT03,PS00341,P0133,1979,1979,Peng Yilin wrote an analysis article about the poem and sent it to Bo Hua. He was told that his friend Peng organized a Poem society with some other intellectuals,SS00154,532,2,,,2018-05-15,MG,2018-05-15,MG
 A00406,P0175,AT10,PS00341,,1979,1979,Peng Yilin wrote an analysis article about the poem and sent it to Bo Hua. He was told that his friend Peng organized a Poem society with some other intellectuals,SS00154,532,2,,,2018-05-15,MG,2018-05-15,MG
 A00407,P0137,AT05,AW09999,,1970~,1979~,Fan Qian and his painter friends were searching for the inspiration by van Gogh‘s style,SS00163,353,1,unknown work by: P0358 AF01,,2018-05-15,MG,2018-05-15,MG
-A00408,P0011,AT05,AW09999,,196x..197x,196x..197x,unknown,SS00155,56,1,unknown work by: P0358 AF01,,2018-05-15,MG,2018-05-15,MG
+A00408,P0011,AT05,AW09999,,1966..1976,1966..1976,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,SS00155,56,1,unknown work by: P0358 AF01,,2018-05-15,MG,2019-06-22,WH
 A00409,P0133,AT11,PS09999,,1979,1979,unknown,SS00154,537,2,unknown work by: P0359 G10,,2018-05-15,MG,2018-05-15,MG
 A00410,P0999,AT17,PS00342,,1966..197x,1966..197x,There was an educated youth who took story-telling as his unique ‚currency‘ so that he could ‚purchase‘ daily necessities with it.,SS00005,572,2,,,2018-05-15,MG,2018-05-15,MG
 A00411,P0108,AT01,PS00194,,1966,1966,In her point of view no 12-year-old child could read it without being stunned. Her parents‘ boss found out what she was reading and scolded her. She was marked as sb with inclinations to a capitalist life style.,SS00012,158f,2,,,2018-05-15,MG,2018-05-15,MG
@@ -470,7 +470,7 @@ A00601,P0131,AT01,PS00354,,1978,1978,Someone recommended him to borrow this book
 A00602,P0033,AT22,PS00357,,1961..1962,1961..1962,Zhou reminds this tale seeing his brother,SS00116,ONLINE SOURCE,2,,,2018-06-04,MG,2018-06-05,MG
 A00603,P0041,AT01,PS09999,,1966..1976,1966..1976,she writes that now she can only recall having secretly read works from Hugo and Pushkin at that time,SS00119,ONLINE SOURCE,2,unknown work by: P0324,,2018-06-04,MG,2018-06-05,MG
 A00604,P0018,AT05,PS09999,,196x..197x,196x..197x,unknown,SS00158,311,2,unknown work by: P0324,pls check the source again,2018-06-04,MG,2018-06-05,MG
-A00605,P0003,AT05,PS00356,,196x..197x,196x..197x,unknown,SS00185,112,2,,,2018-06-04,MG,2018-06-05,MG
+A00605,P0999,AT31,PS00603,P0003,1970?,1970?,The author teaches a young man these poems and the young man writes them down.,SS00185,112,2,,,2018-06-04,MG,2019-06-20,WH
 A00606,P0106,AT02,PS00355,,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
 A00607,P0106,AT03,PS00355,P0999,197x,197x,Han and friends exchanged and  transcribed poems together,SS00005,578,2,,,2018-06-04,MG,2018-06-05,MG
 A00608,P0140,AT05,AW09999,,197x,197x,Chen reports that this was popular among underground circles in Beijing,SS00157,75,2,unknown work by: P0387 AF05,,2018-06-04,MG,2018-06-05,MG
@@ -617,11 +617,11 @@ A00822,P0120,AT23,PS00491,,1966..197x,1966..197x,oral transmission,SS00030,30,2,
 A00823,P0120,AT23,PS00492,,1966..197x,1966..197x,oral transmission,SS00030,30,2,,,2018-10-24,MG,2018-10-24,MG
 A00824,P0120,AT23,PS00493,,1966..197x,1966..197x,oral transmission,SS00030,31,2,,,2018-10-24,MG,2018-10-24,MG
 A00825,P0120,AT05,PS09999,,1966..197x,1966..197x,Zhang mentions Aristotle as an item which appears in his uncle‘s notebook,SS00030,52,2,unknown work by: P0084,,2018-10-24,MG,2018-10-24,MG
-A00826,P0276,AT05,PS09999,,19xx,19xx,unknown,SS00209,288,2,unknown work by: P0091,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
+A00826,P0276,AT05,PS09999,,1972~,1972~,Tang Ke copied the poem of P0091 in his letter to P0276.,SS00209,288,2,,,2018-11-05,MG,2019-06-10,WH
 A00827,P0216,AT05,PS09999,,19xx,19xx,unknown,SS00159,372,2,unknown work by: P0092,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
 A00828,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by: P0096,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
 A00829,P0132,AT05,PS09999,,1973~,1973~,unknown,SS00043,453,2,unknown work by: P0097,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
-A00830,P0106,AT05,PS09999,,1972~,1972~,unknown,SS00005,580,2,unknown work by: P0098,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
+A00830,P0106,AT05,PS09999,,1972~,1972~,"This book belonged to the ""neibu"" collection at that time.",SS00005,580,2,unknown work by: P0098,,2018-11-05,MG,2019-06-11,WH
 A00831,P0221,AT05,PS09999,,197x,197x,unknown,SS00170,249,2,unknown work by: P0098,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
 A00832,P0131,AT05,PS09999,,1975~,1975~,unknown,SS00153,560,2,unknown work by: P0100,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-05,MG
 A00833,P0029,AT01,PS09999,,196x..1966,196x..1966,unknown,SS00029,116f,2,unknown work by: P0101,please check the source again to adjust act type and other relevant info see issue #299 pls also check if P0101 is the correct author mentioned in this source,2018-11-05,MG,2018-11-05,MG
@@ -631,7 +631,7 @@ A00836,P0131,AT05,PS09999,,19xx,19xx,unknown,SS00153,555,2,unknown work by: P010
 A00837,P0132,AT23,AW09999,,1974~,1974~,unknown,SS00043,453,2,unknown work by: P0104,please check the source again to adjust act type and other relevant info see issue #299,2018-11-05,MG,2018-11-06,MG
 A00838,P0133,AT05,PS09999,,197x~,197x~,unknown,SS00193,544,2,unknown work by: P0653,please check the source again to adjust act type and other relevant info see issue #299,2018-11-06,MG,2018-11-06,MG
 A00839,P0106,AT15,PS09999,,19xx,19xx,unknown,SS00005,573,2,unknown work about: P0654 probably a collection of his paintings,please check the source again to adjust act type and other relevant info see issue #299,2018-11-06,MG,2018-11-06,MG
-A00840,P0131,AT23,AW00200,,1978~,1978~,unknown,SS00209,297,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-06,MG,2018-11-06,MG
+A00840,P0276,AT23,AW00200,,1978~,1978~,This was the last song he heard from P0277.,SS00209,297,2,,,2018-11-06,MG,2018-06-11,WH
 A00841,P0131,AT01,PS09999,,1966..1976~,1966..1976~,appears in her notebook,SS00014,301,2,unknown work by: P0656,please check the source again to adjust act type and other relevant info see issue #299,2018-11-07,MG,2018-11-07,MG
 A00842,P0010,AT05,AW00201,,196x..197x~,196x..197x~,Duo Duo wrongly states that the author of the piece is Beckett. (which should tell us something about the slight distortions that knowledge undergoes when traveling around the globe - or in a persons memory),SS00114,195,2,,,2018-11-07,MG,2018-11-07,MG
 A00843,P0133,AT05,AW00201,,1970,1970,unknown,SS00193,539,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-07,MG,2018-11-07,MG
@@ -646,28 +646,27 @@ A00851,P0052,AT15,AW00202,,1964,1964,,SS00133,ONLINE SOURCE,2,,,2018-11-14,MG,20
 A00852,P0168,AT03,AW00202,P0052,1964,1964,Xiao Xia gave her an album with the picture of Mona Lisa on the front,SS00133,ONLINE SOURCE,2,,,2018-11-14,MG,2018-11-14,MG
 A00853,P0131,AT01,PS09999,,1975,1975,unknown,SS00153,560,2,unknown work by: P0661,please check the source again to adjust act type and other relevant info see issue #299,2018-11-14,MG,2018-11-14,MG
 A00854,P0133,AT01,PS00494,,1979,1979,"The author thought Bei Dao's Poem ""雨夜"" is totally different from Dai Wangshu's ""雨巷""",SS00154,538,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-14,MG,2018-11-14,MG
-A00855,P0662,AT40,AW00085,,1976,1976,They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.,SS00256,211,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-18,MG,2018-11-18,MG
-A00856,P0106,AT40,AW00085,,196x..197x,196x..197x,The author and other educated youth sang this song,SS00005,576,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-18,MG,2018-11-18,MG
+A00855,P0662,AT40,AW00085,,1976,1976,They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.,SS00256,211,2,,,2018-11-18,MG,2019-06-11,WH
+A00856,P0106,AT40,AW00085,,196x..197x,196x..197x,The author and other educated youth would sing this song upon farewell.,SS00005,576,2,,,2018-11-18,MG,2019-06-11,WH
 A00857,P0132,AT23,AW09999,,1975~,1975~,unknwon,SS00043,453,2,unknown work by: P0663,please check the source again to adjust act type and other relevant info see issue #299,2018-11-18,MG,2018-11-18,MG
-A00858,P0276,AT23,AW00203,,1978,1978,unknown,SS00209,299,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-18,MG,2018-11-18,MG
+A00858,P0276,AT23,AW00203,,1978,1978,The song Tang Ke’s friend sang impressed the author.,SS00209,301,2,,,2018-11-18,MG,2019-06-12,WH
 A00859,P0041,AT01,PS09999,,1966..1976,1966..1976,recalls having secretly read works from Hugo and Pushkin during the CR,SS00119,ONLINE SOURCE,2,unknown work by: P0324,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
 A00860,P0018,AT01,PS09999,,19xx,19xx,,SS00158,311,2,unknown work by: P0324,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
-A00861,P0109,AT01,PS09999,,1969,1969,Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook),SS00014,300,2,unknown work by: P0324,please check the source again to adjust act type and other relevant info see issue #299  and check the title 普希金诗钞,2018-11-19,MG,2018-11-19,MG
+A00861,P0109,AT01,PS00709,,1969,1969,Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook),SS00014,300,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2019-06-04,WH
 A00862,P0216,AT05,PS00358,,19xx,19xx,unknown,SS00159,372,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
 A00863,P0999,AT01,PS00358,,1976?,1976?,unknown,SS00251,98,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
-A00864,P0140,AT23,AW09999,,19xx,19xx,unknown,SS00157,75,2,unknown work by: P0665 AF05,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
+A00864,P0140,AT05,AW09999,,1978,1978,She was amazed at the list of books circulating inside the underground poetry organization during the Cultural Revolution.,SS00157,75,2,unknown work by: P0665 AF05,,2018-11-19,MG,2019-06-20,WH
 A00865,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by: P0390,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
 A00866,P0132,AT05,AW09999,,1978~,1978~,compares Pissarro‘s art to paintings by P0167,SS00043,453,2,unknown work by: P0394 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-20,MG,2018-11-20,MG
-A00867,P0011,AT05,AW09999,,19xx,19xx,unknown,SS00155,56,2,unknown work by P0395 probably AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-20,MG,2018-11-20,MG
+A00867,P0011,AT05,AW09999,,1966..1976,1966..1976,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,SS00155,56,2,unknown work by P0395 probably AF01,,2018-11-20,MG,2018-11-20,MG
 A00868,P0276,AT05,AW09999,,19xx,19xx,unknown,SS00209,284,2,unknown work by P0395 probably AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-20,MG,2018-11-20,MG
-A00869,P0138,AT23,AW09999,,1966..1976,1966..1976,unknown,SS00111,196,2,unknown work by: P0399 AF05,please check the source again to adjust act type and other relevant info see issue #299,2018-11-20,MG,2018-11-20,MG
 A00870,P0138,AT03,AW09999,P0999,1966..1976,1966..1976,Bao Kun exchanged the music with other music lovers,SS00111,196,2,unknown work by: P0399 AF05,please check the source again to adjust act type and other relevant info see issue #299,2018-11-20,MG,2018-11-20,MG
 A00871,P0029,AT01,PS09999,,1964..1966,1964..1966,,SS00029,119,2,unknown work by: P0666 G16,,2018-11-21,MG,2018-11-21,MG
 A00872,P0029,AT01,PS09999,,1964..1966,1964..1966,,SS00029,119,2,unknown work by: P0667 G16,,2018-11-21,MG,2018-11-21,MG
 A00873,P0029,AT01,PS09999,,1964..1966,1964..1966,,SS00029,119,2,unknown work by: P0668 G16,,2018-11-21,MG,2018-11-21,MG
 A00874,P0106,AT05,AW09999,,1966..1976,1966..1976,unknown,SS00005,573,2,unknown work by: P0669 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-21,MG,2018-11-21,MG
-A00875,P0011,AT05,AW09999,,19xx,19xx,unknown,SS00155,56,2,unknown work by: P0670 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-21,MG,2018-11-21,MG
-A00876,P0137,AT05,AW09999,,1970..1979~,1970..1979~,unknown,SS00163,353,2,unknown work by: P0670 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-11-21,MG,2018-11-21,MG
+A00875,P0011,AT05,AW09999,,1966..1976,1966..1976,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,SS00155,56,2,unknown work by: P0670 AF01,,2018-11-21,MG,2019-06-16,WH
+A00876,P0137,AT05,AW09999,,1970..1979~,1970..1979~,He was no longer satisfied with the style of realism. Gauguin became his role model.,SS00163,353,2,unknown work by: P0670 AF01,,2018-11-21,MG,2019-06-16,WH
 A00900,P0106,AT05,PS00500,,1953..1967,1953..1967,Han mentions that the journal contains many nice color photographs,SS00005,564,2,,,2018-11-03,WH,2018-11-03,WH
 A00901,P0108,AT05,PS00501,,1954..,1954..,The author saw this work and many other Shouchaobens and poems were taken to a photo and packed in the box by her old friend Zhao Yifan.,SS00012,,2,,,2018-11-03,WH,2018-11-03,WH
 A00902,P0014,AT30,PS00501,,1935..1988,1935..1988,Xu Xiao saw this work and many other Shouchaobens and poems were taken to a photo and packed in the box by Zhao Yifan.,SS00012,,2,,,2018-11-03,WH,2018-11-03,WH
@@ -841,7 +840,7 @@ A00878,P0215,AT01,PS00620,,1978~,1978~,unknown,SS00156,338,2,,please check the s
 A00879,P0033,AT01,PS00621,,1948..1949,1948..1949,unknown,SS00116,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-11,MG,2019-03-18,DP
 A00880,P0131,AT01,PS00602,,1970~,1970~,unknown,SS00153,554,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-11,MG,2018-12-11,MG
 A00881,P0216,AT26,PS09999,,1966..1976,1966..1976,one of his favourite writers back then,SS00159,362,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-11,MG,2018-12-11,MG
-A00882,P0003,AT05,PS00603,,19xx,19xx,unknown,SS00185,112,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-12,MG,2018-12-12,MG
+A00882,P0999,AT31,PS00603,P0003,1970?,1970?,The author teaches a young man these poems and the young man writes them down.,SS00185,112,2,,,2018-12-12,MG,2019-06-16,WH
 A00883,P0106,AT05,PS00624,,19xx,19xx,unknown,SS00005,571,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-12,MG,2019-03-18,DP
 A00884,P0362,AT05,AW00204,,19xx,19xx,unknown,SS00272,518,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-12,MG,2018-12-12,MG
 A00885,P0154,AT01,PS00605,,1974,1974,unknown,SS00160,389,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-12,MG,2018-12-12,MG
@@ -857,14 +856,14 @@ A00894,P0138,AT05,AW09999,,19xx,19xx,unknown,SS00111,197,2,unknown work by: P067
 A00895,P0132,AT01,PS09999,,1975..1979,1975..1979,There was a bookstore in Fuzhou Road (PL0003) selling those confiscated books during CR so the author found many precious collections of foreign works there.,SS00043,454,2,unknown work by: P0671 G10,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
 A00896,P0133,AT05,PS09999,,19xx,19xx,unknown,SS00193,536,2,unknown work by: P0672,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
 A00897,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by: P0673,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
-A00898,P0276,AT05,PS00629,,19xx,19xx,unknown,SS00209,259,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2019-03-18,DP
+A00898,P0276,AT05,PS00629,,1974~,1974~,Tang Ke copied this poem to the author when he passed the Three Gorges Dam.,SS00209,259,2,,,2018-12-15,MG,2019-06-16,WH
 A00899,P0133,AT01,PS00630,,19xx,19xx,unknown,SS00193,531,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2019-03-18,DP
 A01000,P0139,AT05,PS00631,,19xx,19xx,unknown,SS00152,7-10,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2019-03-19,DP
 A01001,P0276,AT01,PS00462,,1972,1972,unknown,SS00209,284,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
 A01002,P0120,AT05,PS00612,,19xx,19xx,unknown,SS00030,54,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-15,MG,2018-12-15,MG
-A01003,P0011,AT05,AW09999,,19xx,19xx,unknown,SS00155,56,2,unknown work by: P0692 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
-A01004,P0132,AT05,AW09999,,1978~,1978~,unknown,SS00043,452,2,unknown work by: P0692 AF01,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
-A01005,P0276,AT05,AW09999,,19xx,19xx,unknown,SS00209,284,2,unknown work by: P0693 AF01 or AF08,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
+A01003,P0011,AT05,AW09999,,1966..1976,1966..1976,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,SS00155,56,2,unknown work by: P0692 AF01,,2018-12-17,MG,2019-06-20,WH
+A01004,P0132,AT05,AW09999,,1978~,1978~,She first recognized impressionism in P0167’s home.,SS00043,452,2,unknown work by: P0692 AF01,,2018-12-17,MG,2019-06-20,WH
+A01005,P0276,AT05,AW09999,,1972~,1972~,The author talked about this person during the call with P0277.,SS00209,284,2,unknown work by: P0693 AF01 or AF08,,2018-12-17,MG,2019-06-20,WH
 A01006,P0180,AT05,PS00483,,1966..1976,1966..1976,unknown,SS00108,327,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
 A01007,P0138,AT05,AW09999,,1966..1976,1966..1976,unknown,SS00111,196,2,unknown work by: P0694 AF05,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
 A01008,P0221,AT05,PS00480,,1970..1979,1970..1979,unknown,SS00170,238,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-17,MG,2018-12-17,MG
@@ -876,14 +875,13 @@ A01013,P0120,AT01,PS00614,,1971..1972,1971..1972,read in L0002,SS00030,110,2,,pl
 A01014,P0219,AT01,PS00614,,1968~,1968~,mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.,SS00190,262,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01015,P0018,AT01,PS00614,,1968~,1968~,studying the Quotations was part of the daily routine after the classes were cancelled,SS00158,306,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01016,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by P0696,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
-A01017,P0003,AT05,AW00207,,19xx,19xx,unknown,SS00185,125,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
+A01017,P0003,AT40,AW00207,,1970~,1970~,He sang this song which he once taught to P0785.,SS00185,125,2,,,2018-12-30,MG,2019-06-20,WH
 A01018,P0003,AT05,PS00615,,19xx,19xx,unknown,SS00185,139,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01019,P0003,AT05,PS00616,,19xx,19xx,unknown,SS00185,139,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01020,P0109,AT01,PS00617,,1966..1976,1966..1976,recommended by a friend (possibly penpal),SS00014,301,2,,,2018-12-30,MG,2018-12-30,MG
-A01021,P0033,AT16,PS09999,,1955~,1955~,the story of the protagonist Pavlik had a huge influence on Zhou Ziren,SS00116,ONLINE SOURCE,2,unknown work about P0698,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01022,P0017,AT05,PS09999,,19xx,19xx,unknown,SS00009,220,2,unknown work by: P0418,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
 A01023,P0106,AT05,PS09999,,19xx,19xx,unknown,SS00005,583,2,unknown work by: P0419,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
-A01024,P0276,AT05,PS09999,,19xx,19xx,unknown,SS00209,288,2,unknown work by: P0416,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
+A01024,P0276,AT05,PS09999,,1972..,1972..,After Nixon’s visit to China P0416’s name began to become well known in some small circles of people.,SS00209,290,2,unknown work by: P0416,,2018-12-31,MG,2019-06-20,WH
 A01025,P0035,AT01,PS00218,,19xx,19xx,,SS00117,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
 A01026,P0119,AT01,PS00218,,1971,1971,He was dissapointed by the reality and blamed the Pavel Korchagin way of life pursuit is the reason why he made multiple mistakes.,SS00026,ONLINE SOURCE,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
 A01027,P0011,AT05,PS00218,,19xx,19xx,unknown,SS00155,56,2,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-31,MG,2018-12-31,MG
@@ -931,7 +929,7 @@ A00678,P0150,AT05,PS00382,,1966,1976,Perry Link mentions that The Red and the Bl
 A00679,P0139,AT05,PS00383,,1966,1976,Xiao Xiao mentions it as one of the most important neibu books of the CR,SS00152,7-10,2,,Added by OS and GF transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
 A00680,P0020,AT01,PS00383,,1966,1976,Gao Hua mentioned this book as one those that informed his opinion about the real life in the Soviet Union,SS00006,134,2,,Added by OS and GF transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
 A00681,P0046,AT01,PS00384,,1971,,Xie he read the book to kill time while isolated examination,SS00120,ONLINE SOURCE,2,,Added by CW transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
-A00682,P0003,AT04,PS00385,,1968?,1968,The author and other prisoners spent their time reciting and making poems as recreation. But nearly all of those works were burnt into ashes in order to avoid punishment. He also remebered one of the topic was about 'hooligan 流氓 liumang' and everyone wrote a poem about it as a collection,SS00185,112,2,,Added by JH transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
+A00682,P0999,AT31,PS00603,P0003,1970?,1970?,The author teaches a young man these poems and the young man writes them down.,SS00185,112,2,,,2019-01-08,DM,2019-06-20,WH
 A00683,P0138,AT05,AW09999,,19xx,19xx,According to Bao before the CR most of the painters learned by the Chinese were from the Soviet Union,SS00111,197,2,unknown work by: P0453,Added by JH transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
 A00684,P0137,AT04,AW09999,,19xx,19xx,Fan Qian and his friend introduced these western painters to the guard teacher in the group of fine arts,SS00156,351,2,unknown work by: P0453,Added by JH transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
 A00685,P0020,AT05,PS00386,,1966,1976,Obtained: From Teacher Ling 凌老师 who previously worked in the reference department of Jiangsu Provincial Song and Dance Troupe. Gao Hua mentioned only the title of the work. After some search I think he refers to M.A. Suslov's work. Gao Hua referred to this work as dull and tedious,SS00006,136,2,,Added by CW transferred without rechecking requires further checks,2019-01-08,DM,2019-01-08,DM
@@ -963,7 +961,7 @@ A01190,P0131,AT01,PS00586,,1978,1978,This book was recommended by a girl named S
 A01191,P0131,AT01,PS09999,,1975,1975,Li Daxing began to write new poems after he knew Shu Hua. He also read Xu Zhimo’s works.,SS00153,560,2,unknown work by: P0775,,2019-01-26,WH,2019-01-26,WH
 A01054,P0108,AT05,PS00182,,19xx,19xx,unknown,SS00012,9999,2,,please check the source again to adjust act type and other relevant info see issue #299 there is no page number given! (maybe 159),2019-02-01,MG,2019-02-11,MG
 A01041,P0120,AT05,Q0011,,1964~,1964~,explains what the quotation means to him. also used as motto to the shouchaoben The Second Handshake,SS00030,61,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-01,MG,2019-02-01,MG
-A01042,P0140,AT05,AW09999,,1970..197x,1970..197x,unknown,SS00157,79,2,unknown work. Chen refers to the Barbizon school (Ecole de Barbizon) which was an art movement towards Realism (~2nd half of 19th century),please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
+A01042,P0140,AT05,AW09999,,1970..197x,1970..197x,To the author the 1970s was not only about sufferings and pains but also beautiful and romantic memories in the coutryside.,SS00157,79,2,unknown artwork AF01. Chen refers to the Barbizon school (Ecole de Barbizon) which was an art movement towards Realism (~2nd half of 19th century),,2019-02-04,MG,2019-06-15,WH
 A01043,P0003,AT05,PS00600,,19xx,19xx,unknown,SS00185,112,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
 A01044,P0018,AT05,PS00600,,19xx,19xx,unknown,SS00158,311,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-02-04,MG,2019-02-04,MG
 A01045,P0120,AT05,PS00600,,19xx,19xx,unknown,SS00030,9999,2,,there is no source given just the reader‘s name: Zhang Yang check SS00030 see issue #299,2019-02-04,MG,2019-02-11,MG
@@ -1045,11 +1043,21 @@ A01078,P0020,AT01,PS00609,,1969,1969,,SS00006,134f,2,,please check the source ag
 A01077,P0020,AT01,PS00610,,1969,1969,,SS00006,134f,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
 A01079,P0020,AT44,PS00609,,1969,1969,,SS00006,134f,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
 A01080,P0020,AT44,PS00610,,1969,1969,,SS00006,134f,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
-A01081,P0003,AT05,PS00347,,19xx,19xx,unknown,SS00185,124,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
-A01082,P0011,AT05,PS00611,,19xx,19xx,unknown,SS00155,54,2,,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
+A01081,P0003,AT05,PS00347,,1970?,1970?,The author regrets that he has not had a love story with a girl such as the story from this work.,SS00185,124,2,,,2019-03-09,MG,2019-06-23,WH
+A01082,P0011,AT05,PS00593,,1972~,1972~,Due to frequent checks she did not know where the poems were that others had given her.,SS00155,55,2,,,2019-03-09,MG,2019-06-22,WH
 A01083,P0133,AT05,PS09999,,19xx,19xx,unknown,SS00154,536,2,unknown work by: P0815,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
-A01084,P0106,AT05,PS09999,,1972~,1972~,unknown,SS00005,580,2,unknown work by: P0225 G24,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
-A01085,P0106,AT05,PS09999,,1972~,1972~,unknown,SS00005,580,2,unknown work by: P0223 G24,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
+A01084,P0106,AT05,PS09999,,1972~,1972~,"This book belonged to the ""neibu"" collection at that time.",SS00005,580,2,unknown work by: P0225 G24,,2019-03-09,MG,2019-06-22,WH
 A01200,P0808,AT44,PS00228,,1974,1974,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,2019-03-08,LH,2019-03-08,LH
 A01201,P0808,AT44,PS00707,,1974,1974,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,2019-03-08,LH,2019-03-08,LH
 A01202,P0808,AT44,PS00024,,1974,1974,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,2019-03-08,LH,2019-03-08,LH
+A01336,P0033,AT01,PS00708,,1957?,1963?,He read this book in the middle school. These books of revolutionary thought have influenced his growth.,SS00271,ONLINE SOURCE,2,,,2019-06-04,WH,2019-06-04,WH
+A01337,P0021,AT03,AW00058,P0002,1962,1963,Guo Shiying borrowed Mou Dunbai few books from B including this one.,SS00195,24,2,,,2019-06-10,WH,2019-06-10,WH
+A01338,P0221,AT01,PS09999,,1962?,1970?,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,unknown work by: P0118 G24,very likely that for the 1960s books by this author refer to a neibu publication,2019-06-12,WH,2019-06-12,WH
+A01339,P0011,AT05,AW00087,,1966..1976,1966..1976,The author mentioned that AW00087 was a copy from AW00086.,SS00155,56,2,,,2019-06-12,WH,2019-06-12,WH
+A01340,P0999,AT31,AW00088,P0003,1971?,1971?,He taught the song to the workers in the workshop.,SS00185,142,2,,,2019-06-12,WH,2019-06-12,WH
+A01341,P0003,AT23,AW00089,,1971?,1971?,He and some old soldiers listened to the song while drinking.,SS00185,144,2,,,2019-06-12,WH,2019-06-12,WH
+A01342,P0132,AT05,AW09999,,197x,197x,A new round of foreign culture swept China in the end of the 1971s both from the classics and the modern ones.,SS00043,453,2,unknown artwork by: P0305 AF05,,2019-06-13,WH,2019-06-13,WH
+A01343,P0139,AT05,PS00710,,196x..197x,196x..197x,unknown,SS00152,7-10,1,,,2019-06-13,WH,2019-06-13,WH
+A01344,P0106,AT05,PS09999,,1972~,1972~,"This book belonged to the ""neibu"" collection at that time.",SS00005,580,2,unknown work by: P0223 G24,,2019-03-09,MG,2019-06-22,WH
+A01345,P0003,AT01,PS00572,,1970?,1970?,The author replied that he read these works in the Selected Works of Mao Zedong during the interrogation.,SS00185,139,2,,,2019-06-23,WH,2019-06-23,WH
+A01346,P0003,AT01,PS00616,,1970?,1970?,The author replied that he read these works in the Selected Works of Mao Zedong during the interrogation.,SS00185,139,2,,,2019-06-23,WH,2019-06-23,WH

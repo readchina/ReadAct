@@ -270,7 +270,7 @@ PS00209,I Want to Study!,,en,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,
 PS00209,Wo yao dushu,,zh-Latn-pinyin,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00209,我要读书,,zh,P0240,G04,PL0002,1953,Renmin chubanshe,1953,no,,,,,,2018-02-11,OS,2018-02-11,OS
 PS00210,"Perspectives de l'homme, Existentialisme, Pensée catholique, Structuralisme, Marxisme",,fr,P0241,G29,PL0002,1965,Sanlian shudian,1965,yes,,,,,,2018-02-11,OS,2018-06-22,DP
-PS00210,Ren de yuanjing,,zh-Latn-pinyin,P0241,G29,PL0002,1965,Sanlian shudian,1965,yes,,,,,,2018-04-25,MG,2018-05-29,WH
+PS00210,"Ren de yuanjing, Cunzaizhuyi, tianzhujiao sixiang, Makesizhuyi",,zh-Latn-pinyin,P0241,G29,PL0002,1965,Sanlian shudian,1965,yes,,,,,,2018-04-25,MG,2019-05-02,WH
 PS00210,人的远景，存在主义，天主教思想，马克思主义,,zh,P0241,G29,PL0002,1965,Sanlian shudian,1965,yes,,,,,,2018-02-11,OS,2018-02-11,OS
 PS00211,Sanyue yu mori,,zh-Latn-pinyin,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2018-04-25,MG,2018-06-22,DP
 PS00211,三月与末日,,zh,P0012,G10,,,,,,,,,circulation started in the early 1970s probably 1972,,2018-02-12,OS,2018-06-22,DP
@@ -542,7 +542,7 @@ PS00350,Yue han ke li si duo fu,,zh-Latn-pinyin,P0380,G04,PL0002,1950,Sanlian sh
 PS00350,约翰·克利斯朵夫,,zh,P0380,G04,PL0002,1950,Sanlian shudian,,no,,,,,,2018-05-28,MG,2018-05-28,MG
 PS00351,Vie de Beethoven,,fr,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
 PS00351,Beiduofen zhuan,,zh-Latn-pinyin,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
-PS00351,貝多芬傳,,zh,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
+PS00351,貝多芬传,,zh,P0380,G02,PL0003,1949,Sanlian shudian,,no,,,,,,2018-05-29,MG,2018-05-29,MG
 PS00352,The Rommel Papers,,en,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
 PS00352,Longmeier zhanshi wenjian,,zh-Latn-pinyin,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
 PS00352,隆美尔战时文件,,zh,P0383,G14,PL0182,2005,Shanxi shifan daxue chubanshe,,no,,,,earlier editions were published in Taipei in 1955,,2018-06-01,MG,2018-06-11,MG
@@ -769,7 +769,7 @@ PS00481,La Révolution Française,,fr,P0628,G19,PL0002,1958,Sanlian shudian,,yes
 PS00481,Fa guo da ge ming shi,,zh-Latn-pinyin,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2018-07-17,MG,2018-07-17,MG
 PS00481,法国大革命史,,zh,P0628,G19,PL0002,1958,Sanlian shudian,,yes,,,,,,2018-07-17,MG,2018-07-17,WH
 PS00482,Karl Marx,Geschichte seines Lebens,de,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,WH
-PS00482,Makesi chuan,,zh-Latn-pinyin,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-23,WH
+PS00482,Makesi zhuan,,zh-Latn-pinyin,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2019-06-04,WH
 PS00482,马克思传,,zh,P0621,G02,PL0002,1973,Renmin chubanshe,,,,,,,,2018-07-17,MG,2018-07-17,WH
 PS00483,Histoire de France,,fr,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,WH
 PS00483,Faguo shi,,zh-Latn-pinyin,P0631,G41,PL0002,1964,Shangwu yin shuguan,,yes,,,,,,2018-07-20,MG,2018-12-17,WH
@@ -1136,12 +1136,14 @@ PS00628,离骚,,zh,P0813,G13,PL0003,1954,Shanghai wenyi lianhe chubanshe,,,,,,,,
 PS00629,三峡,,zh,P0275,G23,PL0999,unknown,unknown,,,,,,,,2018-12-15,MG,2019-04-20,WH
 PS00609,Journey to The Land of Hunger,,en,P0814,G75,PL0185,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-09,MG,2019-04-24,WH
 PS00609,饿乡纪程,,zh,P0814,G75,PL0185,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-08,MG,2019-04-24,WH
-PS00630,毛泽东的青年时代,,zh,P0675,G02,PL0002,1950,Renmin chubanshe,1948,,,,,The word “Tongzhi” was added to the work name after “Mao Zedong” on the first Chinese edition.,,2018-12-15,MG,2019-04-24,WH
+PS00630,毛泽东的青年时代,,zh,P0675,G02,PL0002,1950,Renmin chubanshe,1948,,,,,The word ‘Tongzhi’ was added to the work name after ‘Mao Zedong’ on the first Chinese edition.,,2018-12-15,MG,2019-04-24,WH
 PS00610,Impressions of The Red Capital,,en,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-08,MG,2019-04-24,WH
 PS00610,赤都心史,,zh,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-09,MG,2019-04-24,WH
-PS00631,普隆恰夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2019-03-18,DP
+PS00631,Сказание о директоре Прончатове,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2019-05-02,WH
+PS00631,Pulongqiatuofu jingli de gushi,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2019-05-02,WH
+PS00631,普隆恰托夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2019-05-02,WH
 PS00611,昨日的我已不是我,,zh,P0006,G10,,,,,,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,WH
-PS00612,Northern Song,,en,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,WH
+PS00612,Chaitou Feng,,zh-Latn-pinyin,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2019-06-04,WH
 PS00612,钗头凤,,zh,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2018-12-15,WH
 PS00613,大竹林,,zh,P0695,G10,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-17,MG,2018-12-17,WH
 PS00613,Book on Xinjiang,,en,P0999,G20,PL0999,195x,unknown,,no,,,,,,2019-01-31,LH,2019-01-31,WH
@@ -1174,3 +1176,11 @@ PS00706,左传,闵公元年,zh,P0798,G56,,,,,,,,,This work was possibly wrote by
 PS00707,The Third Way,Marxist-Leninist Theory and Modern Industrial Society,en,P0799,G24,PL0002,1982,Renmin chubanshe,unknown,no,,,,,,2019-03-08,LH,2019-03-11,WH
 PS00707,第三道,,zh,P0799,G24,PL0002,1982,Renmin chubanshe,unknown,no,,,,,,2019-03-08,LH,2019-03-11,WH
 PS09999,unknown,unknown,en,P0999,G99,PL0999,unknown,unknown,,,,,,,,2018-04-10,MG,2018-11-12,LH
+PS00708,Shaonian yingxiong Bafulike,,zh-Latn-pinyin,P0999,G99,,,,,,,,,,,2019-06-04,WH,2019-06-04,WH
+PS00708,少年英雄巴甫里克,,zh,P0999,G99,,,,,,,,,,,2019-06-04,WH,2019-06-04,WH
+PS00709,Pushkin poetry,,en,P0324,G59,,,,,,,,,The title is probably a typo: 普希金诗抄.,,2019-06-06,WH,2019-06-06,WH
+PS00709,Puxijin shichao,,zh-Latn-pinyin,P0324,G59,,,,,,,,,The title is probably a typo: 普希金诗抄.,,2019-06-06,WH,2019-06-06,WH
+PS00709,普希金诗钞,,zh,P0324,G59,,,,,,,,,The title is probably a typo: 普希金诗抄.,,2019-06-06,WH,2019-06-06,WH
+PS00710,On Richard Nixon,,en,I0117,G44,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2019-06-16,WH,2019-06-16,WH
+PS00710,Nikesong qi ren qi shi,,zh-Latn-pinyin,I0117,G44,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2019-06-16,WH,2019-06-16,WH
+PS00710,尼克松其人其事,,zh,I0117,G44,PL0003,1972,Shanghai renmin chubanshe,,yes,,,,,,2019-06-16,WH,2019-06-16,WH
