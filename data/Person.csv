@@ -1295,6 +1295,14 @@ P0799,Sik,Ota,en,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,,NULL,
 P0799,锡克,锡克,zh,male,NULL,NULL,NULL,NULL,1919,2004,NULL,NULL,PL0600,NULL,,NULL,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,,2019-03-08,LH,2019-03-08,LH
 P0850,Jin,Fan,en,female,unknown,unknown,unknown,unknown,unknown,unknown,Liu Qingfeng,en,,NULL,,,http://www.baike.com/wiki/靳凡%5B作家%5D,ONLINE SOURCE,,,,,,2019-03-12,LH,2019-03-12,LH
 P0850,靳 ,凡 ,zh,female,unknown,unknown,unknown,unknown,unknown,unknown,刘青峰,zh,,NULL,,,http://www.baike.com/wiki/靳凡%5B作家%5D,ONLINE SOURCE,,,,,,2019-03-12,LH,2019-03-12,LH
+P0900,Li,Zhengtian,en,male,no,NULL,NULL,NULL,1942,,NULL,NULL,PL0560,NULL,,NULL,https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%AD%A3%E5%A4%A9,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0900,李,正天,zh,male,no,NULL,NULL,NULL,1942,,NULL,NULL,PL0560,NULL,,NULL,https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%AD%A3%E5%A4%A9,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0901,Chen,Yiyang,en,male,NULL,NULL,NULL,NULL,1947,,NULL,NULL,PL0070,NULL,,NULL,https://baike.baidu.com/item/%E9%99%88%E4%B8%80%E9%98%B3,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0901,陈,一阳,zh,male,NULL,NULL,NULL,NULL,1947,,NULL,NULL,PL0070,NULL,,NULL,https://baike.baidu.com/item/%E9%99%88%E4%B8%80%E9%98%B3,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0902,Wang,Xizhe,en,male,no,NULL,NULL,NULL,1948,,NULL,NULL,PL0006,NULL,,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B8%8C%E5%93%B2,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0902,王,希哲,zh,male,no,NULL,NULL,NULL,1948,,NULL,NULL,PL0006,NULL,,NULL,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B8%8C%E5%93%B2,,,,,He was a member of P0807.,,2019-03-24,WH,2019-06-24,DP
+P0903,Guo,Hongzhi,en,male,NULL,NULL,NULL,NULL,1929,1998,NULL,NULL,PL0561,NULL,,NULL,https://baike.baidu.com/item/%E9%83%AD%E9%B8%BF%E5%BF%97,,,,,,,2019-03-24,WH,2019-06-24,DP
+P0903,郭,鸿志,zh,male,NULL,NULL,NULL,NULL,1929,1998,NULL,NULL,PL0561,NULL,,NULL,https://baike.baidu.com/item/%E9%83%AD%E9%B8%BF%E5%BF%97,,,,,,,2019-03-24,WH,2019-06-24,DP
 P1000,anon,Zhenzhen,zh-Latn-py,female,yes,unknown,unknown,unknown,unknown,unknown,NULL,en,unknown,NULL,,NULL,SS00262,4-67,,,F,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
 P1000,anon,真真,zh,female,yes,unknown,unknown,unknown,unknown,unknown,NULL,en,unknown,NULL,,NULL,SS00262,4-67,,,F,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
 P1001,anon,Lao Ga,zh-Latn-py,male,yes,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,NULL,,NULL,SS00262,4-67,,,F,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
