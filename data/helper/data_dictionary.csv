@@ -1,12 +1,12 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
 Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-07,DP
-Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘anon’. Change all traditional characters to simplified characters.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
+Person,family_name,Commonly used family name (姓). Use ‘anon’ if the family name is missing. Change all traditional characters to simplified characters.,'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
 Person,first_name,First name (名). Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
 Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2018-01-30,DP
-Person,rustication,One of four values related to 知识青年: 'yes' if elligible person underwent rustication; 'no' where elligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
-Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2018-02-01,DP
-Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
+Person,rustication,One of four values related to 知识青年: 'yes' if eligible person underwent rustication; 'no' where eligible person did not; 'unknown' where status of eligible persons is unclear. 'NULL' for ineligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
+Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'. If rustication status is unknown uses approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2018-02-01,DP
+Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'. If rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
 Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no' or 'NULL'; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
@@ -14,12 +14,14 @@ Person,alt_name,Alias limited to one pseudonym per person. Change all traditiona
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2018-01-30,DP
+Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. 'NULL' or empty in case this does not apply (real life persons) 00 if unknown,,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
-Person,source_id_1,Text.text_id of evidential source, URL for online sources.,2017-07-04,LH,2018-02-01,DP
-Person,page_number_1,Page number or range for source_id_1, 'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
+Person,source_id_1,Text.text_id of evidential source,URL for online sources.,2017-07-04,LH,2018-02-01,DP
+Person,page_number_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
 Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
 Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
-Person,commentary,Supplemental information, not for project internal notes.,2017-10-27,OS,2018-01-30,DP
+Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
+Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -50,21 +52,21 @@ SocialRelation,modified_by,acronym of project member last modifying this line,,2
 Membership,inst_ID,the id of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,person_id,the member of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,source_id,source which says that one person was or is a member of the institution,,2018-01-30,OS,2018-01-30,OS
-Membership,page_number,page number of the source in source_id, for online sources write 'ONLINE SOURCE',2018-01-30,OS,2018-01-30,OS
+Membership,page_number,page number of the source in source_id,for online sources write 'ONLINE SOURCE',2018-01-30,OS,2018-01-30,OS
 Membership,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Membership,created,date of creation of line,,2018-01-30,OS,2018-01-30,OS
 Membership,created_by,acronym of project member creating this line,,2018-01-30,OS,2018-01-30,OS
 Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
 Membership,modified_by,acronym of project member last modifying this line,,2018-01-30,OS,2018-01-30,OS
 ,,,,,,,
-ArtWork,artwork_id,AW and a five-digit number (leading zeros), AW09999 is structural entry for unknown artworks,2018-02-09,OS,2018-05-15,MG
-ArtWork,title,Title of an artwork. Change all traditional characters to simplified characters., both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
-ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to simplified characters., both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
-ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). ,,2018-02-09,OS,2018-02-09,OS
+ArtWork,artwork_id,AW and a five-digit number (leading zeros),AW09999 is structural entry for unknown artworks,2018-02-09,OS,2018-05-15,MG
+ArtWork,title,Title of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
+ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
+ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
 ArtWork,person_id,key: Person.person_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,art_form_id,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
-ArtWork,first_performance_place_id,place of first performance or showing key: Place.place_id ,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_place_id,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every artwork before 1949 and after 1980.,,2018-02-09,OS,2018-02-09,OS
 ArtWork,commentary,Space for background information on the trtworkeaxt. If necessary for example a reference to a world premiere of a movie.,,2018-02-09,OS,2018-02-09,OS
 ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
@@ -86,14 +88,15 @@ PrimarySource,prim_source_id,PS and a five-digit number (leading zeros)  PS09999
 PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters. b) title in original language,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,genre_id,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
-PrimarySource,publication_place,place of publication (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
-PrimarySource,publication_date,date of publication (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
-PrimarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publication_place,place of publication (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publication_date,date of publication (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
 PrimarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,source_id,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
-PrimarySource,serial_part,additional citation ranges for serials such as volume or issue,,,,,
+PrimarySource,serial_part,additional citation ranges for serials such as volume or issue,,2017-07-04,LH,2019-06-19,DP
 PrimarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
 PrimarySource,commentary,Space for background information on the text. If necessary for example reference to translation of a poem into English on when a text was written…,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -105,14 +108,15 @@ SecondarySource,sec_source_id,SS and a five-digit number (leading zeros),,2018-0
 SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters.  b) title in original language,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,genre_id,key: Genre.genre_id,,2018-02-09,OS,2018-02-09,OS
-SecondarySource,publication_place,place of publication (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
-SecondarySource,publication_date,date of publication (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
-SecondarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 197), after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_place,place of publication (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_date,date of publication (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 197),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
 SecondarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every publication starting from 1980.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,source_id,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,serial_part,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
 SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -151,9 +155,9 @@ IsoLangCode,last_modified_by,acronym of project member last modifying this line,
 Institution,inst_ID,I and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name,"Generic institutional names in english ( e.g.:  'school', 'university', ‘Chinese Communist Party’) others in pinyin. Change all traditional characters to simplified characters.",,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
-Institution,place_id,the spatial center of the institution‘s activities with a special focus on the time of its founding, key: Place.place_ID,2018-01-30,OS,2018-02-05,MG
+Institution,place_id,the spatial center of the institution‘s activities with a special focus on the time of its founding,key: Place.place_ID,2018-01-30,OS,2018-02-05,MG
 Institution,start,start of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2018-02-05,MG
-Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates), ‚NULL‘ if open-ended,2018-01-30,OS,2018-02-06,MG
+Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates),‚NULL‘ if open-ended,2018-01-30,OS,2018-02-06,MG
 Institution,alt_start,start of alternative name: year in EDTF (if unknown uses approximate and uncertain dates),,2018-02-05,MG,2018-02-05,MG
 Institution,alt_end,end of alternative name: year in EDTF (if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
@@ -197,12 +201,13 @@ Act,action,key: ActType.action_ID,'to  give' in: A gives B a gift,2017-07-04,LH,
 Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,2017-07-25,OS,2018-02-01,DP
 Act,act_target,Person.person_id of targets of act," empty when not applicable, 'B' in: A gives B a gift",2017-07-04,LH,2018-02-01,DP
 Act,start,Year in EDTF when act beginns (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
-Act,end,Year in EDTF when act ends, instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
-Act,substantial_discussion,substantial comment or quotation from source, 'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
+Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
+Act,substantial_discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
-Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘, ‘genre_id‘,2018-04-10,MG,2018-04-10,MG
+Act,fictionality,Add F to mark fictional reading acts. By definition if either Act.agent; or Act.act_object have a fictional character_status or literary_status (F) propert; the resulting Act.act_status is fictional as well. Act.source_status property is insufficient to assert the fictionality of an act. Where real-world personas appear in fictional texts; contributors must indicate evidence for the act_status in Act.commentary,,2019-04-09,MG,2019-06-19,DP
+Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘;‘genre_id‘,,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH

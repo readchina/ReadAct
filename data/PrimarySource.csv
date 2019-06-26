@@ -1,4 +1,4 @@
-prim_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,literary_status,commentary,note,created,created_by,last_modified,last_modified_by
+prim_source_id,title,subtitle,title_lang,person_id,genre_id,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source_id,serial_part,pages,fictionality,commentary,note,created,created_by,last_modified,last_modified_by
 PS00001,Silent China,,en,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2017-07-03,LH,2017-10-02,DP
 PS00001,Wusheng de zhongguo,,zh-Latn-pinyin,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2018-04-25,MG,2018-05-23,MG
 PS00001,无声的中国,,zh,P0001,G01,PL0003,1932,Beixin shuju,1932,no,,,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2017-07-03,LH,2017-10-02,DP
@@ -1176,8 +1176,8 @@ PS00609,饿乡纪程,,zh,P0814,G75,,,,1921,no,,,,,,publication info will be adde
 PS00610,Impressions of The Red Capital,,en,P0814,G75,,,,1924,no,,,,,,publication info will be added later,2019-03-08,MG,2019-03-09,MG
 PS00610,赤都心史,,zh,P0814,G75,,,,1924,no,,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,MG
 PS00611,昨日的我已不是我,,zh,P0006,G10,,,,,,,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,MG
-PS00707,The Third Way,Marxist-Leninist Theory and Modern Industrial Society,en,P0799,G24,,,,unknown,,,,,,,,2019-03-08,LH,2019-03-08,LH
-PS00707,第三道,,zh,P0799,G24,,,,unknown,,,,,,,,2019-03-08,LH,2019-03-08,LH
+PS00707,The Third Way,Marxist-Leninist Theory and Modern Industrial Society,en,P0799,G24,PL0002,1982,Renmin chubanshe,unknown,no,,,,,,,2019-03-08,LH,2019-03-11,WH
+PS00707,第三道,,zh,P0799,G24,PL0002,1982,Renmin chubanshe,unknown,no,,,,,,,2019-03-08,LH,2019-03-11,WH
 PS00708,The Little Mermaid,,en,P0744,G08,,,,1917,,,,,,,,2019-03-12,LH,2019-03-12,LH
 PS00708,海的女儿,,zh,P0744,G08,,,,1917,,,,,,,,2019-03-12,LH,2019-03-12,LH
 PS00709,The Little Match Girl,,en,P0744,G08,,,,1919,,,,,,,,2019-03-12,LH,2019-03-12,LH
