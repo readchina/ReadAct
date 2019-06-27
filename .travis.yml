@@ -31,6 +31,7 @@ script:
   - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/SecondarySource.json
   - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
   - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
+  - csvlint data/NarrativePosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/add-act_status-to-Act.csv/readingdata/NarrativePosition.json
 
 # referential integrity no failures for visual inspection only
 # Act

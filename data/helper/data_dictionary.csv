@@ -21,6 +21,7 @@ Person,page_number_1,Page number or range for source_id_1,'ONLINE SOURCE' if sou
 Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
 Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
 Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
+Person,narrative_position,Narrative position of a fictional character; 'unknown' in case you do not know; 'NULL' for authors and other real life persons.,,2019-06-27,MG,2019-06-27,MG
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -215,3 +216,11 @@ Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+NarrativePosition,nar_pos_id,NP and a four-digit number (leading zeros),,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,nar_pos_name,name of a narrative position,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,note,Internal notes of project members,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,created,date of creation of line,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,created_by,acronym of project member creating this line,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,last_modified,date of last modification,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,last_modified_by,acronym of project member last modifying this line,,2019-06-27,MG,2019-06-27,MG
