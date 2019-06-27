@@ -117,6 +117,7 @@ SecondarySource,source_id,Source of a text i.e. edited volumes or webpages or jo
 SecondarySource,serial_part,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
+SecondarySource,main_narrator,Add either person_id or sec_source_id,,2019-06-27,MG,2019-06-27,MG
 SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -202,6 +203,7 @@ Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,20
 Act,act_target,Person.person_id of targets of act," empty when not applicable, 'B' in: A gives B a gift",2017-07-04,LH,2018-02-01,DP
 Act,start,Year in EDTF when act beginns (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
 Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
+Act,narrative_time,only for narrative events and only if it is different from narrative_age of the act_agent. Year in EDTF.,,2019-06-27,MG,2019-06-27,MG
 Act,substantial_discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
