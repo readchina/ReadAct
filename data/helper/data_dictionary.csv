@@ -21,7 +21,7 @@ Person,page_number_1,Page number or range for source_id_1,'ONLINE SOURCE' if sou
 Person,source_id_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2018-01-30,DP
 Person,page_number_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
 Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
-Person,narrative_position,Narrative position of a fictional character; 'unknown' in case you do not know; 'NULL' for authors and other real life persons.,,2019-06-27,MG,2019-06-27,MG
+Person,narrative_status,Either NarrativePosition or social_position (to give more detailed information) of a fictional character; 'unknown' in case you do not know; 'NULL' for authors and other real life persons.,,2019-06-27,MG,2019-07-07,MG
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -118,7 +118,7 @@ SecondarySource,source_id,Source of a text i.e. edited volumes or webpages or jo
 SecondarySource,serial_part,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,pages,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
-SecondarySource,main_narrator,Add either person_id or sec_source_id,,2019-06-27,MG,2019-06-27,MG
+SecondarySource,main_narrator,Add either person_id or sec_source_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the Person_ID to the commentary line of the act.,,2019-06-27,MG,2019-07-07,MG
 SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -204,7 +204,7 @@ Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,20
 Act,act_target,Person.person_id of targets of act," empty when not applicable, 'B' in: A gives B a gift",2017-07-04,LH,2018-02-01,DP
 Act,start,Year in EDTF when act beginns (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
 Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
-Act,narrative_time,only for narrative events and only if it is different from narrative_age of the act_agent. Year in EDTF.,,2019-06-27,MG,2019-06-27,MG
+Act,narrative_time,Add Narrative age of fictional personas only if the narrative_age of the act_agent is different from the narrative_age recorded in the Person.csv.: 01: childhood / 02: mid-age / 03: old-age.  'NULL' or empty in case this does not apply; 00 if unknown,,2019-06-27,MG,2019-07-07,MG
 Act,substantial_discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
 Act,source_id,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page_number,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
@@ -220,6 +220,7 @@ Act,last_modified_by,acronym of project member last modifying this line,,2017-07
 NarrativePosition,nar_pos_id,N and a two-digit number (leading zeros),,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,nar_pos_name,name of a narrative position,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,note,Internal notes of project members,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,source_link,,,2019-07-07,MG,2019-07-07,MG
 NarrativePosition,created,date of creation of line,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,created_by,acronym of project member creating this line,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,last_modified,date of last modification,,2019-06-27,MG,2019-06-27,MG
