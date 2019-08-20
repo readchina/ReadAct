@@ -39,6 +39,14 @@ script:
 # Act
   - mlr --csv join -j agent -r person_id --np --ul -f data/Act.csv then cut -f agent then uniq -a data/Person.csv
   - mlr --csv join -j action -r action_ID --np --ul -f data/Act.csv then cut -f action then uniq -a data/ActType.csv
+  # Act_object integrity checks add || true once AW and PS validate
+  - mlr --csv join -j act_object -r prim_source_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/PrimarySource.csv | grep --color "PS[0-9]*"
+  - mlr --csv join -j act_object -r artwork_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/ArtWork.csv | grep --color "AW[0-9]*"
+  - mlr --csv join -j act_object -r person_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Person.csv | grep --color "P[0-9]+" || true
+  - mlr --csv join -j act_object -r genre_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Genre.csv | grep --color "G[0-9]+" || true
+  - mlr --csv join -j act_object -r quotation_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Quotation.csv | grep --color "Q[0-9]*" || true
+
+
 
 # Artwork
   - mlr --csv join -j person_id --np --ul -f data/ArtWork.csv then cut -f person_id then uniq -a data/Person.csv
