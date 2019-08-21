@@ -1,23 +1,28 @@
-language: ruby
+dist: bionic
 rvm:
   - 2.4
 
-addons:
-  apt:
-    packages: bats-core
+# addons:
+#   apt:
+#     packages:
+#       - miller
+#       - bats
 
 notifications:
   email: false
 
-# miller needs ubuntu xenial for apt install
+# miller on ubuntu bionic is 5.3 we need 5.4
 before_install:
   - wget https://github.com/johnkerl/miller/releases/download/5.4.0/mlr-5.4.0.tar.gz
   - tar -xzvf mlr-5.4.0.tar.gz
   - pushd mlr-5.4.0 && ./configure --prefix=/usr && make && sudo make install && popd
-
-install:
   - gem install activesupport -v 5.2.3
   - gem install csvlint
+  - npm i -g bats
+
+install:
+  - bats --version
+  - mlr --version
 
 script:
   # validate each file against its schema
@@ -40,5 +45,4 @@ script:
   - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
 
 # referential integrity checks
-  - bats --version
   - bats --tap test/*.bats
