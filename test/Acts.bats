@@ -4,13 +4,13 @@
 # NULL, empty, or unkown are legal values
 # For debugging: mlr --csv uniq -c -g agent data/Act.csv
 
-@test "check person foreign keys in Act.agent" {
+@test "individuals in Act.agent" {
   run mlr --csv join -j agent -r person_id --np --ul -f data/Act.csv then cut -f agent then uniq -a -n data/Person.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }
 
-@test "check act type foreign keys in Act.action" {
+@test "types in Act.action" {
   run mlr --csv join -j action -r action_id --np --ul -f data/Act.csv then cut -f action then uniq -a -n data/ActType.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
@@ -18,32 +18,32 @@
 
 # Since there are multiple types of objects we need to filter for the right kind via grep
 # we need to add || true so that null matches don't mess up the test result
-@test "check primary source foreign keys in Act.act_object" {
+@test "primaries in Act.act_object" {
   result=$(mlr --csv join -j act_object -r prim_source_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/PrimarySource.csv | grep -ow -c "PS[0-9]*" || true)
   [ "$result" -eq 3 ]
 }
 
-@test "check art work foreign keys in Act.act_object" {
+@test "works in Act.act_object" {
   result=$(mlr --csv join -j act_object -r artwork_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/ArtWork.csv | grep -ow -c "AW[0-9]*" || true)
   [ "$result" -eq 1 ]
 }
 
-@test "check person foreign keys in Act.act_object" {
+@test "individuals in Act.act_object" {
   result=$(mlr --csv join -j act_object -r person_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Person.csv | grep -ow -c "P[0-9]+" || true)
   [ "$result" -eq 0 ]
 }
 
-@test "check genre foreign keys in Act.act_object" {
+@test "genres in Act.act_object" {
   result=$(mlr --csv join -j act_object -r genre_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Genre.csv | grep -ow -c "G[0-9]+" || true)
   [ "$result" -eq 0 ]
 }
 
-@test "check quote foreign keys in Act.act_object" {
+@test "quotes in Act.act_object" {
   result=$(mlr --csv join -j act_object -r quotation_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/Quotation.csv | grep -ow -c "Q[0-9]*" || true)
   [ "$result" -eq 0 ]
 }
 
-@test "check secondary source foreign keys in Act.source" {
+@test "secondaries in Act.source" {
   run mlr --csv join -j source -r sec_source_id --np --ul -f data/Act.csv then cut -f source then uniq -a -n data/SecondarySource.csv
   [ "$status" -eq 0 ]
   # URL
