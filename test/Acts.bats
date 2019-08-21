@@ -11,7 +11,7 @@
 }
 
 @test "check act type foreign keys in Act.action" {
-  run mlr --csv join -j action -r action_ID --np --ul -f data/Act.csv then cut -f action then uniq -a -n data/ActType.csv
+  run mlr --csv join -j action -r action_id --np --ul -f data/Act.csv then cut -f action then uniq -a -n data/ActType.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }
@@ -43,8 +43,8 @@
   [ "$result" -eq 0 ]
 }
 
-@test "check secondary source foreign keys in Act.source_id" {
-  run mlr --csv join -j source_id -r sec_source_id --np --ul -f data/Act.csv then cut -f source_id then uniq -a -n data/SecondarySource.csv
+@test "check secondary source foreign keys in Act.source" {
+  run mlr --csv join -j source -r sec_source_id --np --ul -f data/Act.csv then cut -f source then uniq -a -n data/SecondarySource.csv
   [ "$status" -eq 0 ]
   # URL
   [ "${lines[1]}" -eq 1 ]

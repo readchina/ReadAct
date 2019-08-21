@@ -1,4 +1,4 @@
-artwork_id,title,subtitle,title_lang,person_id,art_form_id,first_performance_date,first_performance_place,neibu,commentary,note,created,created_by,last_modified,last_modified_by
+artwork_id,title,subtitle,title_lang,creator,art_form,first_performance_date,first_performance_place,neibu,commentary,note,created,created_by,last_modified,last_modified_by
 AW00058,The Girl of the Mountains (Kenga e naftes),,en,P0081,AF03,,PL0091,yes,,,2018-02-09,OS,2018-02-11,OS
 AW00058,山姑娘,,zh,P0081,AF03,,PL0091,yes,,,2018-02-09,OS,2018-02-11,OS
 AW00079,City Lights,,en,P0158,AF02,196x,,yes,,,2018-02-09,OS,2018-02-09,OS
@@ -24,7 +24,7 @@ AW00088,思故乡,,zh,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
 AW00089,New World Symphony,,en,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
 AW00089,自新世界,,zh,P0305,AF05,1893,PL0050,,,,2018-04-11,WH,2018-04-11,WH
 AW00090,Rome 11 o'clock,,en,P0177,AF02,1956,,no,movie first screened in 1952 (Italy),,2018-04-25,MG,2018-04-25,MG
-AW00090,罗马十一点钟 ,,zh,P0177,AF02,1956,,no,movie first screened in 1952 (Italy),,2018-04-25,MG,2018-04-25,MG
+AW00090,罗马十一点钟,,zh,P0177,AF02,1956,,no,movie first screened in 1952 (Italy),,2018-04-25,MG,2018-04-25,MG
 AW00091,Zigeunerweisen,,en,P0422,AF05,1878,PL0306,yes,,,2018-05-31,DM,2018-05-31,DM
 AW00091,流浪者之歌,,zh,P0422,AF05,1878,PL0306,yes,,,2018-05-31,DM,2018-05-31,DM
 AW00092,Manhunt,,en,P0426,AF02,1976,PL0305,,,,2018-05-31,DM,2018-05-31,DM
@@ -41,7 +41,7 @@ AW00102,流浪者,,zh,P0401,AF02,1955,PL0093,,,,2018-06-12,MG,2018-06-12,MG
 AW00103,Ol‘Man River,,en,P0404,AF05,1927,,,Show tune from the 1927 musical Show boat; Lyrics by: P0405,,2018-06-12,MG,2018-06-12,MG
 AW00103,老人河,,zh,P0404,AF05,1927,,,Show tune from the 1927 musical Show boat; Lyrics by: P0405,,2018-06-12,MG,2018-06-12,MG
 AW00104,The Sparkling Red Star,,en,P0410,AF02,1972,,,,,2018-06-25,MG,2018-06-25,MG
-AW00104,闪闪的红星 ,,zh,P0410,AF02,1972,,,,,2018-06-25,MG,2018-06-25,MG
+AW00104,闪闪的红星,,zh,P0410,AF02,1972,,,,,2018-06-25,MG,2018-06-25,MG
 AW00105,The Shade of the Willow,,en,P0622,AF04,1953,PL0002,no,Translated by project member.,,2018-07-09,MG,2018-11-01,MG
 AW00105,柳荫记,,zh,P0622,AF04,1953,PL0002,no,,,2018-07-09,MG,2018-07-17,MG
 AW00106,Symphony No. 5,,en,P0095,AF05,1808,,,,,2018-08-03,MG,2018-08-03,MG
