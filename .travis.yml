@@ -1,4 +1,6 @@
 language: ruby
+rvm:
+  - 2.4
 
 notifications:
   email: false
@@ -10,6 +12,7 @@ before_install:
   - pushd mlr-5.4.0 && ./configure --prefix=/usr && make && sudo make install && popd
 
 install:
+  - gem install activesupport -v 5.2.3
   - gem install csvlint
 
 script:

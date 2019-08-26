@@ -16,7 +16,7 @@ A00013,P0131,AT01,PS00024,,1975,1975,This book triggered up the authors understa
 A00014,P0014,AT03,PS00024,P0108,1966,19XX,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,SS00012,381,,,,2017-07-25,MG,2018-01-22,MG
 A00015,P0119,AT04,PS00025,,1971,1971,He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. To be or not to be and  not to surrender to the evilness and enemy became his motto.,SS00026,ONLINE SOURCE,,,,2017-07-27,LH,2018-01-22,MG
 A00016,P0058,AT04,PS00025,,19XX,19XX,He came up with the idea of editing quotations of Lu Xun after reading Letters between two,SS00027,ONLINE SOURCE,,,,2017-07-27,LH,2018-01-22,MG
-A00017,P0120,AT04,PS09999,,19XX,19XX,Lu Xun as his most important literary inspiration,SS00030,79,,uknown work by: P0001,LENA,2017-08-01,LH,2018-09-23,MG
+A00017,P0120,AT04,PS09999,,19XX,19XX,Lu Xun as his most important literary inspiration,SS00030,79,,unknown work by: P0001,LENA,2017-08-01,LH,2018-09-23,MG
 A00018,P0029,AT09,PS00028,,1966,1969,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.,SS00029,121,,,,2017-07-28,LH,2018-01-25,MG
 A00768,P0029,AT02,PS00028,,1966,1969,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.,SS00029,121,,,,2017-07-28,LH,2018-09-23,MG
 A00019,P0120,AT01,PS09999,,1954,1956,for the next two years he read many texts by Lu Xun especially his essays.,SS00030,57,,unknown work by: P0001 G28,,2017-07-28,LH,2018-04-10,MG
@@ -246,7 +246,7 @@ A00289,P0003,AT17,AW00085,,1971..,1971..,During his time at labor camp the autho
 A00290,P0132,AT05,PS09999,,[1975..1979],[1975..1979],"A new round of foreign culture swept China in the end of the 1970s, both from the classics and the modern ones.",SS00043,453,2,unknown work by: P0658,,2018-04-11,WH,2018-12-02,WH
 A00291,P0999,AT17,PS00290,,1968,1968,some pupils are reciting this poem while being sent to the labor camp,SS00268,403,2,,,2018-03-17,MG,2018-03-17,MG
 A00292,P0320,AT17,PS00292,,1968,1969,Wu was telling stories from the books she read at home. At the end of the story they were often in tears.,SS00268,424,2,,,2018-03-17,MG,2018-03-17,MG
-A00293,P0320,AT01,PS09999,,1970~,1970~,she learned about aspects of Victorian society such as the widespread poverty and the plight of orphans.,SS00268,452,2,unknown work by: P0160,,2018-03-21,MG,2018-04-10,MG
+A00293,P0320,AT01,PS09999,,1970~,1970~,she learned about aspects of Victorian society such as the widespread poverty and the plight of orphans.,SS00268,452,2,unknown work by: P0160,DP: See #397 ?,2018-03-21,MG,2018-04-10,MG
 A00294,P0322,AT03,PS09999,P0320,1970~,1970~,under her father‘s supervision Mu Aiping started reading the familiy's collection of literature,SS00268,452,2,unknown work by: P0160,,2018-03-21,MG,2018-04-10,MG
 A00295,P0322,AT03,PS09999,P0320,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0323,,2018-03-21,MG,2018-04-10,MG
 A00690,P0320,AT01,PS09999,,1970~,1970~,determined to improve herself intellectually she read everything her father recommended,SS00268,452,2,unknown work by: P0323,,2018-03-21,MG,2018-09-10,DP
@@ -286,7 +286,7 @@ A00327,P0329,AT01,PS09999,,197x,197x,unknown,SS00269,188,2,unknown work & Rodin�
 A00328,P0336,AT03,PS00307,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
 A00329,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,unknown work & Rodin‘s biography G02,Rodin‘s biography,2018-04-03,MG,2018-07-30,MG
 A00330,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,bad pointer see GH #300,2018-04-03,MG,2018-11-12,MG
-A00692,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-09-10,DP
+A00692,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,Fix me! The Primary Source does not exist #394 this might be PS00309,2018-04-03,MG,2018-09-10,DP
 A00693,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-09-10,DP
 A00331,P0329,AT01,PS00309,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00332,P0999,AT03,PS00310,P0329,1970,197x,access via a reference librarian  a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
