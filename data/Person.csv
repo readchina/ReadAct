@@ -10,7 +10,7 @@ P0004,芒,克,zh,male,yes,1969,unknown,PL0022,1950,,姜世伟,zh,PL0020,,,SS0001
 P0005,Peng,Gang,en,male,unknown,NULL,NULL,NULL,1952,,,,PL0002,,,SS00011,79,SS00115,183ff,,Third source: http://comment.artron.net/20080926/n59465.html,2017-07-05,LH,2018-03-13,WH
 P0005,彭,刚,zh,male,unknown,NULL,NULL,NULL,1952,,,,PL0002,,,SS00011,79,SS00115,183ff,,Third source: http://comment.artron.net/20080926/n59465.html,2017-07-05,LH,2018-03-13,WH
 P0006,Tan,Xiaochun,en,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,,2017-07-05,LH,2018-03-13,WH
-P0006,谭,小春,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,,2017-07-05,LH,2018-03-13,WH
+P0006,谭,晓春,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,SS00114,,,The name “谭小春” was presumably a typo in the SS00115. So we choose the name with “晓” to represent this person.,2017-07-05,LH,2019-05-24,WH
 P0007,Cheng,Chuan,en,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,,,,,2017-07-05,LH,2018-02-07,WH
 P0007,呈,川,zh,unknown,unknown,NULL,NULL,NULL,,,,,,,,SS00115,183ff,,,,,2017-07-05,LH,2018-02-07,WH
 P0008,Lu,Zhongnan,en,male,yes,1969,unknown,PL0022,1950,,,,PL0185,,,SS00115,188,https://baike.baidu.com/item/%E5%8D%A2%E4%B8%AD%E5%8D%97,,,,2017-07-05,LH,2018-03-13,WH
@@ -77,8 +77,8 @@ P0038,Wang,Xiulian,en,male,no,NULL,NULL,NULL,,,,,,,,SS00026,ONLINE SOURCE,,,He w
 P0038,王,秀濂,zh,male,no,NULL,NULL,NULL,,,,,,,,SS00026,ONLINE SOURCE,,,He was the group leader of Huang Xiaolong.,,2017-07-05,LH,2018-02-07,WH
 P0039,Dong,Fu,en,male,yes,1969,1970,PL0055,1951,,Wang Dongyu,en,PL0004,,,SS00135,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-03,MG
 P0039,东,夫,zh,male,yes,1969,1970,PL0055,1951,,王东渝,zh,PL0004,,,SS00135,ONLINE SOURCE,,,,,2017-07-05,LH,2018-01-03,MG
-P0040,Jin,Zhong,en,male,NULL,NULL,NULL,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,SS00061,ONLINE SOURCE,http://www.baike.com/wiki/%E9%87%91%E4%B8%AD,ONLINE SOURCE,,"I didn’t find the information about the place of rust, what I found is nothing to do with PL0011.",2017-07-05,LH,2018-03-13,WH
-P0040,金,中,zh,male,NULL,NULL,NULL,PL0011,1926,2008,章世箐,zh,PL0069,,,SS00061,ONLINE SOURCE,http://www.baike.com/wiki/%E9%87%91%E4%B8%AD,ONLINE SOURCE,,"I didn’t find the information about the place of rust, what I found is nothing to do with PL0011.",2017-07-05,LH,2018-03-13,WH
+P0040,Jin,Zhong,en,male,NULL,NULL,NULL,PL0011,1926,2008,Zhang Shijing,en,PL0069,,,SS00061,ONLINE SOURCE,http://www.chinawriter.com.cn/zxhy/member/1725.shtml,ONLINE SOURCE,,,2017-07-05,LH,2019-04-28,WH
+P0040,金,中,zh,male,NULL,NULL,NULL,PL0011,1926,2008,章世箐,zh,PL0069,,,SS00061,ONLINE SOURCE,http://www.chinawriter.com.cn/zxhy/member/1725.shtml,ONLINE SOURCE,,,2017-07-05,LH,2019-04-28,WH
 P0041,Zhao,Xiaoling,en,female,yes,1969,"[1972,1973]",PL0012,1947,,,,PL0012,,,SS00119,ONLINE SOURCE,https://book.douban.com/subject/3200202/,,,,2017-07-05,LH,2018-03-13,WH
 P0041,赵,晓铃,zh,female,yes,1969,"[1972,1973]",PL0012,1947,,,,PL0012,,,SS00119,ONLINE SOURCE,https://book.douban.com/subject/3200202/,,,,2017-07-05,LH,2018-03-13,WH
 P0042,Cao,Ying,en,male,NULL,NULL,NULL,NULL,1923,2015,Sheng Junfeng,en,PL0190,,,SS00119,ONLINE SOURCE,https://baike.baidu.com/item/%E8%8D%89%E5%A9%B4,,,,2017-07-05,LH,2018-03-13,WH
@@ -214,8 +214,8 @@ P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wiki
 P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,,2017-07-12,OS,2018-01-08,MG
 P0107,Wang,Shiqiang,en,male,NULL,NULL,NULL,NULL,1979,,,,PL0152,,,"http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549",,,,,He interviewed 芒克.,2017-07-12,OS,2018-03-13,WH
 P0107,王,士强,zh,male,NULL,NULL,NULL,NULL,1979,,,,PL0152,,,"http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549",,,,,He interviewed 芒克.,2017-07-12,OS,2018-03-13,WH
-P0108,Xu,Xiao,en,female,unknown,NULL,NULL,NULL,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don�t know yet if she has been rusticated.",2017-07-12,OS,2018-02-07,WH
-P0108,徐,晓,zh,female,unknown,NULL,NULL,NULL,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,"she was a teacher after her study, but I don�t know yet if she has been rusticated.",2017-07-12,OS,2018-02-07,WH
+P0108,Xu,Xiao,en,female,yes,1969..1971,..1975,unknown,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
+P0108,徐,晓,zh,female,yes,1969..1971,..1975,unknown,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
 P0109,Shu,Ting,en,female,yes,1969,1972,PL0999,1952,,Gong Peiyu,en,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2018-11-13,MG
 P0109,舒,婷,zh,female,yes,1969,1972,PL0999,1952,,龚佩瑜,zh,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2018-11-13,MG
 P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,,2017-07-19,LH,2018-01-08,MG
@@ -295,18 +295,18 @@ P0166,Wu,,en,female,NULL,NULL,NULL,NULL,,,,,,,,SS00029,116,,,,,2017-10-03,MG,201
 P0166,巫,,zh,female,NULL,NULL,NULL,NULL,,,,,,,,SS00029,116,,,,,2017-10-03,MG,2018-10-25,DP
 P0167,Yan,Wenliang,en,male,NULL,NULL,NULL,NULL,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,,,,2017-10-03,MG,2018-02-07,WH
 P0167,颜,文樑,zh,male,NULL,NULL,NULL,NULL,1893,1988,,,PL0082,,,https://zh.wikipedia.org/wiki/%E9%A1%8F%E6%96%87%E6%A8%91,,,,,,2017-10-03,MG,2018-02-07,WH
-P0168,Xiao,Xia,en,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00133,ONLINE SOURCE,,,,CHECK GENDER,2017-10-03,MG,2018-10-25,DP
-P0168,小,霞,zh,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00133,ONLINE SOURCE,,,,,2018-02-19,MG,2018-10-25,DP
-P0169,Wang,Hanying,en,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00207,ONLINE SOURCE,,,,CHECK GENDER,2017-10-03,MG,2018-10-25,DP
-P0169,汪,含英,zh,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00207,ONLINE SOURCE,,,,CHECK GENDER,2018-02-19,MG,2018-10-25,DP
-P0171,Teacher Ling,,en,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-10-25,DP
-P0171,凌老师,,zh,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,CHECK GENDER,2017-10-03,MG,2018-10-25,DP
+P0168,Xiao,Xia,en,female,NULL,NULL,NULL,NULL,,,,,,,,SS00133,ONLINE SOURCE,,,,,2017-10-03,MG,2019-04-28,WH
+P0168,小,霞,zh,female,NULL,NULL,NULL,NULL,,,,,,,,SS00133,ONLINE SOURCE,,,,,2018-02-19,MG,2019-04-28,WH
+P0169,Wang,Hanying,en,female,NULL,NULL,NULL,NULL,,,,,,,,SS00207,ONLINE SOURCE,,,,,2017-10-03,MG,2019-04-28,WH
+P0169,汪,含英,zh,female,NULL,NULL,NULL,NULL,,,,,,,,SS00207,ONLINE SOURCE,,,,,2018-02-19,MG,2019-04-28,WH
+P0171,Teacher Ling,,en,female,NULL,NULL,NULL,NULL,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,,2017-10-03,MG,2019-04-28,WH
+P0171,凌老师,,zh,female,NULL,NULL,NULL,NULL,,,,,,,,SS00006,136?,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,,2017-10-03,MG,2019-04-28,WH
 P0172,anon,Zhenzhen,en,unknown,NULL,NULL,NULL,NULL,,,,,,,,http://none,,,,,CHECK GENDER,2017-10-03,MG,2018-11-01,MG
 P0173,Liu,Nina,en,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
 P0173,刘,妮娜,zh,female,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,,NULL,NULL,SS00006,137,,,,,2017-10-03,MG,2018-07-04,MG
 P0174,Mao,Zedong,en,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,ONLINE SOURCE,,,,,2017-10-03,MG,2017-12-23,MG
 P0174,毛,泽东,zh,male,NULL,NULL,NULL,NULL,1893,1976,NULL,NULL,PL0080,NULL,NULL,https://en.wikipedia.org/wiki/Mao_Zedong,ONLINE SOURCE,,,,,2017-10-03,MG,2017-12-23,MG
-P0175,Peng,Yilin,en,unknown,NULL,NULL,NULL,NULL,,,,,,,,SS00154,532,,,,CHECK GENDER,2017-10-03,MG,2018-10-25,DP
+P0175,Peng,Yilin,en,male,NULL,NULL,NULL,NULL,,,,,,,,SS00154,532,,,,,2017-10-03,MG,2019-04-28,WH
 P0176,Dedijer,Vladimir,en,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
 P0176,杰吉耶尔,弗拉吉米尔,zh,male,NULL,NULL,NULL,NULL,1914,1990,NULL,NULL,PL0088,NULL,NULL,https://de.wikipedia.org/wiki/Vladimir_Dedijer,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
 P0177,De Santis,Giuseppe,it,male,NULL,NULL,NULL,NULL,1917,1997,NULL,NULL,PL0086,NULL,NULL,https://de.wikipedia.org/wiki/Giuseppe_De_Santis,ONLINE SOURCE,,,,,2017-10-08,MG,2017-12-23,MG
@@ -511,8 +511,8 @@ P0265,김,일성,ko,male,NULL,NULL,NULL,NULL,1912,1994,NULL,NULL,PL0175,NULL,NUL
 P0265,金,日成,zh,male,NULL,NULL,NULL,NULL,1912,1994,NULL,NULL,PL0175,NULL,NULL,https://en.wikipedia.org/wiki/Kim_Il-sung,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
 P0266,Wong,Jan,en,male,NULL,NULL,NULL,NULL,1952,,NULL,NULL,PL0176,NULL,NULL,https://en.wikipedia.org/wiki/Jan_Wong,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
 P0266,黃,明珍,zh,male,NULL,NULL,NULL,NULL,1952,,NULL,NULL,PL0176,NULL,NULL,https://en.wikipedia.org/wiki/Jan_Wong,ONLINE SOURCE,,,,,2018-02-16,OS,2018-02-16,OS
-P0267,Li,Baiying,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,could not find a source to this person,2018-02-16,OS,2018-11-13,MG
-P0267,李,白英,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,could not find a source to this person,2018-02-16,OS,2018-11-13,MG
+P0267,Li,Baiying,en,male,NULL,NULL,NULL,NULL,1903,1981,Li Cheng,en,PL0181,NULL,NULL,https://baike.baidu.com/item/%E6%9D%8E%E7%99%BD%E8%8B%B1,,,,,,2018-02-16,OS,2019-04-28,WH
+P0267,李,白英,zh,male,NULL,NULL,NULL,NULL,1903,1981,李澄,zh,PL0181,NULL,NULL,https://baike.baidu.com/item/%E6%9D%8E%E7%99%BD%E8%8B%B1,,,,,,2018-02-16,OS,2019-04-28,WH
 P0268,Kochetov,Vsevolod,en,male,NULL,NULL,NULL,NULL,1912,1973,NULL,NULL,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
 P0268,Ко́четов,Все́волод,ru,male,NULL,NULL,NULL,NULL,1912,1973,NULL,NULL,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-02-19,OS
 P0268,柯切托夫,弗谢沃洛德,zh,male,NULL,NULL,NULL,NULL,1912,1973,弗．阿．弗谢沃洛德,zh,PL0177,NULL,NULL,https://en.wikipedia.org/wiki/Vsevolod_Kochetov,ONLINE SOURCE,,,,,2018-02-19,OS,2018-12-18,DP
@@ -1162,9 +1162,9 @@ P0692,莫奈,克勞德,zh,male,NULL,NULL,NULL,NULL,1840,1926,NULL,NULL,PL0047,NU
 P0693,Modigliani,Amedeo,it,male,NULL,NULL,NULL,NULL,1885,1920,NULL,NULL,PL0436,NULL,NULL,https://en.wikipedia.org/wiki/Amedeo_Modigliani,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
 P0693,莫迪利亚尼,阿梅代奥,zh,male,NULL,NULL,NULL,NULL,1885,1920,NULL,NULL,PL0436,NULL,NULL,https://en.wikipedia.org/wiki/Amedeo_Modigliani,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
 P0694,Mazas,Jacques Féréol,fr,male,NULL,NULL,NULL,NULL,1782,1849,NULL,NULL,PL0437,NULL,NULL,https://en.wikipedia.org/wiki/Jacques_F%C3%A9r%C3%A9ol_Mazas,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
-P0694,马扎斯,雅克,zh,male,NULL,NULL,NULL,NULL,1782,1849,NULL,NULL,PL0437,NULL,NULL,https://en.wikipedia.org/wiki/Jacques_F%C3%A9r%C3%A9ol_Mazas,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
-P0695,Ma,Xinglin,en,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://none,ONLINE SOURCE,,,,maybe there is some info on this page: http://www.difangwenge.org/read.php?tid=2988&page=e,2018-12-17,MG,2018-12-17,MG
-P0695,马,星临,zh,male,unknown,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://none,ONLINE SOURCE,,,,maybe there is some info on this page: http://www.difangwenge.org/read.php?tid=2988&page=e,2018-12-17,MG,2018-12-17,MG
+P0694,马扎斯,雅克 ,zh,male,NULL,NULL,NULL,NULL,1782,1849,NULL,NULL,PL0437,NULL,NULL,https://en.wikipedia.org/wiki/Jacques_F%C3%A9r%C3%A9ol_Mazas,ONLINE SOURCE,,,,,2018-12-17,MG,2018-12-17,MG
+P0695,Ma,Xinglin,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,"He was nearly 50 years old around 1979, so he was probably born in 192x..193x.",,2018-12-17,MG,2019-04-28,WH
+P0695,马,星临,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0999,NULL,NULL,http://www.difangwenge.org/read.php?tid=2988&page=e,ONLINE SOURCE,,,"He was nearly 50 years old around 1979, so he was probably born in 192x..193x.",,2018-12-17,MG,2019-04-28,WH
 P0696,Mach,Ernst,de,male,NULL,NULL,NULL,NULL,1838,1916,NULL,NULL,PL0438,NULL,NULL,https://en.wikipedia.org/wiki/Ernst_Mach,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
 P0696,马赫,恩斯特,zh,male,NULL,NULL,NULL,NULL,1838,1916,NULL,NULL,PL0438,NULL,NULL,https://en.wikipedia.org/wiki/Ernst_Mach,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
 P0697,Machtet,Grigori,en,male,NULL,NULL,NULL,NULL,1852,1901,NULL,NULL,PL0439,NULL,NULL,https://en.wikipedia.org/wiki/Grigori_Machtet,ONLINE SOURCE,,,,,2018-12-30,MG,2018-12-30,MG
@@ -1217,12 +1217,12 @@ P0774,Xu,Liangying,en,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,N
 P0774,许,良英,zh,male,NULL,NULL,NULL,NULL,1920,2013,NULL,NULL,PL0546,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%AE%B8%E8%89%AF%E8%8B%B1,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,Xu,Zhimo,en,male,NULL,NULL,NULL,NULL,1897,1931,Xu Zhangxu,en,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
 P0775,徐,志摩,zh,male,NULL,NULL,NULL,NULL,1897,1931,徐章垿,zh,PL0547,NULL,NULL,https://zh.wikipedia.org/zh/%E5%BE%90%E5%BF%97%E6%91%A9,,,,,,2019-01-26,WH,2019-01-26,WH
-P0801,Huang,Ai,en,unknown,unknown,NULL,NULL,NULL,1919,2008,Huang Yushi,en,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
-P0801,黄,爱,zh,unknown,unknown,NULL,NULL,NULL,1919,2008,黄 雨石,zh,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0801,Huang,Ai,en,male,NULL,NULL,NULL,NULL,1919,2008,Huang Yushi,en,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,,2019-02-11,MG,2019-04-28,WH
+P0801,黄,爱,zh,male,NULL,NULL,NULL,NULL,1919,2008,黄雨石,zh,PL0442,NULL,NULL,https://baike.baidu.com/item/%E9%BB%84%E9%9B%A8%E7%9F%B3,,,,,,2019-02-11,MG,2019-04-28,WH
 P0802,Jin,Jingmai,en,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
 P0802,金,敬迈,zh,male,unknown,NULL,NULL,NULL,1930,,NULL,NULL,PL0090,NULL,NULL,https://baike.baidu.com/item/%E9%87%91%E6%95%AC%E8%BF%88/5583009,,,,,,2019-02-11,MG,2019-02-11,MG
-P0803,Akio,Shintani,en,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
-P0803,明生,新谷,zh,unknown,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,http://none,,,,,add info later,2019-02-11,MG,2019-02-11,MG
+P0803,Akio,Shintani,en,male,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,https://webun.jp/item/7215200,,,,,,2019-02-11,MG,2019-04-28,WH
+P0803,明生,新谷,zh,male,NULL,NULL,NULL,NULL,unknown,,NULL,NULL,PL0999,NULL,NULL,https://webun.jp/item/7215200,,,,,,2019-02-11,MG,2019-04-28,WH
 P0804,Kong,Shangren,en,male,NULL,NULL,NULL,NULL,1648,1718,NULL,NULL,PL0098,NULL,NULL,https://en.wikipedia.org/wiki/Kong_Shangren,,,,,,2019-02-18,MG,2019-02-18,MG
 P0804,孔,尚任,zh,male,NULL,NULL,NULL,NULL,1648,1718,NULL,NULL,PL0098,NULL,NULL,https://en.wikipedia.org/wiki/Kong_Shangren,,,,,,2019-02-18,MG,2019-02-18,MG
 P0805,Kontarsky,Aloys,de,male,NULL,NULL,NULL,NULL,1931,2017,NULL,NULL,PL0443,NULL,NULL,https://de.wikipedia.org/wiki/Aloys_Kontarsky,,,,,,2019-02-18,MG,2019-02-18,MG
