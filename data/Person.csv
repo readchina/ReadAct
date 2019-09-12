@@ -1319,4 +1319,10 @@ P1008,anon,anon,en,male,no,NULL,NULL,NULL,19xx,,Le Vieux Meunier,fr,PL0006,,3,,S
 P1009,anon,anon,en,male,no,NULL,NULL,NULL,19xx,,Le Tailleur,fr,PL0006,,3,,SS00263,28,,,F,S08,,,2019-08-03,MG,2019-08-03,MG
 P1010,anon,anon,en,female,no,NULL,NULL,NULL,19xx,,NULL,NULL,PL0006,,3,,SS00263,56,,,F,S03,Luo‘s aunt,,2019-08-03,MG,2019-08-03,MG
 P1011,anon,anon,en,female,no,NULL,NULL,NULL,19xx,,NULL,NULL,unknown,,3,,SS00263,92f,,,F,S03,Le Binoclard‘s mother,,2019-08-03,MG,2019-08-03,MG
-P1012,Melville,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P1012,Melville,Herman,en,male,NULL,NULL,NULL,NULL,1819,1891,NULL,NULL,PL0050,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,,2019-08-03,MG,2019-09-12,MG
+P1012,梅尔维尔,赫尔曼,zh,male,NULL,NULL,NULL,NULL,1819,1891,NULL,NULL,PL0050,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
+P1013,Defoe,Daniel,en,male,NULL,NULL,NULL,NULL,1659..1660,1731,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/Daniel_Defoe,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
+P1013,笛福,丹尼尔,zh,male,NULL,NULL,NULL,NULL,1659..1660,1731,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/Daniel_Defoe,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
+P1014,Cervantes,Miguel de,ep,male,NULL,NULL,NULL,NULL,1547,1616,NULL,NULL,PL0600,,,,https://en.wikipedia.org/wiki/Miguel_de_Cervantes,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
+P1014,塞万提斯,米格尔 德,zh,male,NULL,NULL,NULL,NULL,1547,1616,NULL,NULL,PL0600,,,,https://en.wikipedia.org/wiki/Miguel_de_Cervantes,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
+P1015,,兰陵笑笑生,zh,male,NULL,NULL,NULL,NULL,1530,1600,NULL,NULL,PL0999,,,,https://baike.baidu.com/item/%E5%85%B0%E9%99%B5%E7%AC%91%E7%AC%91%E7%94%9F,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
