@@ -214,8 +214,8 @@ P0106,Han,Shaogong,en,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wiki
 P0106,韩,少功,zh,male,yes,1968,1974,PL0052,1953,,,,PL0051,,,https://en.wikipedia.org/wiki/Han_Shaogong,,,,,,2017-07-12,OS,2018-01-08,MG
 P0107,Wang,Shiqiang,en,male,NULL,NULL,NULL,NULL,1979,,,,PL0152,,,"http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549",,,,,He interviewed 芒克.,2017-07-12,OS,2018-03-13,WH
 P0107,王,士强,zh,male,NULL,NULL,NULL,NULL,1979,,,,PL0152,,,"http://www.poemlife.com/libshow-2277.htm,,https://baike.baidu.com/item/%E7%8E%8B%E5%A3%AB%E5%BC%BA/9074549",,,,,He interviewed 芒克.,2017-07-12,OS,2018-03-13,WH
-P0108,Xu,Xiao,en,female,yes,1969..1971,..1975,unknown,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
-P0108,徐,晓,zh,female,yes,1969..1971,..1975,unknown,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
+P0108,Xu,Xiao,en,female,yes,1969..1971,..1975,PL0999,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
+P0108,徐,晓,zh,female,yes,1969..1971,..1975,PL0999,1954,,,,PL0003,,,SS00012,154,http://www.china.com.cn/chinese/RS/736605.htm,ONLINE SOURCE,,,2017-07-12,OS,2019-04-28,WH
 P0109,Shu,Ting,en,female,yes,1969,1972,PL0999,1952,,Gong Peiyu,en,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2018-11-13,MG
 P0109,舒,婷,zh,female,yes,1969,1972,PL0999,1952,,龚佩瑜,zh,PL0056,,,https://en.wikipedia.org/wiki/Shu_Ting,,,,,,2017-07-18,LH,2018-11-13,MG
 P0110,Gorky,Maxim,en,male,NULL,NULL,NULL,NULL,1868,1936,,,PL0057,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,,2017-07-19,LH,2018-01-08,MG
