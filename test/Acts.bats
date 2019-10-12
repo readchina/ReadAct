@@ -20,12 +20,12 @@
 # we need to add || true so that null matches don't mess up the test result
 @test "primaries in Act.act_object" {
   result=$(mlr --csv join -j act_object -r prim_source_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/PrimarySource.csv | grep -ow -c "PS[0-9]*" || true)
-  [ "$result" -eq 3 ]
+  [ "$result" -eq 2 ]
 }
 
 @test "works in Act.act_object" {
   result=$(mlr --csv join -j act_object -r artwork_id --np --ul -f data/Act.csv then cut -f act_object then uniq -a data/ArtWork.csv | grep -ow -c "AW[0-9]*" || true)
-  [ "$result" -eq 1 ]
+  [ "$result" -eq 0 ]
 }
 
 @test "individuals in Act.act_object" {
