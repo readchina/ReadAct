@@ -4,7 +4,7 @@ Person,family_name,"Commonly used family name (姓), if the family name is missi
 Person,first_name,First name (名). Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
 Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,sex,'male' or 'female'. If you have encountered any other possibility please open an issue. :-),,2017-10-14,OS,2018-01-30,DP
-Person,rustication,One of four values related to 知识青年: 'yes' if elligible person underwent rustication; 'no' where elligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
+Person,rustication,One of four values related to 知识青年: 'yes' if eligible person underwent rustication; 'no' where eligible person did not; 'unknown' where status of elligible persons is unclear. 'NULL' for ineligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
 Person,rustication_start,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2018-02-01,DP
 Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is either 'no' or 'NULL'; if rustication status is unknown uses approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
 Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no'; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
@@ -14,11 +14,15 @@ Person,alt_name,Alias limited to one pseudonym per person. Change all traditiona
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2018-01-30,DP
+Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. 'NULL' or empty in case this does not apply (real life persons) 00 if unknown,,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unkown' if unknown; 'NULL' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2018-01-30,DP
 Person,source_1,Text.text_id of evidential source,URL for online sources.,2017-07-04,LH,2019-08-20,DP
 Person,Page_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
 Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-20,DP
 Person,Page_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
+Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
+Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
+Person,narrative_status,Either NarrativePosition or social_position (to give more detailed information) of a fictional character; 'unknown' in case you do not know; 'NULL' for authors and other real life persons.,,2019-06-27,MG,2019-07-07,MG
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -26,7 +30,7 @@ Person,created_by,acronym of project member creating this line,,2017-07-04,LH,20
 Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-SocialPosition,soc_pos_id,SP and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_id,S and a two-digit number (leading zeros),,2017-07-04,LH,2019-06-27,MG
 SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -96,6 +100,7 @@ PrimarySource,neibu,yes/no whether this was originally a neibu publication. Add 
 PrimarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2017-07-04,LH,2018-01-18,OS
 PrimarySource,serial,additional citation ranges for serials such as volume or issue,,2017-07-05,LH,2019-08-20,DP
 PrimarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
 PrimarySource,commentary,Space for background information on the text. If necessary for example reference to translation of a poem into English on when a text was written…,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 PrimarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -117,6 +122,8 @@ SecondarySource,neibu,yes/no whether this was originally a neibu publication. Ad
 SecondarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographies and novels.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,serial,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,fictionality,Add F for fictional texts; e.g. The Book of Spells in Harry Potter. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
+SecondarySource,main_narrator,Add either person_id or sec_source_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the Person_ID to the commentary line of the act.,,2019-06-27,MG,2019-07-07,MG
 SecondarySource,commentary,Space for background information on the text. For example if the title was translated by a project member.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -155,7 +162,7 @@ IsoLangCode,last_modified_by,acronym of project member last modifying this line,
 Institution,inst_id,I and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name,"Generic institutional names in english ( e.g.:  'school', 'university', ‘Chinese Communist Party’) others in pinyin. Change all traditional characters to simplified characters.",,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
-Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding,key: Place.place_ID,2018-01-30,OS,2018-02-05,MG
+Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding,key: Place.place_id,2018-01-30,OS,2018-02-05,MG
 Institution,start,start of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2018-02-05,MG
 Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates),‚NULL‘ if open-ended,2018-01-30,OS,2018-02-06,MG
 Institution,alt_start,start of alternative name: year in EDTF (if unknown uses approximate and uncertain dates),,2018-02-05,MG,2018-02-05,MG
@@ -202,13 +209,24 @@ Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,20
 Act,act_target,Person.person_id of targets of act," empty when not applicable, 'B' in: A gives B a gift",2017-07-04,LH,2018-02-01,DP
 Act,start,Year in EDTF when act beginns (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
 Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
+Act,narrative_time,Add Narrative age of fictional personas only if the narrative_age of the act_agent is different from the narrative_age recorded in the Person.csv.: 01: childhood / 02: mid-age / 03: old-age.  'NULL' or empty in case this does not apply; 00 if unknown,,2019-06-27,MG,2019-07-07,MG
 Act,substantial_discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
 Act,source,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
 Act,source_status,Genre_type of the source. '01' for informational works / '02' for literary non-fiction / '03' for fiction,01: http://id.loc.gov/authorities/genreForms/gf2014026113.html / 02: http://id.loc.gov/authorities/genreForms/gf2014026074.html / 03: http://id.loc.gov/authorities/genreForms/gf2014026339.html,2018-01-31,MG,2018-03-08,MG
-Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘,‘genre_id‘,2018-04-10,MG,2018-04-10,MG
+Act,fictionality,Add F to mark fictional reading acts. By definition if either Act.agent; or Act.act_object have a fictional character_status or literary_status (F) propert; the resulting Act.act_status is fictional as well. Act.source_status property is insufficient to assert the fictionality of an act. Where real-world personas appear in fictional texts; contributors must indicate evidence for the act_status in Act.commentary,,2019-04-09,MG,2019-06-19,DP
+Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘;‘genre_id‘,,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+NarrativePosition,nar_pos_id,N and a two-digit number (leading zeros),,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,nar_pos_name,name of a narrative position,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,note,Internal notes of project members,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,source,,,2019-07-07,MG,2019-07-07,MG
+NarrativePosition,created,date of creation of line,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,created_by,acronym of project member creating this line,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,last_modified,date of last modification,,2019-06-27,MG,2019-06-27,MG
+NarrativePosition,last_modified_by,acronym of project member last modifying this line,,2019-06-27,MG,2019-06-27,MG
