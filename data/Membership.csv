@@ -1,4 +1,4 @@
-inst_ID,person_id,source_id,page_number,note,created,created_by,last_modified,last_modified_by
+institution,member,source,page,note,created,created_by,last_modified,last_modified_by
 I0005,P0004,SS00129,611,,2018-01-30,OS,2018-01-30,OS
 I0005,P0010,SS00129,611,,2018-01-30,OS,2018-01-30,OS
 I0005,P0012,SS00129,611,,2018-01-30,OS,2018-01-30,OS

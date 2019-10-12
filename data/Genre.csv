@@ -1,4 +1,4 @@
-genre_id,genre_name,genre_name_lang,genre_type,source_link,created,created_by,last_modified,last_modified_by
+genre_id,genre_name,genre_name_lang,genre_type,source,created,created_by,last_modified,last_modified_by
 G01,Non-literary essay,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026094.html,2017-07-03,LH,2018-03-01,MG
 G43,biography,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026049.html,2017-07-03,LH,2018-10-18,MG
 G02,biography,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85014164.html,2018-03-07,MG,2018-03-08,MG

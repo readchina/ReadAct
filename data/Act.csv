@@ -1,4 +1,4 @@
-act_ID,agent,action,act_object,act_target,start,end,substantial_discussion,source_id,page_number,source_status,commentary,note,created,created_by,last_modified,last_modified_by
+act_id,agent,action,act_object,act_target,start,end,substantial_discussion,source,page,source_status,commentary,note,created,created_by,last_modified,last_modified_by
 A00001,P0063,AT01,PS00002,,1973,1973,A student was criticized while reading this American textbook in public. The author takes this book as an example of how volatile the attitude towards studying English was even/especially (?) at the East China Normal University’s Foreign Languages Department in 1973. She also states that it was forbidden to listen to foreign broadcasting stations or to foreigners in general. So the only way listening to English was the  single official radio station broadcasting in English.,SS00003,196f,,,,2017-07-12,OS,2017-10-02,OS
 A00002,P0106,AT01,PS00004,,1972,1976,mentions it among others as an important reading for him and his zhiqing fellows,SS00007,581,,,,2017-07-12,OS,2017-07-12,OS
 A00003,P0017,AT01,PS09999,,1968,1978,mentions it among others as an important reading for the whole development in the field of literature after 1978,SS00009,219,,unknown work by: P0077 G10,,2017-07-12,OS,2018-04-10,MG
@@ -130,7 +130,7 @@ A00173,P0031,AT01,PS00198,,1969,1969,Huang read Dimitrov when in L0002,SS00257,O
 A00174,P0029,AT16,PS00200,,1964,1966,He read it around the beginning of the CR and mentions that this book was one of the most-beloved and widely-read among his book friends.,SS00029,118-119,2,,,2018-02-05,OS,2018-02-05,OS
 A00175,P0108,AT04,PS00199,,1966,1968,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevskys novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,SS00012,158f,2,,,2018-02-05,OS,2018-10-30,MG
 A00176,P0062,AT01,PS00202,,1974,1974,after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.,SS00113,477,2,,,2018-02-06,OS,2018-02-06,OS
-A00177,P0237,AT18,PS00204,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.,http://www.xujuneberlein.com/rem51.html#B,ONLINE SOURCE,2,,,2018-02-06,OS,2018-02-06,OS
+A00177,P0237,AT18,PS09999,,1970,1970,Yuan went to the Beijing (National?) library to borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.,http://www.xujuneberlein.com/rem51.html#B,ONLINE SOURCE,2,,see #399 was PS00204,2018-02-06,OS,2019-10-12,DP
 A00178,P0029,AT17,PS00203,P0999,1969,1972,Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.,SS00029,122,2,,,2018-02-06,OS,2018-02-06,OS
 A00179,P0999,AT17,PS00203,P0238,1968?,1975?,Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book therefore nobody knew whether the story was correct.,SS00205,121,2,,,2018-02-06,OS,2018-02-06,OS
 A00180,P0999,AT17,PS00203,P0999,1968,1979,The Monte Christo counted among the most-sought after stories yet it was very hard to obtain. There were some Master story tellers who would profit a lot from being able to vividly retell these stories as a whole.,SS00005,572,2,,,2018-02-06,OS,2018-02-06,OS
@@ -286,7 +286,7 @@ A00327,P0329,AT01,PS09999,,197x,197x,unknown,SS00269,188,2,unknown work & Rodin�
 A00328,P0336,AT03,PS00307,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,,2018-04-03,MG,2018-04-03,MG
 A00329,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,unknown work & Rodin‘s biography G02,Rodin‘s biography,2018-04-03,MG,2018-07-30,MG
 A00330,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,bad pointer see GH #300,2018-04-03,MG,2018-11-12,MG
-A00692,P0336,AT03,PS00308,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,Fix me! The Primary Source does not exist #394 this might be PS00309,2018-04-03,MG,2018-09-10,DP
+A00692,P0336,AT03,PS09999,P0329,197x,197x,he was interested in the fact of having access to banned books,SS00269,188,2,,Fix me! The Primary Source does not exist #394 this might be PS00309,2018-04-03,MG,2018-09-10,DP
 A00693,P0999,AT03,PS00309,P0329,1970,197x,access via a reference librarian a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-09-10,DP
 A00331,P0329,AT01,PS00309,,1970,197x,,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
 A00332,P0999,AT03,PS00310,P0329,1970,197x,access via a reference librarian  a friend of the family,SS00269,189,2,,,2018-04-03,MG,2018-04-03,MG
@@ -334,10 +334,10 @@ A00373,P0029,AT05,PS00330,,1960~,1965..1969,Wu Hong mentions that this book was 
 A00374,P0140,AT05,PS00330,,197x,197x,,SS00157,79,2,,,2018-04-09,MG,2018-04-09,MG
 A00375,P0003,AT05,PS00330,,197x,197x,,SS00185,129,2,,,2018-04-09,MG,2018-04-09,MG
 A00376,P0140,AT05,PS00331,,197x,197x,,SS00157,60,2,,,2018-04-09,MG,2018-04-09,MG
-A00377,P0166,AT03,PS00294,P0029,1960..1966,1966,from her private collection,SS00029,116,2,,,2018-04-09,MG,2018-04-09,MG
-A00378,P0106,AT01,PS00294,,1967,1967,,SS00005,569,2,,,2018-04-09,MG,2018-04-09,MG
-A00694,P0106,AT12,PS00294,,1967~,196x..197x,the authors home was plundered and all of his collections were confiscated by the red guards,SS00005,569,2,,,2018-04-09,MG,2018-09-10,DP
-A00379,P0216,AT05,PS00294,,197x,197x,,SS00159,372,2,,,2018-04-09,MG,2018-04-09,MG
+A00377,P0166,AT03,PS09999,P0029,1960..1966,1966,from her private collection,SS00029,116,2,,see #399 unknown source was: PS00294,2018-04-09,MG,2019-10-12,DP
+A00378,P0106,AT01,PS09999,,1967,1967,,SS00005,569,2,,see #399 unknown source was: PS00294,2018-04-09,MG,2019-10-12,DP
+A00694,P0106,AT12,PS09999,,1967~,196x..197x,the authors home was plundered and all of his collections were confiscated by the red guards,SS00005,569,2,,see #399 unknown source was: PS00294,2018-04-09,MG,2018-09-10,DP
+A00379,P0216,AT05,PS09999,,197x,197x,,SS00159,372,2,,see #399 unknown source was: PS00294,2018-04-09,MG,2019-10-12,DP
 A00380,P0348,AT01,PS00333,,1971,1971,,SS00270,?,2,,,2018-04-09,MG,2018-04-09,MG
 A00381,P0139,AT05,PS00333,,196x,197x,,SS00152,7-10,2,,,2018-04-09,MG,2018-04-09,MG
 A00382,P0020,AT01,PS00334,,196x..197x,1978,He read the novel before his university studies. Back then university study was perceived by him as an 'unattainable dream'.  Already before the CR he was aware of the impact of the family background on attending university.,SS00006,132,2,,,2018-05-07,MG,2018-05-07,MG

@@ -1,4 +1,4 @@
-inst_ID,inst_name,inst_name_lang,place_id,start,end,alt_start,alt_end,inst_alt_name,commentary,note,source_id,page_number,created,created_by,last_modified,last_modified_by
+inst_id,inst_name,inst_name_lang,place,start,end,alt_start,alt_end,inst_alt_name,commentary,note,source,page,created,created_by,last_modified,last_modified_by
 I0001,Association of overseas Chinese in Vietnam,en,PL0999,,,,,,,,,,2017-07-09,OS,2018-11-13,MG
 I0001,越南华侨协会,zh,PL0999,,,,,,,,,,2017-07-09,OS,2018-11-13,MG
 I0002,Beatles,en,PL0132,1960,1970,,,,,,,,2017-07-09,OS,2018-01-30,OS
@@ -6,15 +6,15 @@ I0003,English Language Services,en,PL0999,,,,,,,,,,2017-07-12,OS,2018-11-13,MG
 I0004,Central Committee of the Communist Party in China,en,PL0002,1921,,,,,,,,,2017-12-23,OS,2018-01-30,OS
 I0004,中国共产党中央委员会,zh,PL0002,1921,,,,,,,,,2017-12-23,OS,2018-02-06,MG
 I0004,中国共产党中央委员会,zh,PL0002,1921,,1921,1922,中国共产党中央局,,,,,2018-02-05,MG,2018-02-05,MG
-I0004,中国共产党中央委员会,zh,PL0002,1921,,1922,1927,中国共产党中央执行委员会 ,,,,,2018-02-05,MG,2018-02-05,MG
+I0004,中国共产党中央委员会,zh,PL0002,1921,,1922,1927,中国共产党中央执行委员会,,,,,2018-02-05,MG,2018-02-05,MG
 I0005,Baiyangdian literary society,en,PL0022,1968,1976,,,,,,,,2018-01-30,OS,2018-02-11,OS
 I0005,白洋淀派,zh,PL0022,1968,1976,,,,,,,,2018-01-30,OS,2018-02-11,OS
 I0006,School of Foreign Studies,en,PL0090,1917,,,,,Nanjing University,,,,2018-02-22,MG,2018-02-22,MG
 I0006,School of Foreign Studies,en,PL0090,1917,,1938,1993,Department of Foreign Languages and Literatures,Nanjing University,,,,2018-02-22,MG,2018-02-22,MG
 I0007,Beijing No. 4 High School,en,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
-I0007,北京市第四中学 ,zh,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
+I0007,北京市第四中学,zh,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
 I0007,Beijing No. 4 High School,en,PL0002,1906,,1911,1949,Capital Public No. 4 Secondary School,,,,,2018-02-22,MG,2018-02-22,MG
-I0007,北京市第四中学 ,zh,PL0002,1906,,1911,1949,京师公立第四中学,,,,,2018-02-22,MG,2018-02-22,MG
+I0007,北京市第四中学,zh,PL0002,1906,,1911,1949,京师公立第四中学,,,,,2018-02-22,MG,2018-02-22,MG
 I0008,The Communist Party of China,en,PL0002,1921,,,,,,,,,2018-03-21,MG,2018-03-21,MG
 I0008,中国共产党,zh,PL0002,1921,,,,,,,,,2018-03-21,MG,2018-03-21,MG
 I0009,Voice of America,en,PL0238,1942,,,,,,,https://www.voanews.com/,ONLINE SOURCE,2018-04-03,MG,2018-04-03,MG

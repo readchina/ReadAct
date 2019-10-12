@@ -1,4 +1,4 @@
-art_form_id,art_form_name,art_form_name_lang,source_link,created,created_by,last_modified,last_modified_by
+art_form_id,art_form_name,art_form_name_lang,source,created,created_by,last_modified,last_modified_by
 AF01,painting,en,http://www.getty.edu/vow/AATFullDisplay?find=painting&logic=AND&note=&subjectid=300033618,2018-02-09,OS,2018-03-02,MG
 AF02,movie,en,http://www.getty.edu/vow/AATFullDisplay?find=movie&logic=AND&note=&subjectid=300136900,2018-02-09,OS,2018-03-02,MG
 AF03,play,en,http://www.getty.edu/vow/AATFullDisplay?find=play&logic=AND&note=&page=1&subjectid=300201028,2018-02-09,OS,2018-03-02,MG
