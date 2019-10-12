@@ -27,22 +27,23 @@ install:
 script:
   # validate each file against its schema
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
-  - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Act.json
-  - csvlint data/ActType.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ActType.json
-  - csvlint data/ArtForm.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtForm.json
-  - csvlint data/ArtWork.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/ArtWork.json
-  - csvlint data/Genre.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Genre.json
-  - csvlint data/Institution.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Institution.json
-  - csvlint data/IsoLangCode.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/IsoLangCode.json
-  - csvlint data/Location.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Location.json
-  - csvlint data/Membership.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Membership.json
-  - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Person.json
-  - csvlint data/Place.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Place.json
-  - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/PrimarySource.json
-  - csvlint data/Quotation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Quotation.json
-  - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SecondarySource.json
-  - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialPosition.json
-  - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/SocialRelation.json
+  - csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Act.json
+  - csvlint data/ActType.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/ActType.json
+  - csvlint data/ArtForm.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/ArtForm.json
+  - csvlint data/ArtWork.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/ArtWork.json
+  - csvlint data/Genre.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Genre.json
+  - csvlint data/Institution.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Institution.json
+  - csvlint data/IsoLangCode.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/IsoLangCode.json
+  - csvlint data/Location.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Location.json
+  - csvlint data/Membership.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Membership.json
+  - csvlint data/Person.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Person.json
+  - csvlint data/Place.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Place.json
+  - csvlint data/PrimarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/PrimarySource.json
+  - csvlint data/Quotation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/Quotation.json
+  - csvlint data/SecondarySource.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/SecondarySource.json
+  - csvlint data/SocialPosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/SocialPosition.json
+  - csvlint data/SocialRelation.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/SocialRelation.json
+  - csvlint data/NarrativePosition.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/2.0-lit/readingdata/NarrativePosition.json
 
 # referential integrity checks
   - bats --tap test/*.bats
