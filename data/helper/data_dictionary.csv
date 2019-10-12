@@ -220,7 +220,7 @@ Act,last_modified_by,acronym of project member last modifying this line,,2017-07
 NarrativePosition,nar_pos_id,N and a two-digit number (leading zeros),,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,nar_pos_name,name of a narrative position,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,note,Internal notes of project members,,2019-06-27,MG,2019-06-27,MG
-NarrativePosition,source_link,,,2019-07-07,MG,2019-07-07,MG
+NarrativePosition,source,,,2019-07-07,MG,2019-07-07,MG
 NarrativePosition,created,date of creation of line,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,created_by,acronym of project member creating this line,,2019-06-27,MG,2019-06-27,MG
 NarrativePosition,last_modified,date of last modification,,2019-06-27,MG,2019-06-27,MG
