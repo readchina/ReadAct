@@ -1309,22 +1309,3 @@ P1001,anon,Lao Ga,zh-Latn-py,male,yes,unknown,unknown,unknown,unknown,unknown,NU
 P1001,anon,老嘎,zh,male,yes,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,NULL,,NULL,SS00262,4-67,,,F,,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
 P1002,anon,Lao Jiu,zh-Latn-py,male,yes,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,NULL,,NULL,SS00262,4-67,,,F,,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
 P1002,anon,老久,zh,male,yes,unknown,unknown,unknown,unknown,unknown,NULL,NULL,unknown,NULL,,NULL,SS00262,4-67,,,F,,FICTIONAL CHARACTER,,2019-03-12,LH,2019-04-09,MG
-P1003,Dai,Sijie,en,male,yes,1971,1974,PL0006,1954,,NULL,NULL,PL0004,S03,,,https://en.wikipedia.org/wiki/Dai_Sijie,ONLINE SOURCE,,,,,,,2019-07-30,MG,2019-07-30,MG
-P1003,戴,思杰,zh,male,yes,1971,1974,PL0006,1954,,NULL,NULL,PL0004,S03,,,https://en.wikipedia.org/wiki/Dai_Sijie,ONLINE SOURCE,,,,,,,2019-07-30,MG,2019-07-30,MG
-P1004,anon,Luo,zh-Latn-py,male,yes,1971~,,PL0006,1953~,,NULL,NULL,PL0004,,2,,SS00263,10ff,,,F,S03,,,2019-07-30,MG,2019-07-30,MG
-P1005,anon,anon,en,male,yes,1971~,,PL0006,1954~,,NULL,NULL,PL0004,,2,,SS00263,10ff,,,F,S03,No name mentioned. Protagonist and narrator of the novel,,2019-07-30,MG,2019-07-30,MG
-P1006,anon,anon,fr,female,no,NULL,NULL,NULL,1953..1956~,,La Petite Tailleuse Chinoise,fr,PL0006,,2,,SS00263,,,,F,S08,,,2019-07-30,MG,2019-07-30,MG
-P1007,anon,anon,fr,male,yes,1971~,,PL0006,1950..1954~,,Le Binoclard,fr,unknown,,2,,SS00263,,,,F,S03,,,2019-07-30,MG,2019-07-30,MG
-P1008,anon,anon,en,male,no,NULL,NULL,NULL,19xx,,Le Vieux Meunier,fr,PL0006,,3,,SS00263,141-144,,,F,S08,,,2019-08-03,MG,2019-08-03,MG
-P1009,anon,anon,en,male,no,NULL,NULL,NULL,19xx,,Le Tailleur,fr,PL0006,,3,,SS00263,28,,,F,S08,,,2019-08-03,MG,2019-08-03,MG
-P1010,anon,anon,en,female,no,NULL,NULL,NULL,19xx,,NULL,NULL,PL0006,,3,,SS00263,56,,,F,S03,Luo‘s aunt,,2019-08-03,MG,2019-08-03,MG
-P1011,anon,anon,en,female,no,NULL,NULL,NULL,19xx,,NULL,NULL,unknown,,3,,SS00263,92f,,,F,S03,Le Binoclard‘s mother,,2019-08-03,MG,2019-08-03,MG
-P1012,Melville,Herman,en,male,NULL,NULL,NULL,NULL,1819,1891,NULL,NULL,PL0050,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,,2019-08-03,MG,2019-09-12,MG
-P1012,梅尔维尔,赫尔曼,zh,male,NULL,NULL,NULL,NULL,1819,1891,NULL,NULL,PL0050,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1013,Defoe,Daniel,en,male,NULL,NULL,NULL,NULL,1659..1660,1731,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/Daniel_Defoe,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1013,笛福,丹尼尔,zh,male,NULL,NULL,NULL,NULL,1659..1660,1731,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/Daniel_Defoe,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1014,Cervantes,Miguel de,ep,male,NULL,NULL,NULL,NULL,1547,1616,NULL,NULL,PL0600,,,,https://en.wikipedia.org/wiki/Miguel_de_Cervantes,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1014,塞万提斯,米格尔 德,zh,male,NULL,NULL,NULL,NULL,1547,1616,NULL,NULL,PL0600,,,,https://en.wikipedia.org/wiki/Miguel_de_Cervantes,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1015,,兰陵笑笑生,zh,male,NULL,NULL,NULL,NULL,1530,1600,NULL,NULL,PL0999,,,,https://baike.baidu.com/item/%E5%85%B0%E9%99%B5%E7%AC%91%E7%AC%91%E7%94%9F,ONLINE SOURCE,,,,,,,2019-09-12,MG,2019-09-12,MG
-P1016,Kipling,Joseph Rudyard,en,male,NULL,NULL,NULL,NULL,1865,1936,NULL,NULL,PL0601,,,,https://en.wikipedia.org/wiki/Rudyard_Kipling,ONLINE SOURCE,,,,,,,2019-09-13,MG,2019-09-13,MG
-,吉卜林,约瑟夫 鲁德亚德,zh,male,NULL,NULL,NULL,NULL,1865,1936,NULL,NULL,PL0601,,,,https://en.wikipedia.org/wiki/Rudyard_Kipling,ONLINE SOURCE,,,,,,,2019-09-13,MG,2019-09-13,MG
