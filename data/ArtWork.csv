@@ -48,17 +48,17 @@ AW00106,Symphony No. 5,,en,P0095,AF05,1808,,,,,2018-08-03,MG,2018-08-03,MG
 AW00106,第五交响曲,,zh,P0095,AF05,1808,,,,,2018-08-03,MG,2018-08-03,MG
 AW00107,Symphony No. 9,,en,P0095,AF05,1824,PL0167,,,,2018-08-03,MG,2018-08-03,MG
 AW00107,第九交响曲,,zh,P0095,AF05,1824,PL0167,,,,2018-08-03,MG,2018-08-03,MG
-AW09999,unknown,,en,unknown,AF99,unknown,PL0999,unknown,,,2018-06-21,WH,2018-11-13,MG
+AW09999,unknown,,en,P0999,AF99,unknown,PL0999,unknown,,,2018-06-21,WH,2019-10-13,DP
 AW00200,Auld Lang Syne,,en,P0655,AF05,unknown,PL0999,unknown,the poem was written in 1788,,2018-11-06,MG,2018-11-13,MG
 AW00200,友谊地久天长,,zh,P0655,AF05,unknown,PL0999,unknown,the poem was written in 1788,,2018-11-06,MG,2018-11-13,MG
 AW00201,Les Chaises,,fr,P0262,AF03,1952,PL0047,yes,,,2018-11-07,MG,2018-11-07,MG
 AW00201,椅子,,zh,P0262,AF03,1952,PL0047,yes,,,2018-11-07,MG,2018-11-07,MG
-AW00108,Sun Hided Behind Mountain,,en,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
-AW00108,Солнце скрылось за горою,,ru,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
-AW00108,太阳落山,,zh,I0100,AF05,1970,unknown,,,,2018-11-04,WH,2018-11-04,WH
-AW00109,The Deep Sea,,en,P0999,AF05,unknown,unknown,,Translated by project member.,,2018-11-04,WH,2018-11-04,WH
-AW00109,O More Duboko,,hr,P0999,AF05,unknown,unknown,,,,2018-11-04,WH,2018-11-04,WH
-AW00109,深深的海洋,,zh,P0999,AF05,unknown,unknown,,,,2018-11-04,WH,2018-11-04,WH
+AW00108,Sun Hided Behind Mountain,,en,I0100,AF05,1970,PL0999,,,,2018-11-04,WH,2019-10-13,DP
+AW00108,Солнце скрылось за горою,,ru,I0100,AF05,1970,PL0999,,,,2018-11-04,WH,2019-10-13,DP
+AW00108,太阳落山,,zh,I0100,AF05,1970,PL0999,,,,2018-11-04,WH,2019-10-13,DP
+AW00109,The Deep Sea,,en,P0999,AF05,unknown,PL0999,,Translated by project member.,,2018-11-04,WH,2019-10-13,DP
+AW00109,O More Duboko,,hr,P0999,AF05,unknown,PL0999,,,,2018-11-04,WH,2019-10-13,DP
+AW00109,深深的海洋,,zh,P0999,AF05,unknown,PL0999,,,,2018-11-04,WH,2019-10-13,DP
 AW00110,Wave of anger,,en,P0704,AF02,1963,,,Translated by project member.,,2018-11-04,WH,2018-11-04,WH
 AW00110,怒潮,,zh,P0704,AF02,1963,,,,,2018-11-04,WH,2018-11-04,WH
 AW00111,Red Guards on Honghu Lake,,en,I0101,AF04,1950,,,It was later adapted into movie and TV shows.,,2018-11-04,WH,2018-11-04,WH
