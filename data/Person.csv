@@ -1331,3 +1331,15 @@ P1016,吉卜林,约瑟夫 鲁德亚德,zh,male,NULL,NULL,NULL,NULL,1865,1936,NUL
 P1017,Choe,Ik-gyu,en,male,NULL,NULL,NULL,NULL,1934,,Choe Sang-gun,en,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
 P1017,최,익규,ko,male,NULL,NULL,NULL,NULL,1934,,최상근,ko,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
 P1017,崔,益奎,zh,male,NULL,NULL,NULL,NULL,1934,,NULL,NULL,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
+P1018,Liu,Xinwu,en,male,yes,1966..1976,1966..1976,PL0999,1942,,Liu Liu,en,PL0004,,,,https://en.wikipedia.org/wiki/Liu_Xinwu,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1018,刘,心武,zh,male,yes,1966..1976,1966..1976,PL0999,1942,,刘浏,zh,PL0004,,,,https://en.wikipedia.org/wiki/Liu_Xinwu,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1019,Zhihua,Fang,en,unknown,NULL,NULL,NULL,NULL,1963,,NULL,NULL,PL0999,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1019,方志,華,zh,unknown,NULL,NULL,NULL,NULL,1963,,NULL,NULL,PL0999,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1020,anon,Teacher Zhang,en,male,unknown,NULL,NULL,NULL,194x..196x,,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,,,check CCP status (narrative status),2019-10-24,MG,2019-10-24,MG
+P1020,anon,张老师,zh,male,unknown,NULL,NULL,NULL,194x..196x,,张俊石,zh,PL0999,,2,,SS00264,85-120,,,F,,,check CCP status,2019-10-24,MG,2019-10-24,MG
+P1021,Shi,Hong,en,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,,narrative status,2019-10-24,MG,2019-10-24,MG
+P1021,石,红,zh,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,,narrative status,2019-10-24,MG,2019-10-24,MG
+P1022,Song,Baoqi,en,male,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2019-10-24,MG
+P1022,宋,宝琪,zh,male,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2019-10-24,MG
+P1023,Xie,Huimin,en,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her,narrative status,2019-10-24,MG,2019-10-24,MG
+P1023,谢,惠敏,zh,female,unknown,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her,narrative status,2019-10-24,MG,2019-10-24,MG
