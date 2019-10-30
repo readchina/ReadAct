@@ -123,7 +123,7 @@ Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-2
 Person,Page_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
-Person,narrative_status,Either NarrativePosition or social_position (to give more detailed information) of a fictional character; 'unknown' in case you do not know; 'NULL' for authors and other real life persons.,,2019-06-27,MG,2019-07-07,MG
+Person,narrative_status,Either NarrativePosition; 'unknown' in case you do not know; 'NULL' for authors and other real life persons. N01-N05 only refer to literary works of socialist realism and should not be used for anything written post Mao.,,2019-06-27,MG,2019-10-30,MG
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
