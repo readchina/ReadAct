@@ -1351,3 +1351,5 @@ P1025,沈,德鸿,en,male,no,NULL,NULL,NULL,1896,1981,茅盾,zh,PL0604,,,,https:/
 P1026,Golikov,Arkady,en,male,NULL,NULL,NULL,NULL,1904,1941,Arkady Gaidar,en,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
 P1026,Го́ликов,Арка́дий,ru,male,NULL,NULL,NULL,NULL,1904,1941,Арка́дий Гайда́р,ru,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
 P1026,盖达尔,阿尔卡季,zh,male,NULL,NULL,NULL,NULL,1904,1941,NULL,NULL,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1027,anon,anon,en,male,unknown,NULL,NULL,NULL,1940..1960~,1940..1960~,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,,,,2019-11-22,MG,2019-11-22,MG
+P1028,anon,anon,en,female,unknown,NULL,NULL,NULL,1940..1960~,1940..1960~,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,,,,2019-11-22,MG,2019-11-22,MG
