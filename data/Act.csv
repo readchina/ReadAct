@@ -646,8 +646,8 @@ A00851,P0052,AT15,AW00202,,1964,1964,,,SS00133,ONLINE SOURCE,2,,,,2018-11-14,MG,
 A00852,P0168,AT03,AW00202,P0052,1964,1964,,Xiao Xia gave her an album with the picture of Mona Lisa on the front,SS00133,ONLINE SOURCE,2,,,,2018-11-14,MG,2018-11-14,MG
 A00853,P0131,AT01,PS09999,,1975,1975,,Li Daxing began to write new poems after he knew Shu Hua. He also read Xu Zhimo’s works.,SS00153,560,2,,unknown work by: P0661,,2018-11-14,MG,2019-08-23,WH
 A00854,P0133,AT01,PS00494,,1979,1979,,"The author thought Bei Dao's Poem ""雨夜"" is totally different from Dai Wangshu's ""雨巷""",SS00154,538,2,,,,2018-11-14,MG,2018-11-14,MG
-A00855,P0662,AT40,AW00085,,1976,1976,,They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.,SS00256,211,2,,,,2018-11-18,MG,2019-08-23,WH
-A00856,P0106,AT40,AW00085,,196x..197x,196x..197x,,The author and other educated youth would sing this song upon farewell.,SS00005,576,2,,,,2018-11-18,MG,2019-08-23,WH
+A00855,P0662,AT32,AW00085,,1976,1976,,They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.,SS00256,211,2,,,,2018-11-18,MG,2019-11-22,MG
+A00856,P0106,AT32,AW00085,,196x..197x,196x..197x,,The author and other educated youth would sing this song upon farewell.,SS00005,576,2,,,,2018-11-18,MG,2019-11-22,MG
 A00857,P0132,AT23,AW09999,,1975~,1975~,,A new round of foreign culture swept China in the end of the 1971s both from the classics and the modern ones.,SS00043,453,2,,unknown work by: P0663,,2018-11-18,MG,2019-08-23,WH
 A00858,P0276,AT23,AW00203,,1978,1978,,The song Tang Ke’s friend sang impressed the author.,SS00209,301,2,,,,2018-11-18,MG,2019-06-12,WH
 A00859,P0041,AT01,PS09999,,1966..1976,1966..1976,,recalls having secretly read works from Hugo and Pushkin during the CR,SS00119,ONLINE SOURCE,2,,unknown work by: P0324,please check the source again to adjust act type and other relevant info see issue #299,2018-11-19,MG,2018-11-19,MG
@@ -875,7 +875,7 @@ A01013,P0120,AT01,PS00614,,1971..1972,1971..1972,,read in L0002,SS00030,110,2,,,
 A01014,P0219,AT01,PS00614,,1968~,1968~,,mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.,SS00190,262,2,,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01015,P0018,AT01,PS00614,,1968~,1968~,,studying the Quotations was part of the daily routine after the classes were cancelled,SS00158,306,2,,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01016,P0106,AT05,PS09999,,19xx,19xx,,unknown,SS00005,583,2,,unknown work by P0696,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
-A01017,P0003,AT40,AW00207,,1970~,1970~,,He sang this song which he once taught to P0785.,SS00185,125,2,,,,2018-12-30,MG,2019-06-20,WH
+A01017,P0003,AT32,AW00207,,1970~,1970~,,He sang this song which he once taught to P0785.,SS00185,125,2,,,,2018-12-30,MG,2019-11-22,MG
 A01018,P0003,AT05,PS00615,,19xx,19xx,,unknown,SS00185,139,2,,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01019,P0003,AT05,PS00616,,19xx,19xx,,unknown,SS00185,139,2,,,please check the source again to adjust act type and other relevant info see issue #299,2018-12-30,MG,2018-12-30,MG
 A01020,P0109,AT01,PS00617,,1966..1976,1966..1976,,recommended by a friend (possibly penpal),SS00014,301,2,,,,2018-12-30,MG,2018-12-30,MG
@@ -1047,9 +1047,12 @@ A01081,P0003,AT05,PS00347,,1970?,1970?,,The author regrets that he has not had a
 A01082,P0011,AT05,PS00593,,1972~,1972~,,Due to frequent checks she did not know where the poems were that others had given her.,SS00155,55,2,,,,2019-03-09,MG,2019-06-22,WH
 A01083,P0133,AT05,PS09999,,19xx,19xx,,unknown,SS00154,536,2,,unknown work by: P0815,please check the source again to adjust act type and other relevant info see issue #299,2019-03-09,MG,2019-03-09,MG
 A01084,P0106,AT05,PS09999,,1972~,1972~,,"This book belonged to the ""neibu"" collection at that time.",SS00005,580,2,,unknown work by: P0225 G24,,2019-03-09,MG,2019-06-22,WH
-A01200,P0808,AT44,PS00228,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-03-08,LH
-A01201,P0808,AT44,PS00707,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-03-08,LH
-A01202,P0808,AT44,PS00024,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-03-08,LH
+A01200,P0808,AT60,PS00228,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-11-18,MG
+A01201,P0808,AT60,PS00707,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-11-18,MG
+A01202,P0808,AT60,PS00024,,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-03-08,LH,2019-11-18,MG
+A01650,P0808,AT58,PS00228,I0119,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-12-05,MG,2019-12-05,MG
+A01651,P0808,AT58,PS00707,I0119,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-12-05,MG,2019-12-05,MG
+A01652,P0808,AT58,PS00024,I0119,1974,1974,,centered around the writers of the Li Yizhe group Sasha Gong and about 2 dozen others met once or twice a week to exchange books and ideas these were their favorites,SS00255,175,2,,,,2019-12-05,MG,2019-12-05,MG
 A01336,P0033,AT01,PS00708,,1957?,1963?,,He read this book in the middle school. These books of revolutionary thought have influenced his growth.,SS00271,ONLINE SOURCE,2,,,,2019-06-04,WH,2019-06-04,WH
 A01337,P0021,AT03,AW00058,P0002,1962,1963,,Guo Shiying borrowed Mou Dunbai few books from B including this one.,SS00195,24,2,,,,2019-06-10,WH,2019-06-10,WH
 A01338,P0221,AT01,PS09999,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,SS00170,249,2,,unknown work by: P0118 G24,very likely that for the 1960s books by this author refer to a neibu publication,2019-06-12,WH,2019-06-12,WH
@@ -1106,4 +1109,84 @@ A01437,P1004,AT46,PS00804,,1973~,1973~,,he burns the books after the little seam
 A01438,P1004,AT46,PS00803,,1973~,1973~,,he burns the books after the little seamstress left her village to live in a city,SS00263,182f,3,F,,,2019-08-03,MG,2019-10-14,MG
 A01439,P1005,AT45,PS00811,,,,,narrator cites a verse which appears in the passage related to Emma Bovary‘s death,SS00263,183,3,F,,,2019-08-03,MG,2019-10-14,MG
 A01440,P1006,AT16,PS00811,,1973~,1973~,,the seamstress makes a set of clothes and gets her hair cut inspired by her reading,SS00263,185,3,F,,,2019-08-03,MG,2019-10-14,MG
-A01441,P1007,AT16,PS09999,,1973~,1973~,,Balzac made her undestand one thing: ‚la beauté d‘une femme est un trésor qui n‘a pas de prix‘,SS00263,191,3,F,works by Balzac,,2019-08-03,MG,2019-10-14,MG
+A01441,P1007,AT16,PS09999,,1973~,1973~,,Balzac made her undestand one thing: ‚la beauté d‘une femme est un trésor qui n‘a pas de prix‘,SS00263,191,3,F,works by P0092,,2019-08-03,MG,2019-11-25,MG
+A01442,P1021,AT13,PS09999,,1977,1977,, writes a bugle poem 号角诗,SS00267,5,3,F,Clear reference to practices of writing poems in the 1970s; particularly those with propagandistic / political impetus,page numbers refer to sections in the text,2019-11-08,MG,2019-11-25,MG
+A01443,P1022,AT12,PS00194,,1977,1977,,This is among his possessions which were confiscated: a bicycle lock that was used for fighting; a deck of cards; chromed cigarette box with a build-in lighter,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01444,P1023,AT43,PS00194,,1977,1977,,,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01445,P1023,AT49,PS00194,,1977,1977,,Evaluates as pornographic (illustrations of foreign men and women make her draw this conclusion),SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01446,P1023,AT50,PS00194,,1977,1977,,Evaluates as pornographic (and wants to do a thorough criticism),SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01447,P1020,AT04,PS00194,,195x,195x,1,In his youth the book was recommended by the Youth League committee,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01448,P1020,AT26,PS00194,,1977,1977,,he has fond memories of the book and forbids P1023 to call the book pornographic,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
+A01449,P1023,AT51,PS09999,,1977,1977,,she innocently worships everything in print,SS00267,5,3,F,XHM is characterized as a ‚typical‘ CR reader who loves to read but has limited access and believes everything the party writes; back then her parents advised her to read the newspaper diligently (SS00264 : p. 96),p. 96 (english version: SS00264),2019-11-08,MG,2019-11-25,MG
+A01450,P1021,AT01,PS00590,,1977,1977,,she is excited by it,SS00267,5,3,F,Song of Youth is reprinted – which is an indication that things are getting more liberal,,2019-11-08,MG,2019-11-25,MG
+A01451,P1023,AT01,PS00590,,1977,1977,,,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01452,P1023,AT49,PS00590,,1977,1977,,she evaluates the book as pornographic,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01453,P1021,AT12,PS00590,,1977,1977,,confiscated by P1023 ,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01454,P1021,AT01,PS00194,,1977,1977,,,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01455,P1021,AT01,PS00218,,1977,1977,,,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01456,P1021,AT26,PS00194,,1977,1977,,,SS00267,5,3,F,SS00264 : p.98: ‘I heard my father and mother say that The Gadfly is worth reading! These last couple of days I have been reading How the Steel was Tempered. In the novel Pavel Korchagin is a proletarian hero but he especially admires ‘the gadfly’…’,,2019-11-09,MG,2019-11-25,MG
+A01457,P1021,AT05,PS00218,,1977,1977,,Refers to … to legitimize the value of The Gadfly,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01458,P1020,AT19,PS00194,P1023,1977,1977,,P1023 does not understand the reaction of P1020,SS00267,5,3,F, T Z: ‘How could you know that Song Baoqi and his fellows did not read it as a ‘pornographic book’? The phenomena of life were complicated. The encounters of this copy of The Gadfly were bizarre enough. Children like Xie Huimin who were still quite naïve would need ample time and a proper place to understand the exceedingly complicated life and the literary works that included both treasures and trash’,,2019-11-09,MG,2019-11-25,MG
+A01459,P1022,AT53,PS00194,,1977,1977,,paints a moustache on illustrations of the heroine of The Gadfly,SS00267,5,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01460,P1022,AT52,PS00194,,1977,1977,,牛亡 instead of 牛虻 (niumeng) which indicates that he does not know the meaning of the title,SS00267,6,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01461,P1022,AT52,PS00330,,1977,1977,,(Peace and War),SS00267,6,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01462,P1022,AT52,PS00817,,1977,1977,,Title given by Song Baoqi: 新嫁车的词儿,SS00267,6,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01463,P1022,AT05,PS00194,,1977,1977,,he has not read much of it,SS00267,6,3,F,'I turned some pages. I did not understand it.’ (SS00264 : p.102),,2019-11-09,MG,2019-11-25,MG
+A01464,P1022,AT48,PS00194,,1977,1977,,steals from a library in order to sell it,SS00267,6,3,F,in the end he and his friends did not sell it for fear of being found out,,2019-11-09,MG,2019-11-25,MG
+A01465,P1022,AT48,PS00466,,1977,1977,,steals from a library in order to sell it,SS00267,6,3,F,,,2019-11-09,MG,2019-11-28,MG
+A01466,P1022,AT48,PS00816,,1977,1977,,steals from a library in order to sell it,SS00267,6,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01467,P1022,AT48,PS00330,,1977,1977,,steals from a library in order to sell it,SS00267,6,3,F,,,2019-11-09,MG,2019-11-25,MG
+A01468,P1020,AT49,PS00330,,1977,1977,,he wonders why the valuable books were locked away to begin with; he evaluates them as fragrant flowers not poisonous weeds,SS00267,6,3,F,,,2019-11-18,MG,2019-11-25,MG
+A01469,P1020,AT49,PS00816,,1977,1977,,he wonders why the valuable books were locked away to begin with; he evaluates them as fragrant flowers not poisonous weeds,SS00267,6,3,F,,,2019-11-18,MG,2019-11-25,MG
+A01470,P1020,AT49,PS00466,,1977,1977,,he wonders why the valuable books were locked away to begin with; he evaluates them as fragrant flowers not poisonous weeds,SS00267,6,3,F,,,2019-11-18,MG,2019-11-28,MG
+A01471,P1020,AT49,PS00194,,1977,1977,,he wonders why the valuable books were locked away to begin with; he evaluates them as fragrant flowers not poisonous weeds,SS00267,6,3,F,,,2019-11-18,MG,2019-11-25,MG
+A01472,P1022,AT53,PS09999,,1977,1977,,,SS00267,6,3,F,They draw moustaches into books as a competition / fortune telling device to see who would first find a girlfriend,,2019-11-18,MG,2019-11-25,MG
+A01473,P1022,AT49,PS00194,,1977,1977,,Also ascribes to the evaluation as pornographic of The Gadfly,SS00267,6,3,F,"'We shouldn’t have read this pornographic book’
+'there was such a big gap between the good kids with good manners and nice qualities like Xie Huimin and the bad kids with bad personalities like Song Baoqi. But they happened to think the same when it came to firmly believing that The Gadfly was a pornographic book – furthermore both came to the “natural” conclusion without reading the book. What a shocking social phenomenon this was! Who caused it? Who?’ > Gang of Four > hatred of GoF
+SS00264 : p.104",,2019-11-18,MG,2019-11-25,MG
+A01474,P1020,AT45,PS00813,,1977,1977,,,SS00267,6,3,F,Intertextual reference; unmarked: Save the children damaged by the Gang of Four (SS00264 : p.104) 球球被“四人帮”坑害的孩子！,,2019-11-18,MG,2019-11-25,MG
+A01475,P1020,AT05,PS00466,,1977,1977,,he intends to talk to his colleague about it,SS00267,8,3,F,,,2019-11-18,MG,2019-11-28,MG
+A01476,P1020,AT05,PS00194,,1977,1977,,he intends to talk to his colleague about it,SS00267,8,3,F,,,2019-11-18,MG,2019-11-25,MG
+A01477,P1020,AT58,PS09999,I0120,1977,1977,,Plans to hold guided reading activities to educate all students in the class (incl SBQ),SS00267,9,3,F,,,2019-11-18,MG,2019-12-05,MG
+A01478,P1020,AT54,PS09999,,1977,1977,,he turns against CR quotation practices,SS00267,9,3,F,He says: XHM ‘should not just study fragmented quotations and that she should not have blind faith in articles paraphrasing the leader’s thoughts but that she should earnestly study the original works and think independently’. SS00264 : p.114,,2019-11-22,MG,2019-11-25,MG
+A01479,P1020,AT60,PS00812,I0120,1977,1977,,,SS00267,9,3,F,,,2019-11-22,MG,2019-12-05,MG
+A01654,P1020,AT58,PS00812,I0120,1977,1977,,,SS00267,9,3,F,,,2019-12-05,MG,2019-12-05,MG
+A01480,P1020,AT29,PS00812,,1977,1977,,he uses the book to explain big politics to his students,SS00267,9,3,F,In the end the girls won’t insist on boycotting the class,,2019-11-22,MG,2019-11-25,MG
+A01481,P1023,AT43,PS09999,,1977,1977,,any foreign books,SS00267,9,3,F,Has it been recommended in the newspapers?,,2019-11-22,MG,2019-11-25,MG
+A01482,P1023,AT43,PS00812,,1977,1977,,,SS00267,9,3,F,Has it been recommended in the newspapers?,,2019-11-22,MG,2019-11-25,MG
+A01483,P1021,AT40,PS00812,,1977,1977,,She and the girls want Teacher Zhang to analyse the book,SS00267,9,3,F,"May we read a book like this?
+How could the little hooligan in the book make you feel angry and sympathetic at the same time?
+Xie Huimin said that we are reading poisonous stuff. Could this book be called poison?
+Compared to the little hooligan in the book; is [SBQ] better or words?",,2019-11-22,MG,2019-11-25,MG
+A01484,P1020,AT22,PS00812,,1977,1977,,,SS00267,9,3,F,,,2019-11-22,MG,2019-11-25,MG
+A01485,P1020,AT01,PS00812,,195x..196x,195x..196x,1,,SS00267,9,3,F,,,2019-11-22,MG,2019-11-25,MG
+A01486,P1021,AT55,PS00812,P0999,1977,1977,,to some of her classmates in order to educate them that it will be good to have SBQ in their class,SS00267,9,3,F,,,2019-11-22,MG,2019-11-25,MG
+A01487,P1027,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0181,,2019-11-22,MG,2019-11-25,MG
+A01488,P1028,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0181,,2019-11-22,MG,2019-11-25,MG
+A01489,P1027,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0182,,2019-11-22,MG,2019-11-25,MG
+A01490,P1028,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0182,,2019-11-22,MG,2019-11-25,MG
+A01491,P1027,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0174,,2019-11-22,MG,2019-11-25,MG
+A01492,P1028,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0174,,2019-11-22,MG,2019-11-25,MG
+A01493,P1027,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0638,,2019-11-22,MG,2019-11-25,MG
+A01494,P1028,AT56,PS09999,,195x..196x,195x..196x,1,Formed a very good habit in the past in studying the works,SS00267,9,3,F,unknown work by P0638,,2019-11-22,MG,2019-11-25,MG
+A01495,P1027,AT01,PS00701,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01496,P1028,AT01,PS00701,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01497,P1021,AT01,PS00701,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01498,P1027,AT01,PS00466,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-28,MG
+A01499,P1028,AT01,PS00466,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-28,MG
+A01618,P1021,AT01,PS00466,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-28,MG
+A01600,P1027,AT01,PS00816,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01601,P1028,AT01,PS00816,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01602,P1021,AT01,PS00816,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01603,P1027,AT01,PS00814,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01604,P1028,AT01,PS00814,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01605,P1021,AT01,PS00814,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01606,P1027,AT01,PS00815,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01610,P1028,AT01,PS00815,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01611,P1021,AT01,PS00815,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01612,P1027,AT01,PS00053,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01613,P1028,AT01,PS00053,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01614,P1021,AT01,PS00053,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01615,P1027,AT01,PS00547,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01616,P1028,AT01,PS00547,,1966..1976,1966..1976,2,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
+A01617,P1021,AT01,PS00547,,1966..1976,1966..1976,1,,SS00267,9,3,F,they have the habit of lively academic exchange on readings etc. i.e. Shi Hong is widely read and an independent thinker,,2019-11-25,MG,2019-11-25,MG
