@@ -1,0 +1,62 @@
+inst_id,inst_name,inst_name_lang,place,start,end,alt_start,alt_end,inst_alt_name,commentary,note,source,page,created,created_by,last_modified,last_modified_by
+I0001,Association of overseas Chinese in Vietnam,en,PL0999,,,,,,,,,,2017-07-09,OS,2018-11-13,MG
+I0001,越南华侨协会,zh,PL0999,,,,,,,,,,2017-07-09,OS,2018-11-13,MG
+I0002,Beatles,en,PL0132,1960,1970,,,,,,,,2017-07-09,OS,2018-01-30,OS
+I0003,English Language Services,en,PL0999,,,,,,,,,,2017-07-12,OS,2018-11-13,MG
+I0004,Central Committee of the Communist Party in China,en,PL0002,1921,,,,,,,,,2017-12-23,OS,2018-01-30,OS
+I0004,中国共产党中央委员会,zh,PL0002,1921,,,,,,,,,2017-12-23,OS,2018-02-06,MG
+I0004,中国共产党中央委员会,zh,PL0002,1921,,1921,1922,中国共产党中央局,,,,,2018-02-05,MG,2018-02-05,MG
+I0004,中国共产党中央委员会,zh,PL0002,1921,,1922,1927,中国共产党中央执行委员会,,,,,2018-02-05,MG,2018-02-05,MG
+I0005,Baiyangdian literary society,en,PL0022,1968,1976,,,,,,,,2018-01-30,OS,2018-02-11,OS
+I0005,白洋淀派,zh,PL0022,1968,1976,,,,,,,,2018-01-30,OS,2018-02-11,OS
+I0006,School of Foreign Studies,en,PL0090,1917,,,,,Nanjing University,,,,2018-02-22,MG,2018-02-22,MG
+I0006,School of Foreign Studies,en,PL0090,1917,,1938,1993,Department of Foreign Languages and Literatures,Nanjing University,,,,2018-02-22,MG,2018-02-22,MG
+I0007,Beijing No. 4 High School,en,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
+I0007,北京市第四中学,zh,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
+I0007,Beijing No. 4 High School,en,PL0002,1906,,1911,1949,Capital Public No. 4 Secondary School,,,,,2018-02-22,MG,2018-02-22,MG
+I0007,北京市第四中学,zh,PL0002,1906,,1911,1949,京师公立第四中学,,,,,2018-02-22,MG,2018-02-22,MG
+I0008,The Communist Party of China,en,PL0002,1921,,,,,,,,,2018-03-21,MG,2018-03-21,MG
+I0008,中国共产党,zh,PL0002,1921,,,,,,,,,2018-03-21,MG,2018-03-21,MG
+I0009,Voice of America,en,PL0238,1942,,,,,,,https://www.voanews.com/,ONLINE SOURCE,2018-04-03,MG,2018-04-03,MG
+I0010,August First Film Studio,en,PL0002,1951,,,,,,,,,2018-10-18,WH,2018-10-18,WH
+I0010,八一电影制片厂,zh,PL0002,1951,,,,,,,,,2018-10-18,WH,2018-10-18,WH
+I0100,Alexandrov Ensemble,en,PL0027,1928,,,,,,,https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0,,2018-11-04,WH,2018-11-04,WH
+I0100,Ансамбль песни и пляски Российской армии имени А. В. Александрова,ru,PL0027,1928,,,,,,,https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0,,2018-11-04,WH,2018-11-04,WH
+I0100,亚历山德罗夫红旗歌舞团,zh,PL0027,1928,,,,,,,https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0,,2018-11-04,WH,2018-11-04,WH
+I0101,Hubei Opera and Dance Theatre,en,PL0415,1952,,1952,1998,Hubei Experimental Opera Troupe,It was reorganized by 湖北省实验歌剧团 and 湖北民间歌舞团.,,https://baike.baidu.com/item/%E6%B9%96%E5%8C%97%E7%9C%81%E5%AE%9E%E9%AA%8C%E6%AD%8C%E5%89%A7%E5%9B%A2,,2018-11-04,WH,2018-11-04,WH
+I0101,湖北省歌舞剧院,zh,PL0415,1952,,1952,1998,湖北省实验歌剧团,,,https://baike.baidu.com/item/%E6%B9%96%E5%8C%97%E7%9C%81%E5%AE%9E%E9%AA%8C%E6%AD%8C%E5%89%A7%E5%9B%A2,,2018-11-04,WH,2018-11-04,WH
+I0102,"Jin Opera Group of Liulin County, Shanxi Province",en,PL0416,,,,,,,,https://baike.baidu.com/item/%E4%B8%89%E4%B8%8A%E6%A1%83%E5%B3%B0,,2018-11-04,WH,2018-11-04,WH
+I0102,山西省柳林县晋剧团,zh,PL0416,,,,,,,,https://baike.baidu.com/item/%E4%B8%89%E4%B8%8A%E6%A1%83%E5%B3%B0,,2018-11-04,WH,2018-11-04,WH
+I0103,China Writers Association,en,PL0002,1949,,1949,1953,Chinese National Literary Workers Association,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A,,2018-11-04,WH,2018-11-04,WH
+I0103,中国作家协会,zh,PL0002,1949,,1949,1953,中华全国文学工作者协会,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A,,2018-11-04,WH,2018-11-04,WH
+I0104,Hunan Federation of Literary and Art Circles,en,PL0051,1950,,,1950,Changsha Federation of Literary and Art Circles,,,https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C%E8%81%94%E5%90%88%E4%BC%9A/2046912,,2018-11-04,WH,2018-11-04,WH
+I0104,湖南省文学艺术界联合会,zh,PL0051,1950,,,1950,长沙市文学艺术界联合会,,,https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C%E8%81%94%E5%90%88%E4%BC%9A/2046912,,2018-11-04,WH,2018-11-04,WH
+I0105,Jiangxi Jiujiang Cultural Work Group,en,PL0253,,,,,,,,SS00044,,2018-11-06,WH,2018-11-06,WH
+I0105,江西九江文工团,zh,PL0253,,,,,,,,SS00044,,2018-11-06,WH,2018-11-06,WH
+I0106,Shanghai Youth Art Theatre,en,PL0003,,,,,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%83%E5%B1%B1,,2018-11-06,WH,2018-11-06,WH
+I0106,上海青年艺术剧院,zh,PL0003,,,,,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%83%E5%B1%B1,,2018-11-06,WH,2018-11-06,WH
+I0107,Beijing Peking Opera Troupe,en,PL0002,1955,,,,,,,https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E5%89%A7%E5%9B%A2,,2018-11-06,WH,2018-11-06,WH
+I0107,北京京剧团,zh,PL0002,1955,,,,,,,https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E5%89%A7%E5%9B%A2,,2018-11-06,WH,2018-11-06,WH
+I0108,China Central Ballet Company,en,PL0002,1959,,,,,,,https://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2#2_1,,2018-11-06,WH,2018-11-06,WH
+I0108,中央芭蕾舞团,zh,PL0002,1959,,,,,,,https://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2#2_1,,2018-11-06,WH,2018-11-06,WH
+I0109,Hunan Opera and Dance Theatre,en,PL0051,1953,,,,,,,https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%AD%8C%E8%88%9E%E5%89%A7%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0109,湖南省歌舞剧院,zh,PL0051,1953,,,,,,,https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%AD%8C%E8%88%9E%E5%89%A7%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0110,Lu Xun Academy of Fine Arts,en,PL0021,1938,,,,,,,https://zh.wikipedia.org/wiki/%E9%AD%AF%E8%BF%85%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0110,鲁迅艺术学院,zh,PL0021,1938,,,,,,,https://zh.wikipedia.org/wiki/%E9%AD%AF%E8%BF%85%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0111,Shanghai Ballet Company,en,PL0003,1966,,,,,,,https://en.wikipedia.org/wiki/Shanghai_Ballet_Company,,2018-11-06,WH,2018-11-06,WH
+I0111,上海芭蕾舞团,zh,PL0003,1966,,,,,,,https://en.wikipedia.org/wiki/Shanghai_Ballet_Company,,2018-11-06,WH,2018-11-06,WH
+I0112,Chinese Academy of Social Sciences,en,PL0002,1977,,,,,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0112,中国社会科学院,zh,PL0002,1977,,,,,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2,,2018-11-06,WH,2018-11-06,WH
+I0113,The Commercial Press,en,PL0003,1897,,,,,,,https://zh.wikipedia.org/wiki/%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86,,2018-11-15,WH,2018-11-15,WH
+I0113,商务印书馆,zh,PL0003,1897,,,,,,,https://zh.wikipedia.org/wiki/%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86,,2018-11-15,WH,2018-11-15,WH
+I0114,China Association for Science and Technology,en,PL0002,1958,,1958,1980,People's Republic of China Science and Technology Association,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BC%9A,,2018-11-24,WH,2018-11-24,WH
+I0114,中国科学技术协会,zh,PL0002,1958,,1958,1980,中华人民共和国科学技术协会,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BC%9A,,2018-11-24,WH,2018-11-24,WH
+I0115,China Artists Association,en,PL0002,1949,,,,,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%BE%8E%E8%A1%93%E5%AE%B6%E5%8D%94%E6%9C%83,,2018-11-24,WH,2018-11-24,WH
+I0115,中国美术家协会,zh,PL0002,1949,,,,,,,https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%BE%8E%E8%A1%93%E5%AE%B6%E5%8D%94%E6%9C%83,,2018-11-24,WH,2018-11-24,WH
+I0116,People's Liberation Army of China,en,PL0002,1927,,1927,1949,Chinese Workers’ and Peasants’ Revolutionary Army,,,https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B,,2018-11-25,WH,2018-11-25,WH
+I0116,中国人民解放军,zh,PL0002,1927,,1927,1949,中国工农革命军,,,https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B,,2018-11-25,WH,2018-11-25,WH
+I0117,World Economic Research Institute,en,PL0003,1964,,1964,197x,Fudan University Capitalist National Economic Research Institute,,,http://www.fudan.edu.cn/entries/view/129/,,2019-06-15,WH,2019-06-15,WH
+I0117,世界经济研究所,zh,PL0003,1964,,1964,197x,复旦大学资本主义国家经济研究所,,,http://www.fudan.edu.cn/entries/view/129/,,2019-06-15,WH,2019-06-15,WH
+I0118,Narratorial voices in ‚Balzac et la Petite Tailleuse Chinoise‘,en,PL0999,,,,,,,,SS00263,,2019-08-03,MG,2019-10-13,DP
+I0119,Li Yizhe group,en,PL0999,,,,,,,,SS00255,,2019-12-05,MG,2019-12-05,MG
+I0120,Teacher Zhang‘s Class,en,PL0999,1977,,,,,,,SS00267,,2019-12-05,MG,2019-12-05,MG
