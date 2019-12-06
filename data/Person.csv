@@ -1331,6 +1331,30 @@ P1016,吉卜林,约瑟夫 鲁德亚德,zh,male,NULL,NULL,NULL,NULL,1865,1936,NUL
 P1017,Choe,Ik-gyu,en,male,NULL,NULL,NULL,NULL,1934,,Choe Sang-gun,en,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
 P1017,최,익규,ko,male,NULL,NULL,NULL,NULL,1934,,최상근,ko,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
 P1017,崔,益奎,zh,male,NULL,NULL,NULL,NULL,1934,,NULL,NULL,PL0603,,,,https://en.wikipedia.org/wiki/Choe_Ik-gyu,ONLINE SOURCE,,,,,,,2019-10-14,MG,2019-10-14,MG
+P1018,Liu,Xinwu,en,male,yes,1966..1976,1966..1976,PL0999,1942,,Liu Liu,en,PL0004,,,,https://en.wikipedia.org/wiki/Liu_Xinwu,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1018,刘,心武,zh,male,yes,1966..1976,1966..1976,PL0999,1942,,刘浏,zh,PL0004,,,,https://en.wikipedia.org/wiki/Liu_Xinwu,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1019,Zhihua,Fang,en,unknown,NULL,NULL,NULL,NULL,1963,,NULL,NULL,PL0999,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1019,方志,華,zh,unknown,NULL,NULL,NULL,NULL,1963,,NULL,NULL,PL0999,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,,2019-10-24,MG,2019-10-24,MG
+P1020,anon,Teacher Zhang,en,male,unknown,NULL,NULL,NULL,1940..1960~,,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,N06,,check CCP status (social status),2019-10-24,MG,2019-10-30,MG
+P1020,anon,张老师,zh,male,unknown,NULL,NULL,NULL,1940..1960~,,张俊石,zh,PL0999,,2,,SS00264,85-120,,,F,N06,,check CCP status,2019-10-24,MG,2019-10-30,MG
+P1021,Shi,Hong,en,female,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,N07,,narrative status,2019-10-24,MG,2019-10-30,MG
+P1021,石,红,zh,female,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,N07,,narrative status,2019-10-24,MG,2019-10-30,MG
+P1022,Song,Baoqi,en,male,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2019-10-30,MG
+P1022,宋,宝琪,zh,male,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,,1,,SS00264,85-120,,,F,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2019-10-30,MG
+P1023,Xie,Huimin,en,female,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,S10,1,,SS00264,85-120,,,F,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her. XHM is characterized as a ‘typical’ CR reader who loves to read but has limited access and believes everything the party writes; back then her parents advised her to read the newspaper diligently (ENG 96),narrative status,2019-10-24,MG,2019-11-08,MG
+P1023,谢,惠敏,zh,female,unknown,NULL,NULL,NULL,1960..1970~,,NULL,NULL,PL0999,S10,1,,SS00264,85-120,,,F,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her,narrative status,2019-10-24,MG,2019-10-30,MG
+P1024,Panteleev,Leonid,en,male,NULL,NULL,NULL,NULL,1908,1987,Aleksey Eremeev ,en,PL0058,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,,2019-10-30,MG,2019-10-30,MG
+P1024,Пантеле́ев,Лёнька,ru,male,NULL,NULL,NULL,NULL,1908,1987,NULL,NULL,PL0058,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,,2019-10-30,MG,2019-10-30,MG
+P1024,班台莱耶夫,,zh,male,NULL,NULL,NULL,NULL,1908,1987,NULL,NULL,PL0058,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,,2019-10-30,MG,2019-10-30,MG
+P1025,Shen,Dehong,zh,male,no,NULL,NULL,NULL,1896,1981,Mao Dun,en,PL0604,,,,https://en.wikipedia.org/wiki/Mao_Dun,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1025,沈,德鸿,en,male,no,NULL,NULL,NULL,1896,1981,茅盾,zh,PL0604,,,,https://en.wikipedia.org/wiki/Mao_Dun,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1026,Golikov,Arkady,en,male,NULL,NULL,NULL,NULL,1904,1941,Arkady Gaidar,en,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1026,Го́ликов,Арка́дий,ru,male,NULL,NULL,NULL,NULL,1904,1941,Арка́дий Гайда́р,ru,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1026,盖达尔,阿尔卡季,zh,male,NULL,NULL,NULL,NULL,1904,1941,NULL,NULL,PL0605,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,,2019-11-08,MG,2019-11-08,MG
+P1027,anon,anon,en,male,unknown,NULL,NULL,NULL,1940..1960~,1940..1960~,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,,,,2019-11-22,MG,2019-11-22,MG
+P1028,anon,anon,en,female,unknown,NULL,NULL,NULL,1940..1960~,1940..1960~,NULL,NULL,PL0999,,2,,SS00264,85-120,,,F,,,,2019-11-22,MG,2019-11-22,MG
+P1029,辛,棄疾,zh,male,NULL,NULL,NULL,NULL,1140,1207,NULL,NULL,PL0153,,,,https://en.wikipedia.org/wiki/Xin_Qiji ,ONLINE SOURCE,,,,,,,2019-11-28,MG,2019-11-28,MG
+P1029,Xin,Qiji,en,male,NULL,NULL,NULL,NULL,1140,1207,NULL,NULL,PL0153,,,,https://en.wikipedia.org/wiki/Xin_Qiji ,ONLINE SOURCE,,,,,,,2019-11-28,MG,2019-11-28,MG
 P1030,Lin,Daojing,en,female,,,,,,,NULL,NULL,,,,,SS00600,,,,F,,,,2019-12-02,MG,2019-12-02,MG
 P1030,林,道静,zh,female,,,,,,,NULL,NULL,,,,,SS00600,,,,F,,,,2019-12-02,MG,2019-12-02,MG
 P1031,Yu,Yongze,en,male,,,,,,,NULL,NULL,,,,,SS00600,,,,F,,,,2019-12-02,MG,2019-12-02,MG
