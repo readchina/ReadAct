@@ -1368,4 +1368,5 @@ P1035,anon,Liping,en,female,,,,,,,NULL,NULL,,,,,SS00600,,,,F,,,,2019-12-02,MG,20
 P1036,anon,Xiaoyan,en,female,,,,,,,NULL,NULL,,,,,SS00600,,,,F,,,,2019-12-02,MG,2019-12-02,MG
 P1037,anon,anon,en,male,,,,,,,Xiaoyan‘s father,en,,,,,SS00600,,,,F,,,,2019-12-02,MG,2019-12-02,MG
 P1038,Feng,Yuanjun,en,female,no,NULL,NULL,NULL,1900,1974,NULL,NULL,PL0002,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,,,,,,,2019-12-02,MG,2019-12-02,MG
-P1038,冯,沅君,zh,female,no,NULL,NULL,NULL,1900,1974,NULL,NULL,PL0002,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,,,,,,,2019-12-02,MG,2019-12-02,MG
+P1038,冯,沅君,zh,female,no,NULL,NULL,NULL,1900,1974,淦女士 ,zh,PL0002,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,https://baike.baidu.com/item/%E5%86%AF%E6%B2%85%E5%90%9B/2436792?fr=aladdin,ONLINE SOURCE,,,,,2019-12-02,MG,2019-12-10,MG
+P1039,Helmer,Nora,en,female,NULL,NULL,NULL,NULL,18xx,18xx,NULL,NULL,PL0999,,2,,PS00488,,https://en.wikipedia.org/wiki/A_Doll%27s_House,ONLINE SOURCE,F,N06,,,2019-12-10,MG,2019-12-10,MG
