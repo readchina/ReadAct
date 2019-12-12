@@ -1370,3 +1370,16 @@ P1037,anon,anon,en,male,,,,,,,Xiaoyan‘s father,en,,,,,SS00600,,,,F,,,,2019-12-
 P1038,Feng,Yuanjun,en,female,no,NULL,NULL,NULL,1900,1974,NULL,NULL,PL0002,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,,,,,,,2019-12-02,MG,2019-12-02,MG
 P1038,冯,沅君,zh,female,no,NULL,NULL,NULL,1900,1974,淦女士 ,zh,PL0002,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,https://baike.baidu.com/item/%E5%86%AF%E6%B2%85%E5%90%9B/2436792?fr=aladdin,ONLINE SOURCE,,,,,2019-12-02,MG,2019-12-10,MG
 P1039,Helmer,Nora,en,female,NULL,NULL,NULL,NULL,18xx,18xx,NULL,NULL,PL0999,,2,,PS00488,,https://en.wikipedia.org/wiki/A_Doll%27s_House,ONLINE SOURCE,F,N06,,,2019-12-10,MG,2019-12-10,MG
+P1040,anon,anon,en,female,NULL,NULL,NULL,NULL,19xx,19xx,NULL,NULL,PL0999,,2,,PS00819,,,,F,N06,,,2019-12-12,MG,2019-12-12,MG
+P1041,Heine,Heinrich,de,male,NULL,NULL,NULL,NULL,1797,1856,NULL,NULL,PL0101,,,,https://en.wikipedia.org/wiki/Heinrich_Heine,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1041,海涅,海因里希,zh,male,NULL,NULL,NULL,NULL,1797,1856,NULL,NULL,PL0101,,,,https://en.wikipedia.org/wiki/Heinrich_Heine,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1042,Wen,Tianxiang,en,male,NULL,NULL,NULL,NULL,1236,1283,NULL,NULL,PL0189,,,,https://en.wikipedia.org/wiki/Wen_Tianxiang,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1042,文,天祥,zh,male,NULL,NULL,NULL,NULL,1236,1283,NULL,NULL,PL0189,,,,https://en.wikipedia.org/wiki/Wen_Tianxiang,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1043,岳,飞,zh,male,NULL,NULL,NULL,NULL,1103,1142,NULL,NULL,PL0606,,,,https://en.wikipedia.org/wiki/Yue_Fei,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1043,Yue,Fei,en,male,NULL,NULL,NULL,NULL,1103,1142,Pengju,en,PL0606,,,,https://en.wikipedia.org/wiki/Yue_Fei,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1044,Shi,Kefa,en,male,NULL,NULL,NULL,NULL,1601,1645,Zhongzheng,en,PL0607,,,,https://en.wikipedia.org/wiki/Shi_Kefa,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1044,史,可法,zh,male,NULL,NULL,NULL,NULL,1601,1645,忠正,zh,PL0607,,,,https://en.wikipedia.org/wiki/Shi_Kefa,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1045,Callaghan,Morley,en,male,NULL,NULL,NULL,NULL,1903,1990,NULL,NULL,PL0608,,,,https://en.wikipedia.org/wiki/Morley_Callaghan,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1045,,,zh,male,NULL,NULL,NULL,NULL,1903,1990,NULL,NULL,PL0608,,,,https://en.wikipedia.org/wiki/Morley_Callaghan,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1046,Daudet,Alphonse,fr,male,NULL,NULL,NULL,NULL,1840,1897,NULL,NULL,PL0609,,,,https://en.wikipedia.org/wiki/Alphonse_Daudet,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG
+P1046,都德,阿尔封斯,zh,male,NULL,NULL,NULL,NULL,1840,1897,NULL,NULL,PL0609,,,,https://en.wikipedia.org/wiki/Alphonse_Daudet,ONLINE SOURCE,,,,,,,2019-12-12,MG,2019-12-12,MG

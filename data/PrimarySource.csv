@@ -1230,5 +1230,15 @@ PS00816,The Lyrics of the New Wedding Cage,,en,P0999,G99,PL0999,19xx,unknown,,,,
 PS00817,辛稼轩词选,,zh,P1029,G28,PL0003,1957,Gu dian wen xue chu ban she,,,,,,,,,2019-11-09,MG,2019-11-28,MG
 PS00818,La Dame aux Camellias,,fr,P0236,G04,PL0003,1949,Qiming shuju,,,,,,,,,2019-12-02,MG,2019-12-10,MG
 PS00818,茶花女,,zh,P0236,G04,PL0003,1949,Qiming shuju,,,,,,,,,2019-12-02,MG,2019-12-10,MG
-PS00819,Breaking Away,,en,P1038,G04,PL0999,19xx,unknown,1926?,,,,,,,,2019-12-02,MG,2019-12-10,MG
-PS00819,隔绝,,zh,P1038,G04,PL0999,19xx,unknown,1926?,,,,,,,,2019-12-02,MG,2019-12-10,MG
+PS00819,Breaking Away,,en,P1038,G04,PL0999,,,,,PS00820,,,,,,2019-12-02,MG,2019-12-12,MG
+PS00819,隔绝,,zh,P1038,G04,PL0999,,,,,PS00820,,,,,,2019-12-02,MG,2019-12-12,MG
+PS00820,卷葹,,zh,P1038,G28,PL0002,1983,Renmin wenxue chubanshe,1927,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00820,Juanshi,,zh-Latn-pinyin,P1038,G28,PL0002,1983,Renmin wenxue chubanshe,1927,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00821,Buch der Lieder,,de,P1041,G28,PL0003,1957,Xinwenyi chubanshe,,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00821,诗歌集,,zh,P1041,G28,PL0003,1957,Xinwenyi chubanshe,,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00822,Die Nordsee,Erster Zyklus,de,P1041,G10,,,,,,PS00821,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00823,VI,Erklärung,de,P1041,G10,,,,,,PS00822,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00824,The Two Fishermen,,en,P1045,G05,,,,,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00824,二渔夫,,zh,P1045,G05,,,,,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00825,The Last Lesson,,en,P1046,G04,PL0002,1979,Renmin meishu chubanshe,,,,,,,,,2019-12-12,MG,2019-12-12,MG
+PS00825,最后一课,,zh,P1046,G04,PL0002,1979,Renmin meishu chubanshe,,,,,,,,,2019-12-12,MG,2019-12-12,MG
