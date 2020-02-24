@@ -1243,3 +1243,22 @@ A01667,P1030,AT01,PS00842,,1950..1970~,1950..1970~,,as part of her morning routi
 A01668,P0999,AT55,PS09999,,1950..1970~,1950..1970~,,read out at a meeting,SS00600,546,3,F,unknown work G55,check reading time and narrative time,2020-02-13,MG,2020-02-13,MG
 A01669,P1056,AT13,PS00850,,1950..1970~,1950..1970~,,,SS00600,547,3,F,,check reading time and narrative time,2020-02-13,MG,2020-02-13,MG
 A01670,P1056,AT17,PS00850,,1950..1970~,1950..1970~,,,SS00600,547,3,F,,check reading time and narrative time,2020-02-13,MG,2020-02-13,MG
+A01676,P1061,AT05,PS00087,,1967,1967,,This is while he listens to his wife who preaches him about how bad his class background is. He thinks to himself that his wife is not even allowed herself to read the Little Red Book.,SS00601,11,3,F,,,2020-02-24,MG,2020-02-24,MG
+A01677,P1060,AT11,PS00857,,1967~,1967~,,Bai is entrusted with translating the part about the trees and forests (so he says).,SS00601,23,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01678,P1060,AT03,PS00857,P1059,1967~,1967~,,he lets her keep the book for now but tells her to be cautious.,SS00601,23,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01679,P1060,AT19,PS00857,P1059,1967~,1967~,,"Bai and Ye are both appalled at the pointless environmental destruction that is taking place in the countryside with the high-speed cutting down of old trees.
+Bai also explains that the book was published in 1962 in the West and become very influential. Bai wants to tell the Beijing leadership about the destruction.",SS00601,23,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01680,I0008,AT06,PS00857,,1967~,1967~,,The book is being prepared for internal publication,SS00601,23,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01681,P1059,AT16,PS00857,,1967~,1967~,,again an interaction with a book that was life transforming – 1) because of the contents of the book and 2) because of what happened…,SS00601,24,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01682,P1059,AT01,PS00857,,1967~,1967~,,she is moved by reading the book: “Carson’s deep concern suffused the simple plain sentences.”,SS00601,23,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01683,P1060,AT34,PS00857,,1967~,1967~,,he writes a letter which is similar to Silent Spring,SS00601,27,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01684,P1060,AT13,PS09999,P1059,1967~,1967~,,he writes a letter,SS00601,27,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01685,P1059,AT02,PS09999,,1967~,1967~,,Wenjie reads the letter Bai wrote and offers to handcopy it for him.,SS00601,27,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01686,P1059,AT62,PS09999,,1967~,1967~,,She gets arrested because she allegedly authored the letter and owned Bai’s copy of the book,SS00601,29,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01687,P1059,AT62,PS00857,,1967~,1967~,,She gets arrested because she allegedly authored the letter and owned Bai’s copy of the book,SS00601,29,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01688,P1062,AT21,Q0022,,1967~,1967~,,“The British colonel apparently also understood Chinese. He nodded. ‘To be or not to be…’ he added in English. ‘It’s a matter of life and death.’” ,SS00601,58,3,F,action takes place at L0004,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01689,P1058,AT21,Q0022,,1967~,1967~,,"Wang and Ding in conversation:“Ding you clearly know a lot more than I do. Can you tell me more? You really believe that the laws of physics are not invariant across time and space?”
+“I don’t know anything.” Ding stared into Wang’s eyes for a long time. Finally; he said “But that is the question.”
+Wang knew that he was only finishing what the British colonel had begun to say: To be or not to be: that is the question.",SS00601,74,3,F,,pls check act_start and end,2020-02-24,MG,2020-02-24,MG
+A01690,P1059,AT01,PS00858,,1966..1968,1966..1968,,This paper is crucial for her realization about extraterrestrial life,SS00601,281f,3,F,,,2020-02-24,MG,2020-02-24,MG
+A01691,P0999,AT31,PS09999,P1059,1976..1979,1976..1979,,Some village kids come with a textbook to Ye Wenjie to seek her help preparing for the National College Entrance Exams,SS00601,314,3,F,unknown work G20,,2020-02-24,MG,2020-02-24,MG
