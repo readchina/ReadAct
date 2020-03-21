@@ -8,12 +8,15 @@
 @test "Acts: individuals in Act.agent" {
   run mlr --csv join -j agent -r person_id --np --ul -f csv/data/Act.csv then cut -f agent then uniq -a -n csv/data/Person.csv
   [ "$status" -eq 0 ]
-  [ "${lines[1]}" -eq 0 ]
+  # 1 institutional agent is confirmed
+  # echo "# count is " ${lines[1]} >&3
+  [ "${lines[1]}" -eq 1 ]
 }
 
 @test "Acts: types in Act.action" {
   run mlr --csv join -j action -r action_id --np --ul -f csv/data/Act.csv then cut -f action then uniq -a -n csv/data/ActType.csv
   [ "$status" -eq 0 ]
+  # echo "# count is " ${lines[1]} >&3
   [ "${lines[1]}" -eq 0 ]
 }
 
