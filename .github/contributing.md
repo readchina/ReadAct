@@ -1,6 +1,7 @@
 # Contributing Guidelines
+We welcome contributions to both the contents of the database and as well as our data model. If you are unsure if your data would make a good fit for inclusion into *ReadAct* feel free to open an issue or otherwise get in touch.
 
-We welcome contributions to both the contents of the database and as well as our data model. If you are unsure if your data would make a good fit for inclusion into *ReadAct* feel free to open an issue or otherwise get in touch. 
+We cannot accept PRs that contain personal information, as the result of field work. All data must satisfy the [GDPR](https://gdpr-info.eu).
 
 ## Research Assistants (HiWis)
 Student assistants who join our project should always consults. the step-by-step guidelines for how to use git, work with spreadsheets, best practices, etc. in the [wiki](https://github.com/readchina/ReadingData/wiki).
