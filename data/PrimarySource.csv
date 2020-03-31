@@ -235,7 +235,7 @@ PS00188,Zhongguo tongshi jian bian,,zh-Latn-pinyin,P0639,G19,,,,,,,,,,,2018-04-2
 PS00188,中国通史简编,,zh,P0639,G19,,,,,,,,,,,2018-01-25,OS,2018-07-24,MG
 PS00191,反杜林论,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-06-22,DP
 PS00191,Fan du lin lun,,zh-Latn-pinyin,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-04-25,MG,2018-04-25,MG
-PS00191,Stories Old and New,,zh,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2018-01-25,OS
+PS00191,Stories Old and New,,en,P0192,G05,PL0002,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2020-03-31,DP
 PS00194,The Gadfly,,en,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2018-02-02,OS
 PS00194,Niumeng,,zh-Latn-pinyin,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-04-25,MG,2018-05-29,WH
 PS00194,牛虻,,zh,P0231,G04,PL0002,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2018-02-02,OS
@@ -261,7 +261,6 @@ PS00203,基督山伯爵,,zh,P0236,G04,PL0003,1930,Shangwu yinshuguan,,NULL,,,,An
 PS00206,The Song of the Sea,,en,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-02-09,OS,2018-04-18,MG
 PS00206,Haiyang zhi ge,,zh-Latn-pinyin,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-04-25,MG,2018-05-29,WH
 PS00206,海洋之歌,,zh,P0023,G10,NULL,1967,NULL,NULL,NULL,,,,written in 1967. not officially published,,2018-02-09,OS,2018-02-09,OS
-PS00207,unknown,,en,P0178,G19,NULL,NULL,NULL,NULL,NULL,,,,,,2018-02-11,OS,2018-02-11,OS
 PS00207,unknown,,en,P0178,G19,NULL,NULL,NULL,NULL,NULL,,,,,,2018-02-11,OS,2018-02-11,OS
 PS00208,When Lotuses Bloom Again,,en,P0071,G04,,,,,,,,,never officially published?,,2018-02-11,OS,2018-04-18,MG
 PS00208,Dang furonghua chongxin kaifang de shihou,,zh-Latn-pinyin,P0071,G04,,,,,,,,,never officially published?,,2018-04-25,MG,2018-05-29,WH
@@ -797,7 +796,7 @@ PS00492,Manna's Memories,,en,P0999,G06,,,,,,,,,Translated by project member.,,20
 PS00492,曼娜回忆录,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,WH
 PS00493,The Plum Blossom Party,,en,P0999,G06,,,,,,,,,Translated by project member.,,2018-10-24,MG,2018-10-24,WH
 PS00493,梅花党,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,WH
-PS00493,When the Sunset Disappears,,zh,P0999,G06,,,,,,,,,,,2018-10-24,MG,2018-10-24,WH
+PS00632,When the Sunset Disappears,,zh,P0999,G06,,,,,,,,,,See #399,2018-10-24,MG,2020-03-31,DP
 PS00494,A Rainy Alley,,en,P0661,G10,,,,,,,,,the poem was written in 1927,,2018-11-14,MG,2018-11-14,WH
 PS00494,雨巷,,zh,P0661,G10,,,,,,,,,the poem was written in 1927,,2018-11-14,MG,2018-11-14,WH
 PS00500,World Affairs,,en,P0999,G52,PL0003,1934,Shijie zhishi chubanshe,1934,no,,,,,,2018-11-03,WH,2018-11-03,WH
@@ -827,15 +826,15 @@ PS00507,朝鲜,,zh,P0999,G52,,,Nanjing Foreign Languages Bookstore,,no,,,,,,2018
 PS00508,Translation of Selected Passages,,en,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00508,Zhai yi,,zh-Latn-pinyin,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00508,摘译,,zh,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00508,Xuexi yu pipan,,zh-Latn-pinyin,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00508,学习与批判,,zh,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00509,Critique and Study,,en,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
+PS00633,Xuexi yu pipan,,zh-Latn-pinyin,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2020-03-31,DP
+PS00633,学习与批判,,zh,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2020-03-31,DP
+PS00633,Critique and Study,,en,P0999,G52,PL0003,1973,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2020-03-31,DP
 PS00509,Morning Glow,,en,P0999,G52,PL0003,1976,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00509,Zhaoxia,,zh-Latn-pinyin,P0999,G52,PL0003,1976,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00509,朝霞,,zh,P0999,G52,PL0003,1976,Shanghai renmin chubanshe,,no,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00510,Soviet Domestic Capitalist Rstoration Note (1953~1973),,en,P0700,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00510,Sulian guonei zibenzhuzi fubi jishi (1953~1973),,zh-Latn-pinyin,P0700,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00510,苏联国内资本主义复辟记事（1953~1973）,,zh,P0700,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
+PS00510,Soviet Domestic Capitalist Restoration Note (1953~1973),,en,P0111,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2020-03-31,DP
+PS00510,Sulian guonei zibenzhuzi fubi jishi (1953~1973),,zh-Latn-pinyin,P0111,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2020-03-31,DP
+PS00510,苏联国内资本主义复辟记事（1953~1973）,,zh,P0111,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2020-03-31,DP
 PS00511,Stalinism,,en,P0999,G99,,,,,no,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00511,Sidalin zhuyi,,zh-Latn-pinyin,P0999,G99,,,,,no,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00511,斯大林主义,,zh,P0999,G99,,,,,no,,,,,,2018-11-04,WH,2018-11-04,WH
@@ -1139,8 +1138,8 @@ PS00609,饿乡纪程,,zh,P0814,G75,PL0185,1981,Changjiang wenyi chubanshe,1921,n
 PS00630,毛泽东的青年时代,,zh,P0675,G02,PL0002,1950,Renmin chubanshe,1948,,,,,The word ‘Tongzhi’ was added to the work name after ‘Mao Zedong’ on the first Chinese edition.,,2018-12-15,MG,2019-04-24,WH
 PS00610,Impressions of The Red Capital,,en,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-08,MG,2019-04-24,WH
 PS00610,赤都心史,,zh,P0814,G75,PL0002,1953,Renmin wenxue chubanshe,1924,no,,,,This article was published as a capital of his collection.,,2019-03-09,MG,2019-04-24,WH
-PS00631,Сказание о директоре Прончатове,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2019-05-02,WH
-PS00631,Pulongqiatuofu jingli de gushi,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2019-05-02,WH
+PS00631,Сказание о директоре Прончатове,,ru,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2020-03-31,DP
+PS00631,Pulongqiatuofu jingli de gushi,,zh-Latn-pinyin,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2019-05-02,WH,2020-03-31,DP
 PS00631,普隆恰托夫经理的故事,,zh,P0690,G04,PL0003,1973,Shanghai renmin chubanshe,,yes,,,,,,2018-12-15,MG,2019-05-02,WH
 PS00611,昨日的我已不是我,,zh,P0006,G10,,,,,,,,,,publication info will be added later,2019-03-09,MG,2019-03-09,WH
 PS00612,Chaitou Feng,,zh-Latn-pinyin,P0691,G13,PL0999,unknown,unknown,,,,,,,publication info will be added later,2018-12-15,MG,2019-06-04,WH

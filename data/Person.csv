@@ -159,7 +159,7 @@ P0079,Alliluyeva,Svetlana,en,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,htt
 P0079,阿利卢耶娃,斯韦特兰娜,zh,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-08,MG
 P0079,Аллилу́ева,Светла́на,ru,female,NULL,NULL,NULL,NULL,1926,2011,,,PL0027,,,https://en.wikipedia.org/wiki/Svetlana_Alliluyeva,,,,,,2017-07-09,OS,2018-01-08,MG
 P0080,Althusser,Louis,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2017-07-09,OS,2018-01-08,MG
-P0080,阿尔都塞,路易,en,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2018-02-03,OS,2018-02-03,OS
+P0080,阿尔都塞,路易,zh,male,NULL,NULL,NULL,NULL,1918,1990,,,PL0028,,,https://en.wikipedia.org/wiki/Louis_Althusser,,,,,,2018-02-03,OS,2020-03-31,DP
 P0081,Anagnosti,Dhimitër,en,male,NULL,NULL,NULL,NULL,1936,,,,PL0029,,,https://en.wikipedia.org/wiki/Dhimit%C3%ABr_Anagnosti,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,Andreyev,Leonid,en,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
 P0082,安德列耶夫,列昂尼德,zh,male,NULL,NULL,NULL,NULL,1871,1919,,,PL0030,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,2017-07-09,OS,2018-01-08,MG
@@ -996,8 +996,8 @@ P0669,Guan,Shanyue,en,male,unknown,NULL,NULL,NULL,1912,2000,Guan Zepei,en,PL0423
 P0669,关,山月,zh,male,unknown,NULL,NULL,NULL,1912,2000,NULL,NULL,PL0423,NULL,NULL,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
 P0670,Gauguin,Paul,fr,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
 P0670,高更,保羅,zh,male,NULL,NULL,NULL,NULL,1848,1903,NULL,NULL,PL0047,NULL,NULL,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,2018-11-21,MG,2018-11-21,MG
-P0700,Ke,Xiong,en,unknown,unknown,unknown,unknown,PL0999,unknown,unknown,NULL,NULL,PL0999,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2018-11-04,WH
-P0700,柯,雄,zh,unknown,unknown,unknown,unknown,PL0999,unknown,unknown,NULL,NULL,PL0999,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2018-11-04,WH
+P0111,Ke,Xiong,en,unknown,unknown,unknown,unknown,PL0999,unknown,unknown,NULL,NULL,PL0999,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2020-03-31,DP
+P0111,柯,雄,zh,unknown,unknown,unknown,unknown,PL0999,unknown,unknown,NULL,NULL,PL0999,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,2018-11-04,WH,2020-03-31,DP
 P0701,Xue,Shanggong,en,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0096,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%96%9B%E5%B0%9A%E5%8A%9F,,,,,,2018-11-04,WH,2018-11-04,WH
 P0701,薛,尚功,zh,male,NULL,NULL,NULL,NULL,unknown,unknown,NULL,NULL,PL0096,NULL,NULL,https://zh.wikipedia.org/wiki/%E8%96%9B%E5%B0%9A%E5%8A%9F,,,,,,2018-11-04,WH,2018-11-04,WH
 P0702,Tonkov,Vladimir Nikolaevich,en,male,NULL,NULL,NULL,NULL,1872,1954,NULL,NULL,PL0412,NULL,NULL,"https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",,,,,,2018-11-04,WH,2018-08-20,DP
