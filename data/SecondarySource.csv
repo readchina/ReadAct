@@ -1,16 +1,16 @@
 sec_source_id,title,subtitle,title_lang,author,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,commentary,note,created,created_by,last_modified,last_modified_by
 SS00003,Red Sorrow,A Memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,2017-07-12,OS,2018-10-18,MG
-SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
+SS00005,Endless Holidays,,zh-Latn-pinyin,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2020-04-02,DP
 SS00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,2017-07-12,OS,2018-01-12,MG
 SS00006,Walking on the Stream of History,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2017-11-04,MG
 SS00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,2017-07-12,OS,2018-05-07,MG
-SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2018-10-18,MG
+SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-pinyin,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2020-04-02,DP
 SS00007,韩少功,知青与寻根,zh,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,2017-07-12,OS,2018-10-18,MG
 SS00009,Ma Jia fangtan lu,,en,P0017,G03,,,,,NULL,SS00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
 SS00009,马佳访谈录,,zh,P0017,G03,,,,,NULL,SS00045,,216-235,,,2017-07-12,OS,2018-01-22,MG
-SS00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,2017-07-12,OS,2017-10-24,MG
+SS00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-pinyin,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,2017-07-12,OS,2020-04-02,DP
 SS00011,1960-70年代前朦胧诗的发生探源,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,2017-07-12,OS,2017-10-24,MG
-SS00012,Wuti wangshi,,zh-Latn-py,P0108,G03,,,,,NULL,SS00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
+SS00012,Wuti wangshi,,zh-Latn-pinyin,P0108,G03,,,,,NULL,SS00045,,153-176,,,2017-07-12,OS,2020-04-02,DP
 SS00012,無題往事,,zh,P0108,G03,,,,,NULL,SS00045,,153-176,,,2017-07-12,OS,2017-07-12,OS
 SS00014,"Life,  Books and Poems",,en,P0109,G03,,,,,NULL,SS00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
 SS00014,生活、书籍与诗歌,,zh,P0109,G03,,,,,NULL,SS00045,,297-307,,,2017-07-19,LH,2018-02-03,OS
@@ -180,31 +180,31 @@ SS00270,让思想冲破牢笼,,zh,P0348,G03,,,,,,SS00044,NULL,165-186,,,2018-04-
 SS00271,My Father and I,,en,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,周孜仁 recalled his father.,,2018-05-03,WH,2018-06-26,MG
 SS00271,我和父亲,,zh,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,周孜仁 recalled his father.,,2018-05-03,WH,2018-05-17,WH
 SS00272,Youth Cannot Help,,en,P0362,G03,,,,,NULL,SS00044,NULL,507-530,Translated by project member,,2018-05-15,MG,2018-05-20,MG
-SS00272,Qingchun wunai,,zh-Latn-py,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-20,MG
+SS00272,Qingchun wunai,,zh-Latn-pinyin,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2020-04-02,DP
 SS00272,青春无奈,,zh,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,2018-05-15,MG,2018-05-20,MG
 SS00249,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,P0381,G03,PL0050,1995,Viking Penguin,,NULL,,,,,,2018-05-29,MG,2018-05-29,MG
 SS00250,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,P0407,G02,PL0281,2007,State University of New York Press,,NULL,,,,,,2018-06-19,MG,2018-06-19,MG
 SS00251,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,P0411,G02,PL0050,1991,Pantheon Books,,NULL,,,,,,2018-06-25,MG,2018-06-26,MG
 SS00252,Listening to Enemy Broadcasting Stations,,en,P0412,G02,,,,,,SS00044,NULL,147-153,Translated by project member,,2018-06-26,MG,2018-06-26,MG
-SS00252,Ting ditai,,zh-Latn-py,P0412,G02,,,,,,SS00044,NULL,147-153,,,2018-06-26,MG,2018-06-26,MG
+SS00252,Ting ditai,,zh-Latn-pinyin,P0412,G02,,,,,,SS00044,NULL,147-153,,,2018-06-26,MG,2020-04-02,DP
 SS00252,听敌台,,zh,P0412,G02,,,,,,SS00044,NULL,147-153,,,2018-06-26,MG,2018-06-26,MG
 SS00253,The Daily Linguistics in the 1970s,,en,P0624,G02,,,,,,SS00044,NULL,319-330,Translated by project member,,2018-07-10,MG,2018-07-17,MG
-SS00253,Qishi niandai richang yuyanxue,,zh-Latn-py,P0624,G02,,,,,,SS00044,NULL,319-330,,,2018-07-10,MG,2018-07-17,MG
+SS00253,Qishi niandai richang yuyanxue,,zh-Latn-pinyin,P0624,G02,,,,,,SS00044,NULL,319-330,,,2018-07-10,MG,2020-04-02,DP
 SS00253,七十年代日常语言学,,zh,P0624,G02,,,,,,SS00044,NULL,319-330,,,2018-07-10,MG,2018-07-17,MG
 SS00254,Ignorance as a Kind of Nourishment,,en,P0625,G02,,,,,,SS00044,NULL,13-30,Translated by project member,,2018-07-10,MG,2018-07-17,MG
-SS00254,Yumei zuowei yizhong yangliao,,zh-Latn-py,P0625,G02,,,,,,SS00044,NULL,13-30,,,2018-07-10,MG,2018-07-17,MG
+SS00254,Yumei zuowei yizhong yangliao,,zh-Latn-pinyin,P0625,G02,,,,,,SS00044,NULL,13-30,,,2018-07-10,MG,2020-04-02,DP
 SS00254,愚昧作为一种养料,,zh,P0625,G02,,,,,,SS00044,NULL,13-30,,,2018-07-10,MG,2018-07-17,MG
 SS00255,Born American,A Chinese Woman‘s Dream of Liberty,en,P0700,G03,PL0402,2009,Nimble Books,,,NULL,NULL,,,,2018-10-16,LH,2018-10-16,LH
 SS00256,Me Before and After the ‘May Fourth Incident’,,en,P0662,G03,,,,,,SS00044,NULL,203-234,Translated by project member,,2018-11-18,MG,2018-11-18,MG
 SS00256,我在‘五四事件’前后,,zh,P0662,G03,,,,,,SS00044,NULL,203-234,,,2018-11-18,MG,2018-11-18,MG
 SS00257,张平化的9.24报告与抓“黑 鬼”运动,,zh,P0031,G03,,,,,,http://www.xujuneberlein.com/rem53.html#B,NULL,ONLINE SOURCE,,,2018-11-18,MG,2018-11-18,MG
 SS00258,Start on a Journal,A Rural Child's Memory About the Seventies,en,P0711,G03,,,,,NULL,SS00044,NULL,93-103,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00258,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-py,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,2018-11-06,WH,2018-11-26,WH
+SS00258,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-pinyin,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,2018-11-06,WH,2020-04-02,DP
 SS00258,起程,一个农村孩子关于七十年代的记忆,zh,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,2018-11-06,WH,2018-11-26,WH
 SS00259,Wei Village,,en,P0712,G03,,,,,NULL,SS00044,NULL,155-164,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00259,Wei zhuang,,zh-Latn-py,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,2018-11-06,WH,2018-11-26,WH
+SS00259,Wei zhuang,,zh-Latn-pinyin,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,2018-11-06,WH,2020-04-02,DP
 SS00259,魏庄,,zh,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,2018-11-06,WH,2018-11-26,WH
 SS00260,Me before and after the  'April Fifth Events',,en,P0713,G03,,,,,NULL,SS00044,NULL,203-233,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00260,Wo zai siwu shijian qianhou,,zh-Latn-py,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,2018-11-06,WH,2018-11-26,WH
+SS00260,Wo zai siwu shijian qianhou,,zh-Latn-pinyin,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,2018-11-06,WH,2020-04-02,DP
 SS00260,我在’四五事件‘前后,,zh,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,2018-11-06,WH,2018-11-26,WH
 SS00261,The Most Wanted Man in China,My Journey from Scientist to Enemy of the State,en,P0808,G03,PL0050,2016,Henry Holt,,NULL,NULL,NULL,,,,2019-02-19,LH,2019-02-19,LH
