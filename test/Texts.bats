@@ -51,11 +51,11 @@
 
 # Quotation
 @test "primaries in Quotation.source" {
-  result=$(mlr --csv join -j source --np --ul -f data/Quotation.csv then cut -f source then uniq -a data/PrimarySource.csv | grep -ow -c "PS[0-9]+" || true)
+  result=$(mlr --csv join -j source --np --ul -f data/Quotation.csv then cut -f source then uniq -a data/Work.csv | grep -ow -c "W[0-9]+" || true)
   [ "$result" -eq 0 ]
 }
 
 @test "secondaries in Quotation.source_id" {
-  result=$(mlr --csv join -j source --np --ul -f data/Quotation.csv then cut -f source then uniq -a data/SecondarySource.csv | grep -ow -c "SS[0-9]+" || true)
+  result=$(mlr --csv join -j source --np --ul -f data/Quotation.csv then cut -f source then uniq -a data/Work.csv | grep -ow -c "W[0-9]+" || true)
   [ "$result" -eq 0 ]
 }
