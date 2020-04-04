@@ -1,15 +1,15 @@
 sec_source_id,title,subtitle,title_lang,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,note,created,created_by,last_modified,last_modified_by
-W0418,Red Sorrow,A Memoir,en,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,2017-07-12,OS,2020-04-02,DP
+W0418,Red Sorrow,A Memoir,en,G03,PL0050,2001,Arcade Publishing,NULL,NULL,NULL,,0,,2017-07-12,OS,2020-04-02,DP
 W0419,漫长的假期,,zh,G03,PL0002,2009,Sanlian shudian,,NULL,W0431,NULL,563-585,,2017-07-12,OS,2020-04-02,DP
 W0419,Endless Holidays,,zh-Latn-pinyin,G03,PL0002,2009,Sanlian shudian,,NULL,W0431,NULL,563-585,,2017-07-12,OS,2020-04-02,DP
-W0420,Walking on the Stream of History,,en,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
-W0420,行走在历史的河流,,zh,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
-W0421,韩少功,知青与寻根,zh,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
-W0421,Han Shaogong,Zhiqing yu xungen,Zh-Latn-pinyin,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
+W0420,Walking on the Stream of History,,en,G03,PL0001,2006,Shehui kexue luntan,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
+W0420,行走在历史的河流,,zh,G03,PL0001,2006,Shehui kexue luntan,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
+W0421,韩少功,知青与寻根,zh,G22,PL0001,2013,Xinmin zhoukan,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
+W0421,Han Shaogong,Zhiqing yu xungen,Zh-Latn-pinyin,G22,PL0001,2013,Xinmin zhoukan,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
 W0422,Ma Jia fangtan lu,,en,G03,,,,,NULL,W0432,,216-235,,2017-07-12,OS,2020-04-02,DP
 W0422,马佳访谈录,,zh,G03,,,,,NULL,W0432,,216-235,,2017-07-12,OS,2020-04-02,DP
-W0423,1960-70年代前朦胧诗的发生探源,,zh,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
-W0423,1960-1970 niandai qian menglongshi de fasheng tanyuan,,Zh-Latn-pinyin,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,2017-07-12,OS,2020-04-02,DP
+W0423,1960-70年代前朦胧诗的发生探源,,zh,G19,PL0090,2014,Yangzi hong pinglun,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
+W0423,1960-1970 niandai qian menglongshi de fasheng tanyuan,,Zh-Latn-pinyin,G19,PL0090,2014,Yangzi hong pinglun,,NULL,NULL,,,,2017-07-12,OS,2020-04-02,DP
 W0424,無題往事,,zh,G03,,,,,NULL,W0432,,153-176,,2017-07-12,OS,2020-04-02,DP
 W0424,Wuti wangshi,,Zh-Latn-pinyin,G03,,,,,NULL,W0432,,153-176,,2017-07-12,OS,2020-04-02,DP
 W0425,"Life,  Books and Poems",,en,G03,,,,,NULL,W0432,,297-307,,2017-07-19,LH,2020-04-02,DP
@@ -18,16 +18,16 @@ W0426,I Almost Killed Someone That Year,,en,G03,,2010,Remembrance,2010,no,http:/
 W0426,那年我差点杀人,,zh,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-02,DP
 W0427,Trivia at Beijing No. 4 High School,,en,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-02,DP
 W0427,春色谁为主，南北东西路——四中琐记,,zh,G03,,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-02,DP
-W0428,‘Meeting by Chance’,Memories of Books and the Reading in my Memories,en,G03,PL0002,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-02,DP
-W0428,"""不期而遇""",对书的记忆与记忆中的读书,zh,G03,PL0002,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-02,DP
-W0429,The Literary Inquisition of ‘The Second Handshake’,,en,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-02,DP
-W0429,《第二次握手》文字狱,,zh,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-02,DP
+W0428,‘Meeting by Chance’,Memories of Books and the Reading in my Memories,en,G03,PL0002,2012,Dushu,2012,no,NULL,"2012,09",116-125,,2017-07-28,LH,2020-04-02,DP
+W0428,"""不期而遇""",对书的记忆与记忆中的读书,zh,G03,PL0002,2012,Dushu,2012,no,NULL,"2012,09",116-125,,2017-07-28,LH,2020-04-02,DP
+W0429,The Literary Inquisition of ‘The Second Handshake’,,en,G03,PL0002,1999,Zhongguo shehui chubanshe,1999,no,NULL,,,,2017-08-01,LH,2020-04-02,DP
+W0429,《第二次握手》文字狱,,zh,G02,PL0002,1999,Zhongguo shehui chubanshe,1999,no,NULL,,,,2017-08-01,LH,2020-04-02,DP
 W0430,Dreams and Reminiscences,,en,G03,,,,,NULL,W0431,NULL,441-456,,2017-08-08,MG,2020-04-02,DP
 W0430,梦想与回忆,,zh,G03,,,,,NULL,W0431,NULL,441-456,,2017-08-08,MG,2020-04-02,DP
-W0431,The Seventies,,en,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,2017-08-07,MG,2020-04-02,DP
-W0431,七十年代,,zh,G03,PL0002,2009,Sanlian shudian,,NULL,,,,,2017-08-07,MG,2020-04-02,DP
-W0432,A Sunken Holy Place,,en,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,2017-08-11,MG,2020-04-02,DP
-W0432,沉沦的圣殿,,zh,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,,,,,2017-08-11,MG,2020-04-02,DP
+W0431,The Seventies,,en,G03,PL0002,2009,Sanlian shudian,,NULL,NULL,,,,2017-08-07,MG,2020-04-02,DP
+W0431,七十年代,,zh,G03,PL0002,2009,Sanlian shudian,,NULL,NULL,,,,2017-08-07,MG,2020-04-02,DP
+W0432,A Sunken Holy Place,,en,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,,,,2017-08-11,MG,2020-04-02,DP
+W0432,沉沦的圣殿,,zh,G02,PL0054,1999,Xinjiang qingshaonian chubanshe,,NULL,NULL,,,,2017-08-11,MG,2020-04-02,DP
 W0433,The Story of Translators,,en,G43,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,2017-09-06,CW,2020-04-02,DP
 W0433,翻译家的故事,,zh,G43,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,2017-09-06,CW,2020-04-02,DP
 W0434,The Uses of Literature,Life in the Socialist Chinese Literary System,en,G19,PL0072,2000,Princeton Univ. Press,,,NULL,,NULL,,2017-09-22,MG,2020-04-02,DP
@@ -101,7 +101,7 @@ W0471,"Explorations, Rectification and Fate",,en,G03,PL0002,2009,Sanlian shudian
 W0471,探讨，整肃与命运,,zh,G03,PL0002,2009,Sanlian shudian,,NULL,W0431,NULL,413-440,,2018-01-08,MG,2020-04-02,DP
 W0472,Chongqing Stove Ignited,,en,G02,,2008,Guojia lishi,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,2018-01-10,MG,2020-04-02,DP
 W0472,重庆火炉在燃烧,,zh,G02,,2008,Guojia lishi,,NULL,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,NULL,,2018-01-10,MG,2020-04-02,DP
-W0473,Spider Eaters,A Memoir,en,G03,PL0114,1997,University of California Press,,NULL,,NULL,NULL,,2018-01-10,MG,2020-04-02,DP
+W0473,Spider Eaters,A Memoir,en,G03,PL0114,1997,University of California Press,,NULL,NULL,NULL,NULL,,2018-01-10,MG,2020-04-02,DP
 W0474,Course of Books,A Spirited Reading History,en,G44,,,,,NULL,W0432,NULL,4-16,,2018-01-12,MG,2020-04-02,DP
 W0474,书的轨道,一部精神阅读史,zh,G44,,,,,NULL,W0432,NULL,4-16,,2018-01-12,MG,2020-04-02,DP
 W0475,Those Times in the Mist of Light and Shade,,en,G03,,,,,NULL,W0431,NULL,547-562,,2018-01-12,MG,2020-04-02,DP
@@ -144,14 +144,14 @@ W0493,A Transcript of the Interview With Lin Mang,,en,G02,,,,,NULL,W0432,,282-29
 W0493,林莽访谈录,,zh,G02,,,,,NULL,W0432,,282-296,,2018-02-03,OS,2020-04-02,DP
 W0494,"""Jintian"" and I",,en,G03,,,,,NULL,W0432,,379-410,,2018-02-03,OS,2020-04-02,DP
 W0494,《今天》与我,,zh,G03,,,,,NULL,W0432,,379-410,,2018-02-03,OS,2020-04-02,DP
-W0495,Growing up in the People's Republic,Conversations Between two Daughters of China's Revolution,en,G03,PL0050,2005,Palgrave MacMillan,,NULL,,,,,2018-02-06,OS,2020-04-02,DP
-W0496,The Unknown Cultural Revolution,,en,G19,PL0050,2008,Monthly Review Press,,NULL,,,186,,2018-02-13,OS,2020-04-02,DP
+W0495,Growing up in the People's Republic,Conversations Between two Daughters of China's Revolution,en,G03,PL0050,2005,Palgrave MacMillan,,NULL,NULL,,,,2018-02-06,OS,2020-04-02,DP
+W0496,The Unknown Cultural Revolution,,en,G19,PL0050,2008,Monthly Review Press,,NULL,NULL,,186,,2018-02-13,OS,2020-04-02,DP
 W0497,From ‘Criticizing the Toxic’ to ‘Spreading the Toxic’,My Cultural Revolution Encounter and Teacher Wang’s Death,en,G03,,2011-06-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem72.html,No 72,NULL,,2018-02-19,MG,2020-04-02,DP
 W0497,从‘批毒’到‘散毒’,我的文革遭遇与汪含英老师之死,zh,G03,,2011-06-30,Remembrance,,NULL,http://www.xujuneberlein.com/rem72.html,No 72,NULL,,2018-02-19,MG,2020-04-02,DP
-W0498,Confessions,,en,G03,PL0050,2008,Norton,,NULL,,,455,,2018-02-27,OS,2020-04-02,DP
+W0498,Confessions,,en,G03,PL0050,2008,Norton,,NULL,NULL,,455,,2018-02-27,OS,2020-04-02,DP
 W0499,A Stirrup cup for the Past,Remembering a Friend From the 1970s,en,G03,,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-02,DP
 W0499,骊歌清酒忆旧时,记七十年代我的一个朋友,zh,G03,,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-02,DP
-W0500,Red China Blues,My Long March From Mao to now,en,G03,PL0050,1997,Anchor Books,,NULL,,,416,,2018-02-16,OS,2020-04-02,DP
+W0500,Red China Blues,My Long March From Mao to now,en,G03,PL0050,1997,Anchor Books,,NULL,NULL,,416,,2018-02-16,OS,2020-04-02,DP
 W0501,Poetic Age--Memories Of The 1970s,,en,G03,,2008-08-05,,,NULL,chuansong.me/n/1180812,NULL,ONLINE SOURCE,,2018-02-21,MG,2020-04-02,DP
 W0501,诗样年华--1970年代的回忆,,zh,G03,,2008-08-05,,,NULL,chuansong.me/n/1180812,NULL,ONLINE SOURCE,,2018-02-21,MG,2020-04-02,DP
 W0502,Title: Interview With Jiang Dingyue (Wan Li's Second Child Mo Zhongxiang's Ex-wife),,en,G02,,2012-03-05,,,NULL,https://book.douban.com/review/6519809/,NULL,ONLINE SOURCE,,2018-02-27,MG,2020-04-02,DP
@@ -172,9 +172,9 @@ W0509,'September 13' In The Memories Of The Provincial Secretary,,en,G03,,2011-0
 W0509,省委秘书记忆中的’九一三‘,,zh,G03,,2011-09-15,,,NULL,http://www.aisixiang.com/data/44238.html,NULL,ONLINE SOURCE,,2018-02-27,MG,2020-04-02,DP
 W0510,Interview with Mang Ke,,en,G43,,2014,,,NULL,W0423,NULL,256-268,,2018-02-27,MG,2020-04-02,DP
 W0510,芒克访谈,,zh,G43,,2014,,,NULL,W0423,NULL,256-268,,2018-02-27,MG,2020-04-02,DP
-W0511,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,G02,PL0050,1993,The Atlantic Monthly Press,,NULL,,,,,2018-03-06,MG,2020-04-02,DP
-W0512,Vermilion Gate,,en,G03,PL0036,2000,Little: Brown and Company,,NULL,,NULL,,,2018-03-17,MG,2020-04-02,DP
-W0513,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,G03,,1998,University of Massachusetts Press,,NULL,,,,,2018-03-27,MG,2020-04-02,DP
+W0511,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,G02,PL0050,1993,The Atlantic Monthly Press,,NULL,NULL,,,,2018-03-06,MG,2020-04-02,DP
+W0512,Vermilion Gate,,en,G03,PL0036,2000,Little: Brown and Company,,NULL,NULL,NULL,,,2018-03-17,MG,2020-04-02,DP
+W0513,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,G03,,1998,University of Massachusetts Press,,NULL,NULL,,,,2018-03-27,MG,2020-04-02,DP
 W0514,Let the Thought Brake the Cage,,en,G03,,,,,,W0431,NULL,165-186,,2018-04-09,MG,2020-04-02,DP
 W0514,让思想冲破牢笼,,zh,G03,,,,,,W0431,NULL,165-186,,2018-04-09,MG,2020-04-02,DP
 W0515,My Father and I,,en,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,,2018-05-03,WH,2020-04-02,DP
@@ -182,9 +182,9 @@ W0515,我和父亲,,zh,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4
 W0516,Youth Cannot Help,,en,G03,,,,,NULL,W0431,NULL,507-530,,2018-05-15,MG,2020-04-02,DP
 W0516,青春无奈,,zh,G03,,,,,NULL,W0431,NULL,507-530,,2018-05-15,MG,2020-04-02,DP
 W0516,Qingchun wunai,,Zh-Latn-pinyin,G03,,,,,NULL,W0431,NULL,507-530,,2018-05-15,MG,2020-04-02,DP
-W0517,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,G03,PL0050,1995,Viking Penguin,,NULL,,,,,2018-05-29,MG,2020-04-02,DP
-W0518,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,G02,PL0281,2007,State University of New York Press,,NULL,,,,,2018-06-19,MG,2020-04-02,DP
-W0519,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,G02,PL0050,1991,Pantheon Books,,NULL,,,,,2018-06-25,MG,2020-04-02,DP
+W0517,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,G03,PL0050,1995,Viking Penguin,,NULL,NULL,,,,2018-05-29,MG,2020-04-02,DP
+W0518,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,G02,PL0281,2007,State University of New York Press,,NULL,NULL,,,,2018-06-19,MG,2020-04-02,DP
+W0519,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,G02,PL0050,1991,Pantheon Books,,NULL,NULL,,,,2018-06-25,MG,2020-04-02,DP
 W0520,Listening to Enemy Broadcasting Stations,,en,G02,,,,,,W0431,NULL,147-153,,2018-06-26,MG,2020-04-02,DP
 W0520,听敌台,,zh,G02,,,,,,W0431,NULL,147-153,,2018-06-26,MG,2020-04-02,DP
 W0520,Ting ditai,,Zh-Latn-pinyin,G02,,,,,,W0431,NULL,147-153,,2018-06-26,MG,2020-04-02,DP
