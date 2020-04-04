@@ -1,0 +1,108 @@
+{
+  "fields": [{
+      "name": "inst_id",
+      "constraints": {
+        "required": true,
+        "pattern": "I[0-9]{4}"
+      }
+    },
+    {
+      "name": "inst_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "inst_name_lang",
+      "constraints": {
+        "required": true,
+        "pattern": "[a-z]{2}"
+      }
+    }, {
+      "name": "place",
+      "constraints": {
+        "required": false,
+        "pattern": "(^$|PL[0-9]{4})"
+      }
+    }, {
+      "name": "start",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    }, {
+      "name": "end",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    }, {
+      "name": "alt_start",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    }, {
+      "name": "alt_end",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    }, {
+      "name": "inst_alt_name",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "commentary",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "note",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "source",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "page",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": ["inst_ID", "inst_name"],
+  "missingValues": ["", "NULL"]
+}

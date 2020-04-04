@@ -7,19 +7,19 @@ We cannot accept PRs that contain personal information, as the result of field w
 Student assistants who join our project should always consults. the step-by-step guidelines for how to use git, work with spreadsheets, best practices, etc. in the [wiki](https://github.com/readchina/ReadingData/wiki).
 
 ## Data Directory
-The main data files are in `csv` format and located inside the `data/` directory. The source encoding is `utf-8` and uses **commas** `,` as field separators. The `csv` files are the authoritative files used for populating the SQL database as well as for generating the `tei-xml` files driving the *ReadAct* web application.
+The main data files are in `csv` format and located inside the `csv/data/` directory. The source encoding is `utf-8` and uses **commas** `,` as field separators. The `csv` files are the authoritative files used for populating the SQL database as well as for generating the `tei-xml` files driving the *ReadAct* web application.
 
 ## Validation and consistency
 To maintain data consistency we use two test suites, which are automatically carried out by our CI service on each commit or PR. Only PRs that satisfy our tests can be reviewed and merged.
 
-Structural changes, e.g. new files or new columns, as opposed to new entries or corrections, require edits to the schema files, the `data-dictionary` located in `data/helper/`, and the bats tests.
+Structural changes, e.g. new files or new columns, as opposed to new entries or corrections, require edits to the schema files, the `data-dictionary` located in `data/`, and the bats tests.
 
 ### CI and schema files
-The schemas for validating `csv` can be found at [readchina/csv-schema](https://github.com/readchina/csv-schema). The validation is run by  [csvlint](https://github.com/theodi/csvlint.rb). To run these locally you need to install `csvlint` according to these [instructions](https://github.com/theodi/csvlint.rb#installation).
+The schemas for validating `csv` can be found in `csv/schema`. The validation is run by  [csvlint](https://github.com/theodi/csvlint.rb). To run these locally you need to install `csvlint` according to these [instructions](https://github.com/theodi/csvlint.rb#installation).
 
 Each Schema is named after the corresponding csv table, so e.g. `Act.json` validates `Act.csv`. Simply navigate to the `ReadingData` folder on your hard-drive and run this command in your CLI of choice:
 ```bash
-csvlint data/Act.csv --schema=https://raw.githubusercontent.com/readchina/csv-schema/master/readingdata/Act.json
+csvlint csv/data/Act.csv --schema=csv/schema/Act.json
 ```
 
 Alternatively you can take a look at [this webpage](http://csvlint.io)

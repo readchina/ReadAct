@@ -1,0 +1,92 @@
+{
+  "fields": [{
+      "name": "artwork_id",
+      "constraints": {
+        "required": true,
+        "unique": false,
+        "pattern": "W[0-9]{4}"
+      }
+    },
+    {
+      "name": "title",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "subtitle",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "title_lang",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "art_form",
+      "constraints": {
+        "required": true,
+        "pattern": "AF[0-9]{2}"
+      }
+    },
+    {
+      "name": "first_performance_date",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    },
+    {
+      "name": "first_performance_place",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "neibu",
+      "constraints": {
+        "required": false,
+        "pattern": "(^$|yes|no)"
+      }
+    },
+    {
+      "name": "note",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": ["artwork_id", "title"],
+  "missingValues": ["", "NULL"]
+}

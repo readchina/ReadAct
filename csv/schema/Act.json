@@ -1,0 +1,120 @@
+{
+  "fields": [{
+      "name": "act_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "pattern": "A[0-9]{5}"
+      }
+    },
+    {
+      "name": "agent",
+      "constraints": {
+        "required": true,
+        "pattern": "(P|I)[0-9]{4}"
+      }
+    },
+    {
+      "name": "action",
+      "constraints": {
+        "required": true,
+        "pattern": "AT[0-9]{2}"
+      }
+    },
+    {
+      "name": "act_object",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "act_target",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "start",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    },
+    {
+      "name": "end",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    }, {
+      "name": "substantial_discussion",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "source",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "page",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "source_status",
+      "constraints": {
+        "required": false,
+        "pattern": "(\W?|[1-3])"
+      }
+    }, {
+      "name": "commentary",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "note",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "id_lang",
+      "constraints": {
+        "required": true,
+        "pattern": "en"
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "act_id",
+  "missingValues": ["", "NULL"]
+}

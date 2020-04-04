@@ -1,0 +1,54 @@
+{
+  "fields": [{
+      "name": "loc_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "pattern": "L[0-9]{4}"
+      }
+    },
+    {
+      "name": "loc_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "loc_name_lang",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "loc_id",
+  "missingValues": ["", "NULL"]
+}
