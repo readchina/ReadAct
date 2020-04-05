@@ -25,7 +25,7 @@
   run mlr --csv join -j source -r sec_source_id --np --ul -f csv/data/Act.csv then cut -f source then uniq -a -n csv/data/SecondarySource.csv
   [ "$status" -eq 0 ]
   # URL
-  [ "${lines[1]}" -eq 1 ]
+  [ "${lines[1]}" -eq 0 ]
 }
 
 # Person
