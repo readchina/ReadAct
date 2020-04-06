@@ -98,7 +98,7 @@
       "name": "source_1",
       "constraints": {
         "required": true,
-        "pattern": "(^http|[PS]S[0-9]{5})|NULL"
+        "pattern": "(^http|W[0-9]{4})|NULL"
       }
     }, {
       "name": "page_1",

@@ -44,7 +44,7 @@
       "name": "source",
       "constraints": {
         "required": true,
-        "pattern": "(^http|W[0-9]{5})"
+        "pattern": "(^http|W[0-9]{4})"
       }
     }, {
       "name": "page",

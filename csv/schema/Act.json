@@ -11,7 +11,7 @@
       "name": "agent",
       "constraints": {
         "required": true,
-        "pattern": "(P|I)[0-9]{4}"
+        "pattern": "AG[0-9]{4}"
       }
     },
     {
