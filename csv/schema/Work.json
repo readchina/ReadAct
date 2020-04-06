@@ -38,13 +38,13 @@
         "required": true,
         "min-length": 2
       }
-    },{
+    }, {
       "name": "commentary",
       "constraints": {
         "required": false
       }
     },
-     {
+    {
       "name": "note",
       "constraints": {
         "required": false

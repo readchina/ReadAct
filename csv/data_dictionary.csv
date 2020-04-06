@@ -26,6 +26,20 @@ ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
+Agent,agent_id,PP and a four-digit number (leading zeros),,,,,
+Agent,old_id,P or I or and a four-digit number (leading zeros),,,,,
+Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,,,,
+Agent,commentary,Space for background information on the agent.,,,,,
+Agent,note,Internal notes of project members,,,,,
+Agent,created,date of creation of line,,,,,
+Agent,created_by,acronym of project member creating this line,,,,,
+Agent,last_modified,date of last modification,,,,,
+Agent,last_modified_by,acronym of project member last modifying this line,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
 ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
 ArtForm,art_form_name,art form name in English - if necessary use Chinese pinyin. A guide for possible art forms is the following webpage: https://en.wikipedia.org/wiki/Fine_art,,2018-02-09,OS,2018-02-09,OS
 ArtForm,art_form_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS

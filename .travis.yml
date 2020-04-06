@@ -29,6 +29,7 @@ script:
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
   - csvlint csv/data/Act.csv --schema=csv/schema/Act.json
   - csvlint csv/data/ActType.csv --schema=csv/schema/ActType.json
+  - csvlint csv/data/Agent.csv --schema=csv/schema/Agent.json
   - csvlint csv/data/ArtForm.csv --schema=csv/schema/ArtForm.json
   - csvlint csv/data/ArtWork.csv --schema=csv/schema/ArtWork.json
   - csvlint csv/data/Genre.csv --schema=csv/schema/Genre.json
