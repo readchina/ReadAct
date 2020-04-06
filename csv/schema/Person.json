@@ -3,7 +3,7 @@
       "name": "person_id",
       "constraints": {
         "required": true,
-        "pattern": "P[0-9]{4}"
+        "pattern": "AG[0-9]{4}"
       }
     },
     {
@@ -112,11 +112,6 @@
       }
     }, {
       "name": "page_2",
-      "constraints": {
-        "required": false
-      }
-    }, {
-      "name": "commentary",
       "constraints": {
         "required": false
       }

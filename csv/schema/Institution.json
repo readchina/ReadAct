@@ -3,7 +3,7 @@
       "name": "inst_id",
       "constraints": {
         "required": true,
-        "pattern": "I[0-9]{4}"
+        "pattern": "AG[0-9]{4}"
       }
     },
     {
@@ -50,11 +50,6 @@
       }
     }, {
       "name": "inst_alt_name",
-      "constraints": {
-        "required": false
-      }
-    }, {
-      "name": "commentary",
       "constraints": {
         "required": false
       }
