@@ -26,7 +26,7 @@ ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Agent,agent_id,PP and a four-digit number (leading zeros),,,,,
+Agent,agent_id,AG and a four-digit number (leading zeros),,,,,
 Agent,old_id,P or I or and a four-digit number (leading zeros),,,,,
 Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,,,,
 Agent,commentary,Space for background information on the agent.,,,,,

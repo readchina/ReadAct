@@ -3,7 +3,7 @@
       "name": "agent_id",
       "constraints": {
         "required": true,
-        "pattern": "PP[0-9]{4}"
+        "pattern": "AG[0-9]{4}"
       }
     },
     {
