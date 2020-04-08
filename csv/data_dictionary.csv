@@ -98,14 +98,6 @@ IsoLangCode,created_by,acronym of project member creating this line,,2017-07-04,
 IsoLangCode,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 IsoLangCode,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Location,loc_id,L and a four-digit number (leading zeroes),,2017-07-04,LH,2017-07-04,LH
-Location,loc_name,"location refers to a type of place: market place, the toilet, on a boat…",,2017-07-04,LH,2017-07-04,LH
-Location,loc_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-01-02,LH
-Location,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
-Location,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
-Location,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
-Location,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
-,,,,,,,
 Membership,institution,the id of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,member,the member of the institution,,2018-01-30,OS,2018-01-30,OS
 Membership,source,source which says that one person was or is a member of the institution,,2018-01-30,OS,2018-01-30,OS
@@ -142,15 +134,6 @@ Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Person,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
-,,,,,,,
-Place,place_id,PL and a five-digit number (leading zeroes),,2017-07-04,LH,2017-07-04,LH
-Place,place_name,Name of a place in English e.g. Shanghai Cologne Rome,,2017-07-04,LH,2017-07-12,OS
-Place,long,geo.data,,2017-07-04,LH,2017-07-04,LH
-Place,lat,geo.data,,2017-07-04,LH,2017-07-04,LH
-Place,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
-Place,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
-Place,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
-Place,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 PrimarySource,prim_source_id,PS and a five-digit number (leading zeros)  PS09999 is structural entry for untitled/unknown works,,2017-07-04,LH,2018-04-10,MG
 PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters. b) title in original language,,2017-07-04,LH,2017-07-04,LH
@@ -201,7 +184,7 @@ SecondarySource,created_by,acronym of project member creating this line,,2018-02
 SecondarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
-SocialPosition,soc_pos_id,SP and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_id,S and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 SocialPosition,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -221,6 +204,18 @@ SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-28,DP
+,,,,,,,
+Space,space_id,SP and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
+Space,old_id,"PL or L, and a five-digit number (leading zeroes)",,2020-04-02,DP,2020-04-02,DP
+Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,"authors, artists, painter, etc.",2020-04-02,DP,2020-04-02,DP
+Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
+Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,note,Internal notes of project members,,2020-04-02,DP,2020-04-02,DP
+Space,created,date of creation of line,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
+Space,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP
+Space,last_modified,date of last modification,,2020-04-02,DP,2020-04-02,DP
+Space,last_modified_by,acronym of project member last modifying this line,,2020-04-02,DP,2020-04-02,DP
 ,,,,,,,
 Work,work_id,W and a five-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Work,old_id,SS or PS or AW and a five-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP

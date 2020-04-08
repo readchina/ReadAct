@@ -3,7 +3,7 @@
 
 # Institution
 @test "places in Institution.place" {
-  run mlr --csv join -j place -r place_id --np --ul -f csv/data/Institution.csv then cut -f place then uniq -a -n csv/data/Place.csv
+  run mlr --csv join -j place -r space_id --np --ul -f csv/data/Institution.csv then cut -f place then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }
@@ -30,25 +30,25 @@
 
 # Person
 @test "places in Person.place_of_rust" {
-  run mlr --csv join -j place_of_rust -r place_id --np --ul -f csv/data/Person.csv then cut -f place_of_rust then uniq -a -n csv/data/Place.csv
+  run mlr --csv join -j place_of_rust -r space_id --np --ul -f csv/data/Person.csv then cut -f place_of_rust then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
   # NULL empty
   [ "${lines[1]}" -eq 2 ]
 }
 
 @test "places in Person.place_of_birth" {
-  run mlr --csv join -j place_of_birth -r place_id --np --ul -f csv/data/Person.csv then cut -f place_of_birth then uniq -a -n csv/data/Place.csv
+  run mlr --csv join -j place_of_birth -r space_id --np --ul -f csv/data/Person.csv then cut -f place_of_birth then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
   # NULL empty
-  [ "${lines[1]}" -eq 2 ]
+  [ "${lines[1]}" -eq 0 ]
 }
 
-@test "places in Person.place_of_death" {
-  run mlr --csv join -j place_of_death -r place_id --np --ul -f csv/data/Person.csv then cut -f place_of_death then uniq -a -n csv/data/Place.csv
-  [ "$status" -eq 0 ]
-  # empty
-  [ "${lines[1]}" -eq 1 ]
-}
+# @test "places in Person.place_of_death" {
+#   run mlr --csv join -j place_of_death -r place_id --np --ul -f csv/data/Person.csv then cut -f place_of_death then uniq -a -n csv/data/Place.csv
+#   [ "$status" -eq 0 ]
+#   # empty
+#   [ "${lines[1]}" -eq 1 ]
+# }
 
 @test "status in Person.social_position" {
   run mlr --csv join -j social_position -r soc_pos_id --np --ul -f csv/data/Person.csv then cut -f social_position then uniq -a -n csv/data/SocialPosition.csv

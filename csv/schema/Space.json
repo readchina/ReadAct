@@ -1,23 +1,56 @@
 {
   "fields": [{
-      "name": "loc_id",
+      "name": "space_id",
       "constraints": {
         "required": true,
         "unique": true,
-        "pattern": "L[0-9]{4}"
+        "pattern": "SP[0-9]{4}"
       }
     },
     {
-      "name": "loc_name",
+      "name": "old_id",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "space_name",
       "constraints": {
         "required": true
       }
     },
     {
-      "name": "loc_name_lang",
+      "name": "space_type",
       "constraints": {
         "required": true,
-        "min-length": 2
+        "pattern": "PL|L"
+      }
+    },
+    {
+      "name": "name_lang",
+      "constraints": {
+        "required": true,
+        "pattern": "en"
+      }
+    },
+    {
+      "name": "lat",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#double"
+      }
+    },
+    {
+      "name": "long",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#double"
+      }
+    },
+    {
+      "name": "note",
+      "constraints": {
+        "required": false
       }
     },
     {
@@ -49,6 +82,6 @@
       }
     }
   ],
-  "primaryKey": "loc_id",
+  "primaryKey": "space_id",
   "missingValues": ["", "NULL"]
 }

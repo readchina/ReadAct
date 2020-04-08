@@ -19,10 +19,9 @@
 }
 
 @test "places in PrimarySource.publication_place" {
-  run mlr --csv join -j publication_place -r place_id --np --ul -f csv/data/PrimarySource.csv then cut -f publication_place then uniq -a -n csv/data/Place.csv
+  run mlr --csv join -j publication_place -r space_id --np --ul -f csv/data/PrimarySource.csv then cut -f publication_place then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
-  # NULL empty unkown
-  [ "${lines[1]}" -eq 3 ]
+  [ "${lines[1]}" -eq 0 ]
 }
 
 # SecondarySource
@@ -43,10 +42,9 @@
 }
 
 @test "places in SecondarySource.publication_place" {
-  run mlr --csv join -j publication_place -r place_id --np --ul -f csv/data/SecondarySource.csv then cut -f publication_place then uniq -a -n csv/data/Place.csv
+  run mlr --csv join -j publication_place -r space_id --np --ul -f csv/data/SecondarySource.csv then cut -f publication_place then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
-  # empty
-  [ "${lines[1]}" -eq 1 ]
+  [ "${lines[1]}" -eq 0 ]
 }
 
 # Quotation
