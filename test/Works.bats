@@ -17,3 +17,9 @@
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }
+
+@test "places in ArtWork.first_performance_place" {
+  run mlr --csv join -j first_performance_place -r space_id --np --ul -f csv/data/ArtWork.csv then cut -f publication_place then uniq -a -n csv/data/Space.csv
+  [ "$status" -eq 0 ]
+  [ "${lines[1]}" -eq 0 ]
+}
