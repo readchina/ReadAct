@@ -51,7 +51,7 @@
       "name": "place_of_rust",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|PL[0-9]{4})"
+        "pattern": "(^$|NULL|SP[0-9]{4})"
       }
     }, {
       "name": "birthyear",
@@ -80,7 +80,7 @@
       "name": "place_of_birth",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|PL[0-9]{4})"
+        "pattern": "(^$|NULL|SP[0-9]{4})"
       }
     }, {
       "name": "social_position",

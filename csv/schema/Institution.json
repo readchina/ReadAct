@@ -22,7 +22,7 @@
       "name": "place",
       "constraints": {
         "required": false,
-        "pattern": "(^$|PL[0-9]{4})"
+        "pattern": "(^SP[0-9]{4})"
       }
     }, {
       "name": "start",

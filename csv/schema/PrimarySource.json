@@ -36,7 +36,8 @@
     {
       "name": "publication_place",
       "constraints": {
-        "required": false
+        "required": false,
+        "pattern": "(^http|SP[0-9]{4}|^$)"
       }
     },
     {
