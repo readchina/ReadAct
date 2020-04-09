@@ -3,6 +3,7 @@
 # The count appears in the second line of the output and should always be 0, expect when
 # NULL, empty, or unkown are legal values
 # For debugging: mlr --csv uniq -c -g agent csv/data/Act.csv
+# To see the offending values run the test command without the final -n flag
 
 @test "Acts: individuals in Act.agent" {
   run mlr --csv join -j agent -r person_id --np --ul -f csv/data/Act.csv then cut -f agent then uniq -a -n csv/data/Person.csv
@@ -22,14 +23,7 @@
   [ "${lines[1]}" -eq 0 ]
 }
 
-@test "Acts: works in Act.target" {
-  run mlr --csv join -j act_target -r agent_id --np --ul -f csv/data/Act.csv then cut -f act_target then uniq -a -n csv/data/Agent.csv
-  [ "$status" -eq 0 ]
-  # empty
-  [ "${lines[1]}" -eq 1 ]
-}
-
-@test "Acts: works in Act.object" {
+@test "Acts: agents in Act.target" {
   run mlr --csv join -j act_target -r agent_id --np --ul -f csv/data/Act.csv then cut -f act_target then uniq -a -n csv/data/Agent.csv
   [ "$status" -eq 0 ]
   # empty
