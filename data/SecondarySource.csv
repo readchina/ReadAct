@@ -1,17 +1,17 @@
 sec_source_id,title,subtitle,title_lang,author,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,fictionality,main_narrator,commentary,note,created,created_by,last_modified,last_modified_by
 SS00003,Red Sorrow,A Memoir,en,P0063,G03,PL0050,2001,Arcade Publishing,NULL,NULL,,,0,,,,,2017-07-12,OS,2018-10-18,MG
-SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,,,2017-07-12,OS,2018-01-12,MG
 SS00005,漫长的假期,,zh,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,,,2017-07-12,OS,2018-01-12,MG
+SS00005,Endless Holidays,,zh-Latn-py,P0106,G03,PL0002,2009,Sanlian shudian,,NULL,SS00044,NULL,563-585,,,,,2017-07-12,OS,2018-01-12,MG
 SS00006,Walking on the Stream of History,,en,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,,,2017-07-12,OS,2017-11-04,MG
 SS00006,行走在历史的河流,,zh,P0020,G03,PL0001,2006,Shehui kexue luntan,,NULL,,,,,,,,2017-07-12,OS,2018-05-07,MG
-SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,,,2017-07-12,OS,2018-10-18,MG
 SS00007,韩少功,知青与寻根,zh,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,,,2017-07-12,OS,2018-10-18,MG
+SS00007,Han Shaogong,Zhiqing yu xungen,zh-Latn-py,P0106,G22,PL0001,2013,Xinmin zhoukan,,NULL,,,,,,,,2017-07-12,OS,2018-10-18,MG
 SS00009,Ma Jia fangtan lu,,en,P0017,G03,,,,,NULL,SS00045,,216-235,,,,,2017-07-12,OS,2018-01-22,MG
 SS00009,马佳访谈录,,zh,P0017,G03,,,,,NULL,SS00045,,216-235,,,,,2017-07-12,OS,2018-01-22,MG
-SS00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,,,2017-07-12,OS,2017-10-24,MG
 SS00011,1960-70年代前朦胧诗的发生探源,,zh,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,,,2017-07-12,OS,2017-10-24,MG
-SS00012,Wuti wangshi,,zh-Latn-py,P0108,G03,,,,,NULL,SS00045,,153-176,,,,,2017-07-12,OS,2017-07-12,OS
+SS00011,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-py,P0107,G19,PL0090,2014,Yangzi hong pinglun,,NULL,,,,,,,,2017-07-12,OS,2017-10-24,MG
 SS00012,無題往事,,zh,P0108,G03,,,,,NULL,SS00045,,153-176,,,,,2017-07-12,OS,2017-07-12,OS
+SS00012,Wuti wangshi,,zh-Latn-py,P0108,G03,,,,,NULL,SS00045,,153-176,,,,,2017-07-12,OS,2017-07-12,OS
 SS00014,"Life,  Books and Poems",,en,P0109,G03,,,,,NULL,SS00045,,297-307,,,,,2017-07-19,LH,2018-02-03,OS
 SS00014,生活、书籍与诗歌,,zh,P0109,G03,,,,,NULL,SS00045,,297-307,,,,,2017-07-19,LH,2018-02-03,OS
 SS00026,I Almost Killed Someone That Year,,en,P0119,G03,,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,,The text is about the author's experience in Fishing grounds while checking out the May 16th components (清查五一六分子) happened. The author was afraid of being categorized as May 16th components by his supervisor.,,2017-07-27,LH,2017-07-27,LH
@@ -126,6 +126,8 @@ SS00162,1976,My First Love Died Like Shabby Cotton,en,P0218,G03,,,,,NULL,SS00044
 SS00162,1976,初恋败絮,zh,P0218,G03,,,,,NULL,SS00044,NULL,475-492,,,,,2018-01-12,MG,2018-01-12,MG
 SS00163,The Black Painting Crisis,,en,P0137,G44,,,,,NULL,SS00044,NULL,349-358,,,Translated by project member,,2018-01-12,MG,2018-10-18,MG
 SS00163,黑画风波,,zh,P0137,G44,,,,,NULL,SS00044,NULL,349-358,,,,,2018-01-12,MG,2018-10-18,MG
+SS00170,The Seventies,The Broken Pieces in my Heart,en,P0221,G03,,,,,,SS00044,,235-256,,,,,2018-02-01,OS,2018-04-18,MG
+SS00170,七十年代,我心中的碎片,zh,P0221,G03,,,,,,SS00044,,235-256,,,,,2018-02-01,OS,2018-02-01,OS
 SS00185,The Tranquil Horizon,,en,P0003,G03,,,,,NULL,SS00044,,105-146,,,Translated by project member,,2018-01-24,OS,2018-04-18,MG
 SS00185,宁静的地平线,,zh,P0003,G03,,,,,NULL,SS00044,,105-146,,,,,2018-01-24,OS,2018-01-24,OS
 SS00189,Broken Chapter,,en,P0009,G03,,,,,NULL,SS00044,,31-50,,,Translated by project member,,2018-01-25,OS,2018-04-18,MG
@@ -134,8 +136,6 @@ SS00190,The Unforgettable 1971,,en,P0219,G03,,,,,NULL,SS00044,,257-278,,,Transla
 SS00190,难忘的1971,,zh,P0219,G03,,,,,NULL,SS00044,,257-278,,,,,2018-01-25,OS,2018-01-25,OS
 SS00192,The Unjustly Murdered Woman From the Neighbourhood,,en,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,,,,2018-01-25,OS,2018-04-18,MG
 SS00192,被冤杀的街坊大妈,,zh,P0220,G03,,2010,,2010,NULL,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,,,,2018-01-25,OS,2018-01-25,OS
-SS00170,The Seventies,The Broken Pieces in my Heart,en,P0221,G03,,,,,,SS00044,,235-256,,,,,2018-02-01,OS,2018-04-18,MG
-SS00170,七十年代,我心中的碎片,zh,P0221,G03,,,,,,SS00044,,235-256,,,,,2018-02-01,OS,2018-02-01,OS
 SS00193,Starting in 1979,Heart-stabbing Joy Keener Than Ice or Iron,en,P0133,G03,,,,,,SS00044,,530-546,,,the 2nd part of the title is a reference to a poem by Baudelaire. Translated by project member,,2018-02-02,OS,2018-04-18,MG
 SS00193,始于1979年,,zh,P0133,G03,,,,,,SS00044,,530-546,,,the 2nd part of the title is a reference to a poem by Baudelaire. Translated by project member,,2018-02-02,OS,2018-02-02,OS
 SS00195,The X Literary Society and the Death of Guo Shiying,,en,P0002,G03,,,,,NULL,SS00045,,17-29,,,Translated by project member,,2018-02-03,OS,2018-04-18,MG
@@ -173,6 +173,46 @@ SS00246,省委秘书记忆中的’九一三‘,,zh,P0033,G03,,2011-09-15,,,NULL
 SS00247,Interview with Mang Ke,,en,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,,,http://www.51papers.com/lw/70/26/wz218111.htm; Translated by project member,,2018-02-27,MG,2018-12-02,WH
 SS00247,芒克访谈,,zh,P0107,G43,,2014,,,NULL,SS00011,NULL,256-268,,,http://www.51papers.com/lw/70/26/wz218111.htm,,2018-02-27,MG,2018-10-18,MG
 SS00248,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,P0281,G02,PL0050,1993,The Atlantic Monthly Press,,NULL,,,,,,,,2018-03-06,MG,2018-03-06,MG
+SS00249,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,P0381,G03,PL0050,1995,Viking Penguin,,NULL,,,,,,,,2018-05-29,MG,2018-05-29,MG
+SS00250,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,P0407,G02,PL0281,2007,State University of New York Press,,NULL,,,,,,,,2018-06-19,MG,2018-06-19,MG
+SS00251,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,P0411,G02,PL0050,1991,Pantheon Books,,NULL,,,,,,,,2018-06-25,MG,2018-06-26,MG
+SS00252,Listening to Enemy Broadcasting Stations,,en,P0412,G02,,,,,,SS00044,NULL,147-153,,,Translated by project member,,2018-06-26,MG,2018-06-26,MG
+SS00252,听敌台,,zh,P0412,G02,,,,,,SS00044,NULL,147-153,,,,,2018-06-26,MG,2018-06-26,MG
+SS00252,Ting ditai,,zh-Latn-py,P0412,G02,,,,,,SS00044,NULL,147-153,,,,,2018-06-26,MG,2018-06-26,MG
+SS00253,The Daily Linguistics in the 1970s,,en,P0624,G02,,,,,,SS00044,NULL,319-330,,,Translated by project member,,2018-07-10,MG,2018-07-17,MG
+SS00253,七十年代日常语言学,,zh,P0624,G02,,,,,,SS00044,NULL,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+SS00253,Qishi niandai richang yuyanxue,,zh-Latn-py,P0624,G02,,,,,,SS00044,NULL,319-330,,,,,2018-07-10,MG,2018-07-17,MG
+SS00254,Ignorance as a Kind of Nourishment,,en,P0625,G02,,,,,,SS00044,NULL,13-30,,,Translated by project member,,2018-07-10,MG,2018-07-17,MG
+SS00254,愚昧作为一种养料,,zh,P0625,G02,,,,,,SS00044,NULL,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+SS00254,Yumei zuowei yizhong yangliao,,zh-Latn-py,P0625,G02,,,,,,SS00044,NULL,13-30,,,,,2018-07-10,MG,2018-07-17,MG
+SS00255,Born American,A Chinese Woman‘s Dream of Liberty,en,P0700,G03,PL0402,2009,Nimble Books,,,NULL,NULL,,,,,,2018-10-16,LH,2018-10-16,LH
+SS00256,Me Before and After the ‘May Fourth Incident’,,en,P0662,G03,,,,,,SS00044,NULL,203-234,,,Translated by project member,,2018-11-18,MG,2018-11-18,MG
+SS00256,我在‘五四事件’前后,,zh,P0662,G03,,,,,,SS00044,NULL,203-234,,,,,2018-11-18,MG,2018-11-18,MG
+SS00257,张平化的9.24报告与抓“黑 鬼”运动,,zh,P0031,G03,,,,,,http://www.xujuneberlein.com/rem53.html#B,NULL,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
+SS00258,Start on a Journal,A Rural Child's Memory About the Seventies,en,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
+SS00258,起程,一个农村孩子关于七十年代的记忆,zh,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,,,2018-11-06,WH,2018-11-26,WH
+SS00258,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-py,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,,,2018-11-06,WH,2018-11-26,WH
+SS00259,Wei Village,,en,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
+SS00259,魏庄,,zh,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,,,2018-11-06,WH,2018-11-26,WH
+SS00259,Wei zhuang,,zh-Latn-py,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,,,2018-11-06,WH,2018-11-26,WH
+SS00260,Me before and after the  'April Fifth Events',,en,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
+SS00260,我在’四五事件‘前后,,zh,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,,,2018-11-06,WH,2018-11-26,WH
+SS00260,Wo zai siwu shijian qianhou,,zh-Latn-py,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,,,2018-11-06,WH,2018-11-26,WH
+SS00261,The Most Wanted Man in China,My Journey from Scientist to Enemy of the State,en,P0808,G03,PL0050,2016,Henry Holt,,NULL,NULL,NULL,,,,,,2019-02-19,LH,2019-02-19,LH
+SS00262,Open Love Letters,,en,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
+SS00262,公开的情书,,zh,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
+SS00262,Gongkai de qingshu,,zh-Latn-py,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
+SS00263,Balzac And The Little Chinese Seamstress,,en,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,,2019-07-30,MG,2019-07-30,MG
+SS00263,Balzac et la Petite Tailleuse Chinoise,,fr,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,A Chinese version was published after the adaptation,2019-07-30,MG,2019-10-24,MG
+SS00263,巴爾扎克與小裁縫,,zh,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,,2019-07-30,MG,2019-07-30,MG
+SS00264,The Class Teacher,,en,P1018,G05,,,,1977,,SS00265,NULL,85-120,F,P1020,,,2019-10-24,MG,2019-10-24,MG
+SS00264,班主任,,zh,P1018,G05,,,,1977,,SS00265,NULL,85-120,F,P1020,,,2019-10-24,MG,2019-10-24,MG
+SS00265,Chinese Short Stories of The Twentieth Century,An Anthology in English,en,P1019,G28,PL0050,1995,Garland Publishing,,NULL,NULL,NULL,NULL,F,,,,2019-10-24,MG,2019-10-24,MG
+SS00266,People's Literature,,en,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
+SS00266,人民文学,,zh,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
+SS00266,Renmin wenxue,,zh-Latn-pinyin,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
+SS00267,The Class Teacher,,en,P1018,G05,,1977,,1977,,SS00266,No 11,,F,P1020,,,2019-11-25,MG,2019-11-25,MG
+SS00267,班主任,,zh,P1018,G05,,1977,,1977,,SS00266,No 11,,F,P1020,,,2019-11-25,MG,2019-11-25,MG
 SS00268,Vermilion Gate,,en,P0320,G03,PL0036,2000,Little: Brown and Company,,NULL,,NULL,,,,,,2018-03-17,MG,2018-03-17,MG
 SS00269,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,P0329,G03,,1998,University of Massachusetts Press,,NULL,,,,,,,,2018-03-27,MG,2018-11-13,MG
 SS00270,Let the Thought Brake the Cage,,en,P0348,G03,,,,,,SS00044,NULL,165-186,,,Translated by project member,,2018-04-09,MG,2018-04-09,MG
@@ -180,50 +220,10 @@ SS00270,让思想冲破牢笼,,zh,P0348,G03,,,,,,SS00044,NULL,165-186,,,,,2018-0
 SS00271,My Father and I,,en,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,,,周孜仁 recalled his father.,,2018-05-03,WH,2018-06-26,MG
 SS00271,我和父亲,,zh,P0033,G03,,,,,NULL,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,NULL,ONLINE SOURCE,,,周孜仁 recalled his father.,,2018-05-03,WH,2018-05-17,WH
 SS00272,Youth Cannot Help,,en,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,Translated by project member,,2018-05-15,MG,2018-05-20,MG
-SS00272,Qingchun wunai,,zh-Latn-py,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,,,2018-05-15,MG,2018-05-20,MG
 SS00272,青春无奈,,zh,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,,,2018-05-15,MG,2018-05-20,MG
-SS00249,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,P0381,G03,PL0050,1995,Viking Penguin,,NULL,,,,,,,,2018-05-29,MG,2018-05-29,MG
-SS00250,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,P0407,G02,PL0281,2007,State University of New York Press,,NULL,,,,,,,,2018-06-19,MG,2018-06-19,MG
-SS00251,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,P0411,G02,PL0050,1991,Pantheon Books,,NULL,,,,,,,,2018-06-25,MG,2018-06-26,MG
-SS00252,Listening to Enemy Broadcasting Stations,,en,P0412,G02,,,,,,SS00044,NULL,147-153,,,Translated by project member,,2018-06-26,MG,2018-06-26,MG
-SS00252,Ting ditai,,zh-Latn-py,P0412,G02,,,,,,SS00044,NULL,147-153,,,,,2018-06-26,MG,2018-06-26,MG
-SS00252,听敌台,,zh,P0412,G02,,,,,,SS00044,NULL,147-153,,,,,2018-06-26,MG,2018-06-26,MG
-SS00253,The Daily Linguistics in the 1970s,,en,P0624,G02,,,,,,SS00044,NULL,319-330,,,Translated by project member,,2018-07-10,MG,2018-07-17,MG
-SS00253,Qishi niandai richang yuyanxue,,zh-Latn-py,P0624,G02,,,,,,SS00044,NULL,319-330,,,,,2018-07-10,MG,2018-07-17,MG
-SS00253,七十年代日常语言学,,zh,P0624,G02,,,,,,SS00044,NULL,319-330,,,,,2018-07-10,MG,2018-07-17,MG
-SS00254,Ignorance as a Kind of Nourishment,,en,P0625,G02,,,,,,SS00044,NULL,13-30,,,Translated by project member,,2018-07-10,MG,2018-07-17,MG
-SS00254,Yumei zuowei yizhong yangliao,,zh-Latn-py,P0625,G02,,,,,,SS00044,NULL,13-30,,,,,2018-07-10,MG,2018-07-17,MG
-SS00254,愚昧作为一种养料,,zh,P0625,G02,,,,,,SS00044,NULL,13-30,,,,,2018-07-10,MG,2018-07-17,MG
-SS00255,Born American,A Chinese Woman‘s Dream of Liberty,en,P0700,G03,PL0402,2009,Nimble Books,,,NULL,NULL,,,,,,2018-10-16,LH,2018-10-16,LH
-SS00256,Me Before and After the ‘May Fourth Incident’,,en,P0662,G03,,,,,,SS00044,NULL,203-234,,,Translated by project member,,2018-11-18,MG,2018-11-18,MG
-SS00256,我在‘五四事件’前后,,zh,P0662,G03,,,,,,SS00044,NULL,203-234,,,,,2018-11-18,MG,2018-11-18,MG
-SS00257,张平化的9.24报告与抓“黑 鬼”运动,,zh,P0031,G03,,,,,,http://www.xujuneberlein.com/rem53.html#B,NULL,ONLINE SOURCE,,,,,2018-11-18,MG,2018-11-18,MG
-SS00258,Start on a Journal,A Rural Child's Memory About the Seventies,en,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00258,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-py,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,,,2018-11-06,WH,2018-11-26,WH
-SS00258,起程,一个农村孩子关于七十年代的记忆,zh,P0711,G03,,,,,NULL,SS00044,NULL,93-103,,,,,2018-11-06,WH,2018-11-26,WH
-SS00259,Wei Village,,en,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00259,Wei zhuang,,zh-Latn-py,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,,,2018-11-06,WH,2018-11-26,WH
-SS00259,魏庄,,zh,P0712,G03,,,,,NULL,SS00044,NULL,155-164,,,,,2018-11-06,WH,2018-11-26,WH
-SS00260,Me before and after the  'April Fifth Events',,en,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,Translated by project member,,2018-11-06,WH,2018-11-26,WH
-SS00260,Wo zai siwu shijian qianhou,,zh-Latn-py,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,,,2018-11-06,WH,2018-11-26,WH
-SS00260,我在’四五事件‘前后,,zh,P0713,G03,,,,,NULL,SS00044,NULL,203-233,,,,,2018-11-06,WH,2018-11-26,WH
-SS00261,The Most Wanted Man in China,My Journey from Scientist to Enemy of the State,en,P0808,G03,PL0050,2016,Henry Holt,,NULL,NULL,NULL,,,,,,2019-02-19,LH,2019-02-19,LH
-SS00262,Open Love Letters,,en,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
-SS00262,公开的情书,,zh,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
-SS00262,Gongkai de qingshu,,zh-Latn-py,P0850,G06,,1980,,,NULL,,NULL,4-67,,,First published in the journal October 十月,,2019-03-12,LH,2019-03-12,LH
-SS00263,Balzac et la Petite Tailleuse Chinoise,,fr,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,A Chinese version was published after the adaptation,2019-07-30,MG,2019-10-24,MG
-SS00263,Balzac And The Little Chinese Seamstress,,en,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,,2019-07-30,MG,2019-07-30,MG
-SS00263,巴爾扎克與小裁縫,,zh,P1003,G04,PL0047,2000,Éditions Gallimard,,NULL,,NULL,,F,P1005,,,2019-07-30,MG,2019-07-30,MG
-SS00264,The Class Teacher,,en,P1018,G05,,,,1977,,SS00265,NULL,85-120,F,P1020,,,2019-10-24,MG,2019-10-24,MG
-SS00264,班主任,,zh,P1018,G05,,,,1977,,SS00265,NULL,85-120,F,P1020,,,2019-10-24,MG,2019-10-24,MG
-SS00265,Chinese Short Stories of The Twentieth Century,An Anthology in English,en,P1019,G28,PL0050,1995,Garland Publishing,,NULL,NULL,NULL,NULL,F,,,,2019-10-24,MG,2019-10-24,MG
-SS00266,People's Literature,,en,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
-SS00266,Renmin wenxue,,zh-Latn-pinyin,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
-SS00266,人民文学,,zh,I0103,G52,PL0002,1977,Renmin wenxue zazhishe,,no,,,,F,,,,2019-11-25,MG,2019-11-25,MG
-SS00267,The Class Teacher,,en,P1018,G05,,1977,,1977,,SS00266,No 11,,F,P1020,,,2019-11-25,MG,2019-11-25,MG
-SS00267,班主任,,zh,P1018,G05,,1977,,1977,,SS00266,No 11,,F,P1020,,,2019-11-25,MG,2019-11-25,MG
+SS00272,Qingchun wunai,,zh-Latn-py,P0362,G03,,,,,NULL,SS00044,NULL,507-530,,,,,2018-05-15,MG,2018-05-20,MG
 SS00600,Song of Youth,,en,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,P1030,,,2019-12-02,MG,2020-02-06,MG
-SS00600,Qingchun zhi ge,,zh-Latn-pinyin,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,P1030,,,2019-12-02,MG,2020-02-06,MG
 SS00600,青春之歌,,zh,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,P1030,,,2019-12-02,MG,2020-02-06,MG
+SS00600,Qingchun zhi ge,,zh-Latn-pinyin,P0780,G04,PL0002,1958,Zuojia chubanshe,1958,,,,,,P1030,,,2019-12-02,MG,2020-02-06,MG
 SS00601,The Three-Body Problem,,en,P1057,G07,PL0036,2016,Head of Zeus Ltd.,2008,NULL,,,,,,,,2020-02-14,MG,2020-02-14,MG
 SS00601,三体,,zh,P1057,G07,PL0036,2016,Head of Zeus Ltd.,2008,NULL,,,,,,,,2020-02-14,MG,2020-02-14,MG
