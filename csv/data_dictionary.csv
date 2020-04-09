@@ -119,7 +119,7 @@ Person,rustication_end,year between 1968-1979 in EDTF; 'NULL' if rustication is 
 Person,place_of_rust,a single place_id for major place of rustication; 'NULL' if rustication is 'no'; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
-Person,alt_name,Alias limited to one pseudonym per person. Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name,Alias matches the language of the name. Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; 'NULL' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2018-01-30,DP

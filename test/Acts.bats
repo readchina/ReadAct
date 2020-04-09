@@ -43,6 +43,12 @@
   [ "${lines[1]}" -eq 0 ]
 }
 
+@test "Acts: language in Act.id_lang" {
+  run mlr --csv join -j id_lang -r iso_code --np --ul -f csv/data/Act.csv then cut -f id_lang then uniq -a -n csv/data/IsoLangCode.csv
+  [ "$status" -eq 0 ]
+  [ "${lines[1]}" -eq 0 ]
+}
+
 # If there are multiple types of objects we need to filter for the right kind via grep
 # we need to add || true so that null matches don't mess up the test result, e.g. this test for Works and another for Quotes,...:
 # @test "Acts: works in Act.act_object_old" {

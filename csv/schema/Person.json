@@ -69,14 +69,9 @@
       }
     }, {
       "name": "alt_name",
+      "description": "Pen Name, Pseudonym, etc. matches the language of name",
       "constraints": {
         "required": false
-      }
-    }, {
-      "name": "alt_name_lang",
-      "constraints": {
-        "required": false,
-        "pattern": "(^$|NULL|[a-z]{2})"
       }
     }, {
       "name": "place_of_birth",
