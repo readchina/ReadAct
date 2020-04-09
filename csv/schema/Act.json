@@ -4,6 +4,7 @@
       "constraints": {
         "required": true,
         "unique": true,
+        "length": 6,
         "pattern": "A[0-9]{5}"
       }
     },

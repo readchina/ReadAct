@@ -4,6 +4,7 @@
       "constraints": {
         "required": true,
         "unique": true,
+        "length": 6,
         "pattern": "AG[0-9]{4}"
       }
     },

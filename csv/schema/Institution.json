@@ -3,6 +3,7 @@
       "name": "inst_id",
       "constraints": {
         "required": true,
+        "length": 6,
         "pattern": "AG[0-9]{4}"
       }
     },

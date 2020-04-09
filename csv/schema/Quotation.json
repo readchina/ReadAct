@@ -4,6 +4,7 @@
       "constraints": {
         "required": true,
         "unique": true,
+        "length": 5,
         "pattern": "Q[0-9]{4}"
       }
     },
