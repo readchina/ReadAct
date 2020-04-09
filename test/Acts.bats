@@ -4,7 +4,7 @@
 # NULL, empty, or unkown are legal values
 # For debugging: mlr --csv uniq -c -g agent csv/data/Act.csv
 
-@test "Acts: ndividuals in Act.agent" {
+@test "Acts: individuals in Act.agent" {
   run mlr --csv join -j agent -r person_id --np --ul -f csv/data/Act.csv then cut -f agent then uniq -a -n csv/data/Person.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]

@@ -4,7 +4,7 @@
       "constraints": {
         "required": true,
         "unique": true,
-        "length": 4,
+        "max-length": 4,
         "pattern": "AF[0-9]{2}"
       }
     },

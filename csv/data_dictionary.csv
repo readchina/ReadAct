@@ -19,7 +19,7 @@ Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 ActType,action_ID,AT and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-12,OS
-ActType,action_name,"verb for an action undertaken in the course of a wider act of reading: circulate, steal, buy",,2017-07-04,LH,2017-07-04,LH
+ActType,action_name,"verb for an action describing a wider act of reading: circulate, steal, buy",,2017-07-04,LH,2017-07-04,LH
 ActType,note,Internal notes of project members,,2018-01-30,MG,2018-02-01,DP
 ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
@@ -217,7 +217,7 @@ Space,created_by,acronym of project member creating this line,,2020-04-02,DP,202
 Space,last_modified,date of last modification,,2020-04-02,DP,2020-04-02,DP
 Space,last_modified_by,acronym of project member last modifying this line,,2020-04-02,DP,2020-04-02,DP
 ,,,,,,,
-Work,work_id,W and a five-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
+Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Work,old_id,SS or PS or AW and a five-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Work,creator,key: Person.person_id,"authors, artists, painter, etc.",2020-04-02,DP,2020-04-02,DP
 Work,type,SS or PS or AW,,2020-04-02,DP,2020-04-02,DP

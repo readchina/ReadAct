@@ -1,15 +1,17 @@
 {
   "fields": [{
       "name": "act_id",
+      "description": "A and a five-digit number (leading zeros)",
       "constraints": {
         "required": true,
         "unique": true,
-        "length": 6,
+        "max-length": 6,
         "pattern": "A[0-9]{5}"
       }
     },
     {
       "name": "agent",
+      "description": "The subject reading something",
       "constraints": {
         "required": true,
         "pattern": "AG[0-9]{4}"
@@ -17,6 +19,7 @@
     },
     {
       "name": "action",
+      "description": "The verb describing the type of reading",
       "constraints": {
         "required": true,
         "pattern": "AT[0-9]{2}"
@@ -24,18 +27,21 @@
     },
     {
       "name": "act_object",
+      "description": "The object read by the subject",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "act_target",
+      "description": "Transitive subject (B), as in A reads book to B",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "start",
+      "description": "Year in EDTF when act begins",
       "constraints": {
         "required": false,
         "min-length": 4
@@ -43,45 +49,53 @@
     },
     {
       "name": "end",
+      "description": "Year in EDTF when act ends",
       "constraints": {
         "required": false,
         "min-length": 4
       }
     }, {
       "name": "substantial_discussion",
+      "description": "substantial comment or quotation from source",
       "constraints": {
         "required": false
       }
     }, {
       "name": "source",
+      "description": "Bibliographic evidence for act",
       "constraints": {
         "required": true
       }
     }, {
       "name": "page",
+      "description": "Page range in source evidence for act",
       "constraints": {
         "required": false
       }
     }, {
       "name": "source_status",
+      "description": "Higher order genre_type of the source",
       "constraints": {
         "required": false,
         "pattern": "(\W?|[1-3])"
       }
     }, {
       "name": "commentary",
+      "description": "Commentary, esp. on underspecified reading acts",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "note",
+      "description": "structural entry for internal notes",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "id_lang",
+      "description": "structural entry for key resolution",
       "constraints": {
         "required": true,
         "pattern": "en"
@@ -89,6 +103,7 @@
     },
     {
       "name": "created",
+      "description": "structural entry creation date of entry",
       "constraints": {
         "required": true,
         "type": "http://www.w3.org/2001/XMLSchema#date"
@@ -96,6 +111,7 @@
     },
     {
       "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
@@ -103,6 +119,7 @@
     },
     {
       "name": "last_modified",
+      "description": "structural entry last modification date",
       "constraints": {
         "required": true,
         "type": "http://www.w3.org/2001/XMLSchema#date"
@@ -110,6 +127,7 @@
     },
     {
       "name": "last_modified_by",
+      "description": "structural entry acronym of project member last modifying entry",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
