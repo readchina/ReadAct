@@ -39,6 +39,7 @@ script:
   - csvlint csv/data/Person.csv --schema=csv/schema/Person.json
   - csvlint csv/data/PrimarySource.csv --schema=csv/schema/PrimarySource.json
   - csvlint csv/data/Quotation.csv --schema=csv/schema/Quotation.json
+  - csvlint csv/data/Rustication.csv --schema=csv/schema/Rustication.json
   - csvlint csv/data/SecondarySource.csv --schema=csv/schema/SecondarySource.json
   - csvlint csv/data/SocialPosition.csv --schema=csv/schema/SocialPosition.json
   - csvlint csv/data/SocialRelation.csv --schema=csv/schema/SocialRelation.json

@@ -48,13 +48,6 @@
 }
 
 # Person
-@test "Persona: places in Person.place_of_rust" {
-  run mlr --csv join -j place_of_rust -r space_id --np --ul -f csv/data/Person.csv then cut -f place_of_rust then uniq -a -n csv/data/Space.csv
-  [ "$status" -eq 0 ]
-  # NULL empty
-  [ "${lines[1]}" -eq 2 ]
-}
-
 @test "Persona: places in Person.place_of_birth" {
   run mlr --csv join -j place_of_birth -r space_id --np --ul -f csv/data/Person.csv then cut -f place_of_birth then uniq -a -n csv/data/Space.csv
   [ "$status" -eq 0 ]
@@ -74,6 +67,13 @@
   [ "$status" -eq 0 ]
   # NULL empty unknown
   [ "${lines[1]}" -eq 3 ]
+}
+
+# Rustication
+@test "Persona: places in Rustication.place_of_rust" {
+  run mlr --csv join -j place_of_rust -r space_id --np --ul -f csv/data/Rustication.csv then cut -f place_of_rust then uniq -a -n csv/data/Space.csv
+  [ "$status" -eq 0 ]
+  [ "${lines[1]}" -eq 0 ]
 }
 
 # SocialRelation

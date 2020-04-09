@@ -33,27 +33,10 @@
       }
     }, {
       "name": "rustication",
+      "description": "One of four values related to 知识青年: 0=NULL, 1=yes, 2=no, 3=unknown",
       "constraints": {
         "required": true,
-        "pattern": "(^$|yes|no|unknown|NULL)"
-      }
-    }, {
-      "name": "rustication_start",
-      "constraints": {
-        "required": false,
-        "pattern": "(^$|NULL|[0-9]{4}|unknown)"
-      }
-    }, {
-      "name": "rustication_end",
-      "constraints": {
-        "required": false,
-        "pattern": "(^$|NULL|[0-9]{4}|unknown)"
-      }
-    }, {
-      "name": "place_of_rust",
-      "constraints": {
-        "required": false,
-        "pattern": "(^$|NULL|SP[0-9]{4})"
+        "pattern": "[0-3]"
       }
     }, {
       "name": "birthyear",

@@ -1,0 +1,68 @@
+{
+  "fields": [{
+      "name": "person",
+      "constraints": {
+        "required": true,
+        "unique": false,
+        "max-length": 6,
+        "pattern": "AG[0-9]{4}"
+      }
+    }, {
+      "name": "rustication_start",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "rustication_end",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "place_of_rust",
+      "constraints": {
+        "required": true,
+        "pattern": "(^SP[0-9]{4})"
+      }
+    }, {
+      "name": "note",
+      "description": "structural entry for internal notes",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "description": "structural entry creation date of entry",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "description": "structural entry last modification date",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "description": "structural entry acronym of project member last modifying entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "person",
+  "missingValues": ""
+}
