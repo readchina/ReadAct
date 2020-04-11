@@ -45,7 +45,7 @@
       "name": "publication_date",
       "constraints": {
         "required": false,
-        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
+        "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2})"
       }
     },
     {
@@ -57,7 +57,8 @@
     {
       "name": "first_chin_edition",
       "constraints": {
-        "required": false
+        "required": false,
+        "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2})"
       }
     }, {
       "name": "neibu",
