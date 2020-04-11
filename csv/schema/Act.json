@@ -128,5 +128,28 @@
     }
   ],
   "primaryKey": "act_id",
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "agent",
+      "reference": {
+        "resource": "Agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "action",
+      "reference": {
+        "resource": "ActType",
+        "fields": "action_id"
+      }
+    },
+    {
+      "fields": "act_object",
+      "reference": {
+        "resource": "Work",
+        "fields": "work_id"
+      }
+    }
+  ]
 }

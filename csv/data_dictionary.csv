@@ -51,7 +51,7 @@ ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,201
 ArtWork,art_form,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_place_id,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2018-02-09,OS
-ArtWork,neibu,yes/no whether this was originally a neibu publication. Add 'NULL' for every artwork before 1949 and after 1980.,,2018-02-09,OS,2018-02-09,OS
+ArtWork,neibu,yes/no whether this was originally a neibu publication. Leave empty for artworks created before 1949 and after 1980 or where status is unknown,,2018-02-09,OS,2018-02-09,OS
 ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 ArtWork,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
 ArtWork,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS

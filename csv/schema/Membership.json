@@ -67,6 +67,6 @@
       }
     }
   ],
-  "primaryKey": ["inst_ID", "person_id"],
+  "primaryKey": ["institution", "member"],
   "missingValues": ["", "NULL"]
 }

@@ -45,7 +45,7 @@
       "name": "publication_date",
       "constraints": {
         "required": false,
-        "pattern": "(^$|[0-9]{4})"
+        "type": "http://www.w3.org/2001/XMLSchema#date"
       }
     },
     {
@@ -57,7 +57,8 @@
     {
       "name": "first_chin_edition",
       "constraints": {
-        "pattern": "(^$|NULL|unknown|[0-9]{4})"
+        "required": false,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
       }
     }, {
       "name": "neibu",
@@ -119,6 +120,6 @@
       }
     }
   ],
-  "primaryKey": ["sec_source_id", "title"],
+  "primaryKey": ["sec_source_id", "title_lang"],
   "missingValues": ["", "NULL"]
 }

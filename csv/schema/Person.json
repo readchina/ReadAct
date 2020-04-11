@@ -23,13 +23,13 @@
       "name": "name_lang",
       "constraints": {
         "required": true,
-        "pattern": "[a-z]{2}"
+        "pattern": "[a-z]{2,}?"
       }
     }, {
       "name": "sex",
       "constraints": {
         "required": true,
-        "pattern": "(male|female|unknown|NULL)"
+        "pattern": "(male|female|unknown)"
       }
     }, {
       "name": "rustication",
@@ -40,15 +40,18 @@
       }
     }, {
       "name": "birthyear",
+      "description": "Birthyear in EDTF, XXXX for unknown",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|-?[0-9X]{4}|unknown)"
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
       }
     }, {
       "name": "deathyear",
+      "description": "Deathyear in EDTF, XXXX for unkown",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|-?[0-9X]{4}|unknown)"
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
+
       }
     }, {
       "name": "alt_name",
@@ -78,7 +81,7 @@
       "name": "source_1",
       "constraints": {
         "required": true,
-        "pattern": "(^http|W[0-9]{4})|NULL"
+        "pattern": "(^http.*|W[0-9]{4})"
       }
     }, {
       "name": "page_1",
@@ -135,6 +138,6 @@
       }
     }
   ],
-  "primaryKey": ["person_id", "family_name"],
+  "primaryKey": ["person_id", "name_lang"],
   "missingValues": ["", "NULL"]
 }

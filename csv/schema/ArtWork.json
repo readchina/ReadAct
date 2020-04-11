@@ -93,6 +93,6 @@
       }
     }
   ],
-  "primaryKey": ["artwork_id", "title"],
+  "primaryKey": ["artwork_id", "title_lang"],
   "missingValues": ["", "NULL"]
 }

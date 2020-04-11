@@ -1,4 +1,5 @@
 dist: bionic
+# swith to python
 rvm:
   - 2.4
 

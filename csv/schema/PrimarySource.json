@@ -44,7 +44,8 @@
     {
       "name": "publication_date",
       "constraints": {
-        "required": false
+        "required": false,
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
       }
     },
     {
@@ -56,8 +57,7 @@
     {
       "name": "first_chin_edition",
       "constraints": {
-        "required": false,
-        "pattern": "(^$|NULL|unknown|[0-9]{4})"
+        "required": false
       }
     }, {
       "name": "neibu",
@@ -120,6 +120,6 @@
       }
     }
   ],
-  "primaryKey": ["prim_source_id", "titles"],
+  "primaryKey": ["prim_source_id", "title_lang"],
   "missingValues": ["", "NULL"]
 }

@@ -105,6 +105,6 @@
       }
     }
   ],
-  "primaryKey": ["inst_ID", "inst_name"],
+  "primaryKey": ["inst_id", "inst_name", "inst_name_lang"],
   "missingValues": ["", "NULL"]
 }

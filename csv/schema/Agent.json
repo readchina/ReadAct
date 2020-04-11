@@ -69,6 +69,6 @@
       }
     }
   ],
-  "primaryKey": ["agent_id"],
+  "primaryKey": "agent_id",
   "missingValues": ["", "NULL"]
 }
