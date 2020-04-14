@@ -93,5 +93,28 @@
     }
   ],
   "primaryKey": "soc_rel_id",
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "ego",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "related",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "source",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    }
+  ]
 }

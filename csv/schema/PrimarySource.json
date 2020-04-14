@@ -122,5 +122,28 @@
     }
   ],
   "primaryKey": ["prim_source_id", "title_lang"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "prim_source_id",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    },
+    {
+      "fields": "genre",
+      "reference": {
+        "resource": "genre",
+        "fields": "genre_id"
+      }
+    },
+    {
+      "fields": "title_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

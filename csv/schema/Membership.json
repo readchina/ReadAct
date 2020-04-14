@@ -68,5 +68,28 @@
     }
   ],
   "primaryKey": ["institution", "member"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "institution",
+      "reference": {
+        "resource": "institution",
+        "fields": "inst_id"
+      }
+    },
+    {
+      "fields": "member",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "source",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    }
+  ]
 }

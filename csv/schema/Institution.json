@@ -106,5 +106,28 @@
     }
   ],
   "primaryKey": ["inst_id", "inst_name", "inst_name_lang"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "inst_id",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "place",
+      "reference": {
+        "resource": "space",
+        "fields": "space_id"
+      }
+    },
+    {
+      "fields": "inst_name_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

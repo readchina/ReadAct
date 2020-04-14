@@ -91,5 +91,14 @@
     }
   ],
   "primaryKey": "space_id",
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "name_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

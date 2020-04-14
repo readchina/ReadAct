@@ -65,5 +65,21 @@
     }
   ],
   "primaryKey": ["person", "rustication_start"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "person",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "place_of_rust",
+      "reference": {
+        "resource": "space",
+        "fields": "space_id"
+      }
+    }
+  ]
 }

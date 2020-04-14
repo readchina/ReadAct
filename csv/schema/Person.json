@@ -139,5 +139,42 @@
     }
   ],
   "primaryKey": ["person_id", "name_lang"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "person_id",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "place_of_birth",
+      "reference": {
+        "resource": "space",
+        "fields": "space_id"
+      }
+    },
+    {
+      "fields": "social_position",
+      "reference": {
+        "resource": "social-position",
+        "fields": "soc_pos_id"
+      }
+    },
+    {
+      "fields": "source_1",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    },
+    {
+      "fields": "name_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

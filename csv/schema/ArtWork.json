@@ -94,5 +94,28 @@
     }
   ],
   "primaryKey": ["artwork_id", "title_lang"],
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "artwork_id",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    },
+    {
+      "fields": "art_form",
+      "reference": {
+        "resource": "art-form",
+        "fields": "art_form_id"
+      }
+    },
+    {
+      "fields": "title_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

@@ -3,12 +3,12 @@ DATASET
 {'error-count': 6,
  'preset': 'nested',
  'table-count': 18,
- 'time': 3.843,
+ 'time': 8.512,
  'valid': False}
 
 TABLE [1]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['act_id',
@@ -32,12 +32,12 @@ TABLE [1]
  'row-count': 1063,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Act.csv',
- 'time': 1.654,
+ 'time': 5.984,
  'valid': True}
 
 TABLE [2]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['action_id',
@@ -51,12 +51,12 @@ TABLE [2]
  'row-count': 39,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/ActType.csv',
- 'time': 0.369,
+ 'time': 0.181,
  'valid': True}
 
 TABLE [3]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['agent_id',
@@ -72,12 +72,12 @@ TABLE [3]
  'row-count': 655,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Agent.csv',
- 'time': 2.207,
+ 'time': 3.05,
  'valid': True}
 
 TABLE [4]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['art_form_id',
@@ -92,12 +92,12 @@ TABLE [4]
  'row-count': 11,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/ArtForm.csv',
- 'time': 1.616,
+ 'time': 0.56,
  'valid': True}
 
 TABLE [5]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['artwork_id',
@@ -117,12 +117,12 @@ TABLE [5]
  'row-count': 234,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/ArtWork.csv',
- 'time': 1.255,
+ 'time': 3.207,
  'valid': True}
 
 TABLE [6]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['genre_id',
@@ -138,12 +138,12 @@ TABLE [6]
  'row-count': 63,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Genre.csv',
- 'time': 1.389,
+ 'time': 0.362,
  'valid': True}
 
 TABLE [7]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 5,
  'format': 'inline',
  'headers': ['inst_id',
@@ -166,7 +166,7 @@ TABLE [7]
  'row-count': 59,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Institution.csv',
- 'time': 1.261,
+ 'time': 1.198,
  'valid': False}
 ---------
 [8,1] [unique-constraint] Rows 7, 8 has unique constraint violation in column 1
@@ -177,7 +177,7 @@ TABLE [7]
 
 TABLE [8]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['iso_code',
@@ -190,12 +190,12 @@ TABLE [8]
  'row-count': 26,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/IsoLangCode.csv',
- 'time': 1.211,
+ 'time': 0.444,
  'valid': True}
 
 TABLE [9]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['institution',
@@ -211,12 +211,12 @@ TABLE [9]
  'row-count': 9,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Membership.csv',
- 'time': 0.582,
+ 'time': 1.695,
  'valid': True}
 
 TABLE [10]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['person_id',
@@ -244,12 +244,12 @@ TABLE [10]
  'row-count': 1303,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Person.csv',
- 'time': 3.243,
+ 'time': 6.843,
  'valid': True}
 
 TABLE [11]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['prim_source_id',
@@ -274,12 +274,12 @@ TABLE [11]
  'row-count': 1185,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/PrimarySource.csv',
- 'time': 2.915,
+ 'time': 6.445,
  'valid': True}
 
 TABLE [12]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['quotation_id',
@@ -296,12 +296,12 @@ TABLE [12]
  'row-count': 12,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Quotation.csv',
- 'time': 0.864,
+ 'time': 0.185,
  'valid': True}
 
 TABLE [13]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 1,
  'format': 'inline',
  'headers': ['person',
@@ -313,18 +313,18 @@ TABLE [13]
              'created_by',
              'last_modified',
              'last_modified_by'],
- 'resource-name': 'rsustication',
+ 'resource-name': 'rustication',
  'row-count': 76,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Rustication.csv',
- 'time': 1.559,
+ 'time': 0.537,
  'valid': False}
 ---------
 [52,1] [unique-constraint] Rows 51, 52 has unique constraint violation in column 1
 
 TABLE [14]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['sec_source_id',
@@ -349,12 +349,12 @@ TABLE [14]
  'row-count': 210,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/SecondarySource.csv',
- 'time': 2.186,
+ 'time': 3.091,
  'valid': True}
 
 TABLE [15]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['soc_pos_id',
@@ -367,12 +367,12 @@ TABLE [15]
  'row-count': 10,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/SocialPosition.csv',
- 'time': 1.388,
+ 'time': 1.845,
  'valid': True}
 
 TABLE [16]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['soc_rel_id',
@@ -392,12 +392,12 @@ TABLE [16]
  'row-count': 29,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/SocialRelation.csv',
- 'time': 1.77,
+ 'time': 0.684,
  'valid': True}
 
 TABLE [17]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['space_id',
@@ -416,12 +416,12 @@ TABLE [17]
  'row-count': 437,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Space.csv',
- 'time': 1.764,
+ 'time': 3.531,
  'valid': True}
 
 TABLE [18]
 =========
-{'datapackage': 'datapackage.json',
+{'datapackage': 'csv/datapackage.json',
  'error-count': 0,
  'format': 'inline',
  'headers': ['work_id',
@@ -440,5 +440,5 @@ TABLE [18]
  'row-count': 640,
  'schema': 'table-schema',
  'source': '/Users/HALmob/Documents/gits/ReadingData/csv/data/Work.csv',
- 'time': 1.999,
+ 'time': 4.397,
  'valid': True}

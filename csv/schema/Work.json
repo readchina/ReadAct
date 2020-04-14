@@ -33,7 +33,7 @@
     },
     {
       "name": "type_num",
-      "description": "integer on on table",
+      "description": "integer on table",
       "constraints": {
         "required": false
       }
@@ -93,5 +93,21 @@
     }
   ],
   "primaryKey": "work_id",
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "creator",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "language",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
 }

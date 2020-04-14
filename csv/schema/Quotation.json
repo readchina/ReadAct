@@ -74,5 +74,14 @@
     }
   ],
   "primaryKey": "quotation_id",
-  "missingValues": ["", "NULL"]
+  "missingValues": ["", "NULL"],
+  "foreignKeys": [
+    {
+      "fields": "source",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    }
+  ]
 }
