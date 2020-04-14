@@ -24,10 +24,12 @@ before_install:
 install:
   - bats --version
   - mlr --version
+  - pip install goodtables
 
 script:
   # validate each file against its schema
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
+  - goodtables validate csv/datapackage.json
   - csvlint csv/data/Act.csv --schema=csv/schema/Act.json
   - csvlint csv/data/ActType.csv --schema=csv/schema/ActType.json
   - csvlint csv/data/Agent.csv --schema=csv/schema/Agent.json
