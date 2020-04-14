@@ -10,7 +10,8 @@
     }, {
       "name": "rustication_start",
       "constraints": {
-        "required": true
+        "required": true,
+        "unique": false
       }
     }, {
       "name": "rustication_end",

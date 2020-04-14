@@ -109,7 +109,7 @@
       "profile": "tabular-data-resource"
     },
     {
-      "name": "rsustication",
+      "name": "rustication",
       "schema": "schema/Rustication.json",
       "path": "data/Rustication.csv",
       "format": "csv",
