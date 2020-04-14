@@ -1,7 +1,10 @@
 dist: bionic
 # swith to python
-rvm:
-  - 2.4
+language: python
+python:
+  - "3.7"
+# rvm:
+#   - 2.4
 
 # addons:
 #   apt:
@@ -17,8 +20,8 @@ before_install:
   - wget https://github.com/johnkerl/miller/releases/download/5.4.0/mlr-5.4.0.tar.gz
   - tar -xzvf mlr-5.4.0.tar.gz
   - pushd mlr-5.4.0 && ./configure --prefix=/usr && make && sudo make install && popd
-  - gem install activesupport -v 5.2.3
-  - gem install csvlint
+  # - gem install activesupport -v 5.2.3
+  # - gem install csvlint
   - npm i -g bats
 
 install:
@@ -30,24 +33,26 @@ script:
   # validate each file against its schema
   # - for FILE in data/*csv; do csvlint --schema=schema.json $FILE; done
   - goodtables validate csv/datapackage.json
-  - csvlint csv/data/Act.csv --schema=csv/schema/Act.json
-  - csvlint csv/data/ActType.csv --schema=csv/schema/ActType.json
-  - csvlint csv/data/Agent.csv --schema=csv/schema/Agent.json
-  - csvlint csv/data/ArtForm.csv --schema=csv/schema/ArtForm.json
-  - csvlint csv/data/ArtWork.csv --schema=csv/schema/ArtWork.json
-  - csvlint csv/data/Genre.csv --schema=csv/schema/Genre.json
-  - csvlint csv/data/Institution.csv --schema=csv/schema/Institution.json
-  - csvlint csv/data/IsoLangCode.csv --schema=csv/schema/IsoLangCode.json
-  - csvlint csv/data/Membership.csv --schema=csv/schema/Membership.json
-  - csvlint csv/data/Person.csv --schema=csv/schema/Person.json
-  - csvlint csv/data/PrimarySource.csv --schema=csv/schema/PrimarySource.json
-  - csvlint csv/data/Quotation.csv --schema=csv/schema/Quotation.json
-  - csvlint csv/data/Rustication.csv --schema=csv/schema/Rustication.json
-  - csvlint csv/data/SecondarySource.csv --schema=csv/schema/SecondarySource.json
-  - csvlint csv/data/SocialPosition.csv --schema=csv/schema/SocialPosition.json
-  - csvlint csv/data/SocialRelation.csv --schema=csv/schema/SocialRelation.json
-  - csvlint csv/data/Space.csv --schema=csv/schema/Space.json
-  - csvlint csv/data/Work.csv --schema=csv/schema/Work.json
+  # - csvlint csv/data/Act.csv --schema=csv/schema/Act.json
+  # - csvlint csv/data/ActType.csv --schema=csv/schema/ActType.json
+  # - csvlint csv/data/Agent.csv --schema=csv/schema/Agent.json
+  # - csvlint csv/data/ArtForm.csv --schema=csv/schema/ArtForm.json
+  # - csvlint csv/data/ArtWork.csv --schema=csv/schema/ArtWork.json
+  # - csvlint csv/data/Genre.csv --schema=csv/schema/Genre.json
+  # - csvlint csv/data/Institution.csv --schema=csv/schema/Institution.json
+  # - csvlint csv/data/IsoLangCode.csv --schema=csv/schema/IsoLangCode.json
+  # - csvlint csv/data/Membership.csv --schema=csv/schema/Membership.json
+  # - csvlint csv/data/Person.csv --schema=csv/schema/Person.json
+  # - csvlint csv/data/PrimarySource.csv --schema=csv/schema/PrimarySource.json
+  # - csvlint csv/data/Quotation.csv --schema=csv/schema/Quotation.json
+  # - csvlint csv/data/Rustication.csv --schema=csv/schema/Rustication.json
+  # - csvlint csv/data/SecondarySource.csv --schema=csv/schema/SecondarySource.json
+  # - csvlint csv/data/SocialPosition.csv --schema=csv/schema/SocialPosition.json
+  # - csvlint csv/data/SocialRelation.csv --schema=csv/schema/SocialRelation.json
+  # - csvlint csv/data/Space.csv --schema=csv/schema/Space.json
+  # - csvlint csv/data/Work.csv --schema=csv/schema/Work.json
 
 # referential integrity checks
+# still requires bats + mlr since goodtables has a bug
+# see https://github.com/frictionlessdata/goodtables-py/issues/353
   - bats --tap test/*.bats

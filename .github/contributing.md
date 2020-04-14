@@ -15,11 +15,11 @@ To maintain data consistency we use two test suites, which are automatically car
 Structural changes, e.g. new files or new columns, as opposed to new entries or corrections, require edits to the schema files, the `data-dictionary` located in `data/`, and the bats tests.
 
 ### CI and schema files
-The [schemas](https://specs.frictionlessdata.io/table-schema/) for validating `csv` can be found in `csv/schema`. The validation is run by  [csvlint](https://github.com/theodi/csvlint.rb). To run these locally you need to install `csvlint` according to these [instructions](https://github.com/theodi/csvlint.rb#installation).
+The [schemas](https://specs.frictionlessdata.io/table-schema/) for validating `csv` can be found in `csv/schema`. The validation is run by  [goodtables-py](https://github.com/frictionlessdata/goodtables-py). To run these locally you need to install `csvlint` according to these [instructions](https://github.com/frictionlessdata/goodtables-py#installing).
 
-Each Schema is named after the corresponding csv table, so e.g. `Act.json` validates `Act.csv`. Simply navigate to the `ReadingData` folder on your hard-drive and run this command in your CLI of choice:
+Each Schema is named after the corresponding csv table, so e.g. `Act.json` validates `Act.csv`. These are referenced in the `datapackage.json` to validate:
 ```bash
-csvlint csv/data/Act.csv --schema=csv/schema/Act.json
+goodtables validate csv/datapackage.json
 ```
 
 Alternatively you can take a look at [this webpage](http://csvlint.io)

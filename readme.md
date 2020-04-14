@@ -6,7 +6,7 @@ This repository contains the main data files for the *ReadAct* database. *ReadAc
 ## Requirements for local development
 -   [miller](https://github.com/johnkerl/miller)
 -   [bats](https://github.com/bats-core/bats-core)
--   [csvlint](https://github.com/Clever/csvlint)
+-   [goodtables-py](https://github.com/frictionlessdata/goodtables-py)
 
 ## New contributors
 New contributors should consult these [guidelines](.github/contributing.md)
