@@ -69,13 +69,13 @@
       "name": "social_position",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|S[0-9]{2}|unknown)"
+        "pattern": "(^$|S[0-9]{2}|unknown)"
       }
     }, {
       "name": "neibu_access",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|yes|no|unknown)"
+        "pattern": "(^$|yes|no|unknown)"
       }
     }, {
       "name": "source_1",
@@ -139,7 +139,7 @@
     }
   ],
   "primaryKey": ["person_id", "name_lang"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "person_id",

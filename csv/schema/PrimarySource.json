@@ -64,7 +64,7 @@
       "name": "neibu",
       "constraints": {
         "required": false,
-        "pattern": "(^$|yes|no|NULL)"
+        "pattern": "(^$|yes|no)"
       }
     }, {
       "name": "source",
@@ -122,7 +122,7 @@
     }
   ],
   "primaryKey": ["prim_source_id", "title_lang"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "prim_source_id",
