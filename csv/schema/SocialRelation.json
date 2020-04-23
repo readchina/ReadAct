@@ -93,7 +93,7 @@
     }
   ],
   "primaryKey": "soc_rel_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "ego",

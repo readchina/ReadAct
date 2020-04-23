@@ -91,7 +91,7 @@
     }
   ],
   "primaryKey": "space_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "name_lang",

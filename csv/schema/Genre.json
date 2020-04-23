@@ -64,7 +64,7 @@
     }
   ],
   "primaryKey": "genre_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "genre_name",

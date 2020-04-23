@@ -43,5 +43,5 @@
     }
   ],
   "primaryKey": "iso_code",
-  "missingValues": ["","NULL"]
+  "missingValues": [""]
 }

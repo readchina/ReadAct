@@ -128,7 +128,7 @@
     }
   ],
   "primaryKey": "act_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "agent",

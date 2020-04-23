@@ -58,7 +58,7 @@
     }
   ],
   "primaryKey": "art_form_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "art_form_name_lang",

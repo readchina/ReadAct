@@ -68,7 +68,7 @@
     }
   ],
   "primaryKey": ["institution", "member"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "institution",

@@ -93,7 +93,7 @@
     }
   ],
   "primaryKey": "work_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "creator",

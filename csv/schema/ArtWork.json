@@ -94,7 +94,7 @@
     }
   ],
   "primaryKey": ["artwork_id", "title_lang"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "artwork_id",

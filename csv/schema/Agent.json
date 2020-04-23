@@ -70,7 +70,7 @@
     }
   ],
   "primaryKey": "agent_id",
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "language",

@@ -106,7 +106,7 @@
     }
   ],
   "primaryKey": ["inst_id", "inst_name", "inst_name_lang"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "inst_id",

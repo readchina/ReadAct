@@ -65,7 +65,7 @@
     }
   ],
   "primaryKey": ["person", "rustication_start"],
-  "missingValues": ["", "NULL"],
+  "missingValues": [""],
   "foreignKeys": [
     {
       "fields": "person",
