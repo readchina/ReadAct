@@ -181,5 +181,17 @@
       "encoding": "utf-8",
       "profile": "tabular-data-resource"
     }
+  ],
+  "views": [{
+    "name": "work-by-author",
+    "title": "works by individual authors",
+    "resources": ["agent", "work"],
+    "specType": "simple",
+    "spec": {
+      "type": "line",
+      "group": "x",
+      "series": [ "y", "z" ]
+    }
+  }
   ]
 }
