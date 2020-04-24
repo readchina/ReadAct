@@ -1,5 +1,24 @@
 {
   "profile": "tabular-data-package",
+  "name": "readact",
+  "title": "ReadAct Database of the READCHINA project",
+  "homepage": "https://readchina.github.io/",
+  "version": "1.0.0-BETA",
+  "id": "https://doi.org/10.5281/zenodo.3755105",
+  "contributors": [{
+      "title": "Lena Henningsen",
+      "role": "author"
+    },
+    {
+      "title": "Duncan Paterson",
+      "role": "author"
+    }
+  ],
+  "licenses": [{
+    "name": "CC-BY-SA-4.0",
+    "title": "Creative Commons Attribution Share-Alike 4.0",
+    "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }],
   "resources": [{
       "name": "act",
       "schema": "schema/Act.json",
@@ -162,21 +181,5 @@
       "encoding": "utf-8",
       "profile": "tabular-data-resource"
     }
-  ],
-  "contributors": [{
-      "title": "Lena Henningsen",
-      "role": "author"
-    },
-    {
-      "title": "Duncan Paterson",
-      "role": "author"
-    }
-  ],
-  "licenses": [{
-    "name": "CC-BY-SA-4.0",
-    "title": "Creative Commons Attribution Share-Alike 4.0",
-    "path": "https://creativecommons.org/licenses/by-sa/4.0/"
-  }],
-  "name": "readact",
-  "title": "ReadAct Database of the READCHINA project"
+  ]
 }
