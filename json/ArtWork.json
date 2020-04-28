@@ -1,0 +1,360 @@
+[
+{"artwork_id":"W0530","title":"The Girl of the Mountains (Kenga e naftes)","title_lang":"en","art_form":"AF03","first_performance_place":"SP0094","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0530","title":"山姑娘","title_lang":"zh","art_form":"AF03","first_performance_place":"SP0094","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0531","title":"City Lights","title_lang":"en","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0531","title":"城市之光","title_lang":"zh","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0532","title":"The Gold Rush","title_lang":"en","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0532","title":"淘金记","title_lang":"zh","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0533","title":"Monsieur Verdoux","title_lang":"en","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0533","title":"凡尔杜先生","title_lang":"zh","art_form":"AF02","first_performance_date":"196x","first_performance_place":"SP0436","neibu":"yes","created":"2018-02-09","created_by":"OS","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0534","title":"Swan Lake","title_lang":"en","art_form":"AF05","first_performance_date":"1877","first_performance_place":"SP0030","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0534","title":"天鹅湖","title_lang":"zh","art_form":"AF05","first_performance_date":"1877","first_performance_place":"SP0030","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0535","title":"Butterfly Lovers‘ Violin Concerto","title_lang":"en","art_form":"AF05","first_performance_date":"1959","first_performance_place":"SP0006","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0535","title":"梁祝小提琴协奏曲","title_lang":"zh","art_form":"AF05","first_performance_date":"1959","first_performance_place":"SP0006","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0536","title":"The Legend of the Red Lantern","title_lang":"en","art_form":"AF04","first_performance_date":"1967?","first_performance_place":"SP0436","neibu":"no","created":"2018-03-27","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0536","title":"红灯记","title_lang":"zh","art_form":"AF04","first_performance_date":"1967?","first_performance_place":"SP0436","neibu":"no","created":"2018-03-27","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0537","title":"The Internationale","title_lang":"en","art_form":"AF05","first_performance_date":"1888","first_performance_place":"SP0224","neibu":"no","created":"2018-04-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0537","title":"国际歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1888","first_performance_place":"SP0224","neibu":"no","created":"2018-04-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0538","title":"Inauguration of the State","title_lang":"en","art_form":"AF01","first_performance_date":"1953","first_performance_place":"SP0005","created":"2018-03-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0538","title":"开国大典","title_lang":"zh","art_form":"AF01","first_performance_date":"1953","first_performance_place":"SP0005","created":"2018-03-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0539","title":"Inauguration of the State","title_lang":"en","art_form":"AF01","first_performance_place":"SP0436","created":"2018-03-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0539","title":"开国大典","title_lang":"zh","art_form":"AF01","first_performance_place":"SP0436","created":"2018-04-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0540","title":"My home","title_lang":"en","art_form":"AF05","first_performance_date":"1893","first_performance_place":"SP0053","created":"2018-04-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0540","title":"思故乡","title_lang":"zh","art_form":"AF05","first_performance_date":"1893","first_performance_place":"SP0053","created":"2018-04-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0541","title":"New World Symphony","title_lang":"en","art_form":"AF05","first_performance_date":"1893","first_performance_place":"SP0053","created":"2018-04-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0541","title":"自新世界","title_lang":"zh","art_form":"AF05","first_performance_date":"1893","first_performance_place":"SP0053","created":"2018-04-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0542","title":"Rome 11 o'clock","title_lang":"en","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","neibu":"no","created":"2018-04-25","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0542","title":"罗马十一点钟","title_lang":"zh","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","neibu":"no","created":"2018-04-25","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0543","title":"Zigeunerweisen","title_lang":"en","art_form":"AF05","first_performance_date":"1878","first_performance_place":"SP0293","neibu":"yes","created":"2018-05-31","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0543","title":"流浪者之歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1878","first_performance_place":"SP0293","neibu":"yes","created":"2018-05-31","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0544","title":"Manhunt","title_lang":"en","art_form":"AF02","first_performance_date":"1976","first_performance_place":"SP0292","created":"2018-05-31","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0544","title":"Kimo yo Fundo no Kawa o Watare","title_lang":"ja","art_form":"AF02","first_performance_date":"1976","first_performance_place":"SP0292","created":"2018-05-31","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0544","title":"追捕","title_lang":"zh","art_form":"AF02","first_performance_date":"1976","first_performance_place":"SP0292","created":"2018-05-31","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0545","title":"北国江南","title_lang":"zh","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0006","neibu":"no","created":"2018-06-01","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0545","title":"Beiguo jiangnan","title_lang":"zh-Latn-pinyin","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0006","neibu":"no","created":"2018-06-01","created_by":"DM","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0546","title":"Lenin in October","title_lang":"en","art_form":"AF02","first_performance_place":"SP0436","neibu":"no","created":"2018-05-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0546","title":"列宁在十月","title_lang":"zh","art_form":"AF02","first_performance_place":"SP0436","neibu":"no","created":"2018-05-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0547","title":"Lenin in 1918","title_lang":"en","art_form":"AF02","first_performance_place":"SP0436","neibu":"no","created":"2018-05-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0547","title":"列宁在1918","title_lang":"zh","art_form":"AF02","first_performance_place":"SP0436","neibu":"no","created":"2018-05-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0548","title":"The Tramp","title_lang":"en","art_form":"AF02","first_performance_date":"1955","first_performance_place":"SP0096","created":"2018-06-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0548","title":"流浪者","title_lang":"zh","art_form":"AF02","first_performance_date":"1955","first_performance_place":"SP0096","created":"2018-06-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0549","title":"Ol‘Man River","title_lang":"en","art_form":"AF05","first_performance_date":"1927","first_performance_place":"SP0436","created":"2018-06-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0549","title":"老人河","title_lang":"zh","art_form":"AF05","first_performance_date":"1927","first_performance_place":"SP0436","created":"2018-06-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0550","title":"The Sparkling Red Star","title_lang":"en","art_form":"AF02","first_performance_date":"1972","first_performance_place":"SP0436","created":"2018-06-25","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0550","title":"闪闪的红星","title_lang":"zh","art_form":"AF02","first_performance_date":"1972","first_performance_place":"SP0436","created":"2018-06-25","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0551","title":"The Shade of the Willow","title_lang":"en","art_form":"AF04","first_performance_date":"1953","first_performance_place":"SP0005","neibu":"no","created":"2018-07-09","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0551","title":"柳荫记","title_lang":"zh","art_form":"AF04","first_performance_date":"1953","first_performance_place":"SP0005","neibu":"no","created":"2018-07-09","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0552","title":"Symphony No. 5","title_lang":"en","art_form":"AF05","first_performance_date":"1808","first_performance_place":"SP0436","created":"2018-08-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0552","title":"第五交响曲","title_lang":"zh","art_form":"AF05","first_performance_date":"1808","first_performance_place":"SP0436","created":"2018-08-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0553","title":"Symphony No. 9","title_lang":"en","art_form":"AF05","first_performance_date":"1824","first_performance_place":"SP0169","created":"2018-08-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0553","title":"第九交响曲","title_lang":"zh","art_form":"AF05","first_performance_date":"1824","first_performance_place":"SP0169","created":"2018-08-03","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0554","title":"unknown","title_lang":"en","art_form":"AF99","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-06-21","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0555","title":"Auld Lang Syne","title_lang":"en","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-11-06","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0555","title":"友谊地久天长","title_lang":"zh","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-11-06","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0556","title":"Les Chaises","title_lang":"fr","art_form":"AF03","first_performance_date":"1952","first_performance_place":"SP0050","neibu":"yes","created":"2018-11-07","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0556","title":"椅子","title_lang":"zh","art_form":"AF03","first_performance_date":"1952","first_performance_place":"SP0050","neibu":"yes","created":"2018-11-07","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0557","title":"Sun Hided Behind Mountain","title_lang":"en","art_form":"AF05","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0557","title":"Солнце скрылось за горою","title_lang":"ru","art_form":"AF05","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0557","title":"太阳落山","title_lang":"zh","art_form":"AF05","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0558","title":"The Deep Sea","title_lang":"en","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0558","title":"O More Duboko","title_lang":"hr","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0558","title":"深深的海洋","title_lang":"zh","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0559","title":"Wave of anger","title_lang":"en","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0559","title":"怒潮","title_lang":"zh","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0560","title":"Red Guards on Honghu Lake","title_lang":"en","art_form":"AF04","first_performance_date":"1950","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0560","title":"洪湖赤卫队","title_lang":"zh","art_form":"AF04","first_performance_date":"1950","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0561","title":"Climbing the Taofeng Mountain Three Times","title_lang":"en","art_form":"AF04","first_performance_date":"1972","first_performance_place":"SP0342","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0561","title":"三上桃峰","title_lang":"zh","art_form":"AF04","first_performance_date":"1972","first_performance_place":"SP0342","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0562","title":"National Anthem of China","title_lang":"en","art_form":"AF05","first_performance_date":"1935","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0562","title":"中华人民共和国国歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1935","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0563","title":"The Internationale","title_lang":"en","art_form":"AF05","first_performance_date":"1888","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0563","title":"国际歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1888","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0564","title":"A Song without Words","title_lang":"en","art_form":"AF05","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0564","title":"一支无字的歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0565","title":"Nong nu","title_lang":"en","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0565","title":"农奴","title_lang":"zh","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0566","title":"Come to the Sea","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0566","title":"Vieni sul mar","title_lang":"it","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0566","title":"来到海上","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0567","title":"Stele of Zhang Qian","title_lang":"en","art_form":"AF06","first_performance_date":"0186","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0567","title":"张迁碑","title_lang":"zh","art_form":"AF06","first_performance_date":"0186","first_performance_place":"SP0436","created":"2018-11-04","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0568","title":"Londonderry Air","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0568","title":"伦敦德里小调","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0569","title":"Model Mountain Township","title_lang":"en","art_form":"AF04","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0569","title":"模范山乡","title_lang":"zh","art_form":"AF04","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0570","title":"Dujuan Mountain","title_lang":"en","art_form":"AF04","first_performance_date":"1963","first_performance_place":"SP0006","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0570","title":"杜鹃山","title_lang":"zh","art_form":"AF04","first_performance_date":"1963","first_performance_place":"SP0006","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0571","title":"Ode to the Yimeng Mountains","title_lang":"en","art_form":"AF07","first_performance_date":"1973","first_performance_place":"SP0005","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0571","title":"沂蒙颂","title_lang":"zh","art_form":"AF07","first_performance_date":"1973","first_performance_place":"SP0005","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0572","title":"Serf’s Halberd","title_lang":"en","art_form":"AF04","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0572","title":"农奴戟","title_lang":"zh","art_form":"AF04","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0573","title":"The White Haired Girl","title_lang":"en","art_form":"AF04","first_performance_date":"1945","first_performance_place":"SP0024","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0573","title":"白毛女","title_lang":"zh","art_form":"AF04","first_performance_date":"1945","first_performance_place":"SP0024","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0574","title":"The White Haired Girl","title_lang":"en","art_form":"AF07","first_performance_date":"1965","first_performance_place":"SP0006","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0574","title":"白毛女","title_lang":"zh","art_form":"AF07","first_performance_date":"1965","first_performance_place":"SP0006","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0575","title":"The Yellow River","title_lang":"en","art_form":"AF05","first_performance_date":"1905","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0575","title":"黄河","title_lang":"zh","art_form":"AF05","first_performance_date":"1905","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0576","title":"Blue Street Light","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0576","title":"蓝色的街灯","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0577","title":"Dream Garden","title_lang":"en","art_form":"AF05","first_performance_date":"1970","first_performance_place":"SP0092","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0577","title":"寻梦园","title_lang":"zh","art_form":"AF05","first_performance_date":"1970","first_performance_place":"SP0092","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0578","title":"Night Star","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0578","title":"晚星","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0579","title":"Tangbula","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0579","title":"唐布拉","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0580","title":"Bitter Coffee","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0580","title":"苦咖啡","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0581","title":"Waterloo Bridge","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0581","title":"魂断蓝桥","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0582","title":"Farewell","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0582","title":"告别","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0583","title":"Eine kleine Nachtmusik","title_lang":"de","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0583","title":"弦乐小夜曲","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-06","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0584","title":"Battleship Potemkin","title_lang":"en","art_form":"AF02","first_performance_date":"1925","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0584","title":"Броненосец Потёмкин","title_lang":"ru","art_form":"AF02","first_performance_date":"1925","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0584","title":"战舰波将金号","title_lang":"zh","art_form":"AF02","first_performance_date":"1925","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0585","title":"The Forty-First","title_lang":"en","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0585","title":"Сорок первый","title_lang":"ru","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0585","title":"第四十一","title_lang":"zh","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0586","title":"Bicycle Thieves","title_lang":"en","art_form":"AF02","first_performance_date":"1948","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0586","title":"Ladri di biciclette","title_lang":"it","art_form":"AF02","first_performance_date":"1948","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0586","title":"偷自行车的人","title_lang":"zh","art_form":"AF02","first_performance_date":"1948","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0587","title":"Accattone","title_lang":"it","art_form":"AF02","first_performance_date":"1961","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0587","title":"乞丐","title_lang":"zh","art_form":"AF02","first_performance_date":"1961","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0588","title":"Last Year at Marienbad","title_lang":"en","art_form":"AF02","first_performance_date":"1961","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0588","title":"L'année dernière à Marienbad","title_lang":"fr","art_form":"AF02","first_performance_date":"1961","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0588","title":"去年在马伦巴","title_lang":"zh","art_form":"AF02","first_performance_date":"1961","first_performance_place":"SP0436","created":"2018-11-07","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0589","title":"Admiral Yamamoto","title_lang":"en","art_form":"AF02","first_performance_date":"1968","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0589","title":"連合艦隊司令長官 山本五十六","title_lang":"ja","art_form":"AF02","first_performance_date":"1968","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0589","title":"连合舰队司令长官 山本五十六","title_lang":"zh","art_form":"AF02","first_performance_date":"1968","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0590","title":"Ah, navy","title_lang":"en","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0590","title":"あ，海軍","title_lang":"ja","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0590","title":"啊，海军","title_lang":"zh","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0591","title":"Tora! Tora! Tora!","title_lang":"en","art_form":"AF02","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0591","title":"トラ・トラ・トラ!","title_lang":"ja","art_form":"AF02","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0591","title":"虎！虎！虎！","title_lang":"zh","art_form":"AF02","first_performance_date":"1970","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0592","title":"Battle of the Japan Sea","title_lang":"en","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0592","title":"日本海大海戦","title_lang":"ja","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0592","title":"日本海大海战","title_lang":"zh","art_form":"AF02","first_performance_date":"1969","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0593","title":"Explosion","title_lang":"en","art_form":"AF02","first_performance_date":"1973","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0593","title":"Explozia","title_lang":"ro","art_form":"AF02","first_performance_date":"1973","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0593","title":"爆炸","title_lang":"zh","art_form":"AF02","first_performance_date":"1973","first_performance_place":"SP0436","created":"2018-11-08","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0594","title":"Three Rules of Discipline and Eight Points for Attention","title_lang":"en","art_form":"AF05","first_performance_date":"1981..","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0594","title":"三大纪律，八项注意","title_lang":"zh","art_form":"AF05","first_performance_date":"1981..","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0595","title":"On the Docks","title_lang":"en","art_form":"AF04","first_performance_date":"1964","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0595","title":"海港","title_lang":"zh","art_form":"AF04","first_performance_date":"1964","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0596","title":"Narrow Street","title_lang":"en","art_form":"AF02","first_performance_date":"1981","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0596","title":"小街","title_lang":"zh","art_form":"AF02","first_performance_date":"1981","first_performance_place":"SP0436","created":"2018-11-10","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0597","title":"The Red Guards on the grassland saw Chairman Mao","title_lang":"en","art_form":"AF05","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0597","title":"草原上的红卫兵见到了毛主席","title_lang":"zh","art_form":"AF05","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0598","title":"Yanbian people love Chairman Mao","title_lang":"en","art_form":"AF03","first_performance_date":"1971","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0598","title":"延边人民热爱毛主席","title_lang":"zh","art_form":"AF03","first_performance_date":"1971","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0599","title":"Red Detachment of Women","title_lang":"en","art_form":"AF04","first_performance_date":"1958","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0599","title":"红色娘子军","title_lang":"zh","art_form":"AF04","first_performance_date":"1958","first_performance_place":"SP0436","created":"2018-11-11","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0600","title":"Red Detachment of Women","title_lang":"en","art_form":"AF02","first_performance_date":"1962","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0600","title":"红色娘子军","title_lang":"zh","art_form":"AF02","first_performance_date":"1962","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0601","title":"Troika","title_lang":"en","art_form":"AF05","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0601","title":"Вот мчится тройка почтовая","title_lang":"ru","art_form":"AF05","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0601","title":"三套车","title_lang":"zh","art_form":"AF05","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0602","title":"Siganushka","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0602","title":"黑眼睛的姑娘","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0603","title":"River Water","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0603","title":"江河水","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0604","title":"Boarding the Jinggangshan Again","title_lang":"en","art_form":"AF03","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0604","title":"重上井冈山","title_lang":"zh","art_form":"AF03","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-13","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0605","title":"Chairman Mao’s Brilliance Illuminates the Stove","title_lang":"en","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-14","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0605","title":"毛主席的光辉把炉台照亮","title_lang":"zh","art_form":"AF05","first_performance_place":"SP0436","created":"2018-11-14","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0606","title":"Ural Rowan Tree","title_lang":"en","art_form":"AF05","first_performance_date":"1953","first_performance_place":"SP0436","created":"2018-11-14","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0606","title":"Уральская рябинушка","title_lang":"ru","art_form":"AF05","first_performance_date":"1953","first_performance_place":"SP0436","created":"2018-11-14","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0606","title":"山楂树","title_lang":"zh","art_form":"AF05","first_performance_date":"1953","first_performance_place":"SP0436","created":"2018-11-14","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0607","title":"Chairman Mao Traveled Across the Motherland","title_lang":"en","art_form":"AF05","first_performance_date":"1972","first_performance_place":"SP0436","created":"2018-11-15","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0607","title":"毛主席走遍祖国大地","title_lang":"zh","art_form":"AF05","first_performance_date":"1972","first_performance_place":"SP0436","created":"2018-11-15","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0608","title":"Roars and groans the Dnipro","title_lang":"en","art_form":"AF05","first_performance_date":"188x?","first_performance_place":"SP0436","created":"2018-11-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0608","title":"Реве та стогне Дніпр широкий","title_lang":"ru","art_form":"AF05","first_performance_date":"188x?","first_performance_place":"SP0436","created":"2018-11-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0608","title":"第聂伯尔","title_lang":"zh","art_form":"AF05","first_performance_date":"188x?","first_performance_place":"SP0436","created":"2018-11-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0609","title":"Cao Quan’s Stele","title_lang":"en","art_form":"AF06","first_performance_date":"0185","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0609","title":"曹全碑","title_lang":"zh","art_form":"AF06","first_performance_date":"0185","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0610","title":"North Sea sketch","title_lang":"en","art_form":"AF01","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0610","title":"北海写生","title_lang":"zh","art_form":"AF01","first_performance_date":"19xx","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0611","title":"A Soldier's Experience","title_lang":"en","art_form":"AF02","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0611","title":"一个士兵的经历","title_lang":"zh","art_form":"AF02","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0612","title":"The Ghost Goes West","title_lang":"en","art_form":"AF02","first_performance_date":"1935","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0612","title":"鬼魂西行","title_lang":"zh","art_form":"AF02","first_performance_date":"1935","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0613","title":"The Spessart Inn","title_lang":"en","art_form":"AF02","first_performance_date":"1958","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0613","title":"神童","title_lang":"zh","art_form":"AF02","first_performance_date":"1958","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0614","title":"Roses for the Prosecutor","title_lang":"en","art_form":"AF02","first_performance_date":"1959","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0614","title":"献给检察官的玫瑰花","title_lang":"zh","art_form":"AF02","first_performance_date":"1959","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0615","title":"The Haunted Castle","title_lang":"en","art_form":"AF02","first_performance_date":"1960","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0615","title":"古堡幽灵","title_lang":"zh","art_form":"AF02","first_performance_date":"1960","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0616","title":"Army of Shadows","title_lang":"en","art_form":"AF02","first_performance_date":"1957","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0616","title":"影子部队","title_lang":"zh","art_form":"AF02","first_performance_date":"1957","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0617","title":"The Red and the Black","title_lang":"en","art_form":"AF02","first_performance_date":"1954","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0617","title":"红与黑","title_lang":"zh","art_form":"AF02","first_performance_date":"1954","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0618","title":"Nights of Cabiria","title_lang":"en","art_form":"AF02","first_performance_date":"1957","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0618","title":"她在黑夜中","title_lang":"zh","art_form":"AF02","first_performance_date":"1957","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0619","title":"Traumrevue","title_lang":"de","art_form":"AF02","first_performance_date":"1959","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0619","title":"冰上的梦","title_lang":"zh","art_form":"AF02","first_performance_date":"1959","first_performance_place":"SP0436","created":"2018-11-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0620","title":"Mona Lisa","title_lang":"en","art_form":"AF01","first_performance_date":"1503","first_performance_place":"SP0436","neibu":"no","created":"2018-11-14","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0620","title":"蒙娜丽萨","title_lang":"zh","art_form":"AF01","first_performance_date":"1503","first_performance_place":"SP0436","neibu":"no","created":"2018-11-14","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0621","title":"The Moon Represents my Heart","title_lang":"en","art_form":"AF05","first_performance_date":"1977","first_performance_place":"SP0436","neibu":"no","created":"2018-11-18","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0621","title":"月亮代表我的心","title_lang":"zh","art_form":"AF05","first_performance_date":"1977","first_performance_place":"SP0436","neibu":"no","created":"2018-11-18","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0622","title":"空山鸟语","title_lang":"zh","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-12-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0623","title":"毛主席去安源","title_lang":"zh","art_form":"AF01","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2018-12-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0624","title":"决裂","title_lang":"zh","art_form":"AF02","first_performance_date":"1975","first_performance_place":"SP0005","neibu":"no","created":"2018-12-12","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0625","title":"Tormented by Grievous Bondage","title_lang":"en","art_form":"AF05","first_performance_date":"18xx","first_performance_place":"SP0436","neibu":"no","created":"2018-12-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0625","title":"光荣牺牲","title_lang":"zh","art_form":"AF05","first_performance_date":"18xx","first_performance_place":"SP0436","neibu":"no","created":"2018-12-30","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0626","title":"Tunnel War","title_lang":"en","art_form":"AF02","first_performance_date":"1965","first_performance_place":"SP0005","neibu":"no","created":"2019-01-02","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0626","title":"地道战","title_lang":"zh","art_form":"AF02","first_performance_date":"1965","first_performance_place":"SP0005","neibu":"no","created":"2019-01-02","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0627","title":"Double Marriage","title_lang":"en","art_form":"AF03","first_performance_date":"1956","first_performance_place":"SP0436","neibu":"no","created":"2018-12-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0627","title":"双婚记","title_lang":"zh","art_form":"AF03","first_performance_date":"1956","first_performance_place":"SP0436","neibu":"no","created":"2018-12-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0628","title":"Long March Chorus","title_lang":"en","art_form":"AF05","first_performance_date":"1965","first_performance_place":"SP0436","created":"2018-12-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0628","title":"长征组歌","title_lang":"zh","art_form":"AF05","first_performance_date":"1965","first_performance_place":"SP0436","created":"2018-12-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0629","title":"February","title_lang":"en","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-12-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0629","title":"早春二月","title_lang":"zh","art_form":"AF02","first_performance_date":"1963","first_performance_place":"SP0436","created":"2018-12-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0630","title":"The Peach Blossom Fan","title_lang":"en","art_form":"AF03","first_performance_date":"1699~","first_performance_place":"SP0436","created":"2019-02-18","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0630","title":"桃花扇","title_lang":"zh","art_form":"AF03","first_performance_date":"1699~","first_performance_place":"SP0436","created":"2019-02-18","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0631","title":"When Will You Return?","title_lang":"en","art_form":"AF05","first_performance_date":"1939","first_performance_place":"SP0436","created":"2019-01-28","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0631","title":"何日君再来","title_lang":"zh","art_form":"AF05","first_performance_date":"1939","first_performance_place":"SP0436","created":"2019-01-28","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0632","title":"Chaoyang Village","title_lang":"en","art_form":"AF04","first_performance_date":"1958","first_performance_place":"SP0095","created":"2019-02-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0632","title":"朝阳沟","title_lang":"zh","art_form":"AF04","first_performance_date":"1958","first_performance_place":"SP0095","created":"2019-02-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0633","title":"Where is China going?","title_lang":"en","art_form":"AF09","first_performance_place":"SP0436","created":"2019-02-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0633","title":"中国向何处去？","title_lang":"zh","art_form":"AF09","first_performance_place":"SP0436","created":"2019-02-17","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0634","title":"Road Test","title_lang":"en","art_form":"AF02","first_performance_date":"1965","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0634","title":"路考","title_lang":"zh","art_form":"AF02","first_performance_date":"1965","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0635","title":"Business Startup","title_lang":"en","art_form":"AF02","first_performance_date":"1974","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0635","title":"创业","title_lang":"zh","art_form":"AF02","first_performance_date":"1974","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0636","title":"Railway Ruerrilla","title_lang":"en","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0636","title":"铁道游击队","title_lang":"zh","art_form":"AF02","first_performance_date":"1956","first_performance_place":"SP0436","created":"2019-02-23","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0637","title":"Sorrows of the Forbidden City","title_lang":"en","art_form":"AF02","first_performance_date":"1948","first_performance_place":"SP0436","created":"2019-02-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0637","title":"清宫秘史","title_lang":"zh","art_form":"AF02","first_performance_date":"1948","first_performance_place":"SP0436","created":"2019-02-24","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0638","title":"Two Hundred Famous Foreign Songs","title_lang":"en","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2019-02-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0638","title":"外国名歌二百首","title_lang":"zh","art_form":"AF05","first_performance_date":"unknown","first_performance_place":"SP0436","created":"2019-02-25","created_by":"WH","last_modified":"2020-04-08","last_modified_by":"DP"}
+,
+{"artwork_id":"W0639","title":"Vltava","title_lang":"cs","art_form":"AF05","first_performance_date":"1882","first_performance_place":"SP0068","created":"2019-08-21","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0639","title":"The Moldau","title_lang":"en","art_form":"AF05","first_performance_date":"1882","first_performance_place":"SP0068","created":"2019-08-21","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"},
+{"artwork_id":"W0639","title":"伏尔塔瓦河","title_lang":"zh","art_form":"AF05","first_performance_date":"1882","first_performance_place":"SP0068","created":"2019-08-21","created_by":"MG","last_modified":"2020-04-08","last_modified_by":"DP"}
+
+]

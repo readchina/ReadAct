@@ -183,15 +183,36 @@
     }
   ],
   "views": [{
-    "name": "work-by-author",
-    "title": "works by individual authors",
-    "resources": ["agent", "work"],
-    "specType": "simple",
-    "spec": {
-      "type": "line",
-      "group": "x",
-      "series": [ "y", "z" ]
+    "name": "txt_by_author_all",
+    "title": "Titles of textual works by Author",
+    "resources": {
+      "name": "work",
+      "data": {
+        "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/data/Work.csv"
+      },
+      "specType": "vega-lite",
+      "spec": {
+        "data": {
+          "name": "work"
+        },
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "creator",
+            "type": "ordinal",
+            "axis": {
+              "labelAngle": 0
+            },
+            "sort": "-y"
+          },
+          "y": {
+            "aggregate": "count",
+            "field": "work_id",
+            "type": "quantitative"
+          }
+        }
+      }
     }
   }
-  ]
+]
 }

@@ -1,0 +1,58 @@
+[
+{"soc_rel_id":"SR00001","ego":"AG0003","related":"AG0446","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"http://focus.news.163.com/10/0410/10/63TE57DT00011SM9_all.html","page":"ONLINE SOURCE","created":"2018-01-26","created_by":"OS","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00002","ego":"AG0197","related":"AG0205","relation":"S3.1","rel_zh":"熟人","rel_en":"acquaintance","source":"W0490","page":"249","created":"2018-02-02","created_by":"OS","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00003","ego":"AG0197","related":"AG0206","relation":"S3.1","rel_zh":"熟人","rel_en":"acquaintance","source":"W0490","page":"249","created":"2018-02-02","created_by":"OS","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00004","ego":"AG0037","related":"AG0035","relation":"S4.1.2.1f","rel_zh":"母亲","rel_en":"mother","source":"W0445","page":"ONLINE SOURCE","created":"2018-02-15","created_by":"OS","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00005","ego":"AG0143","related":"AG0029","relation":"S4.1.2.1f","rel_zh":"母亲","rel_en":"mother","source":"W0428","page":"116","created":"2018-02-22","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00006","ego":"AG0145","related":"AG0051","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0455","page":"ONLINE SOURCE","created":"2018-02-22","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00007","ego":"AG0151","related":"AG0118","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0476","page":"532","created":"2018-02-22","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00008","ego":"AG0146","related":"AG0239","relation":"S3.1","rel_zh":"熟人","rel_en":"acquaintance","source":"W0497","page":"ONLINE SOURCE","created":"2018-02-22","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00009","ego":"AG0252","related":"AG0253","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0499","page":"295","created":"2018-02-28","created_by":"OS","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00010","ego":"AG0258","related":"AG0257","relation":"S4.3.2.1f","rel_zh":"妻子","rel_en":"wife","source":"W0511","created":"2018-03-06","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00011","ego":"AG0257","related":"AG0259","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0511","page":"103","created":"2018-03-09","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00012","ego":"AG0257","related":"AG0260","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0511","page":"239","note":"they shared a room in a peasant‘s household","created":"2018-03-12","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00013","ego":"AG0265","related":"AG0258","relation":"S4.2.1.1me","rel_zh":"哥哥","rel_en":"elder brother","source":"W0511","page":"205","created":"2018-03-12","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00014","ego":"AG0258","related":"AG0267","relation":"S4.1.2.1f","rel_zh":"母亲","rel_en":"mother","source":"W0511","page":"246f","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00015","ego":"AG0257","related":"AG0267","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"W0511","page":"246f","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00016","ego":"AG0267","related":"AG0268","relation":"S4.2.1.2my","rel_zh":"弟弟","rel_en":"younger brother","source":"W0511","page":"326","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00017","ego":"AG0258","related":"AG0268","relation":"S4.1.2.1f","rel_zh":"母亲","rel_en":"mother","source":"W0511","page":"326","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00018","ego":"AG0257","related":"AG0268","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"W0511","page":"326","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00019","ego":"AG0257","related":"AG0269","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0511","page":"239","note":"they shared a room in a peasant‘s household","created":"2018-03-13","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00020","ego":"AG0284","related":"AG0282","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"W0512","created":"2018-03-21","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00021","ego":"AG0290","related":"AG0282","relation":"S4.2.1.1me","rel_zh":"哥哥","rel_en":"elder brother","source":"W0512","page":"454","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00022","ego":"AG0284","related":"AG0290","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"W0512","page":"454","created":"2018-03-23","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00023","ego":"AG0296","related":"AG0291","relation":"S4.1.1m","rel_zh":"父亲","rel_en":"father","source":"W0513","page":"5","created":"2018-04-03","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00024","ego":"AG0298","related":"AG0291","relation":"S3.1","rel_zh":"熟人","rel_en":"acquaintance","source":"W0513","page":"188","created":"2018-04-03","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00025","ego":"AG0291","related":"AG0307","relation":"S4.2.1.2my","rel_zh":"弟弟","rel_en":"younger brother","source":"W0513","page":"9","created":"2018-04-06","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00026","ego":"AG0031","related":"AG0032","relation":"S3.2-","rel_zh":"朋友","rel_en":"friend","source":"W0436","page":"ONLINE SOURCE","note":"They got to know each other in prison","created":"2018-05-14","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00027","ego":"AG0242","related":"AG0433","relation":"S4.3.2.1f","rel_zh":"妻子","rel_en":"wife","source":"W0500","created":"2018-07-17","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+,
+{"soc_rel_id":"SR00028","ego":"AG0166","related":"AG0448","relation":"S4.2.1.1me","rel_zh":"哥哥","rel_en":"elder brother","source":"https://books.google.de/books?id=eSIhzKnNUf4C&pg=PA240&lpg=PA240&dq=elena+ilyina+1901-1964&source=bl&ots=C7IJD8ueqI&sig=GtUlXr5R2PLUSj1EJJEAMHEIY_A&hl=en&sa=X&ved=2ahUKEwj_yIvp1efcAhXJCuwKHS0OBh0Q6AEwCXoECAgQAQ#v=onepage&q=elena%20ilyina%201901-1964&f=false","page":"ONLINE SOURCE","created":"2018-08-12","created_by":"MG","last_modified":"2020-04-04","last_modified_by":"DP"}
+
+]

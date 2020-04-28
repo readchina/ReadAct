@@ -19,6 +19,27 @@ install:
   # - bats --version
   # - mlr --version
   - pip install goodtables
+  - npm i -g csvtojson
+
+before_script:
+  - csvtojson --ignoreEmpty=true csv/data/Act.csv > json/Act.json
+  - csvtojson --ignoreEmpty=true csv/data/ActType.csv > json/ActType.json
+  - csvtojson --ignoreEmpty=true csv/data/Agent.csv > json/Agent.json
+  - csvtojson --ignoreEmpty=true csv/data/ArtForm.csv > json/ArtForm.json
+  - csvtojson --ignoreEmpty=true csv/data/ArtWork.csv > json/ArtWork.json
+  - csvtojson --ignoreEmpty=true csv/data/Genre.csv > json/Genre.json
+  - csvtojson --ignoreEmpty=true csv/data/Institution.csv > json/Institution.json
+  - csvtojson --ignoreEmpty=true csv/data/IsoLangCode.csv > json/IsoLangCode.json
+  - csvtojson --ignoreEmpty=true csv/data/Membership.csv > json/Membership.json
+  - csvtojson --ignoreEmpty=true csv/data/Person.csv > json/Person.json
+  - csvtojson --ignoreEmpty=true csv/data/PrimarySource.csv > json/PrimarySource.json
+  - csvtojson --ignoreEmpty=true csv/data/Quotation.csv > json/Quotation.json
+  - csvtojson --ignoreEmpty=true csv/data/Rustication.csv > json/Rustication.json
+  - csvtojson --ignoreEmpty=true csv/data/SecondarySource.csv > json/SecondarySource.json
+  - csvtojson --ignoreEmpty=true csv/data/SocialPosition.csv > json/SocialPosition.json
+  - csvtojson --ignoreEmpty=true csv/data/SocialRelation.csv > json/SocialRelation.json
+  - csvtojson --ignoreEmpty=true csv/data/Space.csv > json/Space.json
+  - csvtojson --ignoreEmpty=true csv/data/Work.csv > json/Work.json
 
 script:
   - goodtables validate csv/datapackage.json
