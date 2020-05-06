@@ -5,43 +5,30 @@ python:
 os: linux
 dist: bionic
 
-# miller on ubuntu bionic is 5.3 we need 5.4
-# addons:
-#   apt:
-#     packages:
-#       - miller
-#       - bats
+# miller on ubuntu bionic is 5.3 we need 5.4 or higher
+addons:
+  apt:
+    packages:
+      - miller
+      - bats
+      - textql
 
 notifications:
   email: false
 
+
 install:
-  # - bats --version
-  # - mlr --version
-  - pip install goodtables
-  - npm i -g csvtojson
+  - pip install goodtables csvkit
 
 before_script:
-  - csvtojson --ignoreEmpty=true csv/data/Act.csv > json/Act.json
-  - csvtojson --ignoreEmpty=true csv/data/ActType.csv > json/ActType.json
-  - csvtojson --ignoreEmpty=true csv/data/Agent.csv > json/Agent.json
-  - csvtojson --ignoreEmpty=true csv/data/ArtForm.csv > json/ArtForm.json
-  - csvtojson --ignoreEmpty=true csv/data/ArtWork.csv > json/ArtWork.json
-  - csvtojson --ignoreEmpty=true csv/data/Genre.csv > json/Genre.json
-  - csvtojson --ignoreEmpty=true csv/data/Institution.csv > json/Institution.json
-  - csvtojson --ignoreEmpty=true csv/data/IsoLangCode.csv > json/IsoLangCode.json
-  - csvtojson --ignoreEmpty=true csv/data/Membership.csv > json/Membership.json
-  - csvtojson --ignoreEmpty=true csv/data/Person.csv > json/Person.json
-  - csvtojson --ignoreEmpty=true csv/data/PrimarySource.csv > json/PrimarySource.json
-  - csvtojson --ignoreEmpty=true csv/data/Quotation.csv > json/Quotation.json
-  - csvtojson --ignoreEmpty=true csv/data/Rustication.csv > json/Rustication.json
-  - csvtojson --ignoreEmpty=true csv/data/SecondarySource.csv > json/SecondarySource.json
-  - csvtojson --ignoreEmpty=true csv/data/SocialPosition.csv > json/SocialPosition.json
-  - csvtojson --ignoreEmpty=true csv/data/SocialRelation.csv > json/SocialRelation.json
-  - csvtojson --ignoreEmpty=true csv/data/Space.csv > json/Space.json
-  - csvtojson --ignoreEmpty=true csv/data/Work.csv > json/Work.json
+  - mlr --version
+  - textql --version
 
+# Checks
 script:
   - goodtables validate csv/datapackage.json
-  # old referential integrity checks
   # - bats --tap test/*.bats
+
+# Generate Views
+after_success:
+   - textql -output-file csv/views/view1.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'"  csv/data/*.csv
