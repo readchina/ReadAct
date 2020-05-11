@@ -29,10 +29,10 @@ script:
   - goodtables validate csv/datapackage.json
   # - bats --tap test/*.bats
 
-# Generate Views
+# Generate Views (filter unknown)
 after_success:
-  - textql -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'" csv/data/*.csv
-  - textql -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.title_lang = a.id_lang and a.act_object!='W0554'" csv/data/*.csv
-  - textql -output-file csv/views/view02a_creator-matrix.csv -header -sql "select distinct a.act_id, a.agent, a.act_object,  p.family_name, p.first_name from Act a, Person p inner join Person on a.agent = p.person_id  where p.name_lang = a.id_lang and a.agent!='AG0626'" csv/data/*.csv
+  - textql -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'" csv/data/
+  - textql -output-header -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.title_lang = a.id_lang and a.act_object!='W0554'" csv/data/
+  - textql -output-header -output-file csv/views/view02a_creator-matrix.csv -header -sql "select distinct a.act_id, a.agent, a.act_object,  p.family_name, p.first_name from Act a, Person p inner join Person on a.agent = p.person_id  where p.name_lang = a.id_lang and a.agent!='AG0626'" csv/data/
   # no Inst acts ??
   # - textql -output-file csv/views/view02b_creator-matrix.csv -header -sql "select distinct a.act_id, a.agent, i.inst_name from Act a, Institution i inner join Institution on a.agent = i.inst_id where i.inst_name_lang = a.id_lang" csv/data/*.csv
