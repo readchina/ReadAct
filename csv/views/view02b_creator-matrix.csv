@@ -1,0 +1,702 @@
+act_id,act_object,creator,title,name
+A00001,W0002,AG0629,English 900,
+A00002,W0003,AG0075,Bai lunchuan,Aitmatov Chinghiz
+A00004,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00005,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00006,W0005,AG0107,My Universities,Gorky Maxim
+A00007,W0005,AG0107,My Universities,Gorky Maxim
+A00009,W0009,AG0112,The New Class,Milovan Djilas
+A00010,W0010,AG0001,Letters Between Two,Lu Xun
+A00011,W0009,AG0112,The New Class,Milovan Djilas
+A00012,W0009,AG0112,The New Class,Milovan Djilas
+A00013,W0009,AG0112,The New Class,Milovan Djilas
+A00014,W0009,AG0112,The New Class,Milovan Djilas
+A00015,W0010,AG0001,Letters Between Two,Lu Xun
+A00016,W0010,AG0001,Letters Between Two,Lu Xun
+A00018,W0011,AG0001,Wild Grass,Lu Xun
+A00020,W0067,AG0001,Lu Xun yulu,Lu Xun
+A00028,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00029,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00033,W0016,AG0083,Gongren Suihuilüefu,Artsybashev Mikhail
+A00037,W0019,AG0627,New Vietnamese Chinese Newspaper,
+A00038,W0021,AG0088,Guan yi mai,Bai Juyi
+A00039,W0530,AG0080,,Anagnosti Dhimitër
+A00040,W0554,AG0626,,anonymous
+A00041,W0554,AG0626,,anonymous
+A00044,W0552,AG0093,,Beethoven Ludwig van
+A00045,W0022,AG0126,Canne al Vento,Deledda Grazia
+A00046,W0024,AG0009,Bodong,Bei Dao
+A00047,W0025,AG0009,Huida,Bei Dao
+A00048,W0026,AG0009,Qiaobi shang de chuanghu,Bei Dao
+A00049,W0029,AG0009,Rainy Night,Bei Dao
+A00050,W0030,AG0009,Dusk: Dingjiatan,Bei Dao
+A00051,W0031,AG0009,Habit,Bei Dao
+A00052,W0028,AG0009,Alcohol,Bei Dao
+A00053,W0027,AG0009,Smoke,Bei Dao
+A00054,W0032,AG0097,Jiu ji lang,Bi Ruxie
+A00055,W0033,AG0118,Dedicated to the Aegean Sea,Bo Hua
+A00056,W0034,AG0118,For a Sick boy,Bo Hua
+A00057,W0035,AG0102,Room at the Top,Braine John
+A00060,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00061,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00062,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00063,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00065,W0531,AG0136,,Chaplin Charlie
+A00066,W0531,AG0136,,Chaplin Charlie
+A00067,W0532,AG0136,,Chaplin Charlie
+A00068,W0532,AG0136,,Chaplin Charlie
+A00069,W0533,AG0136,,Chaplin Charlie
+A00070,W0533,AG0136,,Chaplin Charlie
+A00071,W0040,AG0136,My Autobiography,Chaplin Charlie
+A00072,W0041,AG0137,Dai gelou de fangzi,Chekhov Anton
+A00073,W0042,AG0117,For Mr. Yan Wenliang,Chen Jianhua
+A00074,W0043,AG0139,What is to be Done?,Chernyshevsky Nikolay Gavrilovich
+A00075,W0086,AG0154,unknown,Darwin Charles
+A00076,W0542,AG0153,,De Santis Giuseppe
+A00077,W0061,AG0138,David Copperfield,Dickens Charles
+A00079,W0022,AG0126,Canne al Vento,Deledda Grazia
+A00080,W0063,AG0164,Mantian de shouwangzhe,Salinger Jerome David
+A00081,W0064,AG0165,Luoting,Turgenev Ivan Sergeyevich
+A00082,W0063,AG0164,Mantian de shouwangzhe,Salinger Jerome David
+A00085,W0065,AG0166,100.000 Whys,Ilin Mikhail
+A00086,W0066,AG0626,A Thousand and One Nights,anonymous
+A00087,W0006,AG0107,My Apprenticeship,Gorky Maxim
+A00088,W0020,AG0086,Light Above the Land,Babayevsky Semyon
+A00090,W0026,AG0009,Qiaobi shang de chuanghu,Bei Dao
+A00091,W0009,AG0112,The New Class,Milovan Djilas
+A00092,W0008,AG0111,On the Road,Kerouac Jack
+A00094,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00095,W0036,AG0129,Jane Eyre,Brontë Charlotte
+A00096,W0059,AG0155,Heluxiaofu,Crankshaw Edward
+A00097,W0062,AG0138,A Tale of Two Cities,Dickens Charles
+A00098,W0063,AG0164,Mantian de shouwangzhe,Salinger Jerome David
+A00099,W0060,AG0152,Tieduo zhuan,Dedijer Vladimir
+A00147,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A00148,W0073,AG0443,Hello Sadness,Éluard Paul
+A00152,W0076,AG0445,A Brief History of China,Fan Wenlan
+A00154,W0076,AG0445,A Brief History of China,Fan Wenlan
+A00155,W0077,AG0168,Fan du lin lun,Feng Menglong
+A00164,W0009,AG0112,The New Class,Milovan Djilas
+A00167,W0068,AG0204,Guanyu gerenchongbai ji qi houguo,Khrushchev Nikita
+A00168,W0068,AG0204,Guanyu gerenchongbai ji qi houguo,Khrushchev Nikita
+A00169,W0068,AG0204,Guanyu gerenchongbai ji qi houguo,Khrushchev Nikita
+A00170,W0068,AG0204,Guanyu gerenchongbai ji qi houguo,Khrushchev Nikita
+A00171,W0068,AG0204,Guanyu gerenchongbai ji qi houguo,Khrushchev Nikita
+A00173,W0079,AG0208,Denouncing Fascism,Dimitrov Georgi
+A00174,W0081,AG0209,Crime and Punishment,Dostoyevsky Fyodor
+A00175,W0080,AG0209,Bei wuru de yu bei sunhai de,Dostoyevsky Fyodor
+A00183,W0087,AG0070,Dang furonghua chongxin kaifang de shihou,Gan Huili
+A00184,W0088,AG0216,I Want to Study!,Gao Yubao
+A00188,W0092,AG0100,Shi ri tan,Boccaccio Giovanni
+A00190,W0093,AG0219,The Heart of the Matter,Greene Graham
+A00192,W0065,AG0166,100.000 Whys,Ilin Mikhail
+A00193,W0066,AG0626,A Thousand and One Nights,anonymous
+A00195,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A00196,W0096,AG0225,Great Changes in a Mountain Village,Zhou Libo
+A00197,W0097,AG0226,Bolivian Diary,Guevara Che
+A00198,W0097,AG0226,Bolivian Diary,Guevara Che
+A00199,W0098,AG0227,Heluxiaofu zhuyi,Gunawardhana Theja
+A00200,W0098,AG0227,Heluxiaofu zhuyi,Gunawardhana Theja
+A00201,W0098,AG0227,Heluxiaofu zhuyi,Gunawardhana Theja
+A00202,W0099,AG0019,This is Beijing at 4:08,Guo Lusheng
+A00203,W0100,AG0019,At the Time of Your Departure,Guo Lusheng
+A00204,W0101,AG0019,Believe in the Future,Guo Lusheng
+A00205,W0101,AG0019,Believe in the Future,Guo Lusheng
+A00206,W0101,AG0019,Believe in the Future,Guo Lusheng
+A00207,W0102,AG0019,Haiyang sanbuqu,Guo Lusheng
+A00208,W0102,AG0019,Haiyang sanbuqu,Guo Lusheng
+A00210,W0104,AG0230,Hong zi,Hawthorne Nathaniel
+A00211,W0104,AG0230,Hong zi,Hawthorne Nathaniel
+A00212,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A00213,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A00214,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A00215,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A00217,W0106,AG0232,Windows of the Westward Train,He Jingzhi
+A00218,W0106,AG0232,Windows of the Westward Train,He Jingzhi
+A00219,W0108,AG0233,Prophecy,He Qifang
+A00220,W0109,AG0234,Hegeer de xiao luoji,Hegel Georg Wilhelm Friedrich
+A00221,W0110,AG0235,Catch-22,Heller Joseph
+A00223,W0112,AG0237,Beican shijie,Hugo Victor
+A00224,W0112,AG0237,Beican shijie,Hugo Victor
+A00225,W0087,AG0070,Dang furonghua chongxin kaifang de shihou,Gan Huili
+A00228,W0008,AG0111,On the Road,Kerouac Jack
+A00229,W0008,AG0111,On the Road,Kerouac Jack
+A00230,W0063,AG0164,Mantian de shouwangzhe,Salinger Jerome David
+A00231,W0008,AG0111,On the Road,Kerouac Jack
+A00232,W0063,AG0164,Mantian de shouwangzhe,Salinger Jerome David
+A00233,W0008,AG0111,On the Road,Kerouac Jack
+A00234,W0114,AG0240,Fortitude,Ketlinskaya Vera
+A00235,W0059,AG0155,Heluxiaofu,Crankshaw Edward
+A00236,W0059,AG0155,Heluxiaofu,Crankshaw Edward
+A00237,W0116,AG0241,Jin Richeng xuanji,Kim Il-sung
+A00238,W0117,AG0243,Jin Richeng zhuan,Li Baiying
+A00239,W0059,AG0155,Heluxiaofu,Crankshaw Edward
+A00240,W0121,AG0246,I Chose Freedom,Kravchenko Victor
+A00241,W0122,AG0247,Di sishiyi,Lavrenyov Boris
+A00242,W0124,AG0248,Dubai,Lermontov Mikhail
+A00244,W0125,AG0251,Commentary on the Water Classic,Li Daoyuan
+A00245,W0126,AG0254,Liu Zhidan,Li Jiantong
+A00246,W0127,AG0256,Bian cheng,Shen Congwen
+A00247,W0128,AG0256,Changhe,Shen Congwen
+A00249,W0127,AG0256,Bian cheng,Shen Congwen
+A00250,W0128,AG0256,Changhe,Shen Congwen
+A00252,W0129,AG0001,A Q zhengzhuan,Lu Xun
+A00253,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00254,W0130,AG0261,Sibadakesi,Fast Howard
+A00255,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00256,W0132,AG0263,Utopia,More Thomas
+A00259,W0134,AG0266,Journey to the West,Wu Cheng‘en
+A00260,W0511,AG0257,,Wu Ningkun
+A00261,W0002,AG0629,English 900,
+A00262,W0002,AG0629,English 900,
+A00263,W0135,AG0270,Art Through the Ages,Gardner Helen
+A00267,W0136,AG0274,Luoma diguo shuaiwang shi,Gibbon Edward
+A00268,W0137,AG0273,Shizhu pian,A Kempis Thomas
+A00269,W0138,AG0272,Romance of the Three Kingdoms,Luo Guanzhong
+A00270,W0139,AG0266,Story of the Golden Monkey,Wu Cheng‘en
+A00271,W0140,AG0271,Shoushudao jiushi wuqi,Allan Ted
+A00272,W0141,AG0275,Taiyang zhao zai Sanggan he shang,Ding Ling
+A00273,W0535,AG0289,,He Zhanhao
+A00274,W0081,AG0209,Crime and Punishment,Dostoyevsky Fyodor
+A00275,W0082,AG0210,Canon of Sherlock Holmes,Doyle Arthur Conan
+A00279,W0143,AG0279,Baowei Yan’an,Du Pengcheng
+A00285,W0144,AG0212,Ershi nian hou,Dumas Alexandre
+A00286,W0145,AG0212,San ge huoqiangshou,Dumas Alexandre
+A00287,W0146,AG0280,Chahuanü,Dumas Alexandre fils
+A00288,W0536,AG0636,,
+A00289,W0537,AG0295,,De Geyter Pierre
+A00291,W0147,AG0232,Hui Yanan,He Jingzhi
+A00292,W0149,AG0283,Paoxiao shanzhuang,Brontë Emily
+A00299,W0038,AG0132,Dream of the Red Chamber,Cao Xueqin
+A00300,W0534,AG0288,,Tchaikovsky Pyotr Ilyich
+A00301,W0535,AG0289,,He Zhanhao
+A00302,W0534,AG0288,,Tchaikovsky Pyotr Ilyich
+A00303,W0535,AG0289,,He Zhanhao
+A00305,W0104,AG0230,Hong zi,Hawthorne Nathaniel
+A00307,W0151,AG0292,Red Star Over China,Snow Edgar
+A00308,W0152,AG0293,Ten Days That Shook the World,Reed John
+A00309,W0536,AG0636,,
+A00310,W0536,AG0636,,
+A00311,W0513,AG0291,,Zhu Xiao Di
+A00312,W0153,AG0294,Hui mie,Fadeyev Alexander Alexandrovich
+A00314,W0154,AG0150,In Memory of Norman Bethune,Mao Zedong
+A00315,W0537,AG0295,,De Geyter Pierre
+A00316,W0537,AG0295,,De Geyter Pierre
+A00321,W0002,AG0629,English 900,
+A00322,W0554,AG0626,,anonymous
+A00325,W0078,AG0207,Niumeng,Voynich Ethel
+A00326,W0155,AG0297,Anni riji,Frank Anne
+A00328,W0155,AG0297,Anni riji,Frank Anne
+A00330,W0156,AG0299,A General Introduction to Psycho-Analysis,Freud Sigmund
+A00331,W0156,AG0299,A General Introduction to Psycho-Analysis,Freud Sigmund
+A00332,W0157,AG0299,Meng de jiexi,Freud Sigmund
+A00333,W0157,AG0299,Meng de jiexi,Freud Sigmund
+A00334,W0158,AG0300,Studies in the Psychology of Sex,Ellis Havelock
+A00335,W0158,AG0300,Studies in the Psychology of Sex,Ellis Havelock
+A00368,W0159,AG0308,Feiniao ji,Tagore Rabindranath
+A00370,W0160,AG0285,War and Peace,Tolstoy Lev Nikolayevich
+A00371,W0161,AG0285,Anna Kalienina,Tolstoy Lev Nikolayevich
+A00372,W0162,AG0285,Fuhuo,Tolstoy Lev Nikolayevich
+A00373,W0160,AG0285,War and Peace,Tolstoy Lev Nikolayevich
+A00374,W0160,AG0285,War and Peace,Tolstoy Lev Nikolayevich
+A00375,W0160,AG0285,War and Peace,Tolstoy Lev Nikolayevich
+A00376,W0161,AG0285,Anna Kalienina,Tolstoy Lev Nikolayevich
+A00380,W0163,AG0309,A Study of History,Toynbee Arnold Joseph
+A00381,W0163,AG0309,A Study of History,Toynbee Arnold Joseph
+A00382,W0164,AG0311,The Students,Trifonov Yuri Valentinovich
+A00383,W0165,AG0312,Sidalin pinglun,Trostky Leon
+A00384,W0166,AG0312,Bei beipan le de geming,Trostky Leon
+A00385,W0166,AG0312,Bei beipan le de geming,Trostky Leon
+A00386,W0166,AG0312,Bei beipan le de geming,Trostky Leon
+A00392,W0167,AG0313,Bai Bimu hei erduo,Troyepolsky Gavriil
+A00393,W0168,AG0314,Dulumen huiyilu,Truman Harry S.
+A00394,W0064,AG0165,Luoting,Turgenev Ivan Sergeyevich
+A00407,W0554,AG0626,,anonymous
+A00408,W0554,AG0626,,anonymous
+A00410,W0172,AG0322,Fanerna kehuan gushi,Verne Jules
+A00411,W0078,AG0207,Niumeng,Voynich Ethel
+A00412,W0078,AG0207,Niumeng,Voynich Ethel
+A00413,W0078,AG0207,Niumeng,Voynich Ethel
+A00425,W0174,AG0329,Babi Yar and Others,Yevtushenko Yevgeny Aleksandrovich
+A00426,W0174,AG0329,Babi Yar and Others,Yevtushenko Yevgeny Aleksandrovich
+A00427,W0174,AG0329,Babi Yar and Others,Yevtushenko Yevgeny Aleksandrovich
+A00428,W0175,AG0330,The Memoirs of Marshal Zhukov,Zhukov Georgy
+A00429,W0176,AG0331,Africa,Zikmund Miroslav
+A00433,W0179,AG0336,Arc de Triomphe,Remarque Erich Maria
+A00435,W0554,AG0626,,anonymous
+A00445,W0546,AG0344,,Romm Mikhail
+A00446,W0546,AG0344,,Romm Mikhail
+A00447,W0547,AG0344,,Romm Mikhail
+A00448,W0547,AG0344,,Romm Mikhail
+A00449,W0182,AG0345,Longmeier zhanshi wenjian,Rommel Erwin
+A00451,W0191,AG0383,Duo xue de dongtian,Shamiakin Ivan
+A00452,W0543,AG0384,,Sarasate Pablo
+A00458,W0544,AG0388,,Sato Junya
+A00459,W0194,AG0386,A Philosophy of Man,Schaff Adam
+A00460,W0193,AG0386,Jiegouzhuyi yu makesizhuyi,Schaff Adam
+A00462,W0554,AG0626,,anonymous
+A00464,W0196,AG0391,Aiqing gushi,Segal Erich
+A00465,W0554,AG0626,,anonymous
+A00467,W0197,AG0301,Hamlet,Shakespeare William
+A00469,W0198,AG0256,Dragon and Phoenix Art,Shen Congwen
+A00471,W0199,AG0395,Essays on Caligraphy,Shen Yinmo
+A00472,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00473,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00474,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00475,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00476,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00477,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00478,W0554,AG0626,,anonymous
+A00479,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00480,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00481,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00482,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00483,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00484,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00485,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00486,W0200,AG0398,Disandiguo de xingwang,Shirer William L.
+A00487,W0554,AG0626,,anonymous
+A00488,W0201,AG0401,Destiny of a Man,Solokhov Mikhail
+A00489,W0201,AG0401,Destiny of a Man,Solokhov Mikhail
+A00490,W0131,AG0262,Shuihu zhuan,Shi Nai‘an
+A00491,W0202,AG0402,White Silence,Shu Menglan
+A00492,W0203,AG0403,Records of the Grand Historian,Sima Qian
+A00493,W0203,AG0403,Records of the Grand Historian,Sima Qian
+A00494,W0203,AG0403,Records of the Grand Historian,Sima Qian
+A00495,W0204,AG0403,An Letter to Ren An,Sima Qian
+A00496,W0205,AG0404,Feng Qiu Huang,Sima Xiangru
+A00497,W0206,AG0405,Zizhi Tongjian,Sima Guang
+A00498,W0207,AG0406,The Living and the Dead,Simonov Konstantin Mikhailovich
+A00499,W0207,AG0406,The Living and the Dead,Simonov Konstantin Mikhailovich
+A00501,W0069,AG0441,Jiedong,Ehrenburg Ilya
+A00502,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A00511,W0219,AG0168,Gu jin xiaoshuo,Feng Menglong
+A00514,W0221,AG0420,Canma,Feng Zhi
+A00515,W0156,AG0299,A General Introduction to Psycho-Analysis,Freud Sigmund
+A00516,W0222,AG0421,Chengdu Overview,Fu Chongju
+A00517,W0554,AG0626,,anonymous
+A00518,W0223,AG0423,Yuan hui,Han Yu
+A00519,W0224,AG0054,Ancient Chinese Social History,Hou Wailu
+A00520,W0225,AG0424,Yuan jun,Huang Zongxi
+A00521,W0225,AG0424,Yuan jun,Huang Zongxi
+A00522,W0226,AG0054,History of Ancient Chinese Ideology,Hou Wailu
+A00523,W0227,AG0054,History of Chinese Modern Ideology,Hou Wailu
+A00524,W0228,AG0054,General history of Chinese Ideology,Hou Wailu
+A00525,W0229,AG0425,Barefoot doctor handbook,Huang Yuxiang
+A00526,W0230,AG0237,1793,Hugo Victor
+A00527,W0230,AG0237,1793,Hugo Victor
+A00528,W0230,AG0237,1793,Hugo Victor
+A00601,W0184,AG0347,A History of Western Philosophy,Russell Bertrand
+A00602,W0187,AG0286,The Tale of the Fisherman and the Fish,Pushkin Alexander Sergeyevich
+A00605,W0382,AG0491,Yulin Bell,Liu Yong
+A00606,W0185,AG0286,To the Sea,Pushkin Alexander Sergeyevich
+A00607,W0185,AG0286,To the Sea,Pushkin Alexander Sergeyevich
+A00608,W0554,AG0626,,anonymous
+A00610,W0189,AG0351,Annabel Lee,Poe Edgar Allan
+A00612,W0190,AG0352,Meiyou dizhi de xin,Plekhanov Georgi
+A00613,W0231,AG0352,The Role of the Individual in History,Plekhanov Georgi
+A00616,W0233,AG0354,Bailatu wenyi duihua ji,Plato
+A00618,W0234,AG0358,Rainy Dawn,Paustovsky Konstantin
+A00619,W0234,AG0358,Rainy Dawn,Paustovsky Konstantin
+A00620,W0235,AG0358,Jin qiangwei,Paustovsky Konstantin
+A00621,W0236,AG0360,Doctor Zhivago,Pasternak Boris Leonidovich
+A00624,W0548,AG0363,,Kapoor Raj
+A00625,W0237,AG0364,Early Dawn,Kassil Lev
+A00627,W0549,AG0366,,Kern Jerome
+A00628,W0238,AG0204,Heluxiaofu huiyilu,Khrushchev Nikita
+A00629,W0238,AG0204,Heluxiaofu huiyilu,Khrushchev Nikita
+A00630,W0238,AG0204,Heluxiaofu huiyilu,Khrushchev Nikita
+A00631,W0120,AG0245,The Story of Zoya and Shura,Kosmodemyanskaya Zoya
+A00632,W0120,AG0245,The Story of Zoya and Shura,Kosmodemyanskaya Zoya
+A00633,W0120,AG0245,The Story of Zoya and Shura,Kosmodemyanskaya Zoya
+A00634,W0120,AG0245,The Story of Zoya and Shura,Kosmodemyanskaya Zoya
+A00636,W0239,AG0368,Lei Feng Diary,Lei Feng
+A00637,W0123,AG0158,Guojia yu geming,Lenin Vladimir
+A00638,W0123,AG0158,Guojia yu geming,Lenin Vladimir
+A00639,W0123,AG0158,Guojia yu geming,Lenin Vladimir
+A00640,W0123,AG0158,Guojia yu geming,Lenin Vladimir
+A00641,W0124,AG0248,Dubai,Lermontov Mikhail
+A00646,W0241,AG0059,When the Sunset Disappears,Li Ping
+A00647,W0429,AG0114,,Zhang Yang
+A00648,W0240,AG0370,Ripple on Stagnant Water,Li Jieren
+A00649,W0240,AG0370,Ripple on Stagnant Water,Li Jieren
+A00651,W0151,AG0292,Red Star Over China,Snow Edgar
+A00653,W0269,AG0203,One Day in the Life of Ivan Denisovich,Solzhenitsyn Aleksandr
+A00654,W0269,AG0203,One Day in the Life of Ivan Denisovich,Solzhenitsyn Aleksandr
+A00655,W0269,AG0203,One Day in the Life of Ivan Denisovich,Solzhenitsyn Aleksandr
+A00656,W0269,AG0203,One Day in the Life of Ivan Denisovich,Solzhenitsyn Aleksandr
+A00657,W0207,AG0406,The Living and the Dead,Simonov Konstantin Mikhailovich
+A00659,W0209,AG0169,History of the All-Union Communist Party (Bolsheviks),Stalin Joseph Vissarionovich
+A00670,W0209,AG0169,History of the All-Union Communist Party (Bolsheviks),Stalin Joseph Vissarionovich
+A00672,W0210,AG0412,Human Blood Is Not Water,Stelmakh Mykhailo
+A00673,W0211,AG0264,Le Rouge et le Noir,Beyle Marie-Henri
+A00674,W0211,AG0264,Le Rouge et le Noir,Beyle Marie-Henri
+A00675,W0211,AG0264,Le Rouge et le Noir,Beyle Marie-Henri
+A00676,W0211,AG0264,Le Rouge et le Noir,Beyle Marie-Henri
+A00678,W0211,AG0264,Le Rouge et le Noir,Beyle Marie-Henri
+A00679,W0212,AG0413,The Stalin Era,Strong Anna Louise
+A00680,W0212,AG0413,The Stalin Era,Strong Anna Louise
+A00681,W0213,AG0414,Liuhoulun,Su Shi
+A00682,W0382,AG0491,Yulin Bell,Liu Yong
+A00683,W0554,AG0626,,anonymous
+A00684,W0554,AG0626,,anonymous
+A00685,W0215,AG0416,Selected Speeches and Writings,Suslov Mikhail Andreyevich
+A00686,W0216,AG0417,Kampanelly,Shtekli Alfred Engelbertovich
+A00693,W0156,AG0299,A General Introduction to Psycho-Analysis,Freud Sigmund
+A00695,W0153,AG0294,Hui mie,Fadeyev Alexander Alexandrovich
+A00701,W0550,AG0372,,Li Jun
+A00702,W0045,AG0170,571 gongcheng jiyao,Lin Liguo
+A00703,W0045,AG0170,571 gongcheng jiyao,Lin Liguo
+A00704,W0001,AG0001,Silent China,Lu Xun
+A00706,W0243,AG0001,Changcheng,Lu Xun
+A00707,W0245,AG0001,In Memory of Miss Liu Hezhen,Lu Xun
+A00708,W0138,AG0272,Romance of the Three Kingdoms,Luo Guanzhong
+A00709,W0138,AG0272,Romance of the Three Kingdoms,Luo Guanzhong
+A00710,W0246,AG0375,Hong yan,Luo Guangbin
+A00711,W0246,AG0375,Hong yan,Luo Guangbin
+A00712,W0246,AG0375,Hong yan,Luo Guangbin
+A00713,W0246,AG0375,Hong yan,Luo Guangbin
+A00715,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A00716,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A00717,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A00718,W0247,AG0377,Look Back in Anger,Osborne John
+A00719,W0247,AG0377,Look Back in Anger,Osborne John
+A00720,W0247,AG0377,Look Back in Anger,Osborne John
+A00722,W0248,AG0382,Who is Happy in Russia?,Nekrasov Nikolay
+A00723,W0248,AG0382,Who is Happy in Russia?,Nekrasov Nikolay
+A00724,W0248,AG0382,Who is Happy in Russia?,Nekrasov Nikolay
+A00725,W0551,AG0428,,Ma Yanxiang
+A00726,W0551,AG0428,,Ma Yanxiang
+A00727,W0249,AG0429,Road to Life,Makarenko Anton
+A00729,W0250,AG0150,Reply to Comrade Guo Moruo,Mao Zedong
+A00730,W0044,AG0150,Hong bao shu,Mao Zedong
+A00731,W0252,AG0150,Lao san pian,Mao Zedong
+A00732,W0252,AG0150,Lao san pian,Mao Zedong
+A00733,W0252,AG0150,Lao san pian,Mao Zedong
+A00734,W0253,AG0150,The Luoshan Pass,Mao Zedong
+A00735,W0254,AG0150,Swimming,Mao Zedong
+A00736,W0254,AG0150,Swimming,Mao Zedong
+A00737,W0255,AG0150,Mao zedong xuanji,Mao Zedong
+A00738,W0255,AG0150,Mao zedong xuanji,Mao Zedong
+A00739,W0255,AG0150,Mao zedong xuanji,Mao Zedong
+A00740,W0256,AG0150,Talks at the Yenan Forum on Literature and Art,Mao Zedong
+A00759,W0264,AG0439,Gone With the Wind,Mitchell Margaret
+A00763,W0266,AG0447,Bai hua qi fang,Guo Moruo
+A00764,W0553,AG0093,,Beethoven Ludwig van
+A00766,W0267,AG0448,The Fourth Height,Ilyina Yelena
+A00767,W0268,AG0449,A Doll's House,Ibsen Henrik
+A00768,W0011,AG0001,Wild Grass,Lu Xun
+A00770,W0004,AG0077,Dai xingxing de huoche piao,Aksyonov Vasily
+A00801,W0134,AG0266,Journey to the West,Wu Cheng‘en
+A00802,W0134,AG0266,Journey to the West,Wu Cheng‘en
+A00804,W0269,AG0203,One Day in the Life of Ivan Denisovich,Solzhenitsyn Aleksandr
+A00821,W0270,AG0626,A Pair of Embroidered Shoes,anonymous
+A00822,W0271,AG0626,The Heat of a Young Girl,anonymous
+A00823,W0272,AG0626,Manna's Memories,anonymous
+A00824,W0273,AG0626,The Plum Blossom Party,anonymous
+A00837,W0554,AG0626,,anonymous
+A00840,W0555,AG0461,,Burns Robert
+A00846,W0554,AG0626,,anonymous
+A00849,W0554,AG0626,,anonymous
+A00851,W0620,AG0466,,Da Vinci Leonardo
+A00852,W0620,AG0466,,Da Vinci Leonardo
+A00854,W0275,AG0467,A Rainy Alley,Dai Wangshu
+A00855,W0537,AG0295,,De Geyter Pierre
+A00856,W0537,AG0295,,De Geyter Pierre
+A00857,W0554,AG0626,,anonymous
+A00858,W0621,AG0470,,Deng Lijun
+A00861,W0416,AG0286,Pushkin poetry,Pushkin Alexander Sergeyevich
+A00862,W0188,AG0348,Liaozhai zhiyi,Pu Songling
+A00863,W0188,AG0348,Liaozhai zhiyi,Pu Songling
+A00864,W0554,AG0626,,anonymous
+A00866,W0554,AG0626,,anonymous
+A00867,W0554,AG0626,,anonymous
+A00868,W0554,AG0626,,anonymous
+A00870,W0554,AG0626,,anonymous
+A00874,W0554,AG0626,,anonymous
+A00875,W0554,AG0626,,anonymous
+A00876,W0554,AG0626,,anonymous
+A00878,W0377,AG0495,The Scar,Lu Xinhua
+A00882,W0382,AG0491,Yulin Bell,Liu Yong
+A00885,W0386,AG0488,Steel Meets Fire,Liu Qigeng
+A00888,W0554,AG0626,,anonymous
+A00889,W0554,AG0626,,anonymous
+A00890,W0388,AG0483,The Sunny Day,Liang Jinguang
+A00891,W0390,AG0483,The Golden Road,Liang Jinguang
+A00893,W0392,AG0482,Struggles in an Ancient City,Li Yingru
+A00894,W0554,AG0626,,anonymous
+A00900,W0276,AG0626,Shijie zhishi,anonymous
+A00901,W0277,AG0626,Furonghua shengkai de shijie,anonymous
+A00902,W0277,AG0626,Furonghua shengkai de shijie,anonymous
+A00903,W0278,AG0626,Classmate,anonymous
+A00904,W0279,AG0626,China provincial atlas,anonymous
+A00905,W0280,AG0626,A Manual on Reading Newspapers,anonymous
+A00906,W0281,AG0626,Cankao xiaoxi,anonymous
+A00907,W0281,AG0626,Cankao xiaoxi,anonymous
+A00908,W0282,AG0626,Lüxingjia,anonymous
+A00909,W0281,AG0626,Cankao xiaoxi,anonymous
+A00910,W0283,AG0626,Chaoxian,anonymous
+A00911,W0284,AG0626,Translation of Selected Passages,anonymous
+A00912,W0284,AG0626,Translation of Selected Passages,anonymous
+A00913,W0285,AG0626,Critique and Study,anonymous
+A00914,W0287,AG0108,Soviet Domestic Capitalist Restoration Note (1953~1973),Ke Xiong
+A00915,W0288,AG0626,Sidalin zhuyi,anonymous
+A00916,W0289,AG0626,Bible,anonymous
+A00917,W0290,AG0626,English-Chinese dictionary,anonymous
+A00918,W0291,AG0507,Li dai zhong ding yiqi kuanshi,Xue Shanggong
+A00919,W0292,AG0508,Normal Human Anatomy,Tonkov Vladimir Nikolaevich
+A00920,W0292,AG0508,Normal Human Anatomy,Tonkov Vladimir Nikolaevich
+A00921,W0293,AG0626,Complete Tang Poems,anonymous
+A00922,W0294,AG0509,Let the Youth Shine,Li Shu
+A00923,W0294,AG0509,Let the Youth Shine,Li Shu
+A00924,W0046,AG0167,Sanzijing,Wang Yinglin
+A00925,W0295,AG0626,Bai jia xing,anonymous
+A00926,W0055,AG0162,Analects,Kongzi
+A00927,W0296,AG0626,Da xue,anonymous
+A00928,W0557,AG0637,,
+A00929,W0558,AG0626,,anonymous
+A00930,W0297,AG0626,Book of Documents,anonymous
+A00931,W0298,AG0626,Ershisi shi,anonymous
+A00932,W0299,AG0626,Empty Fort Strategy,anonymous
+A00933,W0300,AG0626,Dianying wenxue,anonymous
+A00934,W0559,AG0510,,Shi Wenchi
+A00935,W0560,AG0638,,
+A00936,W0561,AG0639,,
+A00937,W0301,AG0626,Collection of Poisonous grass,anonymous
+A00938,W0302,AG0262,Shuihu zhaun,Shi Nai‘an
+A00939,W0562,AG0511,,Nie Er
+A00940,W0563,AG0513,,Degeyter Pierre
+A00941,W0563,AG0513,,Degeyter Pierre
+A00942,W0564,AG0626,,anonymous
+A00943,W0303,AG0640,People's Literature,
+A00944,W0305,AG0515,Deng Xiaoping,Balike Daineishi
+A00945,W0531,AG0136,,Chaplin Charlie
+A00946,W0535,AG0289,,He Zhanhao
+A00947,W0306,AG0626,"Moving out, lucky soup",anonymous
+A00948,W0566,AG0626,,anonymous
+A00949,W0289,AG0626,Bible,anonymous
+A00950,W0567,AG0626,,anonymous
+A00951,W0568,AG0626,,anonymous
+A00952,W0569,AG0642,,
+A00953,W0570,AG0644,,
+A00954,W0571,AG0645,,
+A00955,W0572,AG0646,,
+A00956,W0574,AG0648,,
+A00957,W0574,AG0648,,
+A00958,W0560,AG0638,,
+A00959,W0307,AG0626,Gao zi di bingshu,anonymous
+A00960,W0308,AG0626,Tian’anmen shijian shuoming le shenme,anonymous
+A00961,W0309,AG0520,Middle School Cultural Revolution,Mo Zhijing
+A00962,W0310,AG0521,XXX,Yang Baipeng
+A00963,W0311,AG0522,Commentary Collections of Thirteen Literatures,Ruan Yuan
+A00964,W0575,AG0523,,Shen Xin’gong
+A00965,W0576,AG0626,,anonymous
+A00966,W0577,AG0525,,Deng Lijun
+A00967,W0578,AG0626,,anonymous
+A00968,W0579,AG0626,,anonymous
+A00969,W0580,AG0626,,anonymous
+A00970,W0581,AG0626,,anonymous
+A00971,W0582,AG0626,,anonymous
+A00973,W0584,AG0527,,Eisenstein Sergei Mikhailovich
+A00974,W0585,AG0528,,Chukhray Grigory Naumovich
+A00975,W0586,AG0529,,Sica Vittorio De
+A00977,W0588,AG0531,,Resnais Alain
+A00978,W0589,AG0532,,Maruyama Seiji
+A00979,W0590,AG0533,,Murayama Mitsuo
+A00980,W0591,AG0534,,Fleischer Richard
+A00981,W0592,AG0532,,Maruyama Seiji
+A00982,W0593,AG0535,,Drăgan Mircea
+A00983,W0286,AG0626,Morning Glow,anonymous
+A00984,W0312,AG0536,Spark,Zhang Chunyuan
+A00985,W0313,AG0626,Moni jisuanji yuanli,anonymous
+A00986,W0314,AG0626,Beijing Review,anonymous
+A00987,W0315,AG0626,Essential English,anonymous
+A00988,W0316,AG0626,Da Buliedian baike cidian,anonymous
+A00989,W0317,AG0626,Fayu,anonymous
+A00990,W0318,AG0626,"Shishi qiu shi, you cuo bi jiu",anonymous
+A00991,W0319,AG0351,Ailun Po quanji,Poe Edgar Allan
+A00992,W0320,AG0626,Shi,anonymous
+A00993,W0320,AG0626,Shi,anonymous
+A00994,W0321,AG0626,Chunhua ge tie,anonymous
+A00995,W0322,AG0626,Generalization of archaeology,anonymous
+A00996,W0323,AG0626,Foreign film,anonymous
+A00997,W0594,AG0626,,anonymous
+A00998,W0595,AG0538,,Wen Jie
+A00999,W0596,AG0539,,Yang Yanjin
+A01003,W0554,AG0626,,anonymous
+A01004,W0554,AG0626,,anonymous
+A01005,W0554,AG0626,,anonymous
+A01007,W0554,AG0626,,anonymous
+A01009,W0257,AG0432,Dan xiang du de ren,Marcuse Herbert
+A01010,W0401,AG0626,Book on Xinjiang,anonymous
+A01017,W0625,AG0503,,Machtet Grigori
+A01018,W0403,AG0150,Farewell Leighton Stuart,Mao Zedong
+A01025,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A01026,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A01027,W0095,AG0224,Gangtie shi zenyang liancheng de,Ostrovsky Nikolai
+A01028,W0626,AG0505,,Ren Xudong
+A01029,W0554,AG0626,,anonymous
+A01030,W0554,AG0626,,anonymous
+A01031,W0554,AG0626,,anonymous
+A01032,W0554,AG0626,,anonymous
+A01033,W0554,AG0626,,anonymous
+A01036,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A01037,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A01038,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A01039,W0070,AG0441,"People, Years, Life",Ehrenburg Ilya
+A01042,W0554,AG0626,,anonymous
+A01051,W0381,AG0608,The Song of Ouyang Hai,Jin Jingmai
+A01052,W0381,AG0608,The Song of Ouyang Hai,Jin Jingmai
+A01054,W0071,AG0442,Ailuete lunwen xuan,Eliot T.S.
+A01055,W0115,AG0204,Conquest Without War,Khrushchev Nikita
+A01056,W0118,AG0244,Ni daodi yao shenme?,Kochetov Vsevolod
+A01057,W0118,AG0244,Ni daodi yao shenme?,Kochetov Vsevolod
+A01060,W0630,AG0610,,Kong Shangren
+A01061,W0554,AG0626,,anonymous
+A01062,W0115,AG0204,Conquest Without War,Khrushchev Nikita
+A01063,W0055,AG0162,Analects,Kongzi
+A01064,W0055,AG0162,Analects,Kongzi
+A01065,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A01068,W0385,AG0613,Guangdong zenme ban,Li Yizhe
+A01069,W0387,AG0615,Classical Theory of Fields,Ландау Лев Давидович
+A01070,W0389,AG0616,Fortress Besieged,Qian Zhongshu
+A01073,W0391,AG0618,Tracks in The Snowy Forest,Qu Bo
+A01074,W0393,AG0619,Li Sao,Qu Yuan
+A01075,W0393,AG0619,Li Sao,Qu Yuan
+A01076,W0393,AG0619,Li Sao,Qu Yuan
+A01077,W0397,AG0620,Impressions of The Red Capital,Qu Qiubai
+A01078,W0395,AG0620,Journey to The Land of Hunger,Qu Qiubai
+A01079,W0395,AG0620,Journey to The Land of Hunger,Qu Qiubai
+A01080,W0397,AG0620,Impressions of The Red Capital,Qu Qiubai
+A01082,W0370,AG0592,A Little Star Next to the Moon,Zhang Guotao
+A01100,W0597,AG0626,,anonymous
+A01101,W0598,AG0540,,Jin Fenghao
+A01102,W0599,AG0543,,Wu Zuqiang
+A01103,W0600,AG0542,,Xie Jin
+A01104,W0324,AG0544,Tangshi san bai shou,Sun Zhu
+A01105,W0324,AG0544,Tangshi san bai shou,Sun Zhu
+A01106,W0324,AG0544,Tangshi san bai shou,Sun Zhu
+A01107,W0324,AG0544,Tangshi san bai shou,Sun Zhu
+A01108,W0558,AG0626,,anonymous
+A01109,W0601,AG0626,,anonymous
+A01110,W0601,AG0626,,anonymous
+A01111,W0602,AG0626,,anonymous
+A01112,W0603,AG0626,,anonymous
+A01113,W0604,AG0626,,anonymous
+A01114,W0605,AG0626,,anonymous
+A01115,W0325,AG0649,Shijie wenxue,
+A01116,W0326,AG0626,Foreign Literature Studies,anonymous
+A01117,W0327,AG0545,Moshi ya mo,Huang Xiang
+A01118,W0606,AG0546,,Rodygin Evgeny Pavlovich
+A01119,W0607,AG0548,,Qin Yongcheng
+A01120,W0328,AG0626,Literature and History Data Selection,anonymous
+A01121,W0293,AG0626,Complete Tang Poems,anonymous
+A01122,W0329,AG0650,Dongfang zazhi,
+A01123,W0330,AG0009,Jintian,Bei Dao
+A01124,W0065,AG0166,100.000 Whys,Ilin Mikhail
+A01125,W0331,AG0550,Andersen's Fairy Tales,Andersen Hans Christian
+A01126,W0332,AG0157,Makesi Engesi xuanji,Marx Karl
+A01127,W0333,AG0626,Going to School,anonymous
+A01128,W0284,AG0626,Translation of Selected Passages,anonymous
+A01129,W0304,AG0641,Xiangjiang Literature,
+A01130,W0334,AG0626,Erospace Knowledge,anonymous
+A01131,W0335,AG0651,Knowledge is Power,
+A01132,W0336,AG0652,Art,
+A01133,W0608,AG0551,,Yakovlevich Kryzhanivskyi Danylo
+A01134,W0337,AG0626,China Pictorial,anonymous
+A01135,W0338,AG0626,Jiefangjun huabao,anonymous
+A01136,W0609,AG0553,,Zhang Bi
+A01137,W0339,AG0626,Guangming Daily,anonymous
+A01138,W0610,AG0554,,Li Zongjin
+A01139,W0340,AG0431,Lanman shan hua,Xu Bing
+A01140,W0341,AG0653,Jiefangjun wenyi,
+A01141,W0342,AG0626,Beijing Daily,anonymous
+A01143,W0611,AG0626,,anonymous
+A01144,W0612,AG0555,,Clair René
+A01145,W0613,AG0556,,Hoffmann Kurt
+A01146,W0614,AG0557,,Staudte Wolfgang
+A01147,W0615,AG0556,,Hoffmann Kurt
+A01148,W0616,AG0558,,Mur Oti Manuel Mur Oti
+A01149,W0617,AG0559,,Autant-Lara Claude
+A01150,W0618,AG0560,,Fellini Federico
+A01152,W0343,AG0626,Climb up,anonymous
+A01153,W0611,AG0626,,anonymous
+A01154,W0612,AG0555,,Clair René
+A01155,W0613,AG0556,,Hoffmann Kurt
+A01156,W0614,AG0557,,Staudte Wolfgang
+A01157,W0615,AG0556,,Hoffmann Kurt
+A01158,W0616,AG0558,,Mur Oti Manuel Mur Oti
+A01159,W0617,AG0559,,Autant-Lara Claude
+A01160,W0618,AG0560,,Fellini Federico
+A01162,W0344,AG0626,Fan Gao zhuan,anonymous
+A01163,W0345,AG0626,Michelangelo,anonymous
+A01164,W0346,AG0626,Hong jianzhang,anonymous
+A01165,W0347,AG0626,Fennu de huitou,anonymous
+A01166,W0066,AG0626,A Thousand and One Nights,anonymous
+A01167,W0348,AG0626,English Textbook,anonymous
+A01168,W0350,AG0562,Ancient Chinese,Wang Li
+A01169,W0351,AG0563,Raise the Eyebrows and Pull the Sword Out,Wang Lishan
+A01170,W0352,AG0564,Wang Shikuo sumiao xuan,Wang Shikuo
+A01171,W0353,AG0565,Green Monster,Wang Xiaobo
+A01173,W0354,AG0567,Guwen Guanzhi,Wu Chucai
+A01174,W0354,AG0567,Guwen Guanzhi,Wu Chucai
+A01175,W0134,AG0266,Journey to the West,Wu Cheng‘en
+A01176,W0134,AG0266,Journey to the West,Wu Cheng‘en
+A01177,W0355,AG0569,Rulin Waishi,Wu Jingzi
+A01178,W0356,AG0570,Trouble shooting and repair of radio equipment,Wu Dishun
+A01180,W0627,AG0573,,Xia Chun
+A01181,W0627,AG0573,,Xia Chun
+A01182,W0628,AG0574,,Xiao Hua
+A01183,W0357,AG0575,Geming lies shi chao,Xiao San
+A01184,W0358,AG0576,Hongqi piaopiao,Xiao Yemu
+A01185,W0629,AG0577,,Xie Tieli
+A01186,W0359,AG0578,Jiaxuan Poems,Xin Qiji
+A01187,W0360,AG0115,On the Study of Political Economy in Socialist Period,Xu Chenggang
+A01188,W0361,AG0579,Gedebahe Caixiang,Xu Chi
+A01189,W0362,AG0579,Qilianshan xia,Xu Chi
+A01190,W0363,AG0580,Aiyinsitan wenji,Xu Liangying
+A01193,W0401,AG0626,Book on Xinjiang,anonymous
+A01194,W0401,AG0626,Book on Xinjiang,anonymous
+A01195,W0366,AG0134,Mountain Township and Blood Fire,Yan Lianke
+A01196,W0632,AG0585,,Yang Lanchun
+A01197,W0367,AG0586,Qingchun zhi ge,Yang Mo
+A01198,W0367,AG0586,Qingchun zhi ge,Yang Mo
+A01199,W0633,AG0060,,Yang Xiguang
+A01200,W0105,AG0231,The Road to Serfdom,Hayek Friedrich
+A01201,W0413,AG0605,The Third Way,Sik Ota
+A01202,W0009,AG0112,The New Class,Milovan Djilas
+A01301,W0073,AG0443,Hello Sadness,Éluard Paul
+A01304,W0368,AG0590,Internal Medicine,Ying Yuanyue
+A01305,W0369,AG0591,Chushen lun,Yu Luoke
+A01306,W0369,AG0591,Chushen lun,Yu Luoke
+A01307,W0370,AG0592,A Little Star Next to the Moon,Zhang Guotao
+A01308,W0371,AG0012,Baiyangdian,Genzi
+A01309,W0372,AG0012,Bridge over the Abyss,Genzi
+A01310,W0373,AG0012,Type of laughter,Genzi
+A01313,W0631,AG0582,,Yamaguchi Shirley
+A01314,W0364,AG0583,Evolution and Ethics,Yan Fu
+A01315,W0365,AG0018,Qiongren,Yan Li
+A01316,W0374,AG0592,My Memories,Zhang Guotao
+A01317,W0375,AG0593,Our Monument,Zhang Liaoliao
+A01318,W0376,AG0594,Fenjiexian,Zhang Kangkang
+A01319,W0634,AG0595,,Zhang Tianmin
+A01320,W0635,AG0595,,Zhang Tianmin
+A01321,W0636,AG0596,,Zhao Ming
+A01322,W0406,AG0597,Chinese Historical Anthology,Zhou Yutong
+A01323,W0407,AG0225,Baofeng zhouyu,Zhou Libo
+A01324,W0408,AG0598,The Aesthetic History of West,Zhu Guangqian
+A01325,W0408,AG0598,The Aesthetic History of West,Zhu Guangqian
+A01326,W0637,AG0599,,Zhu Shilin
+A01330,W0410,AG0603,Wandering in Absolute Freedom,Zhuang Zhou
+A01331,W0410,AG0603,Wandering in Absolute Freedom,Zhuang Zhou
+A01332,W0411,AG0603,Autumn Floods,Zhuang Zhou
+A01333,W0412,AG0604,Zuo Zhuan,Zuo Qiuming
+A01334,W0412,AG0604,Zuo Zhuan,Zuo Qiuming
+A01335,W0638,AG0626,,anonymous
+A01337,W0530,AG0080,,Anagnosti Dhimitër
+A01339,W0539,AG0030,,Dong Shabei
+A01340,W0540,AG0281,,Dvořák Antonín
+A01341,W0541,AG0281,,Dvořák Antonín
+A01342,W0554,AG0626,,anonymous
+A01343,W0417,AG0654,Nikesong qi ren qi shi,
+A01345,W0349,AG0150,Carry the Revolution Through to the End,Mao Zedong

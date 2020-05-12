@@ -183,36 +183,122 @@
     }
   ],
   "views": [{
-    "name": "txt_by_author_all",
-    "title": "Titles of textual works by Author",
-    "resources": {
-      "name": "work",
-      "data": {
-        "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/data/Work.csv"
-      },
-      "specType": "vega-lite",
-      "spec": {
+      "title": "Titles of textual works",
+      "resources": {
+        "name": "view1a",
         "data": {
-          "name": "work"
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
         },
-        "mark": "bar",
-        "encoding": {
-          "x": {
-            "field": "creator",
-            "type": "ordinal",
-            "axis": {
-              "labelAngle": 0
-            },
-            "sort": "-y"
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Textual works by creator excluding unknowns",
+          "data": {
+            "name": "view1a"
           },
-          "y": {
-            "aggregate": "count",
-            "field": "work_id",
-            "type": "quantitative"
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Titles of non-textual works",
+      "resources": {
+        "name": "view1b",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Non-textual works by creator excluding unknowns",
+          "data": {
+            "name": "view1b"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "works by creator",
+      "resources": {
+        "name": "view2a",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02a_creator-matrix.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Reading Objects by creator excluding unknowns",
+          "data": {
+            "name": "view2a"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "agent",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "nominal"
+            },
+            "color": {
+              "field": "act_object",
+              "type": "nominal"
+            }
           }
         }
       }
     }
-  }
-]
+  ]
 }
