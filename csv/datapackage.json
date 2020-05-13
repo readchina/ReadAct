@@ -261,16 +261,16 @@
     {
       "title": "works by creator",
       "resources": {
-        "name": "view2a",
+        "name": "view2",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02a_creator-matrix.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Reading Objects by creator excluding unknowns",
           "data": {
-            "name": "view2a"
+            "name": "view2"
           },
           "mark": {
             "type": "bar",
