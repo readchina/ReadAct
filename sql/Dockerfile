@@ -1,5 +1,6 @@
 FROM mysql:latest
 
+# keinos/sqlite3:latest
 # add quotation to works as they are act_object
 # finish replace IDs in act table
 
