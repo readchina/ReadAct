@@ -1304,5 +1304,7 @@ PS00858,Journal of Astrophysics,,en,I0999,G19,PL0999,19xx,unknown,,,,,,F,,,2020-
 PS09999,unknown,unknown,en,P0999,G99,PL0999,unknown,unknown,,,,,,,,,2018-04-10,MG,2018-11-12,LH
 PS00860,Love of Life,,en,P0686,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,,2020-05-16,MG,2020-05-16,MG
 PS00860,生命之爱,,zh,P0686,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,,2020-05-16,MG,2020-05-16,MG
-PS00861,Short Song,,en,P1049,,,,,,,,,,,,,2020-05-16,MG,2020-05-16,MG
-PS00861,短歌行,,zh,P1049,,,,,,,,,,,,,2020-05-16,MG,2020-05-16,MG
+PS00861,Short Song,,en,P1049,G10,,,,,,PS00862,,,,,,2020-05-16,MG,2020-05-19,MG
+PS00861,短歌行,,zh,P1049,G10,,,,,,PS00862,,,,,,2020-05-16,MG,2020-05-19,MG
+PS00862,Cao Cao ji,,en,P1049,G28,PL0002,1959,Zhonghua shuju,,,,,,,,,2020-05-19,MG,2020-05-19,MG
+PS00862,曹操集 ,,zh,P1049,G28,PL0002,1959,Zhonghua shuju,,,,,,,,,2020-05-19,MG,2020-05-19,MG
