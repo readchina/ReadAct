@@ -194,7 +194,7 @@
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Textual works by creator excluding unknowns",
           "data": {
-            "name": "view1a"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -232,7 +232,7 @@
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Non-textual works by creator excluding unknowns",
           "data": {
-            "name": "view1b"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -270,7 +270,7 @@
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Reading Objects by creator excluding unknowns",
           "data": {
-            "name": "view2"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
           },
           "mark": {
             "type": "bar",
