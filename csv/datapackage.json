@@ -187,14 +187,14 @@
       "resources": {
         "name": "view1a",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view01a_txt-titles.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Textual works by creator excluding unknowns",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view01a_txt-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -225,14 +225,14 @@
       "resources": {
         "name": "view1b",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view01b_art-titles.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Non-textual works by creator excluding unknowns",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view01b_art-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -263,14 +263,14 @@
       "resources": {
         "name": "view2",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view02_creator-matrix.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Reading Objects by creator excluding unknowns",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/master/csv/views/view02_creator-matrix.csv"
           },
           "mark": {
             "type": "bar",
