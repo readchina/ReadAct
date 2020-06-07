@@ -1,0 +1,120 @@
+{
+  "fields": [{
+      "name": "soc_rel_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "max-length": 7,
+        "pattern": "SR[0-9]{5}"
+      }
+    },
+    {
+      "name": "ego",
+      "constraints": {
+        "required": true,
+        "pattern": "AG[0-9]{4}"
+      }
+    },
+    {
+      "name": "related",
+      "constraints": {
+        "required": true,
+        "pattern": "AG[0-9]{4}"
+      }
+    },
+    {
+      "name": "relation",
+      "constraints": {
+        "required": true,
+        "pattern": "S(3|4)(\\.[0-9]-?){1,}[fm]?[ey]?"
+      }
+    },
+    {
+      "name": "rel_zh",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "rel_en",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "source",
+      "constraints": {
+        "required": true,
+        "pattern": "(^http.*|W[0-9]{4})"
+      }
+    }, {
+      "name": "page",
+      "constraints": {
+        "required": false
+      }
+    }, {
+      "name": "note",
+      "description": "structural entry for internal notes",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "description": "structural entry creation date of entry",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "description": "structural entry last modification date",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "description": "structural entry acronym of project member last modifying entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "soc_rel_id",
+  "missingValues": [""],
+  "foreignKeys": [
+    {
+      "fields": "ego",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "related",
+      "reference": {
+        "resource": "agent",
+        "fields": "agent_id"
+      }
+    },
+    {
+      "fields": "source",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    }
+  ]
+}

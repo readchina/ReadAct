@@ -1,0 +1,47 @@
+{
+  "fields": [{
+      "name": "iso_code",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "iso_code",
+  "missingValues": [""]
+}

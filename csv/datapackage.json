@@ -1,0 +1,304 @@
+{
+  "profile": "tabular-data-package",
+  "name": "readact",
+  "title": "ReadAct Database of the READCHINA project",
+  "homepage": "https://readchina.github.io/",
+  "version": "1.0.0-BETA",
+  "id": "https://doi.org/10.5281/zenodo.3755105",
+  "contributors": [{
+      "title": "Lena Henningsen",
+      "role": "author"
+    },
+    {
+      "title": "Duncan Paterson",
+      "role": "author"
+    }
+  ],
+  "licenses": [{
+    "name": "CC-BY-SA-4.0",
+    "title": "Creative Commons Attribution Share-Alike 4.0",
+    "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }],
+  "resources": [{
+      "name": "act",
+      "schema": "schema/Act.json",
+      "path": "data/Act.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "act-type",
+      "schema": "schema/ActType.json",
+      "path": "data/ActType.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "agent",
+      "schema": "schema/Agent.json",
+      "path": "data/Agent.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "art-form",
+      "schema": "schema/ArtForm.json",
+      "path": "data/ArtForm.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "artwork",
+      "schema": "schema/ArtWork.json",
+      "path": "data/ArtWork.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "genre",
+      "schema": "schema/Genre.json",
+      "path": "data/Genre.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "institution",
+      "schema": "schema/Institution.json",
+      "path": "data/Institution.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "iso-lang-code",
+      "schema": "schema/IsoLangCode.json",
+      "path": "data/IsoLangCode.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "membership",
+      "schema": "schema/Membership.json",
+      "path": "data/Membership.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "person",
+      "schema": "schema/Person.json",
+      "path": "data/Person.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "primary-source",
+      "schema": "schema/PrimarySource.json",
+      "path": "data/PrimarySource.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "quotation",
+      "schema": "schema/Quotation.json",
+      "path": "data/Quotation.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "rustication",
+      "schema": "schema/Rustication.json",
+      "path": "data/Rustication.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "secondary-source",
+      "schema": "schema/SecondarySource.json",
+      "path": "data/SecondarySource.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "social-position",
+      "schema": "schema/SocialPosition.json",
+      "path": "data/SocialPosition.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "social-relation",
+      "schema": "schema/SocialRelation.json",
+      "path": "data/SocialRelation.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "space",
+      "schema": "schema/Space.json",
+      "path": "data/Space.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "work",
+      "schema": "schema/Work.json",
+      "path": "data/Work.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    }
+  ],
+  "views": [{
+      "title": "Titles of textual works",
+      "resources": {
+        "name": "view1a",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Textual works by creator excluding unknowns",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01a_txt-titles.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Titles of non-textual works",
+      "resources": {
+        "name": "view1b",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Non-textual works by creator excluding unknowns",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view01b_art-titles.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "works by creator",
+      "resources": {
+        "name": "view2",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Reading Objects by creator excluding unknowns",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/views/view02_creator-matrix.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": {
+              "content": "data"
+            }
+          },
+          "encoding": {
+            "x": {
+              "field": "agent",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "nominal"
+            },
+            "color": {
+              "field": "act_object",
+              "type": "nominal"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

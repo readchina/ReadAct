@@ -1,0 +1,228 @@
+table,column,definition,notes,created,created_by,last_modified,last_modified_by
+Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+Act,agent,key: Person.person_id,'A' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,action,key: ActType.action_ID,'to  give' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,2017-07-25,OS,2018-02-01,DP
+Act,act_target,Person.person_id of targets of act,"empty when not applicable, 'B' in: A gives B a gift, A read unspecified works by B",2017-07-04,LH,2020-04-02,DP
+Act,start,Year in EDTF when act begins (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
+Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
+Act,discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
+Act,source,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
+Act,page,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH
+Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘,‘genre_id‘,2018-04-10,MG,2018-04-10,MG
+Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
+Act,id_lang,structural entry to resolve multi-lingual composite keys “en”,,2020-04-02,DP,2020-04-02,DP
+Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Act,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+ActType,action_ID,AT and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-12,OS
+ActType,action_name,"verb for an action describing a wider act of reading: circulate, steal, buy",,2017-07-04,LH,2017-07-04,LH
+ActType,note,Internal notes of project members,,2018-01-30,MG,2018-02-01,DP
+ActType,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+Agent,agent_id,AG and a four-digit number (leading zeros),,,,,
+Agent,old_id,P or I or and a four-digit number (leading zeros),,,,,
+Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,,,,
+Agent,commentary,Space for background information on the agent.,,,,,
+Agent,note,Internal notes of project members,,,,,
+Agent,created,date of creation of line,,,,,
+Agent,created_by,acronym of project member creating this line,,,,,
+Agent,last_modified,date of last modification,,,,,
+Agent,last_modified_by,acronym of project member last modifying this line,,,,,
+,,,,,,,
+ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+ArtForm,art_form_name,art form name in English - if necessary use Chinese pinyin. A guide for possible art forms is the following webpage: https://en.wikipedia.org/wiki/Fine_art,,2018-02-09,OS,2018-02-09,OS
+ArtForm,art_form_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS
+ArtForm,source,link to Art & Architecture Thesaurus,https://www.getty.edu/research/tools/vocabularies/aat/index.html,2018-03-02,MG,2018-03-02,MG
+ArtForm,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+ArtForm,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+ArtForm,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+ArtForm,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+ArtWork,artwork_id,AW and a five-digit number (leading zeros),AW09999 is structural entry for unknown artworks,2018-02-09,OS,2018-05-15,MG
+ArtWork,title,Title of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
+ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
+ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
+ArtWork,art_form,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_place_id,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2018-02-09,OS
+ArtWork,neibu,yes/no whether this was originally a neibu publication. Leave empty for artworks created before 1949 and after 1980 or where status is unknown,,2018-02-09,OS,2018-02-09,OS
+ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+ArtWork,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+ArtWork,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+ArtWork,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+ArtWork,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+Genre,genre_id,G and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+Genre,genre_name,genre name in English - if necessary use Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
+Genre,genre_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
+Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),http://id.loc.gov/authorities/genreForms.htmlv,2017-07-04,LH,2018-02-01,DP
+Genre,source,External hierarchy linked to Library of Congress Subject Headings,http://id.loc.gov/authorities/genreForms.html or ttp://id.loc.gov/authorities/subjects.html,2018-03-02,MG,2018-03-08,MG
+Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Genre,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+Genre,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Genre,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+Institution,inst_id,I and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name,"Generic institutional names in english ( e.g.:  'school', 'university', ‘Chinese Communist Party’) others in pinyin. Change all traditional characters to simplified characters.",,2017-07-04,LH,2017-07-04,LH
+Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
+Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding,key: Place.place_ID,2018-01-30,OS,2018-02-05,MG
+Institution,start,start of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2018-02-05,MG
+Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2020-04-22,DP
+Institution,alt_start,start of alternative name: year in EDTF (if unknown uses approximate and uncertain dates),,2018-02-05,MG,2018-02-05,MG
+Institution,alt_end,end of alternative name: year in EDTF (if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
+Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
+Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
+Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
+Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
+Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
+Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Institution,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Institution,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+IsoLangCode,iso_code,two letter code ISO 639-1,https://www.loc.gov/standards/iso639-2/php/English_list.phpv,2017-07-04,LH,2018-02-01,DP
+IsoLangCode,name,name of the language in English,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+IsoLangCode,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+Membership,institution,the id of the institution,,2018-01-30,OS,2018-01-30,OS
+Membership,member,the member of the institution,,2018-01-30,OS,2018-01-30,OS
+Membership,source,source which says that one person was or is a member of the institution,,2018-01-30,OS,2018-01-30,OS
+Membership,page,page number of the source in source_id,for online sources write 'ONLINE SOURCE',2018-01-30,OS,2018-01-30,OS
+Membership,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
+Membership,created,date of creation of line,,2018-01-30,OS,2018-01-30,OS
+Membership,created_by,acronym of project member creating this line,,2018-01-30,OS,2018-01-30,OS
+Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
+Membership,modified_by,acronym of project member last modifying this line,,2018-01-30,OS,2018-01-30,OS
+,,,,,,,
+Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-07,DP
+Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘anon’. Change all traditional characters to simplified characters.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
+Person,first_name,First name (名). Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
+Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Person,sex,'male' or 'female',,2017-10-14,OS,2018-01-30,DP
+Person,rustication,One of four values related to 知识青年: '1' if elligible person underwent rustication; '2' where elligible person did not; '3' where status of elligible persons is unclear. '0' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
+Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name,Alias matches the language of the name. Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
+Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
+Person,social_position,Social position of a reader; 'unknown' in case you do not know; '' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2020-04-22,DP
+Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unknown' if unknown; '' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2020-04-22,DP
+Person,source_1,Text.text_id of evidential source,URL for online sources.,2017-07-04,LH,2019-08-20,DP
+Person,Page_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
+Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-20,DP
+Person,Page_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
+Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
+Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
+Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+Person,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+Person,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+Person,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+PrimarySource,prim_source_id,PS and a five-digit number (leading zeros)  PS09999 is structural entry for untitled/unknown works,,2017-07-04,LH,2018-04-10,MG
+PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters. b) title in original language,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
+PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Dussian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,genre,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
+PrimarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
+PrimarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,neibu,yes/no whether this was originally a neibu publication. '' for every publication starting from 1980.,,2017-07-04,LH,2020-04-22,DP
+PrimarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographes and novels.,,2017-07-04,LH,2018-01-18,OS
+PrimarySource,serial,additional citation ranges for serials such as volume or issue,,2017-07-05,LH,2019-08-20,DP
+PrimarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+PrimarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+Quotation,quotation_id,Q and a four-digit number (leading zeros),http://id.loc.gov/authorities/genreForms/gf2014026159.html,2018-02-09,OS,2018-03-14,MG
+Quotation,quotation,quotation in full. Change all traditional characters to simplified characters.,,2018-02-09,OS,2018-02-09,OS
+Quotation,source,source of a quotation,,2018-02-09,OS,2018-02-09,OS
+Quotation,page,page number of the quote in the cited edition,,2018-02-09,OS,2018-02-09,OS
+Quotation,commentary,Space for background information on the quotation.,,2018-02-09,OS,2018-02-09,OS
+Quotation,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+Quotation,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+Quotation,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+Quotation,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+Quotation,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+Rustication,person,agent_id of person undergoing rustication; ,,2017-07-04,LH,2020-04-09,DP
+Rustication,rustication_start,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2020-04-22,DP
+Rustication,rustication_end,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
+Rustication,place_of_rust,a single place_id for major place of rustication; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2020-04-22,DP
+,,,,,,,
+SecondarySource,sec_source_id,SS and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
+SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters.  b) title in original language,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
+SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,genre,key: Genre.genre_id,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,publishing_house,name of publishing house in pinyin (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
+SecondarySource,first_chin_edition,year of first edition in China (where easily available). Data is incomplete.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,neibu,yes/no whether this was originally a neibu publication. '' for every publication starting from 1980.,,2018-02-09,OS,2020-04-22,DP
+SecondarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographes and novels.,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,serial,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
+,,,,,,,
+SocialPosition,soc_pos_id,S and a four-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
+SocialPosition,soc_pos_name,Name of a social position. We skip the SP of authors but record the SP of readers.,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
+SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
+,,,,,,,
+SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,ego,Person.person_id of ego,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,related,Person.person_id of related,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,"http://ucrel.lancs.ac.uk/publications/CL2007/paper/63_Paper.pdf,  http://ucrel.lancs.ac.uk/usas/",2018-01-25,OS,2018-02-01,DP
+SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
+SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,source,evidence for this relation either source_id or URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,page,'ONLINE SOURCE' if source is a URL,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,note,Internal notes of project members,,2018-01-25,OS,2018-02-01,DP
+SocialRelation,created,date of creation of line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,created_by,acronym of project member creating this line,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,last_modified,date of last modification,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,modified_by,acronym of project member last modifying this line,,2018-01-25,OS,2018-01-28,DP
+,,,,,,,
+Space,space_id,SP and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
+Space,old_id,"PL or L, and a five-digit number (leading zeroes)",,2020-04-02,DP,2020-04-02,DP
+Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,"authors, artists, painter, etc.",2020-04-02,DP,2020-04-02,DP
+Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
+Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,note,Internal notes of project members,,2020-04-02,DP,2020-04-02,DP
+Space,created,date of creation of line,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
+Space,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP
+Space,last_modified,date of last modification,,2020-04-02,DP,2020-04-02,DP
+Space,last_modified_by,acronym of project member last modifying this line,,2020-04-02,DP,2020-04-02,DP
+,,,,,,,
+Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
+Work,old_id,SS or PS or AW and a five-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
+Work,creator,key: Person.person_id,"authors, artists, painter, etc.",2020-04-02,DP,2020-04-02,DP
+Work,type,SS or PS or AW,,2020-04-02,DP,2020-04-02,DP
+Work,type_num,,,2020-04-02,DP,2020-04-02,DP
+Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
+Work,commentary,"Space for background information on the work. For example reference to translations, special circumstances, ...",,2020-04-02,DP,2020-04-02,DP
+Work,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2020-04-02,DP,2020-04-02,DP
+Work,created,date of creation of line,,2020-04-02,DP,2020-04-02,DP
+Work,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP
+Work,last_modified,date of last modification,,2020-04-02,DP,2020-04-02,DP
+Work,last_modified_by,acronym of project member last modifying this line,,2020-04-02,DP,2020-04-02,DP

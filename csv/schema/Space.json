@@ -1,0 +1,104 @@
+{
+  "fields": [{
+      "name": "space_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "max-length": 6,
+        "pattern": "SP[0-9]{4}"
+      }
+    },
+    {
+      "name": "old_id",
+      "description": "id from previous id schema",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "space_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "space_type",
+      "constraints": {
+        "required": true,
+        "pattern": "PL|L"
+      }
+    },
+    {
+      "name": "name_lang",
+      "description": "structural entry for key resolution",
+      "constraints": {
+        "required": true,
+        "pattern": "en"
+      }
+    },
+    {
+      "name": "lat",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#double"
+      }
+    },
+    {
+      "name": "long",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#double"
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "description": "structural entry creation date of entry",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "description": "structural entry last modification date",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "description": "structural entry acronym of project member last modifying entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "space_id",
+  "missingValues": [""],
+  "foreignKeys": [
+    {
+      "fields": "name_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
+}

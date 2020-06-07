@@ -1,0 +1,121 @@
+{
+  "fields": [{
+      "name": "artwork_id",
+      "constraints": {
+        "required": true,
+        "unique": false,
+        "max-length": 5,
+        "pattern": "W[0-9]{4}"
+      }
+    },
+    {
+      "name": "title",
+      "constraints": {
+        "required": true
+      }
+    }, {
+      "name": "subtitle",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "title_lang",
+      "constraints": {
+        "required": true,
+        "min-length": 2
+      }
+    },
+    {
+      "name": "art_form",
+      "constraints": {
+        "required": true,
+        "pattern": "AF[0-9]{2}"
+      }
+    },
+    {
+      "name": "first_performance_date",
+      "constraints": {
+        "required": false,
+        "min-length": 4
+      }
+    },
+    {
+      "name": "first_performance_place",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "neibu",
+      "constraints": {
+        "required": false,
+        "pattern": "(^$|yes|no)"
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "created",
+      "description": "structural entry creation date of entry",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "description": "structural entry last modification date",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "description": "structural entry acronym of project member last modifying entry",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": ["artwork_id", "title_lang"],
+  "missingValues": [""],
+  "foreignKeys": [
+    {
+      "fields": "artwork_id",
+      "reference": {
+        "resource": "work",
+        "fields": "work_id"
+      }
+    },
+    {
+      "fields": "art_form",
+      "reference": {
+        "resource": "art-form",
+        "fields": "art_form_id"
+      }
+    },
+    {
+      "fields": "title_lang",
+      "reference": {
+        "resource": "iso-lang-code",
+        "fields": "iso_code"
+      }
+    }
+  ]
+}

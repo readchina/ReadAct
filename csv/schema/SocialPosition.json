@@ -1,0 +1,48 @@
+{
+  "fields": [{
+      "name": "soc_pos_id",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "max-length": 3,
+        "pattern": "S[0-9]{2}"
+      }
+    },
+    {
+      "name": "soc_pos_name",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "created",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "created_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    },
+    {
+      "name": "last_modified",
+      "constraints": {
+        "required": true,
+        "type": "http://www.w3.org/2001/XMLSchema#date"
+      }
+    },
+    {
+      "name": "last_modified_by",
+      "constraints": {
+        "required": true,
+        "pattern": "[A-Z]{2}"
+      }
+    }
+  ],
+  "primaryKey": "soc_pos_id",
+  "missingValues": [""]
+}
