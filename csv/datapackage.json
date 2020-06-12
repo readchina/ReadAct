@@ -280,7 +280,7 @@
           },
           "encoding": {
             "x": {
-              "field": "agent",
+              "field": "creator",
               "type": "ordinal",
               "axis": {
                 "labelAngle": 0
