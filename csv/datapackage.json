@@ -198,9 +198,7 @@
           },
           "mark": {
             "type": "bar",
-            "tooltip": {
-              "content": "data"
-            }
+            "tooltip": true
           },
           "encoding": {
             "x": {
@@ -236,9 +234,7 @@
           },
           "mark": {
             "type": "bar",
-            "tooltip": {
-              "content": "data"
-            }
+            "tooltip": true
           },
           "encoding": {
             "x": {
@@ -266,23 +262,24 @@
           "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
         },
         "specType": "vega-lite",
-        "spec": {
+        "spec":  {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-          "description": "Reading Objects by creator excluding unknowns",
+          "description": "Reading Objects by creator excluding anonymous works",
           "data": {
             "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
           },
+          "transform": [
+      {"filter": {"not": {"field": "creator", "equal": "AG0626"}}}
+    ],
           "mark": {
-            "type": "bar",
-            "tooltip": {
-              "content": "data"
-            }
+            "type": "bar"
           },
           "encoding": {
             "x": {
               "field": "creator",
               "type": "ordinal",
               "axis": {
+                "title": "Creator",
                 "labelAngle": 0
               },
               "sort": "-y"
@@ -295,7 +292,12 @@
             "color": {
               "field": "act_object",
               "type": "nominal"
-            }
+            },
+             "tooltip": [
+              {"field": "title"},
+              {"field": "name"},
+              {"aggregate": "count"}
+            ]
           }
         }
       }
