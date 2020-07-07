@@ -15,7 +15,6 @@ declare variable $space := csv:csv-to-xml('../../csv/data/Space.csv') => csv:san
 
 declare function local:listPlace($places as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listPlace')} {
-        namespace {''} {'http://www.tei-c.org/ns/1.0'},
         
         for $pl in $places//space_id
         let $type := $pl/../space_type

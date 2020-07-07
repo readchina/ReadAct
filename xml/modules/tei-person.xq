@@ -17,7 +17,6 @@ declare variable $social-position := csv:csv-to-xml('../../csv/data/SocialPositi
 :)
 declare function local:listPers($persons as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listPerson')} {
-        namespace {''} {'http://www.tei-c.org/ns/1.0'},
         let $distinct := distinct-values($persons//person_id)
         
         for $p in $distinct

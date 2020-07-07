@@ -12,6 +12,9 @@ addons:
       - miller
       - bats
       - textql
+      - libxml2-utils
+      - jing
+      - basex
 
 notifications:
   email: false
@@ -23,11 +26,19 @@ install:
 before_script:
   - mlr --version
   - textql --version
+  - basex xml/modules/tei-bibl.xq > xml/listBibl.xml
+  - basex xml/modules/tei-org.xq > xml/listOrg.xml
+  - basex xml/modules/tei-person.xq > xml/listPerson.xml
+  - basex xml/modules/tei-place.xq > xml/listPlace.xml
+  - basex xml/modules/tei-relation.xq > xml/listRelation.xml
+  - xmllint --output xml/expand.xml --xinclude xml/tei_header.xml
 
 # Checks
 script:
   - goodtables validate csv/datapackage.json
   # - bats --tap test/*.bats
+  # - basex -q "validate:rng('xml/tei_header.xml', 'xml/tei_all.rng')"
+  - jing xml/tei_all.rng xml/expand.xml
 
 # Generate Views (filter unknown)
 after_success:

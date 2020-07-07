@@ -18,15 +18,14 @@ declare variable $work := csv:csv-to-xml('../../csv/data/Work.csv') => csv:sanit
  : @param $works sanitized xml representation of original csv table
  : TODO add @level to title element
  : TODO taxonomy get rid of replace hack for genre-types, @ana could then reference taxonomy from bibl element
- : TODO @status on bibl for neibu? 
  : @see https://github.com/TEIC/TEI/issues/2011
+ :
  : @return listBibl
 :)
 
 declare function local:listBibl($works as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listBibl')} {
-        namespace {''} {'http://www.tei-c.org/ns/1.0'},
-        
+
         for $w in $work//work_id
         let $type := $w/../type
         let $note := $w/../commentary
@@ -53,7 +52,7 @@ declare function local:listBibl($works as node()*) as item()* {
                     default return
                         'artwork'
         },
-        
+
         switch (distinct-values($path/../neibu))
             case 'yes'
                 return
@@ -140,7 +139,7 @@ declare function local:listBibl($works as node()*) as item()* {
             attribute unit {'page'},
             $page
         },
-    
+
     (: genre / notes :)
     for $g in distinct-values($path/../genre)
     let $gg := $genre//genre_id[. = $g]
@@ -159,8 +158,8 @@ declare function local:listBibl($works as node()*) as item()* {
                 let $url := substring-before($g-src/text(), '.html')
                 return
                     tokenize($url, '/')[last()]
-                
-                
+
+
             }
         },
     for $af in distinct-values($path/../art_form)
@@ -208,9 +207,9 @@ declare function local:listBibl($works as node()*) as item()* {
                 (attribute target {$src})
             else
                 (attribute target {'#' || $src})
-            
+
         }
-    
+
 }
 }
 };

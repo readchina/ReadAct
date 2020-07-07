@@ -16,7 +16,6 @@ declare variable $membership := csv:csv-to-xml('../../csv/data/Membership.csv') 
 :)
 declare function local:listOrg($groups as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listOrg')} {
-        namespace {''} {'http://www.tei-c.org/ns/1.0'},
         
         for $grp in distinct-values($groups//inst_id)
         let $path := $groups//inst_id[. = $grp]

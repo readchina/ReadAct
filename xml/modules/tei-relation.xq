@@ -13,13 +13,13 @@ declare variable $act-type := csv:csv-to-xml('../../csv/data/ActType.csv') => cs
  : turn SocialRelation.csv and related into tei:relations
  : @param $social sanitized xml representation of original csv table for social relations
  : @param $personal sanitized xml representation of original csv table for (institutional) membership
+ : @param $act sanitized xml representation of the main csv table of ReadAct 
  :
  : @return listRelations
 :)
 
 declare function local:listRelation($social as node()*, $personal as node()*, $acts as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listRelation')} {
-        namespace {''} {'http://www.tei-c.org/ns/1.0'},
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'listRelation')} {
             attribute type {'personal'},
             for $rel in $social//row
@@ -44,7 +44,7 @@ declare function local:listRelation($social as node()*, $personal as node()*, $a
                                 attribute mutual {('#' || $rel/ego, '#' || $rel/related)}
                         default return
                             (attribute active {'#' || $rel/ego}, attribute passive {'#' || $rel/related})
-                
+
             }
     },
     (: Membership :)
@@ -104,43 +104,52 @@ declare function local:listRelation($social as node()*, $personal as node()*, $a
                         case element(act_object)
                             return
                                 attribute ref {'#' || $a}
-                        case element(last_modified_by) 
+                        case element(last_modified_by)
                             return
                                 attribute resp {$a}
-                         case element(last_modified) 
+                        case element(last_modified)
                             return
                                 attribute change {$a}
                         default
                             return
                                 (),
-                                element {fn:QName('http://www.tei-c.org/ns/1.0', 'desc')} {
-                        for $d in $row/*
-                        return
-                            typeswitch($d)
-                                case element(discussion) return $d/text()
-                                case element(source)
+                element {fn:QName('http://www.tei-c.org/ns/1.0', 'desc')} {
+                    for $d in $row/*
+                    return
+                        typeswitch ($d)
+                            case element(discussion)
+                                return
+                                    $d/text()
+                            case element(source)
+                                return
+                                    element {fn:QName('http://www.tei-c.org/ns/1.0', 'bibl')} {
+                                        attribute type {'source'},
+                                        if (starts-with($d, 'http'))
+                                        then
+                                            (attribute source {$d})
+                                        else
+                                            (attribute source {'#' || $d}),
+                                        switch ($d/../page)
+                                            case 'ONLINE SOURCE'
+                                                return
+                                                    ()
+                                            case ''
+                                                return
+                                                    ()
+                                            default return
+                                                element {fn:QName('http://www.tei-c.org/ns/1.0', 'biblScope')} {
+                                                    attribute unit {'page'},
+                                                    $d/../page/text()
+                                                }
+                                }
+                        default
                             return
-                                element {fn:QName('http://www.tei-c.org/ns/1.0', 'bibl')} {
-                                    attribute type {'source'},
-                                    if (starts-with($d, 'http'))
-                                    then
-                                        (attribute source {$d})
-                                    else
-                                        (attribute source {'#' || $d}),
-                                    switch($d/../page)
-                                    case 'ONLINE SOURCE' return ()
-                                    case '' return ()
-                                    default return element {fn:QName('http://www.tei-c.org/ns/1.0', 'biblScope')} {
-                                        attribute unit {'page'},
-                                            $d/../page/text()
-                                    }
-                                }
-                              default return ()  
-                                }
-                
-                
+                                ()
             }
-    }
+
+
+        }
+}
 }
 };
 
