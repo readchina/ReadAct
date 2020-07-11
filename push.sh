@@ -7,7 +7,7 @@ setup_git() {
 }
 
 commit_files() {
-  git checkout master
+  git checkout cleanup-1.1.0
   git add ./csv/views/ *.csv
   git add ./xml/ *.xml
   git commit --message "[skip ci] Travis build: $TRAVIS_BUILD_NUMBER"
@@ -15,7 +15,7 @@ commit_files() {
 
 upload_files() {
   git remote add new-origin https://duncdrum:${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1
-  git push new-origin master --quiet > /dev/null 2>&1
+  git push new-origin cleanup-1.1.0 --quiet > /dev/null 2>&1
 }
 
 setup_git
