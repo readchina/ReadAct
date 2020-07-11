@@ -1,257 +1,216 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <listOrg xmlns="http://www.tei-c.org/ns/1.0">
-    <org xml:id="AG0627">
-        <orgName type="main" xml:lang="en">Association of overseas Chinese in Vietnam</orgName>
-        <orgName type="main" xml:lang="zh">越南华侨协会</orgName>
-        <placeName ref="#SP0436"/>
-    </org>
-    <org xml:id="AG0628">
-        <orgName from="1960" to="1970" type="main" xml:lang="en">Beatles</orgName>
-        <placeName ref="#SP0134"/>
-    </org>
-    <org xml:id="AG0629">
-        <orgName type="main" xml:lang="en">English Language Services</orgName>
-        <placeName ref="#SP0436"/>
-    </org>
-    <org xml:id="AG0630">
-        <orgName from="1921" type="main" xml:lang="en">Central Committee of the Communist Party in
-            China</orgName>
-        <orgName from="1921" type="main" xml:lang="zh">中国共产党中央委员会</orgName>
-        <orgName from="1922" to="1927" type="main" xml:lang="zh">中国共产党中央执行委员会</orgName>
-        <orgName from="1921" to="1922" type="alias" xml:lang="zh">中国共产党中央局</orgName>
-        <orgName from="1921" type="alias" xml:lang="zh">中国共产党中央委员会</orgName>
-        <placeName ref="#SP0005"/>
-    </org>
-    <org xml:id="AG0631">
-        <orgName from="1968" to="1976" type="main" xml:lang="en">Baiyangdian literary
-            society</orgName>
-        <orgName from="1968" to="1976" type="main" xml:lang="zh">白洋淀派</orgName>
-        <placeName ref="#SP0025"/>
-    </org>
-    <org xml:id="AG0632">
-        <orgName from="1917" type="main" xml:lang="en">School of Foreign Studies</orgName>
-        <orgName from="1938" to="1993" type="alias" xml:lang="en">Department of Foreign Languages
-            and Literatures</orgName>
-        <placeName ref="#SP0093"/>
-        <note>Nanjing University</note>
-    </org>
-    <org xml:id="AG0633">
-        <orgName from="1906" type="main" xml:lang="en">Beijing No. 4 High School</orgName>
-        <orgName from="1906" type="main" xml:lang="zh">北京市第四中学</orgName>
-        <orgName from="1911" to="1949" type="alias" xml:lang="en">Capital Public No. 4 Secondary
-            School</orgName>
-        <orgName from="1911" to="1949" type="alias" xml:lang="zh">京师公立第四中学</orgName>
-        <placeName ref="#SP0005"/>
-    </org>
-    <org xml:id="AG0634">
-        <orgName from="1921" type="main" xml:lang="en">The Communist Party of China</orgName>
-        <orgName from="1921" type="main" xml:lang="zh">中国共产党</orgName>
-        <placeName ref="#SP0005"/>
-    </org>
-    <org xml:id="AG0635">
-        <orgName from="1942" type="main" xml:lang="en">Voice of America</orgName>
-        <placeName ref="#SP0225"/>
-        <listBibl>
-            <bibl source="https://www.voanews.com/"/>
-        </listBibl>
-    </org>
-    <org xml:id="AG0636">
-        <orgName from="1951" type="main" xml:lang="en">August First Film Studio</orgName>
-        <orgName from="1951" type="main" xml:lang="zh">八一电影制片厂</orgName>
-        <placeName ref="#SP0005"/>
-    </org>
-    <org xml:id="AG0637">
-        <orgName from="1928" type="main" xml:lang="en">Alexandrov Ensemble</orgName>
-        <orgName from="1928" type="main" xml:lang="ru">Ансамбль песни и пляски Российской армии
-            имени А. В. Александрова</orgName>
-        <orgName from="1928" type="main" xml:lang="zh">亚历山德罗夫红旗歌舞团</orgName>
-        <placeName ref="#SP0030"/>
-        <listBibl>
-            <bibl
-                source="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0638">
-        <orgName from="1952" type="main" xml:lang="en">Hubei Opera and Dance Theatre</orgName>
-        <orgName from="1952" type="main" xml:lang="zh">湖北省歌舞剧院</orgName>
-        <orgName from="1952" to="1998" type="alias" xml:lang="en">Hubei Experimental Opera
-            Troupe</orgName>
-        <orgName from="1952" to="1998" type="alias" xml:lang="zh">湖北省实验歌剧团</orgName>
-        <placeName ref="#SP0340"/>
-        <note>It was reorganized by 湖北省实验歌剧团 and 湖北民间歌舞团.</note>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E6%B9%96%E5%8C%97%E7%9C%81%E5%AE%9E%E9%AA%8C%E6%AD%8C%E5%89%A7%E5%9B%A2"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0639">
-        <orgName type="main" xml:lang="en">Jin Opera Group of Liulin County, Shanxi
-            Province</orgName>
-        <orgName type="main" xml:lang="zh">山西省柳林县晋剧团</orgName>
-        <placeName ref="#SP0341"/>
-        <listBibl>
-            <bibl source="https://baike.baidu.com/item/%E4%B8%89%E4%B8%8A%E6%A1%83%E5%B3%B0"/>
-        </listBibl>
-    </org>
-    <org xml:id="AG0640">
-        <orgName from="1949" type="main" xml:lang="en">China Writers Association</orgName>
-        <orgName from="1949" type="main" xml:lang="zh">中国作家协会</orgName>
-        <orgName from="1949" to="1953" type="alias" xml:lang="en">Chinese National Literary Workers
-            Association</orgName>
-        <orgName from="1949" to="1953" type="alias" xml:lang="zh">中华全国文学工作者协会</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0641">
-        <orgName from="1950" type="main" xml:lang="en">Hunan Federation of Literary and Art
-            Circles</orgName>
-        <orgName from="1950" type="main" xml:lang="zh">湖南省文学艺术界联合会</orgName>
-        <orgName to="1950" type="alias" xml:lang="en">Changsha Federation of Literary and Art
-            Circles</orgName>
-        <orgName to="1950" type="alias" xml:lang="zh">长沙市文学艺术界联合会</orgName>
-        <placeName ref="#SP0054"/>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C%E8%81%94%E5%90%88%E4%BC%9A/2046912"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0642">
-        <orgName type="main" xml:lang="en">Jiangxi Jiujiang Cultural Work Group</orgName>
-        <orgName type="main" xml:lang="zh">江西九江文工团</orgName>
-        <placeName ref="#SP0240"/>
-        <listBibl>
-            <bibl source="#W0431"/>
-        </listBibl>
-    </org>
-    <org xml:id="AG0643">
-        <orgName type="main" xml:lang="en">Shanghai Youth Art Theatre</orgName>
-        <orgName type="main" xml:lang="zh">上海青年艺术剧院</orgName>
-        <placeName ref="#SP0006"/>
-        <listBibl>
-            <bibl source="https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%83%E5%B1%B1"/>
-        </listBibl>
-    </org>
-    <org xml:id="AG0644">
-        <orgName from="1955" type="main" xml:lang="en">Beijing Peking Opera Troupe</orgName>
-        <orgName from="1955" type="main" xml:lang="zh">北京京剧团</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E5%89%A7%E5%9B%A2"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0645">
-        <orgName from="1959" type="main" xml:lang="en">China Central Ballet Company</orgName>
-        <orgName from="1959" type="main" xml:lang="zh">中央芭蕾舞团</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2#2_1"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0646">
-        <orgName from="1953" type="main" xml:lang="en">Hunan Opera and Dance Theatre</orgName>
-        <orgName from="1953" type="main" xml:lang="zh">湖南省歌舞剧院</orgName>
-        <placeName ref="#SP0054"/>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%AD%8C%E8%88%9E%E5%89%A7%E9%99%A2"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0647">
-        <orgName from="1938" type="main" xml:lang="en">Lu Xun Academy of Fine Arts</orgName>
-        <orgName from="1938" type="main" xml:lang="zh">鲁迅艺术学院</orgName>
-        <placeName ref="#SP0024"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E9%AD%AF%E8%BF%85%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0648">
-        <orgName from="1966" type="main" xml:lang="en">Shanghai Ballet Company</orgName>
-        <orgName from="1966" type="main" xml:lang="zh">上海芭蕾舞团</orgName>
-        <placeName ref="#SP0006"/>
-        <listBibl>
-            <bibl source="https://en.wikipedia.org/wiki/Shanghai_Ballet_Company"/>
-        </listBibl>
-    </org>
-    <org xml:id="AG0649">
-        <orgName from="1977" type="main" xml:lang="en">Chinese Academy of Social Sciences</orgName>
-        <orgName from="1977" type="main" xml:lang="zh">中国社会科学院</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0650">
-        <orgName from="1897" type="main" xml:lang="en">The Commercial Press</orgName>
-        <orgName from="1897" type="main" xml:lang="zh">商务印书馆</orgName>
-        <placeName ref="#SP0006"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0651">
-        <orgName from="1958" type="main" xml:lang="en">China Association for Science and
-            Technology</orgName>
-        <orgName from="1958" type="main" xml:lang="zh">中国科学技术协会</orgName>
-        <orgName from="1958" to="1980" type="alias" xml:lang="en">People's Republic of China Science
-            and Technology Association</orgName>
-        <orgName from="1958" to="1980" type="alias" xml:lang="zh">中华人民共和国科学技术协会</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BC%9A"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0652">
-        <orgName from="1949" type="main" xml:lang="en">China Artists Association</orgName>
-        <orgName from="1949" type="main" xml:lang="zh">中国美术家协会</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%BE%8E%E8%A1%93%E5%AE%B6%E5%8D%94%E6%9C%83"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0653">
-        <orgName from="1927" type="main" xml:lang="en">People's Liberation Army of China</orgName>
-        <orgName from="1927" type="main" xml:lang="zh">中国人民解放军</orgName>
-        <orgName from="1927" to="1949" type="alias" xml:lang="en">Chinese Workers’ and Peasants’
-            Revolutionary Army</orgName>
-        <orgName from="1927" to="1949" type="alias" xml:lang="zh">中国工农革命军</orgName>
-        <placeName ref="#SP0005"/>
-        <listBibl>
-            <bibl
-                source="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B"
-            />
-        </listBibl>
-    </org>
-    <org xml:id="AG0654">
-        <orgName from="1964" type="main" xml:lang="en">World Economic Research Institute</orgName>
-        <orgName from="1964" type="main" xml:lang="zh">世界经济研究所</orgName>
-        <orgName from="1964" to-custom="197x" type="alias" xml:lang="en">Fudan University Capitalist
-            National Economic Research Institute</orgName>
-        <orgName from="1964" to-custom="197x" type="alias" xml:lang="zh">复旦大学资本主义国家经济研究所</orgName>
-        <placeName ref="#SP0006"/>
-        <listBibl>
-            <bibl source="http://www.fudan.edu.cn/entries/view/129/"/>
-        </listBibl>
-    </org>
+  <org xml:id="AG0627">
+    <orgName xml:lang="en" type="main">Association of overseas Chinese in Vietnam</orgName>
+    <orgName xml:lang="zh" type="main">越南华侨协会</orgName>
+    <placeName ref="#SP0436"/>
+  </org>
+  <org xml:id="AG0628">
+    <orgName xml:lang="en" type="main" from="1960" to="1970">Beatles</orgName>
+    <placeName ref="#SP0134"/>
+  </org>
+  <org xml:id="AG0629">
+    <orgName xml:lang="en" type="main">English Language Services</orgName>
+    <placeName ref="#SP0436"/>
+  </org>
+  <org xml:id="AG0630">
+    <orgName xml:lang="en" type="main" from="1921">Central Committee of the Communist Party in China</orgName>
+    <orgName xml:lang="zh" type="main" from="1921">中国共产党中央委员会</orgName>
+    <orgName xml:lang="zh" type="main" from="1922" to="1927">中国共产党中央执行委员会</orgName>
+    <orgName xml:lang="zh" type="alias" from="1921" to="1922">中国共产党中央局</orgName>
+    <orgName xml:lang="zh" type="alias" from="1921">中国共产党中央委员会</orgName>
+    <placeName ref="#SP0005"/>
+  </org>
+  <org xml:id="AG0631">
+    <orgName xml:lang="en" type="main" from="1968" to="1976">Baiyangdian literary society</orgName>
+    <orgName xml:lang="zh" type="main" from="1968" to="1976">白洋淀派</orgName>
+    <placeName ref="#SP0025"/>
+  </org>
+  <org xml:id="AG0632">
+    <orgName xml:lang="en" type="main" from="1917">School of Foreign Studies</orgName>
+    <orgName xml:lang="en" type="alias" from="1938" to="1993">Department of Foreign Languages and Literatures</orgName>
+    <placeName ref="#SP0093"/>
+    <note>Nanjing University</note>
+  </org>
+  <org xml:id="AG0633">
+    <orgName xml:lang="en" type="main" from="1906">Beijing No. 4 High School</orgName>
+    <orgName xml:lang="zh" type="main" from="1906">北京市第四中学</orgName>
+    <orgName xml:lang="en" type="alias" from="1911" to="1949">Capital Public No. 4 Secondary School</orgName>
+    <orgName xml:lang="zh" type="alias" from="1911" to="1949">京师公立第四中学</orgName>
+    <placeName ref="#SP0005"/>
+  </org>
+  <org xml:id="AG0634">
+    <orgName xml:lang="en" type="main" from="1921">The Communist Party of China</orgName>
+    <orgName xml:lang="zh" type="main" from="1921">中国共产党</orgName>
+    <placeName ref="#SP0005"/>
+  </org>
+  <org xml:id="AG0635">
+    <orgName xml:lang="en" type="main" from="1942">Voice of America</orgName>
+    <placeName ref="#SP0225"/>
+    <listBibl>
+      <bibl source="https://www.voanews.com/"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0636">
+    <orgName xml:lang="en" type="main" from="1951">August First Film Studio</orgName>
+    <orgName xml:lang="zh" type="main" from="1951">八一电影制片厂</orgName>
+    <placeName ref="#SP0005"/>
+  </org>
+  <org xml:id="AG0637">
+    <orgName xml:lang="en" type="main" from="1928">Alexandrov Ensemble</orgName>
+    <orgName xml:lang="ru" type="main" from="1928">Ансамбль песни и пляски Российской армии имени А. В. Александрова</orgName>
+    <orgName xml:lang="zh" type="main" from="1928">亚历山德罗夫红旗歌舞团</orgName>
+    <placeName ref="#SP0030"/>
+    <listBibl>
+      <bibl source="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0638">
+    <orgName xml:lang="en" type="main" from="1952">Hubei Opera and Dance Theatre</orgName>
+    <orgName xml:lang="zh" type="main" from="1952">湖北省歌舞剧院</orgName>
+    <orgName xml:lang="en" type="alias" from="1952" to="1998">Hubei Experimental Opera Troupe</orgName>
+    <orgName xml:lang="zh" type="alias" from="1952" to="1998">湖北省实验歌剧团</orgName>
+    <placeName ref="#SP0340"/>
+    <note>It was reorganized by 湖北省实验歌剧团 and 湖北民间歌舞团.</note>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E6%B9%96%E5%8C%97%E7%9C%81%E5%AE%9E%E9%AA%8C%E6%AD%8C%E5%89%A7%E5%9B%A2"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0639">
+    <orgName xml:lang="en" type="main">Jin Opera Group of Liulin County, Shanxi Province</orgName>
+    <orgName xml:lang="zh" type="main">山西省柳林县晋剧团</orgName>
+    <placeName ref="#SP0341"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E4%B8%89%E4%B8%8A%E6%A1%83%E5%B3%B0"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0640">
+    <orgName xml:lang="en" type="main" from="1949">China Writers Association</orgName>
+    <orgName xml:lang="zh" type="main" from="1949">中国作家协会</orgName>
+    <orgName xml:lang="en" type="alias" from="1949" to="1953">Chinese National Literary Workers Association</orgName>
+    <orgName xml:lang="zh" type="alias" from="1949" to="1953">中华全国文学工作者协会</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0641">
+    <orgName xml:lang="en" type="main" from="1950">Hunan Federation of Literary and Art Circles</orgName>
+    <orgName xml:lang="zh" type="main" from="1950">湖南省文学艺术界联合会</orgName>
+    <orgName xml:lang="en" type="alias" to="1950">Changsha Federation of Literary and Art Circles</orgName>
+    <orgName xml:lang="zh" type="alias" to="1950">长沙市文学艺术界联合会</orgName>
+    <placeName ref="#SP0054"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C%E8%81%94%E5%90%88%E4%BC%9A/2046912"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0642">
+    <orgName xml:lang="en" type="main">Jiangxi Jiujiang Cultural Work Group</orgName>
+    <orgName xml:lang="zh" type="main">江西九江文工团</orgName>
+    <placeName ref="#SP0240"/>
+    <listBibl>
+      <bibl source="#W0431"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0643">
+    <orgName xml:lang="en" type="main">Shanghai Youth Art Theatre</orgName>
+    <orgName xml:lang="zh" type="main">上海青年艺术剧院</orgName>
+    <placeName ref="#SP0006"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%83%E5%B1%B1"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0644">
+    <orgName xml:lang="en" type="main" from="1955">Beijing Peking Opera Troupe</orgName>
+    <orgName xml:lang="zh" type="main" from="1955">北京京剧团</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E5%89%A7%E5%9B%A2"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0645">
+    <orgName xml:lang="en" type="main" from="1959">China Central Ballet Company</orgName>
+    <orgName xml:lang="zh" type="main" from="1959">中央芭蕾舞团</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2#2_1"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0646">
+    <orgName xml:lang="en" type="main" from="1953">Hunan Opera and Dance Theatre</orgName>
+    <orgName xml:lang="zh" type="main" from="1953">湖南省歌舞剧院</orgName>
+    <placeName ref="#SP0054"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E6%B9%96%E5%8D%97%E7%9C%81%E6%AD%8C%E8%88%9E%E5%89%A7%E9%99%A2"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0647">
+    <orgName xml:lang="en" type="main" from="1938">Lu Xun Academy of Fine Arts</orgName>
+    <orgName xml:lang="zh" type="main" from="1938">鲁迅艺术学院</orgName>
+    <placeName ref="#SP0024"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E9%AD%AF%E8%BF%85%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0648">
+    <orgName xml:lang="en" type="main" from="1966">Shanghai Ballet Company</orgName>
+    <orgName xml:lang="zh" type="main" from="1966">上海芭蕾舞团</orgName>
+    <placeName ref="#SP0006"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Shanghai_Ballet_Company"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0649">
+    <orgName xml:lang="en" type="main" from="1977">Chinese Academy of Social Sciences</orgName>
+    <orgName xml:lang="zh" type="main" from="1977">中国社会科学院</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0650">
+    <orgName xml:lang="en" type="main" from="1897">The Commercial Press</orgName>
+    <orgName xml:lang="zh" type="main" from="1897">商务印书馆</orgName>
+    <placeName ref="#SP0006"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0651">
+    <orgName xml:lang="en" type="main" from="1958">China Association for Science and Technology</orgName>
+    <orgName xml:lang="zh" type="main" from="1958">中国科学技术协会</orgName>
+    <orgName xml:lang="en" type="alias" from="1958" to="1980">People's Republic of China Science and Technology Association</orgName>
+    <orgName xml:lang="zh" type="alias" from="1958" to="1980">中华人民共和国科学技术协会</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BC%9A"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0652">
+    <orgName xml:lang="en" type="main" from="1949">China Artists Association</orgName>
+    <orgName xml:lang="zh" type="main" from="1949">中国美术家协会</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%BE%8E%E8%A1%93%E5%AE%B6%E5%8D%94%E6%9C%83"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0653">
+    <orgName xml:lang="en" type="main" from="1927">People's Liberation Army of China</orgName>
+    <orgName xml:lang="zh" type="main" from="1927">中国人民解放军</orgName>
+    <orgName xml:lang="en" type="alias" from="1927" to="1949">Chinese Workers’ and Peasants’ Revolutionary Army</orgName>
+    <orgName xml:lang="zh" type="alias" from="1927" to="1949">中国工农革命军</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0654">
+    <orgName xml:lang="en" type="main" from="1964">World Economic Research Institute</orgName>
+    <orgName xml:lang="zh" type="main" from="1964">世界经济研究所</orgName>
+    <orgName xml:lang="en" type="alias" from="1964" to-custom="197x">Fudan University Capitalist National Economic Research Institute</orgName>
+    <orgName xml:lang="zh" type="alias" from="1964" to-custom="197x">复旦大学资本主义国家经济研究所</orgName>
+    <placeName ref="#SP0006"/>
+    <listBibl>
+      <bibl source="http://www.fudan.edu.cn/entries/view/129/"/>
+    </listBibl>
+  </org>
 </listOrg>
