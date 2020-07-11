@@ -22,7 +22,7 @@ jobs:
       name: "Unit Tests"
     - stage: deploy
       name: "Push generated to GH"
-      if: branch = cleanup-1.1.0
+      if: branch = master
       script: skip
       after_success:
         - ./push.sh
