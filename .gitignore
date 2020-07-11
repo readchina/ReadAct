@@ -52,3 +52,5 @@ Temporary Items
 ~$*.xlsx
 .~lock*
 .notes
+
+xml/expand.xml
