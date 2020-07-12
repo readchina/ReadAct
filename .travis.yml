@@ -18,11 +18,12 @@ addons:
 
 jobs:
   include:
-    - stage: "Tests"
+    - stage: test
       name: "Unit Tests"
     - stage: deploy
-      name: "Push generated to GH"
+      name: "Push Generated Files to Master"
       if: branch = master
+      install: skip
       script: skip
       after_success:
         - ./push.sh
@@ -42,7 +43,7 @@ before_script:
   - basex xml/modules/tei-place.xq > xml/listPlace.xml
   - basex xml/modules/tei-relation.xq > xml/listRelation.xml
   # handle xincludes
-  - xmllint --output xml/expand.xml --xinclude xml/tei_header.xml
+  - xmllint --output xml/expand/expand.xml --xinclude xml/tei_header.xml
   # Generate view tables
   - textql -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'" csv/data/
   - textql -output-header -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.title_lang = a.id_lang and a.act_object!='W0554'" csv/data/
@@ -54,4 +55,4 @@ before_script:
 script:
   - goodtables validate csv/datapackage.json
   # - bats --tap test/*.bats
-  - jing xml/tei_all.rng xml/expand.xml
+  - jing xml/tei_all.rng xml/expand/expand.xml
