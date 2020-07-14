@@ -2,7 +2,7 @@ xquery version "3.1";
 import module namespace csv = "http://exist-db.org/apps/readch/csv" at "csv.xql";
 
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
-declare namespace map = " http://www.w3.org/2005/xpath-functions/map";
+declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 
 
 declare variable $agent := csv:csv-to-xml('../../csv/data/Agent.csv') => csv:sanitize();
@@ -18,12 +18,12 @@ declare variable $social-position := csv:csv-to-xml('../../csv/data/SocialPositi
 declare function local:listPers($persons as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listPerson')} {
         let $distinct := distinct-values($persons//person_id)
-        
+
         for $p in $distinct
         let $path := $persons//person_id[. = $p]
         let $sex := lower-case($path[1]/../sex)
             order by $p
-        
+
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'person')} {
                 attribute xml:id {data($p)},
@@ -115,7 +115,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-                    
+
                     if ($r/../rustication_end)
                     then
                         (let $map := csv:edtf($r/../rustication_end, 'to')
@@ -123,7 +123,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-                    
+
                     if ($r/../place_of_rust)
                     then
                         (attribute where {'#' || distinct-values($r/../place_of_rust)})

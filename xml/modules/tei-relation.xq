@@ -2,7 +2,7 @@ xquery version "3.1";
 import module namespace csv = "http://exist-db.org/apps/readch/csv" at "csv.xql";
 
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
-declare namespace map = " http://www.w3.org/2005/xpath-functions/map";
+declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 
 declare variable $social-relation := csv:csv-to-xml('../../csv/data/SocialRelation.csv') => csv:sanitize();
 declare variable $membership := csv:csv-to-xml('../../csv/data/Membership.csv') => csv:sanitize();
@@ -13,7 +13,7 @@ declare variable $act-type := csv:csv-to-xml('../../csv/data/ActType.csv') => cs
  : turn SocialRelation.csv and related into tei:relations
  : @param $social sanitized xml representation of original csv table for social relations
  : @param $personal sanitized xml representation of original csv table for (institutional) membership
- : @param $act sanitized xml representation of the main csv table of ReadAct 
+ : @param $act sanitized xml representation of the main csv table of ReadAct
  :
  : @return listRelations
 :)

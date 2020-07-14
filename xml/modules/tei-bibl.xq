@@ -2,7 +2,7 @@ xquery version "3.1";
 import module namespace csv = "http://exist-db.org/apps/readch/csv" at "csv.xql";
 
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
-declare namespace map = " http://www.w3.org/2005/xpath-functions/map";
+declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 
 
 declare variable $art-form := csv:csv-to-xml('../../csv/data/ArtForm.csv') => csv:sanitize();

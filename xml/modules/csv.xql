@@ -1,6 +1,6 @@
 xquery version "3.1";
 module namespace csv = "http://exist-db.org/apps/readch/csv";
-declare namespace map = " http://www.w3.org/2005/xpath-functions/map";
+declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 
 (:~ This module transforms csv into xml.
  : It assumes a header.
