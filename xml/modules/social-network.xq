@@ -4,7 +4,9 @@ declare namespace gexf = "http://www.gexf.net/1.3";
 declare namespace viz = "http://www.gexf.net/1.3/viz";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
-(:~ Library to produce graphs from ReadAct prosopography.
+(:~ Library to produce directed graphs from ReadAct prosopography.
+ : TODO generate proper vega/d3 json from gexf
+ : TODO enable undirected graph output
  : @author Duncan Paterson
  : @version 1.1.0-BETA
  : @return either json or xml graph data  for visualization via vega or gephi respectively
@@ -18,9 +20,9 @@ declare variable $reading-acts := $readact-tei//tei:relation[@type = "reading-ac
  :
  : @return
  :)
-declare function local:gexf-to-json()as map(*){
-map { 'nodes': 1+1
-}
+declare function local:gexf-to-json() as map(*) {
+    map {'nodes': 1 + 1
+    }
 };
 
 
@@ -38,58 +40,70 @@ declare function local:entities-to-nodes($nodes as item()*) {
 
 
 (:~ Get distinct nodes of network
- : @param nodes the list of items to be processed typically uses some form of ID
+ : @param nodes the list of items to be processed typically uses some form of ID or IDREF
  :
- : TODO experiment with returning directly contructed  maps and arrays to mimick json
- : TODO get distinct
- : TODO make flexible with respect to primary entity types but based of Acts
- : @return node element
+ : @return nodes element containing distinct nodes of graph
  :)
-declare function local:get-nodes($nodes as item()*) as element(nodes) {
-    <nodes>
+declare function local:get-nodes($nodes as item()*) as element(gexf:nodes) {
+    <gexf:nodes>
         {
             for $n in distinct-values($nodes/@active)
             let $id := substring-after($n, '#')
             let $name := $readact-tei/id($id)/tei:persName[@type = 'main'][1]/*/text()
-            order by $id
+                order by $id
             return
-                (<id>{$id}</id>, <name>{$name}</name>)
+                <gexf:node id="{$id}" label="{$name}"/>
         }
-    </nodes>
+    </gexf:nodes>
 };
 
 (:~ Construct edges of network
- : @param the result of a node getter function
- : @param the relationship to construct edges
- : @return edges element
+ : @param nodes the result of a node getter function
+ : @param data the relationship to construct edges
+ :
+ : @return edges element containing unweighted and not-unique edges
  :)
-declare function local:get-edges($nodes as item()*, $data as item()*) as element(links){
-    <links>
+declare function local:get-edges-raw($nodes as item()*, $data as item()*) as element(gexf:edges) {
+    <gexf:edges>
         {
-            for $e at $count in $nodes/id
-            for $t at $weight in $data[@active = '#' || $e]
+            for $e at $count-a in $nodes
+            for $t at $count-b in $data[@active = '#' || $e]
             let $value := 1
-            order by $e
+                order by $e
             return
-                (<source>{$e/text()}</source>, <target>{substring-after($t/@ref, '#')}</target> (:, <id>{$count}</id>:))
+                <gexf:edge id="{$count-a || '-' || $count-b}" source="{$e}" target="{substring-after($t/@ref, '#')}"/>
+        
         }
-    </links>
+    </gexf:edges>
 };
 
 (:~ Construct a full graph based on node and edge contructing function
- :@param paramater the contents of gexf:meta
+ : @param data datasource ReadAct xml
+ : @param creator name of creator for gexf:meta field
+ : @param desc description for gexf:meta field
+ :
+ : TODO calculate edge weights, (dedupe edges)
+ :
  : @return gexf element to stored to disk
  :)
-declare function local:gexf-graph($param as node()*) as element(gexf:gexf) {
+declare function local:gexf-graph($data as item()*, $creator as xs:string, $desc as xs:string) as element(gexf:gexf) {
     <gexf:gexf>
-        <gexf:meta></gexf:meta>
+        <gexf:meta lastmodifieddate="{current-dateTime()}">
+        <gexf:creator>{$creator}</gexf:creator>
+        <gexf:description>{$desc}</gexf:description>
+        </gexf:meta>
         <gexf:graph>
-            <gexf:nodes></gexf:nodes>
+            {local:get-nodes($data),
+            local:get-edges-raw(local:get-nodes($data)//@id, $data)}
             <gexf:edges></gexf:edges>
         </gexf:graph>
     </gexf:gexf>
 };
 
-local:get-edges(local:get-nodes($reading-acts), $reading-acts)
+local:gexf-graph($reading-acts, 'ReadAct', '')
+
+(:local:get-edges-raw(local:get-nodes($reading-acts)//@id, $reading-acts):)
+
+(:local:get-nodes($reading-acts):)
 
 (:data($reading-acts[@active = '#AG0002']/@ref):)
