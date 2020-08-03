@@ -9,8 +9,10 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:omit-xml-declaration "yes";
 
 (:~ Library to produce directed graphs from ReadAct prosopography.
- : TODO generate proper vega/d3 json from gexf
  : TODO enable undirected graph output
+ : @see http://www.scottbot.net/HIAL/index.html@p=41158.html
+ : @see https://toreopsahl.com/tnet/two-mode-networks/
+ :
  : @author Duncan Paterson
  : @version 1.1.0-BETA
  : @return either json or xml graph data  for visualization via vega or gephi respectively
@@ -20,9 +22,13 @@ declare variable $reading-acts := $readact-tei//tei:relation[@type = "reading-ac
 
 (:~
  : take gexf graph representation and return JSON for display via vega,
- : which uses D3 force layout under the hood. 
+ : which uses D3 force layout under the hood. However, it insists on json index as node identity 
+ : for constructing edges whcih is a pain, and needs to bexml  count or position -1.
+ : @see 
+ : @see https://raw.githubusercontent.com/vega/vega/master/docs/data/miserables.json
  : @param graph gexf formated graph
  :
+ : TODO weight is not yet parsed or generated
  : @return json representation of graph
  :)
 declare function local:gexf-to-vega($graph as node()) {
@@ -30,22 +36,27 @@ declare function local:gexf-to-vega($graph as node()) {
     <map xmlns="http://www.w3.org/2005/xpath-functions">
         <array key="nodes">
             {
-                for $n in $graph//gexf:node
+                for $n at $count in $graph//gexf:node
                 return
                     <map>
                         <string key="id">{data($n/@id)}</string>
-                        <string key="label">{data($n/@label)}</string>
+                        <string key="name">{replace(data($n/@label), ' ', '_')}</string>
+                        <number key="index">{$count -1 }</number>
+                        <number key="group">{if (starts-with(data($n/@id), 'AG')) then (1) else(2)}</number>
                     </map>
             }
         </array>
         <array key="links">
             {
-                for $e in $graph//gexf:edge
+                for $e at $count in $graph//gexf:edge
+                let $i1 := index-of($graph//gexf:node/@id, data($e/@source))
+                let $i2 := index-of($graph//gexf:node/@id, data($e/@target))
                 return
                     <map>
-                        <string key="source">{data($e/@source)}</string>
-                        <string key="target">{data($e/@target)}</string>
+                        <number key="source">{$i1 -1}</number>
+                        <number key="target">{$i2 -1}</number>
                         <number key="value">1</number>
+                        <number key="index">{$count -1}</number>
                     </map>
             }
         </array>
@@ -55,16 +66,44 @@ declare function local:gexf-to-vega($graph as node()) {
 };
 
 
-(:~ Get distinct nodes from data, 
- : expects either id or idref column of the original csv transformed into tei.
- : @see https://raw.githubusercontent.com/vega/vega/master/docs/data/miserables.json
- : @param nodes the list of items to be processed
+(:~ Filter id string expects either id or idref column of the original csv transformed into tei.
+ : @param $entity the sequence of ids to be  filtered
  :
- : TODO make flexible with respect to primary entity types but based of Acts
- : @return node element
+ : @return the id string for use in lookup-funtion
  :)
-declare function local:entities-to-nodes($nodes as item()*) {
-    1 + 1
+declare function local:filter-idref($entity as xs:string*) {
+    if (starts-with($entity, '#'))
+    then
+        (substring-after($entity, '#'))
+    else
+        ($entity)
+};
+
+(:~ Resolve ids to get primary entities: work, person, org, place.
+ : @param ref the list of ids to be processed
+ :
+ : TODO enable xml:lang selection
+ : @return the human readable name (Latn) for a given id 
+ :)
+declare function local:lookup-id($ref as xs:string*) {
+    let $entity := $readact-tei/id($ref)
+    return
+        typeswitch ($entity)
+            case element(tei:person)
+                return
+                    $entity/tei:persName[@type = 'main'][1]/*/text()
+            case element(tei:org)
+                return
+                    $entity/tei:orgName[@type = 'main'][1]/text()
+            case element(tei:bibl)
+                return
+                    $entity/tei:title[@type = 'main'][1]/text()
+            case element(tei:place)
+                return
+                    $entity/tei:placeName/text()
+            default
+                return
+                    ()
 };
 
 
@@ -76,9 +115,17 @@ declare function local:entities-to-nodes($nodes as item()*) {
 declare function local:get-nodes($nodes as item()*) as element(gexf:nodes) {
     <gexf:nodes>
         {
-            for $n in distinct-values($nodes/@active)
-            let $id := substring-after($n, '#')
-            let $name := $readact-tei/id($id)/tei:persName[@type = 'main'][1]/*/text()
+            for $n1 in distinct-values($nodes/@active)
+            let $id := local:filter-idref($n1)
+            let $name := local:lookup-id($id)
+                order by $id
+            return
+                <gexf:node id="{$id}" label="{$name}"/>
+        }
+        {
+            for $n2 in distinct-values($nodes/@ref)
+            let $id := local:filter-idref($n2)
+            let $name := local:lookup-id($id)
                 order by $id
             return
                 <gexf:node id="{$id}" label="{$name}"/>
@@ -100,7 +147,7 @@ declare function local:get-edges-raw($nodes as item()*, $data as item()*) as ele
             let $value := 1
                 order by $e
             return
-                <gexf:edge id="{$count-a || '-' || $count-b}" source="{$e}" target="{substring-after($t/@ref, '#')}"/>
+                <gexf:edge id="{$count-a || '-' || $count-b}" source="{$e}" target="{local:filter-idref($t/@ref)}"/>
         
         }
     </gexf:edges>
@@ -134,7 +181,7 @@ declare function local:gexf-graph($data as item()*, $creator as xs:string, $desc
 
 local:gexf-to-vega(local:gexf-graph($reading-acts, 'ReadAct', ''))
 
-(:local:gexf-graph($reading-acts, 'ReadAct', ''):)
+(:local:gexf-graph($reading-acts, 'ReadAct', 'Bipartite graph of reading act edges, connecting agent and work nodes'):)
 
 (:local:get-edges-raw(local:get-nodes($reading-acts)//@id, $reading-acts):)
 

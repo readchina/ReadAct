@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <gexf:gexf xmlns:gexf="http://www.gexf.net/1.3">
-    <gexf:meta lastmodifieddate="2020-08-03T13:07:54.074+02:00">
+    <gexf:meta lastmodifieddate="2020-08-03T16:57:50.793+02:00">
         <gexf:creator>ReadAct</gexf:creator>
-        <gexf:description/>
+        <gexf:description>Bipartite graph of reading act edges, connecting agent and work nodes</gexf:description>
     </gexf:meta>
     <gexf:graph>
         <gexf:nodes>
@@ -132,6 +131,522 @@
             <gexf:node id="AG0607" label="Huang Ai"/>
             <gexf:node id="AG0614" label="Fang Lizhi"/>
             <gexf:node id="AG0626" label="anonymous"/>
+            <gexf:node id="W0001" label="Silent China"/>
+            <gexf:node id="W0002" label="English 900"/>
+            <gexf:node id="W0003" label="The White Ship"/>
+            <gexf:node id="W0004" label="Ticket to the Stars"/>
+            <gexf:node id="W0005" label="My Universities"/>
+            <gexf:node id="W0006" label="My Apprenticeship"/>
+            <gexf:node id="W0007" label="Der Prozess"/>
+            <gexf:node id="W0008" label="On the Road"/>
+            <gexf:node id="W0009" label="The New Class &#xA;    "/>
+            <gexf:node id="W0010" label="Letters Between Two"/>
+            <gexf:node id="W0011" label="Wild Grass"/>
+            <gexf:node id="W0012" label="Les Fleurs du Mal"/>
+            <gexf:node id="W0013" label="Ciel brouillé"/>
+            <gexf:node id="W0014" label="Le Balcon"/>
+            <gexf:node id="W0015" label="消失在暗淡的夜雾中"/>
+            <gexf:node id="W0016" label="Morning Shadow"/>
+            <gexf:node id="W0017" label="Gambara"/>
+            <gexf:node id="W0018" label="Eugénie Grandet"/>
+            <gexf:node id="W0019" label="New Vietnamese Chinese Newspaper"/>
+            <gexf:node id="W0020" label="Light Above the Land"/>
+            <gexf:node id="W0021" label="Watching the Barley Harvest"/>
+            <gexf:node id="W0022" label="Reeds in the Wind"/>
+            <gexf:node id="W0023" label="En Attendant Godot"/>
+            <gexf:node id="W0024" label="Waves"/>
+            <gexf:node id="W0025" label="The Answer"/>
+            <gexf:node id="W0026" label="The Window on the Cliffs"/>
+            <gexf:node id="W0027" label="Smoke"/>
+            <gexf:node id="W0028" label="Alcohol"/>
+            <gexf:node id="W0029" label="Rainy Night"/>
+            <gexf:node id="W0030" label="Dusk: Dingjiatan"/>
+            <gexf:node id="W0031" label="Habit"/>
+            <gexf:node id="W0032" label="The Ninth Wave"/>
+            <gexf:node id="W0033" label="Dedicated to the Aegean Sea"/>
+            <gexf:node id="W0034" label="For a Sick boy"/>
+            <gexf:node id="W0035" label="Room at the Top"/>
+            <gexf:node id="W0036" label="Jane Eyre &#xA;    "/>
+            <gexf:node id="W0037" label="L‘Étranger"/>
+            <gexf:node id="W0038" label="Dream of the Red Chamber"/>
+            <gexf:node id="W0039" label="守常文集"/>
+            <gexf:node id="W0040" label="My Autobiography"/>
+            <gexf:node id="W0041" label="The House with the Mezzanine"/>
+            <gexf:node id="W0042" label="For Mr. Yan Wenliang"/>
+            <gexf:node id="W0043" label="What is to be Done?"/>
+            <gexf:node id="W0044" label="Quotations From Chairman Mao Tse-tung"/>
+            <gexf:node id="W0045" label="Project 571"/>
+            <gexf:node id="W0046" label="Three Character Classic"/>
+            <gexf:node id="W0050" label="Manifest der Kommunistischen Partei"/>
+            <gexf:node id="W0052" label="Der Bürgerkrieg in Frankreich"/>
+            <gexf:node id="W0055" label="Analects"/>
+            <gexf:node id="W0059" label="Khrushchev &#xA;    "/>
+            <gexf:node id="W0060" label="Tito"/>
+            <gexf:node id="W0061" label="David Copperfield"/>
+            <gexf:node id="W0062" label="A Tale of Two Cities"/>
+            <gexf:node id="W0063" label="The Catcher in the Rye"/>
+            <gexf:node id="W0064" label="Rudin"/>
+            <gexf:node id="W0065" label="100.000 Whys &#xA;    "/>
+            <gexf:node id="W0066" label="A Thousand and One Nights"/>
+            <gexf:node id="W0067" label="Quotations From Lu Xun"/>
+            <gexf:node id="W0068" label="On the Cult of Personality and its Consequences"/>
+            <gexf:node id="W0069" label="The Thaw"/>
+            <gexf:node id="W0070" label="People, Years, Life"/>
+            <gexf:node id="W0071" label="Selected Essays 1917-1932"/>
+            <gexf:node id="W0073" label="Hello Sadness"/>
+            <gexf:node id="W0074" label="Anti-Dühring"/>
+            <gexf:node id="W0075" label="Dialektik der Natur"/>
+            <gexf:node id="W0076" label="A Brief History of China"/>
+            <gexf:node id="W0077" label="Stories Old and New"/>
+            <gexf:node id="W0078" label="The Gadfly"/>
+            <gexf:node id="W0079" label="Denouncing Fascism &#xA;    "/>
+            <gexf:node id="W0080" label="The Insulted and Humiliated"/>
+            <gexf:node id="W0081" label="Crime and Punishment"/>
+            <gexf:node id="W0082" label="Canon of Sherlock Holmes"/>
+            <gexf:node id="W0083" label="Schwarzer Zwieback"/>
+            <gexf:node id="W0084" label="Le Comte de Monte-Cristo"/>
+            <gexf:node id="W0086" label="unknown"/>
+            <gexf:node id="W0087" label="When Lotuses Bloom Again"/>
+            <gexf:node id="W0088" label="I Want to Study!"/>
+            <gexf:node id="W0089"
+                       label="Perspectives de l'homme, Existentialisme, Pensée catholique, Structuralisme, Marxisme"/>
+            <gexf:node id="W0090" label="三月与末日"/>
+            <gexf:node id="W0091" label="Les Nourritures Terrestres"/>
+            <gexf:node id="W0092" label="The Decameron"/>
+            <gexf:node id="W0093" label="The Heart of the Matter"/>
+            <gexf:node id="W0094" label="Grimms Märchen"/>
+            <gexf:node id="W0095" label="How the Steel was Tempered"/>
+            <gexf:node id="W0096" label="Great Changes in a Mountain Village"/>
+            <gexf:node id="W0097" label="Bolivian Diary"/>
+            <gexf:node id="W0098" label="Krushchevism"/>
+            <gexf:node id="W0099" label="This is Beijing at 4:08"/>
+            <gexf:node id="W0100" label="At the Time of Your Departure"/>
+            <gexf:node id="W0101" label="Believe in the Future"/>
+            <gexf:node id="W0102" label="Ocean Trilogy"/>
+            <gexf:node id="W0103" label="甘蔗林-青纱帐"/>
+            <gexf:node id="W0104" label="The Scarlett Letter"/>
+            <gexf:node id="W0105" label="The Road to Serfdom"/>
+            <gexf:node id="W0106" label="Windows of the Westward Train"/>
+            <gexf:node id="W0107" label="三门峡／梳妆台"/>
+            <gexf:node id="W0108" label="Prophecy"/>
+            <gexf:node id="W0109" label="The Brief Logic by Hegel"/>
+            <gexf:node id="W0110" label="Catch-22"/>
+            <gexf:node id="W0112" label="Les Misérables"/>
+            <gexf:node id="W0114" label="Fortitude"/>
+            <gexf:node id="W0115" label="Conquest Without War"/>
+            <gexf:node id="W0116" label="Kim Il-Sung Selected Works"/>
+            <gexf:node id="W0117" label="Kim Il-Sung Biography"/>
+            <gexf:node id="W0118" label="What Do You Want Then?"/>
+            <gexf:node id="W0119" label="Угол падения: роман"/>
+            <gexf:node id="W0120" label="The Story of Zoya and Shura"/>
+            <gexf:node id="W0121" label="I Chose Freedom &#xA;    "/>
+            <gexf:node id="W0122" label="The Forty-First"/>
+            <gexf:node id="W0123" label="The State and the Revolution"/>
+            <gexf:node id="W0124" label="Monologue"/>
+            <gexf:node id="W0125" label="Commentary on the Water Classic"/>
+            <gexf:node id="W0126" label="Liu Zhidan"/>
+            <gexf:node id="W0127" label="Border Town"/>
+            <gexf:node id="W0128" label="Long River"/>
+            <gexf:node id="W0129" label="The True Story of Ah Q"/>
+            <gexf:node id="W0130" label="Spartacus"/>
+            <gexf:node id="W0131" label="Water Margin"/>
+            <gexf:node id="W0132" label="Utopia"/>
+            <gexf:node id="W0133" label="La Chartreuse de Parme"/>
+            <gexf:node id="W0134" label="Journey to the West"/>
+            <gexf:node id="W0135" label="Art Through the Ages"/>
+            <gexf:node id="W0136"
+                       label="The History of the Decline and Fall of the Roman Empire"/>
+            <gexf:node id="W0137" label="The Imitation of Christ"/>
+            <gexf:node id="W0138" label="Romance of the Three Kingdoms"/>
+            <gexf:node id="W0139" label="Story of the Golden Monkey"/>
+            <gexf:node id="W0140" label="The Scalpel the sword &#xA;    "/>
+            <gexf:node id="W0141" label="The Sun Shines over the Sanggan River"/>
+            <gexf:node id="W0142" label="新安吏"/>
+            <gexf:node id="W0143" label="Defend Yan’an"/>
+            <gexf:node id="W0144" label="Twenty Years After"/>
+            <gexf:node id="W0145" label="The Three Musketeers"/>
+            <gexf:node id="W0146" label="The Lady with the Camellias"/>
+            <gexf:node id="W0147" label="Return to Yan‘an"/>
+            <gexf:node id="W0149" label="Wuthering Heights"/>
+            <gexf:node id="W0150" label="La Comédie Humaine"/>
+            <gexf:node id="W0151" label="Red Star Over China"/>
+            <gexf:node id="W0152" label="Ten Days That Shook the World"/>
+            <gexf:node id="W0153" label="The Rout"/>
+            <gexf:node id="W0154" label="In Memory of Norman Bethune"/>
+            <gexf:node id="W0155" label="The Diary of Anne Frank"/>
+            <gexf:node id="W0156" label="A General Introduction to Psycho-Analysis"/>
+            <gexf:node id="W0157" label="The Interpretation of Dreams"/>
+            <gexf:node id="W0158" label="Studies in the Psychology of Sex"/>
+            <gexf:node id="W0159" label="Stray Birds"/>
+            <gexf:node id="W0160" label="War and Peace"/>
+            <gexf:node id="W0161" label="Anna Karenina"/>
+            <gexf:node id="W0162" label="Resurrection"/>
+            <gexf:node id="W0163" label="A Study of History"/>
+            <gexf:node id="W0164" label="The Students"/>
+            <gexf:node id="W0165" label="Stalin &#xA;    "/>
+            <gexf:node id="W0166" label="The Revolution Betrayed"/>
+            <gexf:node id="W0167" label="White Bim Black Ear"/>
+            <gexf:node id="W0168" label="Memoirs by Harry S. Truman"/>
+            <gexf:node id="W0169" label="全宋词"/>
+            <gexf:node id="W0170" label="归去来兮辞"/>
+            <gexf:node id="W0171" label="Le Cimetière Marin"/>
+            <gexf:node id="W0172" label="Twenty Thousand Leagues Under the Sea"/>
+            <gexf:node id="W0173" label="南共纲领和思想斗争「尖锐化」"/>
+            <gexf:node id="W0174" label="Babi Yar and Others"/>
+            <gexf:node id="W0175" label="The Memoirs of Marshal Zhukov"/>
+            <gexf:node id="W0176" label="Africa &#xA;    "/>
+            <gexf:node id="W0177" label="La Fortune des Rougon"/>
+            <gexf:node id="W0178" label="Vierundzwanzig Stunden aus dem Leben einer Frau"/>
+            <gexf:node id="W0179" label="Arch of Triumph"/>
+            <gexf:node id="W0180" label="Jean-Christophe"/>
+            <gexf:node id="W0181" label="Vie de Beethoven"/>
+            <gexf:node id="W0182" label="The Rommel Papers"/>
+            <gexf:node id="W0183" label="Les Confessions"/>
+            <gexf:node id="W0184" label="A History of Western Philosophy"/>
+            <gexf:node id="W0185" label="To the Sea"/>
+            <gexf:node id="W0187" label="The Tale of the Fisherman and the Fish"/>
+            <gexf:node id="W0188" label="Strange Stories From a Chinese Studio"/>
+            <gexf:node id="W0189" label="Annabel Lee"/>
+            <gexf:node id="W0190" label="Unaddressed Letters &#xA;    "/>
+            <gexf:node id="W0191" label="Snowy Winters"/>
+            <gexf:node id="W0192" label="La nausée"/>
+            <gexf:node id="W0193" label="Structuralism and Marxism"/>
+            <gexf:node id="W0194" label="A Philosophy of Man"/>
+            <gexf:node id="W0195" label="Über die ästhetische Erziehung des Menschen"/>
+            <gexf:node id="W0196" label="Love Story"/>
+            <gexf:node id="W0197" label="Hamlet"/>
+            <gexf:node id="W0198" label="Dragon and Phoenix Art"/>
+            <gexf:node id="W0199" label="Essays on Caligraphy"/>
+            <gexf:node id="W0200" label="The Rise and Fall of the Third Reich &#xA;    "/>
+            <gexf:node id="W0201" label="Destiny of a Man"/>
+            <gexf:node id="W0202" label="White Silence"/>
+            <gexf:node id="W0203" label="Records of the Grand Historian"/>
+            <gexf:node id="W0204" label="An Letter to Ren An"/>
+            <gexf:node id="W0205" label="Feng Qiu Huang"/>
+            <gexf:node id="W0206" label="Zizhi Tongjian"/>
+            <gexf:node id="W0207" label="The Living and the Dead"/>
+            <gexf:node id="W0208" label="Der Untergang des Abendlandes"/>
+            <gexf:node id="W0209"
+                       label="History of the All-Union Communist Party (Bolsheviks) &#xA;    "/>
+            <gexf:node id="W0210" label="Human Blood Is Not Water"/>
+            <gexf:node id="W0211" label="The Red and the Black"/>
+            <gexf:node id="W0212" label="The Stalin Era"/>
+            <gexf:node id="W0213" label="Liuhoulun"/>
+            <gexf:node id="W0215" label="Selected Speeches and Writings"/>
+            <gexf:node id="W0216" label="Kampanelly"/>
+            <gexf:node id="W0217" label="Liberté"/>
+            <gexf:node id="W0218"
+                       label="Der Ursprung der Familie, des Privateigenthums und des Staats"/>
+            <gexf:node id="W0219" label="Stories Old and New"/>
+            <gexf:node id="W0220" label="三言二拍"/>
+            <gexf:node id="W0221" label="Canma"/>
+            <gexf:node id="W0222" label="Chengdu Overview"/>
+            <gexf:node id="W0223" label="Yuanhui"/>
+            <gexf:node id="W0224" label="Ancient Chinese Social History"/>
+            <gexf:node id="W0225" label="Yuanjun"/>
+            <gexf:node id="W0226" label="History of Ancient Chinese Ideology"/>
+            <gexf:node id="W0227" label="History of Chinese Modern Ideology"/>
+            <gexf:node id="W0228" label="General history of Chinese Ideology"/>
+            <gexf:node id="W0229" label="Barefoot doctor handbook"/>
+            <gexf:node id="W0230" label="1793"/>
+            <gexf:node id="W0231" label="The Role of the Individual in History"/>
+            <gexf:node id="W0232" label="历史唯物论"/>
+            <gexf:node id="W0233" label="The Dialogues of Plato"/>
+            <gexf:node id="W0234" label="Rainy Dawn &#xA;    "/>
+            <gexf:node id="W0235" label="The Golden Rose"/>
+            <gexf:node id="W0236" label="Doctor Zhivago"/>
+            <gexf:node id="W0237" label="Early Dawn &#xA;    "/>
+            <gexf:node id="W0238" label="Khrushchev Remembers"/>
+            <gexf:node id="W0239" label="Lei Feng Diary"/>
+            <gexf:node id="W0240" label="Ripple on Stagnant Water"/>
+            <gexf:node id="W0241" label="When the Sunset Disappears"/>
+            <gexf:node id="W0242" label="鲁迅文集·杂文集·华盖集"/>
+            <gexf:node id="W0243" label="Great Wall"/>
+            <gexf:node id="W0245" label="In Memory of Miss Liu Hezhen"/>
+            <gexf:node id="W0246" label="Red Crag"/>
+            <gexf:node id="W0247" label="Look Back in Anger"/>
+            <gexf:node id="W0248" label="Who is Happy in Russia?"/>
+            <gexf:node id="W0249" label="Road to Life"/>
+            <gexf:node id="W0250" label="Reply to Comrade Guo Moruo"/>
+            <gexf:node id="W0252" label="The Three Articles"/>
+            <gexf:node id="W0253" label="The Luoshan Pass"/>
+            <gexf:node id="W0254" label="Swimming"/>
+            <gexf:node id="W0255" label="Selected Works of Mao Zedong"/>
+            <gexf:node id="W0256" label="Talks at the Yenan Forum on Literature and Art"/>
+            <gexf:node id="W0257" label="One Dimensional Man"/>
+            <gexf:node id="W0258" label="Das Kapital"/>
+            <gexf:node id="W0259" label="Kritik des Gothaer Programms"/>
+            <gexf:node id="W0260"
+                       label="Ökonomisch-philosophischen Manuskripte aus dem Jahre 1844"/>
+            <gexf:node id="W0261" label="La Révolution Française"/>
+            <gexf:node id="W0262" label="Karl Marx &#xA;    "/>
+            <gexf:node id="W0263" label="Histoire de France"/>
+            <gexf:node id="W0264" label="Gone With the Wind"/>
+            <gexf:node id="W0265" label="De l‘Esprit de Lois"/>
+            <gexf:node id="W0266" label="Hundred Flowers in Full Bloom"/>
+            <gexf:node id="W0267" label="The Fourth Height"/>
+            <gexf:node id="W0268" label="A Doll's House"/>
+            <gexf:node id="W0269" label="One Day in the Life of Ivan Denisovich"/>
+            <gexf:node id="W0270" label="A Pair of Embroidered Shoes"/>
+            <gexf:node id="W0271" label="The Heat of a Young Girl"/>
+            <gexf:node id="W0272" label="Manna's Memories"/>
+            <gexf:node id="W0273" label="The Plum Blossom Party"/>
+            <gexf:node id="W0275" label="A Rainy Alley"/>
+            <gexf:node id="W0276" label="World Affairs"/>
+            <gexf:node id="W0277" label="The Time When the Hibiscus Blooms"/>
+            <gexf:node id="W0278" label="Classmate"/>
+            <gexf:node id="W0279" label="China provincial atlas"/>
+            <gexf:node id="W0280" label="A Manual on Reading Newspapers"/>
+            <gexf:node id="W0281" label="Reference News"/>
+            <gexf:node id="W0282" label="Traveller"/>
+            <gexf:node id="W0283" label="North Korea"/>
+            <gexf:node id="W0284" label="Translation of Selected Passages"/>
+            <gexf:node id="W0285" label="Critique and Study"/>
+            <gexf:node id="W0286" label="Morning Glow"/>
+            <gexf:node id="W0287"
+                       label="Soviet Domestic Capitalist Restoration Note (1953~1973)"/>
+            <gexf:node id="W0288" label="Stalinism"/>
+            <gexf:node id="W0289" label="Bible"/>
+            <gexf:node id="W0290" label="English-Chinese dictionary"/>
+            <gexf:node id="W0291" label="XXX"/>
+            <gexf:node id="W0292" label="Normal Human Anatomy"/>
+            <gexf:node id="W0293" label="Complete Tang Poems"/>
+            <gexf:node id="W0294" label="Let the Youth Shine"/>
+            <gexf:node id="W0295" label="Hundred Family Surnames"/>
+            <gexf:node id="W0296" label="Great Learning"/>
+            <gexf:node id="W0297" label="Book of Documents"/>
+            <gexf:node id="W0298" label="Twenty-Four Histories"/>
+            <gexf:node id="W0299" label="Empty Fort Strategy"/>
+            <gexf:node id="W0300" label="Movie Literature"/>
+            <gexf:node id="W0301" label="Collection of Poisonous grass"/>
+            <gexf:node id="W0302" label="Water Margin"/>
+            <gexf:node id="W0303" label="People's Literature"/>
+            <gexf:node id="W0304" label="Xiangjiang Literature"/>
+            <gexf:node id="W0305" label="Deng Xiaoping"/>
+            <gexf:node id="W0306" label="Moving out, lucky soup"/>
+            <gexf:node id="W0307" label="Military Book to Children and Brothers"/>
+            <gexf:node id="W0308" label="What shows the Tiananmen incident?"/>
+            <gexf:node id="W0309" label="Middle School Cultural Revolution"/>
+            <gexf:node id="W0310" label="XXX"/>
+            <gexf:node id="W0311" label="Commentary Collections of Thirteen Literatures"/>
+            <gexf:node id="W0312" label="Spark"/>
+            <gexf:node id="W0313" label="Principles of Analog Computer"/>
+            <gexf:node id="W0314" label="Beijing Review"/>
+            <gexf:node id="W0315" label="Essential English"/>
+            <gexf:node id="W0316" label="Encyclopedia Britannica"/>
+            <gexf:node id="W0317" label="French"/>
+            <gexf:node id="W0318"
+                       label="To seek truth from Facts, to rectify whatever is wrong"/>
+            <gexf:node id="W0319" label="The Complete Works of Allan Poe"/>
+            <gexf:node id="W0320" label="Shi"/>
+            <gexf:node id="W0321" label="Template of Chunhua Pavilion"/>
+            <gexf:node id="W0322" label="Generalization of archaeology"/>
+            <gexf:node id="W0323" label="Foreign film"/>
+            <gexf:node id="W0324" label="Three Hundred Tang Poems"/>
+            <gexf:node id="W0325" label="World Literature"/>
+            <gexf:node id="W0326" label="Foreign Literature Studies"/>
+            <gexf:node id="W0327" label="XXX"/>
+            <gexf:node id="W0328" label="Literature and History Data Selection"/>
+            <gexf:node id="W0329" label="Oriental Magazine"/>
+            <gexf:node id="W0330" label="Today"/>
+            <gexf:node id="W0331" label="Andersen's Fairy Tales"/>
+            <gexf:node id="W0332" label="Selected Works of Marx and Engels"/>
+            <gexf:node id="W0333" label="Going to School"/>
+            <gexf:node id="W0334" label="Erospace Knowledge"/>
+            <gexf:node id="W0335" label="Knowledge is Power"/>
+            <gexf:node id="W0336" label="Art"/>
+            <gexf:node id="W0337" label="China Pictorial"/>
+            <gexf:node id="W0338" label="People's Liberation Army Pictorial"/>
+            <gexf:node id="W0339" label="Guangming Daily"/>
+            <gexf:node id="W0340" label="Rotten Mountain Flower"/>
+            <gexf:node id="W0341" label="People's Liberation Army Literature and Art"/>
+            <gexf:node id="W0342" label="Beijing Daily"/>
+            <gexf:node id="W0343" label="Climb up"/>
+            <gexf:node id="W0344" label="Van Gogh"/>
+            <gexf:node id="W0345" label="Michelangelo"/>
+            <gexf:node id="W0346" label="Red Epaulette"/>
+            <gexf:node id="W0347" label="Turn Around in Anger"/>
+            <gexf:node id="W0348" label="English Textbook"/>
+            <gexf:node id="W0349" label="Carry the Revolution Through to the End"/>
+            <gexf:node id="W0350" label="Ancient Chinese"/>
+            <gexf:node id="W0351" label="Raise the Eyebrows and Pull the Sword Out"/>
+            <gexf:node id="W0352" label="Wang Shikuo’s Sketch Collection"/>
+            <gexf:node id="W0353" label="Green Monster"/>
+            <gexf:node id="W0354" label="Guwen Guanzhi"/>
+            <gexf:node id="W0355" label="Rulin Waishi"/>
+            <gexf:node id="W0356" label="Trouble shooting and repair of radio equipment"/>
+            <gexf:node id="W0357" label="Revolutionary Martyrs Poetry"/>
+            <gexf:node id="W0358" label="The Red Flag Fluttering"/>
+            <gexf:node id="W0359" label="Jiaxuan Poems"/>
+            <gexf:node id="W0360"
+                       label="On the Study of Political Economy in Socialist Period"/>
+            <gexf:node id="W0361" label="Goldbach's Conjecture"/>
+            <gexf:node id="W0362" label="Under the Qilian Mountains"/>
+            <gexf:node id="W0363" label="Einstein Collection"/>
+            <gexf:node id="W0364" label="Evolution and Ethics"/>
+            <gexf:node id="W0365" label="The Poor"/>
+            <gexf:node id="W0366" label="Mountain Township and Blood Fire"/>
+            <gexf:node id="W0367" label="Song of Youth"/>
+            <gexf:node id="W0368" label="Internal Medicine"/>
+            <gexf:node id="W0369" label="Family Background Theory"/>
+            <gexf:node id="W0370" label="A Little Star Next to the Moon"/>
+            <gexf:node id="W0371" label="Baiyangdian"/>
+            <gexf:node id="W0372" label="Bridge over the Abyss"/>
+            <gexf:node id="W0373" label="Type of laughter"/>
+            <gexf:node id="W0374" label="My Memories"/>
+            <gexf:node id="W0375" label="Our Monument"/>
+            <gexf:node id="W0376" label="The Boundary"/>
+            <gexf:node id="W0377" label="The Scar"/>
+            <gexf:node id="W0378" label="Pour Vivre ici"/>
+            <gexf:node id="W0379" label="辞源"/>
+            <gexf:node id="W0380" label="唐宋名家词选"/>
+            <gexf:node id="W0381" label="The Song of Ouyang Hai"/>
+            <gexf:node id="W0382" label="Yulin Bell"/>
+            <gexf:node id="W0383" label="苏联是社会主义国家吗"/>
+            <gexf:node id="W0384" label="战国策"/>
+            <gexf:node id="W0385" label="Whither Guangdong?"/>
+            <gexf:node id="W0386" label="Steel Meets Fire"/>
+            <gexf:node id="W0387" label="Classical Theory of Fields"/>
+            <gexf:node id="W0388" label="The Sunny Day"/>
+            <gexf:node id="W0389" label="Fortress Besieged"/>
+            <gexf:node id="W0390" label="The Golden Road"/>
+            <gexf:node id="W0391" label="Tracks in The Snowy Forest"/>
+            <gexf:node id="W0392" label="Struggles in an Ancient City"/>
+            <gexf:node id="W0393" label="Li Sao"/>
+            <gexf:node id="W0394" label="三峡"/>
+            <gexf:node id="W0395" label="Journey to The Land of Hunger"/>
+            <gexf:node id="W0396" label="毛泽东的青年时代"/>
+            <gexf:node id="W0397" label="Impressions of The Red Capital"/>
+            <gexf:node id="W0398" label="Сказание о директоре Прончатове"/>
+            <gexf:node id="W0400" label="钗头凤"/>
+            <gexf:node id="W0401" label="Book on Xinjiang"/>
+            <gexf:node id="W0402" label="毛主席语录"/>
+            <gexf:node id="W0403" label="Farewell Leighton Stuart"/>
+            <gexf:node id="W0404" label="敦促杜聿明等投降书"/>
+            <gexf:node id="W0405" label="毛泽东选集第四卷"/>
+            <gexf:node id="W0406" label="Chinese Historical Anthology"/>
+            <gexf:node id="W0407" label="The Hurricane"/>
+            <gexf:node id="W0408" label="The Aesthetic History of West"/>
+            <gexf:node id="W0409" label="Le Cygne"/>
+            <gexf:node id="W0410" label="Wandering in Absolute Freedom"/>
+            <gexf:node id="W0411" label="Autumn Floods"/>
+            <gexf:node id="W0412" label="Zuo Zhuan &#xA;    "/>
+            <gexf:node id="W0413" label="The Third Way &#xA;    "/>
+            <gexf:node id="W0414" label="unknown &#xA;    "/>
+            <gexf:node id="W0415" label="少年英雄巴甫里克"/>
+            <gexf:node id="W0416" label="Pushkin poetry"/>
+            <gexf:node id="W0417" label="On Richard Nixon"/>
+            <gexf:node id="W0429" label="The Literary Inquisition of ‘The Second Handshake’"/>
+            <gexf:node id="W0511" label="A Single Tear &#xA;    "/>
+            <gexf:node id="W0513" label="Thirty Years in a Red House &#xA;    "/>
+            <gexf:node id="W0530" label="The Girl of the Mountains (Kenga e naftes)"/>
+            <gexf:node id="W0531" label="City Lights"/>
+            <gexf:node id="W0532" label="The Gold Rush"/>
+            <gexf:node id="W0533" label="Monsieur Verdoux"/>
+            <gexf:node id="W0534" label="Swan Lake"/>
+            <gexf:node id="W0535" label="Butterfly Lovers‘ Violin Concerto"/>
+            <gexf:node id="W0536" label="The Legend of the Red Lantern"/>
+            <gexf:node id="W0537" label="The Internationale"/>
+            <gexf:node id="W0539" label="Inauguration of the State"/>
+            <gexf:node id="W0540" label="My home"/>
+            <gexf:node id="W0541" label="New World Symphony"/>
+            <gexf:node id="W0542" label="Rome 11 o'clock"/>
+            <gexf:node id="W0543" label="Zigeunerweisen"/>
+            <gexf:node id="W0544" label="Manhunt"/>
+            <gexf:node id="W0545" label="北国江南"/>
+            <gexf:node id="W0546" label="Lenin in October"/>
+            <gexf:node id="W0547" label="Lenin in 1918"/>
+            <gexf:node id="W0548" label="The Tramp"/>
+            <gexf:node id="W0549" label="Ol‘Man River"/>
+            <gexf:node id="W0550" label="The Sparkling Red Star"/>
+            <gexf:node id="W0551" label="The Shade of the Willow"/>
+            <gexf:node id="W0552" label="Symphony No. 5"/>
+            <gexf:node id="W0553" label="Symphony No. 9"/>
+            <gexf:node id="W0554" label="unknown"/>
+            <gexf:node id="W0555" label="Auld Lang Syne"/>
+            <gexf:node id="W0556" label="Les Chaises"/>
+            <gexf:node id="W0557" label="Sun Hided Behind Mountain"/>
+            <gexf:node id="W0558" label="The Deep Sea"/>
+            <gexf:node id="W0559" label="Wave of anger"/>
+            <gexf:node id="W0560" label="Red Guards on Honghu Lake"/>
+            <gexf:node id="W0561" label="Climbing the Taofeng Mountain Three Times"/>
+            <gexf:node id="W0562" label="National Anthem of China"/>
+            <gexf:node id="W0563" label="The Internationale"/>
+            <gexf:node id="W0564" label="A Song without Words"/>
+            <gexf:node id="W0566" label="Come to the Sea"/>
+            <gexf:node id="W0567" label="Stele of Zhang Qian"/>
+            <gexf:node id="W0568" label="Londonderry Air"/>
+            <gexf:node id="W0569" label="Model Mountain Township"/>
+            <gexf:node id="W0570" label="Dujuan Mountain"/>
+            <gexf:node id="W0571" label="Ode to the Yimeng Mountains"/>
+            <gexf:node id="W0572" label="Serf’s Halberd"/>
+            <gexf:node id="W0574" label="The White Haired Girl"/>
+            <gexf:node id="W0575" label="The Yellow River"/>
+            <gexf:node id="W0576" label="Blue Street Light"/>
+            <gexf:node id="W0577" label="Dream Garden"/>
+            <gexf:node id="W0578" label="Night Star"/>
+            <gexf:node id="W0579" label="Tangbula"/>
+            <gexf:node id="W0580" label="Bitter Coffee"/>
+            <gexf:node id="W0581" label="Waterloo Bridge"/>
+            <gexf:node id="W0582" label="Farewell"/>
+            <gexf:node id="W0583" label="Eine kleine Nachtmusik"/>
+            <gexf:node id="W0584" label="Battleship Potemkin"/>
+            <gexf:node id="W0585" label="The Forty-First"/>
+            <gexf:node id="W0586" label="Bicycle Thieves"/>
+            <gexf:node id="W0587" label="Accattone"/>
+            <gexf:node id="W0588" label="Last Year at Marienbad"/>
+            <gexf:node id="W0589" label="Admiral Yamamoto"/>
+            <gexf:node id="W0590" label="Ah, navy"/>
+            <gexf:node id="W0591" label="Tora! Tora! Tora!"/>
+            <gexf:node id="W0592" label="Battle of the Japan Sea"/>
+            <gexf:node id="W0593" label="Explosion"/>
+            <gexf:node id="W0594"
+                       label="Three Rules of Discipline and Eight Points for Attention"/>
+            <gexf:node id="W0595" label="On the Docks"/>
+            <gexf:node id="W0596" label="Narrow Street"/>
+            <gexf:node id="W0597" label="The Red Guards on the grassland saw Chairman Mao"/>
+            <gexf:node id="W0598" label="Yanbian people love Chairman Mao"/>
+            <gexf:node id="W0599" label="Red Detachment of Women"/>
+            <gexf:node id="W0600" label="Red Detachment of Women"/>
+            <gexf:node id="W0601" label="Troika"/>
+            <gexf:node id="W0602" label="Siganushka"/>
+            <gexf:node id="W0603" label="River Water"/>
+            <gexf:node id="W0604" label="Boarding the Jinggangshan Again"/>
+            <gexf:node id="W0605" label="Chairman Mao’s Brilliance Illuminates the Stove"/>
+            <gexf:node id="W0606" label="Ural Rowan Tree"/>
+            <gexf:node id="W0607" label="Chairman Mao Traveled Across the Motherland"/>
+            <gexf:node id="W0608" label="Roars and groans the Dnipro"/>
+            <gexf:node id="W0609" label="Cao Quan’s Stele"/>
+            <gexf:node id="W0610" label="North Sea sketch"/>
+            <gexf:node id="W0611" label="A Soldier's Experience"/>
+            <gexf:node id="W0612" label="The Ghost Goes West"/>
+            <gexf:node id="W0613" label="The Spessart Inn"/>
+            <gexf:node id="W0614" label="Roses for the Prosecutor"/>
+            <gexf:node id="W0615" label="The Haunted Castle"/>
+            <gexf:node id="W0616" label="Army of Shadows"/>
+            <gexf:node id="W0617" label="The Red and the Black"/>
+            <gexf:node id="W0618" label="Nights of Cabiria"/>
+            <gexf:node id="W0619" label="Traumrevue"/>
+            <gexf:node id="W0620" label="Mona Lisa"/>
+            <gexf:node id="W0621" label="The Moon Represents my Heart"/>
+            <gexf:node id="W0622" label="空山鸟语"/>
+            <gexf:node id="W0623" label="毛主席去安源"/>
+            <gexf:node id="W0624" label="决裂"/>
+            <gexf:node id="W0625" label="Tormented by Grievous Bondage"/>
+            <gexf:node id="W0626" label="Tunnel War"/>
+            <gexf:node id="W0627" label="Double Marriage"/>
+            <gexf:node id="W0628" label="Long March Chorus"/>
+            <gexf:node id="W0629" label="February"/>
+            <gexf:node id="W0630" label="The Peach Blossom Fan"/>
+            <gexf:node id="W0631" label="When Will You Return?"/>
+            <gexf:node id="W0632" label="Chaoyang Village"/>
+            <gexf:node id="W0633" label="Where is China going?"/>
+            <gexf:node id="W0634" label="Road Test"/>
+            <gexf:node id="W0635" label="Business Startup"/>
+            <gexf:node id="W0636" label="Railway Ruerrilla"/>
+            <gexf:node id="W0637" label="Sorrows of the Forbidden City"/>
+            <gexf:node id="W0638" label="Two Hundred Famous Foreign Songs"/>
+            <gexf:node id="W0639" label="Vltava"/>
         </gexf:nodes>
         <gexf:edges>
             <gexf:edge id="1-1" source="AG0002" target="W0015"/>
