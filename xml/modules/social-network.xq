@@ -1,8 +1,12 @@
 xquery version "3.1";
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
+declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace gexf = "http://www.gexf.net/1.3";
 declare namespace viz = "http://www.gexf.net/1.3/viz";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
+declare option output:omit-xml-declaration "yes";
 
 (:~ Library to produce directed graphs from ReadAct prosopography.
  : TODO generate proper vega/d3 json from gexf
@@ -16,13 +20,38 @@ declare variable $reading-acts := $readact-tei//tei:relation[@type = "reading-ac
 
 (:~
  : take gexf graph representation and return JSON for display via vega,
- : whcih uses D3 force layout under the hood. 
+ : which uses D3 force layout under the hood. 
+ : @param graph gexf formated graph
  :
- : @return
+ : @return json representation of graph
  :)
-declare function local:gexf-to-json() as map(*) {
-    map {'nodes': 1 + 1
-    }
+declare function local:gexf-to-vega($graph as node()) {
+    let $g :=
+    <map xmlns="http://www.w3.org/2005/xpath-functions">
+        <array key="nodes">
+            {
+                for $n in $graph//gexf:node
+                return
+                    <map>
+                        <string key="id">{data($n/@id)}</string>
+                        <string key="label">{data($n/@label)}</string>
+                    </map>
+            }
+        </array>
+        <array key="links">
+            {
+                for $e in $graph//gexf:edge
+                return
+                    <map>
+                        <string key="source">{data($e/@source)}</string>
+                        <string key="target">{data($e/@target)}</string>
+                        <number key="value">1</number>
+                    </map>
+            }
+        </array>
+    </map>
+    return
+        xml-to-json($g)
 };
 
 
@@ -83,24 +112,29 @@ declare function local:get-edges-raw($nodes as item()*, $data as item()*) as ele
  : @param desc description for gexf:meta field
  :
  : TODO calculate edge weights, (dedupe edges)
+ : TODO try-catch for edges without nodes
  :
- : @return gexf element to stored to disk
+ : @return gexf element to be stored to disk
  :)
 declare function local:gexf-graph($data as item()*, $creator as xs:string, $desc as xs:string) as element(gexf:gexf) {
     <gexf:gexf>
         <gexf:meta lastmodifieddate="{current-dateTime()}">
-        <gexf:creator>{$creator}</gexf:creator>
-        <gexf:description>{$desc}</gexf:description>
+            <gexf:creator>{$creator}</gexf:creator>
+            <gexf:description>{$desc}</gexf:description>
         </gexf:meta>
         <gexf:graph>
-            {local:get-nodes($data),
-            local:get-edges-raw(local:get-nodes($data)//@id, $data)}
+            {
+                local:get-nodes($data),
+                local:get-edges-raw(local:get-nodes($data)//@id, $data)
+            }
             <gexf:edges></gexf:edges>
         </gexf:graph>
     </gexf:gexf>
 };
 
-local:gexf-graph($reading-acts, 'ReadAct', '')
+local:gexf-to-vega(local:gexf-graph($reading-acts, 'ReadAct', ''))
+
+(:local:gexf-graph($reading-acts, 'ReadAct', ''):)
 
 (:local:get-edges-raw(local:get-nodes($reading-acts)//@id, $reading-acts):)
 
