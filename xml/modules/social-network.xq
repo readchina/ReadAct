@@ -1,8 +1,8 @@
 xquery version "3.1";
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
-declare namespace gexf = "http://www.gexf.net/1.3";
-declare namespace viz = "http://www.gexf.net/1.3/viz";
+declare namespace gexf = "http://www.gexf.net/1.2draft";
+declare namespace viz = "http://www.gexf.net/1.2draft/viz";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
@@ -15,56 +15,10 @@ declare option output:omit-xml-declaration "yes";
  :
  : @author Duncan Paterson
  : @version 1.1.0-BETA
- : @return either json or xml graph data  for visualization via vega or gephi respectively
+ : @return xml graph data in gexf for use with gephi or further processing
  :)
 declare variable $readact-tei := doc('../tei_header.xml');
 declare variable $reading-acts := $readact-tei//tei:relation[@type = "reading-act"];
-
-(:~
- : take gexf graph representation and return JSON for display via vega,
- : which uses D3 force layout under the hood. However, it insists on json index as node identity 
- : for constructing edges whcih is a pain, and needs to bexml  count or position -1.
- : @see 
- : @see https://raw.githubusercontent.com/vega/vega/master/docs/data/miserables.json
- : @param graph gexf formated graph
- :
- : TODO weight is not yet parsed or generated
- : @return json representation of graph
- :)
-declare function local:gexf-to-vega($graph as node()) {
-    let $g :=
-    <map xmlns="http://www.w3.org/2005/xpath-functions">
-        <array key="nodes">
-            {
-                for $n at $count in $graph//gexf:node
-                return
-                    <map>
-                        <string key="id">{data($n/@id)}</string>
-                        <string key="name">{replace(data($n/@label), ' ', '_')}</string>
-                        <number key="index">{$count -1 }</number>
-                        <number key="group">{if (starts-with(data($n/@id), 'AG')) then (1) else(2)}</number>
-                    </map>
-            }
-        </array>
-        <array key="links">
-            {
-                for $e at $count in $graph//gexf:edge
-                let $i1 := index-of($graph//gexf:node/@id, data($e/@source))
-                let $i2 := index-of($graph//gexf:node/@id, data($e/@target))
-                return
-                    <map>
-                        <number key="source">{$i1 -1}</number>
-                        <number key="target">{$i2 -1}</number>
-                        <number key="value">1</number>
-                        <number key="index">{$count -1}</number>
-                    </map>
-            }
-        </array>
-    </map>
-    return
-        xml-to-json($g)
-};
-
 
 (:~ Filter id string expects either id or idref column of the original csv transformed into tei.
  : @param $entity the sequence of ids to be  filtered
@@ -83,7 +37,7 @@ declare function local:filter-idref($entity as xs:string*) {
  : @param ref the list of ids to be processed
  :
  : TODO enable xml:lang selection
- : @return the human readable name (Latn) for a given id 
+ : @return the human readable name (Latn) for a given id
  :)
 declare function local:lookup-id($ref as xs:string*) {
     let $entity := $readact-tei/id($ref)
@@ -148,7 +102,7 @@ declare function local:get-edges-raw($nodes as item()*, $data as item()*) as ele
                 order by $e
             return
                 <gexf:edge id="{$count-a || '-' || $count-b}" source="{$e}" target="{local:filter-idref($t/@ref)}"/>
-        
+
         }
     </gexf:edges>
 };
@@ -164,27 +118,18 @@ declare function local:get-edges-raw($nodes as item()*, $data as item()*) as ele
  : @return gexf element to be stored to disk
  :)
 declare function local:gexf-graph($data as item()*, $creator as xs:string, $desc as xs:string) as element(gexf:gexf) {
-    <gexf:gexf>
-        <gexf:meta lastmodifieddate="{current-dateTime()}">
+    <gexf:gexf version="1.2">
+        <gexf:meta lastmodifieddate="{current-date()}">
             <gexf:creator>{$creator}</gexf:creator>
             <gexf:description>{$desc}</gexf:description>
         </gexf:meta>
-        <gexf:graph>
+        <gexf:graph mode="static" defaultedgetype="directed">
             {
                 local:get-nodes($data),
                 local:get-edges-raw(local:get-nodes($data)//@id, $data)
             }
-            <gexf:edges></gexf:edges>
         </gexf:graph>
     </gexf:gexf>
 };
 
-local:gexf-to-vega(local:gexf-graph($reading-acts, 'ReadAct', ''))
-
-(:local:gexf-graph($reading-acts, 'ReadAct', 'Bipartite graph of reading act edges, connecting agent and work nodes'):)
-
-(:local:get-edges-raw(local:get-nodes($reading-acts)//@id, $reading-acts):)
-
-(:local:get-nodes($reading-acts):)
-
-(:data($reading-acts[@active = '#AG0002']/@ref):)
+local:gexf-graph($reading-acts, 'ReadAct', 'Bipartite graph of reading act edges, connecting agent and work nodes')
