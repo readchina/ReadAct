@@ -9,7 +9,9 @@ setup_git() {
 commit_files() {
   git checkout master
   git add ./csv/views/ *.csv
+  git add ./csv/views/ *.json
   git add ./xml/ *.xml
+  git add ./xml/ *.gexf
   git commit --message "[skip ci] Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
