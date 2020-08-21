@@ -18,13 +18,15 @@ addons:
 
 jobs:
   include:
-    - stage: "Tests"
+    - stage: test
       name: "Unit Tests"
+      after_success: skip
     - stage: deploy
-      name: "Push generated to GH"
+      name: "Push Generated Files to Master"
       if: branch = master
+      install: skip
       script: skip
-      after_success:
+      after_script:
         - ./push.sh
 
 notifications:
@@ -41,17 +43,22 @@ before_script:
   - basex xml/modules/tei-person.xq > xml/listPerson.xml
   - basex xml/modules/tei-place.xq > xml/listPlace.xml
   - basex xml/modules/tei-relation.xq > xml/listRelation.xml
-  # handle xincludes
-  - xmllint --output xml/expand.xml --xinclude xml/tei_header.xml
+  - basex xml/modules/social-network.xq > xml/rActs.gexf
+  # expand xincludes
+  - xmllint --output xml/expand/expand.xml --xinclude xml/tei_header.xml
+
+# Checks
+script:
+  - goodtables validate csv/datapackage.json
+  # - bats --tap test/*.bats
+  - jing xml/schema/tei_all.rng xml/expand/expand.xml
+  - jing xml/schema/gexf.rng xml/rActs.gexf
+
+after_success:
   # Generate view tables
   - textql -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'" csv/data/
   - textql -output-header -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.title_lang = a.id_lang and a.act_object!='W0554'" csv/data/
   - textql -output-header -output-file csv/views/view02_creator-matrix.csv -header -sql "select distinct a.act_id, a.act_object, w.creator, (select distinct ps.title from PrimarySource ps where a.act_object = ps.prim_source_id) as title, (select distinct coalesce(p.family_name, '') || ' ' || coalesce(p.first_name, '') from Person p where w.creator = p.person_id) as name from Act a, Work w inner join Work on a.act_object = w.work_id where a.act_object!='W0414'" csv/data/
   - textql -output-header -output-file csv/views/view03a_reader-author-nodes.csv -header -sql "select distinct a.agent_id as node_id from Agent a" csv/data/
   - textql -output-header -output-file csv/views/view03b_reader-author-edges.csv -header -sql "select distinct a.act_id, a.agent as source, w.creator as target from Act a, Work w inner join Work on a.act_object = w.work_id" csv/data/
-
-# Checks
-script:
-  - goodtables validate csv/datapackage.json
-  # - bats --tap test/*.bats
-  - jing xml/tei_all.rng xml/expand.xml
+  - basex xml/modules/rAct-vega.xq > csv/views/view04a_rActs.json
