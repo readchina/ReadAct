@@ -1,5 +1,5 @@
 <gexf:gexf xmlns:gexf="http://www.gexf.net/1.2draft" version="1.2">
-  <gexf:meta lastmodifieddate="2020-09-04Z">
+  <gexf:meta lastmodifieddate="2020-09-11Z">
     <gexf:creator>ReadAct</gexf:creator>
     <gexf:description>Bipartite graph of reading act edges, connecting agent and work nodes</gexf:description>
   </gexf:meta>
