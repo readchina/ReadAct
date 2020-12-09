@@ -1,33 +1,33 @@
 act_id,agent,action,act_object,act_target,start,end,site_information,discussion,source,page,commentary,note,id_lang,created,created_by,last_modified,last_modified_by
-A00001,AG0062,AT01,W0002,,1973,1973,,A student was criticized while reading this American textbook in public. The author takes this book as an example of how volatile the attitude towards studying English was even/especially (?) at the East China Normal University’s Foreign Languages Department in 1973. She also states that it was forbidden to listen to foreign broadcasting stations or to foreigners in general. So the only way listening to English was the  single official radio station broadcasting in English.,W0418,196f,,,en,2017-07-12,OS,2020-04-04,DP
-A00002,AG0103,AT01,W0003,,1972,1976,,mentions it among others as an important reading for him and his zhiqing fellows,W0421,581,,,en,2017-07-12,OS,2020-04-04,DP
-A00003,AG0017,AT01,W0414,,1968,1978,,mentions it among others as an important reading for the whole development in the field of literature after 1978,W0422,219,unknown work by: AG0076 G10,,en,2017-07-12,OS,2020-04-04,DP
+A00001,AG0062,AT01,W0002,,1973,1973,,A student was criticized while reading this American textbook in public. The author takes this book as an example of how volatile the attitude towards studying English was even/especially (?) at the East China Normal University’s Foreign Languages Department in 1973. She also states that it was forbidden to listen to foreign broadcasting stations or to foreigners in general. So the only way listening to English was the  single official radio station broadcasting in English.,W0418,196f,,not sure whether the reading took place in SP0011 (see discussion),en,2017-07-12,OS,2020-12-09,MG
+A00002,AG0103,AT01,W0003,,1972,1976,SP0055,mentions it among others as an important reading for him and his zhiqing fellows,W0421,581,,,en,2017-07-12,OS,2020-12-09,MG
+A00003,AG0017,AT01,W0414,,1968,1978,SP0011,mentions it among others as an important reading for the whole development in the field of literature after 1978,W0422,219,unknown work by: AG0076 G10,,en,2017-07-12,OS,2020-12-09,MG
 A00004,AG0105,AT01,W0004,,1972,1975,,Xu Xiao read Ticket to the Stars and was very much influenced by it,W0424,381,,,en,2017-07-12,OS,2020-04-04,DP
 A00005,AG0014,AT02,W0004,AG0105,1972,1975,,Zhao Yifan copied Ticket to the Stars and handed it to Xu Xiao,W0424,381,,,en,2017-07-12,OS,2020-04-04,DP
-A00006,AG0106,AT04,W0005,,1969,1969,,Shu Ting wants to go to Gorkys Universities during her rustication,W0425,300,,,en,2017-07-19,LH,2020-04-04,DP
+A00006,AG0106,AT04,W0005,,1969,1969,SP0436,Shu Ting wants to go to Gorkys Universities during her rustication,W0425,300,,,en,2017-07-19,LH,2020-12-09,MG
 A00007,AG0020,AT04,W0005,,1966,1976,,Gao Hua mentions that during the turmoil years of CR  as a son of heiwulei (five black categories) he was  living at the bottom of the society.  He received supercilious looks and was discriminated against. During these hard times My Apprenticeship and My Universities by Gorky became his spiritual guides.,W0420,133,,,en,2017-07-19,LH,2020-04-04,DP
 A00008,AG0009,AT01,W0007,,1966,19XX,,They started reading neibu books before rustication time already. Kafkas Trial was among the most influential neibu books for Bei Dao,W0423,80,,,en,2017-07-19,OS,2020-04-04,DP
 A00009,AG0014,AT03,W0009,AG0105,1966,1970?,,Zhao Yifan gave the book as a shouchaoben to Xu Xiao,W0424,381,,,en,2017-07-25,MG,2020-04-04,DP
 A00010,AG0113,AT04,W0010,,1971,1971,,He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. To be or not to be and  not to surrender to the evilness and enemy became his motto.,W0426,ONLINE SOURCE,,,en,2017-07-27,LH,2020-04-04,DP
-A00011,AG0103,AT01,W0009,,1968,1974,,The author found the book left by two educated youth from other unit. So he hid in his dorm reading it for the reason of illness and starved all through.,W0419,574,,,en,2017-07-28,MG,2020-04-04,DP
-A00012,AG0115,AT01,W0009,,1968,1968,,The author read this banned book and thought Marxs works explains better than this one.,W0471,422,,,en,2017-07-28,MG,2020-04-04,DP
-A00013,AG0116,AT01,W0009,,1975,1975,,This book triggered up the authors understanding of literature. Intellectual  society and the era.,W0475,554,,,en,2017-07-28,MG,2020-04-04,DP
+A00011,AG0103,AT01,W0009,,1968,1974,SP0055,The author found the book left by two educated youth from other unit. So he hid in his dorm reading it for the reason of illness and starved all through.,W0419,574,,,en,2017-07-28,MG,2020-12-09,MG
+A00012,AG0115,AT01,W0009,,1968,1968,SP0156,The author read this banned book and thought Marxs works explains better than this one.,W0471,422,,,en,2017-07-28,MG,2020-12-09,MG
+A00013,AG0116,AT01,W0009,,1975,1975,,This book triggered up the authors understanding of literature. Intellectual society and the era.,W0475,554,,,en,2017-07-28,MG,2020-12-09,MG
 A00014,AG0014,AT03,W0009,AG0105,1966,19XX,,Xu Xiao received The New Class as a shouchaoben from Zhao Yifan,W0424,381,,,en,2017-07-25,MG,2020-04-04,DP
 A00015,AG0113,AT04,W0010,,1971,1971,,He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. To be or not to be and  not to surrender to the evilness and enemy became his motto.,W0426,ONLINE SOURCE,,,en,2017-07-27,LH,2020-04-04,DP
-A00016,AG0057,AT04,W0010,,19XX,19XX,,He came up with the idea of editing quotations of Lu Xun after reading Letters between two,W0427,ONLINE SOURCE,,,en,2017-07-27,LH,2020-04-04,DP
-A00017,AG0114,AT04,W0414,,19XX,19XX,,Lu Xun as his most important literary inspiration,W0429,79,unknown work by: AG0001,LENA,en,2017-08-01,LH,2020-04-04,DP
-A00018,AG0029,AT09,W0011,,1966,1969,,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.,W0428,121,,,en,2017-07-28,LH,2020-04-04,DP
+A00016,AG0057,AT04,W0010,,19XX,19XX,,He came up with the idea of editing quotations of Lu Xun after reading Letters between two,W0427,ONLINE SOURCE,,not sure whether the reading took place in SP0005 (see rustication),en,2017-07-27,LH,2020-12-09,MG
+A00017,AG0114,AT04,W0414,,19XX,19XX,,Lu Xun as his most important literary inspiration,W0429,79,unknown work by: AG0001,LENA; not sure whether the reading took place in SP0113 (see rustication),en,2017-08-01,LH,2020-12-09,MG
+A00018,AG0029,AT09,W0011,,1966,1969,SP0008,During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.,W0428,121,,,en,2017-07-28,LH,2020-12-09,MG
 A00019,AG0114,AT01,W0414,,1954,1956,,for the next two years he read many texts by Lu Xun especially his essays.,W0429,57,unknown work by: AG0001 G28,,en,2017-07-28,LH,2020-04-04,DP
-A00020,AG0114,AT10,W0067,,1967,1967,,in 1967 he compiled 鲁迅语录 not for publications but for his friends,W0429,21,,,en,2017-07-28,LH,2020-04-04,DP
+A00020,AG0114,AT10,W0067,,1967,1967,SP0113,in 1967 he compiled 鲁迅语录 not for publications but for his friends,W0429,21,,,en,2017-07-28,LH,2020-12-09,MG
 A00021,AG0103,AT01,W0414,,1967,1967,,Later the authors home was plundered as well and all of his collections were confiscated by the red guards.,W0419,569,unknown work by: AG0001 G28,,en,2017-07-28,LH,2020-04-04,DP
 A00022,AG0118,AT01,W0014,,1979,1979,,The author read the poem of Baudelaire (Le Balcon 露台／阳台) at this time when so many foreign poems appeared again in public.,W0476,533,,,en,2017-08-07,MG,2020-04-04,DP
 A00023,AG0118,AT01,W0013,,1984,1984,,The author visited Chen Jingrong in a morning of the summer in 1984.  She showed him a collection of her translations from the 1960s. These Poems were once published on World Literature and   had influenced Bei Dao and other poets at that time.,W0476,539,,,en,2017-08-08,MG,2020-04-04,DP
 A00024,AG0117,AT11,W0012,,1975,1980,,The author started to translate these works,W0430,454,,,en,2017-08-08,MG,2020-04-04,DP
-A00025,AG0103,AT01,W0012,,1968,1974,,The author remembered that there was a worker whose surname was Zhu. He wrote many poems and mentioned these poets very often,W0419,583,,,en,2017-08-08,MG,2020-04-04,DP
-A00026,AG0017,AT04,W0012,,19XX,19XX,,big influence,W0422,220,,,en,2017-08-11,MG,2020-04-04,DP
-A00027,AG0119,AT04,W0012,,1973,1973,,modernism such as Baudelaire influences the way he writes poetry,W0432,291,,,en,2017-08-11,MG,2020-04-04,DP
-A00028,AG0010,AT01,W0004,,1970..,1970..,,This popular book at the time brought a new spirit to Beijing youth in the early 1970s.,W0432,195,,,en,2017-08-20,MG,2020-04-04,DP
-A00029,AG0017,AT04,W0004,,1973~,1973~,,states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔,W0422,219,,,en,2017-08-20,MG,2020-04-04,DP
+A00025,AG0103,AT01,W0012,,1968,1974,SP0055,The author remembered that there was a worker whose surname was Zhu. He wrote many poems and mentioned these poets very often,W0419,583,,,en,2017-08-08,MG,2020-12-09,MG
+A00026,AG0017,AT04,W0012,,19XX,19XX,,big influence,W0422,220,,read during rustication?,en,2017-08-11,MG,2020-12-09,MG
+A00027,AG0119,AT04,W0012,,1973,1973,SP0025,modernism such as Baudelaire influences the way he writes poetry,W0432,291,,,en,2017-08-11,MG,2020-12-09,MG
+A00028,AG0010,AT01,W0004,,1970..,1970..,SP0025,This popular book at the time brought a new spirit to Beijing youth in the early 1970s.,W0432,195,,,en,2017-08-20,MG,2020-12-09,MG
+A00029,AG0017,AT04,W0004,,1973~,1973~,SP0011,states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔,W0422,219,,,en,2017-08-20,MG,2020-12-09,MG
 A00030,AG0002,AT01,W0015,,1962,1963,,Its about a man left his father and devoted himself in dangerous work. The reader said it is similar to his situation.,W0432,24,,,en,2017-08-20,MG,2020-04-04,DP
 A00031,AG0021,AT01,W0015,,19XX,19XX,,unknown,W0432,24,,,en,2017-08-20,MG,2020-04-04,DP
 A00032,AG0022,AT01,W0015,,1962,1963,,His favorite quote from the book is Either unknown or outstanding,W0432,24,,,en,2017-08-20,MG,2020-04-04,DP
@@ -35,23 +35,23 @@ A00033,AG0002,AT01,W0016,,1962,1963,,unknown,W0432,18,,,en,2017-08-20,MG,2020-04
 A00034,AG0003,AT01,W0017,,1960,1965?,,Channel of obtaining: the collection of writer 海默,W0432,38,,,en,2017-08-25,MG,2020-04-04,DP
 A00035,AG0116,AT01,W0018,,19XX,19XX,,Li Daxing had access to western works via his fathers friend Li Shu 黎澍,W0475,555,,,en,2017-08-25,MG,2020-04-04,DP
 A00036,AG0103,AT01,W0414,,1967,1967,,Later the authors home was plundered as well and all of his collections were confiscated by the red guards.,W0419,569f,unknown work by: AG0084,,en,2017-08-25,MG,2020-04-04,DP
-A00037,AG0020,AT01,W0019,,1966,1970?,,Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.,W0420,135,,,en,2017-08-26,MG,2020-04-04,DP
-A00038,AG0121,AT21,W0021,,1970,1970,,when XXX one is reminded of the quote by Bai Juyi,W0437,495,,,en,2017-08-27,MG,2020-04-04,DP
-A00039,AG0626,AT20,W0530,,1972,1972,,Xu Haoyuan mentions that this play was staged by fellow zhiqing,W0477,57,,,en,2017-08-27,MG,2020-04-04,DP
+A00037,AG0020,AT01,W0019,,1966,1970?,SP0003,Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.,W0420,135,,,en,2017-08-26,MG,2020-12-09,MG
+A00038,AG0121,AT21,W0021,,1970,1970,SP0075,when XXX one is reminded of the quote by Bai Juyi,W0437,495,,,en,2017-08-27,MG,2020-12-09,MG
+A00039,AG0626,AT20,W0530,,1972,1972,SP0137,Xu Haoyuan mentions that this play was staged by fellow zhiqing,W0477,57,,,en,2017-08-27,MG,2020-12-09,MG
 A00040,AG0122,AT04,W0554,,19XX,19XX,,The author and his friends knew about this painter from the Russian magazine 星火杂志.  They cherished this Romanian most.,W0478,353,unknown work by: AG0085 AF01,,en,2017-08-31,MG,2020-04-04,DP
 A00041,AG0123,AT01,W0554,,1970,1976,,During that time the music became popular again. Some pieces had survived through the early stage of the CR and they spread secretly among the people.,W0438,196,unknown work by: AG0087 AF05,,en,2017-08-31,MG,2020-04-04,DP
-A00042,AG0003,AT01,W0414,AG0628,1963,1964,,In the home of Jiang Dingyue 蔣定粵s anonymous friend,W0432,43,,,en,2017-08-31,MG,2020-04-04,DP
+A00042,AG0003,AT01,W0414,AG0628,1963,1964,,In the home of Jiang Dingyue 蔣定粵s anonymous friend,W0432,43,,should ‚at home‘ be a space?,en,2017-08-31,MG,2020-12-09,MG
 A00043,AG0029,AT01,W0414,AG0628,19XX,19XX,,Wu Hong mentions that the same crowd that listened to the Beatles and read yellow-covered books during the socialist education movement and before the eve of the CR was also infatuated with post-impressionist modern art (印象派之后的现代艺). Obtained from private channels.,W0428,119,,,en,2017-08-31,MG,2020-04-04,DP
 A00044,AG0125,AT23,W0552,,1978,1978,,was very impressed,W0479,74,,,en,2017-08-31,MG,2020-04-04,DP
-A00045,AG0040,AT11,W0022,,1969,1969,,He worked on the translation of the book and before 1969 9th National Congress his home got raided again. The hundreds pages of translation became cigarette paper and were burned.,W0433,ONLINE SOURCE,,,en,2017-09-06,CW,2020-04-04,DP
+A00045,AG0040,AT11,W0022,,1969,1969,,He worked on the translation of the book and before 1969 9th National Congress his home got raided again. The hundreds pages of translation became cigarette paper and were burned.,W0433,ONLINE SOURCE,,should ‚at home‘ be a space?,en,2017-09-06,CW,2020-12-09,MG
 A00046,AG0009,AT13,W0024,,1976,1976,,"After his younger sister had passed away, Bei Dao finished his novel Waves. He was so devastated, that he locked himself in and focused on reading and writing. ",W0480,311,,,en,2017-09-06,MG,2020-04-04,DP
-A00047,AG0118,AT02,W0025,,1979,1979,,Among other works they have copied The Answer by Bei Dao,W0476,537,,,en,2017-09-06,MG,2020-04-04,DP
+A00047,AG0118,AT02,W0025,,1979,1979,,Among other works they have copied The Answer by Bei Dao,W0476,537,,read during rustication?,en,2017-09-06,MG,2020-12-09,MG
 A00048,AG0018,AT01,W0026,,1975..1983,1975..1983,,Yan Li and a friend (Mao Tou) were discussing some poems by Bei Dao,W0480,312,Published in 1982 time of writing unkown.,Reframe with suitable ActType.,en,2017-09-06,MG,2020-04-04,DP
 A00049,AG0118,AT02,W0029,,1979,1979,,unknown,W0476,537,,,en,2017-09-08,MG,2020-04-04,DP
 A00050,AG0118,AT02,W0030,,1979,1979,,unknown,W0476,537,,,en,2017-09-08,MG,2020-04-04,DP
 A00051,AG0118,AT02,W0031,,1979,1979,,unknown,W0476,537,,,en,2017-09-13,MG,2020-04-04,DP
-A00052,AG0119,AT02,W0028,,1973,1973,,copied from Jiang He 江河,W0432,291,,,en,2017-09-13,MG,2020-04-04,DP
-A00053,AG0119,AT02,W0027,,1973,1973,,copied from Jiang He 江河,W0432,291,,,en,2017-09-13,MG,2020-04-04,DP
+A00052,AG0119,AT02,W0028,,1973,1973,SP0025,copied from Jiang He 江河,W0432,291,,,en,2017-09-13,MG,2020-12-09,MG
+A00053,AG0119,AT02,W0027,,1973,1973,SP0025,copied from Jiang He 江河,W0432,291,,,en,2017-09-13,MG,2020-12-09,MG
 A00054,AG0014,AT02,W0032,,1974~,1974~,,Xu Xiao copied and hid it,W0424,159-160,,,en,2017-09-15,MG,2020-04-04,DP
 A00055,AG0118,AT13,W0033,,1979,1979,,This is the first poem of the author,W0476,534,,,en,2017-09-20,MG,2020-04-04,DP
 A00056,AG0118,AT13,W0034,,1979,1979,,The author was deeply influenced by Sylvia Plath in the beginning of his work as a poet,W0476,536,,,en,2017-09-20,MG,2020-04-04,DP
@@ -61,7 +61,7 @@ A00060,AG0133,AT01,W0038,,1966,1976,,he wrote research of the Dream of the Red C
 A00061,AG0029,AT01,W0038,,19XX,19XX,,He read it before his university studies and mentions that this book was one of the most-beloved and widely-read among his book friends.,W0428,116-119,,,en,2017-09-22,MG,2020-04-04,DP
 A00062,AG0134,AT01,W0038,,19XX,19XX,,He wanted the book so badly and it was really hard to have one. But he finally got one from the brother of one of his classmates and read it secretly.,W0482,390,,,en,2017-09-22,MG,2020-04-04,DP
 A00063,AG0003,AT01,W0038,,1964,196X,,unknown,W0439,46,,,en,2017-09-22,MG,2020-04-04,DP
-A00064,AG0057,AT01,W0039,,1966,1967~,,after reading Li Dazhao and other foreign and Chinese classics he still found Lu Xun the best,W0427,ONLINE SOURCE,,,en,2017-09-24,CW,2020-04-04,DP
+A00064,AG0057,AT01,W0039,,1966,1967~,SP0005,after reading Li Dazhao and other foreign and Chinese classics he still found Lu Xun the best,W0427,ONLINE SOURCE,,,en,2017-09-24,CW,2020-12-09,MG
 A00065,AG0003,AT15,W0531,,1961,196X,,unknown,W0432,32,,,en,2017-09-27,MG,2020-04-04,DP
 A00066,AG0067,AT15,W0531,,1961,196X,,unknown,W0432,32,,,en,2017-09-27,MG,2020-04-04,DP
 A00067,AG0003,AT15,W0532,,1961,196X,,unknown,W0432,38,,,en,2017-09-27,MG,2020-04-04,DP
@@ -69,19 +69,19 @@ A00068,AG0067,AT15,W0532,,1961,196X,,unknown,W0432,38,,,en,2017-09-27,MG,2020-04
 A00069,AG0003,AT15,W0533,,1961,196X,,unknown,W0432,38,,,en,2017-09-27,MG,2020-04-04,DP
 A00070,AG0067,AT15,W0533,,1961,196X,,unknown,W0432,38,,,en,2017-09-27,MG,2020-04-04,DP
 A00071,AG0117,AT11,W0040,,1975,1979,,The author published some translated chapters of Charlie Chaplins autobiography on the magazine Foreign Films which was founded by Huang Tianmin,W0430,455,,maybe we should reconsider the act type for this entry,en,2017-09-27,MG,2020-04-04,DP
-A00072,AG0106,AT01,W0041,,1970,1975,,story-telling context: in her spare time Shu Ting tells this in her own words,W0425,304,,,en,2017-09-27,MG,2020-04-04,DP
+A00072,AG0106,AT01,W0041,,1970,1975,,story-telling context: in her spare time Shu Ting tells this in her own words,W0425,304,,read during rustication?,en,2017-09-27,MG,2020-12-09,MG
 A00073,AG0117,AT13,W0042,AG0144,1978,1978,,Chen wrote this Poem for Mr. Yan Wenliang. The author first touched upon impressionism fine arts in Yan’s home at which he was totally impressed.,W0430,452,,,en,2017-09-29,MG,2020-04-04,DP
 A00074,AG0020,AT04,W0043,,1970,1975,,Rakhmetov the novels protagonist - as well as other idealistic heroes and pioneers of communist revolution - glistened his heart and mind. At the same time Gao Hua was on the one hand torn between Tsarist Russias occupation of China and Stalins hegemony toward China and on the other hand real socialism and Sino-Russian friendly relationships.,W0420,134,,,en,2017-09-29,MG,2020-04-04,DP
 A00075,AG0114,AT01,W0086,,19XX,19XX,,Zhang found it in his uncles notebook,W0429,52,,This quotation also appears verbatim in Zhang 1979: 186. Does Zhang 1979 equate to The Second Handshake?,en,2017-10-09,MG,2020-04-04,DP
-A00076,AG0031,AT12,W0542,,1969,1969,,brought from outside into the prison and confiscated while sent into the prison,W0436,ONLINE SOURCE,,,en,2017-10-09,MG,2020-04-04,DP
+A00076,AG0031,AT12,W0542,,1969,1969,SP0002,brought from outside into the prison and confiscated while sent into the prison,W0436,ONLINE SOURCE,,,en,2017-10-09,MG,2020-12-09,MG
 A00077,AG0029,AT01,W0061,,1964,1966,,Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,W0428,118f,,,en,2017-10-09,MG,2020-04-04,DP
-A00078,AG0115,AT13,W0414,,1967,1968,,"Xu Chenggang wrote many letters to his former classmates at 清华附中 to discuss political theories revolving around Social theories, as he was influenced by Djilas’ The New Class and thought about a lot about an economical and political model, which would suit China. ",W0471,422,,,en,2018-01-09,OS,2020-04-04,DP
+A00078,AG0115,AT13,W0414,,1967,1968,SP0156,"Xu Chenggang wrote many letters to his former classmates at 清华附中 to discuss political theories revolving around Social theories, as he was influenced by Djilas’ The New Class and thought about a lot about an economical and political model, which would suit China. ",W0471,422,,,en,2018-01-09,OS,2020-12-09,MG
 A00079,AG0626,AT14,W0022,,1969,1969,,The book was destroyed before the 1969 9th National Congress as the translators home got raided and hundreds pages of translation became cigarette paper and were burned.,W0433,ONLINE SOURCE,,,en,2017-11-07,CW,2020-04-04,DP
 A00080,AG0011,AT03,W0063,AG0005,19XX,19XX,,huge influence on P0005 led her to the way of individualistic freedom and the rejection of societal pressure,W0423,79,,,en,2017-12-14,MG,2020-04-04,DP
 A00081,AG0005,AT19,W0064,AG0009,1974,1974,,Peng took it as a romantic story with a tragic ending. Still it had a strong political inclination as the protagonist was willing to die for the right cause. Peng declares to Bei Dao that he would like to be like the hero of the story and also devote his life to a democracy movement. However when Bei Dao later reminds him of this he has changed. Art is finally more important than politics to him.,W0442,191,,,en,2017-12-14,MG,2020-04-04,DP
 A00082,AG0003,AT02,W0063,,19XX,19XX,,copied half of the book by hand,W0423,75f 79f,,,en,2017-12-17,MG,2020-04-04,DP
-A00083,AG0061,AT01,W0052,,1969,1970,,she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts,W0440,461,,,en,2017-12-17,MG,2020-04-04,DP
-A00084,AG0061,AT01,W0050,,1969,1970,,she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts,W0440,461,,,en,2017-12-17,MG,2020-04-04,DP
+A00083,AG0061,AT01,W0052,,1969,1970,SP0002,she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts,W0440,461,,,en,2017-12-17,MG,2020-12-09,MG
+A00084,AG0061,AT01,W0050,,1969,1970,SP0002,she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts,W0440,461,,,en,2017-12-17,MG,2020-12-09,MG
 A00085,AG0073,AT16,W0065,,1964~,1967~,,encouraged her interest in science,W0448,92,,,en,2017-12-17,MG,2020-04-04,DP
 A00086,AG0073,AT16,W0066,,1964~,1967~,,one of her favorite books,W0448,92,,,en,2017-12-17,MG,2020-04-04,DP
 A00087,AG0020,AT04,W0006,,1966,1976,,Gao Hua mentions that during the turmoil years of CR when as a son of heiwulei (five black categories) he has been living in the bottom of the society he received supercilious looks and was discriminated against. During these hard times My Apprenticeship and My Universities by Gorky became his spiritual guides.,W0420,133,,,en,2018-02-08,OS,2020-04-04,DP
@@ -99,13 +99,13 @@ A00098,AG0104,AT05,W0063,,1966,1976,,According to Wang Shiqiangs research this p
 A00099,AG0105,AT16,W0060,,1974~,1974~,,Xu read it when being 20 years old and cried like a child. She states that no 20-year-old could read it without being completely stunned. She acted differently so that the boss of (her parents) danwei came along and checked for her. He found the book and scolded her and adviced to rather read 欧阳海之歌 or The Golden Road by Hao Ran. Thereafter she was marked as somebody with inclinations to a petty-capitalist life-style.,W0432,159,,,en,2018-02-08,OS,2020-04-04,DP
 A00147,AG0009,AT01,W0070,,1962,1965,,The most influential work for Bei Dao are by Ehrenburg and he read this piece many times. It opened a window to a world so different from his real life. It seems not that good to him now. But at those times it served as a guidebook for 'searching' young people and gave them an ability to dream.,W0423,88,,,en,2018-01-23,OS,2020-04-04,DP
 A00148,AG0003,AT03,W0073,AG0626,1968?,1968?,,Zhang Langlang gave that poem to some students from Beijing to read and memorize,W0486,112,,,en,2018-01-24,OS,2020-04-04,DP
-A00149,AG0114,AT01,W0074,,1971,1976?,,Zhang Yang read it in prison after the Lin Biao incident,W0429,110ff,,,en,2018-01-25,OS,2020-04-04,DP
-A00150,AG0114,AT01,W0075,,1971,1976?,,Zhang Yang read it in prison after the Lin Biao incident,W0429,110ff,,,en,2018-01-25,OS,2020-04-04,DP
-A00151,AG0626,AT03,W0075,AG0114,1971?,1976?,,Several Books were sent to him when he was in prison,W0429,435,,,en,2018-01-25,OS,2020-04-04,DP
-A00152,AG0626,AT03,W0076,AG0114,1971?,1976?,,Several Books were sent to him when he was in prison,W0429,435,,,en,2018-01-25,OS,2020-04-04,DP
+A00149,AG0114,AT01,W0074,,1971,1976?,SP0002,Zhang Yang read it in prison after the Lin Biao incident,W0429,110ff,,,en,2018-01-25,OS,2020-12-09,MG
+A00150,AG0114,AT01,W0075,,1971,1976?,SP0002,Zhang Yang read it in prison after the Lin Biao incident,W0429,110ff,,,en,2018-01-25,OS,2020-12-09,MG
+A00151,AG0626,AT03,W0075,AG0114,1971?,1976?,SP0002,Several Books were sent to him when he was in prison,W0429,435,,,en,2018-01-25,OS,2020-12-09,MG
+A00152,AG0626,AT03,W0076,AG0114,1971?,1976?,SP0002,Several Books were sent to him when he was in prison,W0429,435,,,en,2018-01-25,OS,2020-12-09,MG
 A00153,AG0009,AT01,W0074,,1971,1971,,Bei Dao mentioned that he had read the book in 1971,W0487,33,,,en,2018-01-25,OS,2020-04-04,DP
 A00154,AG0195,AT01,W0076,,1968,1972,,This book was the initiation of his history study.,W0488,258-259,,,en,2018-01-25,OS,2020-04-04,DP
-A00155,AG0626,AT14,W0077,,1966,1966,,This book in a precious editon was left in the house by Qian Dachuans maternal grandfather and later found by Red Guards and destroyed.,W0489,ONLINE SOURCE,,,en,2018-02-01,OS,2020-04-04,DP
+A00155,AG0626,AT14,W0077,,1966,1966,,This book in a precious editon was left in the house by Qian Dachuans maternal grandfather and later found by Red Guards and destroyed.,W0489,ONLINE SOURCE,,should ‚at home‘ be a space?,en,2018-02-01,OS,2020-12-09,MG
 A00156,AG0197,AT01,W0414,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,W0490,249,unknown work by: AG0096 G24,very likely that for the 1960s books by this author refer to a neibu publication,en,2018-02-01,OS,2020-04-04,DP
 A00157,AG0197,AT01,W0414,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,W0490,249,unknown work by: AG0198 G24,very likely that for the 1960s books by this author refer to a neibu publication,en,2018-02-01,OS,2020-04-04,DP
 A00158,AG0197,AT01,W0414,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,W0490,249,unknown work by: AG0199 G24,very likely that for the 1960s books by this author refer to a neibu publication,en,2018-02-01,OS,2020-04-04,DP
@@ -118,10 +118,10 @@ A00164,AG0197,AT01,W0009,,1962?,1970?,,Li read a lot of Marxist theory in the 19
 A00165,AG0197,AT01,W0414,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,W0490,249,unknown work by: AG0079 G29,,en,2018-02-01,OS,2020-04-04,DP
 A00166,AG0197,AT01,W0414,,1962?,1970?,,Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources,W0490,249,unknown work by: AG0096 G24,very likely that for the 1960s books by this author refer to a neibu publication,en,2018-02-01,OS,2020-04-04,DP
 A00167,AG0197,AT04,W0068,,196x,196x,,The full secret speech of Khrushchev circulated in China as well and Li had access to it. He was very influenced by it and from there on had doubted the official line.,W0490,249,,,en,2018-02-02,OS,2020-04-04,DP
-A00168,AG0197,AT03,W0068,AG0205,1968?,1971,,Li handed it over to Liu Jingzi and does not know to whom she gave it.,W0490,249,,,en,2018-02-02,OS,2020-04-04,DP
-A00169,AG0197,AT03,W0068,AG0206,1968?,1971,,Li handed it over to Liu Jingzi and does not know to whom she gave it.,W0490,249,,,en,2018-02-02,OS,2020-04-04,DP
-A00170,AG0205,AT04,W0068,,1968?,1971,,Liu was very influenced by it and from there on had doubted the official line.,W0490,249,,,en,2018-02-02,OS,2020-04-04,DP
-A00171,AG0206,AT04,W0068,,1968?,1971,,Zhang was very influenced by it and from there on had doubted the official line.,W0490,249,,,en,2018-02-02,OS,2020-04-04,DP
+A00168,AG0197,AT03,W0068,AG0205,1968?,1971,SP0132,Li handed it over to Liu Jingzi and does not know to whom she gave it.,W0490,249,,,en,2018-02-02,OS,2020-12-09,MG
+A00169,AG0197,AT03,W0068,AG0206,1968?,1971,SP0132,Li handed it over to Liu Jingzi and does not know to whom she gave it.,W0490,249,,,en,2018-02-02,OS,2020-12-09,MG
+A00170,AG0205,AT04,W0068,,1968?,1971,SP0132,Liu was very influenced by it and from there on had doubted the official line.,W0490,249,,,en,2018-02-02,OS,2020-12-09,MG
+A00171,AG0206,AT04,W0068,,1968?,1971,SP0132,Zhang was very influenced by it and from there on had doubted the official line.,W0490,249,,,en,2018-02-02,OS,2020-12-09,MG
 A00173,AG0031,AT01,W0079,,1969,1969,SP0002,,W0525,ONLINE SOURCE,,,en,2018-02-05,OS,2020-12-08,MG
 A00174,AG0029,AT16,W0081,,1964,1966,,He read it around the beginning of the CR and mentions that this book was one of the most-beloved and widely-read among his book friends.,W0428,118-119,,,en,2018-02-05,OS,2020-04-04,DP
 A00175,AG0105,AT04,W0080,,1966,1968,,She wrote a letter to Zhao Yifan and stated that similar to Dostoyevskys novels only through hardship and suffering one can really get rid of selfishness. And only then could sublime art be refined.,W0424,158f,,,en,2018-02-05,OS,2020-04-04,DP
@@ -456,9 +456,9 @@ A00503,AG0626,AT01,W0414,,19xx,19xx,,The author remembered that there was a work
 A00504,AG0018,AT05,W0414,,19xx,19xx,,He mentions that Eliot’s poems are of his book list.,W0480,311,,,en,2018-04-26,WH,2020-04-04,DP
 A00505,AG0003,AT17,W0217,,[1963..1965?],[1963..1965?],,Zhang Langlang recited the poems for his brother and his friends during their summer vocation.,W0439,46,,,en,2018-04-26,WH,2020-04-04,DP
 A00506,AG0626,AT01,W0074,,1976~,1976~,,"""A young factory lady was reading this book, and she admired Jiang Qing for she was considered as the model of women at that time. But later after the book was seen nowhere from this lady.",W0478,335,,,en,2018-04-26,WH,2020-04-04,DP
-A00507,AG0061,AT01,W0074,,1969,19670,,"The author was reading this book in prison, she describes the personal gain she gots out of reading ( more self-confidence, political understanding of her past, hope)",W0440,461,,,en,2018-04-26,WH,2020-04-04,DP
+A00507,AG0061,AT01,W0074,,1969,1970,SP0002,"She describes the personal gain she gots out of reading (more self-confidence, political understanding of her past, hope)",W0440,461,,,en,2018-04-26,WH,2020-12-09,MG
 A00508,AG0115,AT25,W0218,,1968~,1968~,,After reading this work the author could not understand  why  there were still class and class struggle under a socialist system.,W0471,418,,,en,2018-04-26,WH,2020-04-04,DP
-A00509,AG0626,AT03,W0218,AG0061,1973,1974,,The book was given to her while she was in prison. First in Chinese and later in German.,W0440,,,,en,2018-05-02,WH,2020-04-04,DP
+A00509,AG0626,AT03,W0218,AG0061,1973,1974,SP0002,The book was given to her while she was in prison. First in Chinese and later in German.,W0440,,,,en,2018-05-02,WH,2020-12-09,MG
 A00510,AG0122,AT05,W0414,,19xx,19xx,,He painted in Fechin's style.,W0485,351,,,en,2018-05-03,WH,2020-04-04,DP
 A00511,AG0196,AT05,W0219,,1966,1966,,His grandfather used to have this book.,W0489,,,,en,2018-05-03,WH,2020-04-04,DP
 A00512,AG0116,AT01,W0220,,1973,1973,,He reads this book secretly at home. It was perhaps from the library of his father's institute.,W0475,554,,,en,2018-05-03,WH,2020-04-04,DP
@@ -517,7 +517,7 @@ A00636,AG0369,AT01,W0239,,1963,1963,,The Lei Feng diary was read all over the co
 A00637,AG0048,AT01,W0123,,1970~,1970~,,he read the book aside the field during rustication,W0453,ONLINE SOURCE,,,en,2018-06-25,MG,2020-04-04,DP
 A00638,AG0020,AT05,W0123,,196x..197x,196x..197x,,unknown,W0420,137,,,en,2018-06-25,MG,2020-04-04,DP
 A00639,AG0118,AT01,W0123,,1970~,1970~,,Bo and his middle school classmates were reading a lot of books in a private study group,W0476,532,,,en,2018-06-25,MG,2020-04-04,DP
-A00640,AG0061,AT01,W0123,,1969,1970,,Siao read this book in prison. By reading it she got more self-confident and aware of political occurrences in the past,W0440,461,,,en,2018-06-25,MG,2020-04-04,DP
+A00640,AG0061,AT01,W0123,,1969,1970,SP0002,By reading it she got more self-confident and aware of political occurrences in the past,W0440,461,,,en,2018-06-25,MG,2020-12-09,MG
 A00641,AG0249,AT11,W0124,,1960..1966,1960..1966,,Translated some of Lermontov‘s work,W0433,ONLINE SOURCE,,,en,2018-06-25,MG,2020-04-04,DP
 A00642,AG0249,AT11,W0414,,1960..1966,1960..1966,,Translated some of Lermontov‘s work,W0433,ONLINE SOURCE,unknown work by: AG0248,,en,2018-06-25,MG,2020-04-04,DP
 A00643,AG0029,AT01,W0414,,196x..1966,196x..1966,,Wu refers to this title as a book he read right before the CR,W0428,116-117,unknown work by: AG0248,,en,2018-06-25,MG,2020-04-04,DP
@@ -873,8 +873,8 @@ A01043,AG0003,AT05,W0378,,19xx,19xx,,unknown,W0486,112,,please check the source 
 A01044,AG0018,AT05,W0378,,19xx,19xx,,unknown,W0480,311,,please check the source again to adjust act type and other relevant info see issue #299,en,2019-02-04,MG,2020-04-04,DP
 A01045,AG0114,AT05,W0378,,19xx,19xx,,unknown,W0429,9999,,there is no source given just the reader‘s name: Zhang Yang check SS00030 see issue #299,en,2019-02-04,MG,2020-04-04,DP
 A01046,AG0003,AT01,W0378,,1963..1965~,1963..1965~,,unknown,W0439,46,,please check the source again to adjust act type and other relevant info see issue #299,en,2019-02-04,MG,2020-04-04,DP
-A01047,AG0061,AT01,W0075,,1969,1970,,she describes the personal gain she got out of reading (self-confidence and political understanding) read in L0002,W0440,474,,,en,2019-02-04,MG,2020-04-04,DP
-A01048,AG0626,AT03,W0075,AG0061,1969,1969,,in L0002. First in a chinese version then later in german,W0440,474,,,en,2019-02-04,MG,2020-04-04,DP
+A01047,AG0061,AT01,W0075,,1969,1970,SP0002,she describes the personal gain she got out of reading (self-confidence and political understanding),W0440,474,,,en,2019-02-04,MG,2020-12-09,MG
+A01048,AG0626,AT03,W0075,AG0061,1969,1969,SP0002,First in a chinese version then later in german,W0440,474,,,en,2019-02-04,MG,2020-12-09,MG
 A01049,AG0104,AT05,W0556,,19xx,19xx,,unknown,W0423,78,,please check the source again to adjust act type and other relevant info see issue #299,en,2019-02-11,MG,2020-04-04,DP
 A01050,AG0607,AT11,W0556,,19xx,19xx,,Wang Shiqiang mentions Huang as translator,W0423,78,,please check the source again to adjust act type and other relevant info see issue #299,en,2019-02-11,MG,2020-04-04,DP
 A01051,AG0037,AT01,W0381,,1962,1962,,,W0445,ONLINE SOURCE,,please check the source again to adjust act type and other relevant info see issue #299,en,2019-02-11,MG,2020-04-04,DP
