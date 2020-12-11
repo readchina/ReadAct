@@ -2610,4 +2610,19 @@
       <geo>0.0 0.0</geo>
     </location>
   </place>
+  <place xml:id="SP0437" type="L">
+    <placeName>private school</placeName>
+  </place>
+  <place xml:id="SP0438" type="L">
+    <placeName>on a train</placeName>
+  </place>
+  <place xml:id="SP0439" type="L">
+    <placeName>factory</placeName>
+  </place>
+  <place xml:id="SP0440" type="PL">
+    <placeName>Xiamen</placeName>
+    <location>
+      <geo>24.479834 118.089424</geo>
+    </location>
+  </place>
 </listPlace>
