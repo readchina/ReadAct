@@ -6,6 +6,7 @@ Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,20
 Act,act_target,Person.person_id of targets of act,"empty when not applicable, 'B' in: A gives B a gift, A read unspecified works by B",2017-07-04,LH,2020-04-02,DP
 Act,start,Year in EDTF when act begins (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
 Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
+Act,site_information,key: Space.space_id,,2020-12-08,MG,2020-12-08,MG
 Act,discussion,substantial comment or quotation from source,'unknown' in case we don‘t know,2017-07-04,LH,2018-02-01,DP
 Act,source,Evidence for activity,,2017-07-04,LH,2018-02-01,DP
 Act,page,Page number in text that the column source_id refers to,,2017-07-04,LH,2017-07-04,LH

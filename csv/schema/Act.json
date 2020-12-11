@@ -55,6 +55,13 @@
         "min-length": 4
       }
     }, {
+      "name": "site_information",
+      "description": "information about the site or location of an act",
+      "constraints": {
+        "required": false,
+        "pattern": "SP[0-9]{4}"
+      }
+    }, {
       "name": "discussion",
       "description": "substantial comment or quotation from source",
       "constraints": {
