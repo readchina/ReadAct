@@ -249,10 +249,10 @@ A00296,AG0284,AT03,W0414,AG0282,1970~,1970~,,determined to improve herself intel
 A00297,AG0284,AT03,W0414,AG0282,1970~,1970~,,determined to improve herself intellectually she read everything her father recommended,W0512,452,unknown work by: AG0287,,en,2018-03-21,MG,2020-04-04,DP
 A00298,AG0282,AT01,W0414,,1970~,1970~,,determined to improve herself intellectually she read everything her father recommended,W0512,452,unknown work by: AG0287,,en,2018-03-21,MG,2020-04-04,DP
 A00299,AG0282,AT01,W0038,,1970~,1970~,,she read it as a condensed history of feudal society in China,W0512,452,,,en,2018-03-23,MG,2020-04-04,DP
-A00300,AG0282,AT23,W0534,,1970~,1977?,,Listened to the music of Swan Lake. Her brother had borrowed them (among others) from friends in Beijing,W0512,454,,,en,2018-03-23,MG,2020-04-04,DP
-A00301,AG0282,AT23,W0535,,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing,W0512,454,,,en,2018-03-23,MG,2020-04-04,DP
-A00302,AG0290,AT03,W0534,AG0282,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing,W0512,454,,,en,2018-03-23,MG,2020-04-04,DP
-A00303,AG0290,AT03,W0535,AG0282,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing,W0512,454,,,en,2018-03-23,MG,2020-04-04,DP
+A00300,AG0282,AT23,W0534,,1970~,1977?,,Listened to the music of Swan Lake. Her brother had borrowed them (among others) from friends in Beijing (SP0005),W0512,454,,,en,2018-03-23,MG,2020-12-16,MG
+A00301,AG0282,AT23,W0535,,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing (SP0005),W0512,454,,,en,2018-03-23,MG,2020-12-16,MG
+A00302,AG0290,AT03,W0534,AG0282,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing (SP0005),W0512,454,,,en,2018-03-23,MG,2020-12-16,MG
+A00303,AG0290,AT03,W0535,AG0282,1970~,1977?,,her brother had borrowed them (among others) from friends in Beijing (SP0005),W0512,454,,,en,2018-03-23,MG,2020-12-16,MG
 A00304,AG0284,AT17,W0150,,1966?,1977?,,he liked to cite this novel while criticising financial disputes in other families,W0512,641,,,en,2018-03-23,MG,2020-04-04,DP
 A00305,AG0291,AT05,W0104,,1970?,1971?,,comparison to rigid moral codes of a society,W0513,106,,,en,2018-03-27,MG,2020-04-04,DP
 A00306,AG0291,AT01,W0050,,1971,1971,,felt proud of reading it,W0513,107,,,en,2018-03-27,MG,2020-04-04,DP
@@ -285,7 +285,8 @@ A00332,AG0626,AT03,W0157,AG0291,1970,197x,,access via a reference librarian  a f
 A00333,AG0291,AT01,W0157,,1970,197x,,,W0513,189,,,en,2018-04-03,MG,2020-04-04,DP
 A00334,AG0291,AT01,W0158,,1970,197x,,,W0513,189,,,en,2018-04-05,MG,2020-04-04,DP
 A00335,AG0626,AT03,W0158,AG0291,1970,197x,,access via a reference librarian a friend of the family,W0513,189,,,en,2018-04-05,MG,2020-04-04,DP
-A00336,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0138,,en,2018-04-06,MG,2020-04-04,DP
+A00336,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0138,,en,2018-04-06,MG,2020-12-16,MG
+A01347,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0138,,en,2020-12-16,MG,2020-12-16,MG
 A00337,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0138,,en,2018-04-06,MG,2020-04-04,DP
 A00338,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0283,,en,2018-04-06,MG,2020-04-04,DP
 A00339,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0129,,en,2018-04-06,MG,2020-04-04,DP
@@ -302,30 +303,45 @@ A00349,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0303,,en,201
 A00350,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0305,,en,2018-04-06,MG,2020-04-04,DP
 A00351,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0304,,en,2018-04-06,MG,2020-04-04,DP
 A00352,AG0291,AT01,W0414,,1975,197x,,,W0513,162f,unknown work by: AG0306,,en,2018-04-06,MG,2020-04-04,DP
-A00353,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0283,,en,2018-04-06,MG,2020-04-04,DP
-A00354,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0129,,en,2018-04-06,MG,2020-04-04,DP
-A00355,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0264,,en,2018-04-06,MG,2020-04-04,DP
-A00356,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0285,,en,2018-04-06,MG,2020-04-04,DP
-A00357,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0237,,en,2018-04-06,MG,2020-04-04,DP
-A00358,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0090,,en,2018-04-06,MG,2020-04-04,DP
-A00359,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0165,,en,2018-04-06,MG,2020-04-04,DP
-A00360,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0209,,en,2018-04-06,MG,2020-04-04,DP
-A00361,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0230,,en,2018-04-06,MG,2020-04-04,DP
-A00362,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0301,,en,2018-04-06,MG,2020-04-04,DP
-A00363,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0302,,en,2018-04-06,MG,2020-04-04,DP
-A00364,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0303,,en,2018-04-06,MG,2020-04-04,DP
-A00365,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0305,,en,2018-04-06,MG,2020-04-04,DP
-A00366,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0304,,en,2018-04-06,MG,2020-04-04,DP
-A00367,AG0307,AT03,W0414,AG0291,1975,197x,,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0306,,en,2018-04-06,MG,2020-04-04,DP
+A00353,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0283,,en,2018-04-06,MG,2020-12-16,MG
+A00354,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0129,,en,2018-04-06,MG,2020-12-16,MG
+A00355,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0264,,en,2018-04-06,MG,2020-12-16,MG
+A00356,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0285,,en,2018-04-06,MG,2020-12-16,MG
+A00357,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0237,,en,2018-04-06,MG,2020-12-16,MG
+A00358,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0090,,en,2018-04-06,MG,2020-12-16,MG
+A00359,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0165,,en,2018-04-06,MG,2020-12-16,MG
+A00360,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0209,,en,2018-04-06,MG,2020-12-16,MG
+A00361,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0230,,en,2018-04-06,MG,2020-12-16,MG
+A00362,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0301,,en,2018-04-06,MG,2020-12-16,MG
+A00363,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0302,,en,2018-04-06,MG,2020-12-16,MG
+A00364,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0303,,en,2018-04-06,MG,2020-12-16,MG
+A00365,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0305,,en,2018-04-06,MG,2020-12-16,MG
+A00366,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0304,,en,2018-04-06,MG,2020-12-16,MG
+A00367,AG0307,AT03,W0414,AG0291,1975,197x,,,W0513,162f,unknown work by: AG0306,,en,2018-04-06,MG,2020-12-16,MG
+A01348,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0283,,en,2020-12-16,MG,2020-12-16,MG
+A01349,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0129,,en,2020-12-16,MG,2020-12-16,MG
+A01350,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0264,,en,2020-12-16,MG,2020-12-16,MG
+A01351,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0285,,en,2020-12-16,MG,2020-12-16,MG
+A01352,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0237,,en,2020-12-16,MG,2020-12-16,MG
+A01353,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0090,,en,2020-12-16,MG,2020-12-16,MG
+A01354,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0165,,en,2020-12-16,MG,2020-12-16,MG
+A01355,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0209,,en,2020-12-16,MG,2020-12-16,MG
+A01356,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0230,,en,2020-12-16,MG,2020-12-16,MG
+A01357,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0301,,en,2020-12-16,MG,2020-12-16,MG
+A01358,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0302,,en,2020-12-16,MG,2020-12-16,MG
+A01359,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0303,,en,2020-12-16,MG,2020-12-16,MG
+A01360,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0305,,en,2020-12-16,MG,2020-12-16,MG
+A01361,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0304,,en,2020-12-16,MG,2020-12-16,MG
+A01362,AG0307,AT44,W0414,,1975,197x,SP0001,She had access to those books in the library of her university,W0513,162f,unknown work by: AG0306,,en,2020-12-16,MG,2020-12-16,MG
 A00368,AG0103,AT01,W0159,,196x,1968~,,at the time he read widely but only and remembers these when he later saw these titles again,W0419,565,,,en,2018-04-09,MG,2020-04-04,DP
-A00369,AG0106,AT01,W0414,,1969,1972,,,W0425,301,unknown work by: AG0308 G11,,en,2018-04-09,MG,2020-04-04,DP
-A00370,AG0009,AT19,W0160,,1968?,1968?,,discussed the text with a friend,W0487,36,,,en,2018-04-09,MG,2020-04-04,DP
+A00369,AG0106,AT01,W0414,,1969,1972,SP0436,,W0425,301,unknown work by: AG0308 G11,unknown place of rustication,en,2018-04-09,MG,2020-12-16,MG
+A00370,AG0009,AT19,W0160,AG0626,1968?,1968?,,discussed the text with a friend,W0487,36,,,en,2018-04-09,MG,2020-12-16,MG
 A00371,AG0105,AT01,W0161,,197x,197x,,supported the process of alienation towards her parents and giving Xu a more rebellious edge,W0424,159,,,en,2018-04-09,MG,2020-04-04,DP
 A00372,AG0105,AT01,W0162,,197x,197x,,supported the process of alienation towards her parents and giving Xu a more rebellious edge,W0424,159,,,en,2018-04-09,MG,2020-04-04,DP
 A00373,AG0029,AT05,W0160,,1960~,1965..1969,,Wu Hong mentions that this book was one of the most-beloved and widely-read among his book friends.,W0428,119,,,en,2018-04-09,MG,2020-04-04,DP
-A00374,AG0125,AT05,W0160,,197x,197x,,,W0479,79,,,en,2018-04-09,MG,2020-04-04,DP
+A00374,AG0125,AT05,W0160,,197x,197x,SP0070,,W0479,79,,read during rustication?,en,2018-04-09,MG,2020-12-16,MG
 A00375,AG0003,AT05,W0160,,197x,197x,,,W0486,129,,,en,2018-04-09,MG,2020-04-04,DP
-A00376,AG0125,AT05,W0161,,197x,197x,,,W0479,60,,,en,2018-04-09,MG,2020-04-04,DP
+A00376,AG0125,AT05,W0161,,197x,197x,SP0070,,W0479,60,,read during rustication?,en,2018-04-09,MG,2020-12-16,MG
 A00377,AG0143,AT03,W0414,AG0029,1960..1966,1966,,from her private collection,W0428,116,,see #399 unknown source was: PS00294,en,2018-04-09,MG,2020-04-04,DP
 A00378,AG0103,AT01,W0414,,1967,1967,,,W0419,569,,see #399 unknown source was: PS00294,en,2018-04-09,MG,2020-04-04,DP
 A00379,AG0192,AT05,W0414,,197x,197x,,,W0481,372,,see #399 unknown source was: PS00294,en,2018-04-09,MG,2020-04-04,DP
