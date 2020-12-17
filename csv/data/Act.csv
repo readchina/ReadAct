@@ -356,35 +356,36 @@ A00387,AG0029,AT01,W0414,,196x..1966,1966,,he was already familiar with this aut
 A00388,AG0143,AT03,W0414,AG0029,196x..1966,1966,,unknown,W0428,116,unknown work by: AG0285,,en,2018-05-08,MG,2020-04-04,DP
 A00389,AG0192,AT01,W0414,,196x..197x,196x..197x,,unknown,W0481,372,unknown work by: AG0285,,en,2018-05-08,MG,2020-04-04,DP
 A00390,AG0103,AT01,W0414,,1967,1967,,unknown,W0419,569,unknown work by: AG0285,,en,2018-05-08,MG,2020-04-04,DP
-A00391,AG0103,AT12,W0414,,1967..197x,1967..197x,,the authors home was plundered and all of his collections were confiscated by the red guards,W0419,569,unknown work by: AG0285,,en,2018-05-08,MG,2020-04-04,DP
-A00392,AG0103,AT01,W0167,,1972,1972,,unknown,W0419,580,,,en,2018-05-08,MG,2020-04-04,DP
+A00391,AG0103,AT12,W0414,,1967..197x,1967..197x,SP0442,the authors home was plundered and all of his collections were confiscated by the red guards,W0419,569,unknown work by: AG0285,,en,2018-05-08,MG,2020-12-17,MG
+A00392,AG0103,AT01,W0167,,1972,1972,SP0055,unknown,W0419,580,,,en,2018-05-08,MG,2020-12-17,MG
 A00393,AG0124,AT05,W0168,,196x..197x,196x..197x,,unknown,W0474,7-10,,,en,2018-05-08,MG,2020-04-04,DP
 A00394,AG0192,AT05,W0064,,196x..197x,196x..197x,,unknown,W0481,372,,,en,2018-05-08,MG,2020-04-04,DP
 A00395,AG0192,AT05,W0414,,196x..197x,196x..197x,,This work was written by one of his favorite writers back then.,W0481,362,unknown work by: AG0315,,en,2018-05-08,MG,2020-04-04,DP
 A00396,AG0029,AT01,W0414,,196x..1966,1966,,Wu Hong refers to his readings during the period right before the CR,W0428,116-117,unknown work by: AG0316,,en,2018-05-08,MG,2020-04-04,DP
 A00397,AG0143,AT03,W0414,AG0029,196x..1966,1966,,unknown,W0428,116-117,unknown work by: AG0316,,en,2018-05-08,MG,2020-04-04,DP
-A00398,AG0032,AT01,W0169,,1969,1969,,unknown,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-04-04,DP
-A00399,AG0032,AT12,W0169,,1969,1969,,the book was confiscated in prison,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-04-04,DP
-A00400,AG0032,AT03,W0169,AG0031,196x..1969,1969,,Zhu brought the book into prison,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-04-04,DP
+A00398,AG0032,AT01,W0169,,1969,1969,SP0009,unknown,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-12-17,MG
+A00399,AG0032,AT12,W0169,,1969,1969,SP0002,the book was confiscated in prison,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-12-17,MG
+A00400,AG0032,AT03,W0169,AG0031,196x..1969,1969,SP0002,Zhu brought the book into prison,W0436,ONLINE SOURCE,,,en,2018-05-14,MG,2020-12-17,MG
 A00401,AG0033,AT01,W0170,,1962~,1962~,,unknown,W0443,ONLINE SOURCE,,,en,2018-05-14,MG,2020-04-04,DP
 A00402,AG0034,AT01,W0170,,1962~,1962~,,unknown,W0443,ONLINE SOURCE,,,en,2018-05-14,MG,2020-04-04,DP
-A00403,AG0117,AT01,W0171,,1975..1979,1975..1979,,There was a bookstore in Fuzhou Road (Shanghai) selling confiscated books during CR. So the author found many precious collections of foreign works there.,W0430,454,,,en,2018-05-15,MG,2020-04-04,DP
+A00403,AG0117,AT01,W0171,,1975..1979,1975..1979,,There was a bookstore in Fuzhou Road (SP0006) selling confiscated books during CR. So the author found many precious collections of foreign works there.,W0430,454,,,en,2018-05-15,MG,2020-12-17,MG
+A01363,AG0117,AT44,W0171,,1975..1979,1975..1979,SP0003,There was a bookstore in Fuzhou Road (SP0006) selling confiscated books during CR. So the author found many precious collections of foreign works there.,W0430,454,,,en,2020-12-17,MG,2020-12-17,MG
 A00404,AG0118,AT01,W0171,,1979,1979,,,W0476,532,,,en,2018-05-15,MG,2020-04-04,DP
 A00405,AG0151,AT03,W0171,AG0118,1979,1979,,Peng Yilin wrote an analysis article about the poem and sent it to Bo Hua. He was told that his friend Peng organized a Poem society with some other intellectuals,W0476,532,,,en,2018-05-15,MG,2020-04-04,DP
 A00406,AG0151,AT10,W0171,,1979,1979,,Peng Yilin wrote an analysis article about the poem and sent it to Bo Hua. He was told that his friend Peng organized a Poem society with some other intellectuals,W0476,532,,,en,2018-05-15,MG,2020-04-04,DP
 A00407,AG0122,AT05,W0554,,1970~,1979~,,Fan Qian and his painter friends were searching for the inspiration by van Gogh‘s style,W0485,353,unknown work by: AG0320 AF01,,en,2018-05-15,MG,2020-04-04,DP
-A00408,AG0011,AT05,W0554,,1966..1976,1966..1976,,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,W0477,56,unknown work by: AG0320 AF01,,en,2018-05-15,MG,2020-04-04,DP
+A00408,AG0011,AT05,W0554,,1966..1976,1966..1976,,She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.,W0477,56,unknown work by: AG0320 AF01,read during rustication?,en,2018-05-15,MG,2020-12-17,MG
 A00409,AG0118,AT11,W0414,,1979,1979,,unknown,W0476,537,unknown work by: AG0321 G10,,en,2018-05-15,MG,2020-04-04,DP
 A00410,AG0626,AT17,W0172,,1966..197x,1966..197x,,There was an educated youth who took story-telling as his unique ‚currency‘ so that he could ‚purchase‘ daily necessities with it.,W0419,572,,,en,2018-05-15,MG,2020-04-04,DP
 A00411,AG0105,AT01,W0078,,1966,1966,,In her point of view no 12-year-old child could read it without being stunned. Her parents‘ boss found out what she was reading and scolded her. She was marked as sb with inclinations to a capitalist life style.,W0424,158f,,,en,2018-05-15,MG,2020-04-04,DP
 A00412,AG0114,AT01,W0078,,1973,1973,,unknown,W0429,56,,,en,2018-05-15,MG,2020-04-04,DP
-A00413,AG0324,AT01,W0078,,197x,197x,,The author realized that love is totally different in real life than in books.,W0516,522,,,en,2018-05-15,MG,2020-04-04,DP
+A00413,AG0324,AT01,W0078,,197x,197x,SP0436,The author realized that love is totally different in real life than in books.,W0516,522,,unknown place of rustication,en,2018-05-15,MG,2020-12-17,MG
 A00414,AG0124,AT05,W0173,,196x..197x,196x..197x,,unknown,W0474,7-10,,,en,2018-05-15,MG,2020-04-04,DP
 A00415,AG0626,AT19,W0414,,196x..197x,196x..197x,,Han knew sb who was fascinated by this authors‘ theories,W0419,583,unknown work by: AG0325,,en,2018-05-17,MG,2020-04-04,DP
-A00416,AG0017,AT16,W0414,,196x..197x,196x..197x,,Described Whitman as one of his biggest influences,W0422,220,unknown work by: AG0326,,en,2018-05-17,MG,2020-04-04,DP
+A00416,AG0017,AT16,W0414,,196x..197x,196x..197x,SP0011,Described Whitman as one of his biggest influences,W0422,220,unknown work by: AG0326,read during rustication?,en,2018-05-17,MG,2020-12-17,MG
 A00417,AG0018,AT05,W0414,,196x..197x,196x..197x,,unknown,W0480,312,unknown work by: AG0326,,en,2018-05-17,MG,2020-04-04,DP
 A00418,AG0626,AT19,W0414,,196x..197x,196x..197x,,Han knew sb who was fascinated by this authors‘ theories,W0419,583,unknown work by: AG0327,,en,2018-05-17,MG,2020-04-04,DP
-A00419,AG0017,AT05,W0414,,196x..197x,196x..197x,,unknown,W0422,231,unknown work by: AG0328,marked as neibu,en,2018-05-22,MG,2020-04-04,DP
+A00419,AG0017,AT05,W0414,,196x..197x,196x..197x,SP0011,unknown,W0422,231,unknown work by: AG0328,marked as neibu. read during rustication?,en,2018-05-22,MG,2020-12-17,MG
 A00420,AG0018,AT01,W0414,,196x..197x,196x..197x,,Most of the poems of Yans reading list were from the Soviet Union.,W0480,311,unknown work by: AG0328,marked as neibu,en,2018-05-22,MG,2020-04-04,DP
 A00421,AG0626,AT03,W0414,AG0017,196x..197x,196x..197x,,unknown,W0422,231,unknown work by: AG0328,marked as neibu,en,2018-05-22,MG,2020-04-04,DP
 A00422,AG0626,AT02,W0414,,196x..197x,196x..197x,,unknown,W0422,231,unknown work by: AG0328,marked as neibu,en,2018-05-22,MG,2020-04-04,DP
@@ -394,7 +395,7 @@ A00425,AG0124,AT05,W0174,,196x..197x,196x..197x,,unknown,W0474,7-10,,,en,2018-05
 A00426,AG0104,AT05,W0174,,196x..197x,196x..197x,,According to Wang Shiqiang this piece was one of the most influential yellow-covered books for the generation of pre-misty poets. Translated by Su Hang 苏杭 and others.,W0423,78,,,en,2018-05-22,MG,2020-04-04,DP
 A00427,AG0003,AT01,W0174,,1963~,1963~,,unknown,W0439,38,,,en,2018-05-22,MG,2020-04-04,DP
 A00428,AG0626,AT01,W0175,,196x..197x,196x..197x,,There was another educated youth who obtained a lot of military knowledge. Han mentions that he might have read this book.,W0419,571,,,en,2018-05-22,MG,2020-04-04,DP
-A00429,AG0031,AT12,W0176,,1969,1969,,the text was confiscated in prison,W0436,ONLINE SOURCE,,,en,2018-05-22,MG,2020-04-04,DP
+A00429,AG0031,AT12,W0176,,1969,1969,SP0002,the text was confiscated in prison,W0436,ONLINE SOURCE,,,en,2018-05-22,MG,2020-12-17,MG
 A00430,AG0116,AT01,W0178,,1979,1979,,unknown,W0475,562,,,en,2018-05-22,MG,2020-04-04,DP
 A00431,AG0214,AT01,W0178,,1966,1966,,she was fascinated by reading this novel.,W0495,94,,,en,2018-05-23,MG,2020-04-04,DP
 A00432,AG0335,AT11,W0178,,196x..197x,196x..197x,,He was accused of spreading poisonous weeds,W0433,ONLINE SOURCE,,,en,2018-05-23,MG,2020-04-04,DP
