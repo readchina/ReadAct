@@ -1,5 +1,5 @@
 <gexf:gexf xmlns:gexf="http://www.gexf.net/1.2draft" version="1.2">
-  <gexf:meta lastmodifieddate="2020-12-18Z">
+  <gexf:meta lastmodifieddate="2020-12-19Z">
     <gexf:creator>ReadAct</gexf:creator>
     <gexf:description>Bipartite graph of reading act edges, connecting agent and work nodes</gexf:description>
   </gexf:meta>
@@ -690,6 +690,7 @@
       <gexf:edge id="2-44" source="AG0003" target="W0541"/>
       <gexf:edge id="2-45" source="AG0003" target="W0349"/>
       <gexf:edge id="2-46" source="AG0003" target="W0404"/>
+      <gexf:edge id="2-47" source="AG0003" target="W0156"/>
       <gexf:edge id="3-1" source="AG0004" target="W0414"/>
       <gexf:edge id="4-1" source="AG0005" target="W0064"/>
       <gexf:edge id="5-1" source="AG0009" target="W0007"/>
@@ -703,6 +704,7 @@
       <gexf:edge id="5-9" source="AG0009" target="W0131"/>
       <gexf:edge id="5-10" source="AG0009" target="W0070"/>
       <gexf:edge id="5-11" source="AG0009" target="W0414"/>
+      <gexf:edge id="5-12" source="AG0009" target="W0131"/>
       <gexf:edge id="6-1" source="AG0010" target="W0004"/>
       <gexf:edge id="6-2" source="AG0010" target="W0087"/>
       <gexf:edge id="6-3" source="AG0010" target="W0087"/>
@@ -804,6 +806,7 @@
       <gexf:edge id="13-44" source="AG0020" target="W0395"/>
       <gexf:edge id="13-45" source="AG0020" target="W0395"/>
       <gexf:edge id="13-46" source="AG0020" target="W0397"/>
+      <gexf:edge id="13-47" source="AG0020" target="W0180"/>
       <gexf:edge id="14-1" source="AG0021" target="W0015"/>
       <gexf:edge id="14-2" source="AG0021" target="W0530"/>
       <gexf:edge id="15-1" source="AG0022" target="W0015"/>
@@ -1233,6 +1236,7 @@
       <gexf:edge id="56-34" source="AG0117" target="W0406"/>
       <gexf:edge id="56-35" source="AG0117" target="W0408"/>
       <gexf:edge id="56-36" source="AG0117" target="W0554"/>
+      <gexf:edge id="56-37" source="AG0117" target="W0171"/>
       <gexf:edge id="57-1" source="AG0118" target="W0014"/>
       <gexf:edge id="57-2" source="AG0118" target="W0013"/>
       <gexf:edge id="57-3" source="AG0118" target="W0025"/>
@@ -1580,6 +1584,22 @@
       <gexf:edge id="105-14" source="AG0307" target="W0414"/>
       <gexf:edge id="105-15" source="AG0307" target="W0414"/>
       <gexf:edge id="105-16" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-17" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-18" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-19" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-20" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-21" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-22" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-23" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-24" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-25" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-26" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-27" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-28" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-29" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-30" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-31" source="AG0307" target="W0414"/>
+      <gexf:edge id="105-32" source="AG0307" target="W0414"/>
       <gexf:edge id="106-1" source="AG0310" target="W0163"/>
       <gexf:edge id="106-2" source="AG0310" target="W0200"/>
       <gexf:edge id="106-3" source="AG0310" target="W0208"/>

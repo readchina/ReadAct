@@ -2625,4 +2625,22 @@
       <geo>24.479834 118.089424</geo>
     </location>
   </place>
+  <place xml:id="SP0441" type="L">
+    <placeName>reading room</placeName>
+  </place>
+  <place xml:id="SP0442" type="L">
+    <placeName>at home</placeName>
+  </place>
+  <place xml:id="SP0443" type="L">
+    <placeName>state prison farm</placeName>
+  </place>
+  <place xml:id="SP0444" type="L">
+    <placeName>labor camp</placeName>
+  </place>
+  <place xml:id="SP0445" type="L">
+    <placeName>office</placeName>
+  </place>
+  <place xml:id="SP0446" type="L">
+    <placeName>school</placeName>
+  </place>
 </listPlace>
