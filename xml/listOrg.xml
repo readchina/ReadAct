@@ -217,6 +217,7 @@
     <orgName xml:lang="en" type="main" from="1898">Beijing University</orgName>
     <orgName xml:lang="zh" type="main" from="1898">北京大学</orgName>
     <placeName ref="#SP0005"/>
+    <note>Beijing University</note>
     <listBibl>
       <bibl source="https://www.pku.edu.cn/"/>
     </listBibl>
@@ -227,6 +228,7 @@
     <orgName xml:lang="en" type="alias" from="1937" to="1942">Gunaghua Bookstore</orgName>
     <orgName xml:lang="zh" type="alias" from="1937" to="1942">光华书店</orgName>
     <placeName ref="#SP0024"/>
+    <note>Xinhua Bookstore</note>
     <listBibl>
       <bibl source="https://en.wikipedia.org/wiki/Xinhua_Bookstore"/>
     </listBibl>
