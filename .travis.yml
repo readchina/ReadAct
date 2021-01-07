@@ -1,9 +1,9 @@
 language: python
 python:
-  - "3.7"
+  - "3.8"
 
 os: linux
-dist: bionic
+dist: focal
 
 # miller on ubuntu bionic is 5.3 we need 5.4 or higher
 addons:
@@ -34,7 +34,7 @@ notifications:
 
 
 install:
-  - pip install goodtables csvkit
+  - pip install frictionless csvkit
 
 before_script:
   # Generate xml files
@@ -49,7 +49,7 @@ before_script:
 
 # Checks
 script:
-  - goodtables validate csv/datapackage.json
+  - frictionless validate csv/datapackage.json
   # - bats --tap test/*.bats
   - jing xml/schema/tei_all.rng xml/expand/expand.xml
   - jing xml/schema/gexf.rng xml/rActs.gexf
