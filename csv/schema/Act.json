@@ -140,21 +140,21 @@
     {
       "fields": "agent",
       "reference": {
-        "resource": "Agent",
+        "resource": "agent",
         "fields": "agent_id"
       }
     },
     {
       "fields": "action",
       "reference": {
-        "resource": "ActType",
+        "resource": "act-type",
         "fields": "action_id"
       }
     },
     {
       "fields": "act_object",
       "reference": {
-        "resource": "Work",
+        "resource": "work",
         "fields": "work_id"
       }
     },
