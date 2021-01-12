@@ -3548,7 +3548,7 @@
     <birth when="1953">1953<placeName ref="#SP0006"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
-    <event type="rustication" from="1970" to-custom="[1970..1980]" where="#SP0152">
+    <event type="rustication" from="1970" to="1974" where="#SP0152">
       <label>rustication</label>
     </event>
     <listBibl>

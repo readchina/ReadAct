@@ -2643,4 +2643,22 @@
   <place xml:id="SP0446" type="L">
     <placeName>school</placeName>
   </place>
+  <place xml:id="SP0447" type="L">
+    <placeName>Tian'anmen Square</placeName>
+  </place>
+  <place xml:id="SP0448" type="L">
+    <placeName>Three Gorges Dam</placeName>
+  </place>
+  <place xml:id="SP0449" type="PL">
+    <placeName>Bolivia</placeName>
+    <location>
+      <geo>-16.290154 -63.588654</geo>
+    </location>
+  </place>
+  <place xml:id="SP0450" type="PL">
+    <placeName>Qingdao</placeName>
+    <location>
+      <geo>36.091930 120.328056</geo>
+    </location>
+  </place>
 </listPlace>

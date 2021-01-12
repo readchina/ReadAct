@@ -280,7 +280,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00042" active="#AG0003" key="AT01" name="to-read" ref="#W0414" passive="#AG0628" from="1963" to="1964" change="2020-12-09" resp="MG">
+    <relation type="reading-act" xml:id="A00042" active="#AG0003" key="AT01" name="to-read" ref="#W0414" passive="#AG0628" from="1963" to="1964" change="2021-01-12" resp="MG">
       <desc>In the home of Jiang Dingyue 蔣定粵s anonymous friend<bibl type="source" source="#W0432">
           <biblScope unit="page">43</biblScope>
         </bibl>
@@ -298,7 +298,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00045" active="#AG0040" key="AT11" name="to-translate" ref="#W0022" from="1969" to="1969" change="2020-12-09" resp="MG">
+    <relation type="reading-act" xml:id="A00045" active="#AG0040" key="AT11" name="to-translate" ref="#W0022" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>He worked on the translation of the book and before 1969 9th National Congress his home got raided again. The hundreds pages of translation became cigarette paper and were burned.<bibl type="source" source="#W0433"/>
       </desc>
     </relation>
@@ -494,8 +494,8 @@
       <desc>The book was destroyed before the 1969 9th National Congress as the translators home got raided and hundreds pages of translation became cigarette paper and were burned.<bibl type="source" source="#W0433"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00080" active="#AG0011" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0063" passive="#AG0005" from-custom="19XX" to-custom="19XX" change="2020-04-04" resp="DP">
-      <desc>huge influence on P0005 led her to the way of individualistic freedom and the rejection of societal pressure<bibl type="source" source="#W0423">
+    <relation type="reading-act" xml:id="A00080" active="#AG0011" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0063" passive="#AG0005" from-custom="19XX" to-custom="19XX" change="2021-01-12" resp="MG">
+      <desc>huge influence on AG0005 led her to the way of individualistic freedom and the rejection of societal pressure<bibl type="source" source="#W0423">
           <biblScope unit="page">79</biblScope>
         </bibl>
       </desc>
@@ -662,7 +662,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00155" active="#AG0626" key="AT14" name="to-destroy" ref="#W0077" from="1966" to="1966" change="2020-12-09" resp="MG">
+    <relation type="reading-act" xml:id="A00155" active="#AG0626" key="AT14" name="to-destroy" ref="#W0077" from="1966" to="1966" change="2021-01-12" resp="MG">
       <desc>This book in a precious editon was left in the house by Qian Dachuans maternal grandfather and later found by Red Guards and destroyed.<bibl type="source" source="#W0489"/>
       </desc>
     </relation>
@@ -865,7 +865,7 @@
       <desc>he remembered that quote by Graham Greene and compared it to his own situation as an intellectual during the CR<bibl type="source" source="#W0433"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00191" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="1960..1966" to="1966" change="2020-12-11" resp="MG">
+    <relation type="reading-act" xml:id="A00191" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="1960..1966" to="1966" change="2021-01-12" resp="MG">
       <desc>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtained from his readings at that time.<bibl type="source" source="#W0428">
           <biblScope unit="page">116-117</biblScope>
         </bibl>
@@ -4057,13 +4057,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00855" active="#AG0468" key="AT40" name="to-sing" ref="#W0537" from="1976" to="1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00855" active="#AG0468" key="AT40" name="to-sing" ref="#W0537" from="1976" to="1976" change="2021-01-05" resp="MG">
       <desc>They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.<bibl type="source" source="#W0524">
           <biblScope unit="page">211</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00856" active="#AG0103" key="AT40" name="to-sing" ref="#W0537" from-custom="196x..197x" to-custom="196x..197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00856" active="#AG0103" key="AT40" name="to-sing" ref="#W0537" from-custom="196x..197x" to-custom="196x..197x" change="2021-01-05" resp="MG">
       <desc>The author and other educated youth would sing this song upon farewell.<bibl type="source" source="#W0419">
           <biblScope unit="page">576</biblScope>
         </bibl>
@@ -4092,7 +4092,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00861" active="#AG0106" key="AT01" name="to-read" ref="#W0416" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00861" active="#AG0106" key="AT01" name="to-read" ref="#W0416" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook)<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
@@ -4110,7 +4110,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00864" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from="1978" to="1978" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00864" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from="1978" to="1978" change="2021-01-05" resp="MG">
       <desc>She was amazed at the list of books circulating inside the underground poetry organization during the Cultural Revolution.<bibl type="source" source="#W0479">
           <biblScope unit="page">75</biblScope>
         </bibl>
@@ -4128,8 +4128,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00867" active="#AG0011" key="AT05" name="to-mention" ref="#W0554" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
-      <desc>She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.<bibl type="source" source="#W0477">
+    <relation type="reading-act" xml:id="A00867" active="#AG0011" key="AT05" name="to-mention" ref="#W0554" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-05" resp="MG">
+      <desc>She saw beautiful albums brought back from Europe for the first time in the painting masters’ home (SP0442)<bibl type="source" source="#W0477">
           <biblScope unit="page">56</biblScope>
         </bibl>
       </desc>
@@ -4173,8 +4173,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00875" active="#AG0011" key="AT05" name="to-mention" ref="#W0554" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
-      <desc>She saw beautiful albums brought back from Europe for the first time in the painting masters’ home.<bibl type="source" source="#W0477">
+    <relation type="reading-act" xml:id="A00875" active="#AG0011" key="AT05" name="to-mention" ref="#W0554" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-05" resp="MG">
+      <desc>She saw beautiful albums brought back from Europe for the first time in the painting masters’ home (SP0442)<bibl type="source" source="#W0477">
           <biblScope unit="page">56</biblScope>
         </bibl>
       </desc>
@@ -4185,7 +4185,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00877" active="#AG0197" key="AT01" name="to-read" ref="#W0414" from-custom="1970?" to-custom="1970?" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00877" active="#AG0197" key="AT01" name="to-read" ref="#W0414" from-custom="1970?" to-custom="1970?" change="2021-01-05" resp="MG">
       <desc>Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
@@ -4201,7 +4201,7 @@
       <desc>unknown<bibl type="source" source="#W0443"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00880" active="#AG0116" key="AT01" name="to-read" ref="#W0380" from-custom="1970~" to-custom="1970~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00880" active="#AG0116" key="AT01" name="to-read" ref="#W0380" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
@@ -4219,13 +4219,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00883" active="#AG0103" key="AT23" name="to-listen-to" ref="#W0384" from-custom="196x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00883" active="#AG0103" key="AT23" name="to-listen-to" ref="#W0384" from-custom="196x" to-custom="197x" change="2021-01-05" resp="MG">
       <desc>The author heard many stories from an educated youth in his team and those were mainly from these classic works<bibl type="source" source="#W0419">
           <biblScope unit="page">571</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00884" active="#AG0324" key="AT05" name="to-mention" ref="#W0622" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00884" active="#AG0324" key="AT05" name="to-mention" ref="#W0622" from-custom="197x" to-custom="197x" change="2021-01-05" resp="MG">
       <desc>An educated youth played this work with Erhu. Prior to this the author did not know the songs other than the revolutionary songs.<bibl type="source" source="#W0516">
           <biblScope unit="page">518f</biblScope>
         </bibl>
@@ -4249,13 +4249,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00888" active="#AG0103" key="AT05" name="to-mention" ref="#W0554" from-custom="1968..1974" to-custom="1968..1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00888" active="#AG0103" key="AT05" name="to-mention" ref="#W0554" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-05" resp="MG">
       <desc>He (name of a zhiqing) wanted to be a painter and he brought some painting albums during his rustication.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00889" active="#AG0103" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0554" passive="#AG0626" from-custom="1968..1974" to-custom="1968..1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00889" active="#AG0103" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0554" passive="#AG0626" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-05" resp="MG">
       <desc>Han and friends exchanged the books they had brought to the countryside<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
@@ -4273,7 +4273,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00892" active="#AG0041" key="AT28" name="to-watch" ref="#W0624" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00892" active="#AG0041" key="AT28" name="to-watch" ref="#W0624" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-05" resp="MG">
       <desc>The author borrowed this film to express a kind of attitude that people refused during the CR.<bibl type="source" source="#W0446"/>
       </desc>
     </relation>
@@ -4289,8 +4289,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00895" active="#AG0117" key="AT01" name="to-read" ref="#W0414" from-custom="1975..1979" to-custom="1975..1979" change="2020-04-04" resp="DP">
-      <desc>There was a bookstore in Fuzhou Road (PL0003) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A00895" active="#AG0117" key="AT01" name="to-read" ref="#W0414" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-05" resp="MG">
+      <desc>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
           <biblScope unit="page">454</biblScope>
         </bibl>
       </desc>
@@ -4307,7 +4307,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00898" active="#AG0252" key="AT05" name="to-mention" ref="#W0394" from-custom="1974~" to-custom="1974~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00898" active="#AG0252" key="AT05" name="to-mention" ref="#W0394" from-custom="1974~" to-custom="1974~" change="2021-01-05" resp="MG">
       <desc>Tang Ke copied this poem to the author when he passed the Three Gorges Dam.<bibl type="source" source="#W0499">
           <biblScope unit="page">259</biblScope>
         </bibl>
@@ -4355,8 +4355,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00906" active="#AG0020" key="AT05" name="to-mention" ref="#W0281" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
-      <desc>"Gao Hua mentions that he often visitied his friend's house and browsed this and ""other old books and publication that his classmate's father has purchased""."<bibl type="source" source="#W0420">
+    <relation type="reading-act" xml:id="A00906" active="#AG0020" key="AT05" name="to-mention" ref="#W0281" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-05" resp="MG">
+      <desc>"Gao Hua mentions that he often visitied his friend's house (SP0442 )and browsed this and ""other old books and publication that his classmate's father has purchased""."<bibl type="source" source="#W0420">
           <biblScope unit="page">134</biblScope>
         </bibl>
       </desc>
@@ -4367,14 +4367,14 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00908" active="#AG0020" key="AT05" name="to-mention" ref="#W0282" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
-      <desc>"Gao Hua mentions that he often visitied his friend's house and browsed this and ""other old books and publication that his classmate's father has purchased"""<bibl type="source" source="#W0420">
+    <relation type="reading-act" xml:id="A00908" active="#AG0020" key="AT05" name="to-mention" ref="#W0282" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-05" resp="MG">
+      <desc>"Gao Hua mentions that he often visitied his friend's house (SP0442 )and browsed this and ""other old books and publication that his classmate's father has purchased""."<bibl type="source" source="#W0420">
           <biblScope unit="page">134</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00909" active="#AG0020" key="AT25" name="to-be-aroused-think-about-something" ref="#W0281" from="1967" to="1967" change="2020-04-04" resp="DP">
-      <desc>Gao Hua found about the murder of Guevara in Bolivia from this source.<bibl type="source" source="#W0420">
+    <relation type="reading-act" xml:id="A00909" active="#AG0020" key="AT25" name="to-be-aroused-think-about-something" ref="#W0281" from="1967" to="1967" change="2021-01-05" resp="MG">
+      <desc>Gao Hua found about the murder of Guevara in Bolivia (SP0449 )from this source.<bibl type="source" source="#W0420">
           <biblScope unit="page">134</biblScope>
         </bibl>
       </desc>
@@ -4433,55 +4433,55 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00919" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0292" passive="#AG0031" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00919" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0292" passive="#AG0031" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>Zhu lent the book to Huang.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00920" active="#AG0031" key="AT01" name="to-read" ref="#W0292" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00920" active="#AG0031" key="AT01" name="to-read" ref="#W0292" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>Huang received this book from his friend Zhu who he met in the prison.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00921" active="#AG0032" key="AT12" name="to-have-the-text-confiscated" ref="#W0293" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00921" active="#AG0032" key="AT12" name="to-have-the-text-confiscated" ref="#W0293" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>This book was confiscated while Zhu was sent into the prison.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00922" active="#AG0031" key="AT01" name="to-read" ref="#W0294" from-custom="1964.." to-custom="1964.." change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00922" active="#AG0031" key="AT01" name="to-read" ref="#W0294" from-custom="1964.." to-custom="1964.." change="2021-01-05" resp="MG">
       <desc>Huang read this commentary of a paper bag which he got during the work and this commentary was printed on it.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00923" active="#AG0032" key="AT01" name="to-read" ref="#W0294" from-custom="1964.." to-custom="1964.." change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00923" active="#AG0032" key="AT01" name="to-read" ref="#W0294" from-custom="1964.." to-custom="1964.." change="2021-01-05" resp="MG">
       <desc>Zhu got this article from Huang after Huang read it a few times.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00924" active="#AG0047" key="AT01" name="to-read" ref="#W0046" from-custom="1940..1950" to-custom="1940..1950" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00924" active="#AG0047" key="AT01" name="to-read" ref="#W0046" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00925" active="#AG0047" key="AT01" name="to-read" ref="#W0295" from-custom="1940..1950" to-custom="1940..1950" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00925" active="#AG0047" key="AT01" name="to-read" ref="#W0295" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00926" active="#AG0047" key="AT01" name="to-read" ref="#W0055" from-custom="1940..1950" to-custom="1940..1950" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00926" active="#AG0047" key="AT01" name="to-read" ref="#W0055" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00927" active="#AG0047" key="AT01" name="to-read" ref="#W0296" from-custom="1940..1950" to-custom="1940..1950" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00927" active="#AG0047" key="AT01" name="to-read" ref="#W0296" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
@@ -4517,7 +4517,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00933" active="#AG0239" key="AT27" name="to-borrow" ref="#W0300" passive="#AG0146" from="1966" to="1966" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00933" active="#AG0239" key="AT27" name="to-borrow" ref="#W0300" passive="#AG0146" from="1966" to="1966" change="2021-01-05" resp="MG">
       <desc>Mingxin’s teacher Wang Hanying encouraged him and lent when he said he wanted to try writing critiques and lent him the journals.<bibl type="source" source="#W0497">
           <biblScope unit="page"/>
         </bibl>
@@ -4571,19 +4571,19 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00942" active="#AG0114" key="AT05" name="to-mention" ref="#W0564" from-custom="1976~" to-custom="1976~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00942" active="#AG0114" key="AT05" name="to-mention" ref="#W0564" from-custom="1976~" to-custom="1976~" change="2021-01-05" resp="MG">
       <desc>He mentioned that he used to sing it in prison.<bibl type="source" source="#W0517">
           <biblScope unit="page">208</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00943" active="#AG0114" key="AT05" name="to-mention" ref="#W0303" from-custom="1975..1979" to-custom="1975..1979" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00943" active="#AG0114" key="AT05" name="to-mention" ref="#W0303" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-05" resp="MG">
       <desc>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
           <biblScope unit="page">435</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00944" active="#AG0516" key="AT01" name="to-read" ref="#W0305" from="1989" to="1989" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00944" active="#AG0516" key="AT01" name="to-read" ref="#W0305" from="1989" to="1989" change="2021-01-05" resp="MG">
       <desc>Hu read it when he was in Changsha.<bibl type="source" source="#W0517">
           <biblScope unit="page">445</biblScope>
         </bibl>
@@ -4595,8 +4595,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00946" active="#AG0517" key="AT23" name="to-listen-to" ref="#W0535" from-custom="1973..1977" to-custom="1973..1977" change="2020-04-04" resp="DP">
-      <desc>He heard it at a college student’s home whose father was an officer.<bibl type="source" source="#W0524">
+    <relation type="reading-act" xml:id="A00946" active="#AG0517" key="AT23" name="to-listen-to" ref="#W0535" from-custom="1973..1977" to-custom="1973..1977" change="2021-01-05" resp="MG">
+      <desc>He heard it at a college student’s home (SP0442 )whose father was an officer.<bibl type="source" source="#W0524">
           <biblScope unit="page">102</biblScope>
         </bibl>
       </desc>
@@ -4607,25 +4607,25 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00948" active="#AG0003" key="AT32" name="to-sing" ref="#W0566" from-custom="1970..1977" to-custom="1970..1977" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00948" active="#AG0003" key="AT32" name="to-sing" ref="#W0566" from-custom="1970..1977" to-custom="1970..1977" change="2021-01-05" resp="MG">
       <desc>He sang this song in prison.<bibl type="source" source="#W0486">
           <biblScope unit="page">126</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00949" active="#AG0003" key="AT22" name="to-remember" ref="#W0289" from-custom="1970~" to-custom="1970~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00949" active="#AG0003" key="AT22" name="to-remember" ref="#W0289" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>He recalled the words from the Bible before he was about to be executed.<bibl type="source" source="#W0486">
           <biblScope unit="page">138</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00950" active="#AG0003" key="AT05" name="to-mention" ref="#W0567" from-custom="1970~" to-custom="1970~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00950" active="#AG0003" key="AT05" name="to-mention" ref="#W0567" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>He mentioned that he carved some words on the wall in prison which had a very calligraphic feel.<bibl type="source" source="#W0486">
           <biblScope unit="page">138</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00951" active="#AG0003" key="AT32" name="to-sing" ref="#W0568" from-custom="1971~" to-custom="1971~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00951" active="#AG0003" key="AT32" name="to-sing" ref="#W0568" from-custom="1971~" to-custom="1971~" change="2021-01-05" resp="MG">
       <desc>He sang it with his fellow in the workshop.<bibl type="source" source="#W0486">
           <biblScope unit="page">142</biblScope>
         </bibl>
@@ -4661,7 +4661,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00957" active="#AG0324" key="AT05" name="to-mention" ref="#W0574" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00957" active="#AG0324" key="AT05" name="to-mention" ref="#W0574" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>His friend Yan Li danced a dance from this work with a fellow Zhiqing.<bibl type="source" source="#W0516">
           <biblScope unit="page">520</biblScope>
         </bibl>
@@ -4697,13 +4697,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00963" active="#AG0195" key="AT05" name="to-mention" ref="#W0311" from-custom="19xx" to-custom="19xx" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00963" active="#AG0195" key="AT05" name="to-mention" ref="#W0311" from-custom="19xx" to-custom="19xx" change="2021-01-09" resp="MG">
       <desc>The author’s friend Liu Yu has this work at home which made the author feel very intellectual.<bibl type="source" source="#W0488">
           <biblScope unit="page">274</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00964" active="#AG0195" key="AT23" name="to-listen-to" ref="#W0575" from="1971" to="1971" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00964" active="#AG0195" key="AT23" name="to-listen-to" ref="#W0575" from="1971" to="1971" change="2021-01-09" resp="MG">
       <desc>The author and his friends visited some professors in Beijing and they listened this piano song by the daughter of a professor and then the professor played violin for them.<bibl type="source" source="#W0488">
           <biblScope unit="page">276</biblScope>
         </bibl>
@@ -4829,7 +4829,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00985" active="#AG0115" key="AT01" name="to-read" ref="#W0313" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00985" active="#AG0115" key="AT01" name="to-read" ref="#W0313" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>After the Lin Biao Incident, the author custody was turned into labor rectification so that he could have more free time to learn colleage courses by himself and his mother sent him some original English texbooks about Modern Electronics and this one.<bibl type="source" source="#W0471">
           <biblScope unit="page">433</biblScope>
         </bibl>
@@ -4841,8 +4841,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00987" active="#AG0117" key="AT01" name="to-read" ref="#W0315" from="1969" to="1969" change="2020-04-04" resp="DP">
-      <desc>"The author learned English with a teacher who worked in the library of the Shanghai Academy of Science and this textbook was described as ""old brand imperialist ""by the author."<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A00987" active="#AG0117" key="AT01" name="to-read" ref="#W0315" from="1969" to="1969" change="2021-01-09" resp="MG">
+      <desc>"The author learned English with a teacher who worked in the library of the Shanghai Academy of Science (SP0006) and this textbook was described as ""old brand imperialist ""by the author."<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -4865,8 +4865,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00991" active="#AG0117" key="AT05" name="to-mention" ref="#W0319" from-custom="1976..1979" to-custom="1976..1979" change="2020-04-04" resp="DP">
-      <desc>There was a bookstore in Fuzhou Road (PL0003) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A00991" active="#AG0117" key="AT05" name="to-mention" ref="#W0319" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
+      <desc>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
           <biblScope unit="page">454</biblScope>
         </bibl>
       </desc>
@@ -4883,14 +4883,14 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00994" active="#AG0117" key="AT05" name="to-mention" ref="#W0321" from-custom="1976..1979" to-custom="1976..1979" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00994" active="#AG0117" key="AT05" name="to-mention" ref="#W0321" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
       <desc>The author borrowed this book from Huang Tianmin the director of translation department of Shanghai Film Studios.<bibl type="source" source="#W0430">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00995" active="#AG0117" key="AT01" name="to-read" ref="#W0322" from-custom="1976..1979" to-custom="1976..1979" change="2020-04-04" resp="DP">
-      <desc>The author found himself curious about everything, so he spent his time in Shanghai Municipal Library reading these books.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A00995" active="#AG0117" key="AT01" name="to-read" ref="#W0322" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
+      <desc>The author found himself curious about everything, so he spent his time in Shanghai Municipal Library (SP0006) reading these books.<bibl type="source" source="#W0430">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
@@ -4901,20 +4901,20 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00997" active="#AG0121" key="AT32" name="to-sing" ref="#W0594" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00997" active="#AG0121" key="AT32" name="to-sing" ref="#W0594" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>People focused on production during the day and then revolution for the night. Upon the beginning of the study session every night then they would sing this song together.<bibl type="source" source="#W0437">
           <biblScope unit="page">496</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00998" active="#AG0121" key="AT05" name="to-mention" ref="#W0595" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A00998" active="#AG0121" key="AT05" name="to-mention" ref="#W0595" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>The factory where the author worked established a propaganda team of Mao thoughts which performed revolutionary model opera like this.<bibl type="source" source="#W0437">
           <biblScope unit="page">497</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00999" active="#AG0324" key="AT05" name="to-mention" ref="#W0596" from-custom="1967..1973" to-custom="1967..1973" change="2020-04-04" resp="DP">
-      <desc>At that time girls wrapped their grown-up breasts tightly just like what was showed in this movie. The revolutionary spirit and asceticism were prevailing in the school.<bibl type="source" source="#W0516">
+    <relation type="reading-act" xml:id="A00999" active="#AG0324" key="AT05" name="to-mention" ref="#W0596" from-custom="1967..1973" to-custom="1967..1973" change="2021-01-09" resp="MG">
+      <desc>At that time girls wrapped their grown-up breasts tightly just like what was showed in this movie. The revolutionary spirit and asceticism were prevailing in the school (SP0446).<bibl type="source" source="#W0516">
           <biblScope unit="page">509</biblScope>
         </bibl>
       </desc>
@@ -4931,8 +4931,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01002" active="#AG0114" key="AT05" name="to-mention" ref="#W0400" from-custom="19xx" to-custom="19xx" change="2020-04-04" resp="DP">
-      <desc>P0691 wrote down this poem to remember the unhappy feelings of his ex-wife.<bibl type="source" source="#W0429">
+    <relation type="reading-act" xml:id="A01002" active="#AG0114" key="AT05" name="to-mention" ref="#W0400" from-custom="19xx" to-custom="19xx" change="2021-01-09" resp="MG">
+      <desc>AG0497 wrote down this poem to remember the unhappy feelings of his ex-wife.<bibl type="source" source="#W0429">
           <biblScope unit="page">54</biblScope>
         </bibl>
       </desc>
@@ -4943,14 +4943,14 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01004" active="#AG0117" key="AT05" name="to-mention" ref="#W0554" from-custom="1978~" to-custom="1978~" change="2020-04-04" resp="DP">
-      <desc>She first recognized impressionism in P0167’s home.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A01004" active="#AG0117" key="AT05" name="to-mention" ref="#W0554" from-custom="1978~" to-custom="1978~" change="2021-01-09" resp="MG">
+      <desc>She first recognized impressionism in AG0144’s home (SP0442.)<bibl type="source" source="#W0430">
           <biblScope unit="page">452</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01005" active="#AG0252" key="AT05" name="to-mention" ref="#W0554" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
-      <desc>The author talked about this person during the call with P0277.<bibl type="source" source="#W0499">
+    <relation type="reading-act" xml:id="A01005" active="#AG0252" key="AT05" name="to-mention" ref="#W0554" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
+      <desc>The author talked about this person during the call with AG0253.<bibl type="source" source="#W0499">
           <biblScope unit="page">284</biblScope>
         </bibl>
       </desc>
@@ -4997,13 +4997,14 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01013" active="#AG0114" key="AT01" name="to-read" ref="#W0402" from-custom="1971..1972" to-custom="1971..1972" change="2020-04-04" resp="DP">
-      <desc>read in L0002<bibl type="source" source="#W0429">
+    <relation type="reading-act" xml:id="A01013" active="#AG0114" key="AT01" name="to-read" ref="#W0402" from-custom="1971..1972" to-custom="1971..1972" change="2021-01-09" resp="MG">
+      <desc>
+        <bibl type="source" source="#W0429">
           <biblScope unit="page">110</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01014" active="#AG0195" key="AT01" name="to-read" ref="#W0402" from-custom="1968~" to-custom="1968~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01014" active="#AG0195" key="AT01" name="to-read" ref="#W0402" from-custom="1968~" to-custom="1968~" change="2021-01-09" resp="MG">
       <desc>mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.<bibl type="source" source="#W0488">
           <biblScope unit="page">262</biblScope>
         </bibl>
@@ -5021,8 +5022,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01017" active="#AG0003" key="AT40" name="to-sing" ref="#W0625" from-custom="1970~" to-custom="1970~" change="2020-04-04" resp="DP">
-      <desc>He sang this song which he once taught to P0785.<bibl type="source" source="#W0486">
+    <relation type="reading-act" xml:id="A01017" active="#AG0003" key="AT40" name="to-sing" ref="#W0625" from-custom="1970~" to-custom="1970~" change="2021-01-09" resp="MG">
+      <desc>He sang this song which he once taught to AG0591.<bibl type="source" source="#W0486">
           <biblScope unit="page">125</biblScope>
         </bibl>
       </desc>
@@ -5068,7 +5069,7 @@
         <bibl type="source" source="#W0444"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01026" active="#AG0113" key="AT01" name="to-read" ref="#W0095" from="1971" to="1971" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01026" active="#AG0113" key="AT01" name="to-read" ref="#W0095" from="1971" to="1971" change="2021-01-09" resp="MG">
       <desc>He was dissapointed by the reality and blamed the Pavel Korchagin way of life pursuit is the reason why he made multiple mistakes.<bibl type="source" source="#W0426"/>
       </desc>
     </relation>
@@ -5160,7 +5161,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01042" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from-custom="1970..197x" to-custom="1970..197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01042" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from-custom="1970..197x" to-custom="1970..197x" change="2021-01-09" resp="MG">
       <desc>To the author the 1970s was not only about sufferings and pains but also beautiful and romantic memories in the coutryside.<bibl type="source" source="#W0479">
           <biblScope unit="page">79</biblScope>
         </bibl>
@@ -5224,7 +5225,7 @@
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01053" active="#AG0020" key="AT05" name="to-mention" ref="#W0383" from="1969" to="1969" change="2020-04-04" resp="DP">
-      <desc>Gao Hua mentions that  during the times when any connection with abroad was limited this book was a source of information on the current state of affairs in the Soviet Union. From reading this book Gao Hua also found about famous Lumumba's People's Friendship University in Moscow which enrolled the students from Asia Africa and Latin America.<bibl type="source" source="#W0420">
+      <desc>Gao Hua mentions that  during the times when any connection with abroad was limited this book was a source of information on the current state of affairs in the Soviet Union. From reading this book Gao Hua also found about famous Lumumba's People's Friendship University in Moscow (SP0030w)hich enrolled the students from Asia Africa and Latin America.<bibl type="source" source="#W0420">
           <biblScope unit="page">135</biblScope>
         </bibl>
       </desc>
@@ -5265,7 +5266,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01060" active="#AG0035" key="AT20" name="to-perform" ref="#W0630" from="1956" to="1956" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01060" active="#AG0035" key="AT20" name="to-perform" ref="#W0630" from="1956" to="1956" change="2021-01-09" resp="MG">
       <desc>played the leading part in Qingdao<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
@@ -5281,34 +5282,34 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01063" active="#AG0506" key="AT09" name="to-memorize" ref="#W0055" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01063" active="#AG0506" key="AT09" name="to-memorize" ref="#W0055" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">162</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01064" active="#AG0506" key="AT26" name="to-like" ref="#W0055" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01064" active="#AG0506" key="AT26" name="to-like" ref="#W0055" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">162</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01065" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0105" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01065" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0105" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01066" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0157" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01066" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0157" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China<bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01067" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0444" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01067" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0444" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China<bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
@@ -5333,13 +5334,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01071" active="#AG0106" key="AT01" name="to-read" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01071" active="#AG0106" key="AT01" name="to-read" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-09" resp="MG">
       <desc>recommended by a friend (possibly penpal)<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01072" active="#AG0106" key="AT26" name="to-like" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01072" active="#AG0106" key="AT26" name="to-like" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-09" resp="MG">
       <desc>one of his favourite writers back then<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
@@ -5404,7 +5405,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01082" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01082" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">55</biblScope>
         </bibl>
@@ -5416,7 +5417,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01084" active="#AG0103" key="AT05" name="to-mention" ref="#W0414" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01084" active="#AG0103" key="AT05" name="to-mention" ref="#W0414" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
@@ -5446,55 +5447,55 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01104" active="#AG0324" key="AT01" name="to-read" ref="#W0324" from-custom="1966~" to-custom="1966~" change="2020-04-04" resp="DP">
-      <desc>The author started to learn Poem with this book when she entered middle school.<bibl type="source" source="#W0516">
+    <relation type="reading-act" xml:id="A01104" active="#AG0324" key="AT01" name="to-read" ref="#W0324" from-custom="1966~" to-custom="1966~" change="2021-01-09" resp="MG">
+      <desc>The author started to learn Poems with this book when she entered middle school.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01105" active="#AG0118" key="AT01" name="to-read" ref="#W0324" from-custom="1970~" to-custom="1970~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01105" active="#AG0118" key="AT01" name="to-read" ref="#W0324" from-custom="1970~" to-custom="1970~" change="2021-01-09" resp="MG">
       <desc>The author started to write Poems when he was in the second year of middle school, but he had not established the sense of being a poet.<bibl type="source" source="#W0476">
           <biblScope unit="page">531</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01106" active="#AG0116" key="AT01" name="to-read" ref="#W0324" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01106" active="#AG0116" key="AT01" name="to-read" ref="#W0324" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01107" active="#AG0103" key="AT05" name="to-mention" ref="#W0324" from-custom="1968..1974" to-custom="1968..1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01107" active="#AG0103" key="AT05" name="to-mention" ref="#W0324" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-09" resp="MG">
       <desc>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01108" active="#AG0324" key="AT05" name="to-mention" ref="#W0558" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01108" active="#AG0324" key="AT05" name="to-mention" ref="#W0558" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01109" active="#AG0324" key="AT05" name="to-mention" ref="#W0601" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01109" active="#AG0324" key="AT05" name="to-mention" ref="#W0601" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01110" active="#AG0103" key="AT05" name="to-mention" ref="#W0601" from-custom="1976.." to-custom="1976.." change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01110" active="#AG0103" key="AT05" name="to-mention" ref="#W0601" from-custom="1976.." to-custom="1976.." change="2021-01-09" resp="MG">
       <desc>Aside from poem the educated youth transcribed songs as recreational activity as well.<bibl type="source" source="#W0419">
           <biblScope unit="page">578</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01111" active="#AG0324" key="AT05" name="to-mention" ref="#W0602" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01111" active="#AG0324" key="AT05" name="to-mention" ref="#W0602" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01112" active="#AG0324" key="AT05" name="to-mention" ref="#W0603" from-custom="197x" to-custom="197x" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01112" active="#AG0324" key="AT05" name="to-mention" ref="#W0603" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>The author learned a lot about traditional Chinese Music from another educated youth.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
@@ -5530,31 +5531,31 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01118" active="#AG0116" key="AT32" name="to-sing" ref="#W0606" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01118" active="#AG0116" key="AT32" name="to-sing" ref="#W0606" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
           <biblScope unit="page">548</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01119" active="#AG0116" key="AT32" name="to-sing" ref="#W0607" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01119" active="#AG0116" key="AT32" name="to-sing" ref="#W0607" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
           <biblScope unit="page">548</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01120" active="#AG0116" key="AT05" name="to-mention" ref="#W0328" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01120" active="#AG0116" key="AT05" name="to-mention" ref="#W0328" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01121" active="#AG0116" key="AT01" name="to-read" ref="#W0293" from="1972" to="1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01121" active="#AG0116" key="AT01" name="to-read" ref="#W0293" from="1972" to="1974" change="2021-01-09" resp="MG">
       <desc>The author read this collection for 2 years at home.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01122" active="#AG0116" key="AT01" name="to-read" ref="#W0329" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01122" active="#AG0116" key="AT01" name="to-read" ref="#W0329" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>He left the book at home for a long time and he really loved it.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
@@ -5578,25 +5579,25 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01126" active="#AG0103" key="AT33" name="to-swap" ref="#W0332" from-custom="1968..1974" to-custom="1968..1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01126" active="#AG0103" key="AT33" name="to-swap" ref="#W0332" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-09" resp="MG">
       <desc>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01127" active="#AG0103" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0333" from-custom="1968~" to-custom="1968~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01127" active="#AG0103" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0333" from-custom="1968~" to-custom="1968~" change="2021-01-09" resp="MG">
       <desc>The author and some other educated youths established a night school for the peasants in the village, mainly for the aim of teaching of literacy. But this kind of doggerel (打油诗) was for the liveliness of their textbook.<bibl type="source" source="#W0419">
           <biblScope unit="page">576</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01128" active="#AG0103" key="AT05" name="to-mention" ref="#W0284" from="1972" to="1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01128" active="#AG0103" key="AT05" name="to-mention" ref="#W0284" from="1972" to="1972" change="2021-01-09" resp="MG">
       <desc>The author introduced the categories of those internal published books. The year 1972 was overwhelming to those book lovers and for they sensed there seemed to be a chance of opening up.<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01129" active="#AG0114" key="AT05" name="to-mention" ref="#W0304" from-custom="1975..1979" to-custom="1975..1979" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01129" active="#AG0114" key="AT05" name="to-mention" ref="#W0304" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-09" resp="MG">
       <desc>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
           <biblScope unit="page">435</biblScope>
         </bibl>
@@ -5806,13 +5807,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01164" active="#AG0003" key="AT01" name="to-read" ref="#W0346" from="1959" to="1959" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01164" active="#AG0003" key="AT01" name="to-read" ref="#W0346" from="1959" to="1959" change="2021-01-09" resp="MG">
       <desc>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
           <biblScope unit="page">32</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01165" active="#AG0003" key="AT01" name="to-read" ref="#W0347" from="1959" to="1959" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01165" active="#AG0003" key="AT01" name="to-read" ref="#W0347" from="1959" to="1959" change="2021-01-09" resp="MG">
       <desc>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
           <biblScope unit="page">32</biblScope>
         </bibl>
@@ -5824,19 +5825,19 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01167" active="#AG0106" key="AT05" name="to-mention" ref="#W0348" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01167" active="#AG0106" key="AT05" name="to-mention" ref="#W0348" from="1969" to="1969" change="2021-01-09" resp="MG">
       <desc>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook).<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01168" active="#AG0117" key="AT01" name="to-read" ref="#W0350" from="1968" to="1968" change="2020-04-04" resp="DP">
-      <desc>During his labor rectification in a repairing factory in the suburb of Shanghai and the author read many books after work.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A01168" active="#AG0117" key="AT01" name="to-read" ref="#W0350" from="1968" to="1968" change="2021-01-12" resp="MG">
+      <desc>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai and the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01169" active="#AG0324" key="AT01" name="to-read" ref="#W0351" from="1976" to="1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01169" active="#AG0324" key="AT01" name="to-read" ref="#W0351" from="1976" to="1976" change="2021-01-12" resp="MG">
       <desc>The author was shocked when she read this Poem and she was worried about the situation of its author. For the April 5th movement was cracked down soon.<bibl type="source" source="#W0516">
           <biblScope unit="page">525</biblScope>
         </bibl>
@@ -5854,7 +5855,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01172" active="#AG0029" key="AT05" name="to-mention" ref="#W0414" from-custom="..1966" to-custom="..1966" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01172" active="#AG0029" key="AT05" name="to-mention" ref="#W0414" from-custom="..1966" to-custom="..1966" change="2021-01-12" resp="MG">
       <desc>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR (and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtained from his readings at that time.<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
@@ -5866,7 +5867,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01174" active="#AG0116" key="AT01" name="to-read" ref="#W0354" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01174" active="#AG0116" key="AT01" name="to-read" ref="#W0354" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
@@ -5876,7 +5877,7 @@
       <desc>Huang Yongsheng loved reading and he also shared the stories with troop under his command.<bibl type="source" source="#W0456"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01176" active="#AG0134" key="AT01" name="to-read" ref="#W0134" from-custom="1973~" to-custom="1973~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01176" active="#AG0134" key="AT01" name="to-read" ref="#W0134" from-custom="1973~" to-custom="1973~" change="2021-01-12" resp="MG">
       <desc>The author heard and read this work in her second year of the middle school.<bibl type="source" source="#W0482">
           <biblScope unit="page">391</biblScope>
         </bibl>
@@ -5900,23 +5901,23 @@
       <desc>Her husband directed the play.<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01181" active="#AG0036" key="AT41" name="to-direct" ref="#W0627" from="1956" to="1956" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01181" active="#AG0036" key="AT41" name="to-direct" ref="#W0627" from="1956" to="1956" change="2021-01-12" resp="MG">
       <desc>He directed the play in Qingdao<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01182" active="#AG0011" key="AT05" name="to-mention" ref="#W0628" from="1971" to="1971" change="2020-04-04" resp="DP">
-      <desc>The author is surprised that daughter from P0768 does not know how to appreciate the sketch.<bibl type="source" source="#W0477">
+    <relation type="reading-act" xml:id="A01182" active="#AG0011" key="AT05" name="to-mention" ref="#W0628" from="1971" to="1971" change="2021-01-12" resp="MG">
+      <desc>The author is surprised that daughter from AG0574 does not know how to appreciate the sketch.<bibl type="source" source="#W0477">
           <biblScope unit="page">57</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01183" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0357" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01183" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0357" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01184" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0358" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01184" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0358" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
@@ -5928,13 +5929,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01186" active="#AG0253" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0359" passive="#AG0252" from="1974" to="1974" change="2020-04-04" resp="DP">
-      <desc>"The ""Criticize Lin; criticize Kong"" movement started in 1974. So there were many ancient Chinese books showed up in the bookstores. Tang Ke gave this work to the author."<bibl type="source" source="#W0499">
+    <relation type="reading-act" xml:id="A01186" active="#AG0253" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0359" passive="#AG0252" from="1974" to="1974" change="2021-01-12" resp="MG">
+      <desc>"The ""Criticize Lin; criticize Kong"" movement started in 1974. So there were many ancient Chinese books showed up in the bookstores (SP0003.) Tang Ke gave this work to the author."<bibl type="source" source="#W0499">
           <biblScope unit="page">295</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01187" active="#AG0115" key="AT13" name="to-write" ref="#W0360" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01187" active="#AG0115" key="AT13" name="to-write" ref="#W0360" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>The author was so curious about the essence of CR. So he read a lot relative books and wrote this 66-pages article. Then he was pronounced counterrevolutionary for it.<bibl type="source" source="#W0471">
           <biblScope unit="page">415</biblScope>
         </bibl>
@@ -5964,21 +5965,21 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01192" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" passive="#AG0286" from-custom="1970?" to-custom="1970?" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01192" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" passive="#AG0286" from-custom="1970?" to-custom="1970?" change="2021-01-12" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">148</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01193" active="#AG0506" key="AT27" name="to-borrow" ref="#W0401" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01193" active="#AG0506" key="AT27" name="to-borrow" ref="#W0401" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">149</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01194" active="#AG0506" key="AT42" name="to-suffer-confiscation" ref="#W0401" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01194" active="#AG0506" key="AT42" name="to-suffer-confiscation" ref="#W0401" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">150</biblScope>
@@ -6009,7 +6010,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01199" active="#AG0115" key="AT01" name="to-read" ref="#W0633" from-custom="1967~" to-custom="1967~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01199" active="#AG0115" key="AT01" name="to-read" ref="#W0633" from-custom="1967~" to-custom="1967~" change="2021-01-12" resp="MG">
       <desc>Yang was his classmate in the USA who was directly pointed as counterrevolutionary by Jiang Qing. The author thought Yang's poster still didn't answer the question about CR.<bibl type="source" source="#W0471">
           <biblScope unit="page">419</biblScope>
         </bibl>
@@ -6033,31 +6034,31 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01300" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from="1967" to="1967" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01300" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from="1967" to="1967" change="2021-01-12" resp="MG">
       <desc>Later the author's home was plundered as well. All of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01301" active="#AG0011" key="AT05" name="to-mention" ref="#W0073" from="1971" to="1971" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01301" active="#AG0011" key="AT05" name="to-mention" ref="#W0073" from="1971" to="1971" change="2021-01-12" resp="MG">
       <desc>"His Poems are sincere, elegant and beautiful and full of pain. There won't be words like ""hatred"" or ""bullet""."<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01302" active="#AG0106" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01302" active="#AG0106" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-12" resp="MG">
       <desc>Shu Ting copied the poem into her notebook.<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01303" active="#AG0106" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01303" active="#AG0106" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-12" resp="MG">
       <desc>Shu Ting copied the poem into her notebook.<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01304" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0368" passive="#AG0031" from="1969" to="1969" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01304" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0368" passive="#AG0031" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>Huang and Zhu talked about health in the Prison. Zhu gave Huang this work and introduced the author to him.<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
@@ -6067,37 +6068,37 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01306" active="#AG0115" key="AT01" name="to-read" ref="#W0369" from="1967" to="1967" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01306" active="#AG0115" key="AT01" name="to-read" ref="#W0369" from="1967" to="1967" change="2021-01-12" resp="MG">
       <desc>The author had read many works of other people regarding the topic of class struggle. But still he found the works of Marx and Engels left the strongest influence on him.<bibl type="source" source="#W0471">
           <biblScope unit="page">419</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01307" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01307" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2021-01-12" resp="MG">
       <desc>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01308" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0371" passive="#AG0011" from="1972" to="1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01308" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0371" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01309" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0372" passive="#AG0011" from="1972" to="1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01309" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0372" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01310" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0373" passive="#AG0011" from="1972" to="1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01310" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0373" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01311" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0090" passive="#AG0011" from="1972" to="1972" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01311" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0090" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
@@ -6115,13 +6116,13 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01314" active="#AG0118" key="AT01" name="to-read" ref="#W0364" from-custom="1969?" to-custom="1969?" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01314" active="#AG0118" key="AT01" name="to-read" ref="#W0364" from-custom="1969?" to-custom="1969?" change="2021-01-12" resp="MG">
       <desc>The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.<bibl type="source" source="#W0476">
           <biblScope unit="page">531</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01315" active="#AG0018" key="AT13" name="to-write" ref="#W0365" from="1973" to="1973" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01315" active="#AG0018" key="AT13" name="to-write" ref="#W0365" from="1973" to="1973" change="2021-01-12" resp="MG">
       <desc>The author made this Poem by himself when he saw the village scene (peasants wearing patched clothes working in the field) there in Baiyangdian.<bibl type="source" source="#W0480">
           <biblScope unit="page">310</biblScope>
         </bibl>
@@ -6133,7 +6134,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01317" active="#AG0011" key="AT05" name="to-mention" ref="#W0375" from-custom="1972~" to-custom="1972~" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01317" active="#AG0011" key="AT05" name="to-mention" ref="#W0375" from-custom="1972~" to-custom="1972~" change="2021-01-12" resp="MG">
       <desc>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">55</biblScope>
         </bibl>
@@ -6153,14 +6154,14 @@
       <desc>He wrote a critique against the movie.<bibl type="source" source="#W0497"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01321" active="#AG0039" key="AT05" name="to-mention" ref="#W0636" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01321" active="#AG0039" key="AT05" name="to-mention" ref="#W0636" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-12" resp="MG">
       <desc>While he got on the train it was like the scene in the movie: grabbing the holder and one leg still hanging outside<bibl type="source" source="#W0457">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01322" active="#AG0117" key="AT01" name="to-read" ref="#W0406" from="1968" to="1968" change="2020-04-04" resp="DP">
-      <desc>During his labor rectification in a repairing factory in the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A01322" active="#AG0117" key="AT01" name="to-read" ref="#W0406" from="1968" to="1968" change="2021-01-12" resp="MG">
+      <desc>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -6171,8 +6172,8 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01324" active="#AG0117" key="AT01" name="to-read" ref="#W0408" from="1968" to="1968" change="2020-04-04" resp="DP">
-      <desc>During his labor rectification in a repairing factory in the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
+    <relation type="reading-act" xml:id="A01324" active="#AG0117" key="AT01" name="to-read" ref="#W0408" from="1968" to="1968" change="2021-01-12" resp="MG">
+      <desc>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -6183,7 +6184,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01326" active="#AG0103" key="AT05" name="to-mention" ref="#W0637" from-custom="1968..1974" to-custom="1968..1974" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01326" active="#AG0103" key="AT05" name="to-mention" ref="#W0637" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-12" resp="MG">
       <desc>Some female educated youths liked to sing the songs of this movie and they would say it was from the model operas of being asked by the local cadres.<bibl type="source" source="#W0419">
           <biblScope unit="page">574</biblScope>
         </bibl>
@@ -6207,7 +6208,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01330" active="#AG0048" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0410" from="1970" to="1970" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01330" active="#AG0048" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0410" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>He used the metaphor of the conflict of ideas between dapeng and owls from this work.<bibl type="source" source="#W0453"/>
       </desc>
     </relation>
@@ -6223,7 +6224,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01333" active="#AG0038" key="AT05" name="to-mention" ref="#W0412" passive="#AG0113" from="1971" to="1971" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01333" active="#AG0038" key="AT05" name="to-mention" ref="#W0412" passive="#AG0113" from="1971" to="1971" change="2021-01-12" resp="MG">
       <desc>Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature<bibl type="source" source="#W0426"/>
       </desc>
     </relation>
@@ -6231,11 +6232,11 @@
       <desc>He was interested in the classics and read them a lot.<bibl type="source" source="#W0458"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01335" active="#AG0051" key="AT27" name="to-borrow" ref="#W0638" passive="#AG0145" from-custom="1959?" to-custom="1959?" change="2020-04-04" resp="DP">
-      <desc>Xiao Xia lent Liu Haiou this work before she and her family were assigned to Xinjiang.<bibl type="source" source="#W0455"/>
+    <relation type="reading-act" xml:id="A01335" active="#AG0051" key="AT27" name="to-borrow" ref="#W0638" passive="#AG0145" from-custom="1959?" to-custom="1959?" change="2021-01-12" resp="MG">
+      <desc>Xiao Xia lent Liu Haiou this work before she and her family were assigned to Xinjiang (SP0017).<bibl type="source" source="#W0455"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01336" active="#AG0033" key="AT01" name="to-read" ref="#W0415" from-custom="1957?" to-custom="1963?" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01336" active="#AG0033" key="AT01" name="to-read" ref="#W0415" from-custom="1957?" to-custom="1963?" change="2021-01-12" resp="MG">
       <desc>He read this book in the middle school. These books of revolutionary thought have influenced his growth.<bibl type="source" source="#W0515"/>
       </desc>
     </relation>
@@ -6251,7 +6252,7 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01339" active="#AG0011" key="AT05" name="to-mention" ref="#W0539" from-custom="1966..1976" to-custom="1966..1976" change="2020-04-04" resp="DP">
+    <relation type="reading-act" xml:id="A01339" active="#AG0011" key="AT05" name="to-mention" ref="#W0539" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-12" resp="MG">
       <desc>The author mentioned that AW00087 was a copy from AW00086.<bibl type="source" source="#W0477">
           <biblScope unit="page">56</biblScope>
         </bibl>
