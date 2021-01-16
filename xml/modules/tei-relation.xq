@@ -119,7 +119,7 @@ declare function local:listRelation($social as node()*, $personal as node()*, $a
                         typeswitch ($d)
                         case element(site_information)
                                 return
-                                    element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')}{$d/text()}
+                                    element {fn:QName('http://www.tei-c.org/ns/1.0', 'geogName')}{'#' || $d/text()}
                             case element(discussion)
                                 return
                                     $d/text()
