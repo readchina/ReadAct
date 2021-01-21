@@ -120,9 +120,12 @@ declare function local:listRelation($social as node()*, $personal as node()*, $a
                             case element(discussion)
                                 return
                                     $d/text()
+                            (:~ TODO: how to deal with multiple locations if they exist ~:)
                             case element(site_information)
                                 return
-                                    element {fn:QName('http://www.tei-c.org/ns/1.0', 'geogName')}{'#' || $d/text()}        
+                                    element {fn:QName('http://www.tei-c.org/ns/1.0', 'placeName')}{ attribute type {'site-of-act'},
+                                        attribute ref {'#' || $d}
+                                    }        
                             case element(source)
                                 return
                                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'bibl')} {

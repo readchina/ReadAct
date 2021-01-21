@@ -48,14 +48,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00002" active="#AG0103" key="AT01" name="to-read" ref="#W0003" from="1972" to="1976" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>mentions it among others as an important reading for him and his zhiqing fellows<bibl type="source" source="#W0421">
+        <placeName type="site-of-act" ref="#SP0055"/>mentions it among others as an important reading for him and his zhiqing fellows<bibl type="source" source="#W0421">
           <biblScope unit="page">581</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00003" active="#AG0017" key="AT01" name="to-read" ref="#W0414" from="1968" to="1978" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0011</geogName>mentions it among others as an important reading for the whole development in the field of literature after 1978<bibl type="source" source="#W0422">
+        <placeName type="site-of-act" ref="#SP0011"/>mentions it among others as an important reading for the whole development in the field of literature after 1978<bibl type="source" source="#W0422">
           <biblScope unit="page">219</biblScope>
         </bibl>
       </desc>
@@ -74,7 +74,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00006" active="#AG0106" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0005" from="1969" to="1969" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Shu Ting wants to go to Gorkys Universities during her rustication<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>Shu Ting wants to go to Gorkys Universities during her rustication<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
@@ -103,14 +103,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00011" active="#AG0103" key="AT01" name="to-read" ref="#W0009" from="1968" to="1974" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author found the book left by two educated youth from other unit. So he hid in his dorm reading it for the reason of illness and starved all through.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author found the book left by two educated youth from other unit. So he hid in his dorm reading it for the reason of illness and starved all through.<bibl type="source" source="#W0419">
           <biblScope unit="page">574</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00012" active="#AG0115" key="AT01" name="to-read" ref="#W0009" from="1968" to="1968" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>The author read this banned book and thought Marxs works explains better than this one.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>The author read this banned book and thought Marxs works explains better than this one.<bibl type="source" source="#W0471">
           <biblScope unit="page">422</biblScope>
         </bibl>
       </desc>
@@ -143,7 +143,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00018" active="#AG0029" key="AT09" name="to-memorize" ref="#W0011" from="1966" to="1969" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0008</geogName>During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0008"/>During the early period of the CR Wu was transferred from one place to another for investigation. He found a shouchaoben copy signed Lu Xun there and memorized the entire collection. He was transferred to the Film Academy (still under arrest) where he put Lu Xuns collection on paper. The copy was found and confiscated by the supervisor.<bibl type="source" source="#W0428">
           <biblScope unit="page">121</biblScope>
         </bibl>
       </desc>
@@ -156,7 +156,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00020" active="#AG0114" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0067" from="1967" to="1967" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>in 1967 he compiled 鲁迅语录 not for publications but for his friends<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>in 1967 he compiled 鲁迅语录 not for publications but for his friends<bibl type="source" source="#W0429">
           <biblScope unit="page">21</biblScope>
         </bibl>
       </desc>
@@ -187,7 +187,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00025" active="#AG0103" key="AT01" name="to-read" ref="#W0012" from="1968" to="1974" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author remembered that there was a worker whose surname was Zhu. He wrote many poems and mentioned these poets very often<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author remembered that there was a worker whose surname was Zhu. He wrote many poems and mentioned these poets very often<bibl type="source" source="#W0419">
           <biblScope unit="page">583</biblScope>
         </bibl>
       </desc>
@@ -200,21 +200,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00027" active="#AG0119" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0012" from="1973" to="1973" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>modernism such as Baudelaire influences the way he writes poetry<bibl type="source" source="#W0432">
+        <placeName type="site-of-act" ref="#SP0025"/>modernism such as Baudelaire influences the way he writes poetry<bibl type="source" source="#W0432">
           <biblScope unit="page">291</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00028" active="#AG0010" key="AT01" name="to-read" ref="#W0004" from-custom="1970.." to-custom="1970.." change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>This popular book at the time brought a new spirit to Beijing youth in the early 1970s.<bibl type="source" source="#W0432">
+        <placeName type="site-of-act" ref="#SP0025"/>This popular book at the time brought a new spirit to Beijing youth in the early 1970s.<bibl type="source" source="#W0432">
           <biblScope unit="page">195</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00029" active="#AG0017" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0004" from-custom="1973~" to-custom="1973~" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0011</geogName>states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔<bibl type="source" source="#W0422">
+        <placeName type="site-of-act" ref="#SP0011"/>states that Aksyonov has had a huge influence on the writing of many authors of the time including him or Wang Shuo 王朔<bibl type="source" source="#W0422">
           <biblScope unit="page">219</biblScope>
         </bibl>
       </desc>
@@ -263,21 +263,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00037" active="#AG0020" key="AT01" name="to-read" ref="#W0019" from="1966" to-custom="1970?" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.<bibl type="source" source="#W0420">
+        <placeName type="site-of-act" ref="#SP0003"/>Gao Hua mentioned that the newspaper occasionally published the reports on Vietnam relationships with the Soviet Union Eastern Europe and Cuba. Gao Hua used to go to this bookstore (Nanjing Foreign Languages Bookstore) every week.<bibl type="source" source="#W0420">
           <biblScope unit="page">135</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00038" active="#AG0121" key="AT21" name="to-quote" ref="#W0021" from="1970" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0075</geogName>when XXX one is reminded of the quote by Bai Juyi<bibl type="source" source="#W0437">
+        <placeName type="site-of-act" ref="#SP0075"/>when XXX one is reminded of the quote by Bai Juyi<bibl type="source" source="#W0437">
           <biblScope unit="page">495</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00039" active="#AG0626" key="AT20" name="to-perform" ref="#W0530" from="1972" to="1972" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Xu Haoyuan mentions that this play was staged by fellow zhiqing<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Xu Haoyuan mentions that this play was staged by fellow zhiqing<bibl type="source" source="#W0477">
           <biblScope unit="page">57</biblScope>
         </bibl>
       </desc>
@@ -354,14 +354,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00052" active="#AG0119" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0028" from="1973" to="1973" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>copied from Jiang He 江河<bibl type="source" source="#W0432">
+        <placeName type="site-of-act" ref="#SP0025"/>copied from Jiang He 江河<bibl type="source" source="#W0432">
           <biblScope unit="page">291</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00053" active="#AG0119" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0027" from="1973" to="1973" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>copied from Jiang He 江河<bibl type="source" source="#W0432">
+        <placeName type="site-of-act" ref="#SP0025"/>copied from Jiang He 江河<bibl type="source" source="#W0432">
           <biblScope unit="page">291</biblScope>
         </bibl>
       </desc>
@@ -422,7 +422,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00064" active="#AG0057" key="AT01" name="to-read" ref="#W0039" from="1966" to-custom="1967~" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0005</geogName>after reading Li Dazhao and other foreign and Chinese classics he still found Lu Xun the best<bibl type="source" source="#W0427"/>
+        <placeName type="site-of-act" ref="#SP0005"/>after reading Li Dazhao and other foreign and Chinese classics he still found Lu Xun the best<bibl type="source" source="#W0427"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00065" active="#AG0003" key="AT15" name="to-contemplate" ref="#W0531" from="1961" to-custom="196X" change="2020-04-04" resp="DP">
@@ -493,7 +493,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00076" active="#AG0031" key="AT12" name="to-have-the-text-confiscated" ref="#W0542" from="1969" to="1969" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>brought from outside into the prison and confiscated while sent into the prison<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>brought from outside into the prison and confiscated while sent into the prison<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00077" active="#AG0029" key="AT01" name="to-read" ref="#W0061" from="1964" to="1966" change="2020-04-04" resp="DP">
@@ -504,7 +504,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00078" active="#AG0115" key="AT13" name="to-write" ref="#W0414" from="1967" to="1968" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>Xu Chenggang wrote many letters to his former classmates at 清华附中 to discuss political theories revolving around Social theories, as he was influenced by Djilas’ The New Class and thought about a lot about an economical and political model, which would suit China.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>Xu Chenggang wrote many letters to his former classmates at 清华附中 to discuss political theories revolving around Social theories, as he was influenced by Djilas’ The New Class and thought about a lot about an economical and political model, which would suit China.<bibl type="source" source="#W0471">
           <biblScope unit="page">422</biblScope>
         </bibl>
       </desc>
@@ -533,14 +533,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00083" active="#AG0061" key="AT01" name="to-read" ref="#W0052" from="1969" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts<bibl type="source" source="#W0440">
           <biblScope unit="page">461</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00084" active="#AG0061" key="AT01" name="to-read" ref="#W0050" from="1969" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>she got more self-confident and learned how to analyse the political occurrences of her past by reading the texts<bibl type="source" source="#W0440">
           <biblScope unit="page">461</biblScope>
         </bibl>
       </desc>
@@ -649,28 +649,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00149" active="#AG0114" key="AT01" name="to-read" ref="#W0074" from="1971" to-custom="1976?" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhang Yang read it in prison after the Lin Biao incident<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhang Yang read it in prison after the Lin Biao incident<bibl type="source" source="#W0429">
           <biblScope unit="page">110ff</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00150" active="#AG0114" key="AT01" name="to-read" ref="#W0075" from="1971" to-custom="1976?" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhang Yang read it in prison after the Lin Biao incident<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhang Yang read it in prison after the Lin Biao incident<bibl type="source" source="#W0429">
           <biblScope unit="page">110ff</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00151" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0075" passive="#AG0114" from-custom="1971?" to-custom="1976?" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Several Books were sent to him when he was in prison<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0002"/>Several Books were sent to him when he was in prison<bibl type="source" source="#W0429">
           <biblScope unit="page">435</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00152" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0076" passive="#AG0114" from-custom="1971?" to-custom="1976?" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Several Books were sent to him when he was in prison<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0002"/>Several Books were sent to him when he was in prison<bibl type="source" source="#W0429">
           <biblScope unit="page">435</biblScope>
         </bibl>
       </desc>
@@ -765,35 +765,35 @@
     </relation>
     <relation type="reading-act" xml:id="A00168" active="#AG0197" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0068" passive="#AG0205" from-custom="1968?" to="1971" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0132</geogName>Li handed it over to Liu Jingzi and does not know to whom she gave it.<bibl type="source" source="#W0490">
+        <placeName type="site-of-act" ref="#SP0132"/>Li handed it over to Liu Jingzi and does not know to whom she gave it.<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00169" active="#AG0197" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0068" passive="#AG0206" from-custom="1968?" to="1971" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0132</geogName>Li handed it over to Liu Jingzi and does not know to whom she gave it.<bibl type="source" source="#W0490">
+        <placeName type="site-of-act" ref="#SP0132"/>Li handed it over to Liu Jingzi and does not know to whom she gave it.<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00170" active="#AG0205" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0068" from-custom="1968?" to="1971" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0132</geogName>Liu was very influenced by it and from there on had doubted the official line.<bibl type="source" source="#W0490">
+        <placeName type="site-of-act" ref="#SP0132"/>Liu was very influenced by it and from there on had doubted the official line.<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00171" active="#AG0206" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0068" from-custom="1968?" to="1971" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0132</geogName>Zhang was very influenced by it and from there on had doubted the official line.<bibl type="source" source="#W0490">
+        <placeName type="site-of-act" ref="#SP0132"/>Zhang was very influenced by it and from there on had doubted the official line.<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00173" active="#AG0031" key="AT01" name="to-read" ref="#W0079" from="1969" to="1969" change="2020-12-08" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>
+        <placeName type="site-of-act" ref="#SP0002"/>
         <bibl type="source" source="#W0525"/>
       </desc>
     </relation>
@@ -811,26 +811,26 @@
     </relation>
     <relation type="reading-act" xml:id="A00176" active="#AG0061" key="AT01" name="to-read" ref="#W0083" from="1974" to="1974" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>after mostly reading newspapers and political works she was happy to read a novel again. She obtained it from her family when in prison.<bibl type="source" source="#W0440">
           <biblScope unit="page">477</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00177" active="#AG0213" key="AT18" name="to-try-to-obtain" ref="#W0414" from="1970" to="1970" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>Yuan went to the Beijing (National?) library (SP0005) o borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.<bibl type="source" source="#W0433"/>
+        <placeName type="site-of-act" ref="#SP0001"/>Yuan went to the Beijing (National?) library (SP0005) o borrow the book. The employee asked her why she is interested in bourgeois literature and refused to hand it out.<bibl type="source" source="#W0433"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00178" active="#AG0029" key="AT17" name="to-recite" ref="#W0084" passive="#AG0626" from="1969" to="1972" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0008</geogName>Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0008"/>Wu Hong counted among the best storytellers in Hebei. It took him two weeks to recount Le Comte de Monte-Christo. His audience averaged one dozen people.<bibl type="source" source="#W0428">
           <biblScope unit="page">122</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00179" active="#AG0626" key="AT17" name="to-recite" ref="#W0084" passive="#AG0214" from-custom="1968?" to-custom="1975?" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0133</geogName>Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book therefore nobody knew whether the story was correct.<bibl type="source" source="#W0495">
+        <placeName type="site-of-act" ref="#SP0133"/>Ye Weili recounts that a guy retold the whole Monte Christo off the top of his head. Nobody had read the book therefore nobody knew whether the story was correct.<bibl type="source" source="#W0495">
           <biblScope unit="page">121</biblScope>
         </bibl>
       </desc>
@@ -843,14 +843,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00181" active="#AG0037" key="AT17" name="to-recite" ref="#W0084" passive="#AG0626" from="1965" to="1973" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0012</geogName>Huang could tell Monte Christo off the top of his head. His audience were people who lacked this kind of knowledge.<bibl type="source" source="#W0445">
+        <placeName type="site-of-act" ref="#SP0012"/>Huang could tell Monte Christo off the top of his head. His audience were people who lacked this kind of knowledge.<bibl type="source" source="#W0445">
           <biblScope unit="page">ONLINE Source</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00182" active="#AG0003" key="AT17" name="to-recite" ref="#W0084" passive="#AG0626" from-custom="1970?" to-custom="1972?" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhang told the story of this Novel to Red Guards.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhang told the story of this Novel to Red Guards.<bibl type="source" source="#W0486">
           <biblScope unit="page">121</biblScope>
         </bibl>
       </desc>
@@ -875,7 +875,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00186" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0090" passive="#AG0010" from="1972" to="1972" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>Genzi handed his poem to Duo Duo. Duo Duo was not impressed at all and saw their eminent differences in style and taste.<bibl type="source" source="#W0441">
+        <placeName type="site-of-act" ref="#SP0025"/>Genzi handed his poem to Duo Duo. Duo Duo was not impressed at all and saw their eminent differences in style and taste.<bibl type="source" source="#W0441">
           <biblScope unit="page">196</biblScope>
         </bibl>
       </desc>
@@ -1000,14 +1000,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00207" active="#AG0024" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0102" from="1970" to="1970" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>Song Haiquan copied the poem by hand<bibl type="source" source="#W0493">
+        <placeName type="site-of-act" ref="#SP0025"/>Song Haiquan copied the poem by hand<bibl type="source" source="#W0493">
           <biblScope unit="page">291</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00208" active="#AG0024" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0102" passive="#AG0119" from="1970" to="1970" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>Song Haiquan gave it to Lin Mang<bibl type="source" source="#W0493">
+        <placeName type="site-of-act" ref="#SP0025"/>Song Haiquan gave it to Lin Mang<bibl type="source" source="#W0493">
           <biblScope unit="page">291</biblScope>
         </bibl>
       </desc>
@@ -1060,7 +1060,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00217" active="#AG0195" key="AT16" name="to-be-influenced-by" ref="#W0106" from="1968" to="1968" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0438</geogName>he read it while sitting on the train to Inner Mongolia (SP0114)<bibl type="source" source="#W0488">
+        <placeName type="site-of-act" ref="#SP0438"/>he read it while sitting on the train to Inner Mongolia (SP0114)<bibl type="source" source="#W0488">
           <biblScope unit="page">270</biblScope>
         </bibl>
       </desc>
@@ -1085,7 +1085,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00221" active="#AG0626" key="AT16" name="to-be-influenced-by" ref="#W0110" from-custom="1970~" to-custom="1980~" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0005</geogName>Chen claims that this book was important among the Zhiqing in Beijing<bibl type="source" source="#W0479">
+        <placeName type="site-of-act" ref="#SP0005"/>Chen claims that this book was important among the Zhiqing in Beijing<bibl type="source" source="#W0479">
           <biblScope unit="page">75</biblScope>
         </bibl>
       </desc>
@@ -1098,12 +1098,12 @@
     </relation>
     <relation type="reading-act" xml:id="A00223" active="#AG0037" key="AT17" name="to-recite" ref="#W0112" passive="#AG0626" from-custom="1972~" to-custom="1972~" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0012</geogName>Huang told Les Miserables off the top of his head to fellow Zhiqing or co-workers/ farmers. He turned these stories into Chinese ones to arouse no suspicions<bibl type="source" source="#W0445"/>
+        <placeName type="site-of-act" ref="#SP0012"/>Huang told Les Miserables off the top of his head to fellow Zhiqing or co-workers/ farmers. He turned these stories into Chinese ones to arouse no suspicions<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00224" active="#AG0106" key="AT17" name="to-recite" ref="#W0112" passive="#AG0626" from="1972" to="1972" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0439</geogName>Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen (SP0440.) She turned a simple vocabulary and adjusted the story a bit.<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0439"/>Shu Ting told Les Miserables off the top of her head to fellow co-workers in a factory in Xiamen (SP0440.) She turned a simple vocabulary and adjusted the story a bit.<bibl type="source" source="#W0425">
           <biblScope unit="page">304</biblScope>
         </bibl>
       </desc>
@@ -1134,14 +1134,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00229" active="#AG0011" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0008" passive="#AG0010" from-custom="1970~" to-custom="1970~" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Xu Haoyuan gave that book to Peng Gang<bibl type="source" source="#W0442">
+        <placeName type="site-of-act" ref="#SP0137"/>Xu Haoyuan gave that book to Peng Gang<bibl type="source" source="#W0442">
           <biblScope unit="page">190</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00230" active="#AG0011" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0063" passive="#AG0010" from-custom="1970~" to-custom="1970~" change="2020-12-11" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Xu Haoyuan gave that book to Peng Gang<bibl type="source" source="#W0442">
+        <placeName type="site-of-act" ref="#SP0137"/>Xu Haoyuan gave that book to Peng Gang<bibl type="source" source="#W0442">
           <biblScope unit="page">190</biblScope>
         </bibl>
       </desc>
@@ -1184,14 +1184,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00237" active="#AG0242" key="AT01" name="to-read" ref="#W0116" from="1972" to="1972" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0441</geogName>she took a look at it in the reading room of Beida (AG0655.) The collection appeared on the book shelves just one day before North Korean exchange students arrived at Beida<bibl type="source" source="#W0500">
+        <placeName type="site-of-act" ref="#SP0441"/>she took a look at it in the reading room of Beida (AG0655.) The collection appeared on the book shelves just one day before North Korean exchange students arrived at Beida<bibl type="source" source="#W0500">
           <biblScope unit="page">67</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00238" active="#AG0242" key="AT05" name="to-mention" ref="#W0117" from="1972" to="1972" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>was among the very few works in July 1972, which could be obtained at Xinhua bookstore (AG065)<bibl type="source" source="#W0500">
+        <placeName type="site-of-act" ref="#SP0003"/>was among the very few works in July 1972, which could be obtained at Xinhua bookstore (AG065)<bibl type="source" source="#W0500">
           <biblScope unit="page">42</biblScope>
         </bibl>
       </desc>
@@ -1210,7 +1210,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00241" active="#AG0626" key="AT17" name="to-recite" ref="#W0122" passive="#AG0626" from="1968" to="1974" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"There was an educated youth who took story-telling as his unique ""currency"". With that ""currency"" he could ""purchase"" daily necessities."<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>"There was an educated youth who took story-telling as his unique ""currency"". With that ""currency"" he could ""purchase"" daily necessities."<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
@@ -1221,7 +1221,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00243" active="#AG0250" key="AT11" name="to-translate" ref="#W0414" from="1972" to="1979" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Kang translated poems by Lermontov<bibl type="source" source="#W0498">
+        <placeName type="site-of-act" ref="#SP0436"/>Kang translated poems by Lermontov<bibl type="source" source="#W0498">
           <biblScope unit="page">279</biblScope>
         </bibl>
       </desc>
@@ -1234,35 +1234,35 @@
     </relation>
     <relation type="reading-act" xml:id="A00245" active="#AG0114" key="AT01" name="to-read" ref="#W0126" from-custom="1970?" to-custom="1970?" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>Zhang Yang read this book which was considered not in line with official policy during the CR<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>Zhang Yang read this book which was considered not in line with official policy during the CR<bibl type="source" source="#W0429">
           <biblScope unit="page">13</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00246" active="#AG0257" key="AT01" name="to-read" ref="#W0127" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0443"/>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00247" active="#AG0257" key="AT01" name="to-read" ref="#W0128" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0443"/>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00248" active="#AG0257" key="AT01" name="to-read" ref="#W0414" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0443"/>distraction from tough labor at the state farm. Read them loud made them happy and forget their sorrows.<bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00249" active="#AG0259" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0127" passive="#AG0257" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>
+        <placeName type="site-of-act" ref="#SP0443"/>
         <bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
@@ -1270,7 +1270,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00250" active="#AG0259" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0128" passive="#AG0257" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>
+        <placeName type="site-of-act" ref="#SP0443"/>
         <bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
@@ -1278,7 +1278,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00251" active="#AG0259" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0257" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>
+        <placeName type="site-of-act" ref="#SP0443"/>
         <bibl type="source" source="#W0511">
           <biblScope unit="page">103</biblScope>
         </bibl>
@@ -1286,14 +1286,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00252" active="#AG0257" key="AT22" name="to-remember" ref="#W0129" from="1968" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0203</geogName>Wu remembers a scene of it during a critic meeting where an old scholar of Classical Chinese Literature was denounced<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0203"/>Wu remembers a scene of it during a critic meeting where an old scholar of Classical Chinese Literature was denounced<bibl type="source" source="#W0511">
           <biblScope unit="page">238</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00253" active="#AG0260" key="AT01" name="to-read" ref="#W0038" from="1968" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0203</geogName>
+        <placeName type="site-of-act" ref="#SP0203"/>
         <bibl type="source" source="#W0511">
           <biblScope unit="page">239</biblScope>
         </bibl>
@@ -1301,21 +1301,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00254" active="#AG0260" key="AT01" name="to-read" ref="#W0130" from="1968" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0203</geogName>Chen was secretly reading a translation of this novel<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0203"/>Chen was secretly reading a translation of this novel<bibl type="source" source="#W0511">
           <biblScope unit="page">239</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00255" active="#AG0260" key="AT01" name="to-read" ref="#W0131" from="1968" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0203</geogName>for reading this he was accused and had to write a self criticism<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0203"/>for reading this he was accused and had to write a self criticism<bibl type="source" source="#W0511">
           <biblScope unit="page">253</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00256" active="#AG0257" key="AT11" name="to-translate" ref="#W0132" from="1958" to="1960" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0443</geogName>started to translate this book<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0443"/>started to translate this book<bibl type="source" source="#W0511">
           <biblScope unit="page">169</biblScope>
         </bibl>
       </desc>
@@ -1340,21 +1340,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00260" active="#AG0258" key="AT22" name="to-remember" ref="#W0511" from="1969" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0207</geogName>reminds this quotation while meeting a tortured teacher<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0207"/>reminds this quotation while meeting a tortured teacher<bibl type="source" source="#W0511">
           <biblScope unit="page">284f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00261" active="#AG0258" key="AT23" name="to-listen-to" ref="#W0002" from="1970" to="1973" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>they tuned in to this program to teach english to their elder son<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0442"/>they tuned in to this program to teach english to their elder son<bibl type="source" source="#W0511">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00262" active="#AG0257" key="AT23" name="to-listen-to" ref="#W0002" from="1970" to="1973" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>they tuned in to this program to teach english to their elder son<bibl type="source" source="#W0511">
+        <placeName type="site-of-act" ref="#SP0442"/>they tuned in to this program to teach english to their elder son<bibl type="source" source="#W0511">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
@@ -1436,14 +1436,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00275" active="#AG0103" key="AT24" name="to-be-blocked-from-reading" ref="#W0082" from-custom="[1968..1974]" to-custom="[1968..1974]" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it."<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>"There was an educated youth who took story-telling as his unique ""currency"", so that he could ""purchase"" daily necessities with it."<bibl type="source" source="#W0419">
           <biblScope unit="page">572</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00276" active="#AG0029" key="AT05" name="to-mention" ref="#W0414" from-custom="..1966" to-custom="..1966" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time.<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
@@ -1475,21 +1475,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00281" active="#AG0029" key="AT17" name="to-recite" ref="#W0084" from-custom="[1969..1971]" to-custom="[1969..1971" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0008</geogName>Wu Hong told the stories every evening after the political studies session. He would sit on the bed and talk. One of the listeners would take the detailed notes, the next day Wu Hong would have told the same story in the other room. Wu Hong mentions this work under its full name 基督山恩仇记.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0008"/>Wu Hong told the stories every evening after the political studies session. He would sit on the bed and talk. One of the listeners would take the detailed notes, the next day Wu Hong would have told the same story in the other room. Wu Hong mentions this work under its full name 基督山恩仇记.<bibl type="source" source="#W0428">
           <biblScope unit="page">122</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00282" active="#AG0003" key="AT17" name="to-recite" ref="#W0084" from-custom="[1970..1974~]" to-custom="[1970..1974~]" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhang told the story of this Novel to those old red guards in the prison.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhang told the story of this Novel to those old red guards in the prison.<bibl type="source" source="#W0486">
           <biblScope unit="page">121</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00283" active="#AG0037" key="AT17" name="to-recite" ref="#W0084" from-custom="1964~" to-custom="1972~" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0012</geogName>The author told the story of her family (actor and play directors) during the CR / He adapted Western stories and shared them with others in the rural area<bibl type="source" source="#W0445">
+        <placeName type="site-of-act" ref="#SP0012"/>The author told the story of her family (actor and play directors) during the CR / He adapted Western stories and shared them with others in the rural area<bibl type="source" source="#W0445">
           <biblScope unit="page"/>
         </bibl>
       </desc>
@@ -1514,19 +1514,19 @@
     </relation>
     <relation type="reading-act" xml:id="A00287" active="#AG0213" key="AT24" name="to-be-blocked-from-reading" ref="#W0146" from="1970" to="1970" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>He didn't succeed when trying to borrow the book from the library.<bibl type="source" source="#W0433"/>
+        <placeName type="site-of-act" ref="#SP0001"/>He didn't succeed when trying to borrow the book from the library.<bibl type="source" source="#W0433"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00288" active="#AG0003" key="AT17" name="to-recite" ref="#W0536" from-custom="1971.." to-custom="1971.." change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0444</geogName>He taught this song to other youth with Laoqi<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0444"/>He taught this song to other youth with Laoqi<bibl type="source" source="#W0486">
           <biblScope unit="page">142</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00289" active="#AG0003" key="AT17" name="to-recite" ref="#W0537" from-custom="1971.." to-custom="1971.." change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0444</geogName>During his time at labor camp the author taught these songs to other prisoners and wrote a Novel 'The Tale of A House' 房子的故事<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0444"/>During his time at labor camp the author taught these songs to other prisoners and wrote a Novel 'The Tale of A House' 房子的故事<bibl type="source" source="#W0486">
           <biblScope unit="page">144</biblScope>
         </bibl>
       </desc>
@@ -1539,14 +1539,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00291" active="#AG0626" key="AT17" name="to-recite" ref="#W0147" from="1968" to="1968" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0444</geogName>some pupils are reciting this poem while being sent to the labor camp<bibl type="source" source="#W0512">
+        <placeName type="site-of-act" ref="#SP0444"/>some pupils are reciting this poem while being sent to the labor camp<bibl type="source" source="#W0512">
           <biblScope unit="page">403</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00292" active="#AG0282" key="AT17" name="to-recite" ref="#W0149" from="1968" to="1969" change="2020-12-14" resp="MG">
       <desc>
-        <geogName>#SP0214</geogName>Wu was telling stories from the books she read at home. At the end of the story they were often in tears.<bibl type="source" source="#W0512">
+        <placeName type="site-of-act" ref="#SP0214"/>Wu was telling stories from the books she read at home. At the end of the story they were often in tears.<bibl type="source" source="#W0512">
           <biblScope unit="page">424</biblScope>
         </bibl>
       </desc>
@@ -2047,7 +2047,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00369" active="#AG0106" key="AT01" name="to-read" ref="#W0414" from="1969" to="1972" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>
+        <placeName type="site-of-act" ref="#SP0436"/>
         <bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
@@ -2079,7 +2079,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00374" active="#AG0125" key="AT05" name="to-mention" ref="#W0160" from-custom="197x" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0070</geogName>
+        <placeName type="site-of-act" ref="#SP0070"/>
         <bibl type="source" source="#W0479">
           <biblScope unit="page">79</biblScope>
         </bibl>
@@ -2094,7 +2094,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00376" active="#AG0125" key="AT05" name="to-mention" ref="#W0161" from-custom="197x" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0070</geogName>
+        <placeName type="site-of-act" ref="#SP0070"/>
         <bibl type="source" source="#W0479">
           <biblScope unit="page">60</biblScope>
         </bibl>
@@ -2190,14 +2190,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00391" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from-custom="1967..197x" to-custom="1967..197x" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>the authors home was plundered and all of his collections were confiscated by the red guards<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>the authors home was plundered and all of his collections were confiscated by the red guards<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00392" active="#AG0103" key="AT01" name="to-read" ref="#W0167" from="1972" to="1972" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>unknown<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>unknown<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
@@ -2234,17 +2234,17 @@
     </relation>
     <relation type="reading-act" xml:id="A00398" active="#AG0032" key="AT01" name="to-read" ref="#W0169" from="1969" to="1969" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0009</geogName>unknown<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0009"/>unknown<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00399" active="#AG0032" key="AT12" name="to-have-the-text-confiscated" ref="#W0169" from="1969" to="1969" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>the book was confiscated in prison<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>the book was confiscated in prison<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00400" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0169" passive="#AG0031" from-custom="196x..1969" to="1969" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhu brought the book into prison<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>Zhu brought the book into prison<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00401" active="#AG0033" key="AT01" name="to-read" ref="#W0170" from-custom="1962~" to-custom="1962~" change="2020-04-04" resp="DP">
@@ -2318,7 +2318,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00413" active="#AG0324" key="AT01" name="to-read" ref="#W0078" from-custom="197x" to-custom="197x" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The author realized that love is totally different in real life than in books.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The author realized that love is totally different in real life than in books.<bibl type="source" source="#W0516">
           <biblScope unit="page">522</biblScope>
         </bibl>
       </desc>
@@ -2337,7 +2337,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00416" active="#AG0017" key="AT16" name="to-be-influenced-by" ref="#W0414" from-custom="196x..197x" to-custom="196x..197x" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0011</geogName>Described Whitman as one of his biggest influences<bibl type="source" source="#W0422">
+        <placeName type="site-of-act" ref="#SP0011"/>Described Whitman as one of his biggest influences<bibl type="source" source="#W0422">
           <biblScope unit="page">220</biblScope>
         </bibl>
       </desc>
@@ -2356,7 +2356,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00419" active="#AG0017" key="AT05" name="to-mention" ref="#W0414" from-custom="196x..197x" to-custom="196x..197x" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0011</geogName>unknown<bibl type="source" source="#W0422">
+        <placeName type="site-of-act" ref="#SP0011"/>unknown<bibl type="source" source="#W0422">
           <biblScope unit="page">231</biblScope>
         </bibl>
       </desc>
@@ -2417,7 +2417,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00429" active="#AG0031" key="AT12" name="to-have-the-text-confiscated" ref="#W0176" from="1969" to="1969" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>the text was confiscated in prison<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>the text was confiscated in prison<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00430" active="#AG0116" key="AT01" name="to-read" ref="#W0178" from="1979" to="1979" change="2020-04-04" resp="DP">
@@ -2456,7 +2456,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00436" active="#AG0105" key="AT01" name="to-read" ref="#W0180" from-custom="1966..1970~" to-custom="1966..1970~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>unknown<bibl type="source" source="#W0424">
+        <placeName type="site-of-act" ref="#SP0436"/>unknown<bibl type="source" source="#W0424">
           <biblScope unit="page">159</biblScope>
         </bibl>
       </desc>
@@ -2499,14 +2499,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00443" active="#AG0343" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0181" from-custom="1974~" to-custom="1974~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0114</geogName>His ‘only companions during those […] nights were characters from books’<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0114"/>His ‘only companions during those […] nights were characters from books’<bibl type="source" source="#W0517">
           <biblScope unit="page">280</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00444" active="#AG0343" key="AT09" name="to-memorize" ref="#W0181" from-custom="1974~" to-custom="1974~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0114</geogName>His ‘only companions during those […] nights were characters from books’<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0114"/>His ‘only companions during those […] nights were characters from books’<bibl type="source" source="#W0517">
           <biblScope unit="page">280</biblScope>
         </bibl>
       </desc>
@@ -2529,7 +2529,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00449" active="#AG0010" key="AT01" name="to-read" ref="#W0182" from-custom="1971..1972" to-custom="1971..1972" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>unknown<bibl type="source" source="#W0441">
+        <placeName type="site-of-act" ref="#SP0025"/>unknown<bibl type="source" source="#W0441">
           <biblScope unit="page">196</biblScope>
         </bibl>
       </desc>
@@ -2602,7 +2602,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00461" active="#AG0106" key="AT01" name="to-read" ref="#W0195" from="1969" to="1971" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Shu Ting read this book in the early phase of her rustication (it was recommended to her by a friend, possibly a penpal), however, she gives no author name – Schiller’s book is the most likely text she refers to.<bibl type="source" source="#W0474">
+        <placeName type="site-of-act" ref="#SP0436"/>Shu Ting read this book in the early phase of her rustication (it was recommended to her by a friend, possibly a penpal), however, she gives no author name – Schiller’s book is the most likely text she refers to.<bibl type="source" source="#W0474">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -2633,28 +2633,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00466" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="196x" to-custom="1966?" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shakespeare’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shakespeare’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
           <biblScope unit="page">116</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00467" active="#AG0103" key="AT22" name="to-remember" ref="#W0197" from-custom="196x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"Han Shaogong remembers that in the countryside there was an educated youth who took story-telling as his unique ""currency,” so that he could ""purchase"" daily necessities in exchange for telling stories. Shakespeare was one of the authors whose works he would retell. "<bibl type="source" source="#W0431">
+        <placeName type="site-of-act" ref="#SP0055"/>"Han Shaogong remembers that in the countryside there was an educated youth who took story-telling as his unique ""currency,” so that he could ""purchase"" daily necessities in exchange for telling stories. Shakespeare was one of the authors whose works he would retell. "<bibl type="source" source="#W0431">
           <biblScope unit="page">572</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00468" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="196x" to-custom="1966?" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
           <biblScope unit="page">116</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00469" active="#AG0117" key="AT01" name="to-read" ref="#W0198" from-custom="197x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>Chen Jianhua found himself curious about all kinds of things and so he spent his time in Shanghai Municipal Library (SP0006 )reading various books, this essay collection amongst them.<bibl type="source" source="#W0431">
+        <placeName type="site-of-act" ref="#SP0001"/>Chen Jianhua found himself curious about all kinds of things and so he spent his time in Shanghai Municipal Library (SP0006 )reading various books, this essay collection amongst them.<bibl type="source" source="#W0431">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
@@ -2665,14 +2665,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00471" active="#AG0117" key="AT01" name="to-read" ref="#W0199" from-custom="197x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>Chen Jianhua found himself curious about all kinds of things and so he spent his time in Shanghai Municipal Library (SP0006r)eading various books, this essay collection amongst them.<bibl type="source" source="#W0431">
+        <placeName type="site-of-act" ref="#SP0001"/>Chen Jianhua found himself curious about all kinds of things and so he spent his time in Shanghai Municipal Library (SP0006r)eading various books, this essay collection amongst them.<bibl type="source" source="#W0431">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00472" active="#AG0103" key="AT05" name="to-mention" ref="#W0131" from-custom="196x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han Shaogong describes the workings of the black market during the CR – he mentions that a copy of Shuihu zhuan could be exchanged for ten bandages or one military belt.<bibl type="source" source="#W0431">
+        <placeName type="site-of-act" ref="#SP0055"/>Han Shaogong describes the workings of the black market during the CR – he mentions that a copy of Shuihu zhuan could be exchanged for ten bandages or one military belt.<bibl type="source" source="#W0431">
           <biblScope unit="page">570</biblScope>
         </bibl>
       </desc>
@@ -2705,7 +2705,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00478" active="#AG0103" key="AT05" name="to-mention" ref="#W0554" from-custom="196x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han Shaogong describes how he and his friends in the same work team brought different kinds of books and artworks with thems to exchange and discuss together. A collection of Shi Tao’s paintings was amongst them.<bibl type="source" source="#W0431">
+        <placeName type="site-of-act" ref="#SP0055"/>Han Shaogong describes how he and his friends in the same work team brought different kinds of books and artworks with thems to exchange and discuss together. A collection of Shi Tao’s paintings was amongst them.<bibl type="source" source="#W0431">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
@@ -2736,14 +2736,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00483" active="#AG0103" key="AT05" name="to-mention" ref="#W0200" from-custom="196x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han Shaogong mentions that a certain Mr. Yi (易某) was talking with him about the history of militaria and wars, basing his knowledge probably on having read PS00370.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>Han Shaogong mentions that a certain Mr. Yi (易某) was talking with him about the history of militaria and wars, basing his knowledge probably on having read PS00370.<bibl type="source" source="#W0419">
           <biblScope unit="page">571</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00484" active="#AG0118" key="AT05" name="to-mention" ref="#W0200" from="1979" to="1982" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>Bo Hua describes a reading group he was part of in middle school<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>Bo Hua describes a reading group he was part of in middle school<bibl type="source" source="#W0476">
           <biblScope unit="page">532</biblScope>
         </bibl>
       </desc>
@@ -2785,7 +2785,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00491" active="#AG0116" key="AT01" name="to-read" ref="#W0202" from="1979" to="1979" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>The author has nothing to do during the summer vacation. He reads in the library during the day and takes notes in the meeting room at night.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0001"/>The author has nothing to do during the summer vacation. He reads in the library during the day and takes notes in the meeting room at night.<bibl type="source" source="#W0475">
           <biblScope unit="page">562</biblScope>
         </bibl>
       </desc>
@@ -2800,7 +2800,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00494" active="#AG0103" key="AT23" name="to-listen-to" ref="#W0203" from-custom="196x" to-custom="197x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author heard many stories from an educated youth in his team and those were mainly from these classic works<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author heard many stories from an educated youth in his team and those were mainly from these classic works<bibl type="source" source="#W0419">
           <biblScope unit="page">571</biblScope>
         </bibl>
       </desc>
@@ -2813,7 +2813,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00496" active="#AG0038" key="AT05" name="to-mention" ref="#W0205" passive="#AG0113" from="1971" to="1971" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0009</geogName>Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature<bibl type="source" source="#W0426"/>
+        <placeName type="site-of-act" ref="#SP0009"/>Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature<bibl type="source" source="#W0426"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00497" active="#AG0055" key="AT06" name="to-plan-to-edit-texts-/-quotations-by" ref="#W0206" from-custom="1950s" to-custom="1950s" change="2020-04-04" resp="DP">
@@ -2870,28 +2870,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00506" active="#AG0626" key="AT01" name="to-read" ref="#W0074" from-custom="1976~" to-custom="1976~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0439</geogName>"""A young factory lady was reading this book, and she admired Jiang Qing for she was considered as the model of women at that time. But later after the book was seen nowhere from this lady."<bibl type="source" source="#W0478">
+        <placeName type="site-of-act" ref="#SP0439"/>"""A young factory lady was reading this book, and she admired Jiang Qing for she was considered as the model of women at that time. But later after the book was seen nowhere from this lady."<bibl type="source" source="#W0478">
           <biblScope unit="page">335</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00507" active="#AG0061" key="AT01" name="to-read" ref="#W0074" from="1969" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>She describes the personal gain she gots out of reading (more self-confidence, political understanding of her past, hope)<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>She describes the personal gain she gots out of reading (more self-confidence, political understanding of her past, hope)<bibl type="source" source="#W0440">
           <biblScope unit="page">461</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00508" active="#AG0115" key="AT25" name="to-be-aroused-think-about-something" ref="#W0218" from-custom="1968~" to-custom="1968~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>After reading this work the author could not understand why there were still class and class struggle under a socialist system.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>After reading this work the author could not understand why there were still class and class struggle under a socialist system.<bibl type="source" source="#W0471">
           <biblScope unit="page">418</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00509" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0218" passive="#AG0061" from="1973" to="1974" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>The book was given to her while she was in prison. First in Chinese and later in German.<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>The book was given to her while she was in prison. First in Chinese and later in German.<bibl type="source" source="#W0440">
           <biblScope unit="page"/>
         </bibl>
       </desc>
@@ -2910,7 +2910,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00512" active="#AG0116" key="AT01" name="to-read" ref="#W0220" from="1973" to="1973" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>He reads this book secretly at home. It was perhaps from the library of his father's institute.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>He reads this book secretly at home. It was perhaps from the library of his father's institute.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
@@ -2929,7 +2929,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00515" active="#AG0003" key="AT01" name="to-read" ref="#W0156" from="1961" to-custom="1963?" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>He would like to search book in old bookstores. He found this book there and read it later.<bibl type="source" source="#W0439">
+        <placeName type="site-of-act" ref="#SP0003"/>He would like to search book in old bookstores. He found this book there and read it later.<bibl type="source" source="#W0439">
           <biblScope unit="page">38</biblScope>
         </bibl>
       </desc>
@@ -2948,7 +2948,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00518" active="#AG0032" key="AT05" name="to-mention" ref="#W0223" passive="#AG0031" from-custom="1969.." to-custom="1969.." change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>The author met Zhu Shixian in the prison. Zhu told him about this text from a high school textbook.<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>The author met Zhu Shixian in the prison. Zhu told him about this text from a high school textbook.<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00519" active="#AG0054" key="AT13" name="to-write" ref="#W0224" from-custom="195x" to-custom="195x" change="2020-04-04" resp="DP">
@@ -2957,12 +2957,12 @@
     </relation>
     <relation type="reading-act" xml:id="A00520" active="#AG0031" key="AT01" name="to-read" ref="#W0225" from-custom="1969.." to-custom="1969.." change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Huang got in to the Sichuan Second Prison in 1969 Summer due to his diary. He was sent to labor reform and he met Zhu Shixian there. The text is about their lives in the prison. They recall and read many literature in the prison. Zhu suicided in the prison.<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>Huang got in to the Sichuan Second Prison in 1969 Summer due to his diary. He was sent to labor reform and he met Zhu Shixian there. The text is about their lives in the prison. They recall and read many literature in the prison. Zhu suicided in the prison.<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00521" active="#AG0032" key="AT05" name="to-mention" ref="#W0225" passive="#AG0031" from-custom="19xx" to-custom="19xx" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>The author met Zhu Shixian in the prison. Zhu told him about this text from a high school textbook.<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>The author met Zhu Shixian in the prison. Zhu told him about this text from a high school textbook.<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00522" active="#AG0054" key="AT13" name="to-write" ref="#W0226" from-custom="195x" to-custom="195x" change="2020-04-04" resp="DP">
@@ -2983,21 +2983,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00526" active="#AG0106" key="AT05" name="to-mention" ref="#W0230" from-custom="1966..1970~" to-custom="1966..1970~" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Shu Ting relates that she read the Novel as she was hit by a bullet fired by red guards invading the physics building<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>Shu Ting relates that she read the Novel as she was hit by a bullet fired by red guards invading the physics building<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00527" active="#AG0103" key="AT05" name="to-mention" ref="#W0230" from-custom="196x" to-custom="196x" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>After many years he remembered the books he read at school when he read this book although he did not even know the author’s name or the titles.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0446"/>After many years he remembered the books he read at school when he read this book although he did not even know the author’s name or the titles.<bibl type="source" source="#W0419">
           <biblScope unit="page">565</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00528" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0230" passive="#AG0103" from-custom="19xx" to-custom="19xx" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>There was an educated youth whose father was a cadre offered many aesthetic books to the author.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>There was an educated youth whose father was a cadre offered many aesthetic books to the author.<bibl type="source" source="#W0419">
           <biblScope unit="page">583</biblScope>
         </bibl>
       </desc>
@@ -3014,7 +3014,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00603" active="#AG0041" key="AT01" name="to-read" ref="#W0414" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0015</geogName>she writes that now she can only recall having secretly read works from Hugo and Pushkin at that time<bibl type="source" source="#W0446"/>
+        <placeName type="site-of-act" ref="#SP0015"/>she writes that now she can only recall having secretly read works from Hugo and Pushkin at that time<bibl type="source" source="#W0446"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00604" active="#AG0018" key="AT05" name="to-mention" ref="#W0414" from-custom="196x..197x" to-custom="196x..197x" change="2020-04-04" resp="DP">
@@ -3031,21 +3031,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00606" active="#AG0103" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0185" from-custom="197x" to-custom="197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han and friends exchanged and transcribed poems together<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>Han and friends exchanged and transcribed poems together<bibl type="source" source="#W0419">
           <biblScope unit="page">578</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00607" active="#AG0103" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0185" passive="#AG0626" from-custom="197x" to-custom="197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han and friends exchanged and transcribed poems together<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>Han and friends exchanged and transcribed poems together<bibl type="source" source="#W0419">
           <biblScope unit="page">578</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00608" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from-custom="197x" to-custom="197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0005</geogName>Chen reports that this was popular among underground circles in Beijing<bibl type="source" source="#W0479">
+        <placeName type="site-of-act" ref="#SP0005"/>Chen reports that this was popular among underground circles in Beijing<bibl type="source" source="#W0479">
           <biblScope unit="page">75</biblScope>
         </bibl>
       </desc>
@@ -3070,21 +3070,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00612" active="#AG0118" key="AT01" name="to-read" ref="#W0190" from-custom="1970..1979" to-custom="1970..1979" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>Bo and his middle school classmates were reading a lot of books in a private study group<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>Bo and his middle school classmates were reading a lot of books in a private study group<bibl type="source" source="#W0476">
           <biblScope unit="page">531</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00613" active="#AG0115" key="AT16" name="to-be-influenced-by" ref="#W0231" from-custom="1967~" to-custom="1967~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>Influenced the way Xu perceived the role of the individual<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>Influenced the way Xu perceived the role of the individual<bibl type="source" source="#W0471">
           <biblScope unit="page">417</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00614" active="#AG0115" key="AT16" name="to-be-influenced-by" ref="#W0232" from-custom="1967~" to-custom="1967~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>Influenced the way Xu perceived the role of the individual<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>Influenced the way Xu perceived the role of the individual<bibl type="source" source="#W0471">
           <biblScope unit="page">417</biblScope>
         </bibl>
       </desc>
@@ -3097,7 +3097,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00616" active="#AG0106" key="AT01" name="to-read" ref="#W0233" from-custom="1969~" to-custom="1972~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>A friend (possibly penpal) recommended to read Plato. Hard reading which she forgot completely afterwards<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>A friend (possibly penpal) recommended to read Plato. Hard reading which she forgot completely afterwards<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -3140,7 +3140,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00623" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0103" from-custom="196x..197x" to-custom="196x..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>An educated youth had access to books via his father (cadre) and handed some of them over to Han.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>An educated youth had access to books via his father (cadre) and handed some of them over to Han.<bibl type="source" source="#W0419">
           <biblScope unit="page">583</biblScope>
         </bibl>
       </desc>
@@ -3203,7 +3203,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00634" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0120" from-custom="1967..197x" to-custom="1967..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Han‘s home was plundered and his collections were confiscated by Red Guards<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>Han‘s home was plundered and his collections were confiscated by Red Guards<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
@@ -3222,7 +3222,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00637" active="#AG0048" key="AT01" name="to-read" ref="#W0123" from-custom="1970~" to-custom="1970~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0016</geogName>he read the book aside the field during rustication<bibl type="source" source="#W0453"/>
+        <placeName type="site-of-act" ref="#SP0016"/>he read the book aside the field during rustication<bibl type="source" source="#W0453"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00638" active="#AG0020" key="AT05" name="to-mention" ref="#W0123" from-custom="196x..197x" to-custom="196x..197x" change="2020-04-04" resp="DP">
@@ -3233,14 +3233,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00639" active="#AG0118" key="AT01" name="to-read" ref="#W0123" from-custom="1970~" to-custom="1970~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>Bo and his middle school classmates were reading a lot of books in a private study group<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>Bo and his middle school classmates were reading a lot of books in a private study group<bibl type="source" source="#W0476">
           <biblScope unit="page">532</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00640" active="#AG0061" key="AT01" name="to-read" ref="#W0123" from="1969" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>By reading it she got more self-confident and aware of political occurrences in the past<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>By reading it she got more self-confident and aware of political occurrences in the past<bibl type="source" source="#W0440">
           <biblScope unit="page">461</biblScope>
         </bibl>
       </desc>
@@ -3267,7 +3267,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00645" active="#AG0143" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0029" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong had access to many books via his mother‘s private collection<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong had access to many books via his mother‘s private collection<bibl type="source" source="#W0428">
           <biblScope unit="page">116-117</biblScope>
         </bibl>
       </desc>
@@ -3284,17 +3284,17 @@
     </relation>
     <relation type="reading-act" xml:id="A00648" active="#AG0032" key="AT22" name="to-remember" ref="#W0240" from-custom="1969~" to-custom="1969~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>In prison Huang and his friend Zhu recalled many stories from books they had read before<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>In prison Huang and his friend Zhu recalled many stories from books they had read before<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00649" active="#AG0031" key="AT22" name="to-remember" ref="#W0240" from-custom="1969~" to-custom="1969~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>In prison Huang and his friend Zhu recalled many stories from books they had read before<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>In prison Huang and his friend Zhu recalled many stories from books they had read before<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00650" active="#AG0106" key="AT01" name="to-read" ref="#W0414" from-custom="1969~" to-custom="1972~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>A friend (possibly penpal) recommended to read Li. Was among the favorites of her readings in classical literature<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>A friend (possibly penpal) recommended to read Li. Was among the favorites of her readings in classical literature<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -3331,7 +3331,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00656" active="#AG0103" key="AT05" name="to-mention" ref="#W0269" from="1972" to="1976" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author mentions it among others as an important reading for him and his zhiqing fellows.<bibl type="source" source="#W0421">
+        <placeName type="site-of-act" ref="#SP0055"/>The author mentions it among others as an important reading for him and his zhiqing fellows.<bibl type="source" source="#W0421">
           <biblScope unit="page">581</biblScope>
         </bibl>
       </desc>
@@ -3348,33 +3348,33 @@
     </relation>
     <relation type="reading-act" xml:id="A00659" active="#AG0118" key="AT01" name="to-read" ref="#W0209" from="1979" to="1979" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.<bibl type="source" source="#W0476">
           <biblScope unit="page">532</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00670" active="#AG0103" key="AT05" name="to-mention" ref="#W0209" from="1972" to="1976" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author mentions it among others as an important reading for him and his zhiqing fellows.<bibl type="source" source="#W0421">
+        <placeName type="site-of-act" ref="#SP0055"/>The author mentions it among others as an important reading for him and his zhiqing fellows.<bibl type="source" source="#W0421">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00671" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="1966?" to-custom="1966?" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>From a private collection of his (Wu Hong's) mother. Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>From a private collection of his (Wu Hong's) mother. Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00672" active="#AG0031" key="AT05" name="to-mention" ref="#W0210" from-custom="1969.." to-custom="1969.." change="2020-04-04" resp="DP">
       <desc>
-        <geogName>#SP0002</geogName>Huang got in to the Sichuan Second Prison in 1969 Summer due to his diary. He was sent to labor reform and he met Zhu Shixian 朱时贤 there. The text is about their lives in the prison. They recall and read many literature in the prison. Zhu suicided in the prison. While Zhu Shixian's 朱时贤 dead body was being checked Huang recalled the soviet book’s title<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>Huang got in to the Sichuan Second Prison in 1969 Summer due to his diary. He was sent to labor reform and he met Zhu Shixian 朱时贤 there. The text is about their lives in the prison. They recall and read many literature in the prison. Zhu suicided in the prison. While Zhu Shixian's 朱时贤 dead body was being checked Huang recalled the soviet book’s title<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00673" active="#AG0105" key="AT01" name="to-read" ref="#W0211" from-custom="1974~" to-custom="1974~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>This work supported the process of alienation towards her parents and giving Xu a more rebellious edge<bibl type="source" source="#W0432">
+        <placeName type="site-of-act" ref="#SP0436"/>This work supported the process of alienation towards her parents and giving Xu a more rebellious edge<bibl type="source" source="#W0432">
           <biblScope unit="page">159</biblScope>
         </bibl>
       </desc>
@@ -3393,14 +3393,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00676" active="#AG0103" key="AT01" name="to-read" ref="#W0211" from-custom="1968?" to-custom="1974?" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Some educated youth exchanged and read this book and if they were inquired about by the local cadres they answer would be 'two line struggle' and the author of the book is the uncle of Marx. And those cadres would care no more because they knew nothing about it.<bibl type="source" source="#W0421">
+        <placeName type="site-of-act" ref="#SP0055"/>Some educated youth exchanged and read this book and if they were inquired about by the local cadres they answer would be 'two line struggle' and the author of the book is the uncle of Marx. And those cadres would care no more because they knew nothing about it.<bibl type="source" source="#W0421">
           <biblScope unit="page">574</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00677" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="1966?" to-custom="1966?" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>From a private collection of his (Wu Hong's) mother. Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>From a private collection of his (Wu Hong's) mother. Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR ( and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtain from his readings at that time<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
@@ -3489,21 +3489,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00694" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from-custom="1967~" to-custom="196x..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>the authors home was plundered and all of his collections were confiscated by the red guards<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>the authors home was plundered and all of his collections were confiscated by the red guards<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00695" active="#AG0103" key="AT05" name="to-mention" ref="#W0153" from-custom="[1968..1974]" to-custom="[1968..1974]" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>There was a local cadre in charge of surveilling the educated youth in the village, so the author had no choice but to show the cadre quotations in Maos collected works or the title of this book would be considered as counterrevolutionary.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>There was a local cadre in charge of surveilling the educated youth in the village, so the author had no choice but to show the cadre quotations in Maos collected works or the title of this book would be considered as counterrevolutionary.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00701" active="#AG0626" key="AT15" name="to-contemplate" ref="#W0550" from-custom="1976..1978" to-custom="1976..1978" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>The movie was shown in prison<bibl type="source" source="#W0519">
+        <placeName type="site-of-act" ref="#SP0002"/>The movie was shown in prison<bibl type="source" source="#W0519">
           <biblScope unit="page">113</biblScope>
         </bibl>
       </desc>
@@ -3568,7 +3568,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00713" active="#AG0063" key="AT01" name="to-read" ref="#W0246" from-custom="196x..197x" to-custom="196x..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>the book was read in school by a teacher who was denounced by Red Guards for restoring Kuomintang rule<bibl type="source" source="#W0451">
+        <placeName type="site-of-act" ref="#SP0446"/>the book was read in school by a teacher who was denounced by Red Guards for restoring Kuomintang rule<bibl type="source" source="#W0451">
           <biblScope unit="page">51</biblScope>
         </bibl>
       </desc>
@@ -3665,7 +3665,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00731" active="#AG0114" key="AT01" name="to-read" ref="#W0252" from-custom="1971~" to-custom="1971~" change="2020-12-08" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhang read it after the Lin Biao incident<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhang read it after the Lin Biao incident<bibl type="source" source="#W0429">
           <biblScope unit="page">110</biblScope>
         </bibl>
       </desc>
@@ -3684,7 +3684,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00734" active="#AG0215" key="AT17" name="to-recite" ref="#W0253" from-custom="1968..1973" to-custom="1968..1973" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0010</geogName>Ma Xiaodong and zhiqing friends recite a line from the Poem as they watch a beuatiful sundown in Yunnan during a mountain hike<bibl type="source" source="#W0495">
+        <placeName type="site-of-act" ref="#SP0010"/>Ma Xiaodong and zhiqing friends recite a line from the Poem as they watch a beuatiful sundown in Yunnan during a mountain hike<bibl type="source" source="#W0495">
           <biblScope unit="page">101</biblScope>
         </bibl>
       </desc>
@@ -3727,7 +3727,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00741" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0258" passive="#AG0061" from="1974" to="1974" change="2020-12-08" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>The family used books for private communication<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>The family used books for private communication<bibl type="source" source="#W0440">
           <biblScope unit="page">475</biblScope>
         </bibl>
       </desc>
@@ -3752,7 +3752,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00745" active="#AG0115" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0258" from-custom="1968~" to-custom="1968~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>Xu wanted to learn how to analyse social institutions<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>Xu wanted to learn how to analyse social institutions<bibl type="source" source="#W0471">
           <biblScope unit="page">423</biblScope>
         </bibl>
       </desc>
@@ -3793,7 +3793,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00752" active="#AG0106" key="AT01" name="to-read" ref="#W0262" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>recommended by a friend (possibly penpal)<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>recommended by a friend (possibly penpal)<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -3804,7 +3804,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00754" active="#AG0047" key="AT01" name="to-read" ref="#W0414" from-custom="1940..1950" to-custom="1940..1950" change="2020-12-08" resp="MG">
       <desc>
-        <geogName>#SP0437</geogName>he read the classics in his childhood<bibl type="source" source="#W0458"/>
+        <placeName type="site-of-act" ref="#SP0437"/>he read the classics in his childhood<bibl type="source" source="#W0458"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00755" active="#AG0114" key="AT05" name="to-mention" ref="#W0414" from-custom="196x..197x" to-custom="196x..197x" change="2020-04-04" resp="DP">
@@ -3821,14 +3821,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00757" active="#AG0143" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0029" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong had access to many books via his mother‘s private collection<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong had access to many books via his mother‘s private collection<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00758" active="#AG0106" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>copied into her notebook<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>copied into her notebook<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -3865,7 +3865,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00764" active="#AG0125" key="AT23" name="to-listen-to" ref="#W0553" from="1978" to="1978" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0070</geogName>was very impressed<bibl type="source" source="#W0479">
+        <placeName type="site-of-act" ref="#SP0070"/>was very impressed<bibl type="source" source="#W0479">
           <biblScope unit="page">74</biblScope>
         </bibl>
       </desc>
@@ -3878,7 +3878,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00766" active="#AG0033" key="AT01" name="to-read" ref="#W0267" from-custom="1955~" to-custom="1955~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>read this book in elementary school<bibl type="source" source="#W0443"/>
+        <placeName type="site-of-act" ref="#SP0446"/>read this book in elementary school<bibl type="source" source="#W0443"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00767" active="#AG0002" key="AT01" name="to-read" ref="#W0268" from-custom="1962..1963" to-custom="1962..1963" change="2020-04-04" resp="DP">
@@ -3895,7 +3895,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00769" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from-custom="1967?" to-custom="1967?" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Later the authors home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>Later the authors home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
@@ -3957,7 +3957,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00811" active="#AG0103" key="AT01" name="to-read" ref="#W0414" from-custom="1972~" to-custom="1972~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
@@ -4018,28 +4018,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00821" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0270" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>oral transmission<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00822" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0271" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>oral transmission<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00823" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0272" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>oral transmission<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00824" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0273" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0113</geogName>oral transmission<bibl type="source" source="#W0429">
+        <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">31</biblScope>
         </bibl>
       </desc>
@@ -4064,7 +4064,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00828" active="#AG0626" key="AT13" name="to-write" ref="#W0414" passive="#AG0103" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>One of his acquaintances Hu often wrote to him during his rustication. He had read many books. Which made him very good at citing the views of celebrities.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>One of his acquaintances Hu often wrote to him during his rustication. He had read many books. Which made him very good at citing the views of celebrities.<bibl type="source" source="#W0419">
           <biblScope unit="page">583</biblScope>
         </bibl>
       </desc>
@@ -4077,7 +4077,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00830" active="#AG0103" key="AT05" name="to-mention" ref="#W0414" from-custom="1972~" to-custom="1972~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
@@ -4096,21 +4096,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00833" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00834" active="#AG0143" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0029" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>from her private collection<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>from her private collection<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00835" active="#AG0029" key="AT01" name="to-read" ref="#W0414" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered Shakespeare on his mother’s bookshelf. He would read Shelly’s works during the period right before the CR when his parents were often absent from home. Wu states that what he had read in that time had a lasting influence on him until today.<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
@@ -4129,14 +4129,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00838" active="#AG0118" key="AT05" name="to-mention" ref="#W0414" from-custom="1970.." to-custom="1970.." change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0157</geogName>He thought that Bunin’s lyricism can be seen in Paustowski’s work.<bibl type="source" source="#W0491">
+        <placeName type="site-of-act" ref="#SP0157"/>He thought that Bunin’s lyricism can be seen in Paustowski’s work.<bibl type="source" source="#W0491">
           <biblScope unit="page">544</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00839" active="#AG0103" key="AT05" name="to-mention" ref="#W0414" from-custom="1966..1976~" to-custom="1966..1976~" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>He (name of a zhiqing) wanted to be a painter and he brought some painting albums during his rustication.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>He (name of a zhiqing) wanted to be a painter and he brought some painting albums during his rustication.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
@@ -4167,7 +4167,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00844" active="#AG0143" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0414" passive="#AG0029" from-custom="196x..1966" to-custom="196x..1966" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>from her private collection<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>from her private collection<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
@@ -4200,7 +4200,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00850" active="#AG0626" key="AT05" name="to-mention" ref="#W0414" passive="#AG0103" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-02" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>One of his acquaintances Hu often wrote to him during his rustication. He had read many books. Which made him very good at citing the views of celebrities.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>One of his acquaintances Hu often wrote to him during his rustication. He had read many books. Which made him very good at citing the views of celebrities.<bibl type="source" source="#W0419">
           <biblScope unit="page">583</biblScope>
         </bibl>
       </desc>
@@ -4228,14 +4228,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00855" active="#AG0468" key="AT40" name="to-sing" ref="#W0537" from="1976" to="1976" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0447</geogName>They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.<bibl type="source" source="#W0524">
+        <placeName type="site-of-act" ref="#SP0447"/>They sang the L'Internationale at the Tian'anmen Square upon the beginning of the march.<bibl type="source" source="#W0524">
           <biblScope unit="page">211</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00856" active="#AG0103" key="AT40" name="to-sing" ref="#W0537" from-custom="196x..197x" to-custom="196x..197x" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author and other educated youth would sing this song upon farewell.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author and other educated youth would sing this song upon farewell.<bibl type="source" source="#W0419">
           <biblScope unit="page">576</biblScope>
         </bibl>
       </desc>
@@ -4265,7 +4265,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00861" active="#AG0106" key="AT01" name="to-read" ref="#W0416" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook)<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook)<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
@@ -4284,7 +4284,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00864" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from="1978" to="1978" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0070</geogName>She was amazed at the list of books circulating inside the underground poetry organization during the Cultural Revolution.<bibl type="source" source="#W0479">
+        <placeName type="site-of-act" ref="#SP0070"/>She was amazed at the list of books circulating inside the underground poetry organization during the Cultural Revolution.<bibl type="source" source="#W0479">
           <biblScope unit="page">75</biblScope>
         </bibl>
       </desc>
@@ -4360,7 +4360,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00877" active="#AG0197" key="AT01" name="to-read" ref="#W0414" from-custom="1970?" to-custom="1970?" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0132</geogName>Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources<bibl type="source" source="#W0490">
+        <placeName type="site-of-act" ref="#SP0132"/>Li read a lot of Marxist theory in the 1960s. First the official accounts and then the deviant neibu sources<bibl type="source" source="#W0490">
           <biblScope unit="page">249</biblScope>
         </bibl>
       </desc>
@@ -4377,7 +4377,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00880" active="#AG0116" key="AT01" name="to-read" ref="#W0380" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
@@ -4396,14 +4396,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00883" active="#AG0103" key="AT23" name="to-listen-to" ref="#W0384" from-custom="196x" to-custom="197x" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author heard many stories from an educated youth in his team and those were mainly from these classic works<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author heard many stories from an educated youth in his team and those were mainly from these classic works<bibl type="source" source="#W0419">
           <biblScope unit="page">571</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00884" active="#AG0324" key="AT05" name="to-mention" ref="#W0622" from-custom="197x" to-custom="197x" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>An educated youth played this work with Erhu. Prior to this the author did not know the songs other than the revolutionary songs.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>An educated youth played this work with Erhu. Prior to this the author did not know the songs other than the revolutionary songs.<bibl type="source" source="#W0516">
           <biblScope unit="page">518f</biblScope>
         </bibl>
       </desc>
@@ -4428,14 +4428,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00888" active="#AG0103" key="AT05" name="to-mention" ref="#W0554" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>He (name of a zhiqing) wanted to be a painter and he brought some painting albums during his rustication.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>He (name of a zhiqing) wanted to be a painter and he brought some painting albums during his rustication.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00889" active="#AG0103" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0554" passive="#AG0626" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Han and friends exchanged the books they had brought to the countryside<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>Han and friends exchanged the books they had brought to the countryside<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
@@ -4470,7 +4470,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00895" active="#AG0117" key="AT01" name="to-read" ref="#W0414" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0003"/>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
           <biblScope unit="page">454</biblScope>
         </bibl>
       </desc>
@@ -4489,7 +4489,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00898" active="#AG0252" key="AT05" name="to-mention" ref="#W0394" from-custom="1974~" to-custom="1974~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0448</geogName>Tang Ke copied this poem to the author when he passed the Three Gorges Dam.<bibl type="source" source="#W0499">
+        <placeName type="site-of-act" ref="#SP0448"/>Tang Ke copied this poem to the author when he passed the Three Gorges Dam.<bibl type="source" source="#W0499">
           <biblScope unit="page">259</biblScope>
         </bibl>
       </desc>
@@ -4616,21 +4616,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00919" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0292" passive="#AG0031" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Zhu lent the book to Huang.<bibl type="source" source="#W0436">
+        <placeName type="site-of-act" ref="#SP0002"/>Zhu lent the book to Huang.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00920" active="#AG0031" key="AT01" name="to-read" ref="#W0292" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Huang received this book from his friend Zhu who he met in the prison.<bibl type="source" source="#W0436">
+        <placeName type="site-of-act" ref="#SP0002"/>Huang received this book from his friend Zhu who he met in the prison.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00921" active="#AG0032" key="AT12" name="to-have-the-text-confiscated" ref="#W0293" from="1969" to="1969" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>This book was confiscated while Zhu was sent into the prison.<bibl type="source" source="#W0436">
+        <placeName type="site-of-act" ref="#SP0002"/>This book was confiscated while Zhu was sent into the prison.<bibl type="source" source="#W0436">
           <biblScope unit="page"/>
         </bibl>
       </desc>
@@ -4649,28 +4649,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00924" active="#AG0047" key="AT01" name="to-read" ref="#W0046" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0437</geogName>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
+        <placeName type="site-of-act" ref="#SP0437"/>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00925" active="#AG0047" key="AT01" name="to-read" ref="#W0295" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0437</geogName>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
+        <placeName type="site-of-act" ref="#SP0437"/>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00926" active="#AG0047" key="AT01" name="to-read" ref="#W0055" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0437</geogName>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
+        <placeName type="site-of-act" ref="#SP0437"/>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00927" active="#AG0047" key="AT01" name="to-read" ref="#W0296" from-custom="1940..1950" to-custom="1940..1950" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0437</geogName>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
+        <placeName type="site-of-act" ref="#SP0437"/>Hui read the classics in his childhood at sishu.<bibl type="source" source="#W0458">
           <biblScope unit="page"/>
         </bibl>
       </desc>
@@ -4707,7 +4707,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00933" active="#AG0239" key="AT27" name="to-borrow" ref="#W0300" passive="#AG0146" from="1966" to="1966" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>Mingxin’s teacher Wang Hanying encouraged him and lent when he said he wanted to try writing critiques and lent him the journals.<bibl type="source" source="#W0497">
+        <placeName type="site-of-act" ref="#SP0446"/>Mingxin’s teacher Wang Hanying encouraged him and lent when he said he wanted to try writing critiques and lent him the journals.<bibl type="source" source="#W0497">
           <biblScope unit="page"/>
         </bibl>
       </desc>
@@ -4762,21 +4762,21 @@
     </relation>
     <relation type="reading-act" xml:id="A00942" active="#AG0114" key="AT05" name="to-mention" ref="#W0564" from-custom="1976~" to-custom="1976~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>He mentioned that he used to sing it in prison.<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0002"/>He mentioned that he used to sing it in prison.<bibl type="source" source="#W0517">
           <biblScope unit="page">208</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00943" active="#AG0114" key="AT05" name="to-mention" ref="#W0303" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0002"/>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
           <biblScope unit="page">435</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00944" active="#AG0516" key="AT01" name="to-read" ref="#W0305" from="1989" to="1989" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0054</geogName>Hu read it when he was in Changsha.<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0054"/>Hu read it when he was in Changsha.<bibl type="source" source="#W0517">
           <biblScope unit="page">445</biblScope>
         </bibl>
       </desc>
@@ -4801,28 +4801,28 @@
     </relation>
     <relation type="reading-act" xml:id="A00948" active="#AG0003" key="AT32" name="to-sing" ref="#W0566" from-custom="1970..1977" to-custom="1970..1977" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>He sang this song in prison.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>He sang this song in prison.<bibl type="source" source="#W0486">
           <biblScope unit="page">126</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00949" active="#AG0003" key="AT22" name="to-remember" ref="#W0289" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>He recalled the words from the Bible before he was about to be executed.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>He recalled the words from the Bible before he was about to be executed.<bibl type="source" source="#W0486">
           <biblScope unit="page">138</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00950" active="#AG0003" key="AT05" name="to-mention" ref="#W0567" from-custom="1970~" to-custom="1970~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>He mentioned that he carved some words on the wall in prison which had a very calligraphic feel.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>He mentioned that he carved some words on the wall in prison which had a very calligraphic feel.<bibl type="source" source="#W0486">
           <biblScope unit="page">138</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00951" active="#AG0003" key="AT32" name="to-sing" ref="#W0568" from-custom="1971~" to-custom="1971~" change="2021-01-05" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>He sang it with his fellow in the workshop.<bibl type="source" source="#W0486">
+        <placeName type="site-of-act" ref="#SP0002"/>He sang it with his fellow in the workshop.<bibl type="source" source="#W0486">
           <biblScope unit="page">142</biblScope>
         </bibl>
       </desc>
@@ -4859,7 +4859,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00957" active="#AG0324" key="AT05" name="to-mention" ref="#W0574" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>His friend Yan Li danced a dance from this work with a fellow Zhiqing.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>His friend Yan Li danced a dance from this work with a fellow Zhiqing.<bibl type="source" source="#W0516">
           <biblScope unit="page">520</biblScope>
         </bibl>
       </desc>
@@ -4896,14 +4896,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00963" active="#AG0195" key="AT05" name="to-mention" ref="#W0311" from-custom="19xx" to-custom="19xx" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author’s friend Liu Yu has this work at home which made the author feel very intellectual.<bibl type="source" source="#W0488">
+        <placeName type="site-of-act" ref="#SP0442"/>The author’s friend Liu Yu has this work at home which made the author feel very intellectual.<bibl type="source" source="#W0488">
           <biblScope unit="page">274</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00964" active="#AG0195" key="AT23" name="to-listen-to" ref="#W0575" from="1971" to="1971" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0005</geogName>The author and his friends visited some professors in Beijing and they listened this piano song by the daughter of a professor and then the professor played violin for them.<bibl type="source" source="#W0488">
+        <placeName type="site-of-act" ref="#SP0005"/>The author and his friends visited some professors in Beijing and they listened this piano song by the daughter of a professor and then the professor played violin for them.<bibl type="source" source="#W0488">
           <biblScope unit="page">276</biblScope>
         </bibl>
       </desc>
@@ -5030,7 +5030,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00985" active="#AG0115" key="AT01" name="to-read" ref="#W0313" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>After the Lin Biao Incident, the author custody was turned into labor rectification so that he could have more free time to learn colleage courses by himself and his mother sent him some original English texbooks about Modern Electronics and this one.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>After the Lin Biao Incident, the author custody was turned into labor rectification so that he could have more free time to learn colleage courses by himself and his mother sent him some original English texbooks about Modern Electronics and this one.<bibl type="source" source="#W0471">
           <biblScope unit="page">433</biblScope>
         </bibl>
       </desc>
@@ -5043,7 +5043,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00987" active="#AG0117" key="AT01" name="to-read" ref="#W0315" from="1969" to="1969" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>"The author learned English with a teacher who worked in the library of the Shanghai Academy of Science (SP0006) and this textbook was described as ""old brand imperialist ""by the author."<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0001"/>"The author learned English with a teacher who worked in the library of the Shanghai Academy of Science (SP0006) and this textbook was described as ""old brand imperialist ""by the author."<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -5068,7 +5068,7 @@
     </relation>
     <relation type="reading-act" xml:id="A00991" active="#AG0117" key="AT05" name="to-mention" ref="#W0319" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0003"/>There was a bookstore in Fuzhou Road (SP0006) selling those confiscated books during CR so the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
           <biblScope unit="page">454</biblScope>
         </bibl>
       </desc>
@@ -5087,14 +5087,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00994" active="#AG0117" key="AT05" name="to-mention" ref="#W0321" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0006</geogName>The author borrowed this book from Huang Tianmin the director of translation department of Shanghai Film Studios.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0006"/>The author borrowed this book from Huang Tianmin the director of translation department of Shanghai Film Studios.<bibl type="source" source="#W0430">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00995" active="#AG0117" key="AT01" name="to-read" ref="#W0322" from-custom="1976..1979" to-custom="1976..1979" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>The author found himself curious about everything, so he spent his time in Shanghai Municipal Library (SP0006) reading these books.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0001"/>The author found himself curious about everything, so he spent his time in Shanghai Municipal Library (SP0006) reading these books.<bibl type="source" source="#W0430">
           <biblScope unit="page">453</biblScope>
         </bibl>
       </desc>
@@ -5107,14 +5107,14 @@
     </relation>
     <relation type="reading-act" xml:id="A00997" active="#AG0121" key="AT32" name="to-sing" ref="#W0594" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0075</geogName>People focused on production during the day and then revolution for the night. Upon the beginning of the study session every night then they would sing this song together.<bibl type="source" source="#W0437">
+        <placeName type="site-of-act" ref="#SP0075"/>People focused on production during the day and then revolution for the night. Upon the beginning of the study session every night then they would sing this song together.<bibl type="source" source="#W0437">
           <biblScope unit="page">496</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A00998" active="#AG0121" key="AT05" name="to-mention" ref="#W0595" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0439</geogName>The factory where the author worked established a propaganda team of Mao thoughts which performed revolutionary model opera like this.<bibl type="source" source="#W0437">
+        <placeName type="site-of-act" ref="#SP0439"/>The factory where the author worked established a propaganda team of Mao thoughts which performed revolutionary model opera like this.<bibl type="source" source="#W0437">
           <biblScope unit="page">497</biblScope>
         </bibl>
       </desc>
@@ -5205,7 +5205,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01013" active="#AG0114" key="AT01" name="to-read" ref="#W0402" from-custom="1971..1972" to-custom="1971..1972" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>
+        <placeName type="site-of-act" ref="#SP0002"/>
         <bibl type="source" source="#W0429">
           <biblScope unit="page">110</biblScope>
         </bibl>
@@ -5213,7 +5213,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01014" active="#AG0195" key="AT01" name="to-read" ref="#W0402" from-custom="1968~" to-custom="1968~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0114</geogName>mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.<bibl type="source" source="#W0488">
+        <placeName type="site-of-act" ref="#SP0114"/>mentions that actually no one really believed in or cared about 语录 in the village. They just followed the instructions from above by putting up some words from it.<bibl type="source" source="#W0488">
           <biblScope unit="page">262</biblScope>
         </bibl>
       </desc>
@@ -5371,7 +5371,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01042" active="#AG0125" key="AT05" name="to-mention" ref="#W0554" from-custom="1970..197x" to-custom="1970..197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0070</geogName>To the author the 1970s was not only about sufferings and pains but also beautiful and romantic memories in the coutryside.<bibl type="source" source="#W0479">
+        <placeName type="site-of-act" ref="#SP0070"/>To the author the 1970s was not only about sufferings and pains but also beautiful and romantic memories in the coutryside.<bibl type="source" source="#W0479">
           <biblScope unit="page">79</biblScope>
         </bibl>
       </desc>
@@ -5402,14 +5402,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01047" active="#AG0061" key="AT01" name="to-read" ref="#W0075" from="1969" to="1970" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>she describes the personal gain she got out of reading (self-confidence and political understanding)<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>she describes the personal gain she got out of reading (self-confidence and political understanding)<bibl type="source" source="#W0440">
           <biblScope unit="page">474</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01048" active="#AG0626" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0075" passive="#AG0061" from="1969" to="1969" change="2020-12-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>First in a chinese version then later in german<bibl type="source" source="#W0440">
+        <placeName type="site-of-act" ref="#SP0002"/>First in a chinese version then later in german<bibl type="source" source="#W0440">
           <biblScope unit="page">474</biblScope>
         </bibl>
       </desc>
@@ -5479,7 +5479,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01060" active="#AG0035" key="AT20" name="to-perform" ref="#W0630" from="1956" to="1956" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0450</geogName>played the leading part in Qingdao<bibl type="source" source="#W0445"/>
+        <placeName type="site-of-act" ref="#SP0450"/>played the leading part in Qingdao<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01061" active="#AG0117" key="AT05" name="to-mention" ref="#W0554" from-custom="19xx" to-custom="19xx" change="2020-04-04" resp="DP">
@@ -5548,14 +5548,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01071" active="#AG0106" key="AT01" name="to-read" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>recommended by a friend (possibly penpal)<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>recommended by a friend (possibly penpal)<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01072" active="#AG0106" key="AT26" name="to-like" ref="#W0414" from-custom="1969..1972" to-custom="1969..1972" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>one of his favourite writers back then<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>one of his favourite writers back then<bibl type="source" source="#W0425">
           <biblScope unit="page">301</biblScope>
         </bibl>
       </desc>
@@ -5621,7 +5621,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01082" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">55</biblScope>
         </bibl>
       </desc>
@@ -5634,7 +5634,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01084" active="#AG0103" key="AT05" name="to-mention" ref="#W0414" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>"This book belonged to the ""neibu"" collection at that time."<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
@@ -5665,42 +5665,42 @@
     </relation>
     <relation type="reading-act" xml:id="A01104" active="#AG0324" key="AT01" name="to-read" ref="#W0324" from-custom="1966~" to-custom="1966~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The author started to learn Poems with this book when she entered middle school.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0446"/>The author started to learn Poems with this book when she entered middle school.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01105" active="#AG0118" key="AT01" name="to-read" ref="#W0324" from-custom="1970~" to-custom="1970~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The author started to write Poems when he was in the second year of middle school, but he had not established the sense of being a poet.<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>The author started to write Poems when he was in the second year of middle school, but he had not established the sense of being a poet.<bibl type="source" source="#W0476">
           <biblScope unit="page">531</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01106" active="#AG0116" key="AT01" name="to-read" ref="#W0324" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01107" active="#AG0103" key="AT05" name="to-mention" ref="#W0324" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01108" active="#AG0324" key="AT05" name="to-mention" ref="#W0558" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01109" active="#AG0324" key="AT05" name="to-mention" ref="#W0601" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
@@ -5713,14 +5713,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01111" active="#AG0324" key="AT05" name="to-mention" ref="#W0602" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The educated youths sang russian songs (back then were considered as erotic songs 'yellow songs') at night as recreational activity.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01112" active="#AG0324" key="AT05" name="to-mention" ref="#W0603" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The author learned a lot about traditional Chinese Music from another educated youth.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The author learned a lot about traditional Chinese Music from another educated youth.<bibl type="source" source="#W0516">
           <biblScope unit="page">518</biblScope>
         </bibl>
       </desc>
@@ -5757,35 +5757,35 @@
     </relation>
     <relation type="reading-act" xml:id="A01118" active="#AG0116" key="AT32" name="to-sing" ref="#W0606" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
           <biblScope unit="page">548</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01119" active="#AG0116" key="AT32" name="to-sing" ref="#W0607" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>He sang this song very happy in the new house when he was a child.<bibl type="source" source="#W0475">
           <biblScope unit="page">548</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01120" active="#AG0116" key="AT05" name="to-mention" ref="#W0328" from="1970" to="1970" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01121" active="#AG0116" key="AT01" name="to-read" ref="#W0293" from="1972" to="1974" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author read this collection for 2 years at home.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>The author read this collection for 2 years at home.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01122" active="#AG0116" key="AT01" name="to-read" ref="#W0329" from-custom="1972~" to-custom="1972~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>He left the book at home for a long time and he really loved it.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>He left the book at home for a long time and he really loved it.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
@@ -5810,28 +5810,28 @@
     </relation>
     <relation type="reading-act" xml:id="A01126" active="#AG0103" key="AT33" name="to-swap" ref="#W0332" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author and his friends in the same work team brought different kinds of books with themselves and the exchanged their books internally at first then mapped to other teams.<bibl type="source" source="#W0419">
           <biblScope unit="page">573</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01127" active="#AG0103" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0333" from-custom="1968~" to-custom="1968~" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author and some other educated youths established a night school for the peasants in the village, mainly for the aim of teaching of literacy. But this kind of doggerel (打油诗) was for the liveliness of their textbook.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author and some other educated youths established a night school for the peasants in the village, mainly for the aim of teaching of literacy. But this kind of doggerel (打油诗) was for the liveliness of their textbook.<bibl type="source" source="#W0419">
           <biblScope unit="page">576</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01128" active="#AG0103" key="AT05" name="to-mention" ref="#W0284" from="1972" to="1972" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>The author introduced the categories of those internal published books. The year 1972 was overwhelming to those book lovers and for they sensed there seemed to be a chance of opening up.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>The author introduced the categories of those internal published books. The year 1972 was overwhelming to those book lovers and for they sensed there seemed to be a chance of opening up.<bibl type="source" source="#W0419">
           <biblScope unit="page">580</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01129" active="#AG0114" key="AT05" name="to-mention" ref="#W0304" from-custom="1975..1979" to-custom="1975..1979" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
+        <placeName type="site-of-act" ref="#SP0002"/>It was reading matter sent to him when he was in prison after publication started again.<bibl type="source" source="#W0517">
           <biblScope unit="page">435</biblScope>
         </bibl>
       </desc>
@@ -6042,14 +6042,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01164" active="#AG0003" key="AT01" name="to-read" ref="#W0346" from="1959" to="1959" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
+        <placeName type="site-of-act" ref="#SP0446"/>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
           <biblScope unit="page">32</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01165" active="#AG0003" key="AT01" name="to-read" ref="#W0347" from="1959" to="1959" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
+        <placeName type="site-of-act" ref="#SP0446"/>The reader said that the book was very popular in the school he went at the time.<bibl type="source" source="#W0439">
           <biblScope unit="page">32</biblScope>
         </bibl>
       </desc>
@@ -6062,21 +6062,21 @@
     </relation>
     <relation type="reading-act" xml:id="A01167" active="#AG0106" key="AT05" name="to-mention" ref="#W0348" from="1969" to="1969" change="2021-01-09" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook).<bibl type="source" source="#W0425">
+        <placeName type="site-of-act" ref="#SP0436"/>Reading that Shu Ting took along with her in her backpack when she was rusticated (Pushkin and an English textbook).<bibl type="source" source="#W0425">
           <biblScope unit="page">300</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01168" active="#AG0117" key="AT01" name="to-read" ref="#W0350" from="1968" to="1968" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0006</geogName>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai and the author read many books after work.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0006"/>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai and the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01169" active="#AG0324" key="AT01" name="to-read" ref="#W0351" from="1976" to="1976" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0436</geogName>The author was shocked when she read this Poem and she was worried about the situation of its author. For the April 5th movement was cracked down soon.<bibl type="source" source="#W0516">
+        <placeName type="site-of-act" ref="#SP0436"/>The author was shocked when she read this Poem and she was worried about the situation of its author. For the April 5th movement was cracked down soon.<bibl type="source" source="#W0516">
           <biblScope unit="page">525</biblScope>
         </bibl>
       </desc>
@@ -6095,7 +6095,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01172" active="#AG0029" key="AT05" name="to-mention" ref="#W0414" from-custom="..1966" to-custom="..1966" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR (and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtained from his readings at that time.<bibl type="source" source="#W0428">
+        <placeName type="site-of-act" ref="#SP0442"/>Wu Hong has discovered this author himself. Wu Hong refers to his readings during the period right before the CR (and when his parents were often absent from home) as peculiar. Till the present day Wu Hong finds it difficult to access what he has obtained from his readings at that time.<bibl type="source" source="#W0428">
           <biblScope unit="page">116f</biblScope>
         </bibl>
       </desc>
@@ -6108,7 +6108,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01174" active="#AG0116" key="AT01" name="to-read" ref="#W0354" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
+        <placeName type="site-of-act" ref="#SP0442"/>The author started to read these books at home when he dropped off from school.<bibl type="source" source="#W0475">
           <biblScope unit="page">554</biblScope>
         </bibl>
       </desc>
@@ -6119,7 +6119,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01176" active="#AG0134" key="AT01" name="to-read" ref="#W0134" from-custom="1973~" to-custom="1973~" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The author heard and read this work in her second year of the middle school.<bibl type="source" source="#W0482">
+        <placeName type="site-of-act" ref="#SP0446"/>The author heard and read this work in her second year of the middle school.<bibl type="source" source="#W0482">
           <biblScope unit="page">391</biblScope>
         </bibl>
       </desc>
@@ -6144,26 +6144,26 @@
     </relation>
     <relation type="reading-act" xml:id="A01181" active="#AG0036" key="AT41" name="to-direct" ref="#W0627" from="1956" to="1956" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0450</geogName>He directed the play in Qingdao<bibl type="source" source="#W0445"/>
+        <placeName type="site-of-act" ref="#SP0450"/>He directed the play in Qingdao<bibl type="source" source="#W0445"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01182" active="#AG0011" key="AT05" name="to-mention" ref="#W0628" from="1971" to="1971" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>The author is surprised that daughter from AG0574 does not know how to appreciate the sketch.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>The author is surprised that daughter from AG0574 does not know how to appreciate the sketch.<bibl type="source" source="#W0477">
           <biblScope unit="page">57</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01183" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0357" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01184" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0358" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>Later the author's home was plundered as well and all of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
@@ -6182,7 +6182,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01187" active="#AG0115" key="AT13" name="to-write" ref="#W0360" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>The author was so curious about the essence of CR. So he read a lot relative books and wrote this 66-pages article. Then he was pronounced counterrevolutionary for it.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>The author was so curious about the essence of CR. So he read a lot relative books and wrote this 66-pages article. Then he was pronounced counterrevolutionary for it.<bibl type="source" source="#W0471">
           <biblScope unit="page">415</biblScope>
         </bibl>
       </desc>
@@ -6213,7 +6213,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01192" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" passive="#AG0286" from-custom="1970?" to-custom="1970?" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0420</geogName>
+        <placeName type="site-of-act" ref="#SP0420"/>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">148</biblScope>
         </bibl>
@@ -6221,7 +6221,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01193" active="#AG0506" key="AT27" name="to-borrow" ref="#W0401" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0420</geogName>
+        <placeName type="site-of-act" ref="#SP0420"/>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">149</biblScope>
         </bibl>
@@ -6229,7 +6229,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01194" active="#AG0506" key="AT42" name="to-suffer-confiscation" ref="#W0401" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0420</geogName>
+        <placeName type="site-of-act" ref="#SP0420"/>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">150</biblScope>
         </bibl>
@@ -6261,7 +6261,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01199" active="#AG0115" key="AT01" name="to-read" ref="#W0633" from-custom="1967~" to-custom="1967~" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>Yang was his classmate in the USA who was directly pointed as counterrevolutionary by Jiang Qing. The author thought Yang's poster still didn't answer the question about CR.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>Yang was his classmate in the USA who was directly pointed as counterrevolutionary by Jiang Qing. The author thought Yang's poster still didn't answer the question about CR.<bibl type="source" source="#W0471">
           <biblScope unit="page">419</biblScope>
         </bibl>
       </desc>
@@ -6286,14 +6286,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01300" active="#AG0103" key="AT12" name="to-have-the-text-confiscated" ref="#W0414" from="1967" to="1967" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0442</geogName>Later the author's home was plundered as well. All of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0442"/>Later the author's home was plundered as well. All of his collections were confiscated by the red guards.<bibl type="source" source="#W0419">
           <biblScope unit="page">569</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01301" active="#AG0011" key="AT05" name="to-mention" ref="#W0073" from="1971" to="1971" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>"His Poems are sincere, elegant and beautiful and full of pain. There won't be words like ""hatred"" or ""bullet""."<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>"His Poems are sincere, elegant and beautiful and full of pain. There won't be words like ""hatred"" or ""bullet""."<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
@@ -6312,7 +6312,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01304" active="#AG0032" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0368" passive="#AG0031" from="1969" to="1969" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0002</geogName>Huang and Zhu talked about health in the Prison. Zhu gave Huang this work and introduced the author to him.<bibl type="source" source="#W0436"/>
+        <placeName type="site-of-act" ref="#SP0002"/>Huang and Zhu talked about health in the Prison. Zhu gave Huang this work and introduced the author to him.<bibl type="source" source="#W0436"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01305" active="#AG0195" key="AT05" name="to-mention" ref="#W0369" from="1966" to="1966" change="2020-04-04" resp="DP">
@@ -6323,42 +6323,42 @@
     </relation>
     <relation type="reading-act" xml:id="A01306" active="#AG0115" key="AT01" name="to-read" ref="#W0369" from="1967" to="1967" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0156</geogName>The author had read many works of other people regarding the topic of class struggle. But still he found the works of Marx and Engels left the strongest influence on him.<bibl type="source" source="#W0471">
+        <placeName type="site-of-act" ref="#SP0156"/>The author had read many works of other people regarding the topic of class struggle. But still he found the works of Marx and Engels left the strongest influence on him.<bibl type="source" source="#W0471">
           <biblScope unit="page">419</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01307" active="#AG0011" key="AT05" name="to-mention" ref="#W0370" from-custom="1972~" to-custom="1972~" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01308" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0371" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01309" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0372" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01310" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0373" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01311" active="#AG0012" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0090" passive="#AG0011" from="1972" to="1972" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Genzi handed his poem to Xu Haoyuan. Xu thought each poem of his was expressing a teenager's anger hopelessness and the pain of growing up.<bibl type="source" source="#W0477">
           <biblScope unit="page">53</biblScope>
         </bibl>
       </desc>
@@ -6377,14 +6377,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01314" active="#AG0118" key="AT01" name="to-read" ref="#W0364" from-custom="1969?" to-custom="1969?" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.<bibl type="source" source="#W0476">
+        <placeName type="site-of-act" ref="#SP0446"/>The author and his classmates in middle school founded a private study group and they used to read a lot of books they could reach at that time.<bibl type="source" source="#W0476">
           <biblScope unit="page">531</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01315" active="#AG0018" key="AT13" name="to-write" ref="#W0365" from="1973" to="1973" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0025</geogName>The author made this Poem by himself when he saw the village scene (peasants wearing patched clothes working in the field) there in Baiyangdian.<bibl type="source" source="#W0480">
+        <placeName type="site-of-act" ref="#SP0025"/>The author made this Poem by himself when he saw the village scene (peasants wearing patched clothes working in the field) there in Baiyangdian.<bibl type="source" source="#W0480">
           <biblScope unit="page">310</biblScope>
         </bibl>
       </desc>
@@ -6397,7 +6397,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01317" active="#AG0011" key="AT05" name="to-mention" ref="#W0375" from-custom="1972~" to-custom="1972~" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0137</geogName>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
+        <placeName type="site-of-act" ref="#SP0137"/>Due to frequent checks she did not know where the poems were that others had given her.<bibl type="source" source="#W0477">
           <biblScope unit="page">55</biblScope>
         </bibl>
       </desc>
@@ -6418,14 +6418,14 @@
     </relation>
     <relation type="reading-act" xml:id="A01321" active="#AG0039" key="AT05" name="to-mention" ref="#W0636" from-custom="1966..1976" to-custom="1966..1976" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0438</geogName>While he got on the train it was like the scene in the movie: grabbing the holder and one leg still hanging outside<bibl type="source" source="#W0457">
+        <placeName type="site-of-act" ref="#SP0438"/>While he got on the train it was like the scene in the movie: grabbing the holder and one leg still hanging outside<bibl type="source" source="#W0457">
           <biblScope unit="page"/>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01322" active="#AG0117" key="AT01" name="to-read" ref="#W0406" from="1968" to="1968" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0006</geogName>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0006"/>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -6438,7 +6438,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01324" active="#AG0117" key="AT01" name="to-read" ref="#W0408" from="1968" to="1968" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0006</geogName>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0006"/>During his labor rectification in a repairing factory (SP0439i) n the suburb of Shanghai the author read many books after work.<bibl type="source" source="#W0430">
           <biblScope unit="page">443</biblScope>
         </bibl>
       </desc>
@@ -6451,7 +6451,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01326" active="#AG0103" key="AT05" name="to-mention" ref="#W0637" from-custom="1968..1974" to-custom="1968..1974" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0055</geogName>Some female educated youths liked to sing the songs of this movie and they would say it was from the model operas of being asked by the local cadres.<bibl type="source" source="#W0419">
+        <placeName type="site-of-act" ref="#SP0055"/>Some female educated youths liked to sing the songs of this movie and they would say it was from the model operas of being asked by the local cadres.<bibl type="source" source="#W0419">
           <biblScope unit="page">574</biblScope>
         </bibl>
       </desc>
@@ -6476,7 +6476,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01330" active="#AG0048" key="AT10" name="to-compile-/-edit-texts-/-quotations-by" ref="#W0410" from="1970" to="1970" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0016</geogName>He used the metaphor of the conflict of ideas between dapeng and owls from this work.<bibl type="source" source="#W0453"/>
+        <placeName type="site-of-act" ref="#SP0016"/>He used the metaphor of the conflict of ideas between dapeng and owls from this work.<bibl type="source" source="#W0453"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01331" active="#AG0029" key="AT05" name="to-mention" ref="#W0410" from-custom="1966.." to-custom="1966.." change="2020-04-04" resp="DP">
@@ -6493,7 +6493,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01333" active="#AG0038" key="AT05" name="to-mention" ref="#W0412" passive="#AG0113" from="1971" to="1971" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0009</geogName>Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature<bibl type="source" source="#W0426"/>
+        <placeName type="site-of-act" ref="#SP0009"/>Huang Xiaolong was secretly mocking his supervisor Wang while he was showing off his knowledge of classical Chinese literature<bibl type="source" source="#W0426"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01334" active="#AG0053" key="AT01" name="to-read" ref="#W0412" from-custom="1950..196x" to-custom="1950..196x" change="2020-04-04" resp="DP">
@@ -6506,7 +6506,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01336" active="#AG0033" key="AT01" name="to-read" ref="#W0415" from-custom="1957?" to-custom="1963?" change="2021-01-12" resp="MG">
       <desc>
-        <geogName>#SP0446</geogName>He read this book in the middle school. These books of revolutionary thought have influenced his growth.<bibl type="source" source="#W0515"/>
+        <placeName type="site-of-act" ref="#SP0446"/>He read this book in the middle school. These books of revolutionary thought have influenced his growth.<bibl type="source" source="#W0515"/>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01337" active="#AG0021" key="AT03" name="to-hand/send-over-(to-sb)" ref="#W0530" passive="#AG0002" from="1962" to="1963" change="2020-04-04" resp="DP">
@@ -6571,126 +6571,126 @@
     </relation>
     <relation type="reading-act" xml:id="A01347" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01348" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01349" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01350" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01351" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01352" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01353" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01354" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01355" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01356" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01357" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01358" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01359" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01360" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01361" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01362" active="#AG0307" key="AT44" name="to-find" ref="#W0414" from="1975" to-custom="197x" change="2020-12-16" resp="MG">
       <desc>
-        <geogName>#SP0001</geogName>She had access to those books in the library of her university<bibl type="source" source="#W0513">
+        <placeName type="site-of-act" ref="#SP0001"/>She had access to those books in the library of her university<bibl type="source" source="#W0513">
           <biblScope unit="page">162f</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01363" active="#AG0117" key="AT44" name="to-find" ref="#W0171" from-custom="1975..1979" to-custom="1975..1979" change="2020-12-17" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>There was a bookstore in Fuzhou Road (SP0006) selling confiscated books during CR. So the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
+        <placeName type="site-of-act" ref="#SP0003"/>There was a bookstore in Fuzhou Road (SP0006) selling confiscated books during CR. So the author found many precious collections of foreign works there.<bibl type="source" source="#W0430">
           <biblScope unit="page">454</biblScope>
         </bibl>
       </desc>
     </relation>
     <relation type="reading-act" xml:id="A01364" active="#AG0020" key="AT44" name="to-find" ref="#W0180" from-custom="1970..1975" to-custom="1970..1975" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0445</geogName>This novel was important to Gao Hua. He got access to many foreign books in a rear office where a lot of books from Nanjing Secondary Schools were stored.<bibl type="source" source="#W0420">
+        <placeName type="site-of-act" ref="#SP0445"/>This novel was important to Gao Hua. He got access to many foreign books in a rear office where a lot of books from Nanjing Secondary Schools were stored.<bibl type="source" source="#W0420">
           <biblScope unit="page">134</biblScope>
         </bibl>
       </desc>
@@ -6703,7 +6703,7 @@
     </relation>
     <relation type="reading-act" xml:id="A01366" active="#AG0003" key="AT44" name="to-find" ref="#W0156" from="1961" to-custom="1963?" change="2020-12-19" resp="MG">
       <desc>
-        <geogName>#SP0003</geogName>He would like to search book in old bookstores. He found this book there and read it later.<bibl type="source" source="#W0439">
+        <placeName type="site-of-act" ref="#SP0003"/>He would like to search book in old bookstores. He found this book there and read it later.<bibl type="source" source="#W0439">
           <biblScope unit="page">38</biblScope>
         </bibl>
       </desc>
