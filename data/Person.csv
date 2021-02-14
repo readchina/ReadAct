@@ -1439,3 +1439,13 @@ P1085,李,红刚,zh,male,NULL,NULL,NULL,NULL,1945..1950~,1969~,,,PL0999,,2,,SS00
 P1086,Wang,anon,en,male,NULL,NULL,NULL,NULL,1940..1950~,,Teacher Wang,en,PL0999,,2,,SS00606,,,,F,,,,2020-06-29,MG,2020-06-29,MG
 P1087,Jiang,Qing,en,female,NULL,NULL,NULL,NULL,1914,1991,NULL,NULL,PL0636,,,,https://en.wikipedia.org/wiki/Jiang_Qing,ONLINE SOURCE,,,,,,,2020-06-30,MG,2020-06-30,MG
 P1087,江,青,zh,female,NULL,NULL,NULL,NULL,1914,1991,NULL,NULL,PL0636,,,,https://en.wikipedia.org/wiki/Jiang_Qing,ONLINE SOURCE,,,,,,,2020-06-30,MG,2020-06-30,MG
+P1088,Lin,Zhen,en,male,NULL,NULL,NULL,NULL,1930..1935~,,NULL,NULL,PL0999,,2,,SS00608,,,,F,N06,He seems to have incorporated notions of what a Socialist hero should be like (SS00608; German edition p.92-93),please add the Chinese characters,2020-08-07,MG,2021-01-18,MG
+P1089,Zhao,Huiwen,en,female,NULL,NULL,NULL,NULL,1930..1935~,,NULL,NULL,PL0999,,2,,SS00608,,,,F,N07,,please add the Chinese characters,2020-08-07,MG,2021-01-16,MG
+P1090,Liu,Shiwu,en,male,NULL,NULL,NULL,NULL,1900~,,NULL,NULL,PL0999,,3,,SS00608,,,,F,,,please add the Chinese characters,2020-08-07,MG,2021-01-16,MG
+P1091,Wang,Meng,en,male,no,NULL,NULL,NULL,1934,,NULL,NULL,PL0002,,,,https://en.wikipedia.org/wiki/Wang_Meng_(author),ONLINE SOURCE,,,,,,,2020-08-07,MG,2020-08-07,MG
+P1091,王,蒙,zh,male,no,NULL,NULL,NULL,1934,,NULL,NULL,PL0002,,,,https://en.wikipedia.org/wiki/Wang_Meng_(author),ONLINE SOURCE,,,,,,,2020-08-07,MG,2020-08-07,MG
+P1092,Kubin,Wolfgang,de,male,NULL,NULL,NULL,NULL,1945,,NULL,NULL,PL0637,,,,https://en.wikipedia.org/wiki/Wolfgang_Kubin,ONLINE SOURCE,,,,,,,2020-08-07,MG,2020-08-07,MG
+P1092,顾彬,,zh,male,NULL,NULL,NULL,NULL,1945,,NULL,NULL,PL0637,,,,https://en.wikipedia.org/wiki/Wolfgang_Kubin,ONLINE SOURCE,,,,,,,2020-08-07,MG,2020-08-07,MG
+P1093,Nikolaeva,Galina,en,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-16,MG
+P1093,Николаева,Галина,ru,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-16,MG
+P1093,尼古拉耶娃著,迦林娜,zh,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-18,MG
