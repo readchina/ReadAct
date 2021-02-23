@@ -5053,12 +5053,6 @@
     </note>
     <note type="genre" subtype="literary-non-fiction">biography<idno type="LCSH">sh85014164</idno>
     </note>
-    <note type="quote">
-      <cit xml:id="Q0008">
-        <quote>生当作人杰，死。。。</quote>
-        <ptr target="206"/>
-      </cit>
-    </note>
   </bibl>
   <bibl xml:id="W0430" type="text" status="unspecified-access">
     <title xml:lang="en" type="main">Dreams and Reminiscences</title>
@@ -7160,6 +7154,30 @@
     <date when="1882"/>
     <placeName type="first-performance" ref="#SP0068"/>
     <note type="art-form">music<idno type="AAT">300054146</idno>
+    </note>
+  </bibl>
+  <bibl xml:id="W0700" type="text" status="unspecified-access">
+    <title xml:lang="en" type="main">unknown</title>
+    <author ref="#AG0371"/>
+    <pubPlace ref="#SP0436"/>
+    <note type="genre" subtype="poetry">poetry<idno type="LCSH">gf2014026481</idno>
+    </note>
+    <note type="quote">
+      <cit xml:id="Q0008">
+        <quote>‘生当作人杰，死亦为鬼雄。至今思项羽，不肯过江东 !‘</quote>
+      </cit>
+    </note>
+  </bibl>
+  <bibl xml:id="W0701" type="text" status="unspecified-access">
+    <title xml:lang="en" type="main">unknown</title>
+    <author ref="#AG0626"/>
+    <pubPlace ref="#SP0436"/>
+    <note type="genre" subtype="unknown">unknown<idno type="LCSH"/>
+    </note>
+    <note type="quote">
+      <cit xml:id="Q0012">
+        <quote>莫自使眼枯 ; 收汝泪纵横；眼枯即见骨 ; 天地终无情！</quote>
+      </cit>
     </note>
   </bibl>
 </listBibl>

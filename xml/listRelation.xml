@@ -3276,9 +3276,10 @@
       <desc>Li used to like to read Li Ping‘s When the Sunset Disappears<bibl type="source" source="#W0460"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00647" active="#AG0114" key="AT05" name="to-mention" ref="#W0429" from-custom="196x..197x" to-custom="196x..197x" change="2020-04-04" resp="DP">
-      <desc>unknown<bibl type="source" source="#W0429">
-          <biblScope unit="page">206</biblScope>
+    <relation type="reading-act" xml:id="A00647" active="#AG0114" key="AT45" name="to-stick-on-a-towel" ref="#W0700" from-custom="196x..197x" to-custom="196x..197x" change="2021-02-23" resp="MG">
+      <desc>
+        <placeName type="site-of-act" ref="#SP0002"/>unknown<bibl type="source" source="#W0429">
+          <biblScope unit="page">207</biblScope>
         </bibl>
       </desc>
     </relation>
@@ -6705,6 +6706,14 @@
       <desc>
         <placeName type="site-of-act" ref="#SP0003"/>He would like to search book in old bookstores. He found this book there and read it later.<bibl type="source" source="#W0439">
           <biblScope unit="page">38</biblScope>
+        </bibl>
+      </desc>
+    </relation>
+    <relation type="reading-act" xml:id="A01380" active="#AG0114" key="AT45" name="to-stick-on-a-towel" ref="#W0701" from-custom="196x..197x" to-custom="196x..197x" change="2021-02-23" resp="MG">
+      <desc>
+        <placeName type="site-of-act" ref="#SP0002"/>
+        <bibl type="source" source="#W0429">
+          <biblScope unit="page">206</biblScope>
         </bibl>
       </desc>
     </relation>

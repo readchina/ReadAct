@@ -1,5 +1,5 @@
 <gexf:gexf xmlns:gexf="http://www.gexf.net/1.2draft" version="1.2">
-  <gexf:meta lastmodifieddate="2021-02-19Z">
+  <gexf:meta lastmodifieddate="2021-02-23Z">
     <gexf:creator>ReadAct</gexf:creator>
     <gexf:description>Bipartite graph of reading act edges, connecting agent and work nodes</gexf:description>
   </gexf:meta>
@@ -528,7 +528,6 @@
       <gexf:node id="W0415" label="少年英雄巴甫里克"/>
       <gexf:node id="W0416" label="Pushkin poetry"/>
       <gexf:node id="W0417" label="On Richard Nixon"/>
-      <gexf:node id="W0429" label="The Literary Inquisition of ‘The Second Handshake’"/>
       <gexf:node id="W0511" label="A Single Tear"/>
       <gexf:node id="W0513" label="Thirty Years in a Red House"/>
       <gexf:node id="W0530" label="The Girl of the Mountains (Kenga e naftes)"/>
@@ -638,6 +637,8 @@
       <gexf:node id="W0637" label="Sorrows of the Forbidden City"/>
       <gexf:node id="W0638" label="Two Hundred Famous Foreign Songs"/>
       <gexf:node id="W0639" label="Vltava"/>
+      <gexf:node id="W0700" label="unknown"/>
+      <gexf:node id="W0701" label="unknown"/>
     </gexf:nodes>
     <gexf:edges>
       <gexf:edge id="1-1" source="AG0002" target="W0015"/>
@@ -1123,7 +1124,7 @@
       <gexf:edge id="53-16" source="AG0114" target="W0414"/>
       <gexf:edge id="53-17" source="AG0114" target="W0120"/>
       <gexf:edge id="53-18" source="AG0114" target="W0414"/>
-      <gexf:edge id="53-19" source="AG0114" target="W0429"/>
+      <gexf:edge id="53-19" source="AG0114" target="W0700"/>
       <gexf:edge id="53-20" source="AG0114" target="W0414"/>
       <gexf:edge id="53-21" source="AG0114" target="W0242"/>
       <gexf:edge id="53-22" source="AG0114" target="W0243"/>
@@ -1159,6 +1160,7 @@
       <gexf:edge id="53-52" source="AG0114" target="W0304"/>
       <gexf:edge id="53-53" source="AG0114" target="W0407"/>
       <gexf:edge id="53-54" source="AG0114" target="W0414"/>
+      <gexf:edge id="53-55" source="AG0114" target="W0701"/>
       <gexf:edge id="54-1" source="AG0115" target="W0009"/>
       <gexf:edge id="54-2" source="AG0115" target="W0414"/>
       <gexf:edge id="54-3" source="AG0115" target="W0218"/>
