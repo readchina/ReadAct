@@ -241,12 +241,18 @@ SS00606,Roter Ahorn,,de,P1083,G05,,,,1979,,SS00607,,32-50,F,P1086,,,2020-06-29,M
 SS00606,枫,,zh,P1083,G05,,,,1979,,SS00607,,32-50,F,P1086,,,2020-06-29,MG,2020-06-29,MG
 SS00607,Literatur und Politik in der Volksrepublik China,,de,P1082,G28,PL0240,1983,Suhrkamp,,,,,,,,,,2020-06-29,MG,2020-06-29,MG
 SS00610,SF aus China:,Kurzgeschichten,de,P1096,G28,PL0639,1984,Wilhelm Goldmann,,,,,,,,and P1095,,2021-02-24,MG,2021-02-24,MG
-SS00611,Der Traum vom Sanften Land,,de,P1094,G07,,,,1981,,SS00610,,7-29,F,,originally published in 北京文学,,2021-02-24,MG,2021-02-24,MG
-SS00612,Zersetzung,,de,P1096,G07,,,,1981,,SS00610,,31-63,F,,originally published in 人民文学,,2021-02-24,MG,2021-02-24,MG
-SS00613,Liebe im Unendlichen,,de,P1097,G07,,,,1979,,,,,F,,,,2021-02-24,MG,2021-02-24,MG
+SS00611,Der Traum vom Sanften Land,,de,P1094,G07,,,,1981,,SS00620,,9-51,F,,originally published in 北京文学,,2021-02-24,MG,2021-02-25,MG
+SS00611,Conjugal Happines in The Arms of Morpheus,,en,P1094,G07,,,,1981,,SS00620,,9-51,F,,originally published in 北京文学,,2021-02-25,MG,2021-02-25,MG
+SS00612,Zersetzung,,de,P1096,G07,,,,1981,,SS00620,,135-156,F,,originally published in 人民文学,,2021-02-24,MG,2021-02-25,MG
+SS00612,Corrosion,,en,P1096,G07,,,,1981,,SS00620,,135-156,F,,originally published in 人民文学,,2021-02-25,MG,2021-02-25,MG
+SS00613,Liebe im Unendlichen,,de,P1097,G07,,,,1979,,SS00622,,283-311,F,,originally published in 四川文学,,2021-02-24,MG,2021-02-24,MG
+SS00613,Love in Infinity,,en,P1097,G07,,,,1979,,SS00622,,283-311,F,,originally published in 四川文学,,2021-02-25,MG,2021-02-25,MG
+SS00613,遥远的爱 ,,zh,P1097,G07,,,,1979,,SS00622,,283-311,F,,originally published in 四川文学,,2021-02-25,MG,2021-02-25,MG
 SS00614,Das Rätsel Beta,,de,P1098,G07,,,,1982,,SS00610,,99-130,F,,,,2021-02-24,MG,2021-02-24,MG
-SS00614,β个谜 ,,zh,P1098,G07,,,,1982,,SS00610,,99-130,F,,originally published in 科学文艺,,2021-02-24,MG,2021-02-24,MG
-SS00615,The Mysterious Wave,,en,P1099,G07,,1979,,,,SS00620,,,F,,,,2021-02-24,MG,2021-02-24,MG
+SS00614,β个谜 ,,zh,P1098,G07,,,,1982,,SS00610,,99-130,F,,originally published in 科学文艺,,2021-02-24,MG,2021-02-25,MG
+SS00615,The Mysterious Wave,,en,P1099,G07,,,,1979,,SS00620,,71-95,F,,originally published in 四川文学,,2021-02-25,MG,2021-02-25,MG
+SS00615,神秘的波,,zh,P1099,G07,,,,1979,,SS00620,,71-95,F,,originally published in 四川文学,,2021-02-25,MG,2021-02-25,MG
+SS00615,Die Geheimnisvollen Wellen,,de,P1099,G07,,,,1979,,SS00620,,71-95,F,,originally published in 四川文学,,2021-02-25,MG,2021-02-25,MG
 SS00616,Professor Salomos Irrtum,,de,P1100,G07,,,,1980,,SS00610,,169-149,F,,,check page numbers,2021-02-24,MG,2021-02-24,MG
 SS00616,沙洛姆教授的迷雾,,zh,P1100,G07,,,,1980,,SS00610,,169-149,F,,originally published in 人民文学,check page numbers,2021-02-24,MG,2021-02-24,MG
 SS00617,Der Merkwürdige Fall vom Seeufer,,de,P1102,G07,,,,1982,,SS00610,,195-214,F,,transl. Christa Höger,,2021-02-24,MG,2021-02-24,MG
@@ -255,3 +261,5 @@ SS00619,Read as You Have Sown,,en,P1096,G07,,,,1981,,SS00620,,53-67,F,,originall
 SS00620,Science Fiction From China,,en,,G28,PL0050,1989,Praeger,,,,,,,,,add editor,2021-02-24,MG,2021-02-24,MG
 SS00621,Death Ray on a Coral Island,,en,P1097,G07,,,,1978,,SS00620,,97-122,F,,originally published in 人民文学,,2021-02-24,MG,2021-02-24,MG
 SS00621,珊瑚岛的死光,,zh,P1097,G07,,,,1978,,SS00620,,97-122,F,,originally published in 人民文学,,2021-02-24,MG,2021-02-24,MG
+SS00622,The Selections of Chinese Science Fiction,,en,P1096,G28,PL0020,1982,Liaoning renmin chubanshe,,,,,,,,,,2021-02-25,MG,2021-02-25,MG
+SS00622,中外科学幻想下获选,,zh,P1096,G28,PL0020,1982,Liaoning renmin chubanshe,,,,,,,,,,2021-02-25,MG,2021-02-25,MG
