@@ -1456,26 +1456,31 @@ P1092,顾彬,,zh,male,NULL,NULL,NULL,NULL,1945,,NULL,NULL,PL0637,,,,https://en.w
 P1093,Nikolaeva,Galina,en,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-16,MG
 P1093,Николаева,Галина,ru,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-16,MG
 P1093,尼古拉耶娃著,迦林娜,zh,female,NULL,NULL,NULL,NULL,1911,1963,NULL,NULL,PL0638,,,,http://experimental.worldcat.org/idnetwork/display.html?query=lccn-n84026923,ONLINE SOURCE,,,,,,,2021-01-16,MG,2021-01-18,MG
-P1094,Wei,Yahua,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1095,Dunsing,Charlotte,en,female,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1096,Ye,Yonglie,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1096,叶,永烈,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-25,MG,2021-02-25,MG
-P1097,Tong,Enzheng,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1097,童,恩正,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
+P1094,Wei,Yahua,en,male,no,NULL,NULL,NULL,1949,,NULL,NULL,PL0182,,,,https://baike.baidu.com/item/%E9%AD%8F%E9%9B%85%E5%8D%8E,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
+P1094,魏,雅华,zh,male,no,NULL,NULL,NULL,1949,,NULL,NULL,PL0182,,,,https://baike.baidu.com/item/%E9%AD%8F%E9%9B%85%E5%8D%8E,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
+P1095,Dunsing,Charlotte,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,https://worldcat.org/identities/viaf-2313425/,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
+P1095,Dunsing,夏洛特,zh,female,NULL,NULL,NULL,NULL,,,NULL,NULL,,,,,https://worldcat.org/identities/viaf-2313425/,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
+P1096,Ye,Yonglie,en,male,NULL,NULL,NULL,NULL,1940,2020,NULL,NULL,PL0641,,,,https://en.wikipedia.org/wiki/Ye_Yonglie,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
+P1096,叶,永烈,zh,male,NULL,NULL,NULL,NULL,1940,2020,NULL,NULL,PL0641,,,,https://en.wikipedia.org/wiki/Ye_Yonglie,ONLINE SOURCE,,,,,,,2021-02-25,MG,2021-03-08,MG
+P1097,Tong,Enzheng,en,male,NULL,NULL,NULL,NULL,1935,1997,NULL,NULL,PL0642,,,,https://en.wikipedia.org/wiki/Tong_Enzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
+P1097,童,恩正,zh,male,NULL,NULL,NULL,NULL,1935,1997,NULL,NULL,PL0642,,,,https://en.wikipedia.org/wiki/Tong_Enzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
 P1098,Liu,Zhaogui,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
+P1098,刘,刘肇贵,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-08,MG,2021-03-08,MG
 P1099,Wang,Xiaoda,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1100,Xiao,Jianheng,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1100,肖,建亨,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-04,MG,2021-03-04,MG
-P1101,Gu,Junzheng,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
+P1100,Xiao,Jianheng,en,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
+P1100,肖,建亨,zh,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-08,MG
+P1101,Gu,Junzheng,en,male,NULL,NULL,NULL,NULL,1902,1980,NULL,NULL,PL0643,,,,http://sf-encyclopedia.com/entry/gu_junzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
 P1102,Liu,Ji‘an,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
 P1103,Zhen,Wenguang,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1103,郑,文光 ,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1104,Jiang,Yunsheng,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1105,Han,Song,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
-P1106,Xia,Jia,en,female,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1106,Wang,Yao,en,female,NULL,NULL,NULL,NULL,1984,,Xia Jia,en,PL0182,,,,https://en.wikipedia.org/wiki/Xia_Jia,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-08,MG
+P1106,王,瑶,zh,female,NULL,NULL,NULL,NULL,1984,,夏笳,zh,PL0182,,,,https://en.wikipedia.org/wiki/Xia_Jia,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
 P1107,Chen,Quifan,en,male,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-03-03,MG
 P1107,陈,秋帆,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
-P1108,Hao,Jingfang,en,female,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1108,Hao,Jingfang,en,female,NULL,NULL,NULL,NULL,1984,,NULL,NULL,PL0018,,,,https://en.wikipedia.org/wiki/Hao_Jingfang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-08,MG
+P1108,郝,景芳,zh,female,NULL,NULL,NULL,NULL,1984,,NULL,NULL,PL0018,,,,https://en.wikipedia.org/wiki/Hao_Jingfang,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
 P1109,Chi,Hui,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1110,Wang,Jinkang,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1111,La,La,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
