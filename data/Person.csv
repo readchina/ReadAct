@@ -1465,37 +1465,41 @@ P1096,叶,永烈,zh,male,NULL,NULL,NULL,NULL,1940,2020,NULL,NULL,PL0641,,,,https
 P1097,Tong,Enzheng,en,male,NULL,NULL,NULL,NULL,1935,1997,NULL,NULL,PL0642,,,,https://en.wikipedia.org/wiki/Tong_Enzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
 P1097,童,恩正,zh,male,NULL,NULL,NULL,NULL,1935,1997,NULL,NULL,PL0642,,,,https://en.wikipedia.org/wiki/Tong_Enzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
 P1098,Liu,Zhaogui,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1098,刘,刘肇贵,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-08,MG,2021-03-08,MG
-P1099,Wang,Xiaoda,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1100,Xiao,Jianheng,en,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
-P1100,肖,建亨,zh,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-08,MG
+P1098,刘,肇贵,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-08,MG,2021-03-09,MG
+P1099,Wang,Xiaoda,en,male,NULL,NULL,NULL,NULL,1939,2021,NULL,NULL,PL0082,,,,https://baike.baidu.com/item/%E7%8E%8B%E6%99%93%E8%BE%BE/6926369,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-09,MG
+P1099,王,晓达,zh,male,NULL,NULL,NULL,NULL,1939,2021,NULL,NULL,PL0082,,,,https://baike.baidu.com/item/%E7%8E%8B%E6%99%93%E8%BE%BE/6926369,ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
+P1100,Xiao,Jianheng,en,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,PL0999,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-09,MG
+P1100,肖,建亨,zh,male,NULL,NULL,NULL,NULL,1930,,NULL,NULL,PL0999,,,,https://baike.baidu.com/item/%E8%82%96%E5%BB%BA%E4%BA%A8,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1101,Gu,Junzheng,en,male,NULL,NULL,NULL,NULL,1902,1980,NULL,NULL,PL0643,,,,http://sf-encyclopedia.com/entry/gu_junzheng,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-03-08,MG
 P1102,Liu,Ji‘an,en,,,,,,,,,,,,,,,,,,,,,,2021-02-24,MG,2021-02-24,MG
-P1103,Zhen,Wenguang,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
-P1103,郑,文光 ,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1103,Zhen,Wenguang,en,male,NULL,NULL,NULL,NULL,1929,2003,NULL,NULL,PL0645,,,,https://en.wikipedia.org/wiki/Zheng_Wenguang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
+P1103,郑,文光 ,zh,male,NULL,NULL,NULL,NULL,1929,2003,NULL,NULL,PL0645,,,,https://en.wikipedia.org/wiki/Zheng_Wenguang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
 P1104,Jiang,Yunsheng,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
-P1105,Han,Song,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1105,Han,Song,en,male,NULL,NULL,NULL,NULL,1965,,NULL,NULL,PL0012,,,,https://en.wikipedia.org/wiki/Han_Song_(writer),ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
+P1105,韩,松,zh,male,NULL,NULL,NULL,NULL,1965,,NULL,NULL,PL0012,,,,https://en.wikipedia.org/wiki/Han_Song_(writer),ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
 P1106,Wang,Yao,en,female,NULL,NULL,NULL,NULL,1984,,Xia Jia,en,PL0182,,,,https://en.wikipedia.org/wiki/Xia_Jia,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-08,MG
 P1106,王,瑶,zh,female,NULL,NULL,NULL,NULL,1984,,夏笳,zh,PL0182,,,,https://en.wikipedia.org/wiki/Xia_Jia,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
-P1107,Chen,Quifan,en,male,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-03-03,MG
-P1107,陈,秋帆,zh,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1107,Chen,Quifan,en,male,NULL,NULL,NULL,NULL,1981,,Stanley Chan,en,PL0644,,,,https://en.wikipedia.org/wiki/Chen_Qiufan,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
+P1107,陈,秋帆,zh,male,NULL,NULL,NULL,NULL,1981,,NULL,NULL,PL0644,,,,https://en.wikipedia.org/wiki/Chen_Qiufan,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
 P1108,Hao,Jingfang,en,female,NULL,NULL,NULL,NULL,1984,,NULL,NULL,PL0018,,,,https://en.wikipedia.org/wiki/Hao_Jingfang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-08,MG
 P1108,郝,景芳,zh,female,NULL,NULL,NULL,NULL,1984,,NULL,NULL,PL0018,,,,https://en.wikipedia.org/wiki/Hao_Jingfang,ONLINE SOURCE,,,,,,,2021-03-08,MG,2021-03-08,MG
-P1109,Chi,Hui,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
+P1109,Chi,Hui,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://baike.baidu.com/item/%E8%BF%9F%E5%8D%89,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
+P1109,迟,卉,zh,female,NULL,NULL,NULL,NULL,,,雪舞风华,zh,PL0999,,,,https://baike.baidu.com/item/%E8%BF%9F%E5%8D%89,ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
 P1110,Wang,Jinkang,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1111,La,La,en,,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
 P1112,Wu,Anna,en,female,,,,,,,,,,,,,,,,,,,,,2021-02-27,MG,2021-02-27,MG
-P1113,Cheng,Jingbo,en,female,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1114,Ken,Liu,en,,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1115,Tang,Fei,en,female,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1116,Wang,Regina Kanyu,en,,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1116,王,侃瑜 ,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1117,Chi,Shuchang,en,,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1117,迟,叔唱,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-03,MG,2021-03-03,MG
-P1118,Yu,Zhi,en,male,,,,,,,,,,,,,SS00652,,,,F,,,,2021-03-03,MG,2021-03-03,MG
-P1118,于,止,zh,male,,,,,,,,,,,,,SS00652,,,,F,,,,2021-03-03,MG,2021-03-03,MG
-P1119,Huang,Yi,en,,,,,,,,,,,,,,,,,,,,,,2021-03-04,MG,2021-03-04,MG
-P1119,黄,伊 ,zh,,,,,,,,,,,,,,,,,,,,,,2021-03-04,MG,2021-03-04,MG
-P1120,Ma,Boyong,en,male,NULL,NULL,NULL,NULL,1980,,,,,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-04,MG
-P1120,马,伯庸,zh,male,NULL,NULL,NULL,NULL,1980,,,,,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-04,MG
-,,,,,,,,,,,,,,,,,,,,,,,,,2021-03-04,MG,2021-03-04,MG
+P1113,Cheng,Jingbo,en,female,NULL,NULL,NULL,NULL,1983,,NULL,NULL,PL0999,,,,http://sf-encyclopedia.com/entry/cheng_jingbo,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1114,Liu,Ken,en,male,NULL,NULL,NULL,NULL,1976,,NULL,NULL,PL0074,,,,https://en.wikipedia.org/wiki/Ken_Liu,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1114,刘,宇昆,zh,male,NULL,NULL,NULL,NULL,1976,,NULL,NULL,PL0074,,,,https://en.wikipedia.org/wiki/Ken_Liu,ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
+P1115,Tang,Fei,en,female,NULL,NULL,NULL,NULL,1983,,Wang Jing,en,PL0003,,,,https://en.wikipedia.org/wiki/Tang_Fei_(writer),ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1115,糖,匪,zh,female,NULL,NULL,NULL,NULL,1983,,NULL,NULL,PL0003,,,,https://en.wikipedia.org/wiki/Tang_Fei_(writer),ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
+P1116,Wang,Regina Kanyu,en,female,NULL,NULL,NULL,NULL,1990,,NULL,NULL,PL0003,,,,https://www.facebook.com/regina.kanyu.wang,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1116,王,侃瑜 ,zh,female,NULL,NULL,NULL,NULL,1990,,NULL,NULL,PL0003,,,,https://www.facebook.com/regina.kanyu.wang,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1117,Chi,Shuchang,en,male,unknown,NULL,NULL,NULL,1922,1997,NULL,NULL,PL0019,,,,http://sf-encyclopedia.com/entry/chi_shuchang,ONLINE SOURCE,,,,,,was Chi rusticated?,2021-03-03,MG,2021-03-09,MG
+P1117,迟,叔唱,zh,male,unknown,NULL,NULL,NULL,1922,1997,NULL,NULL,PL0019,,,,http://sf-encyclopedia.com/entry/chi_shuchang,ONLINE SOURCE,,,,,,was Chi rusticated?,2021-03-03,MG,2021-03-09,MG
+P1118,Yu,Zhi,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added ,2021-03-03,MG,2021-03-09,MG
+P1118,于,止,zh,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added ,2021-03-03,MG,2021-03-09,MG
+P1119,Huang,Yi,en,male,no,NULL,NULL,NULL,1952,2017,Wong Yee,en,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
+P1119,黄,伊 ,zh,male,no,NULL,NULL,NULL,1952,2017,黃易,zh,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
+P1120,Ma,Boyong,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
+P1120,马,伯庸,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
