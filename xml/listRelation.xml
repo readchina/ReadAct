@@ -131,11 +131,12 @@
       <desc>He cited a story that Lu Xun once wrote to Xu Guangping about a tiger. To be or not to be and not to surrender to the evilness and enemy became his motto.<bibl type="source" source="#W0426"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00016" active="#AG0057" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0010" from-custom="19XX" to-custom="19XX" change="2020-12-09" resp="MG">
-      <desc>He came up with the idea of editing quotations of Lu Xun after reading Letters between two<bibl type="source" source="#W0427"/>
+    <relation type="reading-act" xml:id="A00016" active="#AG0057" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0010" from-custom="1966~" to-custom="1966~" change="2020-03-11" resp="MG">
+      <desc>
+        <placeName type="site-of-act" ref="#SP0005"/>He came up with the idea of editing quotations of Lu Xun after reading Letters between two<bibl type="source" source="#W0427"/>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00017" active="#AG0114" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0414" from-custom="19XX" to-custom="19XX" change="2020-12-09" resp="MG">
+    <relation type="reading-act" xml:id="A00017" active="#AG0114" key="AT04" name="to-take-as-ideal-/-guide" ref="#W0414" from-custom="19XX" to-custom="19XX" change="2021-03-11" resp="MG">
       <desc>Lu Xun as his most important literary inspiration<bibl type="source" source="#W0429">
           <biblScope unit="page">79</biblScope>
         </bibl>
@@ -3937,14 +3938,16 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00805" active="#AG0506" key="AT26" name="to-like" ref="#W0414" from-custom="1970..1973~" to-custom="1970..1973~" change="2021-01-02" resp="MG">
-      <desc>I wasn‘t so thrilled by the French except for Victor Hugo but I loved the Russian authors<bibl type="source" source="#W0523">
+    <relation type="reading-act" xml:id="A00805" active="#AG0506" key="AT26" name="to-like" ref="#W0414" from-custom="1971~" to-custom="1971~" change="2021-03-11" resp="MG">
+      <desc>
+        <placeName type="site-of-act" ref="#SP0420"/>I wasn‘t so thrilled by the French except for Victor Hugo but I loved the Russian authors<bibl type="source" source="#W0523">
           <biblScope unit="page">147</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00806" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1970..1973~" to-custom="1970..1973~" change="2021-01-02" resp="MG">
+    <relation type="reading-act" xml:id="A00806" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0414" from-custom="1971~" to-custom="1971~" change="2021-03-11" resp="MG">
       <desc>
+        <placeName type="site-of-act" ref="#SP0420"/>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">148</biblScope>
         </bibl>
@@ -4017,28 +4020,28 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00821" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0270" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
+    <relation type="reading-act" xml:id="A00821" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0270" from-custom="1972..1973" to-custom="1972..1973" change="2021-03-11" resp="MG">
       <desc>
         <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00822" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0271" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
+    <relation type="reading-act" xml:id="A00822" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0271" from-custom="1972..1973" to-custom="1972..1973" change="2021-03-11" resp="MG">
       <desc>
         <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00823" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0272" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
+    <relation type="reading-act" xml:id="A00823" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0272" from-custom="1972..1973" to-custom="1972..1973" change="2021-03-11" resp="MG">
       <desc>
         <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">30</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A00824" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0273" from-custom="1966..197x" to-custom="1966..197x" change="2021-01-02" resp="MG">
+    <relation type="reading-act" xml:id="A00824" active="#AG0114" key="AT23" name="to-listen-to" ref="#W0273" from-custom="1972..1973" to-custom="1972..1973" change="2021-03-11" resp="MG">
       <desc>
         <placeName type="site-of-act" ref="#SP0113"/>oral transmission<bibl type="source" source="#W0429">
           <biblScope unit="page">31</biblScope>
@@ -5495,34 +5498,34 @@
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01063" active="#AG0506" key="AT09" name="to-memorize" ref="#W0055" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
+    <relation type="reading-act" xml:id="A01063" active="#AG0506" key="AT09" name="to-memorize" ref="#W0055" from="1974" to="1974" change="2021-03-11" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">162</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01064" active="#AG0506" key="AT26" name="to-like" ref="#W0055" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
+    <relation type="reading-act" xml:id="A01064" active="#AG0506" key="AT26" name="to-like" ref="#W0055" from="1974" to="1974" change="2021-03-11" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">162</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01065" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0105" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
+    <relation type="reading-act" xml:id="A01065" active="#AG0506" key="AT02" name="to-copy-by-hand-(shouchao)" ref="#W0105" from="1974" to="1974" change="2021-03-11" resp="MG">
       <desc>
         <bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01066" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0157" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
+    <relation type="reading-act" xml:id="A01066" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0157" from="1974" to="1974" change="2021-03-11" resp="MG">
       <desc>she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China<bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
       </desc>
     </relation>
-    <relation type="reading-act" xml:id="A01067" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0444" from-custom="197x" to-custom="197x" change="2021-01-09" resp="MG">
+    <relation type="reading-act" xml:id="A01067" active="#AG0506" key="AT01" name="to-read" ref="#W0414" passive="#AG0444" from="1974" to="1974" change="2021-03-11" resp="MG">
       <desc>she describes that she read in particular the footnotes of the Marxist works as they gave references to works otherwise forbidden in China<bibl type="source" source="#W0523">
           <biblScope unit="page">164</biblScope>
         </bibl>
