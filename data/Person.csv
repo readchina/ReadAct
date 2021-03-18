@@ -1506,8 +1506,17 @@ P1120,Ma,Boyong,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en
 P1120,马,伯庸,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1121,anon,Arvadan,en,male,NULL,NULL,NULL,NULL,2000..2040,,Wang Er,en,L0010,,,,SS00665,,,,F,N06,,,2021-03-12,MG,2021-03-12,MG
 P1122,Blair,Eric Arthur,en,male,NULL,NULL,NULL,NULL,1903,1950,George Orwell,en,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-12,MG
+P1122,布莱尔,埃里克·阿瑟,zh,male,NULL,NULL,NULL,NULL,1903,1950,乔治·奥威尔,zh,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-18,MG
 P1123,Duras,anon,en,female,NULL,NULL,NULL,NULL,2000..2040,2000..2040,NULL,NULL,L0010,,,,SS00665,180ff,,,F,N07,,,2021-03-12,MG,2021-03-12,MG
 P1124,Xu,Ping,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00664 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
 P1125,Wu,Lei,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00660 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
 P1126,Wagner,Richard,en,male,NULL,NULL,NULL,NULL,1813,1883,NULL,NULL,PL0306,,,,https://en.wikipedia.org/wiki/Richard_Wagner,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-15,MG
+P1126,瓦格纳,理查德,zh,male,NULL,NULL,NULL,NULL,1813,1883,NULL,NULL,PL0306,,,,https://en.wikipedia.org/wiki/Richard_Wagner,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-18,MG
 P1127,Milton,John,en,male,NULL,NULL,NULL,NULL,1608,1674,NULL,NULL,PL0649,,,,https://de.wikipedia.org/wiki/John_Milton,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-15,MG
+P1128,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00658,,,,F,,omniscient narrator,,2021-03-18,MG,2021-03-18,MG
+P1129,anon,Miss G,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00658,,,,F,N07,,,2021-03-18,MG,2021-03-18,MG
+P1130,Lacan,Jacques,fr,male,NULL,NULL,NULL,NULL,1901,1981,NULL,NULL,PL0047,,,,https://en.wikipedia.org/wiki/Jacques_Lacan,ONLINE SOURCE,,,,,,,2021-03-18,MG,2021-03-18,MG
+P1131,of Hippo,Augustine,en,male,NULL,NULL,NULL,NULL,-0354,-0430,NULL,NULL,PL0652,,,,https://en.wikipedia.org/wiki/Augustine_of_Hippo,ONLINE SOURCE,,,,,,,2021-03-18,MG,2021-03-18,MG
+P1132,Žižek,Slavoj,en,male,NULL,NULL,NULL,NULL,1949,,NULL,NULL,PL0651,,,,https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek,ONLINE SOURCE,,,,,,,2021-03-18,MG,2021-03-18,MG
+P1133,Sangye Gyatso,Desi,en,male,NULL,NULL,NULL,NULL,1617,1682,NULL,NULL,PL0650,,,,https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso,ONLINE SOURCE,,,,,,,2021-03-18,MG,2021-03-18,MG
+P1133,桑吉嘉措,第司,zh,male,NULL,NULL,NULL,NULL,1617,1682,NULL,NULL,PL0650,,,,https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso,ONLINE SOURCE,,,,,,,2021-03-18,MG,2021-03-18,MG
