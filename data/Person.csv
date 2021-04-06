@@ -1503,10 +1503,10 @@ P1119,Huang,Yi,en,male,no,NULL,NULL,NULL,1952,2017,Wong Yee,en,PL0017,,,,https:/
 P1119,黄,伊 ,zh,male,no,NULL,NULL,NULL,1952,2017,黃易,zh,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1120,Ma,Boyong,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1120,马,伯庸,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
-P1121,anon,Arvadan,en,male,NULL,NULL,NULL,NULL,2000..2040,,Wang Er,en,L0010,,,,SS00665,,,,F,N06,,,2021-03-12,MG,2021-03-12,MG
+P1121,anon,Arvadan,en,male,NULL,NULL,NULL,NULL,2000..2040,,Wang Er,en,PL0999,,,,SS00665,,,,F,N06,,,2021-03-12,MG,2021-04-06,MG
 P1122,Blair,Eric Arthur,en,male,NULL,NULL,NULL,NULL,1903,1950,George Orwell,en,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-12,MG
 P1122,布莱尔,埃里克·阿瑟,zh,male,NULL,NULL,NULL,NULL,1903,1950,乔治·奥威尔,zh,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-18,MG
-P1123,Duras,anon,en,female,NULL,NULL,NULL,NULL,2000..2040,2000..2040,NULL,NULL,L0010,,,,SS00665,180ff,,,F,N07,,,2021-03-12,MG,2021-03-12,MG
+P1123,Duras,anon,en,female,NULL,NULL,NULL,NULL,2000..2040,2000..2040,NULL,NULL,PL0999,,,,SS00665,180ff,,,F,N07,,,2021-03-12,MG,2021-04-06,MG
 P1124,Xu,Ping,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00664 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
 P1125,Wu,Lei,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00660 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
 P1126,Wagner,Richard,en,male,NULL,NULL,NULL,NULL,1813,1883,NULL,NULL,PL0306,,,,https://en.wikipedia.org/wiki/Richard_Wagner,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-15,MG
@@ -1536,3 +1536,13 @@ P1139,Feng,Huachuan,en,male,NULL,NULL,NULL,NULL,1950..1960~,,NULL,NULL,PL0999,,1
 P1139,丰,华川,zh,male,NULL,NULL,NULL,NULL,1950..1960~,,NULL,NULL,PL0999,,1,,SS00657,,,,F,N07,,,2021-03-24,MG,2021-03-25,MG
 P1141,Li,Wenjian,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,2,,SS00652,,,,F,N07,,,2021-03-26,MG,2021-03-26,MG
 P1142,李,文建,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,2,,SS00652,,,,F,N07,,,2021-03-26,MG,2021-03-26,MG
+P1143,宋,耕,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1143,Song,Geng,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1144,Yang,Qingxiang,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0656,,,,https://baike.baidu.com/item/%E6%9D%A8%E5%BA%86%E7%A5%A5/13861709,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1144,杨,庆祥,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0656,,,,https://baike.baidu.com/item/%E6%9D%A8%E5%BA%86%E7%A5%A5/13861709,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1145,Song,Mingwei,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,https://www.wellesley.edu/ealc/faculty/songm,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1145,宋,明炜,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,https://www.wellesley.edu/ealc/faculty/songm,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1146,Huters,Theodore,en,male,NULL,NULL,NULL,NULL,1947,,NULL,NULL,PL0999,,,,https://www.alc.ucla.edu/person/theodore-d-huters/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1147,Wu,Dingbo,en,male,unknown,NULL,NULL,NULL,1941,,NULL,NULL,PL0003,,,,http://www.sf-encyclopedia.com/entry/wu_dingbo,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1147,吴,定柏,zh,male,unknown,NULL,NULL,NULL,1941,,NULL,NULL,PL0003,,,,http://www.sf-encyclopedia.com/entry/wu_dingbo,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1148,Murphy,Patrick D.,en,male,NULL,NULL,NULL,NULL,1951,,NULL,NULL,PL0657,,,,https://ucf.academia.edu/pmurphy/CurriculumVitae,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
