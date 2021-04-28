@@ -1,15 +1,17 @@
 {
   "fields": [{
       "name": "soc_rel_id",
+      "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
-        "max-length": 7,
+        "maxLength": 7,
         "pattern": "SR[0-9]{5}"
       }
     },
     {
       "name": "ego",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "AG[0-9]{4}"
@@ -17,6 +19,7 @@
     },
     {
       "name": "related",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "AG[0-9]{4}"
@@ -24,6 +27,7 @@
     },
     {
       "name": "relation",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "S(3|4)(\\.[0-9]-?){1,}[fm]?[ey]?"
@@ -31,9 +35,10 @@
     },
     {
       "name": "rel_zh",
+      "type": "string",
       "constraints": {
         "required": true,
-        "min-length": 2
+        "minLength": 2
       }
     },
     {
@@ -43,6 +48,7 @@
       }
     }, {
       "name": "source",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "(^http.*|W[0-9]{4})"
@@ -62,14 +68,15 @@
     {
       "name": "created",
       "description": "structural entry creation date of entry",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "created_by",
       "description": "structural entry acronym of project member creating entry",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
@@ -78,14 +85,15 @@
     {
       "name": "last_modified",
       "description": "structural entry last modification date",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "last_modified_by",
       "description": "structural entry acronym of project member last modifying entry",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"

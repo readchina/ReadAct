@@ -1,10 +1,11 @@
 {
   "fields": [{
       "name": "iso_code",
+      "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
-        "min-length": 2
+        "minLength": 2
       }
     },
     {
@@ -13,29 +14,31 @@
         "required": true
       }
     },
-    {
+        {
       "name": "created",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "created_by",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
       }
     },
-    {
+        {
       "name": "last_modified",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "last_modified_by",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"

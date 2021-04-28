@@ -1,10 +1,11 @@
 {
   "fields": [{
       "name": "genre_id",
+      "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
-        "max-length": 3,
+        "maxLength": 3,
         "pattern": "G[0-9]{2}"
       }
     },
@@ -16,9 +17,10 @@
     },
     {
       "name": "genre_name_lang",
+      "type": "string",
       "constraints": {
         "required": true,
-        "min-length": 2
+        "minLength": 2
       }
     },
     {
@@ -29,34 +31,37 @@
     },
     {
       "name": "source",
+      "type": "string",
+      "format": "uri",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#anyURI"
+        "required": true
       }
     },
     {
       "name": "created",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "created_by",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
       }
     },
-    {
+        {
       "name": "last_modified",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "last_modified_by",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
