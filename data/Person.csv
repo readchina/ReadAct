@@ -1560,3 +1560,9 @@ P1152,anon,anon,en,unknown,NULL,NULL,NULL,NULL,1950..1970~,,editor,en,PL0999,,2,
 P1153,anon,Great-Granddad,en,male,NULL,NULL,NULL,NULL,1900..1950~,,NULL,NULL,PL0999,,3,,SS00666,125,,,F,N07,,,2021-04-15,MG,2021-04-15,MG
 P1154,anon,Chang’e,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,F,,,,2021-04-15,MG,2021-04-15,MG
 P1154,anon,嫦娥,zh,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,F,,,,2021-04-15,MG,2021-04-15,MG
+P1155,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,2,,SS00651,,,,F,,first person narrator,,2021-05-05,MG,2021-05-05,MG
+P1156,Zhaozhou,Congshen,en,male,NULL,NULL,NULL,NULL,778,897,NULL,NULL,PL0001,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,,2021-05-05,MG,2021-05-05,MG
+P1156,趙州,從諗,zh,male,NULL,NULL,NULL,NULL,778,897,NULL,NULL,PL0001,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,,2021-05-05,MG,2021-05-05,MG
+P1157,anon,abbot,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00651,405,,,F,,calls himself a Technologist-Buddhist,,2021-05-05,MG,2021-05-05,MG
+P1158,Clarke,Arthur C.,en,male,NULL,NULL,NULL,NULL,1917,2008,NULL,NULL,PL0658,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,,2021-05-05,MG,2021-05-05,MG
+P1158,克拉克,亚瑟·查理斯,zh,male,NULL,NULL,NULL,NULL,1917,2008,NULL,NULL,PL0658,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,,2021-05-05,MG,2021-05-05,MG

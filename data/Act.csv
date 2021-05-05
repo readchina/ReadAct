@@ -1358,13 +1358,22 @@ A01810,P1118,AT05,PS09999,,1978..1998~,1978..1998~,,,SS00652,48,3,F,unknown work
 A01811,P1118,AT45,PS09999,,1978..1998~,1978..1998~,,IR to an old book 4000years ago; elephants were used to fill the fields,SS00652,50,3,F,,,2021-03-26,MG,2021-04-15,MG
 A01812,P1142,AT13,PS09999,P1118,1978..1998~,1978..1998~,,I receives a letter from Li,SS00652,50,3,F,,,2021-03-26,MG,2021-04-15,MG
 A01813,P1118,AT45,PS00263,,1978..1998~,1978..1998~,,,SS00652,56,3,F,,,2021-03-26,MG,2021-04-15,MG
-A01814,P1151,AT01,PS09999,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,128,3,F,L0001; unknown work G82,,2021-04-15,MG,2021-04-15,MG
-A01815,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,131ff,3,F,L0001,,2021-04-15,MG,2021-04-23,MG
-A01816,P1153,AT61,PS00875,P1149,2000..2050~,2000..2050~,,,SS00666,125,3,F,,,2021-04-15,MG,2021-04-23,MG
-A01817,P1149,AT45,PS00259,,2000..2050~,2000..2050~,,reference to Wu Song,SS00666,,3,F,,,2021-04-15,MG,2021-04-23,MG
-A01818,P1149,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00666,,3,F,Unknown work G83; reference to P1154,,2021-04-15,MG,2021-04-23,MG
+A01814,P1151,AT01,PS09999,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,128,3,F,L0001; unknown work G82,Translation,2021-04-15,MG,2021-05-05,MG
+A01815,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,131ff,3,F,L0001,Translation,2021-04-15,MG,2021-05-05,MG
+A01816,P1153,AT61,PS00875,P1149,2000..2050~,2000..2050~,,,SS00666,125,3,F,,Translation,2021-04-15,MG,2021-05-05,MG
+A01817,P1149,AT45,PS00259,,2000..2050~,2000..2050~,,reference to Wu Song,SS00666,,3,F,,Translation,2021-04-15,MG,2021-05-05,MG
+A01818,P1149,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00666,,3,F,Unknown work G83; reference to P1154,Translation,2021-04-15,MG,2021-05-05,MG
 A01819,P1152,AT01,PS09999,,2000..2050~,2000..2050~,,editor reads readers’ letters,SS00655,1f,3,F,unknown work G15 ,,2021-04-23,MG,2021-04-23,MG
 A01820,P1152,AT45,PS00259,,2000..2050~,2000..2050~,,reference to Wu Song,SS00655,38,3,F,,,2021-04-23,MG,2021-04-23,MG
 A01821,P1152,AT45,PS09999,,2000..2050~,2000..2050~,,reference to Lu Xun as landmark on the moon,SS00655,70,3,F,unknown work by P0001,,2021-04-23,MG,2021-04-23,MG
 A01822,P1152,AT45,PS09999,,2000..2050~,2000..2050~,,reference to Li Shizheng as landmark on the moon,SS00655,70,3,F,unknown work by P0010,,2021-04-23,MG,2021-04-23,MG
 A01823,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,read in a library,SS00655,103,3,F,L0001,,2021-04-23,MG,2021-04-23,MG
+A01824,P1155,AT32,PS09999,,,,1,Buddhist ceremony at narrator’s 1st birthday sets the scene; verses attributed to P1156,SS00651,387,3,F,unknown work by P1156; G10,Translation,2021-05-05,MG,2021-05-05,MG
+A01825,P9999,AT01,PS09999,,,,,Marketing experts read Mr. Wan’s profile timeline,SS00651,393,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
+A01826,P1155,AT05,PS00512,,,,,'Whether you put your hand on a Bible or an iPod; in the end you were praying to the same god’,SS00651,395,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
+A01827,P1155,AT05,PS00087,,,,,,SS00651,401,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
+A01828,P1155,AT04,PS09999,,,,,spreading Buddhism online,SS00651,402,3,F,unknown work ; G29  Buddhism,Buddhism as background to the narrative; Translation,2021-05-05,MG,2021-05-05,MG
+A01829,P1157,AT05,PS00263,,,,,'I think you’ve read Journey to the West too many times’,SS00651,405,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
+A01830,P1155,AT01,PS00263,,,,,,SS00651,405,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
+A01831,P1157,AT45,PS09999,,,,,he quotes: ‘Any sufficiently advanced technology is indistinguishable from Buddhist magic’,SS00651,407,3,F,unknown work by P1158,Translation,2021-05-05,MG,2021-05-05,MG
+A01832,P1157,AT21,Q0037,,,,,,SS00651,407,3,F,,Translation,2021-05-05,MG,2021-05-05,MG
