@@ -175,13 +175,6 @@
       }
     },
     {
-      "fields": "source_1",
-      "reference": {
-        "resource": "work",
-        "fields": "work_id"
-      }
-    },
-    {
       "fields": "name_lang",
       "reference": {
         "resource": "iso-lang-code",

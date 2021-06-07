@@ -5,7 +5,8 @@
   "homepage": "https://readchina.github.io/",
   "version": "1.0.0-BETA",
   "id": "https://doi.org/10.5281/zenodo.3755105",
-  "contributors": [{
+  "contributors": [
+    {
       "title": "Lena Henningsen",
       "role": "author"
     },
@@ -14,12 +15,15 @@
       "role": "author"
     }
   ],
-  "licenses": [{
-    "name": "CC-BY-SA-4.0",
-    "title": "Creative Commons Attribution Share-Alike 4.0",
-    "path": "https://creativecommons.org/licenses/by-sa/4.0/"
-  }],
-  "resources": [{
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "resources": [
+    {
       "name": "act",
       "schema": "schema/Act.json",
       "path": "data/Act.csv",
@@ -182,7 +186,8 @@
       "profile": "tabular-data-resource"
     }
   ],
-  "views": [{
+  "views": [
+    {
       "title": "Titles of textual works",
       "resources": {
         "name": "view1a",
@@ -262,15 +267,22 @@
           "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
         },
         "specType": "vega-lite",
-        "spec":  {
+        "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Reading Objects by creator excluding anonymous works",
           "data": {
             "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
           },
           "transform": [
-      {"filter": {"not": {"field": "creator", "equal": "AG0626"}}}
-    ],
+            {
+              "filter": {
+                "not": {
+                  "field": "creator",
+                  "equal": "AG0626"
+                }
+              }
+            }
+          ],
           "mark": {
             "type": "bar"
           },
@@ -293,10 +305,16 @@
               "field": "act_object",
               "type": "nominal"
             },
-             "tooltip": [
-              {"field": "title"},
-              {"field": "name"},
-              {"aggregate": "count"}
+            "tooltip": [
+              {
+                "field": "title"
+              },
+              {
+                "field": "name"
+              },
+              {
+                "aggregate": "count"
+              }
             ]
           }
         }
@@ -573,7 +591,7 @@
             }
           }
         }
+      }
     }
-  }
   ]
 }
