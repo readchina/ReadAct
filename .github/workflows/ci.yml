@@ -30,7 +30,6 @@ jobs:
           name: markup-expand
           path: xml/expand/expand.xml   
   test:
-  # TODO pass files around as build artifacts
     runs-on: ubuntu-latest
     needs: build
     steps:
@@ -83,7 +82,8 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
-          name: markup-files   
+          name: markup-xi
+          path: xml
       - name: Update Data
         run: |
           textql -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang = a.id_lang and a.act_object!='W0414'" csv/data/
