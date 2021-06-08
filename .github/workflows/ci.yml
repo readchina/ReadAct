@@ -57,12 +57,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: markup-xi
-          working-directory: ./xml
+          path: xml
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
           name: markup-expand
-          working-directory: ./xml/expand    
+          path: xml/expand  
       - name: Display structure of downloaded files
         run: ls -R
       - name: Validate Files
