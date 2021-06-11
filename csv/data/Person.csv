@@ -221,8 +221,8 @@ AG0106,舒,婷,zh,female,1,1952,XXXX,龚佩瑜,SP0059,,,https://en.wikipedia.org
 AG0107,Gorky,Maxim,en,male,0,1868,1936,,SP0060,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2020-04-02,DP
 AG0107,Горький,Максим,ru,male,0,1868,1936,,SP0060,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2020-04-02,DP
 AG0107,高尔基,马克西姆,zh,male,0,1868,1936,,SP0060,,,https://en.wikipedia.org/wiki/Maxim_Gorky,,,,,2017-07-19,LH,2020-04-02,DP
-AG0108,Ke,Xiong,en,unknown,3,XXXX,XXXX,,SP0436,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,2018-11-04,WH,2020-04-02,DP
-AG0108,柯,雄,zh,unknown,3,XXXX,XXXX,,SP0436,unknown,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,2018-11-04,WH,2020-04-02,DP
+AG0108,Ke,Xiong,en,unknown,3,XXXX,XXXX,,SP0436,S00,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,2018-11-04,WH,2020-04-02,DP
+AG0108,柯,雄,zh,unknown,3,XXXX,XXXX,,SP0436,S00,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,2018-11-04,WH,2020-04-02,DP
 AG0109,Brodsky,Joseph,en,male,0,1940,1996,,SP0061,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2020-04-02,DP
 AG0109,Бродский,Иосиф,ru,male,0,1940,1996,,SP0061,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2020-04-02,DP
 AG0109,布罗茨基,约瑟夫,zh,male,0,1940,1996,,SP0061,,,https://en.wikipedia.org/wiki/Joseph_Brodsky,,,,,2017-07-19,OS,2020-04-02,DP
@@ -243,8 +243,8 @@ AG0116,Li,Daxing,en,male,2,1960,XXXX,,SP0005,,,W0475,554,http://book.sina.com.cn
 AG0116,李,大兴,zh,male,2,1960,XXXX,,SP0005,,,W0475,554,http://book.sina.com.cn/news/xsxx/2017-12-04/doc-ifyphxwa7852332.shtml,ONLINE SOURCE,Third source: http://news.cyol.com/yuanchuang/2017-12/03/content_16742715.htm,2017-07-28,MG,2020-04-02,DP
 AG0117,Chen,Jianhua,en,male,2,1947,XXXX,,SP0006,,,W0430,452,,,,2017-08-07,MG,2020-04-02,DP
 AG0117,陈,建华,zh,male,2,1947,XXXX,,SP0006,,,W0430,452,,,,2018-02-08,OS,2020-04-02,DP
-AG0118,Bo,Hua,en,male,1,1956,XXXX,,SP0015,unknown,,W0476,533-539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,2017-08-07,MG,2020-04-02,DP
-AG0118,柏,桦,zh,male,1,1956,XXXX,,SP0015,unknown,,W0476,533-539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,2017-08-07,MG,2020-04-02,DP
+AG0118,Bo,Hua,en,male,1,1956,XXXX,,SP0015,S00,,W0476,533-539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,2017-08-07,MG,2020-04-02,DP
+AG0118,柏,桦,zh,male,1,1956,XXXX,,SP0015,S00,,W0476,533-539,http://culture.ifeng.com/poet/detail_2012_03/20/13318024_0.shtml,,,2017-08-07,MG,2020-04-02,DP
 AG0119,Lin,Mang,en,male,1,1949,XXXX,Zhang Jianzhong,SP0107,S03,,W0432,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,2017-08-11,MG,2020-04-02,DP
 AG0119,林,莽,zh,male,1,1949,XXXX,张建中,SP0107,S03,,W0432,291,http://club.kdnet.net/dispbbs.asp?id=2621201&boardid=2&page=6&uid=&usernames=&userids=&action=,ONLINE SOURCE,,2017-08-11,MG,2020-04-02,DP
 AG0120,Liao,Yiwu,en,male,0,1958,XXXX,Lao Wei,SP0065,,,https://de.wikipedia.org/wiki/Liao_Yiwu,ONLINE SOURCE,,,,2017-08-11,MG,2020-04-02,DP
@@ -253,8 +253,8 @@ AG0121,Bao,Jia,en,male,1,1954,XXXX,,SP0005,,,W0437,495,,,,2017-08-26,MG,2020-04-
 AG0121,宝,嘉,zh,male,1,1954,XXXX,,SP0005,,,W0437,495,,,,2017-08-26,MG,2020-04-02,DP
 AG0122,Fan,Qian,en,male,2,1940..1960,XXXX,,SP0006,,,W0485,353,,,,2017-08-31,MG,2020-04-02,DP
 AG0122,范,迁,zh,male,2,1940..1960,XXXX,,SP0006,,,W0485,353,,,,2017-08-31,MG,2020-04-02,DP
-AG0123,Bao,Kun,en,male,2,1953,XXXX,,SP0005,unknown,,W0438,196,,,,2017-08-31,MG,2020-04-02,DP
-AG0123,鲍,昆,zh,male,2,1953,XXXX,,SP0005,unknown,,W0438,196,,,,2017-08-31,MG,2020-04-02,DP
+AG0123,Bao,Kun,en,male,2,1953,XXXX,,SP0005,S00,,W0438,196,,,,2017-08-31,MG,2020-04-02,DP
+AG0123,鲍,昆,zh,male,2,1953,XXXX,,SP0005,S00,,W0438,196,,,,2017-08-31,MG,2020-04-02,DP
 AG0124,Xiao,Xiao,en,female,3,19XX,XXXX,,SP0436,,,http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20130322-%E5%BB%96%E4%BA%A6%E6%AD%A6%E7%BA%AA%E5%AE%9E%E6%96%87%E5%AD%A6%E6%9C%89%E8%99%9A%E6%9E%84%E6%88%90%E4%BB%BD%EF%BC%9F,ONLINE SOURCE,,,,2017-08-31,MG,2020-04-02,DP
 AG0124,萧,萧,zh,female,3,19XX,XXXX,,SP0436,,,http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20130322-%E5%BB%96%E4%BA%A6%E6%AD%A6%E7%BA%AA%E5%AE%9E%E6%96%87%E5%AD%A6%E6%9C%89%E8%99%9A%E6%9E%84%E6%88%90%E4%BB%BD%EF%BC%9F,ONLINE SOURCE,,,,2017-08-31,MG,2020-04-02,DP
 AG0125,Chen,Danqing,en,male,1,1953,XXXX,,SP0006,,,W0479,74,https://baike.baidu.com/item/%E9%99%88%E4%B8%B9%E9%9D%92/59356,ONLINE SOURCE,,2017-08-31,MG,2020-04-02,DP
@@ -383,8 +383,8 @@ AG0185,Liao,Zhenlü,en,male,2,1935,XXXX,,SP0200,,,W0469,ONLINE SOURCE,http://www
 AG0185,廖,振旅,zh,male,2,1935,XXXX,,SP0200,,,W0469,ONLINE SOURCE,http://www.difangwenge.org/read.php?tid=5185,ONLINE SOURCE,,2018-01-04,MG,2020-04-02,DP
 AG0186,Li,Zhengquan,en,male,1,1950,XXXX,,SP0015,,,W0470,ONLINE SOURCE,https://baike.baidu.com/item/%E6%9D%8E%E6%AD%A3%E6%9D%83/3303589,ONLINE SOURCE,,2018-01-04,MG,2020-04-02,DP
 AG0186,李,正权,zh,male,1,1950,XXXX,,SP0015,,,W0470,ONLINE SOURCE,https://baike.baidu.com/item/%E6%9D%8E%E6%AD%A3%E6%9D%83/3303589,ONLINE SOURCE,,2018-01-04,MG,2020-04-02,DP
-AG0187,Li,Qian,en,male,2,1949,XXXX,,SP0116,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR,2018-01-03,OS,2020-04-02,DP
-AG0187,李,乾,zh,male,2,1949,XXXX,,SP0116,unknown,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR,2018-01-03,OS,2020-04-02,DP
+AG0187,Li,Qian,en,male,2,1949,XXXX,,SP0116,S00,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR,2018-01-03,OS,2020-04-02,DP
+AG0187,李,乾,zh,male,2,1949,XXXX,,SP0116,S00,unknown,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&tid=1167&pid=4643,,,,he spent the time from 1967 to 1985 in prison for crimes which he allegedly commited during the first year of CR,2018-01-03,OS,2020-04-02,DP
 AG0188,He,Zhaowu,en,male,0,1921,XXXX,,SP0005,,,https://baike.baidu.com/item/%E4%BD%95%E5%85%86%E6%AD%A6,,,,,2018-01-05,MG,2020-04-02,DP
 AG0188,何,兆武,zh,male,0,1921,XXXX,,SP0005,,,https://baike.baidu.com/item/%E4%BD%95%E5%85%86%E6%AD%A6,,,,,2018-01-05,MG,2020-04-02,DP
 AG0189,Chi,Zehou,en,male,2,1931,XXXX,,SP0014,,,https://baike.baidu.com/item/%E8%BF%9F%E6%B3%BD%E5%8E%9A,,,,,2018-01-05,MG,2020-04-02,DP
@@ -401,10 +401,10 @@ AG0194,Tang,Xiaodu,en,male,1,1954,XXXX,,SP0119,,unknown,http://thescriptroad.org
 AG0194,唐,晓渡,zh,male,1,1954,XXXX,,SP0119,,unknown,http://thescriptroad.org/guest/tang-xiaodu/,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E6%B8%A1,,,2018-01-12,MG,2020-04-02,DP
 AG0195,Tang,Xiaofeng,en,male,1,1948,XXXX,,SP0148,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
 AG0195,唐,晓峰,zh,male,1,1948,XXXX,,SP0148,,,https://baike.baidu.com/item/%E5%94%90%E6%99%93%E5%B3%B0/13871560,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
-AG0196,Qian,Dachuan,en,male,3,1952,XXXX,,SP0436,unknown,unknown,http://www.xujuneberlein.com/rem57.html,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
-AG0196,钱,大川,zh,male,3,1952,XXXX,,SP0436,unknown,unknown,http://www.xujuneberlein.com/rem57.html,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
-AG0197,Li,Ling,en,male,1,1948,XXXX,,SP0131,unknown,yes,W0485,235,,,,2018-02-01,OS,2020-04-02,DP
-AG0197,李,零,zh,male,1,1948,XXXX,,SP0131,unknown,yes,W0485,235,,,,2018-02-01,OS,2020-04-02,DP
+AG0196,Qian,Dachuan,en,male,3,1952,XXXX,,SP0436,S00,unknown,http://www.xujuneberlein.com/rem57.html,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
+AG0196,钱,大川,zh,male,3,1952,XXXX,,SP0436,S00,unknown,http://www.xujuneberlein.com/rem57.html,ONLINE Source,,,,2018-01-25,OS,2020-04-02,DP
+AG0197,Li,Ling,en,male,1,1948,XXXX,,SP0131,S00,yes,W0485,235,,,,2018-02-01,OS,2020-04-02,DP
+AG0197,李,零,zh,male,1,1948,XXXX,,SP0131,S00,yes,W0485,235,,,,2018-02-01,OS,2020-04-02,DP
 AG0198,Kautsky,Karl,en,male,0,1854,1938,,SP0068,,,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,2018-02-01,OS,2020-04-02,DP
 AG0198,考茨基,卡尔,zh,male,0,1854,1938,,SP0068,,,https://en.wikipedia.org/wiki/Karl_Kautsky,ONLINE Source,,,,2018-02-01,OS,2020-04-02,DP
 AG0199,Trotsky,Leon,en,male,0,1879,1940,,SP0130,,,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,2018-02-01,OS,2020-04-02,DP
@@ -426,8 +426,8 @@ AG0204,Хрущёв,Никита,ru,male,0,1894,1971,,SP0126,,,https://en.wikipe
 AG0204,赫鲁晓夫,尼基塔,zh,male,0,1894,1971,,SP0126,,,https://en.wikipedia.org/wiki/Nikita_Khrushchev,ONLINE Source,,,,2018-02-01,OS,2020-04-02,DP
 AG0205,Zhang,Xiaokang,en,female,1,1949,XXXX,,SP0007,S01,unknown,https://baike.baidu.com/item/%E5%BC%A0%E5%B0%8F%E5%BA%B7/8904922,ONLINE Source,,,,2018-02-01,OS,2020-04-02,DP
 AG0205,张,小康,zh,female,1,1949,XXXX,,SP0007,S01,unknown,https://baike.baidu.com/item/%E5%BC%A0%E5%B0%8F%E5%BA%B7/8904922,ONLINE Source,,,,2018-02-02,OS,2020-04-02,DP
-AG0206,Liu,Jingzi,en,female,1,XXXX,XXXX,,SP0436,unknown,unknown,W0485,249,,,,2018-02-02,OS,2020-04-02,DP
-AG0206,刘,静子,zh,female,1,XXXX,XXXX,,SP0436,unknown,unknown,W0485,249,,,,2018-02-02,OS,2020-04-02,DP
+AG0206,Liu,Jingzi,en,female,1,XXXX,XXXX,,SP0436,S00,unknown,W0485,249,,,,2018-02-02,OS,2020-04-02,DP
+AG0206,刘,静子,zh,female,1,XXXX,XXXX,,SP0436,S00,unknown,W0485,249,,,,2018-02-02,OS,2020-04-02,DP
 AG0207,Voynich,Ethel,en,female,0,1864,1960,,SP0125,,,https://en.wikipedia.org/wiki/Ethel_Voynich,ONLINE Source,,,,2018-02-02,OS,2020-04-02,DP
 AG0207,伏尼契,艾捷尔,zh,female,0,1864,1960,,SP0125,,,https://en.wikipedia.org/wiki/Ethel_Voynich,ONLINE Source,,,,2018-02-02,OS,2020-04-02,DP
 AG0208,Димитров,Георги,bg,male,0,1882,1949,,SP0124,,,https://en.wikipedia.org/wiki/Georgi_Dimitrov,ONLINE Source,,,,2018-02-05,OS,2020-04-02,DP
@@ -442,8 +442,8 @@ AG0211,Drabkina,Jelisaweta,de,female,0,1901,1974,,SP0122,,,https://encyclopedia2
 AG0211,Drabkina,Elizaveta,en,female,0,1901,1974,,SP0122,,,https://encyclopedia2.thefreedictionary.com/Elizaveta+Drabkina,ONLINE Source,,,,2018-02-05,OS,2020-04-02,DP
 AG0212,Dumas,Alexandre,en,male,0,1802,1870,,SP0121,,,https://en.wikipedia.org/wiki/Alexandre_Dumas,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
 AG0212,仲马,亚历山大,zh,male,0,1802,1870,大仲马,SP0121,,,https://en.wikipedia.org/wiki/Alexandre_Dumas,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
-AG0213,Yuan,Shuren,en,female,3,1938,XXXX,,SP0120,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
-AG0213,袁,树仁,zh,female,3,1938,XXXX,,SP0120,unknown,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
+AG0213,Yuan,Shuren,en,female,3,1938,XXXX,,SP0120,S00,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
+AG0213,袁,树仁,zh,female,3,1938,XXXX,,SP0120,S00,unknown,https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81,ONLINE Source,,,,2018-02-06,OS,2020-04-02,DP
 AG0214,Ye,Weili,en,female,1,1950~,XXXX,,SP0005,S03,,W0495,126,,,,2018-02-06,OS,2020-04-02,DP
 AG0215,Ma,Xiaodong,en,female,1,1950~,XXXX,,SP0005,S03,,W0495,126,,,,2018-02-06,OS,2020-04-02,DP
 AG0216,Gao,Yubao,en,male,0,1927,XXXX,,SP0158,S08,,https://zh.wikipedia.org/wiki/%E9%AB%98%E7%8E%89%E5%AF%B6,ONLINE SOURCE,,,,2018-02-11,OS,2020-04-02,DP
@@ -577,8 +577,8 @@ AG0280,Dumas,Alexandre fils,en,male,0,1824,1895,,SP0050,,,https://zh.wikipedia.o
 AG0280,仲马,亚历山大,zh,male,0,1824,1895,,SP0050,,,https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%BB%B2%E9%A9%AC,,,,,2018-04-11,WH,2020-04-02,DP
 AG0281,Dvořák,Antonín,en,male,0,1841,1904,,SP0068,,,https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%AE%81%C2%B7%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B,,,,,2018-04-11,WH,2020-04-02,DP
 AG0281,德沃夏克,安东宁,zh,male,0,1841,1904,,SP0068,,,https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%AE%81%C2%B7%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B,,,,,2018-04-11,WH,2020-04-02,DP
-AG0282,Mu,Aiping,en,female,1,1951,XXXX,,SP0005,unknown,unknown,W0512,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,2018-03-17,MG,2020-04-02,DP
-AG0282,慕,,zh,female,1,1951,XXXX,,SP0005,unknown,unknown,W0512,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,2018-03-17,MG,2020-04-02,DP
+AG0282,Mu,Aiping,en,female,1,1951,XXXX,,SP0005,S00,unknown,W0512,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,2018-03-17,MG,2020-04-02,DP
+AG0282,慕,,zh,female,1,1951,XXXX,,SP0005,S00,unknown,W0512,,https://www.encyclopedia.com/arts/educational-magazines/mu-aiping-1951,ONLINE SOURCE,,2018-03-17,MG,2020-04-02,DP
 AG0283,Brontë,Emily,en,female,0,1818,1848,Ellis Bell,SP0074,,,https://en.wikipedia.org/wiki/Emily_Bront%C3%AB,ONLINE SOURCE,,,,2018-03-17,MG,2020-04-02,DP
 AG0283,勃朗特,艾米莉,zh,female,0,1818,1848,,SP0074,,,https://en.wikipedia.org/wiki/Emily_Bront%C3%AB,ONLINE SOURCE,,,,2018-03-17,MG,2020-04-02,DP
 AG0284,Mu,Xiang,en,male,2,1916,1988,,SP0215,,,https://baike.baidu.com/item/%E6%85%95%E6%B9%98,ONLINE SOURCE,,,,2018-03-21,MG,2020-04-02,DP
@@ -630,8 +630,8 @@ AG0305,de Maupassant,Guy,en,male,0,1850,1893,Henri René Albert Guy de Maupassan
 AG0305,德 莫泊桑,居伊,zh,male,0,1850,1893,亨利 侯內 亞伯特 居伊 德 莫泊桑,SP0234,,,https://en.wikipedia.org/wiki/Guy_de_Maupassant,ONLINE SOURCE,,,,2018-04-06,MG,2020-04-02,DP
 AG0306,Chaucer,Geoffrey,en,male,0,1343,1400,,SP0039,,,https://en.wikipedia.org/wiki/Geoffrey_Chaucer,ONLINE SOURCE,,,,2018-04-06,MG,2020-04-02,DP
 AG0306,乔叟,杰弗里,zh,male,0,1343,1400,,SP0039,,,https://en.wikipedia.org/wiki/Geoffrey_Chaucer,ONLINE SOURCE,,,,2018-04-06,MG,2020-04-02,DP
-AG0307,Zhu,,en,female,1,1948,XXXX,,SP0436,unknown,yes,W0513,9,,,,2018-04-06,MG,2020-04-02,DP
-AG0307,朱,,zh,female,1,1948,XXXX,,SP0436,unknown,yes,W0513,9,,,,2018-04-06,MG,2020-04-02,DP
+AG0307,Zhu,,en,female,1,1948,XXXX,,SP0436,S00,yes,W0513,9,,,,2018-04-06,MG,2020-04-02,DP
+AG0307,朱,,zh,female,1,1948,XXXX,,SP0436,S00,yes,W0513,9,,,,2018-04-06,MG,2020-04-02,DP
 AG0308,ঠাকুর,রবীন্দ্রনাথ,bn,male,0,1861,1941,,SP0235,,,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,2018-04-09,MG,2020-04-02,DP
 AG0308,Tagore,Rabindranath,en,male,0,1861,1941,Bhānusiṃha,SP0235,,,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,2018-04-09,MG,2020-04-02,DP
 AG0308,泰戈尔,罗宾德拉纳特,zh,male,0,1861,1941,,SP0235,,,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,2018-04-09,MG,2020-04-02,DP
@@ -693,8 +693,8 @@ AG0333,Zola,Émile,fr,male,0,1840,1902,,SP0050,,,https://en.wikipedia.org/wiki/%
 AG0333,左拉,埃米尔,zh,male,0,1840,1902,,SP0050,,,https://en.wikipedia.org/wiki/%C3%89mile_Zola,ONLINE SOURCE,,,,2018-05-22,MG,2020-04-02,DP
 AG0334,Zweig,Stefan,en,male,0,1881,1942,,SP0169,,,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,2018-05-22,MG,2020-04-02,DP
 AG0334,茨威格,斯蒂芬,zh,male,0,1881,1942,,SP0169,,,https://en.wikipedia.org/wiki/Stefan_Zweig,ONLINE SOURCE,,,,2018-05-22,MG,2020-04-02,DP
-AG0335,Ji,Kun,en,male,3,XXXX,XXXX,,SP0436,unknown,,W0433,ONLINE SOURCE,,,,2018-05-23,MG,2020-04-02,DP
-AG0335,纪,琨,zh,male,3,XXXX,XXXX,,SP0436,unknown,,W0433,ONLINE SOURCE,,,,2018-05-23,MG,2020-04-02,DP
+AG0335,Ji,Kun,en,male,3,XXXX,XXXX,,SP0436,S00,,W0433,ONLINE SOURCE,,,,2018-05-23,MG,2020-04-02,DP
+AG0335,纪,琨,zh,male,3,XXXX,XXXX,,SP0436,S00,,W0433,ONLINE SOURCE,,,,2018-05-23,MG,2020-04-02,DP
 AG0336,Remarque,Erich Maria,de,male,0,1898,1970,,SP0273,,,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,2018-05-28,MG,2020-04-02,DP
 AG0336,雷马克,埃里希 玛利亚,zh,male,0,1898,1970,,SP0273,,,https://en.wikipedia.org/wiki/Erich_Maria_Remarque,ONLINE SOURCE,,,,2018-05-28,MG,2020-04-02,DP
 AG0337,Renoir,Pierre-Auguste,fr,male,0,1841,1919,Auguste Renoir,SP0274,,,https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir,ONLINE SOURCE,,,,2018-05-28,MG,2020-04-02,DP
@@ -1063,10 +1063,10 @@ AG0507,薛,尚功,zh,male,0,XXXX,XXXX,,SP0099,,,https://zh.wikipedia.org/wiki/%E
 AG0508,Tonkov,Vladimir Nikolaevich,en,male,0,1872,1954,,SP0337,,,"https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",,,,,2018-11-04,WH,2020-04-02,DP
 AG0508,Тонков,Владимир Николаевич,ru,male,0,1872,1954,,SP0337,,,"https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",,,,,2018-11-04,WH,2020-04-02,DP
 AG0508,童可夫,anon,zh,male,0,1872,1954,,SP0337,,,"https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",,,,,2018-11-04,WH,2020-04-02,DP
-AG0509,Li,Shu,en,male,0,1912,1988,,SP0338,unknown,unknown,https://baike.baidu.com/item/%E9%BB%8E%E6%BE%8D/919432,,,,,2018-11-04,WH,2020-04-02,DP
-AG0509,黎,澍,zh,male,0,1912,1988,,SP0338,unknown,unknown,https://baike.baidu.com/item/%E9%BB%8E%E6%BE%8D/919432,,,,,2018-11-04,WH,2020-04-02,DP
-AG0510,Shi,Wenchi,en,male,0,1924,XXXX,,SP0339,unknown,unknown,http://www.baike.com/wiki/%E5%8F%B2%E6%96%87%E7%82%BD,,,,,2018-11-04,WH,2020-04-02,DP
-AG0510,史,文炽,zh,male,0,1924,XXXX,,SP0339,unknown,unknown,http://www.baike.com/wiki/%E5%8F%B2%E6%96%87%E7%82%BD,,,,,2018-11-04,WH,2020-04-02,DP
+AG0509,Li,Shu,en,male,0,1912,1988,,SP0338,S00,unknown,https://baike.baidu.com/item/%E9%BB%8E%E6%BE%8D/919432,,,,,2018-11-04,WH,2020-04-02,DP
+AG0509,黎,澍,zh,male,0,1912,1988,,SP0338,S00,unknown,https://baike.baidu.com/item/%E9%BB%8E%E6%BE%8D/919432,,,,,2018-11-04,WH,2020-04-02,DP
+AG0510,Shi,Wenchi,en,male,0,1924,XXXX,,SP0339,S00,unknown,http://www.baike.com/wiki/%E5%8F%B2%E6%96%87%E7%82%BD,,,,,2018-11-04,WH,2020-04-02,DP
+AG0510,史,文炽,zh,male,0,1924,XXXX,,SP0339,S00,unknown,http://www.baike.com/wiki/%E5%8F%B2%E6%96%87%E7%82%BD,,,,,2018-11-04,WH,2020-04-02,DP
 AG0511,Nie,Er,en,male,0,1912,1935,Nie Shouxin,SP0343,,,https://zh.wikipedia.org/wiki/%E8%81%82%E8%80%B3,,,,,2018-11-04,WH,2020-04-02,DP
 AG0511,聂,耳,zh,male,0,1912,1935,聂守信,SP0343,,,https://zh.wikipedia.org/wiki/%E8%81%82%E8%80%B3,,,,,2018-11-04,WH,2020-04-02,DP
 AG0512,Tian,Han,en,male,0,1898,1968,,SP0054,,,https://zh.wikipedia.org/wiki/%E7%94%B0%E6%B1%89,,,,,2018-11-04,WH,2020-04-02,DP
@@ -1189,10 +1189,10 @@ AG0568,Wu,Diaohou,en,male,0,167X?,1694?,,SP0048,,,https://baike.baidu.com/item/%
 AG0568,吴,调侯,zh,male,0,167X?,1694?,,SP0048,,,https://baike.baidu.com/item/%E5%90%B4%E8%B0%83%E4%BE%AF,,,,,2018-12-17,WH,2020-04-02,DP
 AG0569,Wu,Jingzi,en,male,0,1701,1754,,SP0414,,,https://zh.wikipedia.org/wiki/%E5%90%B4%E6%95%AC%E6%A2%93,,,,,2018-12-22,WH,2020-04-02,DP
 AG0569,吴,敬梓,zh,male,0,1701,1754,,SP0414,,,https://zh.wikipedia.org/wiki/%E5%90%B4%E6%95%AC%E6%A2%93,,,,,2018-12-22,WH,2020-04-02,DP
-AG0570,Wu,Dishun,en,male,3,XXXX,XXXX,,SP0436,unknown,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
-AG0570,吴,迪顺,zh,male,3,XXXX,XXXX,,SP0436,unknown,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
-AG0571,Dong,Jinheng,en,male,3,XXXX,XXXX,,SP0436,unknown,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
-AG0571,董,锦恒,zh,male,3,XXXX,XXXX,,SP0436,unknown,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
+AG0570,Wu,Dishun,en,male,3,XXXX,XXXX,,SP0436,S00,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
+AG0570,吴,迪顺,zh,male,3,XXXX,XXXX,,SP0436,S00,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
+AG0571,Dong,Jinheng,en,male,3,XXXX,XXXX,,SP0436,S00,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
+AG0571,董,锦恒,zh,male,3,XXXX,XXXX,,SP0436,S00,unknown,W0447,,,,,2018-12-22,WH,2020-04-02,DP
 AG0572,Xia,Yan,en,male,0,1900,1995,Shen Naixi,SP0099,,,https://zh.wikipedia.org/wiki/%E5%A4%8F%E8%A1%8D,,,,,2018-12-23,WH,2020-04-02,DP
 AG0572,夏,衍,zh,male,0,1900,1995,沈乃熙,SP0099,,,https://zh.wikipedia.org/wiki/%E5%A4%8F%E8%A1%8D,,,,,2018-12-23,WH,2020-04-02,DP
 AG0573,Xia,Chun,en,male,0,1918,2009,Zha Qianglin,SP0005,,,https://baike.baidu.com/item/%E5%A4%8F%E6%B7%B3,,,,,2018-12-23,WH,2020-04-02,DP
@@ -1301,3 +1301,4 @@ AG0625,Guo,Hongzhi,en,male,0,1929,1998,,SP0433,,,https://baike.baidu.com/item/%E
 AG0625,郭,鸿志,zh,male,0,1929,1998,,SP0433,,,https://baike.baidu.com/item/%E9%83%AD%E9%B8%BF%E5%BF%97,,,,,2019-03-24,WH,2020-04-02,DP
 AG0626,anonymous,,en,unknown,0,XXXX,XXXX,,SP0436,,,W0414,,,,,2017-11-07,DP,2020-04-02,DP
 AG0626,无名,,zh,unknown,0,XXXX,XXXX,,SP0436,,,W0414,,,,,2017-11-07,DP,2020-04-02,DP
+AG1000,Room,Adrian,en,male,0,1933,2010,,SP1001,,,https://en.wikipedia.org/wiki/Adrian_Room,,,,,2021-06-07,DP,2021-06-07,DP

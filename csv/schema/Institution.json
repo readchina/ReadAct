@@ -1,10 +1,11 @@
 {
   "fields": [{
       "name": "inst_id",
+      "type": "string",
       "constraints": {
         "required": true,
         "unique": false,
-        "max-length": 6,
+        "maxLength": 6,
         "pattern": "AG[0-9]{4}"
       }
     },
@@ -16,39 +17,45 @@
     },
     {
       "name": "inst_name_lang",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[a-z]{2}"
       }
     }, {
       "name": "place",
+      "type": "string",
       "constraints": {
         "required": false,
         "pattern": "(^SP[0-9]{4})"
       }
     }, {
       "name": "start",
+      "type": "string",
       "constraints": {
         "required": false,
-        "min-length": 4
+        "minLength": 4
       }
     }, {
       "name": "end",
+      "type": "string",
       "constraints": {
         "required": false,
-        "min-length": 4
+        "minLength": 4
       }
     }, {
       "name": "alt_start",
+      "type": "string",
       "constraints": {
         "required": false,
-        "min-length": 4
+        "minLength": 4
       }
     }, {
       "name": "alt_end",
+      "type": "string",
       "constraints": {
         "required": false,
-        "min-length": 4
+        "minLength": 4
       }
     }, {
       "name": "inst_alt_name",
@@ -75,14 +82,15 @@
     {
       "name": "created",
       "description": "structural entry creation date of entry",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "created_by",
       "description": "structural entry acronym of project member creating entry",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
@@ -91,14 +99,15 @@
     {
       "name": "last_modified",
       "description": "structural entry last modification date",
+      "type": "date",
       "constraints": {
-        "required": true,
-        "type": "http://www.w3.org/2001/XMLSchema#date"
+        "required": true
       }
     },
     {
       "name": "last_modified_by",
       "description": "structural entry acronym of project member last modifying entry",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"

@@ -1,13 +1,12 @@
 # ReadAct
-[![Build Status](https://travis-ci.com/readchina/ReadAct.svg?branch=master)](https://travis-ci.com/readchina/ReadAct) [![DOI](https://zenodo.org/badge/96089230.svg)](https://zenodo.org/badge/latestdoi/96089230)
+[![CI](https://github.com/readchina/ReadAct/actions/workflows/ci.yml/badge.svg)](https://github.com/readchina/ReadAct/actions/workflows/ci.yml) [![DOI](https://zenodo.org/badge/96089230.svg)](https://zenodo.org/badge/latestdoi/96089230)
 
 This repository contains the main data files for the *ReadAct* database. *ReadAct* collects data about reading habits during China's long 1970s: Who read what when with whom why under what circumstances for what purposes? What impact did this have on individuals and on Chinese society? Our main sources are autobiographical texts in Chinese and other languages. For more information, please consult our [documentation](https://readchina.github.io/readact.html).
 
 ## Requirements for local development
--   [goodtables-py](https://github.com/frictionlessdata/goodtables-py)
--   [csvtojson](https://www.npmjs.com/package/csvtojson)
--   [miller](https://github.com/johnkerl/miller)
--   [bats](https://github.com/bats-core/bats-core)
+-   [frictionless-py](https://github.com/frictionlessdata/frictionless-py)
+-   [basex](https://basex.org) (*testing only*)
+-   [textql](https://github.com/dinedal/textql) (*testing only*)
 
 
 ## New contributors
