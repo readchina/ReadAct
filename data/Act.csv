@@ -1377,13 +1377,15 @@ A01829,P1157,AT05,PS00263,,2030..2099~,2030..2099~,,'I think you’ve read Journ
 A01830,P1155,AT01,PS00263,,2030..2099~,2030..2099~,,,SS00651,405,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
 A01831,P1157,AT45,PS09999,,2030..2099~,2030..2099~,,he quotes: ‘Any sufficiently advanced technology is indistinguishable from Buddhist magic’,SS00651,407,3,F,unknown work by P1158,Translation,2021-05-05,MG,2021-06-05,MG
 A01832,P1157,AT21,Q0037,,2030..2099~,2030..2099~,,,SS00651,407,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
-A01833,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,87,3,F,unknown work G84,Translation,2021-06-05,MG,2021-06-07,MG
-A01834,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,,3,F,unknown work G52  (gossip magazine),Translation,2021-06-05,MG,2021-06-07,MG
+A01833,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,87,3,F,unknown work G84; L0012 ,Translation,2021-06-05,MG,2021-06-12,MG
+A01834,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,,3,F,unknown work G52  (gossip magazine); L0012 ,Translation,2021-06-05,MG,2021-06-12,MG
 A01835,P0999,AT03,AW09999,P1159,1998,1998,,A CD as a gift,SS00648,,3,F,unknown artwork AF05 by P1160 ,Translation,2021-06-05,MG,2021-06-07,MG
 A01836,P1159,AT45,PS00813,,1998,1998,,She kills her mother and puts her father into the trap where he had kept her mother. She offers him the flesh of her mother.,SS00648,108f,3,F,,Translation,2021-06-05,MG,2021-06-07,MG
 A01837,P1162,AT45,PS00877,,2030..2050~,2030..2050~,,as inspiration,SS00647,148,3,F,,Translation,2021-06-07,MG,2021-06-07,MG
 A01838,P1162,AT45,PS09999,,2030..2050~,2030..2050~,,Greek myth about Delphinius as meta-text?,SS00647,148,3,F,unknown work G83,Translation,2021-06-07,MG,2021-06-07,MG
 A01839,P1162,AT45,PS09999,,2030..2050~,2030..2050~,,IR to Chinese publication of SF world in gray section – unclear whether it is a SF story,SS00647,148,3,F,,Translation,2021-06-07,MG,2021-06-07,MG
-A01840,,,,,,,,,,,,,,,,,,
-A01841,,,,,,,,,,,,,,,,,,
-A01842,,,,,,,,,,,,,,,,,,
+A01840,P1163,AT01,PS09999,,2030..2050~,2030..2050~,,after gaining his authorial superpowers he picks a book at random; reading speed increase and his memory,SS00645,335,3,F,unknown work,Translation,2021-06-12,MG,2021-06-12,MG
+A01841,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G23,Translation,2021-06-12,MG,2021-06-12,MG
+A01842,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G10,Translation,2021-06-12,MG,2021-06-12,MG
+A01843,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G85,Translation,2021-06-12,MG,2021-06-12,MG
+A01843,P1163,AT33,PS09999,,2030..2050~,2030..2050~,,Stories – if good – can be traded for a meal at the restaurant,SS00645,327-340,3,F,L0011,Translation,2021-06-12,MG,2021-06-12,MG
