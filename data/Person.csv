@@ -1569,3 +1569,17 @@ P1162,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,2,,SS00647,13
 P1163,Ah,Chen,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645 ,327-340,,,F,N06,,,2021-06-09,MG,2021-06-09,MG
 P1164,Adams,Douglas,en,male,NULL,NULL,NULL,NULL,1952,2001,NULL,NULL,PL0660,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,,2021-06-09,MG,2021-06-09,MG
 P1164,亚当斯,道格拉斯,zh,male,NULL,NULL,NULL,NULL,1952,2001,NULL,NULL,PL0660,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,,2021-06-09,MG,2021-06-09,MG
+P1165,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645 ,327-340,,,F,,omniscient narrator,,2021-06-14,MG,2021-06-14,MG
+P1166,anon,anon,en,male,NULL,NULL,NULL,NULL,,,father,NULL,PL0999,,,,SS00645 ,327-340,,,F,N07,,,2021-06-14,MG,2021-06-14,MG
+P1167,Salinger,Jerome David,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,3,,SS00644,125-133,,,F,N06,,,2021-06-14,MG,2021-06-14,MG
+P1168,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00644,125-133,,,F,,omniscient narrator,,2021-06-14,MG,2021-06-14,MG
+P1169,Helder,Herberto,en,male,NULL,NULL,NULL,NULL,1930,2015,NULL,NULL,PL0661,,,,https://de.wikipedia.org/wiki/Herberto_Helder,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1169,,赫伯托,zh,male,NULL,NULL,NULL,NULL,1930,2015,NULL,NULL,PL0661,,,,https://de.wikipedia.org/wiki/Herberto_Helder,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1170,anon,Ning,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,1,,SS00641,91-109,,,F,,first person narrator,,2021-06-14,MG,2021-06-14,MG
+P1171,Lamarck,Jean-Baptiste,fr,male,NULL,NULL,NULL,NULL,1744,1829,NULL,NULL,PL0662,,,,https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1171,拉马克,让-巴蒂斯特,zh,male,NULL,NULL,NULL,NULL,1744,1829,NULL,NULL,PL0662,,,,https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1172,Polo,Marco,en,male,NULL,NULL,NULL,NULL,1254,1324,NULL,NULL,PL0663,,,,https://en.wikipedia.org/wiki/Marco_Polo,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1172,波罗,马可,zh,male,NULL,NULL,NULL,NULL,1254,1324,NULL,NULL,PL0663,,,,https://en.wikipedia.org/wiki/Marco_Polo,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1173,anon,Homer,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Homer,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1173,anon,荷马,zh,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Homer,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
+P1174,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00636 ,199-218,,,F,,first person narrator,,2021-06-14,MG,2021-06-14,MG
