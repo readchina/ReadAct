@@ -12,7 +12,7 @@ from wikibaseintegrator import wbi_core
 from wikidataintegrator import wdi_core
 
 
-def search_wikidata_id_by_wikibaseintegrator(lookup=None):
+def get_wikidata_id_by_wikibaseintegrator(lookup=None):
     """
     A function to search qnames in wikidata with a lookup string.
     :param lookup: a string
@@ -25,7 +25,8 @@ def search_wikidata_id_by_wikibaseintegrator(lookup=None):
     if len(instance) > 1:
         return instance[0:5]
     else:
-        return "Not in database"
+        print("Not in database")
+        return None
 
 
 def get_coordinate_from_wikidata(qname):
@@ -35,16 +36,18 @@ def get_coordinate_from_wikidata(qname):
     :return: a list with tuples, each tuple is a (lat, long) combination
     """
     coordinate_list = []
+    if qname is None:
+        # print("qname is None")
+        return coordinate_list
     for q in qname:
         wdi = wdi_core.WDItemEngine(wd_item_id=q)
         # to check successful installation and retrieval of the data, you can print the json representation of the item
         data = wdi.get_wd_json_representation()
 
         if "P625" in data["claims"]:
-            print(q, ":\n", data["claims"]["P625"][0]['mainsnak']['datavalue']['value'])
+            # print(q, ":\n", data["claims"]["P625"][0]['mainsnak']['datavalue']['value'])
             coordinate_value = data["claims"]["P625"][0]['mainsnak']['datavalue']['value']
-            coordinate_list.append((coordinate_value['latitude'], coordinate_value['longitude'])) # P625 is
-
+            coordinate_list.append((coordinate_value['latitude'], coordinate_value['longitude']))
     return coordinate_list
 
 
@@ -57,30 +60,58 @@ def read_space_csv(filename="Space.csv"):
     with open("./data/" + filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader, None)
-        geo_code = {}
+        geo_code_dict = {}
         for row in csv_reader:
             if row[3] != "L":
-                geo_code[(row[5], row[6])] = row[2] # key: lat/long pairs as a tuple; value: space_name in csv
-        return geo_code
+                # TODO consider the case that if there are identical space_names in csv file
+                geo_code_dict[row[2]] = (row[5], row[6]) # value: lat/long pairs as a tuple; key: space_name in csv
+        return geo_code_dict
 
 
-def geo_code_validation(geo_code_dict):
+def geo_code_compare(geo_code_dict):
     """
     For geo locations in Space.csv, compare latitude/longitude for matching.
     :param geo_code_dict: key: unique (lat,long) tuples; value: space_name in csv
     :return: boolean: True or False
     """
-    for index, key in enumerate(geo_code_dict.keys()):
-        if index == 2:
-            break
-        pass
+    count = 0
+    problematic_entries ={}
+    print("----------------------")
+    for key, value in geo_code_dict.items():
+        # count += 1
+        # if count == 3:
+        #     break
+        qname = get_wikidata_id_by_wikibaseintegrator(key)
+        if qname is not None:
+            coordinate_list = get_coordinate_from_wikidata(qname)
+
+            print(key + "'s coordinate_list: ", coordinate_list)
+            for item in coordinate_list:
+                if (float(item[0])-0.9 <= float(value[0]) <= float(item[0]) + 0.9) and (float(item[1])-0.9 <= float(
+                        value[1]) <= float(item[1]) + 0.9):
+                    print("a success")
+                    print("--", item, "\n", "--", value)
+                    break
+                else:
+                    problematic_entries[key] = value
+        else:
+            print(key)
+            print("Space name does not existed in wikidata")
+            problematic_entries[key] = value
+
+    if len(problematic_entries) == 0:
+        print("All geo coordinates match the space name.")
+        return
+    else:
+        print("problematic_entries: ", problematic_entries)
+        return problematic_entries
 
 
 if __name__ == "__main__":
-    qname = search_wikidata_id_by_wikibaseintegrator("China") # A list
-    print(qname)
-    print(get_coordinate_from_wikidata(qname))
-
     # To compare the extracting coordinate location with the info in Space.csv
     geo_code_dict = read_space_csv("Space.csv")
-    # geo_code_validation(geo_code_dict)
+    # print("geo_code_dict: ", geo_code_dict)
+    geo_code_compare(geo_code_dict)
+    # qname = get_wikidata_id_by_wikibaseintegrator("Bolshoy Fontan")
+    # print(qname)
+    # print(get_coordinate_from_wikidata(qname))
