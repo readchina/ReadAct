@@ -5,7 +5,9 @@ This is a python script to check authenticity of Named Entities in /Readact/csv/
 -
 
 """
+
 import csv
+import os
 import requests
 import time
 from wikibaseintegrator import wbi_core
@@ -18,7 +20,10 @@ def read_space_csv(filename="Space.csv"):
     :param filename: "Space.csv" for now
     :return: a dictionary of coordinate locations
     """
-    with open("./data/" + filename) as csv_file:
+    dirname = os.path.dirname(__file__)
+    filename = os.path.join(dirname, "../csv/data/" + filename)
+    print(filename)
+    with open(filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader, None)
         geo_code_dict = {}
@@ -139,12 +144,13 @@ def _get_coordinate_from_wikidata(q_ids):
 if __name__ == "__main__":
     # To compare the extracting coordinate location with the info in Space.csv
     geo_code_dict = read_space_csv("Space.csv")
-    
+
     # To filter CSV entries with comparing to openstreetmap first
     no_match_list = compare_to_openstreetmap(geo_code_dict)
-    
+
     # To compare the rest with wikidata info
     still_no_match_list = geo_code_compare(no_match_list)
-    
+
     print("still_no_match_list: ", still_no_match_list)
 
+    # still_no_match_list = [['Bolshoy Fontan', '46.482526', '30.72331'], ['Vonu', '40.141308', '19.692947'], ['Beidahuang', '45.73722', '126.692441'], ['Jinjiang (Fujian)', '24.781681', '118.552365'], ['Gobi Desert', '42.795154', '105.032363'], ['Huangbei', '29.758889', '118.534167'], ['Yizhen', '34.203246', '108.945896'], ['Xixian', '32.342792', '114.740456'], ['Shanghexi', '39.4065', '112.9054'], ['Zhongxian', '30.355948', '107.83845'], ['Suibin Nongchang', '47.523305', '131.69029'], ['Fengshan', '41.208899', '116.645932'], ['Osino-Gay', '53.037391', '42.402225'], ['Zhanhai', '29.95481', '121.70961'], ['Xiangchuan', '28.515646', '112.134533'], ['Hannibal', '36.151664', '-95.991926'], ['Groot-Zundert', '51.469834', '4.654992'], ['Zima (Siberia)', '53.922585', '102.042387'], ['Strelkovka', '55.002389', '36731'], ['Gudalovka', '49.307427', '19.937017'], ['Albany NY', '42.652579', '-73.756232'], ['Jiangxi Province', '27.285970', '116.016090'], ['Chicago', '41.8781', '87.6298'], ['Salinas', '36.6777', '121.6555'], ['Friend', '40.6536', '97.2862'], ['Marbach am Necker', '48.9396', '9.2646'], ['Milan (OH)', '41.293333', '-82.601389'], ['Chuansha Xian', '31.301395', '121.516652'], ['Sichuan Second Prison', '29.58921', '106.538559'], ['Laoting', '22.887780', '120.463560'], ['Shuiyuan county', '23.849670', '110.400830'], ['Hubei', '37.59857', '114.60758'], ['Banzai', '25.924480', '118.278990'], ['Wanzai', '22.913870', '120.335380'], ['Rugao', '22.740240', '120.490420'], ['Коsа (Kosinsky District)', '59.945370', '54.991870'], ['Pucheng (Shaanxi)', '34.957000', '109.580000'], ['Lliulin (Shanxi)', '37.430833', '110.889167'], ['Xiaxian', '35.138333', '111.220833'], ['Sora (Lazio)', '41.716670', '13.617600'], ['Jiner', '31.615300', '107.654000']]
