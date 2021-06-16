@@ -54,3 +54,6 @@ Temporary Items
 .notes
 
 xml/expand/
+
+# Directories potentially created by PyCharm
+.idea
