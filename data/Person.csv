@@ -1587,3 +1587,11 @@ P1175,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00639,313-35
 P1176,Nashihiko,Imagai,ja,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00639,313-353,,,F,,N07,,2021-06-15,MG,2021-06-15,MG
 P1177,Li,Shimin,en,male,NULL,NULL,NULL,NULL,0598,0649,Taizong Emperor of Tang,en,PL0665,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,,2021-06-16,MG,2021-06-16,MG
 P1177,李,世民,zh,male,NULL,NULL,NULL,NULL,0598,0649,唐太宗,zh,PL0665,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,,2021-06-16,MG,2021-06-16,MG
+P1178,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00634,51-68,,,F,,first person narrator,,2021-06-21,MG,2021-06-21,MG
+P1179,anon,teacher,en,male,NULL,NULL,NULL,NULL,1960..1980~,,NULL,NULL,PL0999,,,,SS00628,49-75,,,F,,N06,,2021-06-21,MG,2021-06-21,MG
+P1180,anon,Xiu Xiu,en,female,NULL,NULL,NULL,NULL,1960..1980~,,NULL,NULL,PL0999,,,,SS00628,49-75,,,F,,N07,,2021-06-21,MG,2021-06-21,MG
+P1181,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00628,49-75,,,F,,omniscient narrator,,2021-06-21,MG,2021-06-21,MG
+P1182,Li,Yu,en,male,NULL,NULL,NULL,NULL,0937,0978,Li Houzhu,en,PL0090,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,,2021-06-21,MG,2021-06-21,MG
+P1182,李 ,煜,zh,male,NULL,NULL,NULL,NULL,0937,0978,李後主,zh,PL0090,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,,2021-06-21,MG,2021-06-21,MG
+P1183,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00625,157-165,,,F,,N06,,2021-06-21,MG,2021-06-21,MG
+P1184,anon,clone wife,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00625,157-165,,,F,,N07,,2021-06-21,MG,2021-06-21,MG
