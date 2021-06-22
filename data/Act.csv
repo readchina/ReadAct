@@ -1102,7 +1102,7 @@ A01437,P1004,AT46,PS00804,,1973~,1973~,,he burns the books after the little seam
 A01438,P1004,AT46,PS00803,,1973~,1973~,,he burns the books after the little seamstress left her village to live in a city,SS00263,182f,3,F,,,2019-08-03,MG,2019-10-14,MG
 A01439,P1005,AT45,PS00811,,,,,narrator cites a verse which appears in the passage related to Emma Bovary‘s death,SS00263,183,3,F,,,2019-08-03,MG,2019-10-14,MG
 A01440,P1006,AT16,PS00811,,1973~,1973~,,the seamstress makes a set of clothes and gets her hair cut inspired by her reading,SS00263,185,3,F,,,2019-08-03,MG,2019-10-14,MG
-A01441,P1007,AT16,PS09999,,1973~,1973~,,Balzac made her undestand one thing: ‚la beauté d‘une femme est un trésor qui n‘a pas de prix‘,SS00263,191,3,F,works by P0092,,2019-08-03,MG,2019-11-25,MG
+A01441,P1007,AT16,PS09999,,1973~,1973~,,Balzac made her understand one thing: ‚la beauté d‘une femme est un trésor qui n‘a pas de prix‘,SS00263,191,3,F,works by P0092,,2019-08-03,MG,2021-06-21,MG
 A01442,P1021,AT13,PS09999,,1977,1977,,writes a bugle poem 号角诗,SS00267,5,3,F,Clear reference to practices of writing poems in the 1970s; particularly those with propagandistic / political impetus,page numbers refer to sections in the text,2019-11-08,MG,2019-11-25,MG
 A01443,P1022,AT12,PS00194,,1977,1977,,This is among his possessions which were confiscated: a bicycle lock that was used for fighting; a deck of cards; chromed cigarette box with a build-in lighter,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
 A01444,P1023,AT43,PS00194,,1977,1977,,,SS00267,5,3,F,,,2019-11-08,MG,2019-11-25,MG
@@ -1431,3 +1431,28 @@ A01882,P1180,AT43,PS09999,,1980..1999~,1980..1999~,,protagonist has prospects to
 A01883,P1184,AT26,PS09999,,2030..2050~,2030..2050~,,clone wife begins to appreciate Chinese classics and loves poems by Li Qingzhao,SS00625,163,3,F,unknown work by P0409,Translation,2021-06-21,MG,2021-06-21,MG
 A01884,P1184,AT26,PS09999,,2030..2050~,2030..2050~,,clone wife begins to appreciate Chinese classics and loves poems by Li Yu,SS00625,163,3,F,unknown work by P1182,Translation,2021-06-21,MG,2021-06-21,MG
 A01885,P1183,AT17,PS00887,,2030..2050~,2030..2050~,,,SS00625,162,3,F,,Translation,2021-06-21,MG,2021-06-21,MG
+A01886,P1186,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00613,86,3,F,unknown work ; G83 ; reference to P1185,Translation,2021-06-22,MG,2021-06-22,MG
+A01887,P1186,AT45,PS09999,,2000..2050~,2000..2050~,,unnamed philosopher who says that beauty and wisdom never exist within the same woman,SS00613,88,3,F,unknown work ; G29 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01888,P1192,AT45,PS00888,,2000..2050~,2000..2050~,,,SS00614,113,3,F,,Translation,2021-06-22,MG,2021-06-22,MG
+A01889,P1192,AT45,PS00889,,2000..2050~,2000..2050~,,,SS00614,113,3,F,,Translation,2021-06-22,MG,2021-06-22,MG
+A01890,P1192,AT45,PS00890,,2000..2050~,2000..2050~,,,SS00614,113,3,F,,Translation,2021-06-22,MG,2021-06-22,MG
+A01891,P1192,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00614,120; 117,3,F,unknown work by P1190 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01892,P1192,AT45,PS09999,,2000..2050~,2000..2050~,,quotes Seymour that robots cannot surpass humans,SS00614,118,3,F,unknown work by P1191 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01893,P1192,AT45,PS09999,,2000..2050~,2000..2050~,,'gewandte Geistesgestalt des ‘Zweiten Jungen Hernn’ aus dem traditionellen Roman’,SS00614,115,3,F,unknown work,Translation,2021-06-22,MG,2021-06-22,MG
+A01894,P1192,AT45,PS09999,,2000..2050~,2000..2050~,,'Mythen von damals’,SS00614,120,3,F,unknown work ; G83,Translation,2021-06-22,MG,2021-06-22,MG
+A01895,P1193,AT01,PS09999,,1998~,1998~,,news report about Wand Cong on international newspaper,SS00612,,3,F,unknown work ; G55 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01896,P1193,AT01,PS09999,,1998~,1998~,,a research paper,SS00612,147,3,F,unknown work ; G19 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01897,P1193,AT01,PS00891,,1998~,1998~,,,SS00612,146,3,F,,Translation,2021-06-22,MG,2021-06-22,MG
+A01898,P1195,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0634,Translation,2021-06-22,MG,2021-06-22,MG
+A01899,P1195,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0084,Translation,2021-06-22,MG,2021-06-22,MG
+A01900,P1195,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0186,Translation,2021-06-22,MG,2021-06-22,MG
+A01901,P1195,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0385,Translation,2021-06-22,MG,2021-06-22,MG
+A01902,P1195,AT56,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work ; G33 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01903,P1195,AT01,PS09999,,2000..2050~,2000..2050~,,a newspaper headline ,SS00616,175,3,F,unknown work ; G55 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01904,P1195,AT01,PS00892,,2000..2050~,2000..2050~,,the wife reads it and starts a fight,SS00616,176,3,F,,Translation,2021-06-22,MG,2021-06-22,MG
+A01905,P1194,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0634,Translation,2021-06-22,MG,2021-06-22,MG
+A01906,P1194,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0084,Translation,2021-06-22,MG,2021-06-22,MG
+A01907,P1194,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0186,Translation,2021-06-22,MG,2021-06-22,MG
+A01908,P1194,AT01,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work by P0385,Translation,2021-06-22,MG,2021-06-22,MG
+A01909,P1194,AT56,PS09999,,2000..2050~,2000..2050~,,,SS00616,183,3,F,unknown work ; G33 ,Translation,2021-06-22,MG,2021-06-22,MG
+A01910,P1194,AT01,PS09999,,2000..2050~,2000..2050~,,a newspaper headline ,SS00616,175,3,F,unknown work ; G55 ,Translation,2021-06-22,MG,2021-06-22,MG
