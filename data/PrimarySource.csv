@@ -869,9 +869,9 @@ PS00520,Shangshu,,zh-Latn-pinyin,P0999,G29,,,,,no,,,,,,,2018-11-04,WH,2018-11-04
 PS00521,Twenty-Four Histories,,en,P0999,G41,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00521,二十四史,,zh,P0999,G41,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00521,Ershisi shi,,zh-Latn-pinyin,P0999,G41,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00522,Empty Fort Strategy,,en,P0999,G01,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00522,空城计,,zh,P0999,G01,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
-PS00522,Kong cheng ji,,zh-Latn-pinyin,P0999,G01,,,,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
+PS00522,Empty Fort Strategy,,en,P0999,G87,,,,,no,PS00899,,,,,,2018-11-04,WH,2021-07-09,MG
+PS00522,空城计,,zh,P0999,G87,,,,,no,PS00899,,,,,,2018-11-04,WH,2021-07-09,MG
+PS00522,Kong cheng ji,,zh-Latn-pinyin,P0999,G87,,,,,no,PS00899,,,,,,2018-11-04,WH,2021-07-09,MG
 PS00523,Movie Literature,,en,P0999,G52,PL0093,1958,Dianying wenxue bianjibu,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00523,电影文学,,zh,P0999,G52,PL0093,1958,Dianying wenxue bianjibu,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
 PS00523,Dianying wenxue,,zh-Latn-pinyin,P0999,G52,PL0093,1958,Dianying wenxue bianjibu,,no,,,,,,,2018-11-04,WH,2018-11-04,WH
@@ -1368,3 +1368,8 @@ PS00896,I ; Robot,,en,P1206,G07,PL0002,1981,Kexue pu ji chubanshe,,,,,,,,,2021-0
 PS00896,我 ; 机器人,,zh,P1206,G07,PL0002,1981,Kexue pu ji chubanshe,,,,,,,,,2021-07-02,MG,2021-07-02,MG
 PS00897,Iliad,,en,P1173,G11,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,,2021-07-02,MG,2021-07-02,MG
 PS00897,伊利亚特,,zh,P1173,G11,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,,2021-07-02,MG,2021-07-02,MG
+PS00898,Jiefangjun Bao,,en,I0116,G52,PL0002,,Jie fang jun chu ban she,1956,,,,,,,,2021-07-09,MG,2021-07-09,MG
+PS00898,解放军报,,zh,I0116,G52,PL0002,,Jie fang jun chu ban she,1956,,,,,,,,2021-07-09,MG,2021-07-09,MG
+PS00899,36 Strategemes,,en,P1218,G87,PL0002,1999,Zhonguo wenshi chubanshe,,,,,,,,,2021-07-09,MG,2021-07-09,MG
+PS00899,三十六计,,zh,P1218,G87,PL0002,1999,Zhonguo wenshi chubanshe,,,,,,,,,2021-07-09,MG,2021-07-09,MG
+PS00900,The Modern Temper,A Study And Confession,en,P1219,G04,PL0050,1929,Harcourt Brace & World,,,,,,,,Chinese title/publ. should be added,2021-07-09,MG,2021-07-09,MG
