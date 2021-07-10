@@ -1668,6 +1668,18 @@ P1229,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00619,,,,
 P1230,anon,Anna Belle,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00619,,,,F,N07,,,2021-07-09,MG,2021-07-09,MG
 P1231,Rorvik,David,en,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0678,,,,https://en.wikipedia.org/wiki/David_Rorvik,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
 P1231,罗维克,大卫,zh,male,NULL,NULL,NULL,NULL,1944,,NULL,NULL,PL0678,,,,https://en.wikipedia.org/wiki/David_Rorvik,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
-P1232,Bulychev,Kir,,male,NULL,NULL,NULL,NULL,1934,2003,NULL,NULL,PL0027,,,,https://en.wikipedia.org/wiki/Kir_Bulychev,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
-P1232,,,,male,NULL,NULL,NULL,NULL,1934,2003,NULL,NULL,PL0027,,,,https://en.wikipedia.org/wiki/Kir_Bulychev,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
+P1232,Bulychev,Kir,en,male,NULL,NULL,NULL,NULL,1934,2003,NULL,NULL,PL0027,,,,https://en.wikipedia.org/wiki/Kir_Bulychev,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-10,MG
+P1232,布雷切夫,基尔,zh,male,NULL,NULL,NULL,NULL,1934,2003,NULL,NULL,PL0027,,,,https://en.wikipedia.org/wiki/Kir_Bulychev,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-10,MG
 P1233,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00624,,,,F,,,,2021-07-09,MG,2021-07-09,MG
+P1234,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00621,,,,F,N06,first person narrator,,2021-07-10,MG,2021-07-10,MG
+P1235,anon,Matthew,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00621,,,,F,N07,,,2021-07-10,MG,2021-07-10,MG
+P1236,of Syracuse,Archimedes,en,male,NULL,NULL,NULL,NULL,-0287,-0212,NULL,NULL,PL0680,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1236,,阿基米德,zh,male,NULL,NULL,NULL,NULL,-0287,-0212,NULL,NULL,PL0680,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1237,Roth,Joseph,en,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1237,罗特,约瑟夫,zh,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1238,anon,anon,en,male,NULL,NULL,NULL,NULL,1970..1980~,,NULL,NULL,PL0999,,,,SS00627,,,,F,,,first person narrator,2021-07-10,MG,2021-07-10,MG
+P1239,anon,architect,en,male,NULL,NULL,NULL,NULL,1970..1980~,,NULL,NULL,PL0999,,,,SS00627,,,,F,N07,,,2021-07-10,MG,2021-07-10,MG
+P1240,Andreu,Paul,fr,male,NULL,NULL,NULL,NULL,1938,2018,NULL,NULL,PL0681,,,,https://en.wikipedia.org/wiki/Paul_Andreu,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1240,安德鲁,保罗,zh,male,NULL,NULL,NULL,NULL,1938,2018,NULL,NULL,PL0681,,,,https://en.wikipedia.org/wiki/Paul_Andreu,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
+P1241,Ai,Wei Wei,en,male,,,,,,,,,,,,,,,,,,,,,,,,
+P1241,,,zh,male,,,,,,,,,,,,,,,,,,,,,,,,
