@@ -1658,8 +1658,8 @@ P1222,Huang,Zhou,en,male,no,NULL,NULL,NULL,1925,1997,Liang Gantang,en,PL0562,,,,
 P1222,黄,胄,zh,male,no,NULL,NULL,NULL,1925,1997,NULL,NULL,PL0562,,,,https://www.chinesenewart.com/chinese-artists15/huangzhou.htm,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
 P1223,Li,Keran,en,male,no,NULL,NULL,NULL,1907,1989,Li Yongshun,en,PL0654,,,,https://en.wikipedia.org/wiki/Li_Keran,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
 P1223,李,可染,zh,male,no,NULL,NULL,NULL,1907,1989,李永顺,zh,PL0654,,,,https://en.wikipedia.org/wiki/Li_Keran,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
-P1224,Miller,John,en,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here?,2021-07-09,MG,2021-07-09,MG
-P1224,米勒,约翰,zh,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here?,2021-07-09,MG,2021-07-09,MG
+P1224,Miller,John,en,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here? (Richard E. Miller?),2021-07-09,MG,2021-07-11,MG
+P1224,米勒,约翰,zh,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here? (Richard E. Miller?),2021-07-09,MG,2021-07-11,MG
 P1225,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00615,,,,F,,,,2021-07-09,MG,2021-07-09,MG
 P1226,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00615,,,,F,N06,,,2021-07-09,MG,2021-07-09,MG
 P1227,Shu,Ning,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00617,,,,F,N07,,,2021-07-09,MG,2021-07-09,MG
@@ -1674,12 +1674,26 @@ P1233,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00624,,,,
 P1234,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00621,,,,F,N06,first person narrator,,2021-07-10,MG,2021-07-10,MG
 P1235,anon,Matthew,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00621,,,,F,N07,,,2021-07-10,MG,2021-07-10,MG
 P1236,of Syracuse,Archimedes,en,male,NULL,NULL,NULL,NULL,-0287,-0212,NULL,NULL,PL0680,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
-P1236,,阿基米德,zh,male,NULL,NULL,NULL,NULL,-0287,-0212,NULL,NULL,PL0680,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
-P1237,Roth,Joseph,en,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
-P1237,罗特,约瑟夫,zh,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
-P1238,anon,anon,en,male,NULL,NULL,NULL,NULL,1970..1980~,,NULL,NULL,PL0999,,,,SS00627,,,,F,,,first person narrator,2021-07-10,MG,2021-07-10,MG
+P1236,anon,阿基米德,zh,male,NULL,NULL,NULL,NULL,-0287,-0212,NULL,NULL,PL0680,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-11,MG
+P1237,Roth,Joseph,en,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,PL0687,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-11,MG
+P1237,罗特,约瑟夫,zh,male,NULL,NULL,NULL,NULL,1894,1939,NULL,NULL,PL0687,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-11,MG
+P1238,anon,anon,en,male,NULL,NULL,NULL,NULL,1970..1980~,,NULL,NULL,PL0999,,,,SS00627,,,,F,,first person narrator,,2021-07-10,MG,2021-07-11,MG
 P1239,anon,architect,en,male,NULL,NULL,NULL,NULL,1970..1980~,,NULL,NULL,PL0999,,,,SS00627,,,,F,N07,,,2021-07-10,MG,2021-07-10,MG
 P1240,Andreu,Paul,fr,male,NULL,NULL,NULL,NULL,1938,2018,NULL,NULL,PL0681,,,,https://en.wikipedia.org/wiki/Paul_Andreu,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
 P1240,安德鲁,保罗,zh,male,NULL,NULL,NULL,NULL,1938,2018,NULL,NULL,PL0681,,,,https://en.wikipedia.org/wiki/Paul_Andreu,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-10,MG
-P1241,Ai,Wei Wei,en,male,,,,,,,,,,,,,,,,,,,,,,,,
-P1241,,,zh,male,,,,,,,,,,,,,,,,,,,,,,,,
+P1241,Ai,Wei Wei,en,male,NULL,NULL,NULL,NULL,1957,,NULL,NULL,PL0002,,,,https://en.wikipedia.org/wiki/Ai_Weiwei,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-11,MG
+P1241,艾,未未,zh,male,NULL,NULL,NULL,NULL,1957,,NULL,NULL,PL0002,,,,https://en.wikipedia.org/wiki/Ai_Weiwei,ONLINE SOURCE,,,,,,,2021-07-10,MG,2021-07-11,MG
+P1242,anon,anon,en,male,NULL,NULL,NULL,NULL,'-0900~,,NULL,NULL,PL0999,,,,SS00623,,,,F,N07,,,2021-07-11,MG,2021-07-11,MG
+P1243,anon,god,en,male,NULL,NULL,NULL,NULL,,,Li Bai,en,PL0999,,,,SS00629,,,,F,N07,,,2021-07-11,MG,2021-07-11,MG
+P1244,anon,Yiyi,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00629,,,,F,N07,,,2021-07-11,MG,2021-07-11,MG
+P1245,anon,Big Tooth,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00629,,,,F,N07,a dinosaur,,2021-07-11,MG,2021-07-11,MG
+P1246,Li,Bai,en,male,NULL,NULL,NULL,NULL,0701,0762,Li Bo,en,PL0684,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1246,李,白,zh,male,NULL,NULL,NULL,NULL,0701,0762,NULL,NULL,PL0684,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1247,Liu,Zhongyuan,en,male,NULL,NULL,NULL,NULL,0773,0819,Zihou,en,PL0685,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1247,柳,宗元,zh,male,NULL,NULL,NULL,NULL,0773,0819,子厚,zh,PL0685,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1248,Cui,Hao,en,male,NULL,NULL,NULL,NULL,0704,0754,NULL,NULL,PL0607,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1248,崔,颢,zh,male,NULL,NULL,NULL,NULL,0704,0754,NULL,NULL,PL0607,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1249,Meng,Haoran,en,male,NULL,NULL,NULL,NULL,0689,0740,NULL,NULL,PL0686,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1249,孟,浩然,zh,male,NULL,NULL,NULL,NULL,0689,0740,NULL,NULL,PL0686,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1250,Wang,Zhihuan,en,male,NULL,NULL,NULL,NULL,0688,0742,NULL,NULL,PL0014,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1250,王,之涣,zh,male,NULL,NULL,NULL,NULL,0688,0742,NULL,NULL,PL0014,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
