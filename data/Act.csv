@@ -1541,7 +1541,7 @@ A01992,P1238,AT45,AW00214,,2008..2050~,2008..2050~,,,SS00627,13,3,F,,Translation
 A01993,P1238,AT45,AW09999,,2008..2050~,2008..2050~,,,SS00627,13,3,F,unknown artwork by P1241 ,Translation,2021-07-10,MG,2021-07-10,MG
 A01994,P1238,AT45,AW00215,,2008..2050~,2008..2050~,,,SS00627,39,3,F,,Translation,2021-07-10,MG,2021-07-10,MG
 A01995,P1238,AT45,AW00216,,2008..2050~,2008..2050~,,,SS00627,39,3,F,,Translation,2021-07-10,MG,2021-07-10,MG
-A01996,P1242,AT05,Q0040,,-0930,-0930,,story ends with a comment on the 3 laws of robotics. A 4th law is necessary: robot must not fall in love ,SS00623,8,3,F,,Translation,2021-07-11,MG,2021-07-11,MG
+A01996,P1242,AT05,Q0040,,-0930,-0930,,story ends with a comment on the 3 laws of robotics. A 4th law is necessary: robot must not fall in love ,SS00623,8,3,F,,Translation,2021-07-11,MG,2021-07-14,MG
 A01997,P1244,AT68,PS09999,,2000..2050~,2000..2050~,,,SS00629,145,3,F,unknown work; classical literature,Translation,2021-07-11,MG,2021-07-11,MG
 A01998,P1243,AT01,PS09999,,2000..2050~,2000..2050~,,reads the homework of Yiyi’s students,SS00629,148,3,F,unknown work,Translation,2021-07-11,MG,2021-07-11,MG
 A01999,P1243,AT01,PS00916,,2000..2050~,2000..2050~,,,SS00629,149,3,F,,Translation,2021-07-11,MG,2021-07-11,MG
@@ -1558,3 +1558,19 @@ A02009,P1243,AT13,PS09999,,2000..2050~,2000..2050~,,sees the limits of technolog
 A02010,P1243,AT01,PS09999,,2000..2050~,2000..2050~,,has read some poems and predicts Yiyi’s future,SS00629,173,3,F,unknown work; G10,Translation,2021-07-11,MG,2021-07-11,MG
 A02011,P1244,AT50,PS09999,,2000..2050~,2000..2050~,,technology is antipoetic,SS00629,160,3,F,unknown work; G10,Translation,2021-07-11,MG,2021-07-11,MG
 A02012,P1243,AT19,PS09999,,2000..2050~,2000..2050~,,'The meaning of a poem does not depend on your approval nor mine nor anyone elses’. It is determined by time.’,SS00629,165,3,F,unknown work; G10,Translation,2021-07-11,MG,2021-07-11,MG
+A02013,P1251,AT45,Q0043,,2000..2050~,2000..2050~,,Adam Smith quote as motto to the story,SS00631,197,3,F,,Translation,2021-07-14,MG,2021-07-14,MG
+A02014,P1251,AT45,PS09999,,2000..2050~,2000..2050~,,Reference to Paoxiao; creature of ancient myths,SS00631,199,3,F,unknown work; G83 ,Translation,2021-07-14,MG,2021-07-14,MG
+A02015,P1251,AT45,Q0044,,2000..2050~,2000..2050~,,,SS00631,204,3,F,,Translation,2021-07-14,MG,2021-07-14,MG
+A02016,P1251,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00631,215,3,F,unknown work by P1253; G19 ,Translation,2021-07-14,MG,2021-07-14,MG
+A02017,P1251,AT01,PS00919,,2000..2050~,2000..2050~,,,SS00631,217,3,F,,Translation,2021-07-14,MG,2021-07-14,MG
+A02018,P1251,AT05,PS09999,,2000..2050~,2000..2050~,,Meta-fictional comment. Unclear whether on Orphans or on Balin,SS00631,223,3,F,,Translation,2021-07-14,MG,2021-07-14,MG
+A02019,P1254,AT45,PS00920,,2000..2050~,2000..2050~,,Meta-text,SS00630,,3,F,,Translation,2021-07-14,MG,2021-07-14,MG
+A02020,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P0084,Translation,2021-07-14,MG,2021-07-14,MG
+A02021,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1136,Translation,2021-07-14,MG,2021-07-14,MG
+A02022,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P0800,Translation,2021-07-14,MG,2021-07-14,MG
+A02023,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1255,Translation,2021-07-14,MG,2021-07-14,MG
+A02024,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1256,Translation,2021-07-14,MG,2021-07-14,MG
+A02025,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1257,Translation,2021-07-14,MG,2021-07-14,MG
+A02026,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1258,Translation,2021-07-14,MG,2021-07-14,MG
+A02027,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1259,Translation,2021-07-14,MG,2021-07-14,MG
+A02028,P1254,AT05,PS09999,,2000..2050~,2000..2050~,,Demon challenges a row of renown physicists,SS00630,,3,F,unknown work by P1260,Translation,2021-07-14,MG,2021-07-14,MG
