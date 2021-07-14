@@ -1704,3 +1704,21 @@ P1249,Meng,Haoran,en,male,NULL,NULL,NULL,NULL,0689,0740,NULL,NULL,PL0686,,,,http
 P1249,孟,浩然,zh,male,NULL,NULL,NULL,NULL,0689,0740,NULL,NULL,PL0686,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
 P1250,Wang,Zhihuan,en,male,NULL,NULL,NULL,NULL,0688,0742,NULL,NULL,PL0014,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
 P1250,王,之涣,zh,male,NULL,NULL,NULL,NULL,0688,0742,NULL,NULL,PL0014,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,,2021-07-11,MG,2021-07-11,MG
+P1251,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00631,,,,F,N06,first person narrator,,2021-07-14,MG,2021-07-14,MG
+P1252,Smith,Adam,en,male,NULL,NULL,NULL,NULL,1723,1790,NULL,NULL,PL0688,,,,https://en.wikipedia.org/wiki/Adam_Smith,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1252,斯密,亚当,zh,male,NULL,NULL,NULL,NULL,1723,1790,NULL,NULL,PL0688,,,,https://en.wikipedia.org/wiki/Adam_Smith,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1253,Todorov,Emanuel,en,male,NULL,NULL,NULL,NULL,1971,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Emanuel_Todorov,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1253,托多罗夫,,zh,male,NULL,NULL,NULL,NULL,1971,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Emanuel_Todorov,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1254,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00630,ONLINE SOURCE,,,F,,,,2021-07-14,MG,2021-07-14,MG
+P1255,Maxwell,James Clerk,en,male,NULL,NULL,NULL,NULL,1831,1879,NULL,NULL,PL0121,,,,https://en.wikipedia.org/wiki/James_Clerk_Maxwell,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1255,麦克斯韦,詹姆斯 克拉克,zh,male,NULL,NULL,NULL,NULL,1831,1879,NULL,NULL,PL0121,,,,https://en.wikipedia.org/wiki/James_Clerk_Maxwell,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1256,Faraday,Michael,en,male,NULL,NULL,NULL,NULL,1791,1867,NULL,NULL,PL0691,,,,https://en.wikipedia.org/wiki/Michael_Faraday,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1256,法拉第,米高,zh,male,NULL,NULL,NULL,NULL,1791,1867,NULL,NULL,PL0691,,,,https://en.wikipedia.org/wiki/Michael_Faraday,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1257,Galilei,Galileo,en,male,NULL,NULL,NULL,NULL,1564,1642,NULL,NULL,PL0690,,,,https://en.wikipedia.org/wiki/Galileo_Galilei,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1257,伽利莱,伽利略,zh,male,NULL,NULL,NULL,NULL,1564,1642,NULL,NULL,PL0690,,,,https://en.wikipedia.org/wiki/Galileo_Galilei,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1258,Copernicus,Nicolaus,en,male,NULL,NULL,NULL,NULL,1473,1543,NULL,NULL,PL0689,,,,https://en.wikipedia.org/wiki/Nicolaus_Copernicus,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1258,哥白尼,尼古拉,zh,male,NULL,NULL,NULL,NULL,1473,1543,NULL,NULL,PL0689,,,,https://en.wikipedia.org/wiki/Nicolaus_Copernicus,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1259,Schrödinger,Erwin,en,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1259,薛定谔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1260,Pauli,Wolfgang,en,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1260,泡利,沃尔夫冈,zh,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
