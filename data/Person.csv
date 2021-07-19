@@ -1722,3 +1722,10 @@ P1259,Schrödinger,Erwin,en,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,
 P1259,薛定谔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
 P1260,Pauli,Wolfgang,en,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
 P1260,泡利,沃尔夫冈,zh,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
+P1261,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632 ,,,,F,N06,first person narrator,,2021-07-19,MG,2021-07-19,MG
+P1262,Mendel,Gregor,en,male,NULL,NULL,NULL,NULL,1822,1884,NULL,NULL,PL0692,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
+P1262,孟德爾,格雷戈爾,zh,male,NULL,NULL,NULL,NULL,1822,1884,NULL,NULL,PL0692,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
+P1263,anon,Pea,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632 ,,,,F,,,,2021-07-19,MG,2021-07-19,MG
+P1264,Qu,Yuan,en,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
+P1264,屈,原,zh,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
+P1265,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00638,,,,F,,,,2021-07-19,MG,2021-07-19,MG
