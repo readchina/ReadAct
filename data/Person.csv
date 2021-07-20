@@ -1729,3 +1729,18 @@ P1263,anon,Pea,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632 ,,,,
 P1264,Qu,Yuan,en,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
 P1264,屈,原,zh,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
 P1265,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00638,,,,F,,,,2021-07-19,MG,2021-07-19,MG
+P1266,Chan,Stanley,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00646,,,,F,N06,first person narrator,,2021-07-20,MG,2021-07-20,MG
+P1267,Gutenberg,Johannes,en,male,NULL,NULL,NULL,NULL,1400,1468,NULL,NULL,PL0693,,,,https://en.wikipedia.org/wiki/Johannes_Gutenberg,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1267,谷登堡,约翰内斯,zh,male,NULL,NULL,NULL,NULL,1400,1468,NULL,NULL,PL0693,,,,https://en.wikipedia.org/wiki/Johannes_Gutenberg,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1268,He,Yan,en,male,NULL,NULL,NULL,NULL,0195,0249,NULL,NULL,PL0647,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1268,何,晏,zh,male,NULL,NULL,NULL,NULL,0195,0249,NULL,NULL,PL0647,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1269,Wilhelm,Richard,en,male,NULL,NULL,NULL,NULL,1873,1930,NULL,NULL,PL0170,,,,https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist),ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1269,威廉,理查德,zh,male,NULL,NULL,NULL,NULL,1873,1930,卫礼贤,zh,PL0170,,,,https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist),ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1270,Jung,Carl,en,male,NULL,NULL,NULL,NULL,1875,1961,NULL,NULL,PL0694,,,,https://en.wikipedia.org/wiki/Carl_Jung,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1270,荣格,卡尔,zh,male,NULL,NULL,NULL,NULL,1875,1961,NULL,NULL,PL0694,,,,https://en.wikipedia.org/wiki/Carl_Jung,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1271,Ramis,Harold,en,male,NULL,NULL,NULL,NULL,1944,2014,NULL,NULL,PL0312,,,,https://en.wikipedia.org/wiki/Harold_Ramis,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1271,雷米斯,哈罗德,zh,male,NULL,NULL,NULL,NULL,1944,2014,NULL,NULL,PL0312,,,,https://en.wikipedia.org/wiki/Harold_Ramis,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1272,Motoo,Abiko,en,male,NULL,NULL,NULL,NULL,1934,,Fujiko A. Fujio,en,PL0696,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1272,素雄,安孫子,zh,male,NULL,NULL,NULL,NULL,1934,,藤子不二雄Ⓐ,zh,PL0696,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1273,Hiroshi,Fujimoto,en,male,NULL,NULL,NULL,NULL,1933,1996,Fujiko F. Fujio,en,PL0695,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
+P1273,藤本,弘,zh,male,NULL,NULL,NULL,NULL,1933,1996,藤子 F 不二雄,zh,PL0695,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,ONLINE SOURCE,,,,,,,2021-07-20,MG,2021-07-20,MG
