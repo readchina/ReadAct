@@ -1658,8 +1658,8 @@ P1222,Huang,Zhou,en,male,no,NULL,NULL,NULL,1925,1997,Liang Gantang,en,PL0562,,,,
 P1222,黄,胄,zh,male,no,NULL,NULL,NULL,1925,1997,NULL,NULL,PL0562,,,,https://www.chinesenewart.com/chinese-artists15/huangzhou.htm,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
 P1223,Li,Keran,en,male,no,NULL,NULL,NULL,1907,1989,Li Yongshun,en,PL0654,,,,https://en.wikipedia.org/wiki/Li_Keran,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
 P1223,李,可染,zh,male,no,NULL,NULL,NULL,1907,1989,李永顺,zh,PL0654,,,,https://en.wikipedia.org/wiki/Li_Keran,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-09,MG
-P1224,Miller,John,en,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here? (Richard E. Miller?),2021-07-09,MG,2021-07-11,MG
-P1224,米勒,约翰,zh,male,NULL,NULL,NULL,NULL,1931,2002,NULL,NULL,PL0036,,,,https://en.wikipedia.org/wiki/John_Miller_(Cornish_artist),ONLINE SOURCE,,,,,,is John Miller the right person here? (Richard E. Miller?),2021-07-09,MG,2021-07-11,MG
+P1224,Miller,Richard E.,en,male,NULL,NULL,NULL,NULL,1875,1943,NULL,NULL,PL0143,,,,https://en.wikipedia.org/wiki/Richard_E._Miller,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-23,MG
+P1224,米勒,理查德 爱德华,zh,male,NULL,NULL,NULL,NULL,1875,1943,NULL,NULL,PL0143,,,,https://en.wikipedia.org/wiki/Richard_E._Miller,ONLINE SOURCE,,,,,,,2021-07-09,MG,2021-07-23,MG
 P1225,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00615,,,,F,,,,2021-07-09,MG,2021-07-09,MG
 P1226,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00615,,,,F,N06,,,2021-07-09,MG,2021-07-09,MG
 P1227,Shu,Ning,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00617,,,,F,N07,,,2021-07-09,MG,2021-07-09,MG
