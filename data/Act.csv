@@ -1358,8 +1358,62 @@ A01810,P1118,AT05,PS09999,,1978..1998~,1978..1998~,,,SS00652,48,3,F,unknown work
 A01811,P1118,AT45,PS09999,,1978..1998~,1978..1998~,,IR to an old book 4000years ago; elephants were used to fill the fields,SS00652,50,3,F,,,2021-03-26,MG,2021-04-15,MG
 A01812,P1142,AT13,PS09999,P1118,1978..1998~,1978..1998~,,I receives a letter from Li,SS00652,50,3,F,,,2021-03-26,MG,2021-04-15,MG
 A01813,P1118,AT45,PS00263,,1978..1998~,1978..1998~,,,SS00652,56,3,F,,,2021-03-26,MG,2021-04-15,MG
-A01814,P1151,AT01,PS09999,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,128,3,F,L0001; unknown work G82,,2021-04-15,MG,2021-04-15,MG
-A01815,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,131ff,,,L0001,,2021-04-15,MG,2021-04-15,MG
-A01816,P1153,AT61,PS00875,P1149,2000..2050~,2000..2050~,,,SS00666,125,,,,,2021-04-15,MG,2021-04-15,MG
-A01817,P1149,AT45,PS00259,,2000..2050~,2000..2050~,,,SS00666,,,,,,2021-04-15,MG,2021-04-15,MG
-A01818,P1149,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00666,,,,Unknown work G83; reference to P1154,,2021-04-15,MG,2021-04-15,MG
+A01814,P1151,AT01,PS09999,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,128,3,F,L0001; unknown work G82,Translation,2021-04-15,MG,2021-05-05,MG
+A01815,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,Read in a library. Vision of free and openly available readings and user-friendliness (high-tech),SS00666,131ff,3,F,L0001,Translation,2021-04-15,MG,2021-05-05,MG
+A01816,P1153,AT61,PS00875,P1149,2000..2050~,2000..2050~,,,SS00666,125,3,F,,Translation,2021-04-15,MG,2021-05-05,MG
+A01817,P1149,AT45,PS00259,,2000..2050~,2000..2050~,,reference to Wu Song,SS00666,,3,F,,Translation,2021-04-15,MG,2021-05-05,MG
+A01818,P1149,AT45,PS09999,,2000..2050~,2000..2050~,,,SS00666,,3,F,Unknown work G83; reference to P1154,Translation,2021-04-15,MG,2021-05-05,MG
+A01819,P1152,AT01,PS09999,,2000..2050~,2000..2050~,,editor reads readers’ letters,SS00655,1f,3,F,unknown work G15 ,,2021-04-23,MG,2021-04-23,MG
+A01820,P1152,AT45,PS00259,,2000..2050~,2000..2050~,,reference to Wu Song,SS00655,38,3,F,,,2021-04-23,MG,2021-04-23,MG
+A01821,P1152,AT45,PS09999,,2000..2050~,2000..2050~,,reference to Lu Xun as landmark on the moon,SS00655,70,3,F,unknown work by P0001,,2021-04-23,MG,2021-04-23,MG
+A01822,P1152,AT45,PS09999,,2000..2050~,2000..2050~,,reference to Li Shizheng as landmark on the moon,SS00655,70,3,F,unknown work by P0010,,2021-04-23,MG,2021-04-23,MG
+A01823,P1149,AT01,PS00875,,2000..2050~,2000..2050~,,read in a library,SS00655,103,3,F,L0001,,2021-04-23,MG,2021-04-23,MG
+A01824,P1155,AT32,PS09999,,2030..2099~,2030..2099~,1,Buddhist ceremony at narrator’s 1st birthday sets the scene; verses attributed to P1156,SS00651,387,3,F,unknown work by P1156; G10,Translation,2021-05-05,MG,2021-05-05,MG
+A01825,P9999,AT01,PS09999,,2030..2099~,2030..2099~,,Marketing experts read Mr. Wan’s profile timeline,SS00651,393,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01826,P1155,AT05,PS00512,,2030..2099~,2030..2099~,,'Whether you put your hand on a Bible or an iPod; in the end you were praying to the same god’,SS00651,395,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01827,P1155,AT05,PS00087,,2030..2099~,2030..2099~,,,SS00651,401,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01828,P1155,AT04,PS09999,,2030..2099~,2030..2099~,,spreading Buddhism online,SS00651,402,3,F,unknown work ; G29  Buddhism,Buddhism as background to the narrative; Translation,2021-05-05,MG,2021-06-05,MG
+A01829,P1157,AT05,PS00263,,2030..2099~,2030..2099~,,'I think you’ve read Journey to the West too many times’,SS00651,405,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01830,P1155,AT01,PS00263,,2030..2099~,2030..2099~,,,SS00651,405,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01831,P1157,AT45,PS09999,,2030..2099~,2030..2099~,,he quotes: ‘Any sufficiently advanced technology is indistinguishable from Buddhist magic’,SS00651,407,3,F,unknown work by P1158,Translation,2021-05-05,MG,2021-06-05,MG
+A01832,P1157,AT21,Q0037,,2030..2099~,2030..2099~,,,SS00651,407,3,F,,Translation,2021-05-05,MG,2021-06-05,MG
+A01833,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,87,3,F,unknown work G84; L0012 ,Translation,2021-06-05,MG,2021-06-12,MG
+A01834,P1159,AT01,PS09999,,1998,1998,,activities in the lecture hall during the evening during what seems to be study time,SS00648,,3,F,unknown work G52  (gossip magazine); L0012 ,Translation,2021-06-05,MG,2021-06-12,MG
+A01835,P0999,AT03,AW09999,P1159,1998,1998,,A CD as a gift,SS00648,,3,F,unknown artwork AF05 by P1160 ,Translation,2021-06-05,MG,2021-06-07,MG
+A01836,P1159,AT45,PS00813,,1998,1998,,She kills her mother and puts her father into the trap where he had kept her mother. She offers him the flesh of her mother.,SS00648,108f,3,F,,Translation,2021-06-05,MG,2021-06-07,MG
+A01837,P1162,AT45,PS00877,,2030..2050~,2030..2050~,,as inspiration,SS00647,148,3,F,,Translation,2021-06-07,MG,2021-06-07,MG
+A01838,P1162,AT45,PS09999,,2030..2050~,2030..2050~,,Greek myth about Delphinius as meta-text?,SS00647,148,3,F,unknown work G83,Translation,2021-06-07,MG,2021-06-07,MG
+A01839,P1162,AT45,PS09999,,2030..2050~,2030..2050~,,IR to Chinese publication of SF world in gray section – unclear whether it is a SF story,SS00647,148,3,F,,Translation,2021-06-07,MG,2021-06-07,MG
+A01840,P1163,AT01,PS09999,,2030..2050~,2030..2050~,,after gaining his authorial superpowers he picks a book at random; reading speed increase and his memory,SS00645,335,3,F,unknown work,Translation,2021-06-12,MG,2021-06-12,MG
+A01841,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G23,Translation,2021-06-12,MG,2021-06-12,MG
+A01842,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G10,Translation,2021-06-12,MG,2021-06-12,MG
+A01843,P1163,AT13,PS09999,,2030..2050~,2030..2050~,,,SS00645,336,3,F,unknown work G85,Translation,2021-06-12,MG,2021-06-12,MG
+A01843,P1163,AT33,PS09999,,2030..2050~,2030..2050~,,Stories – if good – can be traded for a meal at the restaurant,SS00645,327-340,3,F,L0011,Translation,2021-06-12,MG,2021-06-12,MG
+A01844,P1165,AT45,PS00878,,2030..2050~,2030..2050~,,reference to Douglas Adams’ novel of the same title. Meta text,SS00645,,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01845,P1165,AT45,PS09999,,2030..2050~,2030..2050~,,reference to the history of literature,SS00645,337,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01846,P1163,AT01,PS09999,,2030..2050~,2030..2050~,,Ah Chen is successful but unhappy and never reads his own works,SS00645,339,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01847,P1165,AT45,PS09999,,2030..2050~,2030..2050~,,'Humanity always reenacts the same bildungsroman. All  the principles you learn through the struggles today had been written down by the ancients thousands of years ago’,SS00645,337,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01848,P1166,AT05,PS09999,,2030..2050~,2030..2050~,,Father tells Ah Chen that a book will win an award on earth (the bool based on his dead wife’s diary),SS00645,,3,F,unknown work G14,Translation,2021-06-14,MG,2021-06-14,MG
+A01849,P1168,AT45,PS00121,,2030..2050~,2030..2050~,,,SS00644,128,3,F,,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01850,P0999,AT11,PS00121,,2030..2050~,2030..2050~,,Salinger’s book had been translated into Korean many years ago,SS00644,128,3,F,PL0050 ,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01851,P0999,AT01,PS00121,,2030..2050~,2030..2050~,,the book was read by generation after generation of N.K. students,SS00644,128,3,F,PL0050,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01852,P1167,AT13,PS09999,,2030..2050~,2030..2050~,,rumour had it that he had written some new books that were never published,SS00644,130,3,F,PL0050,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01853,P1167,AT34,PS09999,,2030..2050~,2030..2050~,,Salinger imitates Helder,SS00644,131,3,F,unknown work by P1169; PL0050 ,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01854,P0999,AT34,PS09999,,2030..2050~,2030..2050~,,Salinger sees the N.K. soldiers as imitation of Helder,SS00644,131,3,F,unknown work by P1169; PL0050 ,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01855,P1167,AT29,PS09999,,2030..2050~,2030..2050~,,Salinger experiences a pleasurable dizziness as through drunk with fine wine – truth;reality; imitation,SS00644,131,3,F,unknown work by P1169; PL0050 ,Translation; Reading time?,2021-06-14,MG,2021-06-14,MG
+A01856,P0999,AT01,PS00342,,2030..2050~,2030..2050~,,peasants did not read Verne,SS00642,118,3,F,L0013,Translation,2021-06-14,MG,2021-06-14,MG
+A01857,P0999,AT34,PS00342,,2030..2050~,2030..2050~,,city dwellers suspect that peasants used knowledge from this book,SS00642,118,3,F,L0013,Translation,2021-06-14,MG,2021-06-14,MG
+A01858,P1170,AT01,PS00879,,2030..2050~,2030..2050~,,reads a copy,SS00641,93,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01859,P1174,AT45,PS09999,,2030..2050~,2030..2050~,,,SS00636,212,3,F,unknown work by P1171 ,Translation,2021-06-14,MG,2021-06-14,MG
+A01860,P1174,AT45,PS09999,,2030..2050~,2030..2050~,,,SS00636,216,3,F,unknown work by P1172 ;  G34 ,Translation,2021-06-14,MG,2021-06-14,MG
+A01861,P1174,AT45,PS00880,,2030..2050~,2030..2050~,,,SS00636,216,3,F,,Translation,2021-06-14,MG,2021-06-14,MG
+A01862,P1174,AT45,PS09999,,2030..2050~,2030..2050~,,travel writing; telling romances of faraway places to one’s beloved,SS00636,216,3,F,unknown work G34,Translation,2021-06-14,MG,2021-06-14,MG
+A01863,P1176,AT05,AW00210,,2012..2013,2012..2013,,'I’m not afraid of becoming a living Baiyman Buddha’,SS00639,333,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01864,P1175,AT45,PS00126,,2012..2013,2012..2013,,reference to Ali Baba,SS00639,340,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01865,P1175,AT45,PS00881,,2012..2013,2012..2013,,,SS00639,323,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01866,P1175,AT45,AW00210,,2012..2013,2012..2013,,,SS00639,333,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01867,P1175,AT45,PS00882,,2012..2013,2012..2013,,,SS00639,340,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01868,P1175,AT45,PS00883,,2012..2013,2012..2013,,,SS00639,340,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01869,P1175,AT45,PS00263,,2012..2013,2012..2013,,compares his situation inside Imaigai to Monkey King inside Princess Iron Fan,SS00639,351,3,F,,Translation,2021-06-15,MG,2021-06-15,MG
+A01870,P1175,AT05,PS09999,,2012..2013,2012..2013,,'As they say; you shouldn’t judge a book by its cover; or a person by his face’,SS00639,323,3,F,,Translation,2021-06-16,MG,2021-06-16,MG
+A01871,P1175,AT45,PS09999,,2012..2013,2012..2013,,reference to Taizong emperor P1177 ,SS00639,313,3,F,,Translation,2021-06-16,MG,2021-06-16,MG
