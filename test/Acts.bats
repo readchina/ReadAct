@@ -9,7 +9,7 @@
   [ "$status" -eq 0 ]
   # 1 institutional agent is confirmed
   # echo "# count is " ${lines[1]} >&3
-  [ "${lines[1]}" -eq 1 ]
+  [ "${lines[1]}" -eq 2 ]
 }
 
 @test "act type foreign keys in Act.action are resolvable" {
