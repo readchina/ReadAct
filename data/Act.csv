@@ -1298,7 +1298,7 @@ A01722,P1068,AT05,AW00084,,1976,1976,,he has a poster of The Red Lantern in his 
 A01723,P0999,AT03,PS09999,P1068,1976,1976,,a torn textbook. this textbook is then used throughout the story.,SS00604,131,3,F,unknown work: G20,,2020-05-31,MG,2020-05-31,MG
 A01724,P1068,AT40,PS09999,,1976,1976,,'Why can’t the state print enough books for everyone? It’s not like there’s a shortage of paper! The production team receives piles of Criticism and Study materials. Why can’t they print enough textbooks?’,SS00604,135,3,F,unknown work: G20,,2020-05-31,MG,2020-05-31,MG
 A01725,P1068,AT19,PS09999,P1069,1976,1976,,"'Hah! Officials without an office and schools without schoolbooks. Is going to school just a big joke then?’ …
-‘Why can’t the state print enough books for everyone? It’s not like there’s a shortage of paper! The production team receives piles of Criticism and Study materials. Why can’t they print enough textbooks?’ 
+‘Why can’t the state print enough books for everyone? It’s not like there’s a shortage of paper! The production team receives piles of Criticism and Study materials. Why can’t they print enough textbooks?’
 Chen’s face became stern. ‘Mind what you’re saying; Mass criticism can’t be relaxed; it’s a ‘matter of national interest.’ If there’s a shortage of textbooks; it must be that the country’s in difficulties. A little copying here and there; and we can overcome. Correct?’ …
 'Fine; let’s copy’",SS00604,135,3,F,unknown work: G20,check what word is use for copying here in the Chinese original,2020-05-31,MG,2020-05-31,MG
 A01726,P0999,AT02,PS09999,,1976,1976,,the students copy by hand (no choice) their lesson texts from the blackboard,SS00604,135ff,3,F,L0005,check page number,2020-05-31,MG,2020-05-31,MG
@@ -1315,7 +1315,7 @@ A01735,P1068,AT19,PS09999,P0999,1976,1976,,the value of reading,SS00604,150f,3,F
 A01736,P1070,AT13,PS09999,,1976,1976,,his composition about his own live,SS00604,161,3,F,,,2020-05-31,MG,2020-05-31,MG
 A01737,P1068,AT55,PS09999,,1976,1976,,a student‘s composition,SS00604,161,3,F,by: P1070; L0005,,2020-05-31,MG,2020-05-31,MG
 A01738,P1068,AT54,PS09999,,1976,1976,,stops teaching the textbook,SS00604,161,3,F,unknown work: G20,,2020-05-31,MG,2020-05-31,MG
-A01739,P1068,AT65,PS00863,P1070,1976,1976,,,SS00604,168,3,F,,,2020-05-31,MG,2020-05-31,MG
+A01739,P1068,AT90,PS00863,P1070,1976,1976,,,SS00604,168,3,F,,,2020-05-31,MG,2021-07-31,MG
 A01740,P1068,AT02,PS00863,,1976,1976,,,SS00604,168,3,F,,check what word is use for copying here in the Chinese original,2020-05-31,MG,2020-05-31,MG
 A01741,P1073,AT47,PS09999,,1976,1976,,she tells a story,SS00604,170,3,F,,,2020-05-31,MG,2020-05-31,MG
 A01742,P1070,AT02,PS00863,,1976,1976,,,SS00604,171,3,F,,,2020-05-31,MG,2020-05-31,MG
@@ -1574,7 +1574,7 @@ A01992,P1238,AT45,AW00214,,2008..2050~,2008..2050~,,,SS00627,13,3,F,,Translation
 A01993,P1238,AT45,AW09999,,2008..2050~,2008..2050~,,,SS00627,13,3,F,unknown artwork by P1241 ,Translation,2021-07-10,MG,2021-07-10,MG
 A01994,P1238,AT45,AW00215,,2008..2050~,2008..2050~,,,SS00627,39,3,F,,Translation,2021-07-10,MG,2021-07-10,MG
 A01995,P1238,AT45,AW00216,,2008..2050~,2008..2050~,,,SS00627,39,3,F,,Translation,2021-07-10,MG,2021-07-10,MG
-A01996,P1242,AT05,Q0040,,-0930,-0930,,story ends with a comment on the 3 laws of robotics. A 4th law is necessary: robot must not fall in love ,SS00623,8,3,F,,Translation,2021-07-11,MG,2021-07-23,MG
+A01996,P1242,AT05,Q0040,,-0930,-0930,,story ends with a comment on the 3 laws of robotics. A 4th law is necessary: robot must not fall in love ,SS00623,8,3,F,,Translation,2021-07-11,MG,2021-07-31,MG
 A01997,P1244,AT68,PS09999,,2000..2050~,2000..2050~,,,SS00629,145,3,F,unknown work; classical literature,Translation,2021-07-11,MG,2021-07-11,MG
 A01998,P1243,AT01,PS09999,,2000..2050~,2000..2050~,,reads the homework of Yiyi’s students,SS00629,148,3,F,unknown work,Translation,2021-07-11,MG,2021-07-11,MG
 A01999,P1243,AT01,PS00916,,2000..2050~,2000..2050~,,,SS00629,149,3,F,,Translation,2021-07-11,MG,2021-07-11,MG
