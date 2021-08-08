@@ -1,5 +1,14 @@
-import csv
-import os
+"""
+This is a python script to check authenticity of Named Entities in /Readact/csv/data and in SCB.
+Main idea:
+- Read ReadAct CSV files, get lookups
+- Get the Q-identifier with library wikibaseintegrator for each lookup
+- Use SPARQL to retrieve the property we need
+- Compare wikidata item properties with data in ReadAct
+"""
+import json
+
+import pandas as pd
 from SPARQLWrapper import SPARQLWrapper, JSON
 import requests
 import time
@@ -7,29 +16,26 @@ from wikibaseintegrator import wbi_core
 from wikidataintegrator import wdi_core
 
 
-def read_person_csv(filename="Person.csv"):
+def read_person_csv(person_url):
     """
     A function to read "Person.csv".
     :param filename: "Person.csv".
     :return: a dictionary: key: unique person_id; value: [family_name,first_name,name_lang,sex,birthyear,deathyear]
     "name_lang" is used to decide if white space needs to be added into name or not.
     """
-    dirname = os.path.dirname(__file__)
-    filename = os.path.join(dirname, "../csv/data/" + filename)
-    # print(filename)
-    with open(filename) as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=',')
-        next(csv_reader, None)
-        person_dict = {}
-        for row in csv_reader:
-            if (row[0], row[3]) not in person_dict:
-                # key: string:  (person_id, name_lang)
-                # value: list: [family_name,first_name,sex,birthyear,deathyear]
-                person_dict[(row[0], row[3])] = [row[1], row[2], row[4], row[6], row[7]]
-            else:
-                print("Probably something wrong")
-
-    # print(person_dict)
+    df = pd.read_csv(person_url, error_bad_lines=False)
+    print(df)
+    geo_code_dict = {}
+    person_dict = {}
+    for index, row in df.iterrows():
+        key = (row[0], row[3])
+        if key not in person_dict:
+            # key: string:  (person_id, name_lang)
+            # value: list: [family_name,first_name,sex,birthyear,deathyear]
+            person_dict[key] = [row[1], row[2], row[4], row[6], row[7]]
+            # print("person_dict", person_dict)
+        else:
+            print("Probably something wrong")
     return person_dict
 
 
@@ -37,55 +43,62 @@ def compare(person_dict):
     no_match_list = []
     for k, v in person_dict.items():
         print("==============")
-        print("key: ", k)
-        print("value: ", v)
-        if k[1] != "zh":
-            name = v[0] + " " + v[1]
+        # print("key: ", k)
+        # print("value: ", v)
+        if isinstance(v[1], float):
+            name = v[0]
         else:
-            name = v[0] + v[1]
-        print("name: ", name)
+            if k[1] != "zh":
+                # print(type(v[0]))
+                # print(type(v[1]))
+                name = v[0] + " " + v[1]
+            else:
+                name = v[0] + v[1]
+        # print("name: ", name)
         q_ids = _get_q_ids(name)
-        print("q_ids:", q_ids)
-    return q_ids
-    #     # if no q_ids, collect item into list, break current loop
-    #     if q_ids is None:
-    #         no_match_list.append({k:v})
-    #     else:
-    #
-    #
-    # if len(still_no_match_list) != 0:
-    #     return still_no_match_list
+        if q_ids is None:
+            no_match_list.append((k,v))
+            continue
+        person_wiki_dict = _sparql(q_ids)
+
+        if not person_wiki_dict:
+            no_match_list.append((k,v))
+            continue
+        if 'gender' in person_wiki_dict:
+            if person_wiki_dict['gender'] != v[2]:
+                no_match_list.append((k,v))
+                continue
+        if 'birthyear' in person_wiki_dict:
+            if person_wiki_dict['birthyear'] != v[3]:
+                no_match_list.append((k,v))
+                continue
+        if 'deathyear' in person_wiki_dict:
+            if person_wiki_dict['deathyear'] != v[4]:
+                no_match_list.append((k,v))
+                continue
+    return no_match_list
 
 
-def _sparql(q_ids=None):
-    q_ids1 = ['Q23114', 'Q378492', 'Q28412108', 'Q45679993', 'Q24863687', 'Q45388421', 'Q45552396', 'Q45579967',
-              'Q45517806', 'Q45586359']
-    q_ids2 = ['Q23114', 'Q474956', 'Q62888982', 'Q62885771', 'Q1142220', 'Q62882273', 'Q62880800', 'Q23170',
-              'Q17004219', 'Q5930913']
-    q_ids = q_ids1
+def _sparql(q_ids):
     if q_ids is None:
-        return None
+        return []
+    person_wiki_dict = {}
     for index, q in enumerate(q_ids):
-        # print("--------------")
-        # print("q", index, ": ", q)
-
-        # Todo: This query has problems.
         # Can try birthyear
         # date of birth (P569)
         # date of death (P570)
         # sex or gender (P21)
         # male (Q6581097)
         # female (Q6581072)
-
-        q = "Q23114"  # Lu Xun
-        queryString = """PREFIX  schema: <http://schema.org/>
+        queryString = """
+        PREFIX  schema: <http://schema.org/>
         PREFIX  bd:   <http://www.bigdata.com/rdf#>
         PREFIX  wdt:  <http://www.wikidata.org/prop/direct/>
         PREFIX  wikibase: <http://wikiba.se/ontology#>
         
         SELECT DISTINCT  ?item ?itemLabel (SAMPLE(?date_of_birth) AS ?date_of_birth) (SAMPLE(?date_of_death) AS 
         ?date_of_death) 
-        (SAMPLE(?gender) AS ?gender) (SAMPLE(?article) AS ?article)
+        (SAMPLE(?gender) AS ?gender) 
         WHERE
           { ?article  schema:about       ?item ;
                       schema:inLanguage  "en" ;
@@ -103,8 +116,6 @@ def _sparql(q_ids=None):
           }
         GROUP BY ?item ?itemLabel 
         """
-        # print("query: ", queryString)
-
         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 
         sparql.setQuery(queryString)
@@ -112,7 +123,24 @@ def _sparql(q_ids=None):
         sparql.setReturnFormat(JSON)
         results = sparql.query().convert()
         print(results)
-        break
+        if results['results']['bindings']:
+            if "date_of_birth" in results['results']['bindings'][0]:
+                birthyear = results['results']['bindings'][0]['date_of_birth']['value'][0:4]
+                print(birthyear)
+                person_wiki_dict["birthyear"] = birthyear
+            if "date_of_death" in results['results']['bindings'][0]:
+                deathyear = results['results']['bindings'][0]['date_of_death']['value'][0:4]
+                print(deathyear)
+                person_wiki_dict["deathyear"] = deathyear
+            if "gender" in results['results']['bindings'][0]:
+                gender = results['results']['bindings'][0]['gender']['value']
+                if gender == "http://www.wikidata.org/entity/Q6581097":
+                    gender = "male"
+                if gender == "http://www.wikidata.org/entity/Q6581072":
+                    gender = "female"
+                print(gender)
+                person_wiki_dict["gender"] = gender
+        return person_wiki_dict
 
 
 def _get_q_ids(lookup=None):
@@ -126,61 +154,25 @@ def _get_q_ids(lookup=None):
                                     search_type='item')
 
     if len(instance) > 0:
-        return instance[0:10]
+        return instance[0:1]
     else:
         print("Lookup not in database")
         return None
 
 
-# def get_wikidata_qnumber_with_parsing_wikipedia_page(lookup=None):
-#     """
-#     A function to search for the wikidata id by parsing the page with request.
-#     :param lookup: The entity we want to search for, like a person name or an organization name
-#     :return: a string which has the pattern combined by letter "Q" and digits
-#     """
-#     params = {
-#         'action': 'parse',
-#         'page': lookup,
-#         'prop': 'text',
-#         'formatversion': 2
-#     }
-#     # Only works for English now
-#     # TODO for Chinese???
-#     r = requests.get("https://en.wikipedia.org/w/api.php", params=params)
-#     data = r.text
-#
-#     # Can also use regex to search for all the urls with a certain pattern directly
-#     wikidata_url = 'https://www.wikidata.org/wiki/'
-#     if data.find(wikidata_url) != -1:
-#         idx = data.index(wikidata_url) + 30
-#         result = re.match(r'Q[0-9]+', data[idx:idx + 20]).group()
-#         return result
-
-# # Not very useful, since mostly works for English data
-# def try_mediawiki_api(person_dict):
-#     base_url1 = "https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles="
-#     base_url2 = "&format=json"
-#     for k, v in person_dict.items():
-#         print("k: ", k)
-#         print("v: ", v)
-#         if k[1] == "zh":
-#             url = base_url1 + v[0] + v[1] + base_url2
-#             print("url: ", url)
-#             data = requests.get(url)
-#             print(data.json())
-#         else:
-#             # url = base_url1 + v[0] + "_" + v[1] + base_url2
-#             # data = requests.get(url)
-#             # print(data.json())
-#             pass
-
-
 if __name__ == "__main__":
-    # person_dict = read_person_csv("Person.csv")
-    # # print(person_dict)
-    # sample_dict = {('AG0001', 'en'): person_dict[('AG0001', 'en')], ('AG0001', 'zh'): ['鲁', '迅', 'male', '1881',
-    # '1936']}
+    person_dict = read_person_csv("https://raw.githubusercontent.com/readchina/ReadAct/master/csv/data/Person.csv")
+
+    no_match_list = compare(person_dict)
+    print("-------no_match_list", no_match_list)
+
+    # sample_dict = {('AG0619', 'en'): ['Qu', 'Yuan', 'male', '-0340', '-0278'], ('AG0619', 'zh'): ['屈', '原', 'male', '-0340', '-0278'], ('AG0620', 'en'): ['Qu', 'Qiubai', 'male', '1899', '1935'], ('AG0620', 'zh'): ['瞿', '秋白', 'male', '1899', '1935']}
     # print("sample_dict: ", sample_dict)
     # q_ids = compare(sample_dict)
+    # # print(q_ids)
+    # q_ids = ['Q45581047']
+    # _sparql(q_ids)
 
-    _sparql()
+
+
+
