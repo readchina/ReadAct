@@ -7180,4 +7180,17 @@
       </cit>
     </note>
   </bibl>
+  <bibl xml:id="W1000" type="text" status="unspecified-access">
+    <author ref="#AG0626"/>
+  </bibl>
+  <bibl xml:id="W1001" type="text" status="unspecified-access">
+    <title xml:lang="en" type="main">Dictionary of Pseudonyms<title type="sub">13000 Assumed Names and Their Origins 5th ed.</title>
+    </title>
+    <author ref="#AG1000"/>
+    <date when="2010"/>
+    <pubPlace ref="#SP1000"/>
+    <publisher>McFarland</publisher>
+    <note type="genre" subtype="informational-works">dictionary<idno type="LCSH">gf2014026086</idno>
+    </note>
+  </bibl>
 </listBibl>

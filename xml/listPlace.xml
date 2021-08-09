@@ -2661,4 +2661,16 @@
       <geo>36.091930 120.328056</geo>
     </location>
   </place>
+  <place xml:id="SP1000" type="PL">
+    <placeName>Jefferson</placeName>
+    <location>
+      <geo>36.42 -81.468889</geo>
+    </location>
+  </place>
+  <place xml:id="SP1001" type="PL">
+    <placeName>Melksham</placeName>
+    <location>
+      <geo>51.371 -2.138</geo>
+    </location>
+  </place>
 </listPlace>
