@@ -3275,7 +3275,7 @@
     </note>
   </bibl>
   <bibl xml:id="W0274" type="text" status="unspecified-access">
-    <title xml:lang="zh" type="main">When the Sunset Disappears</title>
+    <title xml:lang="en" type="main">When the Sunset Disappears</title>
     <author ref="#AG0626"/>
     <date when-custom="19XX"/>
     <date type="first-chinese-edition" when-custom="19XX"/>
@@ -4923,7 +4923,7 @@
   </bibl>
   <bibl xml:id="W0419" type="text" status="unspecified-access">
     <title xml:lang="zh" type="main">漫长的假期</title>
-    <title xml:lang="zh-Latn-pinyin" type="main">Endless Holidays</title>
+    <title xml:lang="en" type="main">Endless Holidays</title>
     <author ref="#AG0103"/>
     <date when="2009"/>
     <pubPlace ref="#SP0004"/>
