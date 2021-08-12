@@ -131,7 +131,7 @@ Person,last_modified_by,acronym of project member last modifying this line,,2017
 PrimarySource,prim_source_id,PS and a five-digit number (leading zeros)  PS09999 is structural entry for untitled/unknown works,,2017-07-04,LH,2018-04-10,MG
 PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters. b) title in original language,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
-PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Dussian publications add three lines of title information,,2017-07-04,LH,2017-07-04,LH
+PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2017-07-04,LH,2021-08-12,DP
 PrimarySource,genre,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
 PrimarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
 PrimarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
@@ -166,7 +166,7 @@ Rustication,place_of_rust,a single place_id for major place of rustication; 'PL0
 SecondarySource,sec_source_id,SS and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
 SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters.  b) title in original language,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
-SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of russian publications add three lines of title information,,2018-02-09,OS,2018-02-09,OS
+SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2018-02-09,OS,2021-08-12,DP
 SecondarySource,genre,key: Genre.genre_id,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
 SecondarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
