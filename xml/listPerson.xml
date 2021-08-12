@@ -2059,6 +2059,7 @@
     <birth when-custom="XXXX">XXXX<placeName ref="#SP0436"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360"/>
     </listBibl>
@@ -2253,6 +2254,7 @@
     <event type="rustication" from="1975" to="1978" where="#SP0157">
       <label>rustication</label>
     </event>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="#W0476">
         <biblScope unit="page">533-539</biblScope>
@@ -2352,6 +2354,7 @@
     <birth when="1953">1953<placeName ref="#SP0005"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="#W0438">
         <biblScope unit="page">196</biblScope>
@@ -3481,6 +3484,7 @@
     <birth when="1949">1949<placeName ref="#SP0116"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=2&amp;tid=1167&amp;pid=4643"/>
     </listBibl>
@@ -3644,6 +3648,7 @@
     <birth when="1952">1952<placeName ref="#SP0436"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="http://www.xujuneberlein.com/rem57.html"/>
     </listBibl>
@@ -3666,6 +3671,7 @@
     <state type="neibu">
       <label>access to neibu materials</label>
     </state>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <note>Grew up in Beijing. From 1971-1975 he was rusticated in Wuxiang 武乡 (Shanxi).</note>
     <listBibl>
       <bibl source="#W0485">
@@ -3840,6 +3846,7 @@
     <event type="rustication" from-custom="1968?" to-custom="1968/1979" where="#SP0132">
       <label>rustication</label>
     </event>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="#W0485">
         <biblScope unit="page">249</biblScope>
@@ -3963,6 +3970,7 @@
     <birth when="1938">1938<placeName ref="#SP0120"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="https://baike.baidu.com/item/%E8%A2%81%E6%A0%91%E4%BB%81"/>
     </listBibl>
@@ -5135,6 +5143,7 @@
     <event type="rustication" from="1968" to="1969" where="#SP0214">
       <label>rustication</label>
     </event>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="#W0512"/>
     </listBibl>
@@ -5567,6 +5576,7 @@
     <state type="neibu">
       <label>access to neibu materials</label>
     </state>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <note>rusticated in the south of Anhui province</note>
     <listBibl>
       <bibl source="#W0513">
@@ -6054,6 +6064,7 @@
     <birth when-custom="XXXX">XXXX<placeName ref="#SP0436"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="#W0433">
         <biblScope unit="page">ONLINE SOURCE</biblScope>
@@ -8987,6 +8998,7 @@
     <birth when="1912">1912<placeName ref="#SP0338"/>
     </birth>
     <death when="1988">1988</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="https://baike.baidu.com/item/%E9%BB%8E%E6%BE%8D/919432"/>
     </listBibl>
@@ -9003,6 +9015,7 @@
     <birth when="1924">1924<placeName ref="#SP0339"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <listBibl>
       <bibl source="http://www.baike.com/wiki/%E5%8F%B2%E6%96%87%E7%82%BD"/>
     </listBibl>
@@ -10013,6 +10026,7 @@
     <birth when-custom="XXXX">XXXX<placeName ref="#SP0436"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <note>He was one of the editors of W0356.</note>
     <listBibl>
       <bibl source="#W0447"/>
@@ -10030,6 +10044,7 @@
     <birth when-custom="XXXX">XXXX<placeName ref="#SP0436"/>
     </birth>
     <death when-custom="XXXX">XXXX</death>
+    <socecStatus scheme="#rc" code="S00">unknown</socecStatus>
     <note>He was one of the editors of W0356.</note>
     <listBibl>
       <bibl source="#W0447"/>
@@ -10948,6 +10963,18 @@
     <death when-custom="XXXX">XXXX</death>
     <listBibl>
       <bibl source="#W0414"/>
+    </listBibl>
+  </person>
+  <person xml:id="AG1000" sex="M">
+    <persName xml:lang="en" type="main">
+      <surname>Room</surname>
+      <forename>Adrian</forename>
+    </persName>
+    <birth when="1933">1933<placeName ref="#SP1001"/>
+    </birth>
+    <death when="2010">2010</death>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Adrian_Room"/>
     </listBibl>
   </person>
 </listPerson>
