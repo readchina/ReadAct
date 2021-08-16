@@ -7,8 +7,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2        
       - name: Install Build Dependencies
-        run: sudo apt-get install libxml2-utils basex
-      - name: Generate expanded xml files
+        run: sudo apt-get install basex
+      - name: Generate xml files
         run: |
           basex xml/modules/tei-bibl.xq > xml/listBibl.xml
           basex xml/modules/tei-org.xq > xml/listOrg.xml
@@ -16,19 +16,13 @@ jobs:
           basex xml/modules/tei-place.xq > xml/listPlace.xml
           basex xml/modules/tei-relation.xq > xml/listRelation.xml
           basex xml/modules/social-network.xq > xml/rActs.gexf
-          xmllint --output xml/expand/expand.xml --xinclude xml/tei_header.xml
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v2
         with:
           name: markup-xi
           path: |
             xml/*.xml
-            xml/*.gexf
-      - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v2
-        with:
-          name: markup-expand
-          path: xml/expand/expand.xml   
+            xml/*.gexf  
   test:
     runs-on: ubuntu-latest
     needs: build
@@ -50,24 +44,19 @@ jobs:
             ${{ runner.os }}-pip-        
       - name: Install Test Dependencies
         run: | 
-          sudo apt-get install jing 
+          sudo apt-get install libxml2-utils 
           pip install frictionless csvkit
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
           name: markup-xi
-          path: xml
-      - name: Download artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: markup-expand
-          path: xml/expand  
+          path: xml  
       - name: Display structure of downloaded files
         run: ls -R
       - name: Validate Files
         run: | 
-          jing xml/schema/tei_all.rng xml/expand/expand.xml
-          jing xml/schema/gexf.rng xml/rActs.gexf          
+          xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
+          xmllint --noout --relaxng xml/schema/gexf.rng xml/rActs.gexf         
   release:
     runs-on: ubuntu-latest
     needs: test
