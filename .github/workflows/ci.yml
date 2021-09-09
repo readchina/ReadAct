@@ -90,4 +90,4 @@ jobs:
       # see https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
         uses: actions-x/commit@v2
         with:
-          message: "[skip ci] GitHub Actions Bot"
+          message: "[skip ci] SimaBot"
