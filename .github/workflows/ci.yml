@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v2        
       - name: Install Build Dependencies
         run: sudo apt-get install basex
-      - name: Generate xml files
+      - name: Generate XML Files
         run: |
           basex xml/modules/tei-bibl.xq > xml/listBibl.xml
           basex xml/modules/tei-org.xq > xml/listOrg.xml
@@ -35,7 +35,7 @@ jobs:
         uses: actions/setup-python@v2.2.2
         with:
           python-version: 3.9
-      - name: Use pip cache  
+      - name: Use pip Cache  
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
@@ -46,14 +46,17 @@ jobs:
         run: | 
           sudo apt-get install libxml2-utils 
           pip install frictionless csvkit
-      - name: Download artifact
+      - name: Validate CSV Files
+        working-directory: csv
+        run: frictionless validate datapackage.json    
+      - name: Download Artifact
         uses: actions/download-artifact@v2
         with:
           name: markup-xi
           path: xml  
-      - name: Display structure of downloaded files
+      - name: Display Downloaded Artifacts
         run: ls -R
-      - name: Validate Files
+      - name: Validate XML Files
         run: | 
           xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
           xmllint --noout --relaxng xml/schema/gexf.rng xml/rActs.gexf         
@@ -70,7 +73,7 @@ jobs:
         run: |
           sudo apt-get install basex
           docker pull duncdrum/textql:alpine
-      - name: Download artifact
+      - name: Download Artifact
         uses: actions/download-artifact@v2
         with:
           name: markup-xi
@@ -82,9 +85,9 @@ jobs:
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view02_creator-matrix.csv -header -sql "select distinct a.act_id, a.act_object, w.creator, (select distinct ps.title from PrimarySource ps where a.act_object = ps.prim_source_id) as title, (select distinct coalesce(p.family_name, '') || ' ' || coalesce(p.first_name, '') from Person p where w.creator = p.person_id) as name from Act a, Work w inner join Work on a.act_object = w.work_id where a.act_object!='W0414'" csv/data/
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view03a_reader-author-nodes.csv -header -sql "select distinct a.agent_id as node_id from Agent a" csv/data/
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view03b_reader-author-edges.csv -header -sql "select distinct a.act_id, a.agent as source, w.creator as target from Act a, Work w inner join Work on a.act_object = w.work_id" csv/data/
-      - name: Update json view data
+      - name: Update JSON View Data
         run: basex xml/modules/rAct-vega.xq > csv/views/view04a_rActs.json
-      - name: Git status check
+      - name: Check Git Status 
         run: git status  
       - name: Commit and Push
       # see https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
