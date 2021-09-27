@@ -1478,7 +1478,7 @@ P1101,顾,均正,zh,male,NULL,NULL,NULL,NULL,1902,1980,NULL,NULL,PL0643,,,,http:
 P1102,Liu,Ji‘an,en,unknown,unknown,NULL,NULL,NULL,1956,,NULL,NULL,PL0004,,,,http://www.isfdb.org/cgi-bin/ea.cgi?258487,ONLINE SOURCE,,,,,,,2021-02-24,MG,2021-04-05,MG
 P1102,刘,继安,zh,unknown,unknown,NULL,NULL,NULL,1956,,NULL,NULL,PL0004,,,,http://www.isfdb.org/cgi-bin/ea.cgi?258487,ONLINE SOURCE,,,,,,,2021-04-05,MG,2021-04-05,MG
 P1103,Zhen,Wenguang,en,male,NULL,NULL,NULL,NULL,1929,2003,NULL,NULL,PL0645,,,,https://en.wikipedia.org/wiki/Zheng_Wenguang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
-P1103,郑,文光 ,zh,male,NULL,NULL,NULL,NULL,1929,2003,NULL,NULL,PL0645,,,,https://en.wikipedia.org/wiki/Zheng_Wenguang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
+P1103,郑,文光,zh,male,NULL,NULL,NULL,NULL,1929,2003,NULL,NULL,PL0645,,,,https://en.wikipedia.org/wiki/Zheng_Wenguang,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
 P1104,Jiang,Yunsheng,en,male,unknown,NULL,NULL,NULL,1944,,NULL,NULL,PL0003,,,,https://baike.baidu.com/item/%E5%A7%9C%E4%BA%91%E7%94%9F/13383138,ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-04-05,MG
 P1104,姜,云生,zh,male,unknown,NULL,NULL,NULL,1944,,NULL,NULL,PL0003,,,,https://baike.baidu.com/item/%E5%A7%9C%E4%BA%91%E7%94%9F/13383138,ONLINE SOURCE,,,,,,,2021-04-05,MG,2021-04-05,MG
 P1105,Han,Song,en,male,NULL,NULL,NULL,NULL,1965,,NULL,NULL,PL0012,,,,https://en.wikipedia.org/wiki/Han_Song_(writer),ONLINE SOURCE,,,,,,,2021-02-27,MG,2021-03-09,MG
@@ -1504,21 +1504,21 @@ P1114,刘,宇昆,zh,male,NULL,NULL,NULL,NULL,1976,,NULL,NULL,PL0074,,,,https://e
 P1115,Tang,Fei,en,female,NULL,NULL,NULL,NULL,1983,,Wang Jing,en,PL0003,,,,https://en.wikipedia.org/wiki/Tang_Fei_(writer),ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
 P1115,糖,匪,zh,female,NULL,NULL,NULL,NULL,1983,,NULL,NULL,PL0003,,,,https://en.wikipedia.org/wiki/Tang_Fei_(writer),ONLINE SOURCE,,,,,,,2021-03-09,MG,2021-03-09,MG
 P1116,Wang,Regina Kanyu,en,female,NULL,NULL,NULL,NULL,1990,,NULL,NULL,PL0003,,,,https://www.facebook.com/regina.kanyu.wang,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
-P1116,王,侃瑜 ,zh,female,NULL,NULL,NULL,NULL,1990,,NULL,NULL,PL0003,,,,https://www.facebook.com/regina.kanyu.wang,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
+P1116,王,侃瑜,zh,female,NULL,NULL,NULL,NULL,1990,,NULL,NULL,PL0003,,,,https://www.facebook.com/regina.kanyu.wang,ONLINE SOURCE,,,,,,,2021-03-03,MG,2021-03-09,MG
 P1117,Chi,Shuchang,en,male,unknown,NULL,NULL,NULL,1922,1997,NULL,NULL,PL0019,,,,http://sf-encyclopedia.com/entry/chi_shuchang,ONLINE SOURCE,,,,,,was Chi rusticated?,2021-03-03,MG,2021-03-09,MG
 P1117,迟,叔唱,zh,male,unknown,NULL,NULL,NULL,1922,1997,NULL,NULL,PL0019,,,,http://sf-encyclopedia.com/entry/chi_shuchang,ONLINE SOURCE,,,,,,was Chi rusticated?,2021-03-03,MG,2021-03-09,MG
-P1118,Yu,Zhi,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added ,2021-03-03,MG,2021-03-10,MG
-P1118,于,止,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added ,2021-03-03,MG,2021-03-10,MG
+P1118,Yu,Zhi,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added,2021-03-03,MG,2021-03-10,MG
+P1118,于,止,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,SS00652,,,,F,,,age and narrative status need to be added,2021-03-03,MG,2021-03-10,MG
 P1119,Huang,Yi,en,male,no,NULL,NULL,NULL,1952,2017,Wong Yee,en,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
-P1119,黄,伊 ,zh,male,no,NULL,NULL,NULL,1952,2017,黃易,zh,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
+P1119,黄,伊,zh,male,no,NULL,NULL,NULL,1952,2017,黃易,zh,PL0017,,,,https://en.wikipedia.org/wiki/Huang_Yi_(author),ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1120,Ma,Boyong,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1120,马,伯庸,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0192,,,,https://en.wikipedia.org/wiki/Ma_Boyong,ONLINE SOURCE,,,,,,,2021-03-04,MG,2021-03-09,MG
 P1121,anon,Arvadan,en,male,NULL,NULL,NULL,NULL,2000..2040,,Wang Er,en,PL0999,,,,SS00665,,,,F,N06,,,2021-03-12,MG,2021-04-06,MG
 P1122,Blair,Eric Arthur,en,male,NULL,NULL,NULL,NULL,1903,1950,George Orwell,en,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-12,MG
 P1122,布莱尔,埃里克·阿瑟,zh,male,NULL,NULL,NULL,NULL,1903,1950,乔治·奥威尔,zh,PL0648,,,,https://en.wikipedia.org/wiki/George_Orwell,ONLINE SOURCE,,,,,,,2021-03-12,MG,2021-03-18,MG
 P1123,Duras,anon,en,female,NULL,NULL,NULL,NULL,2000..2040,2000..2040,NULL,NULL,PL0999,,,,SS00665,180ff,,,F,N07,,,2021-03-12,MG,2021-04-06,MG
-P1124,Xu,Ping,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00664 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
-P1125,Wu,Lei,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00660 ,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
+P1124,Xu,Ping,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00664,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
+P1125,Wu,Lei,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00660,,,,F,N06,,,2021-03-15,MG,2021-03-15,MG
 P1126,Wagner,Richard,en,male,NULL,NULL,NULL,NULL,1813,1883,NULL,NULL,PL0306,,,,https://en.wikipedia.org/wiki/Richard_Wagner,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-15,MG
 P1126,瓦格纳,理查德,zh,male,NULL,NULL,NULL,NULL,1813,1883,NULL,NULL,PL0306,,,,https://en.wikipedia.org/wiki/Richard_Wagner,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-18,MG
 P1127,Milton,John,en,male,NULL,NULL,NULL,NULL,1608,1674,NULL,NULL,PL0649,,,,https://de.wikipedia.org/wiki/John_Milton,ONLINE SOURCE,,,,,,,2021-03-15,MG,2021-03-15,MG
@@ -1546,8 +1546,8 @@ P1139,Feng,Huachuan,en,male,NULL,NULL,NULL,NULL,1950..1960~,,NULL,NULL,PL0999,,1
 P1139,丰,华川,zh,male,NULL,NULL,NULL,NULL,1950..1960~,,NULL,NULL,PL0999,,1,,SS00657,,,,F,N07,,,2021-03-24,MG,2021-03-25,MG
 P1141,Li,Wenjian,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,2,,SS00652,,,,F,N07,,,2021-03-26,MG,2021-03-26,MG
 P1142,李,文建,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,2,,SS00652,,,,F,N07,,,2021-03-26,MG,2021-03-26,MG
-P1143,宋,耕,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
 P1143,Song,Geng,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
+P1143,宋,耕,zh,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
 P1144,Yang,Qingxiang,en,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0656,,,,https://baike.baidu.com/item/%E6%9D%A8%E5%BA%86%E7%A5%A5/13861709,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
 P1144,杨,庆祥,zh,male,NULL,NULL,NULL,NULL,1980,,NULL,NULL,PL0656,,,,https://baike.baidu.com/item/%E6%9D%A8%E5%BA%86%E7%A5%A5/13861709,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
 P1145,Song,Mingwei,en,male,NULL,NULL,NULL,NULL,1900..1980~,,NULL,NULL,PL0999,,,,https://www.wellesley.edu/ealc/faculty/songm,ONLINE SOURCE,,,,,,,2021-04-06,MG,2021-04-06,MG
@@ -1576,11 +1576,11 @@ P1160,布萊曼,莎拉,zh,female,NULL,NULL,NULL,NULL,1960,,NULL,NULL,PL0158,,,,h
 P1161,Brin,David,en,male,NULL,NULL,NULL,NULL,1950,,NULL,NULL,PL0659,,,,https://en.wikipedia.org/wiki/David_Brin,ONLINE SOURCE,,,,,,,2021-06-07,MG,2021-06-07,MG
 P1161,布林,大衛,zh,male,NULL,NULL,NULL,NULL,1950,,NULL,NULL,PL0659,,,,https://en.wikipedia.org/wiki/David_Brin,ONLINE SOURCE,,,,,,,2021-06-07,MG,2021-06-07,MG
 P1162,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,2,,SS00647,139-148,,,F,,first person narrator,,2021-06-07,MG,2021-06-07,MG
-P1163,Ah,Chen,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645 ,327-340,,,F,N06,,,2021-06-09,MG,2021-06-09,MG
+P1163,Ah,Chen,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645,327-340,,,F,N06,,,2021-06-09,MG,2021-06-09,MG
 P1164,Adams,Douglas,en,male,NULL,NULL,NULL,NULL,1952,2001,NULL,NULL,PL0660,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,,2021-06-09,MG,2021-06-09,MG
 P1164,亚当斯,道格拉斯,zh,male,NULL,NULL,NULL,NULL,1952,2001,NULL,NULL,PL0660,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,,2021-06-09,MG,2021-06-09,MG
-P1165,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645 ,327-340,,,F,,omniscient narrator,,2021-06-14,MG,2021-06-14,MG
-P1166,anon,anon,en,male,NULL,NULL,NULL,NULL,,,father,NULL,PL0999,,,,SS00645 ,327-340,,,F,N07,,,2021-06-14,MG,2021-06-14,MG
+P1165,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00645,327-340,,,F,,omniscient narrator,,2021-06-14,MG,2021-06-14,MG
+P1166,anon,anon,en,male,NULL,NULL,NULL,NULL,,,father,NULL,PL0999,,,,SS00645,327-340,,,F,N07,,,2021-06-14,MG,2021-06-14,MG
 P1167,Salinger,Jerome David,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,3,,SS00644,125-133,,,F,N06,,,2021-06-14,MG,2021-06-14,MG
 P1168,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00644,125-133,,,F,,omniscient narrator,,2021-06-14,MG,2021-06-14,MG
 P1169,Helder,Herberto,en,male,NULL,NULL,NULL,NULL,1930,2015,NULL,NULL,PL0661,,,,https://de.wikipedia.org/wiki/Herberto_Helder,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
@@ -1592,7 +1592,7 @@ P1172,Polo,Marco,en,male,NULL,NULL,NULL,NULL,1254,1324,NULL,NULL,PL0663,,,,https
 P1172,波罗,马可,zh,male,NULL,NULL,NULL,NULL,1254,1324,NULL,NULL,PL0663,,,,https://en.wikipedia.org/wiki/Marco_Polo,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
 P1173,anon,Homer,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Homer,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
 P1173,anon,荷马,zh,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Homer,ONLINE SOURCE,,,,,,,2021-06-14,MG,2021-06-14,MG
-P1174,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00636 ,199-218,,,F,,first person narrator,,2021-06-14,MG,2021-06-14,MG
+P1174,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00636,199-218,,,F,,first person narrator,,2021-06-14,MG,2021-06-14,MG
 P1175,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00639,313-353,,,F,,first person narrator,,2021-06-15,MG,2021-06-15,MG
 P1176,Nashihiko,Imagai,ja,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00639,313-353,,,F,N07,,,2021-06-15,MG,2021-06-23,MG
 P1177,Li,Shimin,en,male,NULL,NULL,NULL,NULL,0598,0649,Taizong Emperor of Tang,en,PL0665,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,,2021-06-16,MG,2021-06-16,MG
@@ -1602,7 +1602,7 @@ P1179,anon,teacher,en,male,NULL,NULL,NULL,NULL,1960..1980~,,NULL,NULL,PL0999,,,,
 P1180,anon,Xiu Xiu,en,female,NULL,NULL,NULL,NULL,1960..1980~,,NULL,NULL,PL0999,,,,SS00628,49-75,,,F,N07,,,2021-06-21,MG,2021-06-23,MG
 P1181,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00628,49-75,,,F,,omniscient narrator,,2021-06-21,MG,2021-06-21,MG
 P1182,Li,Yu,en,male,NULL,NULL,NULL,NULL,0937,0978,Li Houzhu,en,PL0090,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,,2021-06-21,MG,2021-06-21,MG
-P1182,李 ,煜,zh,male,NULL,NULL,NULL,NULL,0937,0978,李後主,zh,PL0090,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,,2021-06-21,MG,2021-06-21,MG
+P1182,李,煜,zh,male,NULL,NULL,NULL,NULL,0937,0978,李後主,zh,PL0090,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,,2021-06-21,MG,2021-06-21,MG
 P1183,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00625,157-165,,,F,N06,,,2021-06-21,MG,2021-06-23,MG
 P1184,anon,clone wife,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00625,157-165,,,F,N07,,,2021-06-21,MG,2021-06-23,MG
 P1185,Hou,Yi,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,https://en.wikipedia.org/wiki/Hou_Yi,ONLINE SOURCE,,,F,,,,2021-06-22,MG,2021-06-22,MG
@@ -1621,14 +1621,14 @@ P1193,Wang,Cong,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00612,135-15
 P1194,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00616,169-194,,,F,N07,,,2021-06-22,MG,2021-06-23,MG
 P1195,anon,anon,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00616,169-194,,,F,N07,,,2021-06-22,MG,2021-06-23,MG
 P1196,Xi,Shi,en,female,NULL,NULL,NULL,NULL,-0700..-0600,-0700..-0600,Shi Yiguang,en,PL0001,,,,https://en.wikipedia.org/wiki/Xi_Shi,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
-P1196,西,施,zh,female,NULL,NULL,NULL,NULL,-0700..-0600,-0700..-0600,施夷光 ,zh,PL0001,,,,https://en.wikipedia.org/wiki/Xi_Shi,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
+P1196,西,施,zh,female,NULL,NULL,NULL,NULL,-0700..-0600,-0700..-0600,施夷光,zh,PL0001,,,,https://en.wikipedia.org/wiki/Xi_Shi,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
 P1197,Wang,Qiang,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,http://none,,,,,,,please check,2021-06-23,MG,2021-06-23,MG
+P1198,Ying,Ying,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,http://none,,,,,,,please check,2021-06-23,MG,2021-07-25,MG
 P1199,Yang,Yuhuan,en,male,NULL,NULL,NULL,NULL,0719,0756,Yang Guifei,en,PL0674,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
-P1199,楊 ,玉環,zh,male,NULL,NULL,NULL,NULL,0719,0756,楊貴妃,zh,PL0674,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
+P1199,楊,玉環,zh,male,NULL,NULL,NULL,NULL,0719,0756,楊貴妃,zh,PL0674,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,,2021-06-23,MG,2021-06-23,MG
 P1200,Qu,Feiyan,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,PS00894,,,,F,N07,,,2021-06-23,MG,2021-06-23,MG
 P1200,曲,非煙,zh,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,PS00894,,,,F,N07,,,2021-06-23,MG,2021-06-23,MG
 P1201,Lü,Zhu,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,http://none,,,,,,,please check,2021-06-23,MG,2021-07-25,MG
-P1198,Ying,Ying,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,http://none,,,,,,,please check,2021-06-23,MG,2021-07-25,MG
 P1202,Zhuo,Wenjun,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,http://none,,,,,,,please check,2021-06-23,MG,2021-07-25,MG
 P1203,anon,Helena,en,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,PS00897,,PS00880,,,,,,2021-06-23,MG,2021-07-02,MG
 P1203,anon,海伦,zh,female,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,PS00897,,PS00880,,,,,,2021-07-02,MG,2021-07-02,MG
@@ -1725,10 +1725,10 @@ P1259,Schrödinger,Erwin,en,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,
 P1259,薛定谔,埃尔温,zh,male,NULL,NULL,NULL,NULL,1887,1961,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
 P1260,Pauli,Wolfgang,en,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
 P1260,泡利,沃尔夫冈,zh,male,NULL,NULL,NULL,NULL,1900,1958,NULL,NULL,PL0167,,,,https://en.wikipedia.org/wiki/Wolfgang_Pauli,ONLINE SOURCE,,,,,,,2021-07-14,MG,2021-07-14,MG
-P1261,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632 ,,,,F,N06,first person narrator,,2021-07-19,MG,2021-07-19,MG
+P1261,anon,anon,en,male,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632,,,,F,N06,first person narrator,,2021-07-19,MG,2021-07-19,MG
 P1262,Mendel,Gregor,en,male,NULL,NULL,NULL,NULL,1822,1884,NULL,NULL,PL0692,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
 P1262,孟德爾,格雷戈爾,zh,male,NULL,NULL,NULL,NULL,1822,1884,NULL,NULL,PL0692,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
-P1263,anon,Pea,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632 ,,,,F,,,,2021-07-19,MG,2021-07-19,MG
+P1263,anon,Pea,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00632,,,,F,,,,2021-07-19,MG,2021-07-19,MG
 P1264,Qu,Yuan,en,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
 P1264,屈,原,zh,male,NULL,NULL,NULL,NULL,-0340,-0278,NULL,NULL,PL0415,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,,2021-07-19,MG,2021-07-19,MG
 P1265,anon,anon,en,unknown,NULL,NULL,NULL,NULL,,,NULL,NULL,PL0999,,,,SS00638,,,,F,,,,2021-07-19,MG,2021-07-19,MG

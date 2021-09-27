@@ -1301,31 +1301,30 @@ PS00855,汾阴行,,zh,P1055,G09,PL0999,19xx,unknown,,,,,,,,check again,2020-02-0
 PS00857,Silent Spring,,en,P1063,G80,PL0269,1962,,1979,,,,,,,,2020-02-14,MG,2020-02-14,MG
 PS00857,寂静的春天,,zh,P1063,G80,PL0269,1962,,1979,,,,,,,,2020-02-14,MG,2020-02-14,MG
 PS00858,Journal of Astrophysics,,en,I0999,G19,PL0999,19xx,unknown,,,,,,F,,,2020-02-14,MG,2020-02-14,MG
-PS09999,unknown,unknown,en,P0999,G99,PL0999,unknown,unknown,,,,,,,,,2018-04-10,MG,2018-11-12,LH
 PS00860,Love of Life,,en,P0686,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,,2020-05-16,MG,2020-05-16,MG
 PS00860,生命之爱,,zh,P0686,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,,2020-05-16,MG,2020-05-16,MG
 PS00861,Short Song,,en,P1049,G10,,,,,,PS00862,,,,,,2020-05-16,MG,2020-05-19,MG
 PS00861,短歌行,,zh,P1049,G10,,,,,,PS00862,,,,,,2020-05-16,MG,2020-05-19,MG
 PS00862,Cao Cao ji,,en,P1049,G28,PL0002,1959,Zhonghua shuju,,,,,,,,,2020-05-19,MG,2020-05-19,MG
-PS00862,曹操集 ,,zh,P1049,G28,PL0002,1959,Zhonghua shuju,,,,,,,,,2020-05-19,MG,2020-05-19,MG
+PS00862,曹操集,,zh,P1049,G28,PL0002,1959,Zhonghua shuju,,,,,,,,,2020-05-19,MG,2020-05-19,MG
 PS00863,New Chinese Dictionary,,en,P1074,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,,2020-05-28,MG,2020-05-28,MG
-PS00863,Xinhua Zidian,,zh-Latn-pinyin,P1074,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,,2020-05-28,MG,2020-05-28,MG
 PS00863,新华字典,,zh,P1074,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,,2020-05-28,MG,2020-05-28,MG
+PS00863,Xinhua Zidian,,zh-Latn-pinyin,P1074,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,,2020-05-28,MG,2020-05-28,MG
 PS00864,Selected Works of Lenin,,en,P0182,G28,PL0093,1949,Dongbei shudian,,,,,,,,,2020-06-18,MG,2020-06-18,MG
 PS00864,列宁选集,,zh,P0182,G28,PL0093,1949,Dongbei shudian,,,,,,,,,2020-06-18,MG,2020-06-18,MG
 PS00865,Required Reading for Cadres,,en,P0999,G26,PL0002,1950,Jiefang she,,,,,,,,,2020-06-18,MG,2020-06-18,MG
 PS00865,干部必读,,zh,P0999,G26,PL0002,1950,Jiefang she,,,,,,,,,2020-06-18,MG,2020-06-18,MG
 PS00866,Quotations from Vice-Chairman Lin Biao,,en,P1081,G88,PL0002,1969,unknown,,,,,,,,,2020-06-18,MG,2020-06-18,MG
 PS00866,副主席林彪语录,,zh,P1081,G88,PL0002,1969,unknown,,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00867,Talk at a Conference of Representatives of Anwhei Who Have Come to Beijing,,en,P1087,G27,,,,,,PS00868,,520-534 ,,,,2020-06-30,MG,2020-06-30,MG
-PS00868,CCP Documents of the Great Proletarian Cultural Revolution,1966-1967,en,P0999,G26,PL0017,1968,Union Research Institute,,,,,,,, Add Chinese original,2020-06-30,MG,2020-06-30,MG
-PS00869,论持久战,,zh,P0174,G27,,,,,,PS00475,Vol. 2,,,,,2020-09-28,MG,2020-09-28,MG
+PS00867,Talk at a Conference of Representatives of Anwhei Who Have Come to Beijing,,en,P1087,G27,,,,,,PS00868,,520-534,,,,2020-06-30,MG,2020-06-30,MG
+PS00868,CCP Documents of the Great Proletarian Cultural Revolution,1966-1967,en,P0999,G26,PL0017,1968,Union Research Institute,,,,,,,,Add Chinese original,2020-06-30,MG,2020-06-30,MG
 PS00869,On Protracted War,,en,P0174,G27,,,,,,PS00475,Vol. 2,,,,,2020-09-28,MG,2020-09-28,MG
+PS00869,论持久战,,zh,P0174,G27,,,,,,PS00475,Vol. 2,,,,,2020-09-28,MG,2020-09-28,MG
 PS00870,The Newcomer,The Manager of an MTS and the Chief Agronomist,en,P1093,G04,,1954?,,,,,,,,,Chinese title should be added,2021-01-16,MG,2021-01-16,MG
 PS00870,Повесть о директоре МТС и главном агрономе,,ru,P1093,G04,,1954?,,,,,,,,,Chinese title should be added,2021-01-16,MG,2021-01-16,MG
 PS00871,And Quiet Flows The Don,,en,P0439,G04,PL0003,1952,Guangming shuju,1931,,,,,,,,2021-01-18,MG,2021-01-18,MG
 PS00871,静静的顿河,,zh,P0439,G04,PL0003,1952,Guangming shuju,1931,,,,,,,,2021-01-18,MG,2021-01-18,MG
-PS00872,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern,,de,P0999,G75,PL0999,1949..1955,unknown,,,,,,,,check the Chinese translation ,2021-01-18,MG,2021-01-18,MG
+PS00872,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern,,de,P0999,G75,PL0999,1949..1955,unknown,,,,,,,,check the Chinese translation,2021-01-18,MG,2021-01-18,MG
 PS00873,1984,,en,P1122,G07,PL0020,1998,Liao ning jiao yu chu ban she,1953,,,,,,first Chinese version published in Hongkong: Dong fang chubanshe,,2021-03-12,MG,2021-04-06,MG
 PS00873,一九八四,,zh,P1122,G07,PL0020,1998,Liao ning jiao yu chu ban she,1953,,,,,,first Chinese version published in Hongkong: Dong fang chubanshe,,2021-03-12,MG,2021-04-06,MG
 PS00874,Paradise Lost,,en,P1127,G10,PL0002,1958,Renmin wenxue chubanshe,1667,,,,,,,,2021-03-15,MG,2021-03-15,MG
@@ -1337,7 +1336,7 @@ PS00876,金剛般若波羅蜜經論,,zh,P0999,G29,PL0002,1989,Wenwu chubanshe,,,
 PS00877,The Crystal Spheres,,en,P1161,G07,,,,,,PS00931,,,,,,2021-06-07,MG,2021-07-27,MG
 PS00877,水晶球,,zh,P1161,G07,,,,,,PS00931,,,,,,2021-06-07,MG,2021-07-27,MG
 PS00878,Restaurant at The End of The Universe,,en,P1164,G07,PL0004,2005,Sichuan kexue jishu chubanshe,,,,,,,,,2021-06-09,MG,2021-06-12,MG
-PS00878,宇宙尽头的餐馆 ,,zh,P1164,G07,PL0004,2005,Sichuan kexue jishu chubanshe,,,,,,,,,2021-06-09,MG,2021-06-12,MG
+PS00878,宇宙尽头的餐馆,,zh,P1164,G07,PL0004,2005,Sichuan kexue jishu chubanshe,,,,,,,,,2021-06-09,MG,2021-06-12,MG
 PS00879,Huainanzi,,en,P0999,G28,PL0002,1978,Guancang zhongwen ziyuan,-0139,,,,,,,,2021-06-14,MG,2021-07-27,MG
 PS00879,淮南子,,zh,P0999,G28,PL0002,1978,Guancang zhongwen ziyuan,-0139,,,,,,,,2021-06-14,MG,2021-07-27,MG
 PS00880,Odyssey,,en,P1173,G11,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,,2021-06-14,MG,2021-06-14,MG
@@ -1345,13 +1344,13 @@ PS00880,奥德赛,,zh,P1173,G11,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,,
 PS00881,Xunzi,,en,P0999,G29,PL0003,1959,Shanghai renmin chubanshe,,,,,,,,,2021-06-15,MG,2021-06-15,MG
 PS00881,荀子,,zh,P0999,G29,PL0003,1959,Shanghai renmin chubanshe,,,,,,,,,2021-06-15,MG,2021-06-15,MG
 PS00882,The Guinness Book of World Records,,en,P0999,G86,PL0003,1988,Shanghai wenhua chubanshe,,,,,,,published in English from 1955 – present,,2021-06-15,MG,2021-06-16,MG
-PS00882,吉尼斯世界纪录 ,,zh,P0999,G86,PL0003,1988,Shanghai wenhua chubanshe,,,,,,,published in English from 1955 – present,,2021-06-16,MG,2021-06-16,MG
+PS00882,吉尼斯世界纪录,,zh,P0999,G86,PL0003,1988,Shanghai wenhua chubanshe,,,,,,,published in English from 1955 – present,,2021-06-16,MG,2021-06-16,MG
 PS00883,Three Alls Policy,,en,P0999,G87,PL0999,,,,,,,,,,,2021-06-15,MG,2021-06-16,MG
 PS00883,三光政策,,zh,P0999,G87,PL0999,,,,,,,,,,,2021-06-16,MG,2021-06-16,MG
 PS00884,The Hitchhiker’s Guide to The Universe,,en,P1164,G07,PL0003,2011,Shanghai yiwen chubanshe,,,,,,,,,2021-06-21,MG,2021-06-21,MG
 PS00884,银河系搭车客指南,,zh,P1164,G07,PL0003,2011,Shanghai yiwen chubanshe,,,,,,,,,2021-06-21,MG,2021-06-21,MG
 PS00885,Call to Arms,,en,P0001,G28,PL0002,1973,Renmin wenxue chubanshe,,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00885,呐喊 ,,zh,P0001,G28,PL0002,1973,Renmin wenxue chubanshe,,,,,,,,,2021-06-21,MG,2021-06-21,MG
+PS00885,呐喊,,zh,P0001,G28,PL0002,1973,Renmin wenxue chubanshe,,,,,,,,,2021-06-21,MG,2021-06-21,MG
 PS00886,Mathematical Principles of Natural Philosophy,,en,P1136,G99,PL0003,1931,Shang wu yin shu guan,,,,,,,,,2021-06-21,MG,2021-06-21,MG
 PS00886,自然哲学的数学原理,,zh,P1136,G99,PL0003,1931,Shang wu yin shu guan,,,,,,,,,2021-06-21,MG,2021-06-21,MG
 PS00887,As if in a dream,a song,en,P0409,G10,PL0999,,unknown,,,,,,,,check later,2021-06-21,MG,2021-07-23,MG
@@ -1380,13 +1379,13 @@ PS00901,Abhandlung über die Bildung von Hautexzemen,,de,P0999,G19,PL0999,,unkno
 PS00902,Sporenlehre,,de,P0999,G19,PL0999,,unknown,,,,,,F,,,2021-07-09,MG,2021-07-09,MG
 PS00903,Oxford English Dictionary,,en,P0999,G57,PL0679,,Oxford Universtity Press,,,,,,,,,2021-07-09,MG,2021-07-09,MG
 PS00904,In His Image,The Cloning of a Man,en,P1231,G99,PL0002,1980,Kexue chubanshe,,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00904,人的複制 ,一个人的无性生殖,zh,P1231,G99,PL0002,1980,Kexue chubanshe,,,,,,,,,2021-07-09,MG,2021-07-09,MG
+PS00904,人的複制,一个人的无性生殖,zh,P1231,G99,PL0002,1980,Kexue chubanshe,,,,,,,,,2021-07-09,MG,2021-07-09,MG
 PS00905,Alice’s Travel,,en,P1232,G07,PL0999,,,,,,,,,,or Alice in outer space? Check again,2021-07-09,MG,2021-07-25,MG
 PS00906,Confessions of a Murderer,Told in One Night,en,P1237,G04,PL0036,1937,London Hale,,,,,,,,Chinese edition?,2021-07-10,MG,2021-07-10,MG
 PS00906,我是杀人犯,,zh,P1237,G04,PL0036,1937,London Hale,,,,,,,,not sure about Chinese title,2021-07-10,MG,2021-07-10,MG
 PS00907,The Road to Riches,or The Wealth of Men,en,P1278,G89,PL0002,2005,Guoji wen hua chu ban gong si,,,,,,,,,2021-07-10,MG,2021-07-25,MG
 PS00907,财富的历程,,zh,P1278,G89,PL0002,2005,Guoji wen hua chu ban gong si,,,,,,,,,2021-07-25,MG,2021-07-25,MG
-PS00908,Love on The Isle of God,,en,P0999,G04,PL0999,,unknown,,,,,,,,please check ,2021-07-10,MG,2021-07-25,MG
+PS00908,Love on The Isle of God,,en,P0999,G04,PL0999,,unknown,,,,,,,,please check,2021-07-10,MG,2021-07-25,MG
 PS00909,World Art,Magazine of Contemporary Visual Arts,en,P0999,G52,PL0699,1994,World Art,,,,,,,,,2021-07-10,MG,2021-07-25,MG
 PS00910,River Snow,,en,P1247,G10,,,,,,PS00917,,,,,,2021-07-11,MG,2021-07-11,MG
 PS00910,江雪,,zh,P1247,G10,,,,,,PS00917,,,,,,2021-07-11,MG,2021-07-11,MG
@@ -1406,9 +1405,9 @@ PS00917,Three Hundred Tang Poems,,en,P0738,G28,PL0002,1956,Wenxue guji kanxing s
 PS00917,唐詩三百首,,zh,P0738,G28,PL0002,1956,Wenxue guji kanxing she,,,,,,,,,2021-07-11,MG,2021-07-11,MG
 PS00918,Theory of Moral Sentiments,,en,P1252,G29,PL0002,1997,Shang wu yin shu guan,,,,,,,,,2021-07-14,MG,2021-07-14,MG
 PS00918,道德情操论,,zh,P1252,G29,PL0002,1997,Shang wu yin shu guan,,,,,,,,,2021-07-14,MG,2021-07-14,MG
-PS00919,The Orphans,,en,P0999,G07,PL0999,,unknown,,,,,,,,please check ,2021-07-14,MG,2021-07-23,MG
+PS00919,The Orphans,,en,P0999,G07,PL0999,,unknown,,,,,,,,please check,2021-07-14,MG,2021-07-23,MG
 PS00920,Rumpelstilzchen,,de,P0246,G08,,,,,,PS00217,,,,,,2021-07-14,MG,2021-07-14,MG
-PS00920,Rumpelstiltskin ,,en,P0246,G08,,,,,,PS00217,,,,,,2021-07-14,MG,2021-07-14,MG
+PS00920,Rumpelstiltskin,,en,P0246,G08,,,,,,PS00217,,,,,,2021-07-14,MG,2021-07-14,MG
 PS00920,名字古怪的小矮人兒,,zh,P0246,G08,,,,,,PS00217,,,,,,2021-07-14,MG,2021-07-14,MG
 PS00921,The Book of Songs,,en,P0186,G28,PL0002,1999,Zhongguo wen shi chu ban shi,,,,,,,,,2021-07-19,MG,2021-07-19,MG
 PS00921,诗经,,zh,P0186,G28,PL0002,1999,Zhongguo wen shi chu ban shi,,,,,,,,,2021-07-19,MG,2021-07-19,MG
@@ -1428,4 +1427,5 @@ PS00928,Cannibalism,,en,P0999,G99,PL0999,,unknown,,,,,,,,,2021-07-23,MG,2021-07-
 PS00928,吃人,,zh,P0999,G99,PL0999,,unknown,,,,,,,,,2021-07-23,MG,2021-07-23,MG
 PS00929,水彩画技法,,zh,P0999,G99,PL0999,,unknown,,,,,,,,,2021-07-23,MG,2021-07-23,MG
 PS00930,电子线路人门,,zh,P0999,G99,PL0999,,unknown,,,,,,,,,2021-07-23,MG,2021-07-23,MG
-PS00931,Mang mang tai kong xun zhi yin : mei guo you xiu ke huan ziao shuo xuan ,,zh-Latn-pinyin,P0999,G28,PL0100,1990,Shao nian er tong chubanshe,,,,,,,,,2021-07-23,MG,2021-07-23,MG
+PS00931,Mang mang tai kong xun zhi yin : mei guo you xiu ke huan ziao shuo xuan,,zh-Latn-pinyin,P0999,G28,PL0100,1990,Shao nian er tong chubanshe,,,,,,,,,2021-07-23,MG,2021-07-23,MG
+PS09999,unknown,unknown,en,P0999,G99,PL0999,unknown,unknown,,,,,,,,,2018-04-10,MG,2018-11-12,LH
