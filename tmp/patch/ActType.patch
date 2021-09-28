@@ -1,0 +1,35 @@
+@@,action_id,action_name,note,created,created_by,last_modified,last_modified_by
+...,...,...,...,...,...,...,...
+,AT34,to imitate,e.g. a copybook for calligraphy,2018-11-25,WH,2018-11-25,WH
+->,AT40,to sing->to call for,,2018-11-18,MG,2018-11-18->2018-11-22,MG
+,AT41,to direct,e.g. a movie or a play,2018-12-23,WH,2018-12-23,WH
+...,...,...,...,...,...,...,...
+,AT44,to find,,2019-03-09,MG,2019-03-09,MG
+->,AT45,to stick on a towel->to implicitly mention,->only for intertextual references,2021-02-17->2019-06-26,MG,2021-02-17->2019-06-26,MG
++++,AT46,to burn,,2019-08-03,MG,2019-08-03,MG
++++,AT47,to retell,,2019-08-03,MG,2019-08-03,MG
++++,AT48,to steal,,2019-08-03,MG,2019-08-03,MG
++++,AT49,to evaluate,,2019-11-08,MG,2019-11-08,MG
++++,AT50,to criticize,,2019-11-08,MG,2019-11-08,MG
++++,AT51,to worship,,2019-11-08,MG,2019-11-08,MG
++++,AT52,to title,,2019-11-09,MG,2019-11-09,MG
++++,AT53,to disfigure,,2019-11-18,MG,2019-11-18,MG
++++,AT54,to turn against,,2019-11-22,MG,2019-11-22,MG
++++,AT55,to read out,,2019-11-22,MG,2019-11-22,MG
++++,AT56,to study,,2019-11-22,MG,2019-11-22,MG
++++,AT57,planning to read,,2019-12-05,MG,2019-12-05,MG
++++,AT58,planning to read collectively,act_target: reading partner(s),2019-12-05,MG,2019-12-05,MG
++++,AT59,to lecture,,2020-02-06,MG,2020-02-06,MG
+->,AT35->AT60,to read in a group,,2019-03-08,LH,2020-04-11->2019-11-18,DP->MG
++++,AT61,to recommend,,2020-02-07,MG,2020-02-07,MG
++++,AT62,being arrested for reading,,2020-02-24,MG,2020-02-24,MG
++++,AT63,to own,,2020-05-28,MG,2020-05-28,MG
++++,AT64,to flip through,,2020-05-31,MG,2020-05-31,MG
++++,AT65,to bring along,e.g. to rustication,2020-06-27,MG,2020-06-27,MG
++++,AT66,to look at,,2020-06-27,MG,2020-06-27,MG
++++,AT67,to keep as souvenir,,2020-07-08,MG,2020-07-08,MG
++++,AT68,to teach,,2021-06-21,MG,2021-06-21,MG
++++,AT69,to take along,,2021-07-09,MG,2021-07-09,MG
++++,AT70,to play,,2021-07-09,MG,2021-07-09,MG
++++,AT71,to have access to,,2021-07-10,MG,2021-07-10,MG
++++,AT90,to bet about,,2020-05-31,MG,2021-07-31,MG
