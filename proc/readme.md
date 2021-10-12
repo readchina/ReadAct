@@ -18,7 +18,7 @@ E.g. `Act_p5a.csv`
 
 Some manual intervention is still required, so the steps necessary for reproduction are listed below for each table. In principle, we focus on *insertions* from `_lit` into `_main` . To generate the patch files.
 
-Ignored columns will receive `NULL` entries, which can be cleaned up. In general, no `a` type patch should delete columns from `main` tables, the reverse can happen. The patch that was used to generate the output should be stored and committed into the repo.
+Ignored columns will receive `NULL` entries in the output table, which can be cleaned up. In general, no `a` type patch should delete columns from `main` tables, the reverse can happen. The patch that was used to generate the output should be stored and committed into the repo. Lastly, the data from ignore columns might need to be added in a separate patch to another target table. 
 
 ## Out
 
@@ -26,9 +26,20 @@ The output approaches the form of the new table for the `main` branch, but can s
 
 ### Act
 
+`source_status` has been deprecated, `site_information` is unique to `main`
+
 ```shell
 daff diff --act insert --ignore site_information --ignore source_status --ignore id_lang Act_main.csv Act_lit.csv > patch/Act_p5a.csv
 daff patch Act_main.csv patch/Act_p5a.csv > out/Act_p5.csv
+```
+
+### ArtWork
+
+Creator and commentary need to go to `works.csv`
+
+```shell
+daff diff --act insert --ignore creator --ignore commentary ArtWork_main.csv ArtWork_lit.csv > patch/ArtWork_p2a.csv
+daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ```
 
 ## Cleanup
@@ -40,5 +51,9 @@ daff patch Act_main.csv patch/Act_p5a.csv > out/Act_p5.csv
 
 ### Act
 
-- extend structural `id_lang` entries
- 
+- extend structural `id_lang` to `lit` entries
+- check `site_information` for `lit` entries
+
+### ArtWork
+
+- create primary keys for new art works in `work.csv` 
