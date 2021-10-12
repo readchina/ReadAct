@@ -76,10 +76,18 @@ daff patch Space_main.csv patch/Space_p4a.csv > out/Space_p4.csv
 daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
 ```
 
-
 ### Narrative Position
 
 New file from `lit` branch, simple copy to target.
+
+### Person
+Ignore rustication columns, it is it's own table, but check entries against `Rustication.csv` first.
+Also weird entries like `P0063` in Person similar to Institution, check once more whats going there.
+
+
+```shell
+daff diff --act insert Person_main.csv Person_lit.csv > patch/Person_p1a.csv
+```
 
 ## Cleanup
 
@@ -88,20 +96,24 @@ New file from `lit` branch, simple copy to target.
 - Delete all `NULL` strings.
 - sort by primary key (and lang column where present)
 
-### Act
+### Act_p
 
 - extend structural `id_lang` to `lit` entries
 - check `site_information` for `lit` entries
 
-### ArtWork
+### ArtWork_p
 
 - create primary keys for new art works in `work.csv` 
 
-### Institution
+### Institution_p
 
 - Delete `I0004`, `I0006`, and `I0007` additions from patched output.
 - refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
 
-### Narrative Position
+### Space_p
+
+- more careful handling of `NULL` entries necessary, also check for unknown place/location id
+
+### NarrativePosition_p
 
 - update csv schema and data-dictionary for narrative position table.
