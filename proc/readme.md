@@ -42,6 +42,16 @@ daff diff --act insert --ignore creator --ignore commentary ArtWork_main.csv Art
 daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ```
 
+### Institution
+
+`commentary` contains no entries, the column moved to works
+
+```shell
+daff diff --act insert --ignore commentary Institution_main.csv Institution_lit.csv > patch/Institution_p2a.csv
+daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.csv
+```
+
+
 ## Cleanup
 
 - Create new primary keys according to new `id` scheme.
@@ -57,3 +67,8 @@ daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ### ArtWork
 
 - create primary keys for new art works in `work.csv` 
+
+### Institution
+
+- Delete `I0004`, `I0006`, and `I0007` additions from patched output.
+- refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.

@@ -1,0 +1,33 @@
+!,,,,,,,,,,+++,,,,,,,
+@@,inst_id,inst_name,inst_name_lang,place,start,end,alt_start,alt_end,inst_alt_name,commentary,note,source,page,created,created_by,last_modified,last_modified_by
+...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
+,AG0630,Central Committee of the Communist Party in China,en,SP0005,1921,,,,,,,,,2017-12-23,OS,2020-04-02,DP
++++,I0004,中国共产党中央委员会,zh,PL0002,1921,,,,,,,,,2017-12-23,OS,2018-02-06,MG
+,AG0630,中国共产党中央委员会,zh,SP0005,1921,,1921,1922,中国共产党中央局,,,,,2018-02-05,MG,2020-04-02,DP
++++,I0004,中国共产党中央委员会,zh,PL0002,1921,,1922,1927,中国共产党中央执行委员会,,,,,2018-02-05,MG,2018-02-05,MG
+,AG0631,Baiyangdian literary society,en,SP0025,1968,1976,,,,,,,,2018-01-30,OS,2020-04-02,DP
+,AG0631,白洋淀派,zh,SP0025,1968,1976,,,,,,,,2018-01-30,OS,2020-04-02,DP
++++,I0006,School of Foreign Studies,en,PL0090,1917,,,,,Nanjing University,,,,2018-02-22,MG,2018-02-22,MG
+,AG0632,School of Foreign Studies,en,SP0093,1917,,1938,1993,Department of Foreign Languages and Literatures,Nanjing University,,,,2018-02-22,MG,2020-04-02,DP
++++,I0007,Beijing No. 4 High School,en,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
+,AG0633,Beijing No. 4 High School,en,SP0005,1906,,1911,1949,Capital Public No. 4 Secondary School,,,,,2018-02-22,MG,2020-04-02,DP
++++,I0007,北京市第四中学,zh,PL0002,1906,,,,,,,,,2018-02-22,MG,2018-02-22,MG
+,AG0633,北京市第四中学,zh,SP0005,1906,,1911,1949,京师公立第四中学,,,,,2018-02-22,MG,2020-04-02,DP
+...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
+,AG0654,世界经济研究所,zh,SP0006,1964,,1964,197x,复旦大学资本主义国家经济研究所,,,http://www.fudan.edu.cn/entries/view/129/,,2019-06-15,WH,2020-04-02,DP
++++,I0118,Narratorial voices in ‚Balzac et la Petite Tailleuse Chinoise‘,en,PL0999,,,,,,,,SS00263,,2019-08-03,MG,2019-10-13,DP
++++,I0119,Li Yizhe group,en,PL0999,,,,,,,,SS00255,,2019-12-05,MG,2019-12-05,MG
++++,I0120,Teacher Zhang‘s Class,en,PL0999,1977,,,,,,,SS00267,,2019-12-05,MG,2019-12-05,MG
++++,I0121,Great Production News,en,PL0999,,,,,,,,SS00601,,2020-02-14,MG,2020-02-14,MG
++++,I0130,The Talking Club,en,PL0999,2046,,,,,,Fictional,SS00665,,2021-03-12,MG,2021-03-12,MG
++++,I0131,Future Daily,en,PL0999,,,,,,,Fictional,SS00655,,2021-04-23,MG,2021-04-23,MG
++++,I0132,China State Construction Engineering Corporation (CSCEC),en,PL0002,1957,,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2021-07-10,MG
++++,I0132,中国建筑集团有限公司,zh,PL0002,1957,,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2021-07-10,MG
++++,I0133,Herzog & de Meuron,en,PL0682,1978,,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2021-07-10,MG
++++,I0133,赫爾佐格和德梅隆,zh,PL0682,1978,,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2021-07-10,MG
++++,I0134,OMA,en,PL0683,1975,,,,,,,https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture,,2021-07-10,MG,2021-07-10,MG
++++,I0135,NASA,en,PL0238,1958,,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2021-07-10,MG
++++,I0135,美国国家航空航天局,zh,PL0238,1958,,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2021-07-10,MG
++++,I0136,Fujiko Fujio,en,PL0325,1954,1987,,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2021-07-20,MG
++++,I0136,藤子不二雄,zh,PL0325,1954,1987,,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2021-07-20,MG
++++,I0137,Google LLC,en,PL0698,1998,,1998,2017,Google Inc.,,,https://en.wikipedia.org/wiki/Google,,2021-07-21,MG,2021-07-21,MG
