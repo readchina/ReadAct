@@ -51,6 +51,35 @@ daff diff --act insert --ignore commentary Institution_main.csv Institution_lit.
 daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.csv
 ```
 
+### Location and Place
+
+Rename:  `Location.`:
+-  `loc_id` -> `old_id`
+-  `loc_name` -> `space_name`
+-  `loc_name_lang` -> `name_lang`
+
+RenameL 'Place.`:
+-  `place_id` -> `old_id`
+-  `place_name` -> `space_name`
+
+to match `Space.csv`.
+
+```shell
+daff diff --act insert Space_main.csv Location_lit.csv > patch/Space_p4a.csv
+daff diff --act insert Space_main.csv Place_lit.csv > patch/Space_p5a.csv
+```
+
+Replace all `---` action column entries with `...` in both patch tables, then
+
+```shell
+daff patch Space_main.csv patch/Space_p4a.csv > out/Space_p4.csv
+daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
+```
+
+
+### Narrative Position
+
+New file from `lit` branch, simple copy to target.
 
 ## Cleanup
 
@@ -72,3 +101,7 @@ daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.c
 
 - Delete `I0004`, `I0006`, and `I0007` additions from patched output.
 - refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
+
+### Narrative Position
+
+- update csv schema and data-dictionary for narrative position table.

@@ -1,0 +1,11 @@
+!,...,,,...,,...,...,...,,,,
+@@,space_id,old_id,space_name,space_type,name_lang,lat,...,note,created,created_by,last_modified,last_modified_by
+...,...,...,...,...,...,...,...,...,...,...,...,...
+,SP0003,L0003,book store,L,en,0.0,...,,2018-07-30,MG,2020-04-05,DP
++++,NULL,L0004,session of international intelligence experts,NULL,en,NULL,...,NULL,2020-02-24,MG,2020-02-24,MG
++++,NULL,L0005,rural middle school,NULL,en,NULL,...,NULL,2020-05-28,MG,2020-05-28,MG
++++,NULL,L0010,the State,NULL,en,NULL,...,NULL,2021-03-12,MG,2021-03-12,MG
++++,NULL,L0011,restaurant,NULL,en,NULL,...,NULL,2021-06-12,MG,2021-06-12,MG
++++,NULL,L0012,lecture hall,NULL,en,NULL,...,NULL,2021-06-12,MG,2021-06-12,MG
++++,NULL,L0013,zhang li river,NULL,en,NULL,...,NULL,2021-06-14,MG,2021-06-14,MG
++++,NULL,L0014,university,NULL,en,NULL,...,NULL,2021-07-09,MG,2021-07-09,MG
