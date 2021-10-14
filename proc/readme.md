@@ -87,6 +87,7 @@ Also weird entries like `P0063` in Person similar to Institution, check once mor
 
 ```shell
 daff diff --act insert Person_main.csv Person_lit.csv > patch/Person_p1a.csv
+daff diff --act insert --ignore rustication_start --ignore rustication_end --ignore place_of_rust --ignore alt_name_lang Person_main.csv Person_lit.csv > patch/Person_p2a.csv
 ```
 
 ## Cleanup
