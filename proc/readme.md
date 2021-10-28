@@ -88,12 +88,18 @@ daff diff --act insert Person_main.csv Person_lit.csv > patch/Person_p1a.csv
 daff diff --act insert --ignore rustication_start --ignore rustication_end --ignore place_of_rust --ignore alt_name_lang Person_main.csv Person_lit.csv > patch/Person_p2a.csv
 ```
 
-Manually remove Lines 4-38, and new lines 9-18 these contain false positives (such as `P0063`), keep the reordered `AG106` and all new entries with `P0850` or higher. Then apply patch:
+Manually remove Lines 4-38, and then new lines 9-18 these contain false positives (such as `P0063`), keep the reordered `AG106` and all new entries with `P0850` or higher. Then apply patch:
 
 ```shell
 daff patch Person_main.csv patch/Person_p2a.csv > out/Person_p2.csv
 ```
- 
+
+We also need to create main entries for `Agents`. Copy and rename `Person_lit.csv` -> `Agent_lit.csv`. On `Agent_lit` rename: `person_id` -> `old_id`
+
+```shell
+daff
+```
+
 ## Cleanup
 
 - Create new primary keys according to new `id` scheme.
