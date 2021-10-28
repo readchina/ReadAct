@@ -1,56 +1,10 @@
 !,,,,,,,,,,,,+++,,,,,,+++,+++,+++,,,,,
 @@,person_id,family_name,first_name,name_lang,sex,rustication,birthyear,deathyear,alt_name,place_of_birth,social_position,narrative_age,neibu_access,source_1,page_1,source_2,page_2,fictionality,narrative_status,commentary,note,created,created_by,last_modified,last_modified_by
 ...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0061,叶,华,zh,female,0,1911,2001,,SP0197,,,,W0440,,https://en.wikipedia.org/wiki/Eva_Sandberg_Xiao,,,,,Third source: https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%8D%8E_(%E8%90%A7%E4%B8%89%E5%A4%AB%E4%BA%BA),2017-07-05,LH,2020-04-02,DP
-+++,P0063,Nanchu,,en,female,yes,1953,,,,,,yes,SS00003,196f,https://viaf.org/viaf/263815550/,,,,,"DP: this is an en pen-name by an expat living in the US, no translations or authoritative sources for transliteration are available",2017-07-05,LH,2018-08-20,DP
-+++,P0063,Nanchu,,zh,female,yes,1953,,,,,,yes,SS00003,196f,https://viaf.org/viaf/263815550/,,,,,"DP: this is an en pen-name by an expat living in the US, no translations or authoritative sources for transliteration are available",2017-07-05,LH,2018-08-20,DP
-,AG0063,Gao,Yuan,en,male,3,1952,XXXX,,SP0335,,,,W0451,5ff.,,,,,,Could not exactly locate Shuiyuan. Somewhere close to the Taihang mountains.,2017-07-05,LH,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0147,凌老师,,zh,female,0,XXXX,XXXX,,SP0436,,,,W0420,136?,,,,,worked in the reference department of Jiangsu Provincial Song and Dance Troupe,,2017-10-03,MG,2020-04-02,DP
-+++,P0172,anon,Zhenzhen,en,unknown,NULL,,,,,,,,http://none,,,,,,,CHECK GENDER,2017-10-03,MG,2018-11-01,MG
-,AG0149,Liu,Nina,en,female,3,XXXX,XXXX,,SP0436,,,,W0420,137,,,,,,,2017-10-03,MG,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0199,Trotsky,Leon,en,male,0,1879,1940,,SP0130,,,,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,,,2018-02-01,OS,2020-04-02,DP
-+++,P0223,Троцкий,Лев,ru,male,NULL,1879,1940,NULL,PL0128,NULL,,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,,,2018-02-01,OS,2018-02-01,OS
-+++,P0223,托洛茨基,列夫,zh,male,NULL,1879,1940,NULL,PL0128,NULL,,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE Source,,,,,,,2018-02-01,OS,2018-02-01,OS
-,AG0200,Bukharin,Nikolai,en,male,0,1888,1938,,SP0030,,,,https://en.wikipedia.org/wiki/Nikolai_Bukharin,ONLINE Source,,,,,,,2018-02-01,OS,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0296,Zhu,Qiluan,en,male,2,1914,1990,,SP0226,,,,W0513,5,,,,,,,2018-04-03,MG,2020-04-02,DP
-+++,P0334,朱,,zh,male,no,1914,1990,NULL,PL0239,NULL,,NULL,SS00269,5,,,,,,,2018-04-03,MG,2018-04-03,MG
-,AG0297,Frank,Anne,en,female,0,1929,1945,Anneliese Marie Frank,SP0227,,,,https://en.wikipedia.org/wiki/Anne_Frank,ONLINE SOURCE,,,,,,,2018-04-03,MG,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0307,Zhu,,en,female,1,1948,XXXX,,SP0436,S00,,yes,W0513,9,,,,,rusticated in the south of Anhui province,,2018-04-06,MG,2020-04-02,DP
-+++,P0345,朱,,zh,female,yes,1948,,NULL,PL0999,unknown,,yes,SS00269,9,,,,,rusticated in the south of Anhui province,,2018-04-06,MG,2018-11-13,MG
-,AG0308,ঠাকুর,রবীন্দ্রনাথ,bn,male,0,1861,1941,,SP0235,,,,https://en.wikipedia.org/wiki/Rabindranath_Tagore,ONLINE SOURCE,,,,,,,2018-04-09,MG,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0312,Trostky,Leon,en,male,0,1879,1940,Lev Davidovich Bronstein,SP0130,,,,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,,,2018-05-08,MG,2020-04-02,DP
-+++,P0350,Троцкий,Лев,ru,male,NULL,1879,1940,NULL,PL0128,NULL,,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,,,2018-05-08,MG,2018-05-08,MG
-+++,P0350,托洛茨基,列夫,zh,male,NULL,1879,1940,NULL,PL0128,NULL,,NULL,https://en.wikipedia.org/wiki/Leon_Trotsky,ONLINE SOURCE,,,,,,,2018-05-08,MG,2018-05-08,MG
-,AG0313,Troyepolsky,Gavriil,en,male,0,1905,1995,,SP0236,,,,https://en.wikipedia.org/wiki/Gavriil_Troyepolsky,ONLINE SOURCE,,,,,,,2018-05-08,MG,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0358,帕乌斯托夫斯基,康斯坦丁,zh,male,0,1892,1968,,SP0030,,,,https://en.wikipedia.org/wiki/Konstantin_Paustovsky,ONLINE SOURCE,,,,,,,2018-06-11,MG,2020-04-02,DP
-+++,P0397,Ma,Xinglin,en,unknown,unknown,unknown,unknown,NULL,PL0999,NULL,,NULL,SS00154,542,,,,,,,2018-06-11,MG,2018-11-13,MG
-,AG0360,Pasternak,Boris Leonidovich,en,male,0,1890,1960,,SP0030,,,,https://en.wikipedia.org/wiki/Boris_Pasternak,ONLINE SOURCE,,,,,,,2018-06-11,MG,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0395,沈,尹默,zh,male,3,1883,1971,沈君默,SP0296,S03,,unknown,https://zh.wikipedia.org/zh-hans/%E6%B2%88%E5%B0%B9%E9%BB%98,ONLINE SOURCE,,,,,,,2018-08-06,DM,2020-04-02,DP
-+++,P0434,Gao,Mobo,en,male,unknown,1952,,Gao Changfang,PL0310,S03,,unknown,https://en.wikipedia.org/wiki/Gao_Mobo,ONLINE SOURCE,,,,,,,2018-08-06,DM,2018-08-06,DM
-+++,P0434,高,默波,zh,male,unknown,1952,,高常范,PL0310,S03,,unknown,https://en.wikipedia.org/wiki/Gao_Mobo,ONLINE SOURCE,,,,,,,2018-08-06,DM,2018-08-06,DM
-,AG0397,Shi,Tao,en,male,0,1642,1707,,SP0298,,,,https://zh.wikipedia.org/wiki/%E7%9F%B3%E6%B6%9B,ONLINE SOURCE,,,,,,,2018-08-06,DM,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
 ,AG0506,Gong,Sasha,en,female,1,1956,XXXX,,SP0005,,,,W0511,,,,,,,,2018-10-16,LH,2020-04-02,DP
 :,AG0108,Ke,Xiong,en,unknown,3,XXXX,XXXX,,SP0436,S00,,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,,,2018-11-04,WH,2020-04-02,DP
 :,AG0108,柯,雄,zh,unknown,3,XXXX,XXXX,,SP0436,S00,,unknown,https://baike.baidu.com/item/%E8%8B%8F%E8%81%94%E5%9B%BD%E5%86%85%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F%E7%BA%AA%E4%BA%8B(1953-1973)/15261360,,,,,,,,2018-11-04,WH,2020-04-02,DP
 ,AG0507,Xue,Shanggong,en,male,0,XXXX,XXXX,,SP0099,,,,https://zh.wikipedia.org/wiki/%E8%96%9B%E5%B0%9A%E5%8A%9F,,,,,,,,2018-11-04,WH,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0516,胡,耀邦,zh,male,0,1915,1989,,SP0380,S01,,,https://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6,,,,,,,,2018-11-04,WH,2020-04-02,DP
-+++,P0711,Gao,Mobo,en,male,no,1952,,Gao Changfan,PL0509,NULL,,NULL,https://en.wikipedia.org/wiki/Gao_Mobo,,,,,,,,2018-11-04,WH,2018-11-04,WH
-+++,P0711,高,默波,zh,male,no,1952,,高常范,PL0509,NULL,,NULL,https://en.wikipedia.org/wiki/Gao_Mobo,,,,,,,,2018-11-04,WH,2018-11-04,WH
-,AG0518,Wang,Anyi,en,female,1,1954,XXXX,,SP0093,,,,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%89%E6%86%B6,,,,,,,,2018-11-06,WH,2020-04-02,DP
-...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
-,AG0618,曲,波,zh,male,3,1923,2002,,SP0108,,,unknown,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,,,,2019-03-08,MG,2020-04-02,DP
-+++,P0813,Qu,Yuan,en,male,NULL,-0340,-0278,Lingjun,PL0415,NULL,,NULL,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,,2019-03-08,MG,2019-03-08,MG
-+++,P0813,屈,原,zh,male,NULL,-0340,-0278,灵均,PL0415,NULL,,NULL,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,,2019-03-08,MG,2019-03-08,MG
-,AG0620,Qu,Qiubai,en,male,0,1899,1935,,SP0106,,,,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,,,,2019-03-08,MG,2020-04-02,DP
 ...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...,...
 ,AG0621,托马斯,狄兰,zh,male,0,1914,1953,,SP0371,,,,https://en.wikipedia.org/wiki/Dylan_Thomas,,,,,,,,2019-03-09,MG,2020-04-02,DP
 +++,P0850,Jin,Fan,en,female,unknown,unknown,unknown,Liu Qingfeng,,NULL,,,http://www.baike.com/wiki/靳凡%5B作家%5D,ONLINE SOURCE,,,,,,,2019-03-12,LH,2019-10-13,DP
