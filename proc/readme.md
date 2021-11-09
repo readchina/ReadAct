@@ -58,7 +58,7 @@ Rename:  `Location.`:
 -  `loc_name` -> `space_name`
 -  `loc_name_lang` -> `name_lang`
 
-RenameL 'Place.`:
+Rename 'Place.`:
 -  `place_id` -> `old_id`
 -  `place_name` -> `space_name`
 
@@ -97,15 +97,24 @@ daff patch Person_main.csv patch/Person_p2a.csv > out/Person_p2.csv
 We also need to create main entries for `Agents`. Copy and rename `Person_lit.csv` -> `Agent_lit.csv`. On `Agent_lit` rename: `person_id` -> `old_id`
 
 ```shell
-daff
+daff diff --act insert --id old_id --ignore family_name --ignore first_name --ignore sex --ignore rustication --ignore rustication_start --ignore rustication_end --ignore place_of_rust --ignore birthyear --ignore deathyear --ignore alt_name --ignore alt_name_lang --ignore place_of_birth --ignore social_position --ignore narrative_age --ignore neibu_access --ignore source_1 --ignore page_1 --ignore source_2 --ignore page_2 --ignore fictionality --ignore narrative_status Agent_main.csv Agent_lit.csv > patch/Agent_p4a.csv
 ```
 
+Note: use p4a to later filter `en` names?
+
+```
+daff diff --act insert --id old_id --ignore family_name --ignore first_name --ignore sex --ignore name_lang --ignore rustication --ignore rustication_start --ignore rustication_end --ignore place_of_rust --ignore birthyear --ignore deathyear --ignore alt_name --ignore alt_name_lang --ignore place_of_birth --ignore social_position --ignore narrative_age --ignore neibu_access --ignore source_1 --ignore page_1 --ignore source_2 --ignore page_2 --ignore fictionality --ignore narrative_status Agent_main.csv Agent_lit.csv > patch/Agent_p5a.csv
+```
+Replace all `---` action column entries with `...` in both patch tables
+
+Replace rows p4a_3 - p4a_1302 (this are just the bilingual insertions) with
+`...,...,...,...,...,...,...,...,...,...,...`
 ## Cleanup
 
 - Create new primary keys according to new `id` scheme.
 - Replace old `id` secondary keys with new ones.
 - Delete all `NULL` strings.
-- sort by primary key (and lang column where present)
+- primary sort by ID and secondary by lang
 
 ### Act_p
 
@@ -124,6 +133,9 @@ daff
 ### Space_p
 
 - more careful handling of `NULL` entries necessary, also check for unknown place/location id
+
+### Agent_p
+delete duplicate old_id before proceeding with regular cleanup steps
 
 ### NarrativePosition_p
 
