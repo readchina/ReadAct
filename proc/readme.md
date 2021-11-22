@@ -143,7 +143,9 @@ daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 - more careful handling of `NULL` entries necessary, also check for unknown place/location id
 
 ### Agent_p
-delete duplicate old_id before proceeding with regular cleanup steps
+- delete duplicate old_id before proceeding with regular cleanup steps
+- cleanup (delete) `Agent.name_lang` column
+- ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it) 
 
 ### NarrativePosition_p
 
