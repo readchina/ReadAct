@@ -116,6 +116,12 @@ patch Agent:
 daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 ```
 
+### PrimarySource
+Trace split of `PrimarySource_lit` into `PrimarySource_main` and `Work_main`. 
+
+```
+daff diff --act insert PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p1a.csv 
+```
 
 ## Cleanup
 
