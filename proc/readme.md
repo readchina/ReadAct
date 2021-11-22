@@ -107,8 +107,16 @@ daff diff --act insert --id old_id --ignore family_name --ignore first_name --ig
 ```
 Replace all `---` action column entries with `...` in both patch tables
 
-Replace rows p4a_3 - p4a_1302 (this are just the bilingual insertions) with
+Replace rows `Agent.p4a_5` - `Agent.p4a_1300` (these are just the bilingual insertions) with
 `...,...,...,...,...,...,...,...,...,...,...`
+
+patch Agent:
+
+```
+daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
+```
+
+
 ## Cleanup
 
 - Create new primary keys according to new `id` scheme.
