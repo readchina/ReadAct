@@ -81,6 +81,7 @@ daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
 New file from `lit` branch, simple copy to target.
 
 ### Person
+
 Ignore rustication columns, it is it's own table, but check entries against `Rustication.csv` first.
 
 ```shell
@@ -102,9 +103,10 @@ daff diff --act insert --id old_id --ignore family_name --ignore first_name --ig
 
 Note: use p4a to later filter `en` names?
 
-```
+```shell
 daff diff --act insert --id old_id --ignore family_name --ignore first_name --ignore sex --ignore name_lang --ignore rustication --ignore rustication_start --ignore rustication_end --ignore place_of_rust --ignore birthyear --ignore deathyear --ignore alt_name --ignore alt_name_lang --ignore place_of_birth --ignore social_position --ignore narrative_age --ignore neibu_access --ignore source_1 --ignore page_1 --ignore source_2 --ignore page_2 --ignore fictionality --ignore narrative_status Agent_main.csv Agent_lit.csv > patch/Agent_p5a.csv
 ```
+
 Replace all `---` action column entries with `...` in both patch tables
 
 Replace rows `Agent.p4a_5` - `Agent.p4a_1300` (these are just the bilingual insertions) with
@@ -112,15 +114,21 @@ Replace rows `Agent.p4a_5` - `Agent.p4a_1300` (these are just the bilingual inse
 
 patch Agent:
 
-```
+```shell
 daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 ```
 
 ### PrimarySource
-Trace split of `PrimarySource_lit` into `PrimarySource_main` and `Work_main`. 
+see `ArtWork`, `PrimarySource.author` and `PrimarySource.commentary` need to go to `works.csv`.
 
+```shell
+daff diff --act insert --ignore author --ignore commentary PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p2a.csv 
 ```
-daff diff --act insert PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p1a.csv 
+
+Patch PrimarySource
+
+```shell
+daff patch PrimarySource_main.csv patch/Primary_p2a.csv > out/PrimarySource_p2.csv
 ```
 
 ## Cleanup
@@ -156,3 +164,9 @@ daff diff --act insert PrimarySource_main.csv PrimarySource_lit.csv > patch/Prim
 ### NarrativePosition_p
 
 - update csv schema and data-dictionary for narrative position table.
+
+### Primary- / SecondarySource_p
+- sort first lots of dubious entries
+- Check `PS00207` which should be unknown work? 
+
+- merge three (?) `work.csv` tables
