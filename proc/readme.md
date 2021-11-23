@@ -18,7 +18,7 @@ E.g. `Act_p5a.csv`
 
 Some manual intervention is still required, so the steps necessary for reproduction are listed below for each table. In principle, we focus on *insertions* from `_lit` into `_main` . To generate the patch files.
 
-Ignored columns will receive `NULL` entries in the output table, which can be cleaned up. In general, no `a` type patch should delete columns from `main` tables, the reverse can happen. The patch that was used to generate the output should be stored and committed into the repo. Lastly, the data from ignore columns might need to be added in a separate patch to another target table. 
+Ignored columns will receive `NULL` entries in the output table, which can be cleaned up. In general, no `a` type patch should delete columns from `main` tables, the reverse can happen. The patch that was used to generate the output should be stored and committed into the repo. Lastly, the data from ignore columns might need to be added in a separate patch to another target table.
 
 ## Out
 
@@ -119,16 +119,22 @@ daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 ```
 
 ### PrimarySource
-see `ArtWork`, `PrimarySource.author` and `PrimarySource.commentary` need to go to `works.csv`.
+
+`PrimarySource` and `SecondarySource`  share the same structure, therefore we can run the same commands on each table.
+As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. 
 
 ```shell
 daff diff --act insert --ignore author --ignore commentary PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p2a.csv 
+
+daff diff --act insert --ignore author --ignore commentary --ignore main_narrator SecondarySource_main.csv SecondarySource_lit.csv > patch/Secondary_p3a.csv 
 ```
 
-Patch PrimarySource
+Patch Source
 
 ```shell
-daff patch PrimarySource_main.csv patch/Primary_p2a.csv > out/PrimarySource_p2.csv
+daff patch SecondarySource_main.csv patch/Secondary_p2a.csv > out/SecondarySource_p2.csv
+
+daff patch SecondarySource_main.csv patch/Secondary_p3a.csv > out/SecondarySource_p3.csv
 ```
 
 ## Cleanup
@@ -157,16 +163,18 @@ daff patch PrimarySource_main.csv patch/Primary_p2a.csv > out/PrimarySource_p2.c
 - more careful handling of `NULL` entries necessary, also check for unknown place/location id
 
 ### Agent_p
+
 - delete duplicate old_id before proceeding with regular cleanup steps
 - cleanup (delete) `Agent.name_lang` column
-- ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it) 
+- ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
 
 ### NarrativePosition_p
 
 - update csv schema and data-dictionary for narrative position table.
 
 ### Primary- / SecondarySource_p
-- sort first lots of dubious entries
-- Check `PS00207` which should be unknown work? 
 
-- merge three (?) `work.csv` tables
+- sort first lots of dubious entries
+- Check `PS00207` which should be unknown work?
+- move `source.fictionality` to `work.fictionality` on main entity?
+- merge three (?) `work.csv` table
