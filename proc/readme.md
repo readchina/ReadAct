@@ -121,7 +121,7 @@ daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 ### PrimarySource
 
 `PrimarySource` and `SecondarySource`  share the same structure, therefore we can run the same commands on each table.
-As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. 
+As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. `fictionality` gets a special treatment for now by dupliating it on source tables and on main work table (for not to be cleanup up later) 
 
 ```shell
 daff diff --act insert --ignore author --ignore commentary PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p2a.csv 
@@ -136,6 +136,13 @@ daff patch SecondarySource_main.csv patch/Secondary_p2a.csv > out/SecondarySourc
 
 daff patch SecondarySource_main.csv patch/Secondary_p3a.csv > out/SecondarySource_p3.csv
 ```
+
+On to work create patchfiles for `work.csv`:
+
+```shell
+daff diff --act insert Work_main.csv PrimarySource_lit.csv > patch/Work_p1a.csv
+```
+
 
 ## Cleanup
 
@@ -177,4 +184,4 @@ daff patch SecondarySource_main.csv patch/Secondary_p3a.csv > out/SecondarySourc
 - sort first lots of dubious entries
 - Check `PS00207` which should be unknown work?
 - move `source.fictionality` to `work.fictionality` on main entity?
-- merge three (?) `work.csv` table
+- merge three (?) `work.csv` tables
