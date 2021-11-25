@@ -129,7 +129,7 @@ daff diff --act insert --ignore author --ignore commentary PrimarySource_main.cs
 daff diff --act insert --ignore author --ignore commentary --ignore main_narrator SecondarySource_main.csv SecondarySource_lit.csv > patch/Secondary_p3a.csv 
 ```
 
-Patch Source
+Patch *Source
 
 ```shell
 daff patch SecondarySource_main.csv patch/Secondary_p2a.csv > out/SecondarySource_p2.csv
@@ -143,23 +143,23 @@ For the main entities in `work.csv`. Copy and rename `*Source_lit.csv` -> `Work_
 - `author` -> `creator`
 
 ```shell
-daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page Work_main.csv Work_lit.csv > patch/Work_p2a.csv
+daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publication_date --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page Work_main.csv Work_lit.csv > patch/Work_p3a.csv
+
+daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publication_date --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page --ignore main_narrator Work_main.csv Work_lit.csv > patch/Work_p3a.csv
 ```
 
-Replace all `---` action column entries with ` ` in both patch tables
+Delete all `---` action column entries in the first line
 
-In the primary source patch file `Work_p2a.csv` replace lines 4 - 798 with 
+In the primary source patch file `Work_p2a.csv` replace lines 3 - 798 with 
 
-`...,...,...,...,...,...,...,...,...,...,...,...,...,...,...`
+`...,...,...,...,...,...,...,...,...,...,...,...,...,...`
 
-and in the secondary source patch file `Work_p2a.csv` replace lines  - with 
-
-``
+and in the secondary source patch file `Work_p2a.csv`  lines 3 - 195, and afterwards new lines L22 and L24  `SS00270-SS00272`
 
 and finally patch work table. 
 
 ```shell
-daff patch Work_main.csv patch/Work_p2a.csv > out/Work_p2.csv
+daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 ```
 
 ## Cleanup
@@ -205,3 +205,5 @@ daff patch Work_main.csv patch/Work_p2a.csv > out/Work_p2.csv
 - merge three (?) `work.csv` tables
 - `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
 - fix creator references on new Work entries to point to Agents instead of Persons
+- secondary source patch will delete SS00170, check SS00262 - SS00267
+- 
