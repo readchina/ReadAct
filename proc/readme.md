@@ -137,12 +137,30 @@ daff patch SecondarySource_main.csv patch/Secondary_p2a.csv > out/SecondarySourc
 daff patch SecondarySource_main.csv patch/Secondary_p3a.csv > out/SecondarySource_p3.csv
 ```
 
-On to work create patchfiles for `work.csv`:
+For the main entities in `work.csv`. Copy and rename `*Source_lit.csv` -> `Work_lit.csv`. On `Work_lit` rename:
+- `*_source_id` -> `old_id`, 
+- `title_lang` -> `language`, 
+- `author` -> `creator`
 
 ```shell
-daff diff --act insert Work_main.csv PrimarySource_lit.csv > patch/Work_p1a.csv
+daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page Work_main.csv Work_lit.csv > patch/Work_p2a.csv
 ```
 
+Replace all `---` action column entries with ` ` in both patch tables
+
+In the primary source patch file `Work_p2a.csv` replace lines 4 - 798 with 
+
+`...,...,...,...,...,...,...,...,...,...,...,...,...,...,...`
+
+and in the secondary source patch file `Work_p2a.csv` replace lines  - with 
+
+``
+
+and finally patch work table. 
+
+```shell
+daff patch Work_main.csv patch/Work_p2a.csv > out/Work_p2.csv
+```
 
 ## Cleanup
 
@@ -185,3 +203,5 @@ daff diff --act insert Work_main.csv PrimarySource_lit.csv > patch/Work_p1a.csv
 - Check `PS00207` which should be unknown work?
 - move `source.fictionality` to `work.fictionality` on main entity?
 - merge three (?) `work.csv` tables
+- `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
+- fix creator references on new Work entries to point to Agents instead of Persons
