@@ -33,6 +33,10 @@ daff diff --act insert --ignore site_information --ignore source_status --ignore
 daff patch Act_main.csv patch/Act_p5a.csv > out/Act_p5.csv
 ```
 
+### ActType
+
+### ArtForm
+
 ### ArtWork
 
 Creator and commentary need to go to `works.csv`
@@ -42,6 +46,30 @@ daff diff --act insert --ignore creator --ignore commentary ArtWork_main.csv Art
 daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ```
 
+For the main entities in `work.csv`. Copy and rename `ArtWork_lit.csv` -> `Work_lit.csv`. On `Work_lit` rename:
+- `*_source_id` -> `old_id`, 
+- `title_lang` -> `language`, 
+
+```shell
+daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publication_date --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page Work_main.csv Work_lit.csv > patch/Work_p3a.csv
+```
+
+Delete all `---` action column entries in the first line
+
+In the primary source patch file `Work_p2a.csv` replace lines 3 - 798 with 
+
+`...,...,...,...,...,...,...,...,...,...,...,...,...,...`
+
+and in the secondary source patch file `Work_p2a.csv`  lines 3 - 195, and afterwards new lines L22 and L24  `SS00270-SS00272`
+
+and finally patch work table. 
+
+```shell
+daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
+```
+
+### Genre
+
 ### Institution
 
 `commentary` contains no entries, the column moved to works
@@ -50,6 +78,8 @@ daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 daff diff --act insert --ignore commentary Institution_main.csv Institution_lit.csv > patch/Institution_p2a.csv
 daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.csv
 ```
+
+### IsoLangCode
 
 ### Location and Place
 
@@ -75,6 +105,8 @@ Replace all `---` action column entries with `...` in both patch tables, then
 daff patch Space_main.csv patch/Space_p4a.csv > out/Space_p4.csv
 daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
 ```
+
+### Membership
 
 ### Narrative Position
 
@@ -118,7 +150,11 @@ patch Agent:
 daff patch Agent_main.csv patch/Agent_p4a.csv > out/Agent_p4.csv
 ```
 
-### PrimarySource
+### Place
+
+s.a.
+
+### Primary- / SecondarySource
 
 `PrimarySource` and `SecondarySource`  share the same structure, therefore we can run the same commands on each table.
 As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. `fictionality` gets a special treatment for now by dupliating it on source tables and on main work table (for not to be cleanup up later) 
@@ -161,6 +197,18 @@ and finally patch work table.
 ```shell
 daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 ```
+
+### Quotation
+
+### SocialPosition
+
+### SocialRelation
+
+## Merge Primary Entities
+
+- `person` + `instition` -> `agent`
+- `primarysource` + `secondarysource` + `artwork` -> `work`
+- `place`(?) + `location` -> `space`
 
 ## Cleanup
 
