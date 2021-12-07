@@ -242,6 +242,11 @@ daff patch SocialPosition_main.csv patch/SocialPosition_p1a.csv > out/SocialPosi
 
 ### SocialRelation
 
+```shell
+daff diff --act insert SocialRelation_main.csv SocialRelation_lit.csv > patch/SocialRelation_p1a.csv
+daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRelation_p1.csv
+```
+
 ## Merge Primary Entities
 
 - `person` + `instition` -> `agent`
@@ -301,3 +306,8 @@ daff patch SocialPosition_main.csv patch/SocialPosition_p1a.csv > out/SocialPosi
 ### Quotation_p
 
 - `Quotation.source` needs work IDs
+
+### SocialRelation
+
+- `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
+- `SocialRelation.source` needs work IDs
