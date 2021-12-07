@@ -129,6 +129,9 @@ daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
 ```
 
 ### Membership
+manual patch:
+- copy and rename  `Membership_main` -> `Membership_p1`
+- append lines 10 - 26 from `Membership_lit` to `Membership_p1`
 
 ### Narrative Position
 
@@ -252,6 +255,11 @@ daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 
 - Delete `I0004`, `I0006`, and `I0007` additions from patched output.
 - refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
+
+### Membership_p 
+- `Membership.institution`, `Memebership.member` need agent ID
+- `Membership.source` needs work ID
+
 
 ### Space_p
 
