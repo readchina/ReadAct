@@ -47,25 +47,25 @@ daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ```
 
 For the main entities in `work.csv`. Copy and rename `ArtWork_lit.csv` -> `Work_lit.csv`. On `Work_lit` rename:
-- `*_source_id` -> `old_id`, 
+- `artwork_id` -> `old_id`, 
 - `title_lang` -> `language`, 
 
 ```shell
-daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore genre --ignore publication_place --ignore publication_date --ignore publishing_house --ignore first_chin_edition --ignore neibu --ignore source --ignore serial --ignore page Work_main.csv Work_lit.csv > patch/Work_p3a.csv
+daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore art_form --ignore first_performance_date --ignore first_performance_place --ignore neibu Work_main.csv Work_lit.csv > patch/Work_p1a.csv
 ```
 
 Delete all `---` action column entries in the first line
 
-In the primary source patch file `Work_p2a.csv` replace lines 3 - 798 with 
+In the primary source patch file `Work_p1a.csv` replace lines 4 - 194 with:
 
-`...,...,...,...,...,...,...,...,...,...,...,...,...,...`
+`...,...,...,...,...,...,...,...,...,...,...,...,...`
 
-and in the secondary source patch file `Work_p2a.csv`  lines 3 - 195, and afterwards new lines L22 and L24  `SS00270-SS00272`
+and new lines 44 - 52 (`:, W0554, …`).
 
-and finally patch work table. 
+Then patch work table. 
 
 ```shell
-daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
+daff patch Work_main.csv patch/Work_p1a.csv > out/Work_p1.csv
 ```
 
 ### Genre
