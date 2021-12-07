@@ -97,6 +97,12 @@ daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.c
 
 ### IsoLangCode
 
+no updates from Lit branch
+```shell
+daff diff --act insert IsoLangCode_main.csv IsoLangCode_lit.csv > patch/IsoLangCode_p1a.csv   
+daff patch IsoLangCode_main.csv patch/IsoLangCode_p1a.csv > out/IsoLangCode_p1.csv
+```
+
 ### Location and Place
 
 Rename:  `Location.`:
