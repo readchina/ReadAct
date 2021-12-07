@@ -98,6 +98,7 @@ daff patch Institution_main.csv patch/Institution_p2a.csv > out/Institution_p2.c
 ### IsoLangCode
 
 no updates from Lit branch
+
 ```shell
 daff diff --act insert IsoLangCode_main.csv IsoLangCode_lit.csv > patch/IsoLangCode_p1a.csv   
 daff patch IsoLangCode_main.csv patch/IsoLangCode_p1a.csv > out/IsoLangCode_p1.csv
@@ -225,6 +226,13 @@ daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 
 ### Quotation
 
+`Q0012` is not unique, change it on `Quotation_lit` to `Q0012a`. 
+
+```shell
+daff diff --act insert Quotation_main.csv Quotation_lit.csv > patch/Quotation_p2a.csv
+daff patch Quotation_main.csv patch/Quotation_p2a.csv > out/Quotation_p3.csv
+```
+
 ### SocialPosition
 
 ### SocialRelation
@@ -284,4 +292,7 @@ daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 - `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
 - fix creator references on new Work entries to point to Agents instead of Persons
 - secondary source patch will delete SS00170, check SS00262 - SS00267
-- 
+
+### Quotation_p
+
+- `Quotation.source` needs work IDs
