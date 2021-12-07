@@ -34,6 +34,12 @@ daff patch Act_main.csv patch/Act_p5a.csv > out/Act_p5.csv
 ```
 
 ### ActType
+simple updates from top level folder:
+
+```shell
+daff diff --act insert ActType_main.csv ActType_lit.csv > patch/ActType_p1a.csv   
+daff patch ActType_main.csv patch/ActType_p1a.csv > out/ActType_p1.csv
+```
 
 ### ArtForm
 
