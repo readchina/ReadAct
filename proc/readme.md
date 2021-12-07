@@ -235,6 +235,11 @@ daff patch Quotation_main.csv patch/Quotation_p2a.csv > out/Quotation_p3.csv
 
 ### SocialPosition
 
+```shell
+daff diff --act insert SocialPosition_main.csv SocialPosition_lit.csv > patch/SocialPosition_p1a.csv
+daff patch SocialPosition_main.csv patch/SocialPosition_p1a.csv > out/SocialPosition_p1.csv
+```
+
 ### SocialRelation
 
 ## Merge Primary Entities
