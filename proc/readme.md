@@ -81,7 +81,10 @@ daff patch Work_main.csv patch/Work_p1a.csv > out/Work_p1.csv
 
 ### Genre
 
-
+```shell
+daff diff --act insert Genre_main.csv Genre_lit.csv > patch/Genre_p1a.csv   
+daff patch Genre_main.csv patch/Genre_p1a.csv > out/Genre_p1.csv
+```
 
 ### Institution
 
