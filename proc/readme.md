@@ -43,6 +43,11 @@ daff patch ActType_main.csv patch/ActType_p1a.csv > out/ActType_p1.csv
 
 ### ArtForm
 
+```shell
+daff diff --act insert ArtForm_main.csv ArtForm_lit.csv > patch/ArtForm_p1a.csv   
+daff patch ArtForm_main.csv patch/ArtForm_p1a.csv > out/ArtForm_p1.csv
+```
+
 ### ArtWork
 
 Creator and commentary need to go to `works.csv`
@@ -75,6 +80,8 @@ daff patch Work_main.csv patch/Work_p1a.csv > out/Work_p1.csv
 ```
 
 ### Genre
+
+
 
 ### Institution
 
