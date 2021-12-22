@@ -247,13 +247,9 @@ daff diff --act insert SocialRelation_main.csv SocialRelation_lit.csv > patch/So
 daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRelation_p1.csv
 ```
 
-## Merge Primary Entities
-
-- `person` + `instition` -> `agent`
-- `primarysource` + `secondarysource` + `artwork` -> `work`
-- `place`(?) + `location` -> `space`
-
 ## Cleanup
+
+First move all patched files into `proc_data/` to mirror the structure of the data folder on `main` 
 
 - Create new primary keys according to new `id` scheme.
 - Replace old `id` secondary keys with new ones.
@@ -311,3 +307,9 @@ daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRela
 
 - `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
 - `SocialRelation.source` needs work IDs
+
+## Merge Primary Entities
+
+- `person` + `instition` -> `agent`
+- `primarysource` + `secondarysource` + `artwork` -> `work`
+- `place`(?) + `location` -> `space`

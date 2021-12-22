@@ -1,0 +1,66 @@
+action_id,action_name,note,created,created_by,last_modified,last_modified_by
+AT01,to read,,2017-07-12,OS,2017-07-12,OS
+AT02,to copy by hand  (shouchao),,2017-07-12,OS,2018-01-23,LH
+AT03,to hand/send over (to sb),,2017-07-12,OS,2018-02-28,OS
+AT04,to take as ideal / guide,,2017-07-19,LH,2017-07-19,LH
+AT05,to mention,,2018-01-25,MG,2018-01-25,MG
+AT06,to plan to edit texts / quotations by,,2017-07-27,LH,2017-07-27,LH
+AT09,to memorize,,2017-07-28,LH,2018-01-25,MG
+AT10,to compile / edit texts / quotations by,,2017-08-01,LH,2017-08-01,LH
+AT11,to translate,,2017-09-06,CW,2017-09-06,CW
+AT12,to have the text confiscated,,2017-09-06,CW,2017-09-06,CW
+AT13,to write,,2017-09-29,MG,2017-09-29,MG
+AT14,to destroy,,2017-10-14,CW,2017-10-14,CW
+AT15,to contemplate,,2018-01-30,MG,2018-01-30,MG
+AT16,to be influenced by,,2018-02-03,OS,2018-02-03,OS
+AT17,to recite,,2018-02-05,OS,2018-02-05,OS
+AT18,to try to obtain,,2018-02-06,OS,2018-02-06,OS
+AT19,to discuss,,2018-02-08,OS,2018-02-08,OS
+AT20,to perform,e.g. a play,2018-02-09,OS,2018-02-09,OS
+AT21,to quote,,2018-02-09,OS,2018-02-09,OS
+AT22,to remember,,2018-02-13,OS,2018-02-13,OS
+AT23,to listen to,,2018-03-23,MG,2018-03-23,MG
+AT24,to be blocked from reading,,2018-04-11,WH,2018-04-13,WH
+AT25,to be aroused think about something,,2018-05-02,WH,2018-05-02,WH
+AT26,to like,,2018-10-16,LH,2018-10-16,LH
+AT27,to borrow,,2018-10-16,LH,2018-10-16,LH
+AT28,to watch,e.g. a movie or a play,2018-05-31,DM,2018-05-31,DM
+AT29,to use as metaphor,,2018-06-01,DM,2018-06-01,DM
+AT30,to photograph,,2018-11-03,WH,2018-11-19,WH
+AT31,to be taught,,2018-11-04,WH,2018-11-19,WH
+AT32,to sing,,2018-11-04,WH,2018-11-19,WH
+AT33,to swap,,2018-11-16,WH,2018-11-19,WH
+AT34,to imitate,e.g. a copybook for calligraphy,2018-11-25,WH,2018-11-25,WH
+AT40,to sing,,2018-11-18,MG,2018-11-18,MG
+AT41,to direct,e.g. a movie or a play,2018-12-23,WH,2018-12-23,WH
+AT42,to suffer confiscation,,2019-01-31,LH,2019-01-31,LH
+AT43,to be against,,2019-02-23,WH,2019-03-04,WH
+AT44,to find,,2019-03-09,MG,2019-03-09,MG
+AT45,to stick on a towel,,2021-02-17,MG,2021-02-17,MG
+AT46,to burn,,2019-08-03,MG,2019-08-03,MG
+AT47,to retell,,2019-08-03,MG,2019-08-03,MG
+AT48,to steal,,2019-08-03,MG,2019-08-03,MG
+AT49,to evaluate,,2019-11-08,MG,2019-11-08,MG
+AT50,to criticize,,2019-11-08,MG,2019-11-08,MG
+AT51,to worship,,2019-11-08,MG,2019-11-08,MG
+AT52,to title,,2019-11-09,MG,2019-11-09,MG
+AT53,to disfigure,,2019-11-18,MG,2019-11-18,MG
+AT54,to turn against,,2019-11-22,MG,2019-11-22,MG
+AT55,to read out,,2019-11-22,MG,2019-11-22,MG
+AT56,to study,,2019-11-22,MG,2019-11-22,MG
+AT57,planning to read,,2019-12-05,MG,2019-12-05,MG
+AT58,planning to read collectively,act_target: reading partner(s),2019-12-05,MG,2019-12-05,MG
+AT59,to lecture,,2020-02-06,MG,2020-02-06,MG
+AT35,to read in a group,,2019-03-08,LH,2020-04-11,DP
+AT61,to recommend,,2020-02-07,MG,2020-02-07,MG
+AT62,being arrested for reading,,2020-02-24,MG,2020-02-24,MG
+AT63,to own,,2020-05-28,MG,2020-05-28,MG
+AT64,to flip through,,2020-05-31,MG,2020-05-31,MG
+AT65,to bring along,e.g. to rustication,2020-06-27,MG,2020-06-27,MG
+AT66,to look at,,2020-06-27,MG,2020-06-27,MG
+AT67,to keep as souvenir,,2020-07-08,MG,2020-07-08,MG
+AT68,to teach,,2021-06-21,MG,2021-06-21,MG
+AT69,to take along,,2021-07-09,MG,2021-07-09,MG
+AT70,to play,,2021-07-09,MG,2021-07-09,MG
+AT71,to have access to,,2021-07-10,MG,2021-07-10,MG
+AT90,to bet about,,2020-05-31,MG,2021-07-31,MG
