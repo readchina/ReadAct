@@ -87,6 +87,13 @@
         "pattern": "(^$|yes|no|unknown)"
       }
     }, {
+      "name": "wikidata_id",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^(Q[0-9]+)*)"
+      }
+    },{
       "name": "source_1",
       "type": "string",
       "constraints": {
