@@ -72,7 +72,7 @@
   "missingValues": [""],
   "foreignKeys": [
     {
-      "fields": "genre_name",
+      "fields": "genre_name_lang",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"
