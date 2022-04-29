@@ -2,7 +2,6 @@
 
 Manually patching the `main` branch's data tables with entries from the `2.0-Fiction` branch. Since the table's structures have changed, as well as their location inside the repo. We need to go beyond git patches using [daff](https://paulfitz.github.io/daff-doc/spec.html).  
 
-
 Each table that requires a patch has its own subfolder below, with the original data-tables marked as `_lit` and `_main` respectively.
 
 ## Patch
@@ -34,6 +33,7 @@ daff patch Act_main.csv patch/Act_p5a.csv > out/Act_p5.csv
 ```
 
 ### ActType
+
 simple updates from top level folder:
 
 ```shell
@@ -58,8 +58,9 @@ daff patch ArtWork_main.csv patch/ArtWork_p2a.csv > out/ArtWork_p2.csv
 ```
 
 For the main entities in `work.csv`. Copy and rename `ArtWork_lit.csv` -> `Work_lit.csv`. On `Work_lit` rename:
-- `artwork_id` -> `old_id`, 
-- `title_lang` -> `language`, 
+
+- `artwork_id` -> `old_id`,
+- `title_lang` -> `language`,
 
 ```shell
 daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore art_form --ignore first_performance_date --ignore first_performance_place --ignore neibu Work_main.csv Work_lit.csv > patch/Work_p1a.csv
@@ -73,7 +74,7 @@ In the primary source patch file `Work_p1a.csv` replace lines 4 - 194 with:
 
 and new lines 44 - 52 (`:, W0554, …`).
 
-Then patch work table. 
+Then patch work table.
 
 ```shell
 daff patch Work_main.csv patch/Work_p1a.csv > out/Work_p1.csv
@@ -107,13 +108,15 @@ daff patch IsoLangCode_main.csv patch/IsoLangCode_p1a.csv > out/IsoLangCode_p1.c
 ### Location and Place
 
 Rename:  `Location.`:
--  `loc_id` -> `old_id`
--  `loc_name` -> `space_name`
--  `loc_name_lang` -> `name_lang`
+
+- `loc_id` -> `old_id`
+- `loc_name` -> `space_name`
+- `loc_name_lang` -> `name_lang`
 
 Rename 'Place.`:
--  `place_id` -> `old_id`
--  `place_name` -> `space_name`
+
+- `place_id` -> `old_id`
+- `place_name` -> `space_name`
 
 to match `Space.csv`.
 
@@ -130,7 +133,9 @@ daff patch out/Space_p4.csv patch/Space_p5a.csv > out/Space_p5.csv
 ```
 
 ### Membership
+
 manual patch:
+
 - copy and rename  `Membership_main` -> `Membership_p1`
 - append lines 10 - 26 from `Membership_lit` to `Membership_p1`
 
@@ -183,7 +188,7 @@ s.a.
 ### Primary- / SecondarySource
 
 `PrimarySource` and `SecondarySource`  share the same structure, therefore we can run the same commands on each table.
-As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. `fictionality` gets a special treatment for now by dupliating it on source tables and on main work table (for not to be cleanup up later) 
+As with  `ArtWork`, `Source.author`, `Source.commentary`, `Source.fictionality`, `SecondarySource.main_narrator` need to go to `work.csv`. `fictionality` gets a special treatment for now by duplicating it on source tables and on main work table (for not to be cleanup up later)
 
 ```shell
 daff diff --act insert --ignore author --ignore commentary PrimarySource_main.csv PrimarySource_lit.csv > patch/Primary_p2a.csv 
@@ -200,8 +205,9 @@ daff patch SecondarySource_main.csv patch/Secondary_p3a.csv > out/SecondarySourc
 ```
 
 For the main entities in `work.csv`. Copy and rename `*Source_lit.csv` -> `Work_lit.csv`. On `Work_lit` rename:
-- `*_source_id` -> `old_id`, 
-- `title_lang` -> `language`, 
+
+- `*_source_id` -> `old_id`,
+- `title_lang` -> `language`,
 - `author` -> `creator`
 
 ```shell
@@ -212,13 +218,13 @@ daff diff --act insert --id old_id --ignore title --ignore subtitle --ignore gen
 
 Delete all `---` action column entries in the first line
 
-In the primary source patch file `Work_p2a.csv` replace lines 3 - 798 with 
+In the primary source patch file `Work_p2a.csv` replace lines 3 - 798 with
 
 `...,...,...,...,...,...,...,...,...,...,...,...,...,...`
 
 and in the secondary source patch file `Work_p2a.csv`  lines 3 - 195, and afterwards new lines L22 and L24  `SS00270-SS00272`
 
-and finally patch work table. 
+and finally patch work table.
 
 ```shell
 daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
@@ -226,7 +232,7 @@ daff patch Work_main.csv patch/Work_p3a.csv > out/Work_p3.csv
 
 ### Quotation
 
-`Q0012` is not unique, change it on `Quotation_lit` to `Q0012a`. 
+`Q0012` is not unique, change it on `Quotation_lit` to `Q0012a`.
 
 ```shell
 daff diff --act insert Quotation_main.csv Quotation_lit.csv > patch/Quotation_p2a.csv
@@ -249,7 +255,7 @@ daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRela
 
 ## Cleanup
 
-First move all patched files into `proc_data/` to mirror the structure of the data folder on `main` 
+First move all patched files into `proc_data/` to mirror the structure of the data folder on `main`
 
 - Create new primary keys according to new `id` scheme.
 - Replace old `id` secondary keys with new ones.
@@ -263,17 +269,17 @@ First move all patched files into `proc_data/` to mirror the structure of the da
 
 ### ArtWork_p
 
-- create primary keys for new art works in `work.csv` 
+- create primary keys for new art works in `work.csv`
 
 ### Institution_p
 
 - Delete `I0004`, `I0006`, and `I0007` additions from patched output.
 - refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
 
-### Membership_p 
+### Membership_p
+
 - `Membership.institution`, `Memebership.member` need agent ID
 - `Membership.source` needs work ID
-
 
 ### Space_p
 
