@@ -164,8 +164,8 @@ AG0080,Anagnosti,Dhimitër,en,male,0,1936,XXXX,,SP0032,,,Q3025717,https://en.wik
 AG0081,Andreyev,Leonid,en,male,0,1871,1919,,SP0033,,,Q310866,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2022-05-03,ReadActor
 AG0081,Андре́ев,Леони́д,ru,male,0,1871,1919,,SP0033,,,Q310866,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2022-05-03,ReadActor
 AG0081,安德列耶夫,列昂尼德,zh,male,0,1871,1919,,SP0033,,,Q310866,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,2017-07-09,OS,2022-05-03,ReadActor
-AG0082,Aristotle,,en,male,0,-384,-322,,SP0034,,,Q868,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2022-05-03,ReadActor
-AG0082,Ἀριστοτέλης,,grc,male,0,-384,-322,,SP0034,,,Q868,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2022-05-03,ReadActor
+AG0082,Aristotle,,en,male,0,-0384,-0322,,SP0034,,,Q868,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2022-05-03,ReadActor
+AG0082,Ἀριστοτέλης,,grc,male,0,-0384,-0322,,SP0034,,,Q868,https://en.wikipedia.org/wiki/Aristotle,,,,,2017-07-09,OS,2022-05-03,ReadActor
 AG0083,Artsybashev,Mikhail,en,male,0,1878,1927,,SP0035,,,Q448143,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2022-05-03,ReadActor
 AG0083,Арцыба́шев,Михаи́л,ru,male,0,1878,1927,,SP0035,,,Q448143,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2022-05-03,ReadActor
 AG0083,阿尔志跋绥夫,米哈伊尔,zh,male,0,1878,1927,,SP0035,,,Q448143,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,2017-07-09,OS,2022-05-03,ReadActor
@@ -178,8 +178,8 @@ AG0086,Бабаевский,Семён,ru,male,0,1909,2000,,SP0037,,,Q2624931,ht
 AG0086,巴巴耶夫斯基,谢苗,zh,male,0,1909,2000,,SP0037,,,Q2624931,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,2017-07-10,OS,2022-05-03,ReadActor
 AG0087,Bach,Johann Sebastian,en,male,0,1685,1750,,SP0038,,,Q1339,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,2017-07-10,OS,2022-05-03,ReadActor
 AG0087,巴赫,约翰·塞巴斯蒂安,zh,male,0,1685,1750,,SP0038,,,Q1339,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,2017-07-10,OS,2022-05-03,ReadActor
-AG0088,Bai,Juyi,en,male,0,772,846,,SP0049,,,Q313324,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2022-05-03,ReadActor
-AG0088,白,居易,zh,male,0,772,846,,SP0049,,,Q313324,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2022-05-03,ReadActor
+AG0088,Bai,Juyi,en,male,0,0772,0846,,SP0049,,,Q313324,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2022-05-03,ReadActor
+AG0088,白,居易,zh,male,0,0772,0846,,SP0049,,,Q313324,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,2017-07-10,OS,2022-05-03,ReadActor
 AG0089,Balmont,Konstantin,en,male,0,1876,1942,,SP0042,,,Q314498,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2022-05-03,ReadActor
 AG0089,Бальмо́нт,Константи́н,ru,male,0,1876,1942,,SP0042,,,Q314498,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2022-05-03,ReadActor
 AG0089,巴尔蒙特,康斯坦丁,zh,male,0,1876,1942,,SP0042,,,Q314498,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,2017-07-10,OS,2022-05-03,ReadActor
@@ -328,12 +328,12 @@ AG0158,Ленин,Владимир,ru,male,0,1870,1924,Влади́мир Иль
 AG0158,列寧,弗拉基米尔,zh,male,0,1870,1924,弗拉基米尔 伊里奇 列宁,SP0097,,,Q1394,https://en.wikipedia.org/wiki/Vladimir_Lenin,ONLINE SOURCE,,,,2017-10-24,MG,2022-05-03,ReadActor
 AG0159,Li,Ruzhen,en,male,0,1763,1830,Songsh Daoren,SP0005,,,Q711457,https://en.wikipedia.org/wiki/Li_Ruzhen,ONLINE SOURCE,,,,2017-10-25,MG,2022-05-03,ReadActor
 AG0159,李,汝珍,zh,male,0,1763,1830,松石道人,SP0005,,,Q711457,https://en.wikipedia.org/wiki/Li_Ruzhen,ONLINE SOURCE,,,,2017-10-25,MG,2022-05-03,ReadActor
-AG0160,Fan,Zhen,en,male,0,450,515,,SP0100,,,Q31765,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
-AG0160,范,缜,zh,male,0,450,515,,SP0100,,,Q31765,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
-AG0161,Yi,Jia,en,male,0,-200,-169,Yi Sheng,SP0080,,,Q301650,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
-AG0161,贾,谊,zh,male,0,-200,-169,贾生,SP0080,,,Q301650,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
-AG0162,Kongzi,,en,male,0,-551,-479,Kong Fuzi,SP0101,,,Q4604,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
-AG0162,孔子,,zh,male,0,-551,-479,孔夫子,SP0101,,,Q4604,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0160,Fan,Zhen,en,male,0,0450,0515,,SP0100,,,Q31765,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0160,范,缜,zh,male,0,0450,0515,,SP0100,,,Q31765,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0161,Yi,Jia,en,male,0,-0200,-0169,Yi Sheng,SP0080,,,Q301650,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0161,贾,谊,zh,male,0,-0200,-0169,贾生,SP0080,,,Q301650,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0162,Kongzi,,en,male,0,-0551,-0479,Kong Fuzi,SP0101,,,Q4604,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
+AG0162,孔子,,zh,male,0,-0551,-0479,孔夫子,SP0101,,,Q4604,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
 AG0163,Kuan,Huan,en,male,0,XXXX,XXXX,,SP0102,,,Q11113234,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
 AG0163,桓,宽,zh,male,0,XXXX,XXXX,,SP0102,,,Q11113234,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,2017-10-30,MG,2022-05-03,ReadActor
 AG0164,Salinger,Jerome David,en,male,0,1919,2010,,SP0053,,,Q79904,https://de.wikipedia.org/wiki/J._D._Salinger,ONLINE SOURCE,,,,2017-12-14,MG,2022-05-03,ReadActor
@@ -521,8 +521,8 @@ AG0249,Gu,Yunpu,en,male,2,1931,XXXX,,SP0183,,,,https://baike.baidu.com/item/%E9%
 AG0249,顾,蕴璞,zh,male,2,1931,XXXX,,SP0183,,,,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,2018-02-27,OS,2020-04-02,DP
 AG0250,Kang,Zhengguo,en,male,1,1944,XXXX,,SP0184,,,Q11063924,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
 AG0250,康,正果,zh,male,1,1944,XXXX,,SP0184,,,Q11063924,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
-AG0251,Li,Daoyuan,en,male,0,0466..0472,527,,SP0185,,,Q6538730,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
-AG0251,郦,道元,zh,male,0,0466..0472,527,,SP0185,,,Q6538730,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
+AG0251,Li,Daoyuan,en,male,0,0466..0472,0527,,SP0185,,,Q6538730,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
+AG0251,郦,道元,zh,male,0,0466..0472,0527,,SP0185,,,Q6538730,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,2018-02-27,OS,2022-05-03,ReadActor
 AG0252,Zhao,Yuesheng,en,male,2,1955~,XXXX,,SP0436,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,2018-02-27,OS,2020-04-02,DP
 AG0252,赵,越胜,zh,male,2,1955~,XXXX,,SP0436,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,2018-02-27,OS,2020-04-02,DP
 AG0253,Tang,Ke,en,male,3,"[1952,1962]",XXXX,,SP0436,,,Q45597745,W0499,279ff.,,,,2018-02-27,OS,2022-05-03,ReadActor
@@ -569,8 +569,8 @@ AG0276,Dong,Xiwen,en,male,0,1914,1973,,SP0048,,,Q15927807,https://zh.wikipedia.o
 AG0276,董,希文,zh,male,0,1914,1973,,SP0048,,,Q15927807,https://zh.wikipedia.org/wiki/%E8%91%A3%E5%B8%8C%E6%96%87,,,,,2018-03-17,WH,2022-05-03,ReadActor
 AG0277,Dreiser,Theodore,en,male,0,1871,1945,,SP0211,,,Q486096,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,2018-03-28,WH,2022-05-03,ReadActor
 AG0277,德莱塞,西奥多,zh,male,0,1871,1956,,SP0211,,,Q486096,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,2018-03-28,WH,2022-05-03,ReadActor
-AG0278,Du,Fu,en,male,0,712,770,,SP0212,,,Q33772,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,2018-03-28,WH,2022-05-03,ReadActor
-AG0278,杜,甫,zh,male,0,712,770,,SP0212,,,Q33772,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,2018-03-28,WH,2022-05-03,ReadActor
+AG0278,Du,Fu,en,male,0,0712,0770,,SP0212,,,Q33772,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,2018-03-28,WH,2022-05-03,ReadActor
+AG0278,杜,甫,zh,male,0,0712,0770,,SP0212,,,Q33772,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,2018-03-28,WH,2022-05-03,ReadActor
 AG0279,Du,Pengcheng,en,male,0,1922,1991,,SP0213,,,Q11099559,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,2018-03-28,WH,2022-05-03,ReadActor
 AG0279,杜,鹏程,zh,male,0,1922,1911,,SP0213,,,Q11099559,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,2018-03-28,WH,2022-05-03,ReadActor
 AG0280,Dumas,Alexandre fils,en,male,0,1824,1895,,SP0050,,,Q169150,https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%BB%B2%E9%A9%AC,,,,,2018-04-11,WH,2022-05-03,ReadActor
@@ -656,8 +656,8 @@ AG0316,Tang,Xianzu,en,male,0,1550,1616,Yireng,SP0239,,,Q945333,https://en.wikipe
 AG0316,汤,显祖,zh,male,0,1550,1616,義仍,SP0239,,,Q945333,https://en.wikipedia.org/wiki/Tang_Xianzu,ONLINE SOURCE,,,,2018-05-08,MG,2022-05-03,ReadActor
 AG0317,Tang,Guizhang,en,male,3,1901,1990,,SP0093,,,Q10922624,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,2018-05-08,MG,2022-05-03,ReadActor
 AG0317,唐,圭璋,zh,male,3,1901,1990,,SP0093,,,Q10922624,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,2018-05-08,MG,2022-05-03,ReadActor
-AG0318,Tao,Yuanming,en,male,0,365,427,,SP0240,,,Q314210,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,2018-05-14,MG,2022-05-03,ReadActor
-AG0318,陶,渊明,zh,male,0,365,427,,SP0240,,,Q314210,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,2018-05-14,MG,2022-05-03,ReadActor
+AG0318,Tao,Yuanming,en,male,0,0365,0427,,SP0240,,,Q314210,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,2018-05-14,MG,2022-05-03,ReadActor
+AG0318,陶,渊明,zh,male,0,0365,0427,,SP0240,,,Q314210,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,2018-05-14,MG,2022-05-03,ReadActor
 AG0319,Valéry,Paul,fr,male,0,1871,1945,,SP0241,,,Q200639,https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry,ONLINE SOURCE,,,,2018-05-15,MG,2022-05-03,ReadActor
 AG0319,瓦勒里,保羅,zh,male,0,1871,1945,,SP0241,,,Q200639,https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry,ONLINE SOURCE,,,,2018-05-15,MG,2022-05-03,ReadActor
 AG0320,van Gogh,Vincent Willem,en,male,0,1853,1890,,SP0242,,,Q5582,https://en.wikipedia.org/wiki/Vincent_van_Gogh,ONLINE SOURCE,,,,2018-05-15,MG,2022-05-03,ReadActor
@@ -841,18 +841,18 @@ AG0401,Шо́лохов,Михаи́л Алекса́ндрович,ru,male,0,19
 AG0401,肖洛霍夫,米哈伊尔·亚历山大罗维奇,zh,male,0,1905,1984,,SP0300,,,,https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E7%88%BE%C2%B7%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E7%BE%85%E7%B6%AD%E5%A5%87%C2%B7%E8%82%96%E6%B4%9B%E9%9C%8D%E5%A4%AB?oldformat=true,ONLINE SOURCE,,,,2018-08-06,DM,2020-04-02,DP
 AG0402,Shu,Menglan,en,male,0,1759,1835,,SP0436,,,Q45659598,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
 AG0402,舒,梦兰,zh,male,0,1759,1835,,SP0436,,,Q45659598,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
-AG0403,Sima,Qian,en,male,0,-0145..-0135,-86,Zi Chang,SP0301,,,Q9372,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
-AG0403,司马,迁,zh,male,0,-0145..-0135,-86,子长,SP0301,,,Q9372,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
-AG0404,Sima,Xiangru,en,male,0,-179,-117,,SP0007,,,Q559740,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
-AG0404,司马,相如,zh,male,0,-179,-117,,SP0007,,,Q559740,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
+AG0403,Sima,Qian,en,male,0,-0145..-0135,-0086,Zi Chang,SP0301,,,Q9372,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
+AG0403,司马,迁,zh,male,0,-0145..-0135,-0086,子长,SP0301,,,Q9372,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,2018-11-15,DM,2022-05-03,ReadActor
+AG0404,Sima,Xiangru,en,male,0,-0179,-0117,,SP0007,,,Q559740,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
+AG0404,司马,相如,zh,male,0,-0179,-0117,,SP0007,,,Q559740,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0405,Sima,Guang,en,male,0,1019,1086,,SP0150,,,Q33566,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0405,司马,光,zh,male,0,1019,1086,,SP0150,,,Q33566,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0406,Simonov,Konstantin Mikhailovich,en,male,0,1915,1979,,SP0061,,,Q44695,https://en.wikipedia.org/wiki/Konstantin_Simonov?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0406,西蒙诺夫,康斯坦丁·米哈依洛维奇,zh,male,0,1915,1979,,SP0061,,,Q44695,https://baike.baidu.com/item/%E5%BA%B7%E6%96%AF%E5%9D%A6%E4%B8%81%C2%B7%E7%B1%B3%E5%93%88%E4%BE%9D%E6%B4%9B%E7%BB%B4%E5%A5%87%C2%B7%E8%A5%BF%E8%92%99%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0407,Smetana,Bedřich,en,male,0,1824,1884,,SP0302,,,Q48173,https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana?oldformat=true,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
 AG0407,斯美塔那,贝德里赫,zh,male,0,1824,1884,,SP0302,,,Q48173,https://baike.baidu.com/item/贝德里赫·斯美塔那,ONLINE SOURCE,,,,2018-11-17,DM,2022-05-03,ReadActor
-AG0408,Socrates,,en,male,0,-470,-399,,SP0259,,,Q913,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
-AG0408,苏格拉底,,zh,male,0,-470,-399,,SP0259,,,Q913,https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
+AG0408,Socrates,,en,male,0,-0470,-0399,,SP0259,,,Q913,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
+AG0408,苏格拉底,,zh,male,0,-0470,-0399,,SP0259,,,Q913,https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
 AG0409,Song,Yunbin,en,male,3,1897,1979,,SP0303,S03,yes,Q18913898,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
 AG0409,宋,云彬,zh,male,3,1897,1979,,SP0303,S03,yes,Q18913898,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,2019-01-07,DM,2022-05-03,ReadActor
 AG0410,Spengler,Oswald,de,male,0,1880,1936,,SP0304,,,Q57112,https://en.wikipedia.org/wiki/Oswald_Spengler?oldformat=true,ONLINE SOURCE,,,,2019-01-08,DM,2022-05-03,ReadActor
@@ -882,8 +882,8 @@ AG0421,Fu,Chongju,en,male,0,1875,1917,,SP0317,,,,https://book.douban.com/subject
 AG0421,傅,崇矩,zh,male,0,1875,1917,,SP0317,,,,https://book.douban.com/subject/1733761/,,,,,2018-05-03,WH,2020-04-02,DP
 AG0422,Rembrandt,Harmenszoon van Rijn,en,male,0,1606,1669,,SP0318,,,Q5598,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,2018-06-21,WH,2022-05-03,ReadActor
 AG0422,伦勃朗,哈尔曼松·范·莱因,zh,male,0,1606,1669,,SP0318,,,Q5598,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,2018-06-21,WH,2022-05-03,ReadActor
-AG0423,Han,Yu,en,male,0,768,824,,SP0319,,,Q318998,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,2018-06-21,WH,2022-05-03,ReadActor
-AG0423,韩,愈,zh,male,0,768,824,,SP0319,,,Q318998,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,2018-06-21,WH,2022-05-03,ReadActor
+AG0423,Han,Yu,en,male,0,0768,0824,,SP0319,,,Q318998,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,2018-06-21,WH,2022-05-03,ReadActor
+AG0423,韩,愈,zh,male,0,0768,0824,,SP0319,,,Q318998,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,2018-06-21,WH,2022-05-03,ReadActor
 AG0424,Huang,Zongxi,en,male,0,1610,1695,,SP0320,,,Q31754,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,2018-07-09,WH,2022-05-03,ReadActor
 AG0424,黄,宗羲,zh,male,0,1610,1695,,SP0320,,,Q31754,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,2018-07-09,WH,2022-05-03,ReadActor
 AG0425,Huang,Yuxiang,en,male,2,1940~,1940~,,SP0321,,,Q16513941,http://news.ifeng.com/history/2/200709/0903_336_210958_1.shtml,,,,,2018-07-10,WH,2022-05-03,ReadActor
@@ -906,8 +906,8 @@ AG0432,马尔库塞,赫伯特,zh,male,0,1898,1979,,SP0066,,,Q60030,https://en.wi
 AG0433,Shulman,Norman,en,male,3,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Jan_Wong,ONLINE SOURCE,,,,2018-07-17,MG,2020-04-02,DP
 AG0434,Mathiez,Albert,fr,male,0,1874,1932,,SP0276,,,Q1343174,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,2018-07-17,MG,2022-05-03,ReadActor
 AG0434,马迪厄,,zh,male,0,1874,1932,,SP0276,,,Q1343174,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,2018-07-17,MG,2022-05-03,ReadActor
-AG0435,Mengzi,,en,male,0,-372,-289,Mencius,SP0278,,,Q188903,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
-AG0435,孟子,,zh,male,0,-372,-289,,SP0278,,,Q188903,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
+AG0435,Mengzi,,en,male,0,-0372,-0289,Mencius,SP0278,,,Q188903,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
+AG0435,孟子,,zh,male,0,-0372,-0289,,SP0278,,,Q188903,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
 AG0436,Mérimée,Prosper,fr,male,0,1803,1870,,SP0050,,,Q160333,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
 AG0436,梅里美,普羅斯佩,zh,male,0,1803,1870,,SP0050,,,Q160333,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
 AG0437,Michelet,Jules,fr,male,0,1798,1874,,SP0050,,,Q310791,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,2018-07-20,MG,2022-05-03,ReadActor
@@ -982,15 +982,15 @@ AG0470,Deng,Lijun,en,female,2,1953,1995,Teresa Teng,SP0345,,,Q463945,https://en.
 AG0470,邓,丽君,zh,female,2,1953,1995,,SP0345,,,Q463945,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,2018-11-18,MG,2022-05-03,ReadActor
 AG0471,Lennon,John,en,male,0,1940,1980,,SP0134,,,Q1203,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,2018-11-19,MG,2022-05-03,ReadActor
 AG0471,列侬,约翰,zh,male,0,1940,1980,,SP0134,,,Q1203,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,2018-11-19,MG,2022-05-03,ReadActor
-AG0472,Sophocles,,en,male,0,-497,-406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0472,Σοφοκλῆς,,grc,male,0,-497,-406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0472,索福克勒斯,,zh,male,0,-497,-406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0473,Euripides,,en,male,0,-480,-406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0473,Εὐριπίδης,,grc,male,0,-480,-406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0473,欧里庇得斯,,zh,male,0,-480,-406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0474,Aeschylus,,en,male,0,-525,-456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0474,Αἰσχύλος,,grc,male,0,-525,-456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
-AG0474,埃斯库罗斯,,zh,male,0,-525,-456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0472,Sophocles,,en,male,0,-0497,-0406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0472,Σοφοκλῆς,,grc,male,0,-0497,-0406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0472,索福克勒斯,,zh,male,0,-0497,-0406,,SP0259,,,Q7235,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0473,Euripides,,en,male,0,-0480,-0406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0473,Εὐριπίδης,,grc,male,0,-0480,-0406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0473,欧里庇得斯,,zh,male,0,-0480,-0406,,SP0346,,,Q48305,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0474,Aeschylus,,en,male,0,-0525,-0456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0474,Αἰσχύλος,,grc,male,0,-0525,-0456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
+AG0474,埃斯库罗斯,,zh,male,0,-0525,-0456,,SP0347,,,Q40939,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
 AG0475,Guan,Shanyue,en,male,3,1912,2000,Guan Zepei,SP0348,,,Q10893907,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
 AG0475,关,山月,zh,male,3,1912,2000,,SP0348,,,Q10893907,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
 AG0476,Gauguin,Paul,fr,male,0,1848,1903,,SP0050,,,Q37693,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,2018-11-21,MG,2022-05-03,ReadActor
@@ -1022,10 +1022,10 @@ AG0488,Liu,Qigeng,en,unknown,3,1914,1977,Liu Liu,SP0436,,,Q62572496,W0414,ONLINE
 AG0488,刘,其庚,zh,unknown,3,1914,1977,刘流,SP0436,,,Q62572496,W0414,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
 AG0489,Liu,Tianhua,en,male,0,1895,1932,,SP0355,,,Q715384,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
 AG0489,刘,天华,zh,male,0,1895,1932,,SP0355,,,Q715384,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
-AG0490,Liu,Xiang,en,unknown,0,-77,-6,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
-AG0490,刘,向,zh,unknown,0,-77,-6,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
-AG0491,Liu,Yong,en,male,0,987,1053,,SP0356,,,Q625179,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
-AG0491,柳,永,zh,male,0,987,1053,,SP0356,,,Q625179,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
+AG0490,Liu,Xiang,en,unknown,0,-0077,-0006,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
+AG0490,刘,向,zh,unknown,0,-0077,-0006,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
+AG0491,Liu,Yong,en,male,0,0987,1053,,SP0356,,,Q625179,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
+AG0491,柳,永,zh,male,0,0987,1053,,SP0356,,,Q625179,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
 AG0492,London,John Griffith,en,male,0,1876,1916,Jack London,SP0357,,,Q45765,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
 AG0492,伦敦,約翰 格里菲斯,zh,male,0,1876,1916,杰克 伦敦,SP0357,,,Q45765,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
 AG0493,Long,Yusheng,en,male,0,1902,1966,,SP0358,,,Q11181313,http://www.wangjingwei.org/en/associates-en/long-yusheng/,ONLINE SOURCE,,,,2018-12-11,MG,2022-05-03,ReadActor
@@ -1255,10 +1255,10 @@ AG0601,Zhu,Ziqing,en,male,0,1898,1948,Zhu Zihua,SP0430,,,Q618396,https://zh.wiki
 AG0601,朱,自清,zh,male,0,1898,1948,朱自华,SP0430,,,Q618396,https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%87%AA%E6%B8%85,,,,,2019-02-24,WH,2022-05-03,ReadActor
 AG0602,Zhu,Xi,en,male,0,1130,1200,,SP0431,,,Q9397,https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9,,,,,2019-02-24,WH,2022-05-03,ReadActor
 AG0602,朱,熹,zh,male,0,1130,1200,,SP0431,,,Q9397,https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9,,,,,2019-02-24,WH,2022-05-03,ReadActor
-AG0603,Zhuang,Zhou,en,male,0,-396,-286,,SP0436,,,Q45427471,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,2019-02-24,WH,2022-05-03,ReadActor
-AG0603,庄,周,zh,male,0,-396,-286,,SP0436,,,Q45427471,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,2019-02-24,WH,2022-05-03,ReadActor
-AG0604,Zuo,Qiuming,en,male,0,-556,-451,,SP0436,,,Q230192,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,2019-02-24,WH,2022-05-03,ReadActor
-AG0604,左,丘明,zh,male,0,-556,-451,,SP0436,,,Q230192,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,2019-02-24,WH,2022-05-03,ReadActor
+AG0603,Zhuang,Zhou,en,male,0,-0396,-0286,,SP0436,,,Q45427471,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,2019-02-24,WH,2022-05-03,ReadActor
+AG0603,庄,周,zh,male,0,-0396,-0286,,SP0436,,,Q45427471,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,2019-02-24,WH,2022-05-03,ReadActor
+AG0604,Zuo,Qiuming,en,male,0,-0556,-0451,,SP0436,,,Q230192,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,2019-02-24,WH,2022-05-03,ReadActor
+AG0604,左,丘明,zh,male,0,-0556,-0451,,SP0436,,,Q230192,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,2019-02-24,WH,2022-05-03,ReadActor
 AG0605,Sik,Ota,en,male,0,1919,2004,,SP0435,,,Q124035,https://de.wikipedia.org/wiki/Ota_Šik,,,,,2019-03-08,LH,2022-05-03,ReadActor
 AG0605,锡克,锡克,zh,male,0,1919,2004,,SP0435,,,Q124035,https://de.wikipedia.org/wiki/Ota_Šik,,,,,2019-03-08,LH,2022-05-03,ReadActor
 AG0606,Einstein,Albert,en,male,0,1879,1955,,SP0366,,,Q937,https://en.wikipedia.org/wiki/Albert_Einstein,ONLINE SOURCE,,,,2019-01-08,MG,2022-05-03,ReadActor
@@ -1285,8 +1285,8 @@ AG0617,Qin,Guan,en,male,0,1049,1100,,SP0370,,,Q832770,https://en.wikipedia.org/w
 AG0617,秦,观,zh,male,0,1049,1100,,SP0370,,,Q832770,https://en.wikipedia.org/wiki/Qin_Guan,,,,Note that this author is also referred to in Open Love Letters!,2019-03-08,MG,2022-05-03,ReadActor
 AG0618,Qu,Bo,en,male,3,1923,2002,,SP0108,,unknown,Q6059091,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,2019-03-08,MG,2022-05-03,ReadActor
 AG0618,曲,波,zh,male,3,1923,2002,,SP0108,,unknown,Q6059091,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,2019-03-08,MG,2022-05-03,ReadActor
-AG0619,Qu,Yuan,en,male,0,-340,-278,Lingjun,SP0340,,,Q313330,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,2019-03-08,MG,2022-05-03,ReadActor
-AG0619,屈,原,zh,male,0,-340,-278,灵均,SP0340,,,Q313330,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,2019-03-08,MG,2022-05-03,ReadActor
+AG0619,Qu,Yuan,en,male,0,-0340,-0278,Lingjun,SP0340,,,Q313330,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,2019-03-08,MG,2022-05-03,ReadActor
+AG0619,屈,原,zh,male,0,-0340,-0278,灵均,SP0340,,,Q313330,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,2019-03-08,MG,2022-05-03,ReadActor
 AG0620,Qu,Qiubai,en,male,0,1899,1935,,SP0106,,,Q552001,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,2019-03-08,MG,2022-05-03,ReadActor
 AG0620,瞿,秋白,zh,male,0,1899,1935,,SP0106,,,Q552001,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,2019-03-08,MG,2022-05-03,ReadActor
 AG0621,Thomas,Dylan,en,male,0,1914,1953,,SP0371,,,Q191023,https://en.wikipedia.org/wiki/Dylan_Thomas,,,,,2019-03-09,MG,2022-05-03,ReadActor
