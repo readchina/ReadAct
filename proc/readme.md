@@ -266,7 +266,7 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  extend structural `id_lang` to `lit` entries
 - [x]  check `site_information` for `lit` entries
-  - [ ]  no entries recheck comments
+  - [x]  no entries recheck comments
 
 ### ArtWork_p
 
@@ -288,8 +288,8 @@ Create new primary keys according to new `id` scheme.
 
 ### Agent_p
 
-- [ ]  delete duplicate old_id before proceeding with regular cleanup steps
-- [ ]  cleanup (delete) `Agent.name_lang` column
+- [x]  delete duplicate old_id before proceeding with regular cleanup steps
+- [x]  cleanup (delete) `Agent.name_lang` column
 - [ ]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
 
 ### NarrativePosition_p
