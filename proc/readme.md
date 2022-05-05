@@ -264,8 +264,9 @@ Create new primary keys according to new `id` scheme.
 
 ### Act_p
 
-- [ ]  extend structural `id_lang` to `lit` entries
-- [ ]  check `site_information` for `lit` entries
+- [x]  extend structural `id_lang` to `lit` entries
+- [x]  check `site_information` for `lit` entries
+  - [ ]  no entries recheck comments
 
 ### ArtWork_p
 
