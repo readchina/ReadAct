@@ -257,65 +257,65 @@ daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRela
 
 First move all patched files into `proc_data/` to mirror the structure of the data folder on `main`
 
-- Create new primary keys according to new `id` scheme.
-- Replace old `id` secondary keys with new ones.
-- Delete all `NULL` strings.
-- primary sort by ID and secondary by lang
+Create new primary keys according to new `id` scheme.
+- [ ]  Replace old `id` secondary keys with new ones.
+- [x]  Delete all `NULL` strings.
+- [ ]  primary sort by ID and secondary by lang
 
 ### Act_p
 
-- extend structural `id_lang` to `lit` entries
-- check `site_information` for `lit` entries
+- [ ]  extend structural `id_lang` to `lit` entries
+- [ ]  check `site_information` for `lit` entries
 
 ### ArtWork_p
 
-- create primary keys for new art works in `work.csv`
+- [ ]  create primary keys for new art works in `work.csv`
 
 ### Institution_p
 
-- Delete `I0004`, `I0006`, and `I0007` additions from patched output.
-- refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
+- [ ]  Delete `I0004`, `I0006`, and `I0007` additions from patched output.
+- [ ]  refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
 
 ### Membership_p
 
-- `Membership.institution`, `Memebership.member` need agent ID
-- `Membership.source` needs work ID
+- [ ]  `Membership.institution`, `Memebership.member` need agent ID
+- [ ]  `Membership.source` needs work ID
 
 ### Space_p
 
-- more careful handling of `NULL` entries necessary, also check for unknown place/location id
+- [ ]  more careful handling of `NULL` entries necessary, also check for unknown place/location id
 
 ### Agent_p
 
-- delete duplicate old_id before proceeding with regular cleanup steps
-- cleanup (delete) `Agent.name_lang` column
-- ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
+- [ ]  delete duplicate old_id before proceeding with regular cleanup steps
+- [ ]  cleanup (delete) `Agent.name_lang` column
+- [ ]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
 
 ### NarrativePosition_p
 
-- update csv schema and data-dictionary for narrative position table.
+- [ ]  update csv schema and data-dictionary for narrative position table.
 
 ### Primary- / SecondarySource_p
 
-- sort first lots of dubious entries
-- Check `PS00207` which should be unknown work?
-- move `source.fictionality` to `work.fictionality` on main entity?
-- merge three (?) `work.csv` tables
-- `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
-- fix creator references on new Work entries to point to Agents instead of Persons
-- secondary source patch will delete SS00170, check SS00262 - SS00267
+- [ ]  sort first lots of dubious entries
+- [ ]  Check `PS00207` which should be unknown work?
+- [ ]  move `source.fictionality` to `work.fictionality` on main entity?
+- [ ]  merge three (?) `work.csv` tables
+- [ ]  `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
+- [ ]  fix creator references on new Work entries to point to Agents instead of Persons
+- [ ]  secondary source patch will delete SS00170, check SS00262 - SS00267
 
 ### Quotation_p
 
-- `Quotation.source` needs work IDs
+- [ ]  `Quotation.source` needs work IDs
 
 ### SocialRelation
 
-- `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
-- `SocialRelation.source` needs work IDs
+- [ ]  `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
+- [ ]  `SocialRelation.source` needs work IDs
 
 ## Merge Primary Entities
 
-- `person` + `instition` -> `agent`
-- `primarysource` + `secondarysource` + `artwork` -> `work`
-- `place`(?) + `location` -> `space`
+- [ ]  `person` + `instition` -> `agent`
+- [ ]  `primarysource` + `secondarysource` + `artwork` -> `work`
+- [ ]  `place`(?) + `location` -> `space`

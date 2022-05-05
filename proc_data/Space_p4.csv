@@ -2,13 +2,13 @@ space_id,old_id,space_name,space_type,name_lang,lat,long,note,created,created_by
 SP0001,L0001,library,L,en,0.0,0.0,,2018-07-23,MG,2020-04-05,DP
 SP0002,L0002,prison,L,en,0.0,0.0,,2018-07-23,MG,2020-04-05,DP
 SP0003,L0003,book store,L,en,0.0,0.0,,2018-07-30,MG,2020-04-05,DP
-NULL,L0004,session of international intelligence experts,NULL,en,NULL,NULL,NULL,2020-02-24,MG,2020-02-24,MG
-NULL,L0005,rural middle school,NULL,en,NULL,NULL,NULL,2020-05-28,MG,2020-05-28,MG
-NULL,L0010,the State,NULL,en,NULL,NULL,NULL,2021-03-12,MG,2021-03-12,MG
-NULL,L0011,restaurant,NULL,en,NULL,NULL,NULL,2021-06-12,MG,2021-06-12,MG
-NULL,L0012,lecture hall,NULL,en,NULL,NULL,NULL,2021-06-12,MG,2021-06-12,MG
-NULL,L0013,zhang li river,NULL,en,NULL,NULL,NULL,2021-06-14,MG,2021-06-14,MG
-NULL,L0014,university,NULL,en,NULL,NULL,NULL,2021-07-09,MG,2021-07-09,MG
+,L0004,session of international intelligence experts,,en,,,,2020-02-24,MG,2020-02-24,MG
+,L0005,rural middle school,,en,,,,2020-05-28,MG,2020-05-28,MG
+,L0010,the State,,en,,,,2021-03-12,MG,2021-03-12,MG
+,L0011,restaurant,,en,,,,2021-06-12,MG,2021-06-12,MG
+,L0012,lecture hall,,en,,,,2021-06-12,MG,2021-06-12,MG
+,L0013,zhang li river,,en,,,,2021-06-14,MG,2021-06-14,MG
+,L0014,university,,en,,,,2021-07-09,MG,2021-07-09,MG
 SP0004,PL0001,China,PL,en,35.86166,104.195397,,2017-07-07,OS,2020-04-05,DP
 SP0005,PL0002,Beijing,PL,en,39.9042,116.407396,,2017-07-08,OS,2020-04-05,DP
 SP0006,PL0003,Shanghai,PL,en,31.23039,121.473702,,2017-07-09,OS,2020-04-05,DP
