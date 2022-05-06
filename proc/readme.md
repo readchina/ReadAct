@@ -273,6 +273,7 @@ Create new primary keys according to new `id` scheme.
 - [x]  create primary keys for new art works in `work.csv`
 - [ ]  replace old ID on `ArtWork.csv` with new ones from patched `work.csv`
 - [x]  migrate comments from `Work` to `ArtWork`
+- [ ]  is missing fictionality column
 
 ### Institution_p
 
@@ -322,6 +323,10 @@ Create new primary keys according to new `id` scheme.
 ### Work_p
 
 - [ ]  cleanup `work.type_num`
+- [ ]  remove false dupes
+  - [x]  AW
+  - [x]  PS (see notes)
+  - [ ]  SS
 
 
 ## Merge Primary Entities
