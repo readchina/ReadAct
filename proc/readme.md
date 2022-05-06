@@ -311,7 +311,7 @@ Create new primary keys according to new `id` scheme.
 - [ ]  fix creator references on new Work entries to point to Agents instead of Persons
   - [x]  AW
   - [x]  PS
-  - [ ]  SS
+  - [x]  SS (see P0850 jin fan)
 - [ ]  secondary source patch will delete SS00170, check SS00262 - SS00267
 
 ### Quotation_p
@@ -326,10 +326,10 @@ Create new primary keys according to new `id` scheme.
 ### Work_p
 
 - [ ]  cleanup `work.type_num`
-- [ ]  remove false dupes
+- [x]  remove false dupes
   - [x]  AW
   - [x]  PS (see notes)
-  - [ ]  SS
+  - [x]  SS
 
 
 ## Merge Primary Entities
