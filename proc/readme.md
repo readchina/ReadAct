@@ -309,6 +309,9 @@ Create new primary keys according to new `id` scheme.
 - [ ]  merge three (?) `work.csv` tables
 - [ ]  `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
 - [ ]  fix creator references on new Work entries to point to Agents instead of Persons
+  - [x]  AW
+  - [x]  PS
+  - [ ]  SS
 - [ ]  secondary source patch will delete SS00170, check SS00262 - SS00267
 
 ### Quotation_p
