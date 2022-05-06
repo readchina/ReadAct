@@ -270,7 +270,9 @@ Create new primary keys according to new `id` scheme.
 
 ### ArtWork_p
 
-- [ ]  create primary keys for new art works in `work.csv`
+- [x]  create primary keys for new art works in `work.csv`
+- [ ]  replace old ID on `ArtWork.csv` with new ones from patched `work.csv`
+- [x]  migrate comments from `Work` to `ArtWork`
 
 ### Institution_p
 
@@ -279,7 +281,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Membership_p
 
-- [ ]  `Membership.institution`, `Memebership.member` need agent ID
+- [ ]  `Membership.institution`, `Membership.member` need agent ID
 - [ ]  `Membership.source` needs work ID
 
 ### Space_p
@@ -312,10 +314,15 @@ Create new primary keys according to new `id` scheme.
 
 - [ ]  `Quotation.source` needs work IDs
 
-### SocialRelation
+### SocialRelation_p
 
 - [ ]  `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
 - [ ]  `SocialRelation.source` needs work IDs
+
+### Work_p
+
+- [ ]  cleanup `work.type_num`
+
 
 ## Merge Primary Entities
 
