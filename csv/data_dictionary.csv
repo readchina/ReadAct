@@ -79,6 +79,7 @@ Institution,alt_start,start of alternative name: year in EDTF (if unknown uses a
 Institution,alt_end,end of alternative name: year in EDTF (if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
+Institution,wikidata_id, Wikidata ID of the institution,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
@@ -210,6 +211,7 @@ Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,"authors,
 Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
 Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,wikidata_id, Wikidata ID of the space,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Space,note,Internal notes of project members,,2020-04-02,DP,2020-04-02,DP
 Space,created,date of creation of line,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Space,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP

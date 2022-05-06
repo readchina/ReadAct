@@ -63,6 +63,13 @@
         "required": false
       }
     }, {
+      "name": "wikidata_id",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^(Q[0-9]+)*)"
+      }
+    }, {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -93,7 +100,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     },
     {
@@ -110,7 +117,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     }
   ],

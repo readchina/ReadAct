@@ -18,6 +18,7 @@ declare function local:listPlace($places as node()*) as item()* {
 
         for $pl in $places//space_id
         let $type := $pl/../space_type
+        let $wikidataid := lower-case($pl/../wikidata_id)
             order by $pl
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'place')} {
@@ -31,6 +32,10 @@ declare function local:listPlace($places as node()*) as item()* {
                     })
                 else
                     (),
+                (: external IDs :)
+                if ($pl/../wikidata_id)
+                then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
+                else (),
                 if ($pl/../note)
                 then
                     (element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {$pl/../note/text()})
