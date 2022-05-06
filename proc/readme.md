@@ -286,7 +286,7 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  more careful handling of `NULL` entries necessary, also check for unknown place/location id
 - [x]  resolve ID conflicts in P5
-- [ ]  re-confirm before deleting P4
+- [x]  re-confirm before deleting P4
 
 ### Agent_p
 
