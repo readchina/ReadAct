@@ -302,7 +302,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Primary- / SecondarySource_p
 
-- [ ]  sort first lots of dubious entries
+- [x]  sort first lots of dubious entries
 - [ ]  Check `PS00207` which should be unknown work?
 - [ ]  move `source.fictionality` to `work.fictionality` on main entity?
 - [ ]  merge three (?) `work.csv` tables
