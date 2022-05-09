@@ -1,4 +1,254 @@
 prim_source_id,title,subtitle,title_lang,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,fictionality,note,created,created_by,last_modified,last_modified_by
+W0287,Soviet Domestic Capitalist Rstoration Note (1953~1973),,en,G56,SP0005,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2022-05-09,DP
+W0288,Deng Xiaoping,,en,G43,SP0005,1988,Jiefangjun chubanshe,,,,,,,,2018-11-04,WH,2022-05-09,DP
+W0288,Deng Xiaoping,,zh-Latn-pinyin,G43,SP0005,1988,Jiefangjun chubanshe,,,,,,,,2018-11-04,WH,2022-05-09,DP
+W0371,Baiyangdian,,en,G10,,,,,,,,,,,2019-02-17,WH,2022-05-09,DP
+W0371,Baiyangdian,,zh-Latn-pinyin,G10,,,,,,,,,,,2019-02-17,WH,2022-05-09,DP
+W0415,The Little Mermaid,,en,G08,,,,1917,,,,,,,2019-03-12,LH,2022-05-09,DP
+W0415,海的女儿,,zh,G08,,,,1917,,,,,,,2019-03-12,LH,2022-05-09,DP
+W0416,The Little Match Girl,,en,G08,,,,1919,,,,,,,2019-03-12,LH,2022-05-09,DP
+W0417,The Ugly Duckling,,en,G08,,,,1925?,,,,,,,2019-03-12,LH,2022-05-09,DP
+W0417,丑小鸭,,zh-Latn-pinyin,G08,,,,1925?,,,,,,,2019-03-12,LH,2022-05-09,DP
+W0655,The Plum in The Golden Vase,,en,G04,SP0541,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-09-12,MG,2022-05-09,DP
+W0655,金瓶梅,,zh,G04,SP0541,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-08-03,MG,2022-05-09,DP
+W0655,Jin Ping Mei,,zh-Latn-pinyin,G04,SP0541,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-08-03,MG,2022-05-09,DP
+W0656,Die Worte der Fünf Weisen,,de,G99,SP0541,unknown,unknown,,,,,,,PLS check again. I couldn‘t find the Chinese title.,2019-09-12,MG,2022-05-09,DP
+W0656,Les Paroles des Cinq Vieillards,,fr,G99,SP0541,unknown,unknown,,,,,,,PLS check again. I couldn‘t find the Chinese title.,2019-08-03,MG,2022-05-09,DP
+W0657,Don Quixote,,en,G04,SP0005,1958,Renmin meishu chubanshe,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0657,Don Quijote de la Mancha,,ep,G04,SP0005,1958,Renmin meishu chubanshe,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0657,堂吉诃德,,zh,G04,SP0005,1958,Renmin meishu chubanshe,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0658,Ursule Mirouët,,fr,G21,SP0005,1956,Renmin wenxue chubanshe,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0658,于絮尔 弥罗埃,,zh,G21,SP0005,1956,Renmin wenxue chubanshe,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0659,Father Goriot,,en,G21,SP0006,1951,Pingming chuban she,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0659,Le Père Goriot,,fr,G21,SP0006,1951,Pingming chuban she,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0659,高老頭,,zh,G21,SP0006,1951,Pingming chuban she,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0660,Lost Illusions,,en,G21,SP0006,1951,Kaiming shudian,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0660,Illusions Perdues,,fr,G21,SP0006,1951,Kaiming shudian,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0660,幻灭,,zh,G21,SP0006,1951,Kaiming shudian,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0661,Cousin Pons,,fr,G21,SP0006,1952,Pingming chuban she,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0661,邦斯舅舅,,zh,G21,SP0006,1952,Pingming chuban she,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0662,Romeo and Juliet,,en,G16,SP0006,1949,Yong nian shu ju,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0662,罗密欧与朱丽叶,,zh,G16,SP0006,1949,Yong nian shu ju,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0663,Robinson Crusoe,,en,G04,SP0006,1951,Zhonghua shuju,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0663,鲁滨逊漂流记,,zh,G04,SP0006,1951,Zhonghua shuju,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0664,The Hunchback of Notre-Dame,,en,G04,SP0006,1949,Luo tuo shu dian,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0664,Norte Dame de Paris,,fr,G04,SP0006,1949,Luo tuo shu dian,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0664,巴黎聖母院,,zh,G04,SP0006,1949,Luo tuo shu dian,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0665,Colonel Charbert,,fr,G04,SP0005,1954,Renmin wenxue chubanshe,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0665,夏倍上校,,zh,G04,SP0005,1954,Renmin wenxue chubanshe,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0666,Madame Bovary,,fr,G04,SP0006,1951,Wenhua shenghuo chubanshe,,,,,,,,2019-08-03,MG,2022-05-09,DP
+W0666,包法利夫人,,zh,G04,SP0006,1951,Wenhua shenghuo chubanshe,,,,,,,,2019-09-12,MG,2022-05-09,DP
+W0667,The Watch,,en,G50,SP0155,1949,Shandong xin hua shudian,1935,,,,,,,2019-10-30,MG,2022-05-09,DP
+W0667,表,,zh,G50,SP0155,1949,Shandong xin hua shudian,1935,,,,,,,2019-10-30,MG,2022-05-09,DP
+W0668,Diary of a Madman,,en,G05,SP0005,1958,Wenxue gaige chubanshe,1918,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0668,狂人日記,,zh,G05,SP0005,1958,Wenxue gaige chubanshe,1918,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0669,Collected Works of Mao Dun,,en,G28,SP0005,1958,Renmin wenxue chubanshe,,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0669,矛盾文集,,zh,G28,SP0005,1958,Renmin wenxue chubanshe,,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0670,The Selected Works of Gaidar,,en,G28,SP0006,1959..1960,Siaonian ertong chubanshe,,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0670,盖达尔选集,,zh,G28,SP0006,1959..1960,Siaonian ertong chubanshe,,,,,,,,2019-11-08,MG,2022-05-09,DP
+W0671,The Lyrics of the New Wedding Cage,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2019-11-08,MG,2022-05-09,DP
+W0672,辛稼轩词选,,zh,G28,SP0006,1957,Gu dian wen xue chu ban she,,,,,,,,2019-11-09,MG,2022-05-09,DP
+W0673,La Dame aux Camellias,,fr,G04,SP0006,1949,Qiming shuju,,,,,,,,2019-12-02,MG,2022-05-09,DP
+W0673,茶花女,,zh,G04,SP0006,1949,Qiming shuju,,,,,,,,2019-12-02,MG,2022-05-09,DP
+W0674,Breaking Away,,en,G04,SP0541,,,,,W0675,,,,,2019-12-02,MG,2022-05-09,DP
+W0674,隔绝,,zh,G04,SP0541,,,,,W0675,,,,,2019-12-02,MG,2022-05-09,DP
+W0675,卷葹,,zh,G28,SP0005,1983,Renmin wenxue chubanshe,1927,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0675,Juanshi,,zh-Latn-pinyin,G28,SP0005,1983,Renmin wenxue chubanshe,1927,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0676,Buch der Lieder,,de,G28,SP0006,1957,Xinwenyi chubanshe,,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0676,诗歌集,,zh,G28,SP0006,1957,Xinwenyi chubanshe,,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0677,Die Nordsee,Erster Zyklus,de,G10,,,,,,W0676,,,,,2019-12-12,MG,2022-05-09,DP
+W0678,VI,Erklärung,de,G10,,,,,,W0677,,,,,2019-12-12,MG,2022-05-09,DP
+W0679,The Two Fishermen,,en,G05,SP0541,19xx,unknown,,,,,,,check again,2019-12-12,MG,2022-05-09,DP
+W0679,二渔夫,,zh,G05,SP0541,19xx,unknown,,,,,,,check again,2019-12-12,MG,2022-05-09,DP
+W0680,The Last Lesson,,en,G04,SP0005,1979,Renmin meishu chubanshe,,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0680,最后一课,,zh,G04,SP0005,1979,Renmin meishu chubanshe,,,,,,,,2019-12-12,MG,2022-05-09,DP
+W0681,The Iron Flood,,en,G04,SP0005,1950,Xin hua shu dian,,,,,,,,2019-12-17,MG,2022-05-09,DP
+W0681,铁流,,zh,G04,SP0005,1950,Xin hua shu dian,,,,,,,,2019-12-17,MG,2022-05-09,DP
+W0682,Mother,,en,G04,SP0006,1949,Kaiming shuju,,,,,,,,2019-12-17,MG,2022-05-09,DP
+W0682,母,,zh,G04,SP0006,1949,Kaiming shuju,,,,,,,,2019-12-17,MG,2022-05-09,DP
+W0683,The Poverty of Philosophy,,en,G24,SP0006,1949,Jiefang she,,,,,,,,2020-01-06,MG,2022-05-09,DP
+W0683,Misère de la Philosophie,,fr,G24,SP0006,1949,Jiefang she,,,,,,,,2020-01-06,MG,2022-05-09,DP
+W0683,哲學底貧困,,zh,G24,SP0006,1949,Jiefang she,,,,,,,,2020-01-06,MG,2022-05-09,DP
+W0684,Lady Windermere’s Fan,,en,G04,SP0541,19xx,unknown,1926,,,,,,1952 published in Hongkong. Check later for mainland publications,2020-01-06,MG,2022-05-09,DP
+W0684,少奶奶的扇子,,zh,G04,SP0541,19xx,unknown,1926,,,,,,,2020-01-06,MG,2022-05-09,DP
+W0685,Analysis of the Classes in Chinese Society,,en,G24,SP0005,1956,Foreign Language Press,,,,,,,check for chinese version,2020-01-06,MG,2022-05-09,DP
+W0686,Red Banner of Northern China,,en,G52,SP0005,,Zhongguo gong chan dang Hebei Sheng wei yuan hui,1932,,,,,,check,2020-01-06,MG,2022-05-09,DP
+W0686,北方红旗,,zh,G52,SP0005,,Zhongguo gong chan dang Hebei Sheng wei yuan hui,1932,,,,,,,2020-01-06,MG,2022-05-09,DP
+W0687,Ode to the West Wind,,en,G10,,,,,,W0688,,,,,2020-01-08,MG,2022-05-09,DP
+W0687,西風頌,,zh,G10,,,,,,W0688,,,,,2020-01-08,MG,2022-05-09,DP
+W0688,Prometheus Unbound,,en,G79,SP0541,19xx,unknown,1944?,,,,,,check for chinese version,2020-01-08,MG,2022-05-09,DP
+W0688,解放了的普罗米修斯,,zh,G79,SP0541,19xx,unknown,1944?,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0689,A Short Course of Dialectics,,en,G99,SP0541,19xx,unknown,,,,,,,check,2020-01-08,MG,2022-05-09,DP
+W0689,辩证法教程,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0690,Three People’s Principles,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0690,三民主义,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0691,Fundamentals of the Nationalist Resurrection,,en,G99,SP0541,19xx,unknown,1926,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0691,建国大纲,,zh,G99,SP0541,19xx,unknown,1926,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0692,Seven Heroes and Five Gallants,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0692,七侠五义,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0693,World Culture,,en,G99,SP0005,19xx,Shijie chu ban she,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0693,世界知识,,zh,G99,SP0005,19xx,Shijie chu ban she,,,,,,,check again,2020-01-08,MG,2022-05-09,DP
+W0694,The Goddesses,,en,G10,SP0005,1953,Renmin wenxue chubanshe,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0694,女神,,zh,G10,SP0005,1953,Renmin wenxue chubanshe,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0695,The Five Heroes in the Eastern Capital,,en,G04,,,,,,W0138,,,,,2020-01-15,MG,2022-05-09,DP
+W0695,五鼠闹东京,,zh,G04,,,,,,W0138,,,,,2020-01-15,MG,2022-05-09,DP
+W0696,L‘Avare,,fr,G17,SP0006,1949,Kaiming shudian,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0696,吝嗇鬼,,zh,G17,SP0006,1949,Kaiming shudian,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0697,Left-Wing Communism,An Infantile Disorder,en,G01,SP0006,1949,Jiefang she,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0697,共产主义运动中的“左派”幼稚病,,zh,G01,SP0006,1949,Jiefang she,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0698,Outline to Political Economy,,en,G24,SP0005,1977,Shang wu yin shu guan,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0698,政治经济学大纲,,zh,G24,SP0005,1977,Shang wu yin shu guan,,,,,,,,2020-01-15,MG,2022-05-09,DP
+W0699,Jiu Guo Shi Bao,,en,G55,SP0005,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0699,Au Secours de la Patrie,,fr,G55,SP0005,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0699,救国时报,,zh,G55,SP0005,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0702,Popular Life,,en,G55,SP0006,1981,Shanghai shu dian,1941,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0702,大众生活,,zh,G55,SP0006,1981,Shanghai shu dian,1941,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0703,August The First Manifesto,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0703,八一宣言,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0704,Tsinghua Weekly,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0704,清华周刊,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0705,Life of Reading,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0705,读书生活,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-01,MG,2022-05-09,DP
+W0706,A Midsummer Night‘s Dream,,en,G17,SP0005,1954,Zuojia chubanshe,,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0706,仲夏夜之梦,,zh,G17,SP0005,1954,Zuojia chubanshe,,,,,,,,2020-02-01,MG,2022-05-09,DP
+W0707,七言诗,,zh,G10,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0708,A Singsong Girl,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0709,Tragic Love,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0710,Canonization of The Gods,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0710,封神X,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0711,How to Study The New Social Sciences,,en,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0711,怎样研究新兴社会科学,,zh,G99,SP0541,19xx,unknown,,,,,,,check again,2020-02-04,MG,2022-05-09,DP
+W0712,汾阴行,,zh,G09,SP0541,19xx,unknown,,,,,,,check again,2020-02-06,MG,2022-05-09,DP
+W0713,Silent Spring,,en,G80,SP0256,1962,,1979,,,,,,,2020-02-14,MG,2022-05-09,DP
+W0713,寂静的春天,,zh,G80,SP0256,1962,,1979,,,,,,,2020-02-14,MG,2022-05-09,DP
+W0714,Journal of Astrophysics,,en,G19,SP0541,19xx,unknown,,,,,,F,,2020-02-14,MG,2022-05-09,DP
+W0715,Love of Life,,en,G04,SP0006,1953,Shao nian er tong chubanshe,,,,,,,,2020-05-16,MG,2022-05-09,DP
+W0715,生命之爱,,zh,G04,SP0006,1953,Shao nian er tong chubanshe,,,,,,,,2020-05-16,MG,2022-05-09,DP
+W0716,Short Song,,en,G10,,,,,,W0717,,,,,2020-05-16,MG,2022-05-09,DP
+W0716,短歌行,,zh,G10,,,,,,W0717,,,,,2020-05-16,MG,2022-05-09,DP
+W0717,Cao Cao ji,,en,G28,SP0005,1959,Zhonghua shuju,,,,,,,,2020-05-19,MG,2022-05-09,DP
+W0717,曹操集,,zh,G28,SP0005,1959,Zhonghua shuju,,,,,,,,2020-05-19,MG,2022-05-09,DP
+W0718,New Chinese Dictionary,,en,G57,SP0005,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2022-05-09,DP
+W0718,新华字典,,zh,G57,SP0005,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2022-05-09,DP
+W0718,Xinhua Zidian,,zh-Latn-pinyin,G57,SP0005,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2022-05-09,DP
+W0719,Selected Works of Lenin,,en,G28,SP0096,1949,Dongbei shudian,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0719,列宁选集,,zh,G28,SP0096,1949,Dongbei shudian,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0720,Required Reading for Cadres,,en,G26,SP0005,1950,Jiefang she,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0720,干部必读,,zh,G26,SP0005,1950,Jiefang she,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0721,Quotations from Vice-Chairman Lin Biao,,en,G88,SP0005,1969,unknown,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0721,副主席林彪语录,,zh,G88,SP0005,1969,unknown,,,,,,,,2020-06-18,MG,2022-05-09,DP
+W0722,Talk at a Conference of Representatives of Anwhei Who Have Come to Beijing,,en,G27,,,,,,W0723,,520-534,,,2020-06-30,MG,2022-05-09,DP
+W0723,CCP Documents of the Great Proletarian Cultural Revolution,1966-1967,en,G26,SP0020,1968,Union Research Institute,,,,,,,Add Chinese original,2020-06-30,MG,2022-05-09,DP
+W0724,On Protracted War,,en,G27,,,,,,W0255,Vol. 2,,,,2020-09-28,MG,2022-05-09,DP
+W0724,论持久战,,zh,G27,,,,,,W0255,Vol. 2,,,,2020-09-28,MG,2022-05-09,DP
+W0725,The Newcomer,The Manager of an MTS and the Chief Agronomist,en,G04,,1954?,,,,,,,,Chinese title should be added,2021-01-16,MG,2022-05-09,DP
+W0725,Повесть о директоре МТС и главном агрономе,,ru,G04,,1954?,,,,,,,,Chinese title should be added,2021-01-16,MG,2022-05-09,DP
+W0726,And Quiet Flows The Don,,en,G04,SP0006,1952,Guangming shuju,1931,,,,,,,2021-01-18,MG,2022-05-09,DP
+W0726,静静的顿河,,zh,G04,SP0006,1952,Guangming shuju,1931,,,,,,,2021-01-18,MG,2022-05-09,DP
+W0727,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern,,de,G75,SP0541,1949..1955,unknown,,,,,,,check the Chinese translation,2021-01-18,MG,2022-05-09,DP
+W0728,1984,,en,G07,SP0023,1998,Liao ning jiao yu chu ban she,1953,,,,,,,2021-03-12,MG,2022-05-09,DP
+W0728,一九八四,,zh,G07,SP0023,1998,Liao ning jiao yu chu ban she,1953,,,,,,,2021-03-12,MG,2022-05-09,DP
+W0729,Paradise Lost,,en,G10,SP0005,1958,Renmin wenxue chubanshe,1667,,,,,,,2021-03-15,MG,2022-05-09,DP
+W0729,失乐园,,zh,G10,SP0005,1958,Renmin wenxue chubanshe,1667,,,,,,,2021-03-15,MG,2022-05-09,DP
+W0730,The History of Future City,,en,G41,SP0541,,,,,,,,F,,2021-04-15,MG,2022-05-09,DP
+W0730,未来市的历史,,zh,G41,SP0541,,,,,,,,F,,2021-04-15,MG,2022-05-09,DP
+W0731,The Diamond Sutra,,en,G29,SP0005,1989,Wenwu chubanshe,,,,,,,,2021-05-05,MG,2022-05-09,DP
+W0731,金剛般若波羅蜜經論,,zh,G29,SP0005,1989,Wenwu chubanshe,,,,,,,,2021-05-05,MG,2022-05-09,DP
+W0732,The Crystal Spheres,,en,G07,,,,,,W0786,,,,,2021-06-07,MG,2022-05-09,DP
+W0732,水晶球,,zh,G07,,,,,,W0786,,,,,2021-06-07,MG,2022-05-09,DP
+W0733,Restaurant at The End of The Universe,,en,G07,SP0007,2005,Sichuan kexue jishu chubanshe,,,,,,,,2021-06-09,MG,2022-05-09,DP
+W0733,宇宙尽头的餐馆,,zh,G07,SP0007,2005,Sichuan kexue jishu chubanshe,,,,,,,,2021-06-09,MG,2022-05-09,DP
+W0734,Huainanzi,,en,G28,SP0005,1978,Guancang zhongwen ziyuan,-0139,,,,,,,2021-06-14,MG,2022-05-09,DP
+W0734,淮南子,,zh,G28,SP0005,1978,Guancang zhongwen ziyuan,-0139,,,,,,,2021-06-14,MG,2022-05-09,DP
+W0735,Odyssey,,en,G11,SP0005,1956,Zhongguo qingnian chubanshe,,,,,,,,2021-06-14,MG,2022-05-09,DP
+W0735,奥德赛,,zh,G11,SP0005,1956,Zhongguo qingnian chubanshe,,,,,,,,2021-06-14,MG,2022-05-09,DP
+W0736,Xunzi,,en,G29,SP0006,1959,Shanghai renmin chubanshe,,,,,,,,2021-06-15,MG,2022-05-09,DP
+W0736,荀子,,zh,G29,SP0006,1959,Shanghai renmin chubanshe,,,,,,,,2021-06-15,MG,2022-05-09,DP
+W0737,The Guinness Book of World Records,,en,G86,SP0006,1988,Shanghai wenhua chubanshe,,,,,,,,2021-06-15,MG,2022-05-09,DP
+W0737,吉尼斯世界纪录,,zh,G86,SP0006,1988,Shanghai wenhua chubanshe,,,,,,,,2021-06-16,MG,2022-05-09,DP
+W0738,Three Alls Policy,,en,G87,SP0541,,,,,,,,,,2021-06-15,MG,2022-05-09,DP
+W0738,三光政策,,zh,G87,SP0541,,,,,,,,,,2021-06-16,MG,2022-05-09,DP
+W0739,The Hitchhiker’s Guide to The Universe,,en,G07,SP0006,2011,Shanghai yiwen chubanshe,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0739,银河系搭车客指南,,zh,G07,SP0006,2011,Shanghai yiwen chubanshe,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0740,Call to Arms,,en,G28,SP0005,1973,Renmin wenxue chubanshe,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0740,呐喊,,zh,G28,SP0005,1973,Renmin wenxue chubanshe,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0741,Mathematical Principles of Natural Philosophy,,en,G99,SP0006,1931,Shang wu yin shu guan,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0741,自然哲学的数学原理,,zh,G99,SP0006,1931,Shang wu yin shu guan,,,,,,,,2021-06-21,MG,2022-05-09,DP
+W0742,As if in a dream,a song,en,G10,SP0541,,unknown,,,,,,,check later,2021-06-21,MG,2022-05-09,DP
+W0743,Erewhon,,en,G90,SP0113,1985,Hunan renmin chubanshe,,,,,,,,2021-06-22,MG,2022-05-09,DP
+W0743,埃里汪奇游记,,zh,G90,SP0113,1985,Hunan renmin chubanshe,,,,,,,,2021-06-22,MG,2022-05-09,DP
+W0744,Erewhon Revisited,,en,G90,SP0039,1901,J. Cape,,,,,,,Chinese edition?,2021-06-22,MG,2022-05-09,DP
+W0745,Design For a Brain,,en,G19,SP0039,1952,Chapman & Hall,,,,,,,Chinese edition?,2021-06-22,MG,2022-05-09,DP
+W0746,Journal International Microbiology,,en,G52,SP0541,,unknown,,,,,,F,,2021-06-22,MG,2022-05-09,DP
+W0747,Die Gute Hausfrau,,de,G99,SP0541,,unknown,,,,,,,fictional? Check later,2021-06-22,MG,2022-05-09,DP
+W0748,Othello,,en,G16,SP0006,1958,Xinwenyi chubanshe,,,,,,,,2021-06-23,MG,2022-05-09,DP
+W0748,奧塞罗,,zh,G16,SP0006,1958,Xinwenyi chubanshe,,,,,,,,2021-06-23,MG,2022-05-09,DP
+W0749,The Smiling Proud Wanderer,,en,G04,SP0155,1985,Shandong renmin chubanshe,1967,,,,,,,2021-06-23,MG,2022-05-09,DP
+W0749,笑傲江湖,,zh,G04,SP0155,1985,Shandong renmin chubanshe,1967,,,,,,,2021-06-23,MG,2022-05-09,DP
+W0750,Runaround,,en,G05,,,,,,W0751,,,,,2021-07-02,MG,2022-05-09,DP
+W0750,环舞,,zh,G05,,,,,,W0751,,,,,2021-07-02,MG,2022-05-09,DP
+W0751,I ; Robot,,en,G07,SP0005,1981,Kexue pu ji chubanshe,,,,,,,,2021-07-02,MG,2022-05-09,DP
+W0751,我 ; 机器人,,zh,G07,SP0005,1981,Kexue pu ji chubanshe,,,,,,,,2021-07-02,MG,2022-05-09,DP
+W0752,Iliad,,en,G11,SP0005,1958,Renmin wenxue chubanshe,,,,,,,,2021-07-02,MG,2022-05-09,DP
+W0752,伊利亚特,,zh,G11,SP0005,1958,Renmin wenxue chubanshe,,,,,,,,2021-07-02,MG,2022-05-09,DP
+W0753,Jiefangjun Bao,,en,G52,SP0005,,Jie fang jun chu ban she,1956,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0753,解放军报,,zh,G52,SP0005,,Jie fang jun chu ban she,1956,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0754,36 Strategemes,,en,G87,SP0005,1999,Zhonguo wenshi chubanshe,,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0754,三十六计,,zh,G87,SP0005,1999,Zhonguo wenshi chubanshe,,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0755,The Modern Temper,A Study And Confession,en,G04,SP0053,1929,Harcourt Brace & World,,,,,,,Chinese title/publ. should be added,2021-07-09,MG,2022-05-09,DP
+W0756,Abhandlung über die Bildung von Hautexzemen,,de,G19,SP0541,,unknown,,,,,,F,,2021-07-09,MG,2022-05-09,DP
+W0757,Sporenlehre,,de,G19,SP0541,,unknown,,,,,,F,,2021-07-09,MG,2022-05-09,DP
+W0758,Oxford English Dictionary,,en,G57,SP0521,,Oxford Universtity Press,,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0759,In His Image,The Cloning of a Man,en,G99,SP0005,1980,Kexue chubanshe,,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0759,人的複制,一个人的无性生殖,zh,G99,SP0005,1980,Kexue chubanshe,,,,,,,,2021-07-09,MG,2022-05-09,DP
+W0760,Alice’s Travel,,en,G07,SP0541,,,,,,,,,or Alice in outer space? Check again,2021-07-09,MG,2022-05-09,DP
+W0761,Confessions of a Murderer,Told in One Night,en,G04,SP0039,1937,London Hale,,,,,,,Chinese edition?,2021-07-10,MG,2022-05-09,DP
+W0761,我是杀人犯,,zh,G04,SP0039,1937,London Hale,,,,,,,not sure about Chinese title,2021-07-10,MG,2022-05-09,DP
+W0762,The Road to Riches,or The Wealth of Men,en,G89,SP0005,2005,Guoji wen hua chu ban gong si,,,,,,,,2021-07-10,MG,2022-05-09,DP
+W0762,财富的历程,,zh,G89,SP0005,2005,Guoji wen hua chu ban gong si,,,,,,,,2021-07-25,MG,2022-05-09,DP
+W0763,Love on The Isle of God,,en,G04,SP0541,,unknown,,,,,,,please check,2021-07-10,MG,2022-05-09,DP
+W0764,World Art,Magazine of Contemporary Visual Arts,en,G52,SP0541,1994,World Art,,,,,,,,2021-07-10,MG,2022-05-09,DP
+W0765,River Snow,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0765,江雪,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0766,Yellow Crane Tower,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0766,黃鶴樓,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0767,Spring Dawn,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0767,春晓,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0768,Going Down to Jiangling,,en,G10,,,,,,W0772,,,,Or : Through the Yangzi Gorges,2021-07-11,MG,2022-05-09,DP
+W0768,下江陵,,zh,G10,,,,,,W0772,,,,Or : Through the Yangzi Gorges,2021-07-11,MG,2022-05-09,DP
+W0769,Quiet Night Thought,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0769,靜夜思,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0770,Seeing off Meng Haoran for Guangling at Yellow Crane Tower,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0770,黃鶴樓送孟浩然之廣陵,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0771,Climbing Stork Tower,,en,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0771,登鹳雀楼,,zh,G10,,,,,,W0772,,,,,2021-07-11,MG,2022-05-09,DP
+W0772,Three Hundred Tang Poems,,en,G28,SP0005,1956,Wenxue guji kanxing she,,,,,,,,2021-07-11,MG,2022-05-09,DP
+W0772,唐詩三百首,,zh,G28,SP0005,1956,Wenxue guji kanxing she,,,,,,,,2021-07-11,MG,2022-05-09,DP
+W0773,Theory of Moral Sentiments,,en,G29,SP0005,1997,Shang wu yin shu guan,,,,,,,,2021-07-14,MG,2022-05-09,DP
+W0773,道德情操论,,zh,G29,SP0005,1997,Shang wu yin shu guan,,,,,,,,2021-07-14,MG,2022-05-09,DP
+W0774,The Orphans,,en,G07,SP0541,,unknown,,,,,,,please check,2021-07-14,MG,2022-05-09,DP
+W0775,Rumpelstilzchen,,de,G08,,,,,,W0094,,,,,2021-07-14,MG,2022-05-09,DP
+W0775,Rumpelstiltskin,,en,G08,,,,,,W0094,,,,,2021-07-14,MG,2022-05-09,DP
+W0775,名字古怪的小矮人兒,,zh,G08,,,,,,W0094,,,,,2021-07-14,MG,2022-05-09,DP
+W0776,The Book of Songs,,en,G28,SP0005,1999,Zhongguo wen shi chu ban shi,,,,,,,,2021-07-19,MG,2022-05-09,DP
+W0776,诗经,,zh,G28,SP0005,1999,Zhongguo wen shi chu ban shi,,,,,,,,2021-07-19,MG,2022-05-09,DP
+W0777,Chu Ci,,en,G28,SP0005,1998,Lantian chubanshe,,,,,,,,2021-07-19,MG,2022-05-09,DP
+W0777,楚辞,,zh,G28,SP0005,1998,Lantian chubanshe,,,,,,,,2021-07-19,MG,2022-05-09,DP
+W0778,I Ching or Book of Changes,The Richard Wilhelm Translation,en,G29,SP0053,1950,Pantheon Books,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0778,易经,,zh,G29,SP0053,1950,Pantheon Books,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0779,The Secret of The Golden Flower,A Chinese Book of Life,en,G29,SP0039,1950,Routledge,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0779,金花的秘密,中國生命之書,zh,G29,SP0039,1950,Routledge,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0780,Adam and Eve,,en,G83,,,,,,W0289,,,,,2021-07-21,MG,2022-05-09,DP
+W0780,亚当和夏娃,,zh,G83,,,,,,W0289,,,,,2021-07-21,MG,2022-05-09,DP
+W0781,Doraemon,,en,G84,SP0541,,,,,,,,,please check again,2021-07-21,MG,2022-05-09,DP
+W0781,哆啦A夢,,zh,G84,SP0541,,,,,,,,,please check again,2021-07-21,MG,2022-05-09,DP
+W0782,Peter Pan,,en,G04,SP0005,1991,Sanlian shudian,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0782,彼得潘,,zh,G04,SP0005,1991,Sanlian shudian,,,,,,,,2021-07-21,MG,2022-05-09,DP
+W0783,Cannibalism,,en,G99,SP0541,,unknown,,,,,,,,2021-07-23,MG,2022-05-09,DP
+W0783,吃人,,zh,G99,SP0541,,unknown,,,,,,,,2021-07-23,MG,2022-05-09,DP
+W0784,水彩画技法,,zh,G99,SP0541,,unknown,,,,,,,,2021-07-23,MG,2022-05-09,DP
+W0785,电子线路人门,,zh,G99,SP0541,,unknown,,,,,,,,2021-07-23,MG,2022-05-09,DP
+W0786,Mang mang tai kong xun zhi yin : mei guo you xiu ke huan ziao shuo xuan,,zh-Latn-pinyin,G28,SP0103,1990,Shao nian er tong chubanshe,,,,,,,,2021-07-23,MG,2022-05-09,DP
 W0001,Silent China,,en,G01,SP0006,1932,Beixin shuju,1932,no,,,,,,2017-07-03,LH,2020-04-08,DP
 W0001,无声的中国,,zh,G01,SP0006,1932,Beixin shuju,1932,no,,,,,,2017-07-03,LH,2020-04-08,DP
 W0001,Wusheng de zhongguo,,zh-Latn-pinyin,G01,SP0006,1932,Beixin shuju,1932,no,,,,,,2018-04-25,MG,2020-04-08,DP
@@ -233,8 +483,8 @@ W0075,Ziran bianzheng fa,,zh-Latn-pinyin,G01,SP0006,1949,Wenyuan chubanshe,19XX,
 W0076,A Brief History of China,,en,G19,SP0436,19XX,,19XX,,,,,,,2018-01-25,OS,2020-04-08,DP
 W0076,中国通史简编,,zh,G19,SP0436,19XX,,19XX,,,,,,,2018-01-25,OS,2020-04-08,DP
 W0076,Zhongguo tongshi jian bian,,zh-Latn-pinyin,G19,SP0436,19XX,,19XX,,,,,,,2018-04-25,MG,2020-04-08,DP
-W0077,反杜林论,,zh,G05,SP0005,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2020-04-08,DP
 W0077,Stories Old and New,,en,G05,SP0005,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2020-04-08,DP
+W0077,反杜林论,,zh,G05,SP0005,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-01-25,OS,2020-04-08,DP
 W0077,Fan du lin lun,,zh-Latn-pinyin,G05,SP0005,1958,Renmin wenxue chubanshe,1620,no,,,642,,,2018-04-25,MG,2020-04-08,DP
 W0078,The Gadfly,,en,G04,SP0005,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2020-04-08,DP
 W0078,牛虻,,zh,G04,SP0005,1953,Zhongguo qingnian chubanshe,1953,no,,,,,,2018-02-02,OS,2020-04-08,DP
@@ -261,8 +511,6 @@ W0084,Jidushan bojue,,zh-Latn-pinyin,G04,SP0006,1930,Shangwu yinshuguan,19XX,,,,
 W0085,The Song of the Sea,,en,G10,SP0436,1967,,19XX,,,,,,,2018-02-09,OS,2020-04-08,DP
 W0085,海洋之歌,,zh,G10,SP0436,1967,,19XX,,,,,,,2018-02-09,OS,2020-04-08,DP
 W0085,Haiyang zhi ge,,zh-Latn-pinyin,G10,SP0436,1967,,19XX,,,,,,,2018-04-25,MG,2020-04-08,DP
-PS00207,unknown,,en,G19,,,,,,,,,,,2018-02-11,OS,2018-02-11,OS
-PS00207,unknown,,en,G19,,,,,,,,,,,2018-02-11,OS,2018-02-11,OS
 W0086,unknown,,en,G19,SP0436,19XX,,19XX,,,,,,,2018-02-11,OS,2020-04-08,DP
 W0087,When Lotuses Bloom Again,,en,G04,SP0436,19XX,,19XX,,,,,,,2018-02-11,OS,2020-04-08,DP
 W0087,当芙蓉花重新开放的时候,,zh,G04,SP0436,19XX,,19XX,,,,,,,2018-02-11,OS,2020-04-08,DP
@@ -827,14 +1075,13 @@ W0283,朝鲜,,zh,G52,SP0436,19XX,Nanjing Foreign Languages Bookstore,19XX,no,,,,
 W0283,Chaoxian,,zh-Latn-pinyin,G52,SP0436,19XX,Nanjing Foreign Languages Bookstore,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0284,Translation of Selected Passages,,en,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
 W0284,摘译,,zh,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
-W0285,学习与批判,,zh,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0284,Zhai yi,,zh-Latn-pinyin,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
-W0285,Xuexi yu pipan,,zh-Latn-pinyin,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0285,Critique and Study,,en,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
+W0285,学习与批判,,zh,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
+W0285,Xuexi yu pipan,,zh-Latn-pinyin,G52,SP0006,1973,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0286,Morning Glow,,en,G52,SP0006,1976,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0286,朝霞,,zh,G52,SP0006,1976,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0286,Zhaoxia,,zh-Latn-pinyin,G52,SP0006,1976,Shanghai renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
-PS00510,Soviet Domestic Capitalist Rstoration Note (1953~1973),,en,G56,PL0002,1975,Sanlian shudian,,yes,,,,,,2018-11-04,WH,2018-11-04,WH
 W0287,Soviet Domestic Capitalist Restoration Note (1953~1973),,en,G56,SP0005,1975,Sanlian shudian,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
 W0287,苏联国内资本主义复辟记事（1953~1973）,,zh,G56,SP0005,1975,Sanlian shudian,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
 W0287,Sulian guonei zibenzhuzi fubi jishi (1953~1973),,zh-Latn-pinyin,G56,SP0005,1975,Sanlian shudian,19XX,yes,,,,,,2018-11-04,WH,2020-04-08,DP
@@ -889,10 +1136,8 @@ W0303,Renmin wenxue,,zh-Latn-pinyin,G52,SP0005,1949,Renmin wenxue zazhishe,19XX,
 W0304,Xiangjiang Literature,,en,G52,SP0054,1972,Hunan renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0304,湘江文艺,,zh,G52,SP0054,1972,Hunan renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
 W0304,Xiangjiang wenyi,,zh-Latn-pinyin,G52,SP0054,1972,Hunan renmin chubanshe,19XX,no,,,,,,2018-11-04,WH,2020-04-08,DP
-PS00528,Deng Xiaoping,,en,G43,PL0002,1988,Jiefangjun chubanshe,,,,,,,,2018-11-04,WH,2018-11-04,WH
 W0305,Deng Xiaoping,,en,G43,SP0005,1988,Jiefangjun chubanshe,19XX,,,,,,,2018-11-04,WH,2020-04-08,DP
 W0305,邓小平,,zh,G43,SP0005,1988,Jiefangjun chubanshe,19XX,,,,,,,2018-11-04,WH,2020-04-08,DP
-PS00528,Deng Xiaoping,,zh-Latn-pinyin,G43,PL0002,1988,Jiefangjun chubanshe,,,,,,,,2018-11-04,WH,2018-11-04,WH
 W0305,Deng Xiaoping,,zh-Latn-pinyin,G43,SP0005,1988,Jiefangjun chubanshe,19XX,,,,,,,2018-11-04,WH,2020-04-08,DP
 W0306,"Moving out, lucky soup",,en,G05,SP0436,19XX,,19XX,,,,,,,2018-11-04,WH,2020-04-08,DP
 W0306,乔迁喜面,,zh,G05,SP0436,19XX,,19XX,,,,,,,2018-11-04,WH,2020-04-08,DP
@@ -1089,10 +1334,8 @@ W0369,Chushen lun,,zh-Latn-pinyin,G24,SP0436,19XX,,1967,,,,,,,2019-02-17,WH,2020
 W0370,A Little Star Next to the Moon,,en,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
 W0370,月亮旁的一颗小星,,zh,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
 W0370,Yueliang pang de yi ke xiao xing,,zh-Latn-pinyin,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
-PS00594,Baiyangdian,,en,G10,,,,,,,,,,,2019-02-17,WH,2019-02-17,WH
 W0371,Baiyangdian,,en,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
 W0371,白洋淀,,zh,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
-PS00594,Baiyangdian,,zh-Latn-pinyin,G10,,,,,,,,,,,2019-02-17,WH,2019-02-17,WH
 W0371,Baiyangdian,,zh-Latn-pinyin,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
 W0372,Bridge over the Abyss,,en,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
 W0372,深渊上的桥,,zh,G10,SP0436,19XX,,19XX,,,,,,,2019-02-17,WH,2020-04-08,DP
@@ -1109,26 +1352,45 @@ W0375,Women de jinianbei,,zh-Latn-pinyin,G10,SP0436,19XX,,19XX,,,,,,,2019-02-23,
 W0376,The Boundary,,en,G04,SP0006,1975,Shanghai renmin chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
 W0376,分界线,,zh,G04,SP0006,1975,Shanghai renmin chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
 W0376,Fenjiexian,,zh-Latn-pinyin,G04,SP0006,1975,Shanghai renmin chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
+W0377,The Scar,,en,G04,SP0005,1978,Beijing chuban she,19XX,,,,,,,2018-12-11,MG,2020-04-08,DP
+W0377,伤痕,,zh,G04,SP0005,1978,Beijing chuban she,19XX,,,,,,,2018-12-11,MG,2020-04-08,DP
 W0378,Pour Vivre ici,,fr,G10,SP0436,19XX,unknown,19XX,,,,,,,2019-02-04,MG,2020-04-08,DP
 W0378,为了在这里生活,,zh,G10,SP0436,19XX,unknown,19XX,,,,,,,2019-02-04,MG,2020-04-08,DP
+W0379,辞源,,zh,G04,SP0005,1993,Jingguan jiaoyu chuban she,1912,no,,,,,can‘t find any PRC publication earlier than 1993.,2018-12-11,MG,2020-04-08,DP
 W0380,唐宋名家词选,,zh,G13,SP0006,1956,Gu dian wen xue chu ban she,19XX,,,,,,,2018-12-11,MG,2020-04-08,DP
+W0381,The Song of Ouyang Hai,,en,G04,SP0005,1965,Jiefangjun wenyi she,19XX,no,,,,,,2019-02-11,MG,2020-04-08,DP
+W0381,欧阳海之歌,,zh,G04,SP0005,1965,Jiefangjun wenyi she,19XX,no,,,,,,2019-02-11,MG,2020-04-08,DP
 W0382,Yulin Bell,,en,G10,SP0436,19XX,,19XX,,W0414,,,,,2018-12-15,MG,2020-04-08,DP
 W0382,雨霖铃,,zh,G10,SP0436,19XX,,19XX,,W0414,,,,,2018-12-12,MG,2020-04-08,DP
+W0383,苏联是社会主义国家吗,,zh,G99,SP0020,1969,Xianggang sanlian shudian,1936,no,,,,,,2019-02-11,MG,2020-04-08,DP
+W0384,战国策,,zh,G99,SP0006,1978,Shanghai guji chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
 W0385,Whither Guangdong?,,en,G76,SP0082,1974,,19XX,,,,,,,2019-02-18,LH,2020-04-08,DP
 W0385,广东怎么办,,zh,G76,SP0082,1974,,19XX,,,,,,,2019-02-18,LH,2020-04-08,DP
 W0385,Guangdong zenme ban,,zh-Latn-pinyin,G76,SP0082,1974,,19XX,,,,,,,2019-02-18,LH,2020-04-08,DP
 W0386,Steel Meets Fire,,en,G04,SP0436,1958,Zhongguo qingnian chubanshe,1958,,,,,,,2018-12-12,MG,2020-04-08,DP
 W0386,烈火金刚,,zh,G04,SP0436,1958,Zhongguo qingnian chubanshe,1958,,,,,,,2018-12-12,MG,2020-04-08,DP
+W0387,Classical Theory of Fields,,en,G19,SP0436,19XX,,19XX,,,,,,,2019-02-18,LH,2020-04-08,DP
 W0388,The Sunny Day,,en,G04,SP0005,1964..1966,Zuojia chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
 W0388,艳阳天,,zh,G04,SP0005,1964..1966,Zuojia chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
+W0389,Fortress Besieged,,en,G04,SP0005,1980,Renmin wenxue chubanshe,1947,no,,,,,Seems that the book was not published from 1949 – 1980,2019-03-08,MG,2020-04-08,DP
+W0389,围城,,zh,G04,SP0005,1980,Renmin wenxue chubanshe,1947,no,,,,,Seems that the book was not published from 1949 – 1980,2019-03-08,MG,2020-04-08,DP
 W0390,The Golden Road,,en,G04,SP0005,1972,Renmin wenxue chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
 W0390,金光大道,,zh,G04,SP0005,1972,Renmin wenxue chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
+W0391,Tracks in The Snowy Forest,,en,G04,SP0005,1957,Zuojia chubanshe,19XX,no,,,,,,2019-03-09,MG,2020-04-08,DP
+W0391,林海雪原,,zh,G04,SP0005,1957,Zuojia chubanshe,19XX,no,,,,,,2019-03-08,MG,2020-04-08,DP
 W0392,Struggles in an Ancient City,,en,G99,SP0005,1958,Renmin wenxue chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
 W0392,野火春风斗古城,,zh,G99,SP0005,1958,Renmin wenxue chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
+W0393,Li Sao,,en,G13,SP0006,1954,Shanghai wenyi lianhe chubanshe,19XX,,,,,,,2019-03-09,MG,2020-04-08,DP
+W0393,离骚,,zh,G13,SP0006,1954,Shanghai wenyi lianhe chubanshe,19XX,,,,,,,2019-03-08,MG,2020-04-08,DP
+W0394,三峡,,zh,G23,SP0436,19XX,unknown,19XX,,,,,,,2018-12-15,MG,2020-04-08,DP
 W0395,Journey to The Land of Hunger,,en,G75,SP0187,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-09,MG,2020-04-08,DP
 W0395,饿乡纪程,,zh,G75,SP0187,1981,Changjiang wenyi chubanshe,1921,no,,,,,,2019-03-08,MG,2020-04-08,DP
+W0396,毛泽东的青年时代,,zh,G02,SP0005,1950,Renmin chubanshe,1948,,,,,,,2018-12-15,MG,2020-04-08,DP
 W0397,Impressions of The Red Capital,,en,G75,SP0005,1953,Renmin wenxue chubanshe,1924,no,,,,,,2019-03-08,MG,2020-04-08,DP
 W0397,赤都心史,,zh,G75,SP0005,1953,Renmin wenxue chubanshe,1924,no,,,,,,2019-03-09,MG,2020-04-08,DP
+W0398,Сказание о директоре Прончатове,,ru,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-05-02,WH,2020-04-08,DP
+W0398,普隆恰托夫经理的故事,,zh,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2018-12-15,MG,2020-04-08,DP
+W0398,Pulongqiatuofu jingli de gushi,,zh-Latn-pinyin,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-05-02,WH,2020-04-08,DP
 W0399,昨日的我已不是我,,zh,G10,SP0436,19XX,,19XX,,,,,,publication info will be added later,2019-03-09,MG,2020-04-08,DP
 W0400,钗头凤,,zh,G13,SP0436,19XX,unknown,19XX,,,,,,publication info will be added later,2018-12-15,MG,2020-04-08,DP
 W0400,Chaitou Feng,,zh-Latn-pinyin,G13,SP0436,19XX,unknown,19XX,,,,,,publication info will be added later,2018-12-15,MG,2020-04-08,DP
@@ -1139,25 +1401,6 @@ W0403,Farewell Leighton Stuart,,en,G01,SP0436,19XX,,19XX,,W0255,,,,,2018-12-30,M
 W0403,别了 司徒雷登,,zh,G01,SP0436,19XX,,19XX,,W0255,,,,,2018-12-30,MG,2020-04-08,DP
 W0404,敦促杜聿明等投降书,,zh,G78,SP0436,19XX,unknown,1948,,,,,,,2018-12-30,MG,2020-04-08,DP
 W0405,毛泽东选集第四卷,,zh,G24,SP0005,1950,Renmin chubanshe,19XX,,,,,,,2018-12-30,MG,2020-04-08,DP
-W0377,The Scar,,en,G04,SP0005,1978,Beijing chuban she,19XX,,,,,,,2018-12-11,MG,2020-04-08,DP
-W0377,伤痕,,zh,G04,SP0005,1978,Beijing chuban she,19XX,,,,,,,2018-12-11,MG,2020-04-08,DP
-W0379,辞源,,zh,G04,SP0005,1993,Jingguan jiaoyu chuban she,1912,no,,,,,can‘t find any PRC publication earlier than 1993.,2018-12-11,MG,2020-04-08,DP
-W0381,The Song of Ouyang Hai,,en,G04,SP0005,1965,Jiefangjun wenyi she,19XX,no,,,,,,2019-02-11,MG,2020-04-08,DP
-W0381,欧阳海之歌,,zh,G04,SP0005,1965,Jiefangjun wenyi she,19XX,no,,,,,,2019-02-11,MG,2020-04-08,DP
-W0383,苏联是社会主义国家吗,,zh,G99,SP0020,1969,Xianggang sanlian shudian,1936,no,,,,,,2019-02-11,MG,2020-04-08,DP
-W0384,战国策,,zh,G99,SP0006,1978,Shanghai guji chubanshe,19XX,,,,,,,2018-12-12,MG,2020-04-08,DP
-W0387,Classical Theory of Fields,,en,G19,SP0436,19XX,,19XX,,,,,,,2019-02-18,LH,2020-04-08,DP
-W0389,Fortress Besieged,,en,G04,SP0005,1980,Renmin wenxue chubanshe,1947,no,,,,,Seems that the book was not published from 1949 – 1980,2019-03-08,MG,2020-04-08,DP
-W0389,围城,,zh,G04,SP0005,1980,Renmin wenxue chubanshe,1947,no,,,,,Seems that the book was not published from 1949 – 1980,2019-03-08,MG,2020-04-08,DP
-W0391,Tracks in The Snowy Forest,,en,G04,SP0005,1957,Zuojia chubanshe,19XX,no,,,,,,2019-03-09,MG,2020-04-08,DP
-W0391,林海雪原,,zh,G04,SP0005,1957,Zuojia chubanshe,19XX,no,,,,,,2019-03-08,MG,2020-04-08,DP
-W0393,Li Sao,,en,G13,SP0006,1954,Shanghai wenyi lianhe chubanshe,19XX,,,,,,,2019-03-09,MG,2020-04-08,DP
-W0393,离骚,,zh,G13,SP0006,1954,Shanghai wenyi lianhe chubanshe,19XX,,,,,,,2019-03-08,MG,2020-04-08,DP
-W0394,三峡,,zh,G23,SP0436,19XX,unknown,19XX,,,,,,,2018-12-15,MG,2020-04-08,DP
-W0396,毛泽东的青年时代,,zh,G02,SP0005,1950,Renmin chubanshe,1948,,,,,,,2018-12-15,MG,2020-04-08,DP
-W0398,Сказание о директоре Прончатове,,ru,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-05-02,WH,2020-04-08,DP
-W0398,Pulongqiatuofu jingli de gushi,,zh-Latn-pinyin,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-05-02,WH,2020-04-08,DP
-W0398,普隆恰托夫经理的故事,,zh,G04,SP0006,1973,Shanghai renmin chubanshe,19XX,yes,,,,,,2018-12-15,MG,2020-04-08,DP
 W0406,Chinese Historical Anthology,,en,G36,SP0006,1962,Shanghai guji chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
 W0406,中国历史文选,,zh,G36,SP0006,1962,Shanghai guji chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
 W0406,Zhongguo lishi wenxuan,,zh-Latn-pinyin,G36,SP0006,1962,Shanghai guji chubanshe,19XX,,,,,,,2019-02-23,WH,2020-04-08,DP
@@ -1181,259 +1424,14 @@ W0412,左传,闵公元年,zh,G56,SP0436,19XX,,19XX,,,,,,,2019-02-24,WH,2020-04-0
 W0412,Zuo zhuan,Mingong yuannian,zh-Latn-pinyin,G56,SP0436,19XX,,19XX,,,,,,,2019-02-24,WH,2020-04-08,DP
 W0413,The Third Way,Marxist-Leninist Theory and Modern Industrial Society,en,G24,SP0005,1982,Renmin chubanshe,19XX,no,,,,,,2019-03-08,LH,2020-04-08,DP
 W0413,第三道,,zh,G24,SP0005,1982,Renmin chubanshe,19XX,no,,,,,,2019-03-08,LH,2020-04-08,DP
-PS00708,The Little Mermaid,,en,G08,,,,1917,,,,,,,2019-03-12,LH,2019-03-12,LH
+W0414,unknown,unknown,en,G99,SP0436,19XX,unknown,19XX,,,,,,,2018-04-10,MG,2020-04-08,DP
 W0415,少年英雄巴甫里克,,zh,G99,SP0436,19XX,,19XX,,,,,,,2019-06-04,WH,2020-04-08,DP
-PS00708,海的女儿,,zh,G08,,,,1917,,,,,,,2019-03-12,LH,2019-03-12,LH
 W0415,Shaonian yingxiong Bafulike,,zh-Latn-pinyin,G99,SP0436,19XX,,19XX,,,,,,,2019-06-04,WH,2020-04-08,DP
 W0416,Pushkin poetry,,en,G59,SP0436,19XX,,19XX,,,,,,,2019-06-06,WH,2020-04-08,DP
-PS00709,The Little Match Girl,,en,G08,,,,1919,,,,,,,2019-03-12,LH,2019-03-12,LH
 W0416,普希金诗钞,,zh,G59,SP0436,19XX,,19XX,,,,,,,2019-06-06,WH,2020-04-08,DP
 W0416,Puxijin shichao,,zh-Latn-pinyin,G59,SP0436,19XX,,19XX,,,,,,,2019-06-06,WH,2020-04-08,DP
 W0417,On Richard Nixon,,en,G44,SP0006,1972,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-06-16,WH,2020-04-08,DP
-PS00710,The Ugly Duckling,,en,G08,,,,1925?,,,,,,,2019-03-12,LH,2019-03-12,LH
 W0417,尼克松其人其事,,zh,G44,SP0006,1972,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-06-16,WH,2020-04-08,DP
 W0417,Nikesong qi ren qi shi,,zh-Latn-pinyin,G44,SP0006,1972,Shanghai renmin chubanshe,19XX,yes,,,,,,2019-06-16,WH,2020-04-08,DP
-PS00710,丑小鸭,,zh-Latn-pinyin,G08,,,,1925?,,,,,,,2019-03-12,LH,2019-03-12,LH
-PS00800,The Plum in The Golden Vase,,en,G04,PL0999,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-09-12,MG,2019-09-12,MG
-PS00800,金瓶梅,,zh,G04,PL0999,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-08-03,MG,2019-09-12,MG
-PS00800,Jin Ping Mei,,zh-Latn-pinyin,G04,PL0999,1961?,Dayuan shudian,,,,,,,PLS check again.,2019-08-03,MG,2019-09-12,MG
-PS00801,Die Worte der Fünf Weisen,,de,G99,PL0999,unknown,unknown,,,,,,,PLS check again. I couldn‘t find the Chinese title.,2019-09-12,MG,2019-09-12,MG
-PS00801,Les Paroles des Cinq Vieillards,,fr,G99,PL0999,unknown,unknown,,,,,,,PLS check again. I couldn‘t find the Chinese title.,2019-08-03,MG,2019-09-12,MG
-PS00802,Don Quixote,,en,G04,PL0002,1958,Renmin meishu chubanshe,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00802,Don Quijote de la Mancha,,ep,G04,PL0002,1958,Renmin meishu chubanshe,,,,,,,,2019-08-03,MG,2019-08-03,MG
-PS00802,堂吉诃德,,zh,G04,PL0002,1958,Renmin meishu chubanshe,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00803,Ursule Mirouët,,fr,G21,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00803,于絮尔 弥罗埃,,zh,G21,PL0002,1956,Renmin wenxue chubanshe,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00804,Father Goriot,,en,G21,PL0003,1951,Pingming chuban she,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00804,Le Père Goriot,,fr,G21,PL0003,1951,Pingming chuban she,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00804,高老頭,,zh,G21,PL0003,1951,Pingming chuban she,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00805,Lost Illusions,,en,G21,PL0003,1951,Kaiming shudian,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00805,Illusions Perdues,,fr,G21,PL0003,1951,Kaiming shudian,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00805,幻灭,,zh,G21,PL0003,1951,Kaiming shudian,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00806,Cousin Pons,,fr,G21,PL0003,1952,Pingming chuban she,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00806,邦斯舅舅,,zh,G21,PL0003,1952,Pingming chuban she,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00807,Romeo and Juliet,,en,G16,PL0003,1949,Yong nian shu ju,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00807,罗密欧与朱丽叶,,zh,G16,PL0003,1949,Yong nian shu ju,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00808,Robinson Crusoe,,en,G04,PL0003,1951,Zhonghua shuju,,,,,,,,2019-08-03,MG,2019-08-03,MG
-PS00808,鲁滨逊漂流记,,zh,G04,PL0003,1951,Zhonghua shuju,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00809,The Hunchback of Notre-Dame,,en,G04,PL0003,1949,Luo tuo shu dian,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00809,Norte Dame de Paris,,fr,G04,PL0003,1949,Luo tuo shu dian,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00809,巴黎聖母院,,zh,G04,PL0003,1949,Luo tuo shu dian,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00810,Colonel Charbert,,fr,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00810,夏倍上校,,zh,G04,PL0002,1954,Renmin wenxue chubanshe,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00811,Madame Bovary,,fr,G04,PL0003,1951,Wenhua shenghuo chubanshe,,,,,,,,2019-08-03,MG,2019-09-12,MG
-PS00811,包法利夫人,,zh,G04,PL0003,1951,Wenhua shenghuo chubanshe,,,,,,,,2019-09-12,MG,2019-09-12,MG
-PS00812,The Watch,,en,G50,PL0153,1949,Shandong xin hua shudian,1935,,,,,,,2019-10-30,MG,2019-10-30,MG
-PS00812,表,,zh,G50,PL0153,1949,Shandong xin hua shudian,1935,,,,,,,2019-10-30,MG,2019-10-30,MG
-PS00813,Diary of a Madman,,en,G05,PL0002,1958,Wenxue gaige chubanshe,1918,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00813,狂人日記,,zh,G05,PL0002,1958,Wenxue gaige chubanshe,1918,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00814,Collected Works of Mao Dun,,en,G28,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00814,矛盾文集,,zh,G28,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00815,The Selected Works of Gaidar,,en,G28,PL0003,1959..1960,Siaonian ertong chubanshe,,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00815,盖达尔选集,,zh,G28,PL0003,1959..1960,Siaonian ertong chubanshe,,,,,,,,2019-11-08,MG,2019-11-08,MG
-PS00816,The Lyrics of the New Wedding Cage,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2019-11-08,MG,2020-02-04,MG
-PS00817,辛稼轩词选,,zh,G28,PL0003,1957,Gu dian wen xue chu ban she,,,,,,,,2019-11-09,MG,2019-11-28,MG
-PS00818,La Dame aux Camellias,,fr,G04,PL0003,1949,Qiming shuju,,,,,,,,2019-12-02,MG,2019-12-10,MG
-PS00818,茶花女,,zh,G04,PL0003,1949,Qiming shuju,,,,,,,,2019-12-02,MG,2019-12-10,MG
-PS00819,Breaking Away,,en,G04,PL0999,,,,,PS00820,,,,,2019-12-02,MG,2019-12-12,MG
-PS00819,隔绝,,zh,G04,PL0999,,,,,PS00820,,,,,2019-12-02,MG,2019-12-12,MG
-PS00820,卷葹,,zh,G28,PL0002,1983,Renmin wenxue chubanshe,1927,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00820,Juanshi,,zh-Latn-pinyin,G28,PL0002,1983,Renmin wenxue chubanshe,1927,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00821,Buch der Lieder,,de,G28,PL0003,1957,Xinwenyi chubanshe,,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00821,诗歌集,,zh,G28,PL0003,1957,Xinwenyi chubanshe,,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00822,Die Nordsee,Erster Zyklus,de,G10,,,,,,PS00821,,,,,2019-12-12,MG,2019-12-12,MG
-PS00823,VI,Erklärung,de,G10,,,,,,PS00822,,,,,2019-12-12,MG,2019-12-12,MG
-PS00824,The Two Fishermen,,en,G05,PL0999,19xx,unknown,,,,,,,check again,2019-12-12,MG,2019-02-04,MG
-PS00824,二渔夫,,zh,G05,PL0999,19xx,unknown,,,,,,,check again,2019-12-12,MG,2019-02-04,MG
-PS00825,The Last Lesson,,en,G04,PL0002,1979,Renmin meishu chubanshe,,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00825,最后一课,,zh,G04,PL0002,1979,Renmin meishu chubanshe,,,,,,,,2019-12-12,MG,2019-12-12,MG
-PS00826,The Iron Flood,,en,G04,PL0002,1950,Xin hua shu dian,,,,,,,,2019-12-17,MG,2019-12-17,MG
-PS00826,铁流,,zh,G04,PL0002,1950,Xin hua shu dian,,,,,,,,2019-12-17,MG,2019-12-17,MG
-PS00827,Mother,,en,G04,PL0003,1949,Kaiming shuju,,,,,,,,2019-12-17,MG,2019-12-17,MG
-PS00827,母,,zh,G04,PL0003,1949,Kaiming shuju,,,,,,,,2019-12-17,MG,2019-12-17,MG
-PS00828,The Poverty of Philosophy,,en,G24,PL0003,1949,Jiefang she,,,,,,,,2020-01-06,MG,2020-01-06,MG
-PS00828,Misère de la Philosophie,,fr,G24,PL0003,1949,Jiefang she,,,,,,,,2020-01-06,MG,2020-01-06,MG
-PS00828,哲學底貧困,,zh,G24,PL0003,1949,Jiefang she,,,,,,,,2020-01-06,MG,2020-01-06,MG
-PS00829,Lady Windermere’s Fan,,en,G04,PL0999,19xx,unknown,1926,,,,,,1952 published in Hongkong. Check later for mainland publications,2020-01-06,MG,2020-01-06,MG
-PS00829,少奶奶的扇子,,zh,G04,PL0999,19xx,unknown,1926,,,,,,,2020-01-06,MG,2020-01-06,MG
-PS00830,Analysis of the Classes in Chinese Society,,en,G24,PL0002,1956,Foreign Language Press,,,,,,,check for chinese version,2020-01-06,MG,2020-01-06,MG
-PS00831,Red Banner of Northern China,,en,G52,PL0002,,Zhongguo gong chan dang Hebei Sheng wei yuan hui,1932,,,,,,check,2020-01-06,MG,2020-01-08,MG
-PS00831,北方红旗,,zh,G52,PL0002,,Zhongguo gong chan dang Hebei Sheng wei yuan hui,1932,,,,,,,2020-01-06,MG,2020-01-08,MG
-PS00832,Ode to the West Wind,,en,G10,,,,,,PS00833,,,,,2020-01-08,MG,2020-01-08,MG
-PS00832,西風頌,,zh,G10,,,,,,PS00833,,,,,2020-01-08,MG,2020-01-08,MG
-PS00833,Prometheus Unbound,,en,G79,PL0999,19xx,unknown,1944?,,,,,,check for chinese version,2020-01-08,MG,2020-01-08,MG
-PS00833,解放了的普罗米修斯,,zh,G79,PL0999,19xx,unknown,1944?,,,,,,check again,2020-01-08,MG,2020-01-08,MG
-PS00834,A Short Course of Dialectics,,en,G99,PL0999,19xx,unknown,,,,,,,check,2020-01-08,MG,2020-01-08,MG
-PS00834,辩证法教程,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-01-08,MG,2020-01-08,MG
-PS00835,Three People’s Principles,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00835,三民主义,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00836,Fundamentals of the Nationalist Resurrection,,en,G99,PL0999,19xx,unknown,1926,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00836,建国大纲,,zh,G99,PL0999,19xx,unknown,1926,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00837,Seven Heroes and Five Gallants,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00837,七侠五义,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00838,World Culture,,en,G99,PL0002,19xx,Shijie chu ban she,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00838,世界知识,,zh,G99,PL0002,19xx,Shijie chu ban she,,,,,,,check again,2020-01-08,MG,2020-02-04,MG
-PS00839,The Goddesses,,en,G10,PL0002,1953,Renmin wenxue chubanshe,,,,,,,,2020-01-15,MG,2020-01-15,MG
-PS00839,女神,,zh,G10,PL0002,1953,Renmin wenxue chubanshe,,,,,,,,2020-01-15,MG,2020-01-15,MG
-PS00840,The Five Heroes in the Eastern Capital,,en,G04,,,,,,PS00268,,,,,2020-01-15,MG,2020-01-15,MG
-PS00840,五鼠闹东京,,zh,G04,,,,,,PS00268,,,,,2020-01-15,MG,2020-01-15,MG
-PS00841,L‘Avare,,fr,G17,PL0003,1949,Kaiming shudian,,,,,,,,2020-01-15,MG,2020-01-15,MG
-PS00841,吝嗇鬼,,zh,G17,PL0003,1949,Kaiming shudian,,,,,,,,2020-01-15,MG,2020-01-15,MG
-PS00842,Left-Wing Communism,An Infantile Disorder,en,G01,PL0003,1949,Jiefang she,,,,,,,,2020-01-15,MG,2020-02-11,MG
-PS00842,共产主义运动中的“左派”幼稚病,,zh,G01,PL0003,1949,Jiefang she,,,,,,,,2020-01-15,MG,2020-01-15,MG
-PS00843,Outline to Political Economy,,en,G24,PL0002,1977,Shang wu yin shu guan,,,,,,,,2020-01-15,MG,2020-02-04,MG
-PS00843,政治经济学大纲,,zh,G24,PL0002,1977,Shang wu yin shu guan,,,,,,,,2020-01-15,MG,2020-02-04,MG
-PS00844,Jiu Guo Shi Bao,,en,G55,PL0002,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00844,Au Secours de la Patrie,,fr,G55,PL0002,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00844,救国时报,,zh,G55,PL0002,1980,Renmin chubanshe,1935..1938,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00845,Popular Life,,en,G55,PL0003,1981,Shanghai shu dian,1941,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00845,大众生活,,zh,G55,PL0003,1981,Shanghai shu dian,1941,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00846,August The First Manifesto,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00846,八一宣言,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00847,Tsinghua Weekly,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00847,清华周刊,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00848,Life of Reading,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00848,读书生活,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-01,MG,2020-02-04,MG
-PS00849,A Midsummer Night‘s Dream,,en,G17,PL0002,1954,Zuojia chubanshe,,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00849,仲夏夜之梦,,zh,G17,PL0002,1954,Zuojia chubanshe,,,,,,,,2020-02-01,MG,2020-02-01,MG
-PS00850,七言诗,,zh,G10,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00851,A Singsong Girl,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00852,Tragic Love,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00853,Canonization of The Gods,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00853,封神X,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00854,How to Study The New Social Sciences,,en,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00854,怎样研究新兴社会科学,,zh,G99,PL0999,19xx,unknown,,,,,,,check again,2020-02-04,MG,2020-02-04,MG
-PS00855,汾阴行,,zh,G09,PL0999,19xx,unknown,,,,,,,check again,2020-02-06,MG,2020-02-06,MG
-PS00857,Silent Spring,,en,G80,PL0269,1962,,1979,,,,,,,2020-02-14,MG,2020-02-14,MG
-PS00857,寂静的春天,,zh,G80,PL0269,1962,,1979,,,,,,,2020-02-14,MG,2020-02-14,MG
-PS00858,Journal of Astrophysics,,en,G19,PL0999,19xx,unknown,,,,,,F,,2020-02-14,MG,2020-02-14,MG
-PS00860,Love of Life,,en,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,2020-05-16,MG,2020-05-16,MG
-PS00860,生命之爱,,zh,G04,PL0003,1953,Shao nian er tong chubanshe,,,,,,,,2020-05-16,MG,2020-05-16,MG
-PS00861,Short Song,,en,G10,,,,,,PS00862,,,,,2020-05-16,MG,2020-05-19,MG
-PS00861,短歌行,,zh,G10,,,,,,PS00862,,,,,2020-05-16,MG,2020-05-19,MG
-PS00862,Cao Cao ji,,en,G28,PL0002,1959,Zhonghua shuju,,,,,,,,2020-05-19,MG,2020-05-19,MG
-PS00862,曹操集,,zh,G28,PL0002,1959,Zhonghua shuju,,,,,,,,2020-05-19,MG,2020-05-19,MG
-PS00863,New Chinese Dictionary,,en,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2020-05-28,MG
-PS00863,新华字典,,zh,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2020-05-28,MG
-PS00863,Xinhua Zidian,,zh-Latn-pinyin,G57,PL0002,1953,Ren min jiao yu chu ban she,1953,,,,,,,2020-05-28,MG,2020-05-28,MG
-PS00864,Selected Works of Lenin,,en,G28,PL0093,1949,Dongbei shudian,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00864,列宁选集,,zh,G28,PL0093,1949,Dongbei shudian,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00865,Required Reading for Cadres,,en,G26,PL0002,1950,Jiefang she,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00865,干部必读,,zh,G26,PL0002,1950,Jiefang she,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00866,Quotations from Vice-Chairman Lin Biao,,en,G88,PL0002,1969,unknown,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00866,副主席林彪语录,,zh,G88,PL0002,1969,unknown,,,,,,,,2020-06-18,MG,2020-06-18,MG
-PS00867,Talk at a Conference of Representatives of Anwhei Who Have Come to Beijing,,en,G27,,,,,,PS00868,,520-534,,,2020-06-30,MG,2020-06-30,MG
-PS00868,CCP Documents of the Great Proletarian Cultural Revolution,1966-1967,en,G26,PL0017,1968,Union Research Institute,,,,,,,Add Chinese original,2020-06-30,MG,2020-06-30,MG
-PS00869,On Protracted War,,en,G27,,,,,,PS00475,Vol. 2,,,,2020-09-28,MG,2020-09-28,MG
-PS00869,论持久战,,zh,G27,,,,,,PS00475,Vol. 2,,,,2020-09-28,MG,2020-09-28,MG
-PS00870,The Newcomer,The Manager of an MTS and the Chief Agronomist,en,G04,,1954?,,,,,,,,Chinese title should be added,2021-01-16,MG,2021-01-16,MG
-PS00870,Повесть о директоре МТС и главном агрономе,,ru,G04,,1954?,,,,,,,,Chinese title should be added,2021-01-16,MG,2021-01-16,MG
-PS00871,And Quiet Flows The Don,,en,G04,PL0003,1952,Guangming shuju,1931,,,,,,,2021-01-18,MG,2021-01-18,MG
-PS00871,静静的顿河,,zh,G04,PL0003,1952,Guangming shuju,1931,,,,,,,2021-01-18,MG,2021-01-18,MG
-PS00872,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern,,de,G75,PL0999,1949..1955,unknown,,,,,,,check the Chinese translation,2021-01-18,MG,2021-01-18,MG
-PS00873,1984,,en,G07,PL0020,1998,Liao ning jiao yu chu ban she,1953,,,,,,,2021-03-12,MG,2021-04-06,MG
-PS00873,一九八四,,zh,G07,PL0020,1998,Liao ning jiao yu chu ban she,1953,,,,,,,2021-03-12,MG,2021-04-06,MG
-PS00874,Paradise Lost,,en,G10,PL0002,1958,Renmin wenxue chubanshe,1667,,,,,,,2021-03-15,MG,2021-03-15,MG
-PS00874,失乐园,,zh,G10,PL0002,1958,Renmin wenxue chubanshe,1667,,,,,,,2021-03-15,MG,2021-03-15,MG
-PS00875,The History of Future City,,en,G41,PL0999,,,,,,,,F,,2021-04-15,MG,2021-04-15,MG
-PS00875,未来市的历史,,zh,G41,PL0999,,,,,,,,F,,2021-04-15,MG,2021-04-15,MG
-PS00876,The Diamond Sutra,,en,G29,PL0002,1989,Wenwu chubanshe,,,,,,,,2021-05-05,MG,2021-05-05,MG
-PS00876,金剛般若波羅蜜經論,,zh,G29,PL0002,1989,Wenwu chubanshe,,,,,,,,2021-05-05,MG,2021-05-05,MG
-PS00877,The Crystal Spheres,,en,G07,,,,,,PS00931,,,,,2021-06-07,MG,2021-07-27,MG
-PS00877,水晶球,,zh,G07,,,,,,PS00931,,,,,2021-06-07,MG,2021-07-27,MG
-PS00878,Restaurant at The End of The Universe,,en,G07,PL0004,2005,Sichuan kexue jishu chubanshe,,,,,,,,2021-06-09,MG,2021-06-12,MG
-PS00878,宇宙尽头的餐馆,,zh,G07,PL0004,2005,Sichuan kexue jishu chubanshe,,,,,,,,2021-06-09,MG,2021-06-12,MG
-PS00879,Huainanzi,,en,G28,PL0002,1978,Guancang zhongwen ziyuan,-0139,,,,,,,2021-06-14,MG,2021-07-27,MG
-PS00879,淮南子,,zh,G28,PL0002,1978,Guancang zhongwen ziyuan,-0139,,,,,,,2021-06-14,MG,2021-07-27,MG
-PS00880,Odyssey,,en,G11,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,2021-06-14,MG,2021-06-14,MG
-PS00880,奥德赛,,zh,G11,PL0002,1956,Zhongguo qingnian chubanshe,,,,,,,,2021-06-14,MG,2021-06-14,MG
-PS00881,Xunzi,,en,G29,PL0003,1959,Shanghai renmin chubanshe,,,,,,,,2021-06-15,MG,2021-06-15,MG
-PS00881,荀子,,zh,G29,PL0003,1959,Shanghai renmin chubanshe,,,,,,,,2021-06-15,MG,2021-06-15,MG
-PS00882,The Guinness Book of World Records,,en,G86,PL0003,1988,Shanghai wenhua chubanshe,,,,,,,,2021-06-15,MG,2021-06-16,MG
-PS00882,吉尼斯世界纪录,,zh,G86,PL0003,1988,Shanghai wenhua chubanshe,,,,,,,,2021-06-16,MG,2021-06-16,MG
-PS00883,Three Alls Policy,,en,G87,PL0999,,,,,,,,,,2021-06-15,MG,2021-06-16,MG
-PS00883,三光政策,,zh,G87,PL0999,,,,,,,,,,2021-06-16,MG,2021-06-16,MG
-PS00884,The Hitchhiker’s Guide to The Universe,,en,G07,PL0003,2011,Shanghai yiwen chubanshe,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00884,银河系搭车客指南,,zh,G07,PL0003,2011,Shanghai yiwen chubanshe,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00885,Call to Arms,,en,G28,PL0002,1973,Renmin wenxue chubanshe,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00885,呐喊,,zh,G28,PL0002,1973,Renmin wenxue chubanshe,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00886,Mathematical Principles of Natural Philosophy,,en,G99,PL0003,1931,Shang wu yin shu guan,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00886,自然哲学的数学原理,,zh,G99,PL0003,1931,Shang wu yin shu guan,,,,,,,,2021-06-21,MG,2021-06-21,MG
-PS00887,As if in a dream,a song,en,G10,PL0999,,unknown,,,,,,,check later,2021-06-21,MG,2021-07-23,MG
-PS00888,Erewhon,,en,G90,PL0110,1985,Hunan renmin chubanshe,,,,,,,,2021-06-22,MG,2021-07-27,MG
-PS00888,埃里汪奇游记,,zh,G90,PL0110,1985,Hunan renmin chubanshe,,,,,,,,2021-06-22,MG,2021-07-27,MG
-PS00889,Erewhon Revisited,,en,G90,PL0036,1901,J. Cape,,,,,,,Chinese edition?,2021-06-22,MG,2021-07-27,MG
-PS00890,Design For a Brain,,en,G19,PL0036,1952,Chapman & Hall,,,,,,,Chinese edition?,2021-06-22,MG,2021-07-23,MG
-PS00891,Journal International Microbiology,,en,G52,PL0999,,unknown,,,,,,F,,2021-06-22,MG,2021-06-22,MG
-PS00892,Die Gute Hausfrau,,de,G99,PL0999,,unknown,,,,,,,fictional? Check later,2021-06-22,MG,2021-06-22,MG
-PS00893,Othello,,en,G16,PL0003,1958,Xinwenyi chubanshe,,,,,,,,2021-06-23,MG,2021-06-23,MG
-PS00893,奧塞罗,,zh,G16,PL0003,1958,Xinwenyi chubanshe,,,,,,,,2021-06-23,MG,2021-06-23,MG
-PS00894,The Smiling Proud Wanderer,,en,G04,PL0153,1985,Shandong renmin chubanshe,1967,,,,,,,2021-06-23,MG,2021-07-02,MG
-PS00894,笑傲江湖,,zh,G04,PL0153,1985,Shandong renmin chubanshe,1967,,,,,,,2021-06-23,MG,2021-07-02,MG
-PS00895,Runaround,,en,G05,,,,,,PS00896,,,,,2021-07-02,MG,2021-07-02,MG
-PS00895,环舞,,zh,G05,,,,,,PS00896,,,,,2021-07-02,MG,2021-07-02,MG
-PS00896,I ; Robot,,en,G07,PL0002,1981,Kexue pu ji chubanshe,,,,,,,,2021-07-02,MG,2021-07-02,MG
-PS00896,我 ; 机器人,,zh,G07,PL0002,1981,Kexue pu ji chubanshe,,,,,,,,2021-07-02,MG,2021-07-02,MG
-PS00897,Iliad,,en,G11,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,2021-07-02,MG,2021-07-02,MG
-PS00897,伊利亚特,,zh,G11,PL0002,1958,Renmin wenxue chubanshe,,,,,,,,2021-07-02,MG,2021-07-02,MG
-PS00898,Jiefangjun Bao,,en,G52,PL0002,,Jie fang jun chu ban she,1956,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00898,解放军报,,zh,G52,PL0002,,Jie fang jun chu ban she,1956,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00899,36 Strategemes,,en,G87,PL0002,1999,Zhonguo wenshi chubanshe,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00899,三十六计,,zh,G87,PL0002,1999,Zhonguo wenshi chubanshe,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00900,The Modern Temper,A Study And Confession,en,G04,PL0050,1929,Harcourt Brace & World,,,,,,,Chinese title/publ. should be added,2021-07-09,MG,2021-07-09,MG
-PS00901,Abhandlung über die Bildung von Hautexzemen,,de,G19,PL0999,,unknown,,,,,,F,,2021-07-09,MG,2021-07-09,MG
-PS00902,Sporenlehre,,de,G19,PL0999,,unknown,,,,,,F,,2021-07-09,MG,2021-07-09,MG
-PS00903,Oxford English Dictionary,,en,G57,PL0679,,Oxford Universtity Press,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00904,In His Image,The Cloning of a Man,en,G99,PL0002,1980,Kexue chubanshe,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00904,人的複制,一个人的无性生殖,zh,G99,PL0002,1980,Kexue chubanshe,,,,,,,,2021-07-09,MG,2021-07-09,MG
-PS00905,Alice’s Travel,,en,G07,PL0999,,,,,,,,,or Alice in outer space? Check again,2021-07-09,MG,2021-07-25,MG
-PS00906,Confessions of a Murderer,Told in One Night,en,G04,PL0036,1937,London Hale,,,,,,,Chinese edition?,2021-07-10,MG,2021-07-10,MG
-PS00906,我是杀人犯,,zh,G04,PL0036,1937,London Hale,,,,,,,not sure about Chinese title,2021-07-10,MG,2021-07-10,MG
-PS00907,The Road to Riches,or The Wealth of Men,en,G89,PL0002,2005,Guoji wen hua chu ban gong si,,,,,,,,2021-07-10,MG,2021-07-25,MG
-PS00907,财富的历程,,zh,G89,PL0002,2005,Guoji wen hua chu ban gong si,,,,,,,,2021-07-25,MG,2021-07-25,MG
-PS00908,Love on The Isle of God,,en,G04,PL0999,,unknown,,,,,,,please check,2021-07-10,MG,2021-07-25,MG
-PS00909,World Art,Magazine of Contemporary Visual Arts,en,G52,PL0699,1994,World Art,,,,,,,,2021-07-10,MG,2021-07-25,MG
-PS00910,River Snow,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00910,江雪,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00911,Yellow Crane Tower,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00911,黃鶴樓,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00912,Spring Dawn,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00912,春晓,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00913,Going Down to Jiangling,,en,G10,,,,,,PS00917,,,,Or : Through the Yangzi Gorges,2021-07-11,MG,2021-07-11,MG
-PS00913,下江陵,,zh,G10,,,,,,PS00917,,,,Or : Through the Yangzi Gorges,2021-07-11,MG,2021-07-11,MG
-PS00914,Quiet Night Thought,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00914,靜夜思,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00915,Seeing off Meng Haoran for Guangling at Yellow Crane Tower,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00915,黃鶴樓送孟浩然之廣陵,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00916,Climbing Stork Tower,,en,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00916,登鹳雀楼,,zh,G10,,,,,,PS00917,,,,,2021-07-11,MG,2021-07-11,MG
-PS00917,Three Hundred Tang Poems,,en,G28,PL0002,1956,Wenxue guji kanxing she,,,,,,,,2021-07-11,MG,2021-07-11,MG
-PS00917,唐詩三百首,,zh,G28,PL0002,1956,Wenxue guji kanxing she,,,,,,,,2021-07-11,MG,2021-07-11,MG
-PS00918,Theory of Moral Sentiments,,en,G29,PL0002,1997,Shang wu yin shu guan,,,,,,,,2021-07-14,MG,2021-07-14,MG
-PS00918,道德情操论,,zh,G29,PL0002,1997,Shang wu yin shu guan,,,,,,,,2021-07-14,MG,2021-07-14,MG
-PS00919,The Orphans,,en,G07,PL0999,,unknown,,,,,,,please check,2021-07-14,MG,2021-07-23,MG
-PS00920,Rumpelstilzchen,,de,G08,,,,,,PS00217,,,,,2021-07-14,MG,2021-07-14,MG
-PS00920,Rumpelstiltskin,,en,G08,,,,,,PS00217,,,,,2021-07-14,MG,2021-07-14,MG
-PS00920,名字古怪的小矮人兒,,zh,G08,,,,,,PS00217,,,,,2021-07-14,MG,2021-07-14,MG
-PS00921,The Book of Songs,,en,G28,PL0002,1999,Zhongguo wen shi chu ban shi,,,,,,,,2021-07-19,MG,2021-07-19,MG
-PS00921,诗经,,zh,G28,PL0002,1999,Zhongguo wen shi chu ban shi,,,,,,,,2021-07-19,MG,2021-07-19,MG
-PS00922,Chu Ci,,en,G28,PL0002,1998,Lantian chubanshe,,,,,,,,2021-07-19,MG,2021-07-19,MG
-PS00922,楚辞,,zh,G28,PL0002,1998,Lantian chubanshe,,,,,,,,2021-07-19,MG,2021-07-19,MG
-PS00923,I Ching or Book of Changes,The Richard Wilhelm Translation,en,G29,PL0050,1950,Pantheon Books,,,,,,,,2021-07-21,MG,2021-07-21,MG
-PS00923,易经,,zh,G29,PL0050,1950,Pantheon Books,,,,,,,,2021-07-21,MG,2021-07-23,MG
-PS00924,The Secret of The Golden Flower,A Chinese Book of Life,en,G29,PL0036,1950,Routledge,,,,,,,,2021-07-21,MG,2021-07-21,MG
-PS00924,金花的秘密,中國生命之書,zh,G29,PL0036,1950,Routledge,,,,,,,,2021-07-21,MG,2021-07-21,MG
-PS00925,Adam and Eve,,en,G83,,,,,,PS00512,,,,,2021-07-21,MG,2021-07-21,MG
-PS00925,亚当和夏娃,,zh,G83,,,,,,PS00512,,,,,2021-07-21,MG,2021-07-21,MG
-PS00926,Doraemon,,en,G84,PL0999,,,,,,,,,please check again,2021-07-21,MG,2021-07-21,MG
-PS00926,哆啦A夢,,zh,G84,PL0999,,,,,,,,,please check again,2021-07-21,MG,2021-07-21,MG
-PS00927,Peter Pan,,en,G04,PL0002,1991,Sanlian shudian,,,,,,,,2021-07-21,MG,2021-07-21,MG
-PS00927,彼得潘,,zh,G04,PL0002,1991,Sanlian shudian,,,,,,,,2021-07-21,MG,2021-07-21,MG
-PS00928,Cannibalism,,en,G99,PL0999,,unknown,,,,,,,,2021-07-23,MG,2021-07-23,MG
-PS00928,吃人,,zh,G99,PL0999,,unknown,,,,,,,,2021-07-23,MG,2021-07-23,MG
-PS00929,水彩画技法,,zh,G99,PL0999,,unknown,,,,,,,,2021-07-23,MG,2021-07-23,MG
-PS00930,电子线路人门,,zh,G99,PL0999,,unknown,,,,,,,,2021-07-23,MG,2021-07-23,MG
-PS00931,Mang mang tai kong xun zhi yin : mei guo you xiu ke huan ziao shuo xuan,,zh-Latn-pinyin,G28,PL0100,1990,Shao nian er tong chubanshe,,,,,,,,2021-07-23,MG,2021-07-23,MG
-W0414,unknown,unknown,en,G99,SP0436,19XX,unknown,19XX,,,,,,,2018-04-10,MG,2020-04-08,DP
 W0700,unknown,,en,G10,SP0436,,,,,,,,,,2021-02-23,MG,2021-02-23,MG
 W0701,unknown,,en,G99,SP0436,,,,,,,,,,2021-02-23,MG,2021-02-23,MG
