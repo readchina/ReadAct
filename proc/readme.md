@@ -316,7 +316,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Quotation_p
 
-- [ ]  `Quotation.source` needs work IDs
+- [x]  `Quotation.source` needs work IDs
 
 ### SocialRelation_p
 
