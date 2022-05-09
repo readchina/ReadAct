@@ -282,8 +282,8 @@ Create new primary keys according to new `id` scheme.
 
 ### Membership_p
 
-- [ ]  `Membership.institution`, `Membership.member` need agent ID
-- [ ]  `Membership.source` needs work ID
+- [x]  `Membership.institution`, `Membership.member` need agent ID
+- [x]  `Membership.source` needs work ID
 
 ### Space_p
 
