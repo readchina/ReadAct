@@ -4,17 +4,12 @@ AG0627,越南华侨协会,zh,SP0436,,,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0628,Beatles,en,SP0134,1960,1970,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0629,English Language Services,en,SP0436,,,,,,,,,2017-07-12,OS,2020-04-02,DP
 AG0630,Central Committee of the Communist Party in China,en,SP0005,1921,,,,,,,,2017-12-23,OS,2020-04-02,DP
-I0004,中国共产党中央委员会,zh,PL0002,1921,,,,,,,,2017-12-23,OS,2018-02-06,MG
 AG0630,中国共产党中央委员会,zh,SP0005,1921,,1921,1922,中国共产党中央局,,,,2018-02-05,MG,2020-04-02,DP
-I0004,中国共产党中央委员会,zh,PL0002,1921,,1922,1927,中国共产党中央执行委员会,,,,2018-02-05,MG,2018-02-05,MG
 AG0630,中国共产党中央执行委员会,zh,SP0005,1922,1927,1921,,中国共产党中央委员会,,,,2018-02-05,MG,2020-04-02,DP
 AG0631,Baiyangdian literary society,en,SP0025,1968,1976,,,,,,,2018-01-30,OS,2020-04-02,DP
 AG0631,白洋淀派,zh,SP0025,1968,1976,,,,,,,2018-01-30,OS,2020-04-02,DP
-I0006,School of Foreign Studies,en,PL0090,1917,,,,,,,,2018-02-22,MG,2018-02-22,MG
 AG0632,School of Foreign Studies,en,SP0093,1917,,1938,1993,Department of Foreign Languages and Literatures,,,,2018-02-22,MG,2020-04-02,DP
-I0007,Beijing No. 4 High School,en,PL0002,1906,,,,,,,,2018-02-22,MG,2018-02-22,MG
 AG0633,Beijing No. 4 High School,en,SP0005,1906,,1911,1949,Capital Public No. 4 Secondary School,,,,2018-02-22,MG,2020-04-02,DP
-I0007,北京市第四中学,zh,PL0002,1906,,,,,,,,2018-02-22,MG,2018-02-22,MG
 AG0633,北京市第四中学,zh,SP0005,1906,,1911,1949,京师公立第四中学,,,,2018-02-22,MG,2020-04-02,DP
 AG0634,The Communist Party of China,en,SP0005,1921,,,,,,,,2018-03-21,MG,2020-04-02,DP
 AG0634,中国共产党,zh,SP0005,1921,,,,,,,,2018-03-21,MG,2020-04-02,DP
@@ -58,23 +53,23 @@ AG0653,People's Liberation Army of China,en,SP0005,1927,,1927,1949,Chinese Worke
 AG0653,中国人民解放军,zh,SP0005,1927,,1927,1949,中国工农革命军,,https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B,,2018-11-25,WH,2020-04-02,DP
 AG0654,World Economic Research Institute,en,SP0006,1964,,1964,197x,Fudan University Capitalist National Economic Research Institute,,http://www.fudan.edu.cn/entries/view/129/,,2019-06-15,WH,2020-04-02,DP
 AG0654,世界经济研究所,zh,SP0006,1964,,1964,197x,复旦大学资本主义国家经济研究所,,http://www.fudan.edu.cn/entries/view/129/,,2019-06-15,WH,2020-04-02,DP
-I0118,Narratorial voices in ‚Balzac et la Petite Tailleuse Chinoise‘,en,PL0999,,,,,,,SS00263,,2019-08-03,MG,2019-10-13,DP
-I0119,Li Yizhe group,en,PL0999,,,,,,,SS00255,,2019-12-05,MG,2019-12-05,MG
-I0120,Teacher Zhang‘s Class,en,PL0999,1977,,,,,,SS00267,,2019-12-05,MG,2019-12-05,MG
-I0121,Great Production News,en,PL0999,,,,,,,SS00601,,2020-02-14,MG,2020-02-14,MG
-I0130,The Talking Club,en,PL0999,2046,,,,,Fictional,SS00665,,2021-03-12,MG,2021-03-12,MG
-I0131,Future Daily,en,PL0999,,,,,,Fictional,SS00655,,2021-04-23,MG,2021-04-23,MG
-I0132,China State Construction Engineering Corporation (CSCEC),en,PL0002,1957,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2021-07-10,MG
-I0132,中国建筑集团有限公司,zh,PL0002,1957,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2021-07-10,MG
-I0133,Herzog & de Meuron,en,PL0682,1978,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2021-07-10,MG
-I0133,赫爾佐格和德梅隆,zh,PL0682,1978,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2021-07-10,MG
-I0134,OMA,en,PL0683,1975,,,,,,https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture,,2021-07-10,MG,2021-07-10,MG
-I0135,NASA,en,PL0238,1958,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2021-07-10,MG
-I0135,美国国家航空航天局,zh,PL0238,1958,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2021-07-10,MG
-I0136,Fujiko Fujio,en,PL0325,1954,1987,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2021-07-20,MG
-I0136,藤子不二雄,zh,PL0325,1954,1987,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2021-07-20,MG
-I0137,Google LLC,en,PL0698,1998,,1998,2017,Google Inc.,,https://en.wikipedia.org/wiki/Google,,2021-07-21,MG,2021-07-21,MG
 AG0655,Beijing University,en,SP0005,1898,,,,,,https://www.pku.edu.cn/,,2020-12-14,MG,2020-12-14,MG
 AG0655,北京大学,zh,SP0005,1898,,,,,,https://www.pku.edu.cn/,,2020-12-14,MG,2020-12-14,MG
 AG0656,Xinhua Bookstore,en,SP0024,1937,,1937,1942,Gunaghua Bookstore,,https://en.wikipedia.org/wiki/Xinhua_Bookstore,,2020-12-14,MG,2020-12-14,MG
 AG0656,新华书店,zh,SP0024,1937,,1937,1942,光华书店,,https://en.wikipedia.org/wiki/Xinhua_Bookstore,,2020-12-14,MG,2020-12-14,MG
+AG0933,Narratorial voices in ‚Balzac et la Petite Tailleuse Chinoise‘,en,SP0436,,,,,,,W0791,,2019-08-03,MG,2022-05-09,DP
+AG0934,Li Yizhe group,en,SP0436,,,,,,,W0523,,2019-12-05,MG,2022-05-09,DP
+AG0935,Teacher Zhang‘s Class,en,SP0436,1977,,,,,,W0795,,2019-12-05,MG,2022-05-09,DP
+AG0936,Great Production News,en,SP0436,,,,,,,W0797,,2020-02-14,MG,2022-05-09,DP
+AG0937,The Talking Club,en,SP0436,2046,,,,,Fictional,W0861,,2021-03-12,MG,2022-05-09,DP
+AG0938,Future Daily,en,SP0436,,,,,,Fictional,W0861,,2021-04-23,MG,2022-05-09,DP
+AG0939,China State Construction Engineering Corporation (CSCEC),en,SP0005,1957,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2022-05-09,DP
+AG0939,中国建筑集团有限公司,zh,SP0005,1957,,,,,,https://en.wikipedia.org/wiki/China_State_Construction_Engineering,,2021-07-10,MG,2022-05-09,DP
+AG0940,Herzog & de Meuron,en,SP0524,1978,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2022-05-09,DP
+AG0940,赫爾佐格和德梅隆,zh,SP0524,1978,,,,,,https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron,,2021-07-10,MG,2022-05-09,DP
+AG0941,OMA,en,SP0525,1975,,,,,,https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture,,2021-07-10,MG,2022-05-09,DP
+AG0942,NASA,en,SP0225,1958,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2022-05-09,DP
+AG0942,美国国家航空航天局,zh,SP0225,1958,,,,,,https://en.wikipedia.org/wiki/NASA,,2021-07-10,MG,2022-05-09,DP
+AG0943,Fujiko Fujio,en,SP0312,1954,1987,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2022-05-09,DP
+AG0943,藤子不二雄,zh,SP0312,1954,1987,,,,,https://en.wikipedia.org/wiki/Fujiko_Fujio,,2021-07-20,MG,2022-05-09,DP
+AG0944,Google LLC,en,SP0540,1998,,1998,2017,Google Inc.,,https://en.wikipedia.org/wiki/Google,,2021-07-21,MG,2022-05-09,DP

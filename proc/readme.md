@@ -277,7 +277,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Institution_p
 
-- [ ]  Delete `I0004`, `I0006`, and `I0007` additions from patched output.
+- [x]  Delete `I0004`, `I0006`, and `I0007` additions from patched output.
 - [ ]  refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
 
 ### Membership_p
