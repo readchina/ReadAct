@@ -230,6 +230,7 @@ Work,creator,key: Person.person_id,"authors, artists, painter, etc.",2020-04-02,
 Work,type,SS or PS or AW,,2020-04-02,DP,2020-04-02,DP
 Work,type_num,,,2020-04-02,DP,2020-04-02,DP
 Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
+Work,fictionality,"denotes purely fictional works: “F”, e.g. Harry Potter’s Book of Spells, ",,,,,
 Work,commentary,"Space for background information on the work. For example reference to translations, special circumstances, ...",,2020-04-02,DP,2020-04-02,DP
 Work,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2020-04-02,DP,2020-04-02,DP
 Work,created,date of creation of line,,2020-04-02,DP,2020-04-02,DP

@@ -18,15 +18,6 @@
       }
     },
     {
-      "name": "creator",
-      "description": "author, artist, director, etc.",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "pattern": "AG[0-9]{4}"
-      }
-    },
-    {
       "name": "type",
       "description": "SS or PS or AW",
       "constraints": {
@@ -48,7 +39,26 @@
         "required": true,
         "minLength": 2
       }
-    }, {
+    },    
+    {
+      "name": "creator",
+      "description": "author, artist, director, etc.",
+      "type": "string",
+      "constraints": {
+        "required": true,
+        "pattern": "AG[0-9]{4}"
+      }
+    },
+    {
+      "name": "fictionality",
+      "description": "denotes fictional works.",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "maxLength": 1
+      }
+    },
+    {
       "name": "commentary",
       "description": "free form commentary on the work",
       "constraints": {
