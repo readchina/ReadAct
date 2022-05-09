@@ -258,9 +258,9 @@ daff patch SocialRelation_main.csv patch/SocialRelation_p1a.csv > out/SocialRela
 First move all patched files into `proc_data/` to mirror the structure of the data folder on `main`
 
 Create new primary keys according to new `id` scheme.
-- [ ]  Replace old `id` secondary keys with new ones.
+- [x]  Replace old `id` secondary keys with new ones.
 - [x]  Delete all `NULL` strings.
-- [ ]  primary sort by ID and secondary by lang
+- [x]  primary sort by ID and secondary by lang
 
 ### Act_p
 
@@ -334,6 +334,6 @@ Create new primary keys according to new `id` scheme.
 
 ## Merge Primary Entities
 
-- [ ]  `person` + `instition` -> `agent`
-- [ ]  `primarysource` + `secondarysource` + `artwork` -> `work`
-- [ ]  `place`(?) + `location` -> `space`
+- [x]  `person` + `instition` -> `agent`
+- [x]  `primarysource` + `secondarysource` + `artwork` -> `work`
+- [x]  `place`(?) + `location` -> `space`
