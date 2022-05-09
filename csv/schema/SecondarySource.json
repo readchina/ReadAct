@@ -87,6 +87,14 @@
       "constraints": {
         "required": false
       }
+    },{
+      "name": "fictionality",
+      "description": "denotes fictional works.",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "maxLength": 1
+      }
     }, {
       "name": "note",
       "description": "structural entry for internal notes",
