@@ -308,11 +308,11 @@ Create new primary keys according to new `id` scheme.
 - [ ]  move `source.fictionality` to `work.fictionality` on main entity?
 - [x]  merge three (?) `work.csv` tables
 - [ ]  `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
-- [ ]  fix creator references on new Work entries to point to Agents instead of Persons
+- [x]  fix creator references on new Work entries to point to Agents instead of Persons
   - [x]  AW
   - [x]  PS
   - [x]  SS (see P0850 jin fan)
-- [ ]  secondary source patch will delete SS00170, check SS00262 - SS00267
+- [x]  secondary source patch will delete SS00170, check SS00262 - SS00267
 
 ### Quotation_p
 
