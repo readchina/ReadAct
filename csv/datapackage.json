@@ -105,6 +105,15 @@
       "profile": "tabular-data-resource"
     },
     {
+      "name": "narrative-position",
+      "schema": "schema/NarrativePosition.json",
+      "path": "data/NarrativePosition.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource"
+    },
+    {
       "name": "person",
       "schema": "schema/Person.json",
       "path": "data/Person.csv",

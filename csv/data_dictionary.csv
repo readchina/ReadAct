@@ -104,6 +104,15 @@ Membership,created_by,acronym of project member creating this line,,2018-01-30,O
 Membership,last_modified,date of last modification,,2018-01-30,OS,2018-01-30,OS
 Membership,modified_by,acronym of project member last modifying this line,,2018-01-30,OS,2018-01-30,OS
 ,,,,,,,
+NarrativePosition,nar_pos_id,the id for the narrative position category,,,,,
+NarrativePosition,nar_pos_name,the name of the narrative position category,,,,,
+NarrativePosition,note,Internal notes of project members,,,,,
+NarrativePosition,source,source attribution of narrative position typology,,,,,
+NarrativePosition,created,date of creation of line,,,,,
+NarrativePosition,created_by,acronym of project member creating this line,,,,,
+NarrativePosition,last_modified,date of last modification,,,,,
+NarrativePosition,modified_by,acronym of project member last modifying this line,,,,,
+,,,,,,,
 Person,person_id,P followed by 4 digit integer. P0999 is structural entry for unnamed persons,,2017-07-04,LH,2017-11-07,DP
 Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘anon’. Change all traditional characters to simplified characters.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
 Person,first_name,First name (名). Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
@@ -158,7 +167,7 @@ Quotation,created_by,acronym of project member creating this line,,2018-02-09,OS
 Quotation,last_modified,date of last modification,,2018-02-09,OS,2018-02-09,OS
 Quotation,last_modified_by,acronym of project member last modifying this line,,2018-02-09,OS,2018-02-09,OS
 ,,,,,,,
-Rustication,person,agent_id of person undergoing rustication; ,,2017-07-04,LH,2020-04-09,DP
+Rustication,person,agent_id of person undergoing rustication;,,2017-07-04,LH,2020-04-09,DP
 Rustication,rustication_start,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2020-04-22,DP
 Rustication,rustication_end,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
 Rustication,place_of_rust,a single place_id for major place of rustication; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2020-04-22,DP

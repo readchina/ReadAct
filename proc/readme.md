@@ -299,7 +299,7 @@ Create new primary keys according to new `id` scheme.
 
 ### NarrativePosition_p
 
-- [ ]  update csv schema and data-dictionary for narrative position table.
+- [x]  update csv schema and data-dictionary for narrative position table.
 
 ### Primary- / SecondarySource_p
 
