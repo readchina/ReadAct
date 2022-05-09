@@ -320,8 +320,8 @@ Create new primary keys according to new `id` scheme.
 
 ### SocialRelation_p
 
-- [ ]  `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
-- [ ]  `SocialRelation.source` needs work IDs
+- [x]  `SocialRelation.ego` and `SocialRelation.related` needs agent IDs
+- [x]  `SocialRelation.source` needs work IDs
 
 ### Work_p
 
