@@ -337,3 +337,10 @@ Create new primary keys according to new `id` scheme.
 - [x]  `person` + `instition` -> `agent`
 - [x]  `primarysource` + `secondarysource` + `artwork` -> `work`
 - [x]  `place`(?) + `location` -> `space`
+
+
+## Schema changes
+
+- [ ]  unify `fictionality` constraint across tables
+- [ ]  unify `language`  column name for language
+- [ ]  

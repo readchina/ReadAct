@@ -30,7 +30,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "S(3|4)(\\.[0-9]-?){1,}[fm]?[ey]?"
+        "pattern": "S(3|4)(\\.[0-9](-|\\+)?){1,}[fm]?[ey]?"
       }
     },
     {
