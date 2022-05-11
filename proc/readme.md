@@ -343,4 +343,4 @@ Create new primary keys according to new `id` scheme.
 
 - [ ]  unify `fictionality` constraint across tables
 - [ ]  unify `language`  column name for language
-- [ ]  
+- [ ]  check `main_narrato` on SS (also PS?, W?) see data-dictonary
