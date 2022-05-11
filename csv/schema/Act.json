@@ -59,6 +59,14 @@
         "required": false,
         "minLength": 4
       }
+    },{
+      "name": "narrative_time",
+      "description": "Narrative age of fictional agent where different from that recorded in Person.csv.",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^$|NULL|[0-3])"
+      }
     }, {
       "name": "site_information",
       "description": "information about the site or location of an act",
@@ -70,12 +78,14 @@
     }, {
       "name": "discussion",
       "description": "substantial comment or quotation from source",
+      "type": "string",
       "constraints": {
         "required": false
       }
     }, {
       "name": "source",
       "description": "Bibliographic evidence for act",
+      "type": "string",
       "constraints": {
         "required": true
       }
@@ -84,6 +94,13 @@
       "description": "Page range in source evidence for act",
       "constraints": {
         "required": false
+      }
+    },{
+      "name": "fictionality",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "F?"
       }
     }, {
       "name": "commentary",
