@@ -1,12 +1,13 @@
 {
   "fields": [{
       "name": "quotation_id",
+      "description": "W and a four-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
         "maxLength": 5,
-        "pattern": "Q[0-9]{4}"
+        "pattern": "W[0-9]{4}"
       }
     },
     {
@@ -25,12 +26,6 @@
     },
     {
       "name": "page",
-      "constraints": {
-        "required": false
-      }
-    },
-    {
-      "name": "commentary",
       "constraints": {
         "required": false
       }
