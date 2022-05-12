@@ -177,26 +177,24 @@ declare function local:listBibl($works as node()*) as item()* {
             }
         },
     (: quotation :)
-    if ($quote)
-    then
-        (element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {
+    for $q in $quote
+    return
+        element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {
             attribute type {'quote'},
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'cit')} {
-                attribute xml:id {$quote/../quotation_id},
+                attribute ana {$q/../quotation_id},
                 element {fn:QName('http://www.tei-c.org/ns/1.0', 'quote')} {
-                    $quote/../quotation/text()
+                    $q/../quotation/text()
                 },
-                if ($quote/../page)
+                if ($q/../page)
                 then
                     (element {fn:QName('http://www.tei-c.org/ns/1.0', 'ptr')} {
-                        attribute target {$quote/../page}
+                        attribute target {$q/../page}
                     })
                 else
                     ()
             }
-        })
-    else
-        (),
+        },
     (: ref :)
     for $src in distinct-values($path/../source)
     return
