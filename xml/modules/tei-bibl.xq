@@ -37,8 +37,16 @@ declare function local:listBibl($works as node()*) as item()* {
             case ('SS')
                 return
                     $secondary-source//sec_source_id[. = $w]
+            case ('AW')
+                return
+                    $art-work//art_work_id[. = $w]
+            case ('Q')
+                return
+                    $quote//source[. = $w]        
             default return
-                $art-work//artwork_id[. = $w]
+               $w
+        (: see https://github.com/readchina/ReadAct/pull/498/commits/2733ed0cc07745c056196f0c2fd0bf5b7888ff37 :)
+        where $type ne 'Q'       
         order by $w
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'bibl')} {
@@ -49,8 +57,12 @@ declare function local:listBibl($works as node()*) as item()* {
                     case ('SS')
                         return
                             'text'
-                    default return
-                        'artwork'
+                    case('AW') 
+                        return
+                            'artwork'        
+                    default 
+                        return
+                        ()
         },
 
         switch (distinct-values($path/../neibu))

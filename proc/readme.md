@@ -346,3 +346,6 @@ Create new primary keys according to new `id` scheme.
 - [ ]  check `main_narrator` on SS (also PS?, W?) see data-dictonary
 - [ ]  add `quotations` to `work`
 - [ ]  note `work.creator` for quote is author of quoted text, not the person doing the quoting
+- [ ]  manually inspect schema files and homogenize
+- [ ]  manually inspect TEI output
+- [ ]  update TEI schema to latest and greatest
