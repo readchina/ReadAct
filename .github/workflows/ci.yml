@@ -56,6 +56,8 @@ jobs:
           path: xml  
       - name: Display Downloaded Artifacts
         run: ls -R
+      - name: Display xmllint version
+        run: xmllint --version 
       - name: Validate XML Files
         run: | 
           xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
