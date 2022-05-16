@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "agent_id",
       "description": "AG and a four-digit number (leading zeros)",
       "type": "string",
@@ -12,11 +13,13 @@
     },
     {
       "name": "old_id",
+      "type": "string",
       "description": "id from previous id schema",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",
@@ -27,12 +30,15 @@
     },
     {
       "name": "commentary",
+      "type": "string",
       "description": "commentary on person, e.g. affiliations, significant events, etc.",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "note",
+      "type": "string",
       "description": "structural entry for internal notes",
       "constraints": {
         "required": false
@@ -74,7 +80,9 @@
     }
   ],
   "primaryKey": "agent_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "language",

@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "artwork_id",
+      "description": "Work.work_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -11,17 +13,23 @@
     },
     {
       "name": "title",
+      "description": "Title of work",
+      "type": "string",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "subtitle",
+      "description": "Subtitle of work",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "title_lang",
+      "description": "language of title (ISO 639-1)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -30,6 +38,7 @@
     },
     {
       "name": "art_form",
+      "description": "ArtForm.art_form_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -38,6 +47,7 @@
     },
     {
       "name": "first_performance_date",
+      "description": "Date of first performance",
       "type": "string",
       "constraints": {
         "required": false,
@@ -46,12 +56,15 @@
     },
     {
       "name": "first_performance_place",
+      "description": "Place of first performance",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "neibu",
+      "description": "Was this originally a neibu publication?",
       "type": "string",
       "constraints": {
         "required": false,
@@ -100,8 +113,13 @@
       }
     }
   ],
-  "primaryKey": ["artwork_id", "title_lang"],
-  "missingValues": [""],
+  "primaryKey": [
+    "artwork_id",
+    "title_lang"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "artwork_id",

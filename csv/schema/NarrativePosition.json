@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "nar_pos_id",
+      "description": "N and a two-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -11,6 +13,7 @@
     },
     {
       "name": "nar_pos_name",
+      "description": "english name of a narrative position",
       "type": "string",
       "constraints": {
         "required": true
@@ -67,5 +70,7 @@
     }
   ],
   "primaryKey": "nar_pos_id",
-  "missingValues": [""]
+  "missingValues": [
+    ""
+  ]
 }

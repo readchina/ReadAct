@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "space_id",
+      "description": "The space_id of the space to which the entity belongs to.",
       "type": "string",
       "constraints": {
         "required": true,
@@ -12,18 +14,22 @@
     {
       "name": "old_id",
       "description": "id from previous id schema",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "space_name",
+      "description": "The name of the spatial entity.",
+      "type": "string",
       "constraints": {
         "required": true
       }
     },
     {
       "name": "space_type",
+      "description": "PL for place, L for locations (with NULL coordinates)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -96,7 +102,9 @@
     }
   ],
   "primaryKey": "space_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "name_lang",

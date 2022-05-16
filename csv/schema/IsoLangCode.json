@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "iso_code",
+      "description": "ISO code of the language (ISO 639-1)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -10,12 +12,15 @@
     },
     {
       "name": "name",
+      "description": "english name of the language",
+      "type": "string",
       "constraints": {
         "required": true
       }
     },
-        {
+    {
       "name": "created",
+      "description": "structural entry creation date of entry",
       "type": "date",
       "constraints": {
         "required": true
@@ -23,14 +28,16 @@
     },
     {
       "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
       }
     },
-        {
+    {
       "name": "last_modified",
+      "description": "structural entry last modification date",
       "type": "date",
       "constraints": {
         "required": true
@@ -38,6 +45,7 @@
     },
     {
       "name": "last_modified_by",
+      "description": "structural entry acronym of project member modifying entry",
       "type": "string",
       "constraints": {
         "required": true,
@@ -46,5 +54,7 @@
     }
   ],
   "primaryKey": "iso_code",
-  "missingValues": [""]
+  "missingValues": [
+    ""
+  ]
 }

@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "sec_source_id",
       "type": "string",
       "constraints": {
@@ -66,36 +67,43 @@
         "required": false,
         "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}|^$)"
       }
-    }, {
+    },
+    {
       "name": "neibu",
+      "description": "Was this originally a neibu publication?",
       "type": "string",
       "constraints": {
         "pattern": "(^$|yes|no)"
       }
-    }, {
+    },
+    {
       "name": "source",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "serial",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "page",
       "constraints": {
         "required": false
       }
-    },{
+    },
+    {
       "name": "fictionality",
-      "description": "denotes fictional works.",
+      "description": "Is the work itself fictional?",
       "type": "string",
       "constraints": {
         "required": false,
-        "maxLength": 1
+        "pattern": "F?"
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -137,8 +145,13 @@
       }
     }
   ],
-  "primaryKey": ["sec_source_id", "title_lang"],
-  "missingValues": [""],
+  "primaryKey": [
+    "sec_source_id",
+    "title_lang"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "sec_source_id",

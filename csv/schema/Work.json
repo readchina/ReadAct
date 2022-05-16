@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "work_id",
       "description": "W and a four-digit number (leading zeros)",
       "type": "string",
@@ -13,13 +14,15 @@
     {
       "name": "old_id",
       "description": "id from previous id schema",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "type",
-      "description": "SS or PS or AW",
+      "description": "SS or PS or AW or Q",
+      "type": "string",
       "constraints": {
         "required": false
       }
@@ -39,7 +42,7 @@
         "required": true,
         "minLength": 2
       }
-    },    
+    },
     {
       "name": "creator",
       "description": "author, artist, director, etc.",
@@ -51,11 +54,11 @@
     },
     {
       "name": "fictionality",
-      "description": "denotes fictional works.",
+      "description": "Is the work itself fictional?",
       "type": "string",
       "constraints": {
         "required": false,
-        "maxLength": 1
+        "pattern": "F?"
       }
     },
     {
@@ -108,7 +111,9 @@
     }
   ],
   "primaryKey": "work_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "creator",

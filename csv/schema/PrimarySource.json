@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "prim_source_id",
+      "description": "Work.work_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -11,18 +13,21 @@
     },
     {
       "name": "title",
+      "description": "title of work",
       "constraints": {
         "required": true
       }
     },
     {
       "name": "subtitle",
+      "description": "subtitle of work",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "title_lang",
+      "description": "language code in ISO",
       "type": "string",
       "constraints": {
         "required": true,
@@ -31,6 +36,7 @@
     },
     {
       "name": "genre",
+      "description": "genre of work Genre.genre_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -39,6 +45,7 @@
     },
     {
       "name": "publication_place",
+      "description": "first mainland edition between the years 1949 and 1979",
       "type": "string",
       "constraints": {
         "required": false,
@@ -47,6 +54,7 @@
     },
     {
       "name": "publication_date",
+      "description": "first mainland edition between the years 1949 and 1979",
       "type": "string",
       "constraints": {
         "required": false,
@@ -55,35 +63,42 @@
     },
     {
       "name": "publishing_house",
+      "description": "first mainland edition between the years 1949 and 1979",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "first_chin_edition",
+      "description": "year of first edition in China",
       "type": "string",
       "constraints": {
         "required": false,
         "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2})"
       }
-    }, {
+    },
+    {
       "name": "neibu",
+      "description": "Was this originally a neibu publication?",
       "type": "string",
       "constraints": {
         "required": false,
         "pattern": "(^$|yes|no)"
       }
-    }, {
+    },
+    {
       "name": "source",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "serial",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "page",
       "constraints": {
         "required": false
@@ -91,13 +106,14 @@
     },
     {
       "name": "fictionality",
-      "description": "denotes fictional works.",
+      "description": "Is the work itself fictional?",
       "type": "string",
       "constraints": {
         "required": false,
-        "maxLength": 1
+        "pattern": "F?"
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -139,8 +155,13 @@
       }
     }
   ],
-  "primaryKey": ["prim_source_id", "title_lang"],
-  "missingValues": [""],
+  "primaryKey": [
+    "prim_source_id",
+    "title_lang"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "prim_source_id",

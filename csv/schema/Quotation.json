@@ -1,7 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "quotation_id",
-      "description": "W and a four-digit number (leading zeros)",
+      "description": "Work.work_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -12,6 +13,8 @@
     },
     {
       "name": "quotation",
+      "description": "Full quote, normalized to simplified Chinese",
+      "type": "string",
       "constraints": {
         "required": true
       }
@@ -33,6 +36,7 @@
     {
       "name": "note",
       "description": "structural entry for internal notes",
+      "type": "string",
       "constraints": {
         "required": false
       }
@@ -73,7 +77,9 @@
     }
   ],
   "primaryKey": "quotation_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "source",

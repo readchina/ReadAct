@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "act_id",
       "description": "A and a five-digit number (leading zeros)",
       "type": "string",
@@ -30,6 +31,7 @@
     },
     {
       "name": "act_object",
+      "type": "string",
       "description": "The object read by the subject",
       "constraints": {
         "required": false
@@ -37,6 +39,7 @@
     },
     {
       "name": "act_target",
+      "type": "string",
       "description": "Transitive subject (B), as in A reads book to B",
       "constraints": {
         "required": false
@@ -59,7 +62,8 @@
         "required": false,
         "minLength": 4
       }
-    },{
+    },
+    {
       "name": "narrative_time",
       "description": "Narrative age of fictional agent where different from that recorded in Person.csv.",
       "type": "string",
@@ -67,7 +71,8 @@
         "required": false,
         "pattern": "(^$|NULL|[0-3])"
       }
-    }, {
+    },
+    {
       "name": "site_information",
       "description": "information about the site or location of an act",
       "type": "string",
@@ -75,35 +80,42 @@
         "required": false,
         "pattern": "SP[0-9]{4}"
       }
-    }, {
+    },
+    {
       "name": "discussion",
       "description": "substantial comment or quotation from source",
       "type": "string",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "source",
       "description": "Bibliographic evidence for act",
       "type": "string",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "page",
       "description": "Page range in source evidence for act",
       "constraints": {
         "required": false
       }
-    },{
+    },
+    {
       "name": "fictionality",
+      "description": "Fictionality of act",
       "type": "string",
       "constraints": {
         "required": false,
         "pattern": "F?"
       }
-    }, {
+    },
+    {
       "name": "commentary",
+      "type": "string",
       "description": "Commentary, esp. on underspecified reading acts",
       "constraints": {
         "required": false
@@ -111,6 +123,7 @@
     },
     {
       "name": "note",
+      "type": "string",
       "description": "structural entry for internal notes",
       "constraints": {
         "required": false
@@ -161,7 +174,9 @@
     }
   ],
   "primaryKey": "act_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "agent",

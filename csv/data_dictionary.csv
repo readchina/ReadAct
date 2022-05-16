@@ -53,7 +53,7 @@ ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to si
 ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
 ArtWork,art_form,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
-ArtWork,first_performance_place_id,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2018-02-09,OS
+ArtWork,first_performance_place,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2022-05-16,DP
 ArtWork,neibu,yes/no whether this was originally a neibu publication. Leave empty for artworks created before 1949 and after 1980 or where status is unknown,,2018-02-09,OS,2018-02-09,OS
 ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 ArtWork,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -206,8 +206,8 @@ SocialPosition,last_modified,date of last modification,,2017-07-04,LH,2017-07-04
 SocialPosition,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
 SocialRelation,soc_rel_id,SR and a five-digit number (leading zeros),,2018-01-25,OS,2018-01-28,DP
-SocialRelation,ego,Person.person_id of ego,,2018-01-25,OS,2018-01-28,DP
-SocialRelation,related,Person.person_id of related,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,ego,Agent.agent_id of ego,,2018-01-25,OS,2018-01-28,DP
+SocialRelation,related,Agent.agent_id of related,,2018-01-25,OS,2018-01-28,DP
 SocialRelation,relation,Relation based on UCREL/USAS semantic classes. Chinese kinship according to extensions proposed by Qian & Piao (2007). By default close friends have intimate asexual relations (S3.2-). Romantic relations are assumed to be sexual (S3.2+). Absent or antipathetic relations are not recorded.,"http://ucrel.lancs.ac.uk/publications/CL2007/paper/63_Paper.pdf,  http://ucrel.lancs.ac.uk/usas/",2018-01-25,OS,2018-02-01,DP
 SocialRelation,rel_zh,Name of relation in Chinese. '朋友' for close friends (S3.2-). '熟人' as default unspecific relation (S3.1),,2018-01-25,OS,2018-01-28,DP
 SocialRelation,rel_en,Simple kinship term in English ('sister' 'grandfather' …). 'friend' (S3.2-) & 'acquaintance' (S3.1) for non-kinship relations,,2018-01-25,OS,2018-01-28,DP
@@ -221,7 +221,7 @@ SocialRelation,modified_by,acronym of project member last modifying this line,,2
 ,,,,,,,
 Space,space_id,SP and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Space,old_id,"PL or L, and a five-digit number (leading zeroes)",,2020-04-02,DP,2020-04-02,DP
-Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,"authors, artists, painter, etc.",2020-04-02,DP,2020-04-02,DP
+Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,,2020-04-02,DP,2022-05-16,DP
 Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
 Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
@@ -233,7 +233,7 @@ Space,last_modified_by,acronym of project member last modifying this line,,2020-
 ,,,,,,,
 Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Work,old_id,SS or PS or AW or Q and a five-digit number (leading zeros),,2020-04-02,DP,2022-05-12,DP
-Work,creator,key: Agent.agent_id,"authors, artists, painter, etc.",2020-04-02,DP,2022-05-12,DP
+Work,creator,key: Agent.agent_id,"authors, artists, author of quoted source, etc.",2020-04-02,DP,2022-05-12,DP
 Work,type,SS or PS or AW or Q,,2020-04-02,DP,2022-05-12,DP
 Work,type_num,,,2020-04-02,DP,2020-04-02,DP
 Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP

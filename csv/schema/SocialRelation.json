@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "soc_rel_id",
+      "description": "SR and a five-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -11,6 +13,7 @@
     },
     {
       "name": "ego",
+      "description": "Agent.agent_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -19,6 +22,7 @@
     },
     {
       "name": "related",
+      "description": "Agent.agent_id",
       "type": "string",
       "constraints": {
         "required": true,
@@ -27,6 +31,7 @@
     },
     {
       "name": "relation",
+      "description": "Relation based on UCREL/USAS semantic classes",
       "type": "string",
       "constraints": {
         "required": true,
@@ -35,6 +40,7 @@
     },
     {
       "name": "rel_zh",
+      "description": "Chinese name of relation",
       "type": "string",
       "constraints": {
         "required": true,
@@ -43,22 +49,26 @@
     },
     {
       "name": "rel_en",
+      "description": "English name of relation",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "source",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "(^http.*|W[0-9]{4})"
       }
-    }, {
+    },
+    {
       "name": "page",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -101,7 +111,9 @@
     }
   ],
   "primaryKey": "soc_rel_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "ego",

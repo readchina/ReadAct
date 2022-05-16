@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "person",
+      "description": "The person who underwent , Agent.agent_id.",
       "type": "string",
       "constraints": {
         "required": true,
@@ -8,25 +10,29 @@
         "maxLength": 6,
         "pattern": "AG[0-9]{4}"
       }
-    }, {
+    },
+    {
       "name": "rustication_start",
       "constraints": {
         "required": true,
         "unique": false
       }
-    }, {
+    },
+    {
       "name": "rustication_end",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "place_of_rust",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "(^SP[0-9]{4})"
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -68,8 +74,13 @@
       }
     }
   ],
-  "primaryKey": ["person", "rustication_start"],
-  "missingValues": [""],
+  "primaryKey": [
+    "person",
+    "rustication_start"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "person",

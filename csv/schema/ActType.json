@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "action_id",
       "description": "AT and a two-digit number (leading zeros)",
       "type": "string",
@@ -12,6 +13,7 @@
     },
     {
       "name": "action_name",
+      "type": "string",
       "description": "verb for an action describing a wider act of reading: circulate, steal, buy",
       "constraints": {
         "required": true
@@ -19,6 +21,7 @@
     },
     {
       "name": "note",
+      "type": "string",
       "description": "structural entry for internal notes",
       "constraints": {
         "required": false
@@ -60,5 +63,7 @@
     }
   ],
   "primaryKey": "action_id",
-  "missingValues": [""]
+  "missingValues": [
+    ""
+  ]
 }

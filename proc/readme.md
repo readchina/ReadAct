@@ -344,8 +344,8 @@ Create new primary keys according to new `id` scheme.
 - [ ]  unify `fictionality` constraint across tables
 - [ ]  unify `language`  column name for language
 - [ ]  check `main_narrator` on SS (also PS?, W?) see data-dictionary
-- [ ]  add `quotations` to `work`
-- [ ]  note `work.creator` for quote is author of quoted text, not the person doing the quoting
-- [ ]  manually inspect schema files and homogenize
+- [x]  add `quotations` to `work`
+- [x]  note `work.creator` for quote is author of quoted text, not the person doing the quoting
+- [x]  manually inspect schema files and homogenize
 - [ ]  manually inspect TEI output
-- [ ]  update TEI schema to latest and greatest
+- [x]  update TEI schema to latest and greatest

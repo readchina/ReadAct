@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "art_form_id",
+      "description": "AF and a five-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -11,12 +13,15 @@
     },
     {
       "name": "art_form_name",
+      "description": "art form name in English - if necessary use Chinese pinyin",
+      "type": "string",
       "constraints": {
         "required": true
       }
     },
     {
       "name": "art_form_name_lang",
+      "description": "language of art form name in ISO 639-1",
       "type": "string",
       "constraints": {
         "required": true,
@@ -31,8 +36,9 @@
         "required": true
       }
     },
-        {
+    {
       "name": "created",
+      "description": "structural entry creation date of entry",
       "type": "date",
       "constraints": {
         "required": true
@@ -40,14 +46,16 @@
     },
     {
       "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
       }
     },
-        {
+    {
       "name": "last_modified",
+      "description": "structural entry last modification date",
       "type": "date",
       "constraints": {
         "required": true
@@ -55,6 +63,7 @@
     },
     {
       "name": "last_modified_by",
+      "description": "structural entry acronym of project member modifying entry",
       "type": "string",
       "constraints": {
         "required": true,
@@ -63,7 +72,9 @@
     }
   ],
   "primaryKey": "art_form_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "art_form_name_lang",
