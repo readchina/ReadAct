@@ -11,7 +11,9 @@
     },
     {
       "name": "genre_name",
+      "type": "string",
       "constraints": {
+        "unique": true,
         "required": true
       }
     },
@@ -25,6 +27,7 @@
     },
     {
       "name": "genre_type",
+      "type": "string",
       "constraints": {
         "required": true
       }
@@ -34,6 +37,7 @@
       "type": "string",
       "format": "uri",
       "constraints": {
+        "unique": true,
         "required": true
       }
     },
