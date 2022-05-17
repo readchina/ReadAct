@@ -61,6 +61,7 @@
     },
     {
       "name": "wikidata_id",
+      "description": "Wikidata id of spatial entity",
       "type": "string",
       "constraints": {
         "required": false,

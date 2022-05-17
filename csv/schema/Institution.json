@@ -82,6 +82,7 @@
     },
     {
       "name": "wikidata_id",
+      "description": "The Wikidata ID of the institution",
       "type": "string",
       "constraints": {
         "required": false,

@@ -114,6 +114,7 @@
     },
     {
       "name": "wikidata_id",
+      "description": "Wikidata ID of person",
       "type": "string",
       "constraints": {
         "required": false,

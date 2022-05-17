@@ -227,7 +227,7 @@ Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,,2020-04-
 Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
 Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
-Space,wikidata_id, Wikidata ID of the space,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
+Space,wikidata_id, Wikidata ID of the spatial entity,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Space,note,Internal notes of project members,,2020-04-02,DP,2020-04-02,DP
 Space,created,date of creation of line,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Space,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP
