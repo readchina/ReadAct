@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2        
       - name: Install Build Dependencies
-        run: sudo apt-get install basex
+        run: sudo apt-get install -y basex
       - name: Generate XML Files
         run: |
           basex xml/modules/tei-bibl.xq > xml/listBibl.xml
@@ -48,7 +48,7 @@ jobs:
             ${{ runner.os }}-pip-        
       - name: Install Test Dependencies
         run: | 
-          sudo apt-get install libxml2-utils 
+          sudo apt-get update && sudo apt-get install -y libxml2-utils 
           pip install frictionless csvkit
       - name: Validate CSV Files
         working-directory: csv
@@ -77,7 +77,7 @@ jobs:
           fetch-depth: 1
       - name: Install Release Dependencies
         run: |
-          sudo apt-get install basex
+          sudo apt-get install -y basex
           docker pull duncdrum/textql:alpine
       - name: Download Artifact
         uses: actions/download-artifact@v2
