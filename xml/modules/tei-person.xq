@@ -22,7 +22,7 @@ declare function local:listPers($persons as node()*) as item()* {
         for $p in $distinct
         let $path := $persons//person_id[. = $p]
         let $sex := lower-case($path[1]/../sex)
-        let $wikidataid := lower-case($path[1]/../wikidata_id)
+        let $wikidataid := $agent//agent_id[. = $p]/../wikidata_id/text()
             order by $p
         
         return
@@ -64,7 +64,7 @@ declare function local:listPers($persons as node()*) as item()* {
                 else
                     (),
             (: external IDs :)
-            if ($path/../wikidata_id)
+            if ($wikidataid ne '')
             then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
             else (),
             (: Lifedates :)
