@@ -29,6 +29,15 @@
       }
     },
     {
+      "name": "fictionality",
+      "description": "Is it a fictional agent?",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "F?"
+      }
+    },    
+    {
       "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",

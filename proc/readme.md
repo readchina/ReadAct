@@ -268,6 +268,9 @@ Create new primary keys according to new `id` scheme.
 - [x]  check `site_information` for `lit` entries
   - [x]  no entries recheck comments
 
+### Agent
+- [x]  migrate fictionality from secondary to primary table
+
 ### ArtWork_p
 
 - [x]  create primary keys for new art works in `work.csv`
@@ -278,7 +281,7 @@ Create new primary keys according to new `id` scheme.
 ### Institution_p
 
 - [x]  Delete `I0004`, `I0006`, and `I0007` additions from patched output.
-- [ ]  refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
+- [x]  refactor the notes "fictional" 
 
 ### Membership_p
 
@@ -295,7 +298,7 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  delete duplicate old_id before proceeding with regular cleanup steps
 - [x]  cleanup (delete) `Agent.name_lang` column
-- [ ]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
+- [x]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
 
 ### NarrativePosition_p
 
@@ -305,9 +308,9 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  sort first lots of dubious entries
 - [x]  Check `PS00207` which should be unknown work?
-- [ ]  move `source.fictionality` to `work.fictionality` on main entity?
+- [x]  move `source.fictionality` to `work.fictionality` on main entity?
 - [x]  merge three (?) `work.csv` tables
-- [ ]  `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
+- [x]  `*Source.genre` needs check (is needed for foreign key constraint) for. Is is not superfluous to repeat genres on Sources when we could add them to Work, see `ArtWork.art_form`.
 - [x]  fix creator references on new Work entries to point to Agents instead of Persons
   - [x]  AW
   - [x]  PS
@@ -325,7 +328,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Work_p
 
-- [ ]  cleanup `work.type_num`
+- [x]  cleanup `work.type_num`
 - [x]  remove false dupes
   - [x]  AW
   - [x]  PS (see notes)
@@ -341,7 +344,7 @@ Create new primary keys according to new `id` scheme.
 
 ## Schema changes
 
-- [ ]  unify `fictionality` constraint across tables
+- [x]  unify `fictionality` constraint across tables
 - [ ]  unify `language`  column name for language
 - [ ]  check `main_narrator` on SS (also PS?, W?) see data-dictionary
 - [x]  add `quotations` to `work`
@@ -349,3 +352,5 @@ Create new primary keys according to new `id` scheme.
 - [x]  manually inspect schema files and homogenize
 - [ ]  manually inspect TEI output
 - [x]  update TEI schema to latest and greatest
+- [ ]  update gexf schema to latest and greatest
+- [ ]  manually inspect gexf output

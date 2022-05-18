@@ -95,15 +95,6 @@
       }
     },
     {
-      "name": "fictionality",
-      "description": "Is the work itself fictional?",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "pattern": "F?"
-      }
-    },
-    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {

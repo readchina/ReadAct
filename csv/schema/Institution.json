@@ -90,13 +90,6 @@
       }
     },
     {
-      "name": "note",
-      "description": "structural entry for internal notes",
-      "constraints": {
-        "required": false
-      }
-    },
-    {
       "name": "source",
       "constraints": {
         "required": false
@@ -104,6 +97,13 @@
     },
     {
       "name": "page",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
       "constraints": {
         "required": false
       }
