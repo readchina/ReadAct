@@ -1,9 +1,9 @@
 table,column,definition,notes,created,created_by,last_modified,last_modified_by
 Act,act_ID,A and a five-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
-Act,agent,key: Person.person_id,'A' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
+Act,agent,key: Agent.agent_id,'A' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
 Act,action,key: ActType.action_ID,'to  give' in: A gives B a gift,2017-07-04,LH,2018-02-01,DP
 Act,act_object,Object of an action (Text.text_id),'gift' in: A gives B a gift,2017-07-25,OS,2018-02-01,DP
-Act,act_target,Person.person_id of targets of act,"empty when not applicable, 'B' in: A gives B a gift, A read unspecified works by B",2017-07-04,LH,2020-04-02,DP
+Act,act_target,Agent.agent_id of targets of act,"empty when not applicable, 'B' in: A gives B a gift, A read unspecified works by B",2017-07-04,LH,2020-04-02,DP
 Act,start,Year in EDTF when act begins (between 1966 and 1981),,2017-07-04,LH,2018-02-01,DP
 Act,end,Year in EDTF when act ends,instintaneous acts have equal start and end dates,2017-07-04,LH,2018-02-01,DP
 Act,narrative_time,Add Narrative age of fictional personas only if the narrative_age of the act_agent is different from the narrative_age recorded in the Person.csv.: 01: childhood / 02: mid-age / 03: old-age.  'NULL' or empty in case this does not apply; 00 if unknown,,2019-06-27,MG,2019-07-07,MG
@@ -55,7 +55,7 @@ ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to si
 ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
 ArtWork,art_form,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
-ArtWork,first_performance_place,place of first performance or showing key: Place.place_id,,2018-02-09,OS,2022-05-16,DP
+ArtWork,first_performance_place,place of first performance or showing key: Space.space_id,,2018-02-09,OS,2022-05-16,DP
 ArtWork,neibu,yes/no whether this was originally a neibu publication. Leave empty for artworks created before 1949 and after 1980 or where status is unknown,,2018-02-09,OS,2018-02-09,OS
 ArtWork,note,This column is a metacategory and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 ArtWork,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
@@ -76,7 +76,7 @@ Genre,last_modified_by,acronym of project member last modifying this line,,2017-
 Institution,inst_id,key: Agent.agent_id,,2017-07-04,LH,2022-05-12,DP
 Institution,inst_name,"Generic institutional names in english ( e.g.:  'school', 'university', ‘Chinese Communist Party’) others in pinyin. Change all traditional characters to simplified characters.",,2017-07-04,LH,2017-07-04,LH
 Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
-Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding,key: Place.place_ID,2018-01-30,OS,2018-02-05,MG
+Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding; key: Space.space_id,,2018-01-30,OS,2018-02-05,MG
 Institution,start,start of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2018-02-05,MG
 Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2020-04-22,DP
 Institution,alt_start,start of alternative name: year in EDTF (if unknown uses approximate and uncertain dates),,2018-02-05,MG,2018-02-05,MG
@@ -128,7 +128,7 @@ Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name,Alias matches the language of the name. Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
-Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
+Person,place_of_birth,key: Space.space_ID 'SP0436' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; '' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2020-04-22,DP
 Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. Add 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unknown' if unknown; '' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2020-04-22,DP
@@ -177,7 +177,7 @@ Quotation,last_modified_by,acronym of project member last modifying this line,,2
 Rustication,person,agent_id of person undergoing rustication;,,2017-07-04,LH,2020-04-09,DP
 Rustication,rustication_start,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,https://www.loc.gov/standards/datetime/,2017-11-03,OS,2020-04-22,DP
 Rustication,rustication_end,year between 1968 and 1979 in EDTF. Where rustication status is uncertain use approximate and uncertain dates,,2017-11-03,OS,2018-01-30,DP
-Rustication,place_of_rust,a single place_id for major place of rustication; 'PL0999' in case we do not know the place.,,2017-07-04,LH,2020-04-22,DP
+Rustication,place_of_rust,a single space_id for major place of rustication; 'SP0436' in case we do not know the place.,,2017-07-04,LH,2020-04-22,DP
 ,,,,,,,
 SecondarySource,sec_source_id, key: Work.work_id,,2018-02-09,OS,2022-05-12,DP
 SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters.  b) title in original language,,2018-02-09,OS,2018-02-09,OS
@@ -192,7 +192,7 @@ SecondarySource,neibu,yes/no whether this was originally a neibu publication. ''
 SecondarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographes and novels.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,serial,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
-SecondarySource,main_narrator,Add either person_id or sec_source_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the Person_ID to the commentary line of the act.,,2019-06-27,MG,2019-07-07,MG
+SecondarySource,main_narrator,Add either agent_id or work_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the agent_id to the commentary line of the act.,,2019-06-27,MG,2022-05-18,MG
 SecondarySource,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
