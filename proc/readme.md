@@ -268,6 +268,9 @@ Create new primary keys according to new `id` scheme.
 - [x]  check `site_information` for `lit` entries
   - [x]  no entries recheck comments
 
+### Agent
+- [ ]  migrate fictionality from secodary to primary table
+
 ### ArtWork_p
 
 - [x]  create primary keys for new art works in `work.csv`
@@ -278,7 +281,7 @@ Create new primary keys according to new `id` scheme.
 ### Institution_p
 
 - [x]  Delete `I0004`, `I0006`, and `I0007` additions from patched output.
-- [ ]  refactor the notes "fictional" this should be captured on  `Agent.csv` only, double check whats going on there.
+- [x]  refactor the notes "fictional" 
 
 ### Membership_p
 

@@ -90,12 +90,14 @@
       }
     },
     {
-      "name": "note",
-      "description": "structural entry for internal notes",
+      "name": "fictionality",
+      "description": "Is it a fictional istitution?",
+      "type": "string",
       "constraints": {
-        "required": false
+        "required": false,
+        "pattern": "F?"
       }
-    },
+    },    
     {
       "name": "source",
       "constraints": {
@@ -104,6 +106,13 @@
     },
     {
       "name": "page",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
       "constraints": {
         "required": false
       }

@@ -83,9 +83,10 @@ Institution,alt_end,end of alternative name: year in EDTF (if unknown uses appro
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
 Institution,wikidata_id, Wikidata ID of the institution,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
-Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
+Institution,fictionality,F for fictional organization; e.g. Hogwarts; starfleet; … ,,2019-04-09,MG,2022-05-18,DP
 Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
+Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Institution,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Institution,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Institution,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
