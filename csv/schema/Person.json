@@ -113,6 +113,15 @@
       }
     },
     {
+      "name": "wikidata_id",
+      "description": "Wikidata ID of person",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^(Q[0-9]+)*)"
+      }
+    },
+    {
       "name": "source_1",
       "type": "string",
       "constraints": {
@@ -184,7 +193,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     },
     {
@@ -201,7 +210,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     }
   ],

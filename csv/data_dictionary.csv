@@ -28,15 +28,16 @@ ActType,created_by,acronym of project member creating this line,,2017-07-04,LH,2
 ActType,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
 ActType,last_modified_by,acronym of project member last modifying this line,,2017-07-04,LH,2017-07-04,LH
 ,,,,,,,
-Agent,agent_id,AG and a four-digit number (leading zeros),,,,,
-Agent,old_id,P or I or and a four-digit number (leading zeros),,,,,
-Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,,,,
-Agent,commentary,Space for background information on the agent.,,,,,
-Agent,note,Internal notes of project members,,,,,
-Agent,created,date of creation of line,,,,,
-Agent,created_by,acronym of project member creating this line,,,,,
-Agent,last_modified,date of last modification,,,,,
-Agent,last_modified_by,acronym of project member last modifying this line,,,,,
+Agent,agent_id,AG and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
+Agent,old_id,P or I or and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
+Agent,wikidata_id, Wikidata ID of the agent,https://www.wikidata.org/,2022-04-04,DP,2022-04-04,DP
+Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,2022-04-04,DP,2022-04-04,DP
+Agent,commentary,Space for background information on the agent.,,2022-04-04,DP,2022-04-04,DP
+Agent,note,Internal notes of project members,,2022-04-04,DP,2022-04-04,DP
+Agent,created,date of creation of line,,2022-04-04,DP,2022-04-04,DP
+Agent,created_by,acronym of project member creating this line,,2022-04-04,DP,2022-04-04,DP
+Agent,last_modified,date of last modification,,2022-04-04,DP,2022-04-04,DP
+Agent,last_modified_by,acronym of project member last modifying this line,,2022-04-04,DP,2022-04-04,DP
 ,,,,,,,
 ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
 ArtForm,art_form_name,art form name in English - if necessary use Chinese pinyin. A guide for possible art forms is the following webpage: https://en.wikipedia.org/wiki/Fine_art,,2018-02-09,OS,2018-02-09,OS
@@ -81,6 +82,7 @@ Institution,alt_start,start of alternative name: year in EDTF (if unknown uses a
 Institution,alt_end,end of alternative name: year in EDTF (if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
+Institution,wikidata_id, Wikidata ID of the institution,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
 Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
@@ -129,6 +131,7 @@ Person,place_of_birth,key: Place.place_ID 'PL0999' in case we do not know the pl
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; '' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2020-04-22,DP
 Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. Add 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unknown' if unknown; '' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2020-04-22,DP
+Person,wikidata_id, Wikidata ID of the person,https://www.wikidata.org/,2022-04-04,DP,2022-04-04,DP
 Person,source_1,Text.text_id of evidential source,URL for online sources.,2017-07-04,LH,2019-08-20,DP
 Person,Page_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
 Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-20,DP
@@ -225,6 +228,7 @@ Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,,2020-04-
 Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
 Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
+Space,wikidata_id, Wikidata ID of the spatial entity,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Space,note,Internal notes of project members,,2020-04-02,DP,2020-04-02,DP
 Space,created,date of creation of line,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Space,created_by,acronym of project member creating this line,,2020-04-02,DP,2020-04-02,DP

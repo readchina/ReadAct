@@ -16,16 +16,17 @@ declare variable $membership := csv:csv-to-xml('../../csv/data/Membership.csv') 
 :)
 declare function local:listOrg($groups as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listOrg')} {
-
+        
         for $grp in distinct-values($groups//inst_id)
         let $path := $groups//inst_id[. = $grp]
+        let $wikidataid := $agent//agent_id[. = $grp]/../wikidata_id/text()
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'org')} {
                 attribute xml:id {$grp},
-
+                
                 for $name in distinct-values($path/../inst_name)
                 let $hit := $path/../inst_name[. = $name]
-
+                
                 return
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'orgName')} {
                         attribute xml:lang {distinct-values($hit/../inst_name_lang)},
@@ -48,7 +49,7 @@ declare function local:listOrg($groups as node()*) as item()* {
                                 (),
                         $name
                     },
-
+                
                 for $al in distinct-values($path/../inst_alt_name)
                 let $hit := $path/../inst_alt_name[. = $al]
                 return
@@ -76,7 +77,10 @@ declare function local:listOrg($groups as node()*) as item()* {
                 for $p in distinct-values($path/../place)
                 return
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'placeName')} {attribute ref {'#' || $p}},
-
+                (: external IDs :)
+                if ($wikidataid ne '')
+                then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
+                else (),
                 (: note :)
                 if ($agent//agent_id[. = $grp]/../commentary)
                 then

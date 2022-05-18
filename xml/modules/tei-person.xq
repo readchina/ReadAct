@@ -18,12 +18,13 @@ declare variable $social-position := csv:csv-to-xml('../../csv/data/SocialPositi
 declare function local:listPers($persons as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listPerson')} {
         let $distinct := distinct-values($persons//person_id)
-
+        
         for $p in $distinct
         let $path := $persons//person_id[. = $p]
         let $sex := lower-case($path[1]/../sex)
+        let $wikidataid := $agent//agent_id[. = $p]/../wikidata_id/text()
             order by $p
-
+        
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'person')} {
                 attribute xml:id {data($p)},
@@ -62,6 +63,10 @@ declare function local:listPers($persons as node()*) as item()* {
                     })
                 else
                     (),
+            (: external IDs :)
+            if ($wikidataid ne '')
+            then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
+            else (),
             (: Lifedates :)
             if ($path/../birthyear)
             then
@@ -115,7 +120,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-
+                    
                     if ($r/../rustication_end)
                     then
                         (let $map := csv:edtf($r/../rustication_end, 'to')
@@ -123,7 +128,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-
+                    
                     if ($r/../place_of_rust)
                     then
                         (attribute where {'#' || distinct-values($r/../place_of_rust)})

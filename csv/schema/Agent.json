@@ -20,6 +20,15 @@
       }
     },
     {
+      "name": "wikidata_id",
+      "description": "Wikidata ID of agent",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^(Q[0-9]+)*)"
+      }
+    },
+    {
       "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",
