@@ -240,7 +240,6 @@ Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02
 Work,old_id,SS or PS or AW or Q and a five-digit number (leading zeros),,2020-04-02,DP,2022-05-12,DP
 Work,creator,key: Agent.agent_id,"authors, artists, author of quoted source, etc.",2020-04-02,DP,2022-05-12,DP
 Work,type,SS or PS or AW or Q,,2020-04-02,DP,2022-05-12,DP
-Work,type_num,,,2020-04-02,DP,2020-04-02,DP
 Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Work,fictionality,"denotes purely fictional works: “F”, e.g. Harry Potter’s Book of Spells, ",,2022-05-09,DP,2022-05-09,DP
 Work,commentary,"Space for background information on the work. For example reference to translations, special circumstances, ...",,2020-04-02,DP,2020-04-02,DP

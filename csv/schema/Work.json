@@ -28,13 +28,6 @@
       }
     },
     {
-      "name": "type_num",
-      "description": "integer on table",
-      "constraints": {
-        "required": false
-      }
-    },
-    {
       "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",

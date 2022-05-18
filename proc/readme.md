@@ -328,7 +328,7 @@ Create new primary keys according to new `id` scheme.
 
 ### Work_p
 
-- [ ]  cleanup `work.type_num`
+- [x]  cleanup `work.type_num`
 - [x]  remove false dupes
   - [x]  AW
   - [x]  PS (see notes)
@@ -344,7 +344,7 @@ Create new primary keys according to new `id` scheme.
 
 ## Schema changes
 
-- [ ]  unify `fictionality` constraint across tables
+- [x]  unify `fictionality` constraint across tables
 - [ ]  unify `language`  column name for language
 - [ ]  check `main_narrator` on SS (also PS?, W?) see data-dictionary
 - [x]  add `quotations` to `work`
@@ -352,3 +352,5 @@ Create new primary keys according to new `id` scheme.
 - [x]  manually inspect schema files and homogenize
 - [ ]  manually inspect TEI output
 - [x]  update TEI schema to latest and greatest
+- [x]  update gexf schema to latest and greatest
+- [ ]  manually inspect gexf output
