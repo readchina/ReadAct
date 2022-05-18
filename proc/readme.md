@@ -269,7 +269,7 @@ Create new primary keys according to new `id` scheme.
   - [x]  no entries recheck comments
 
 ### Agent
-- [ ]  migrate fictionality from secondary to primary table
+- [x]  migrate fictionality from secondary to primary table
 
 ### ArtWork_p
 

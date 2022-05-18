@@ -31,6 +31,7 @@ ActType,last_modified_by,acronym of project member last modifying this line,,201
 Agent,agent_id,AG and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
 Agent,old_id,P or I or and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
 Agent,wikidata_id, Wikidata ID of the agent,https://www.wikidata.org/,2022-04-04,DP,2022-04-04,DP
+Agent,fictionality,F for fictional agent; e.g. Hogwarts; Gandalf; … ,,2019-04-09,MG,2022-05-18,DP
 Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,2022-04-04,DP,2022-04-04,DP
 Agent,commentary,Space for background information on the agent.,,2022-04-04,DP,2022-04-04,DP
 Agent,note,Internal notes of project members,,2022-04-04,DP,2022-04-04,DP
@@ -83,7 +84,6 @@ Institution,alt_end,end of alternative name: year in EDTF (if unknown uses appro
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
 Institution,wikidata_id, Wikidata ID of the institution,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
-Institution,fictionality,F for fictional organization; e.g. Hogwarts; starfleet; … ,,2019-04-09,MG,2022-05-18,DP
 Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
 Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
@@ -138,7 +138,6 @@ Person,Page_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_
 Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-20,DP
 Person,Page_2,see page_number_1.,,2017-12-29,OS,2018-01-30,DP
 Person,commentary,Supplemental information,not for project internal notes.,2017-10-27,OS,2018-01-30,DP
-Person,fictionality,F for fictional characters which are not based on a real life person. Add evidence for the decision to the commentary field.,,2019-04-09,MG,2019-06-19,DP
 Person,narrative_status,Either NarrativePosition; 'unknown' in case you do not know; 'NULL' for authors and other real life persons. N01-N05 only refer to literary works of socialist realism and should not be used for anything written post Mao.,,2019-06-27,MG,2019-10-30,MG
 Person,note,Internal notes of project members,,2017-10-14,OS,2018-01-30,DP
 Person,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH

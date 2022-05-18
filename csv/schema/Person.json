@@ -148,15 +148,6 @@
       }
     },
     {
-      "name": "fictionality",
-      "description": "Is it a fictional persona?",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "pattern": "F?"
-      }
-    },
-    {
       "name": "narrative_status",
       "description": "NarrativePosition.nar_pos_id for literary personas",
       "type": "string",
