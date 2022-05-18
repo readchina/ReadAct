@@ -158,7 +158,9 @@ declare function local:listBibl($works as node()*) as item()* {
     let $g-type := replace($gg/../genre_type, ' ', '-')
     let $g-name := $gg/../genre_name
     let $g-src := $gg/../source
-    (: create taxonony in wrapper file TBD  :)
+    (: create taxonony in wrapper file TBD  
+    TODO: only use LCSH for actual LCSH, not for artform etc
+    :)
     let $g-idno := $g-src
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {

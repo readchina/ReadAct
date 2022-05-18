@@ -269,7 +269,7 @@ Create new primary keys according to new `id` scheme.
   - [x]  no entries recheck comments
 
 ### Agent
-- [ ]  migrate fictionality from secodary to primary table
+- [ ]  migrate fictionality from secondary to primary table
 
 ### ArtWork_p
 
@@ -298,7 +298,7 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  delete duplicate old_id before proceeding with regular cleanup steps
 - [x]  cleanup (delete) `Agent.name_lang` column
-- [ ]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
+- [x]  ensure that `Person_lit.ficionality` column data is not lost in new system (need to decide where to put it)
 
 ### NarrativePosition_p
 
@@ -308,9 +308,9 @@ Create new primary keys according to new `id` scheme.
 
 - [x]  sort first lots of dubious entries
 - [x]  Check `PS00207` which should be unknown work?
-- [ ]  move `source.fictionality` to `work.fictionality` on main entity?
+- [x]  move `source.fictionality` to `work.fictionality` on main entity?
 - [x]  merge three (?) `work.csv` tables
-- [ ]  `*Source.genre` and `Work.type_num` need check for refactoring seems superfluous to repeat genres on Sources when we could add them to Work, check ArtWorks.
+- [x]  `*Source.genre` needs check (is needed for foreign key constraint) for. Is is not superfluous to repeat genres on Sources when we could add them to Work, see `ArtWork.art_form`.
 - [x]  fix creator references on new Work entries to point to Agents instead of Persons
   - [x]  AW
   - [x]  PS
@@ -352,5 +352,5 @@ Create new primary keys according to new `id` scheme.
 - [x]  manually inspect schema files and homogenize
 - [ ]  manually inspect TEI output
 - [x]  update TEI schema to latest and greatest
-- [x]  update gexf schema to latest and greatest
+- [ ]  update gexf schema to latest and greatest
 - [ ]  manually inspect gexf output
