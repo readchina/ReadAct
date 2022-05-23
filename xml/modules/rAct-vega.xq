@@ -1,8 +1,8 @@
 xquery version "3.1";
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
-declare namespace gexf = "http://www.gexf.net/1.2draft";
-declare namespace viz = "http://www.gexf.net/1.2draft/viz";
+declare namespace gexf = "http://gexf.net/1.3";
+declare namespace viz = "http://gexf.net/1.3/viz";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
@@ -22,7 +22,7 @@ declare option output:omit-xml-declaration "yes";
  (:~
   : Take gexf graph representation and return JSON for display via vega,
   : which uses D3 force layout under the hood. However, it insists on json index as node identity
-  : for constructing edges whcih is a pain, and needs to bexml  count or position -1.
+  : for constructing edges which is a pain, and needs to be xml count or position -1.
   : @see
   : @see https://raw.githubusercontent.com/vega/vega/master/docs/data/miserables.json
   : @param graph gexf formated graph

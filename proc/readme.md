@@ -276,7 +276,7 @@ Create new primary keys according to new `id` scheme.
 - [x]  create primary keys for new art works in `work.csv`
 - [x]  replace old ID on `ArtWork.csv` with new ones from patched `work.csv`
 - [x]  migrate comments from `Work` to `ArtWork`
-- [ ]  is missing fictionality column
+- [x]  is missing fictionality column
 
 ### Institution_p
 
@@ -352,5 +352,5 @@ Create new primary keys according to new `id` scheme.
 - [x]  manually inspect schema files and homogenize
 - [ ]  manually inspect TEI output
 - [x]  update TEI schema to latest and greatest
-- [ ]  update gexf schema to latest and greatest
-- [ ]  manually inspect gexf output
+- [x]  update gexf schema to latest and greatest
+- [x]  manually inspect gexf output

@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar ns="http://www.gexf.net/1.2draft" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
-  <include href="data.rng">
-    <a:documentation>Libraries</a:documentation>
-  </include>
+<grammar ns="http://gexf.net/1.3" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:viz="http://gexf.net/1.3/viz" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
   <include href="dynamics.rng"/>
-  <include href="hierarchy.rng"/>
-  <include href="phylogenics.rng"/>
-  <include href="viz.rng"/>
+  <include href="viz.rng" ns="http://gexf.net/1.3/viz"/>
   <start>
     <a:documentation>Grammar root</a:documentation>
     <element name="gexf">
       <ref name="gexf-content"/>
     </element>
   </start>
+  <!-- Gexf -->
   <define name="gexf-content">
-    <a:documentation>Tree</a:documentation>
     <interleave>
       <attribute name="version">
-        <value type="string" datatypeLibrary="">1.2</value>
+        <value type="string" datatypeLibrary="">1.3</value>
       </attribute>
       <optional>
         <attribute name="variant">
@@ -36,6 +31,7 @@
       </group>
     </interleave>
   </define>
+  <!-- Meta -->
   <define name="meta-content">
     <interleave>
       <optional>
@@ -60,6 +56,7 @@
       </optional>
     </interleave>
   </define>
+  <!-- Graph -->
   <define name="graph-content">
     <interleave>
       <optional>
@@ -72,12 +69,12 @@
           <ref name="idtype-type"/>
         </attribute>
       </optional>
-      <optional>
-        <attribute name="mode">
-          <ref name="mode-type"/>
-        </attribute>
-      </optional>
       <group>
+        <zeroOrMore>
+          <element name="attributes">
+            <ref name="attributes-content"/>
+          </element>
+        </zeroOrMore>
         <element name="nodes">
           <ref name="nodes-content"/>
         </element>
@@ -87,6 +84,7 @@
       </group>
     </interleave>
   </define>
+  <!-- Nodes -->
   <define name="nodes-content">
     <interleave>
       <optional>
@@ -101,6 +99,7 @@
       </zeroOrMore>
     </interleave>
   </define>
+  <!-- Edges -->
   <define name="edges-content">
     <interleave>
       <optional>
@@ -115,6 +114,7 @@
       </zeroOrMore>
     </interleave>
   </define>
+  <!-- Node -->
   <define name="node-content">
     <interleave>
       <attribute name="id">
@@ -125,13 +125,21 @@
           <data type="token"/>
         </attribute>
       </optional>
+      <optional>
+        <element name="attvalues">
+          <ref name="attvalues-content"/>
+        </element>
+      </optional>
     </interleave>
   </define>
+  <!-- Edge -->
   <define name="edge-content">
     <interleave>
-      <attribute name="id">
-        <ref name="id-type"/>
-      </attribute>
+      <optional>
+        <attribute name="id">
+          <ref name="id-type"/>
+        </attribute>
+      </optional>
       <optional>
         <attribute name="type">
           <ref name="edgetype-type"/>
@@ -153,8 +161,155 @@
           <ref name="weight-type"/>
         </attribute>
       </optional>
+      <optional>
+        <attribute name="kind">
+          <data type="token"/>
+        </attribute>
+      </optional>
+      <optional>
+        <element name="attvalues">
+          <ref name="attvalues-content"/>
+        </element>
+      </optional>
     </interleave>
   </define>
+  <!-- Extends nodes -->
+  <define name="node-content" combine="interleave">
+    <a:documentation>Hierarchy</a:documentation>
+    <interleave>
+      <optional>
+        <attribute name="pid">
+          <ref name="id-type"/>
+        </attribute>
+      </optional>
+      <optional>
+        <element name="nodes">
+          <ref name="nodes-content"/>
+        </element>
+      </optional>
+      <optional>
+        <element name="edges">
+          <ref name="edges-content"/>
+        </element>
+      </optional>
+    </interleave>
+  </define>
+  <!-- Extends nodes -->
+  <define name="node-content" combine="interleave">
+    <a:documentation>Phylogenics</a:documentation>
+    <optional>
+      <element name="parents">
+        <ref name="parents-content"/>
+      </element>
+    </optional>
+  </define>
+  <!-- Parents -->
+  <define name="parents-content">
+    <zeroOrMore>
+      <element name="parent">
+        <ref name="parent-content"/>
+      </element>
+    </zeroOrMore>
+  </define>
+  <!-- Parent -->
+  <define name="parent-content">
+    <attribute name="for">
+      <ref name="id-type"/>
+    </attribute>
+  </define>
+  <!-- Attributes -->
+  <define name="attributes-content">
+    <a:documentation>Attributes</a:documentation>
+    <interleave>
+      <attribute name="class">
+        <ref name="class-type"/>
+      </attribute>
+      <zeroOrMore>
+        <element name="attribute">
+          <ref name="attribute-content"/>
+        </element>
+      </zeroOrMore>
+    </interleave>
+  </define>
+  <!-- Attribute -->
+  <define name="attribute-content">
+    <interleave>
+      <attribute name="id">
+        <ref name="id-type"/>
+      </attribute>
+      <attribute name="title">
+        <data type="string"/>
+      </attribute>
+      <attribute name="type">
+        <ref name="attrtype-type"/>
+      </attribute>
+      <optional>
+        <element name="default">
+          <text/>
+        </element>
+      </optional>
+      <optional>
+        <element name="options">
+          <text/>
+        </element>
+      </optional>
+    </interleave>
+  </define>
+  <!-- Attribute values (for nodes and edges) -->
+  <define name="attvalues-content">
+    <zeroOrMore>
+      <element name="attvalue">
+        <ref name="attvalue-content"/>
+      </element>
+    </zeroOrMore>
+  </define>
+  <!-- Attribute value -->
+  <define name="attvalue-content">
+    <interleave>
+      <attribute name="for">
+        <ref name="id-type"/>
+      </attribute>
+      <attribute name="value">
+        <data type="string"/>
+      </attribute>
+    </interleave>
+  </define>
+  <!-- Attribute types -->
+  <define name="attrtype-type">
+    <choice>
+      <value type="string" datatypeLibrary="">integer</value>
+      <value type="string" datatypeLibrary="">long</value>
+      <value type="string" datatypeLibrary="">double</value>
+      <value type="string" datatypeLibrary="">float</value>
+      <value type="string" datatypeLibrary="">boolean</value>
+      <value type="string" datatypeLibrary="">bigdecimal</value>
+      <value type="string" datatypeLibrary="">biginteger</value>
+      <value type="string" datatypeLibrary="">byte</value>
+      <value type="string" datatypeLibrary="">char</value>
+      <value type="string" datatypeLibrary="">short</value>
+      <value type="string" datatypeLibrary="">liststring</value>
+      <value type="string" datatypeLibrary="">listboolean</value>
+      <value type="string" datatypeLibrary="">listinteger</value>
+      <value type="string" datatypeLibrary="">listlong</value>
+      <value type="string" datatypeLibrary="">listfloat</value>
+      <value type="string" datatypeLibrary="">listdouble</value>
+      <value type="string" datatypeLibrary="">listbyte</value>
+      <value type="string" datatypeLibrary="">listshort</value>
+      <value type="string" datatypeLibrary="">listbigdecimal</value>
+      <value type="string" datatypeLibrary="">listbiginteger</value>
+      <value type="string" datatypeLibrary="">listchar</value>
+      <value type="string" datatypeLibrary="">string</value>
+      <value type="string" datatypeLibrary="">anyURI</value>
+    </choice>
+  </define>
+  <!-- Attribute class (for attributes) -->
+  <define name="class-type">
+    <choice>
+      <value type="string" datatypeLibrary="">node</value>
+      <value type="string" datatypeLibrary="">edge</value>
+    </choice>
+  </define>
+  <!-- Default edge type -->
   <define name="defaultedgetype-type">
     <a:documentation>Datatypes</a:documentation>
     <choice>
@@ -163,6 +318,7 @@
       <value type="string" datatypeLibrary="">mutual</value>
     </choice>
   </define>
+  <!-- Edge type -->
   <define name="edgetype-type">
     <choice>
       <value type="string" datatypeLibrary="" a:defaultValue="undirected">directed</value>
@@ -170,25 +326,23 @@
       <value type="string" datatypeLibrary="">mutual</value>
     </choice>
   </define>
+  <!-- Id type -->
   <define name="id-type">
     <choice>
       <data type="string"/>
       <data type="integer"/>
+      <data type="long"/>
     </choice>
   </define>
+  <!-- Id type (for graph) -->
   <define name="idtype-type">
     <choice>
       <value type="string" datatypeLibrary="" a:defaultValue="string">integer</value>
       <value type="string" datatypeLibrary="">string</value>
     </choice>
   </define>
-  <define name="mode-type">
-    <choice>
-      <value type="string" datatypeLibrary="" a:defaultValue="static">static</value>
-      <value type="string" datatypeLibrary="">dynamic</value>
-    </choice>
-  </define>
+  <!-- Edge weigth -->
   <define name="weight-type">
-    <data type="float" a:defaultValue="1.0"/>
+    <data type="double" a:defaultValue="1.0"/>
   </define>
 </grammar>
