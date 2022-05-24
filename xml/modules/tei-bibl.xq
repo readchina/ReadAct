@@ -29,6 +29,7 @@ declare function local:listBibl($works as node()*) as item()* {
         for $w in $work//work_id
         let $type := $w/../type
         let $note := $w/../commentary
+        let $fictionality := upper-case($w/../fictionality)
         let $quote := $quotation//source[. = $w]
         let $path := switch ($type)
             case ('PS')
@@ -64,6 +65,8 @@ declare function local:listBibl($works as node()*) as item()* {
                         return
                         ()
         },
+        
+        if ($fictionality eq 'F') then (attribute subtype {'fictional'}) else (),
 
         switch (distinct-values($path/../neibu))
             case 'yes'

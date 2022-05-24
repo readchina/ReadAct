@@ -20,10 +20,11 @@ declare function local:listOrg($groups as node()*) as item()* {
         for $grp in distinct-values($groups//inst_id)
         let $path := $groups//inst_id[. = $grp]
         let $wikidataid := $agent//agent_id[. = $grp]/../wikidata_id/text()
+        let $fictionality := upper-case($agent//agent_id[. =$grp]/../fictionality/text())
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'org')} {
                 attribute xml:id {$grp},
-                
+                if ($fictionality eq 'F') then (attribute type {'fictional'}) else (),
                 for $name in distinct-values($path/../inst_name)
                 let $hit := $path/../inst_name[. = $name]
                 

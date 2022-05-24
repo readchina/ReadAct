@@ -7,6 +7,7 @@
   <org xml:id="AG0628">
     <orgName xml:lang="en" type="main" from="1960" to="1970">Beatles</orgName>
     <placeName ref="#SP0134"/>
+    <idno type="wikidata">Q1299</idno>
   </org>
   <org xml:id="AG0629">
     <orgName xml:lang="en" type="main">English Language Services</orgName>
@@ -54,12 +55,14 @@
     <orgName xml:lang="en" type="main" from="1951">August First Film Studio</orgName>
     <orgName xml:lang="zh" type="main" from="1951">八一电影制片厂</orgName>
     <placeName ref="#SP0005"/>
+    <idno type="wikidata">Q10872932</idno>
   </org>
   <org xml:id="AG0637">
     <orgName xml:lang="en" type="main" from="1928">Alexandrov Ensemble</orgName>
     <orgName xml:lang="ru" type="main" from="1928">Ансамбль песни и пляски Российской армии имени А. В. Александрова</orgName>
     <orgName xml:lang="zh" type="main" from="1928">亚历山德罗夫红旗歌舞团</orgName>
     <placeName ref="#SP0030"/>
+    <idno type="wikidata">Q620990</idno>
     <listBibl>
       <bibl source="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BF%D0%B5%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BB%D1%8F%D1%81%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%92._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0"/>
     </listBibl>
@@ -163,6 +166,7 @@
     <orgName xml:lang="en" type="main" from="1977">Chinese Academy of Social Sciences</orgName>
     <orgName xml:lang="zh" type="main" from="1977">中国社会科学院</orgName>
     <placeName ref="#SP0005"/>
+    <idno type="wikidata">Q1073828</idno>
     <listBibl>
       <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2"/>
     </listBibl>
@@ -181,6 +185,7 @@
     <orgName xml:lang="en" type="alias" from="1958" to="1980">People's Republic of China Science and Technology Association</orgName>
     <orgName xml:lang="zh" type="alias" from="1958" to="1980">中华人民共和国科学技术协会</orgName>
     <placeName ref="#SP0005"/>
+    <idno type="wikidata">Q5099580</idno>
     <listBibl>
       <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BC%9A"/>
     </listBibl>
@@ -189,6 +194,7 @@
     <orgName xml:lang="en" type="main" from="1949">China Artists Association</orgName>
     <orgName xml:lang="zh" type="main" from="1949">中国美术家协会</orgName>
     <placeName ref="#SP0005"/>
+    <idno type="wikidata">Q5099575</idno>
     <listBibl>
       <bibl source="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%BE%8E%E8%A1%93%E5%AE%B6%E5%8D%94%E6%9C%83"/>
     </listBibl>
@@ -199,6 +205,7 @@
     <orgName xml:lang="en" type="alias" from="1927" to="1949">Chinese Workers’ and Peasants’ Revolutionary Army</orgName>
     <orgName xml:lang="zh" type="alias" from="1927" to="1949">中国工农革命军</orgName>
     <placeName ref="#SP0005"/>
+    <idno type="wikidata">Q200106</idno>
     <listBibl>
       <bibl source="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B"/>
     </listBibl>
@@ -217,7 +224,7 @@
     <orgName xml:lang="en" type="main" from="1898">Beijing University</orgName>
     <orgName xml:lang="zh" type="main" from="1898">北京大学</orgName>
     <placeName ref="#SP0005"/>
-    <note>Beijing University</note>
+    <idno type="wikidata">Q16952</idno>
     <listBibl>
       <bibl source="https://www.pku.edu.cn/"/>
     </listBibl>
@@ -228,9 +235,103 @@
     <orgName xml:lang="en" type="alias" from="1937" to="1942">Gunaghua Bookstore</orgName>
     <orgName xml:lang="zh" type="alias" from="1937" to="1942">光华书店</orgName>
     <placeName ref="#SP0024"/>
-    <note>Xinhua Bookstore</note>
+    <idno type="wikidata">Q6124193</idno>
     <listBibl>
       <bibl source="https://en.wikipedia.org/wiki/Xinhua_Bookstore"/>
     </listBibl>
+  </org>
+  <org xml:id="AG0933">
+    <orgName xml:lang="en" type="main">Narratorial voices in 'Balzac et la Petite Tailleuse Chinoise'</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0791"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0934">
+    <orgName xml:lang="en" type="main">Li Yizhe group</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0523"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0935">
+    <orgName xml:lang="en" type="main" from="1977">Teacher Zhang‘s Class</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0795"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0936">
+    <orgName xml:lang="en" type="main">Great Production News</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0797"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0937" type="fictional">
+    <orgName xml:lang="en" type="main" from="2046">The Talking Club</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0861"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0938" type="fictional">
+    <orgName xml:lang="en" type="main">Future Daily</orgName>
+    <placeName ref="#SP0436"/>
+    <listBibl>
+      <bibl source="#W0861"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0939">
+    <orgName xml:lang="en" type="main" from="1957">China State Construction Engineering Corporation (CSCEC)</orgName>
+    <orgName xml:lang="zh" type="main" from="1957">中国建筑集团有限公司</orgName>
+    <placeName ref="#SP0005"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/China_State_Construction_Engineering"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0940">
+    <orgName xml:lang="en" type="main" from="1978">Herzog &amp; de Meuron</orgName>
+    <orgName xml:lang="zh" type="main" from="1978">赫爾佐格和德梅隆</orgName>
+    <placeName ref="#SP0524"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0941">
+    <orgName xml:lang="en" type="main" from="1975">OMA</orgName>
+    <placeName ref="#SP0525"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0942">
+    <orgName xml:lang="en" type="main" from="1958">NASA</orgName>
+    <orgName xml:lang="zh" type="main" from="1958">美国国家航空航天局</orgName>
+    <placeName ref="#SP0225"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/NASA"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0943">
+    <orgName xml:lang="en" type="main" from="1954" to="1987">Fujiko Fujio</orgName>
+    <orgName xml:lang="zh" type="main" from="1954" to="1987">藤子不二雄</orgName>
+    <placeName ref="#SP0312"/>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Fujiko_Fujio"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG0944">
+    <orgName xml:lang="en" type="main" from="1998">Google LLC</orgName>
+    <orgName xml:lang="en" type="alias" from="1998" to="2017">Google Inc.</orgName>
+    <placeName ref="#SP0540"/>
+    <note>Google Inc.</note>
+    <listBibl>
+      <bibl source="https://en.wikipedia.org/wiki/Google"/>
+    </listBibl>
+  </org>
+  <org xml:id="AG9999">
+    <orgName xml:lang="en" type="main">unknown</orgName>
+    <placeName ref="#SP0436"/>
   </org>
 </listOrg>

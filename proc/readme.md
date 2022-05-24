@@ -350,7 +350,7 @@ Create new primary keys according to new `id` scheme.
 - [x]  add `quotations` to `work`
 - [x]  note `work.creator` for quote is author of quoted text, not the person doing the quoting
 - [x]  manually inspect schema files and homogenize
-- [ ]  manually inspect TEI output
+- [x]  manually inspect TEI output
 - [x]  update TEI schema to latest and greatest
 - [x]  update gexf schema to latest and greatest
 - [x]  manually inspect gexf output

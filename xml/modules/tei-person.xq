@@ -23,11 +23,14 @@ declare function local:listPers($persons as node()*) as item()* {
         let $path := $persons//person_id[. = $p]
         let $sex := lower-case($path[1]/../sex)
         let $wikidataid := $agent//agent_id[. = $p]/../wikidata_id/text()
+        let $fictionality := upper-case($agent//agent_id[. =$p]/../fictionality/text())
             order by $p
         
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'person')} {
                 attribute xml:id {data($p)},
+                (: TODO see https://github.com/TEIC/TEI/issues/2180 should be @type not @ana :)
+                if ($fictionality eq 'F') then (attribute ana {'fictional'}) else (),
                 switch ($sex)
                     case 'male'
                         return
