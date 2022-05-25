@@ -20,7 +20,7 @@
       }
     },
     {
-      "name": "art_form_name_lang",
+      "name": "language",
       "description": "language of art form name in ISO 639-1",
       "type": "string",
       "constraints": {
@@ -77,7 +77,7 @@
   ],
   "foreignKeys": [
     {
-      "fields": "art_form_name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

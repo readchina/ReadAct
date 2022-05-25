@@ -1,4 +1,4 @@
-prim_source_id,title,subtitle,title_lang,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,note,created,created_by,last_modified,last_modified_by
+prim_source_id,title,subtitle,language,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,note,created,created_by,last_modified,last_modified_by
 W0001,Silent China,,en,G01,SP0006,1932,Beixin shuju,1932,no,,,,,2017-07-03,LH,2020-04-08,DP
 W0001,无声的中国,,zh,G01,SP0006,1932,Beixin shuju,1932,no,,,,,2017-07-03,LH,2020-04-08,DP
 W0001,Wusheng de zhongguo,,zh-Latn-pinyin,G01,SP0006,1932,Beixin shuju,1932,no,,,,,2018-04-25,MG,2020-04-08,DP

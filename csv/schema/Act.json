@@ -130,7 +130,7 @@
       }
     },
     {
-      "name": "id_lang",
+      "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",
       "constraints": {
@@ -200,7 +200,7 @@
       }
     },
     {
-      "fields": "id_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

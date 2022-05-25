@@ -14,7 +14,7 @@ Act,page,Page number in text that the column source_id refers to,,2017-07-04,LH,
 Act,fictionality,Add F to mark fictional reading acts. By definition if either Act.agent; or Act.act_object have a fictional character_status or literary_status (F) propert; the resulting Act.act_status is fictional as well. Act.source_status property is insufficient to assert the fictionality of an act. Where real-world personas appear in fictional texts; contributors must indicate evidence for the act_status in Act.commentary,,2019-04-09,MG,2019-06-19,DP
 Act,commentary,information on an untitled/unknown work (PS09999) e.g. unknown work by: ‘person_id‘,‘genre_id‘,2018-04-10,MG,2018-04-10,MG
 Act,note,Internal notes of project members,,2017-10-14,OS,2018-02-01,DP
-Act,id_lang,structural entry to resolve multi-lingual composite keys “en”,,2020-04-02,DP,2020-04-02,DP
+Act,language,structural entry to resolve multi-lingual composite keys “en”,,2020-04-02,DP,2020-04-02,DP
 Act,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
 Act,created_by,acronym of project member creating this line,,2017-07-04,LH,2017-07-04,LH
 Act,last_modified,date of last modification,,2017-07-04,LH,2017-07-04,LH
@@ -42,7 +42,7 @@ Agent,last_modified_by,acronym of project member last modifying this line,,2022-
 ,,,,,,,
 ArtForm,art_form_id,AF and a five-digit number (leading zeros),,2018-02-09,OS,2018-02-09,OS
 ArtForm,art_form_name,art form name in English - if necessary use Chinese pinyin. A guide for possible art forms is the following webpage: https://en.wikipedia.org/wiki/Fine_art,,2018-02-09,OS,2018-02-09,OS
-ArtForm,art_form_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS
+ArtForm,language,key: IsoLangCode.iso_code ('en' or 'zh'),,2018-02-09,OS,2018-02-09,OS
 ArtForm,source,link to Art & Architecture Thesaurus,https://www.getty.edu/research/tools/vocabularies/aat/index.html,2018-03-02,MG,2018-03-02,MG
 ArtForm,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
 ArtForm,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
@@ -52,7 +52,7 @@ ArtForm,last_modified_by,acronym of project member last modifying this line,,201
 ArtWork,artwork_id,key: Work.work_id,AW09999 is structural entry for unknown artworks,2018-02-09,OS,2018-05-15,MG
 ArtWork,title,Title of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
 ArtWork,subtitle,Subtitle of an artwork. Change all traditional characters to simplified characters.,both in the original language and Chinese. If the Original language is not either English or French or German,2018-02-09,OS,2018-02-09,OS
-ArtWork,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
+ArtWork,language,Language code of this title ('en' or 'zh' or 'ru' etc.).,,2018-02-09,OS,2018-02-09,OS
 ArtWork,art_form,key: art_form.genre_id,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_date,date of first performance or showing,,2018-02-09,OS,2018-02-09,OS
 ArtWork,first_performance_place,place of first performance or showing key: Space.space_id,,2018-02-09,OS,2022-05-16,DP
@@ -65,7 +65,7 @@ ArtWork,last_modified_by,acronym of project member last modifying this line,,201
 ,,,,,,,
 Genre,genre_id,G and a two-digit number (leading zeros),,2017-07-04,LH,2017-07-04,LH
 Genre,genre_name,genre name in English - if necessary use Chinese pinyin,,2017-07-04,LH,2017-07-04,LH
-Genre,genre_name_lang,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
+Genre,language,key: IsoLangCode.iso_code ('en' or 'zh'),,2017-07-04,LH,2018-02-01,DP
 Genre,genre_type,genre type of higher ranking order (ie. fiction > short story),http://id.loc.gov/authorities/genreForms.html,2017-07-04,LH,2018-02-01,DP
 Genre,source,External hierarchy linked to Library of Congress Subject Headings,http://id.loc.gov/authorities/genreForms.html or http://id.loc.gov/authorities/subjects.html,2018-03-02,MG,2018-03-08,MG
 Genre,created,date of creation of line,,2017-07-04,LH,2017-07-04,LH
@@ -75,7 +75,7 @@ Genre,last_modified_by,acronym of project member last modifying this line,,2017-
 ,,,,,,,
 Institution,inst_id,key: Agent.agent_id,,2017-07-04,LH,2022-05-12,DP
 Institution,inst_name,"Generic institutional names in english ( e.g.:  'school', 'university', ‘Chinese Communist Party’) others in pinyin. Change all traditional characters to simplified characters.",,2017-07-04,LH,2017-07-04,LH
-Institution,inst_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
+Institution,language,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-06,MG
 Institution,place,the spatial center of the institution‘s activities with a special focus on the time of its founding; key: Space.space_id,,2018-01-30,OS,2018-02-05,MG
 Institution,start,start of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2018-02-05,MG
 Institution,end,end of its existence: year in EDTF (if unknown uses approximate and uncertain dates),,2018-01-30,OS,2020-04-22,DP
@@ -121,13 +121,12 @@ NarrativePosition,last_modified_by,acronym of project member last modifying this
 Person,person_id,key: Agent.agent_id,2017-07-04,LH,2022-05-12,DP
 Person,family_name,"Commonly used family name (姓), if the family name is missing, use ‘anon’. Change all traditional characters to simplified characters.",'Lu' for Lu Xun not 'Zhou' Shuren.,2017-07-04,LH,2018-10-16,WH
 Person,first_name,First name (名). Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
-Person,name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
+Person,language,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,sex,'male' or 'female',,2017-10-14,OS,2018-01-30,DP
 Person,rustication,One of four values related to 知识青年: '1' if elligible person underwent rustication; '2' where elligible person did not; '3' where status of elligible persons is unclear. '0' for inelligible persons (foreigners / deceased / born after 1964),,2017-07-04,LH,2018-01-30,DP
 Person,birthyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,deathyear,Year in EDTF,,2017-07-04,LH,2018-01-30,DP
 Person,alt_name,Alias matches the language of the name. Change all traditional characters to simplified characters.,,2017-07-04,LH,2018-01-30,DP
-Person,alt_name_lang,key: IsoLangCode.iso_code,,2017-07-04,LH,2018-02-01,DP
 Person,place_of_birth,key: Space.space_ID 'SP0436' in case we do not know the place.,,2017-07-04,LH,2018-11-13,MG
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; '' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2020-04-22,DP
 Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. Add 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
@@ -148,7 +147,7 @@ Person,last_modified_by,acronym of project member last modifying this line,,2017
 PrimarySource,prim_source_id,key: Work.work_id,,2017-07-04,LH,2022-05-12,DP
 PrimarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters. b) title in original language,,2017-07-04,LH,2017-07-04,LH
 PrimarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
-PrimarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2017-07-04,LH,2021-08-12,DP
+PrimarySource,language,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2017-07-04,LH,2021-08-12,DP
 PrimarySource,genre,key: Genre.genre_id,,2017-07-04,LH,2018-02-01,DP
 PrimarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
 PrimarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2017-07-04,LH,2017-10-27,OS
@@ -182,7 +181,7 @@ Rustication,place_of_rust,a single space_id for major place of rustication; 'SP0
 SecondarySource,sec_source_id, key: Work.work_id,,2018-02-09,OS,2022-05-12,DP
 SecondarySource,title,Title of a text. For autobiographical discussions of reading texts both : a) title in Chinese characters. Change all traditional characters to simplified characters.  b) title in original language,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,subtitle,subtitle if present,,2019-08-20,DP,2019-08-20,DP
-SecondarySource,title_lang,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2018-02-09,OS,2021-08-12,DP
+SecondarySource,language,Language code of this title ('en' or 'zh' or 'ru' etc.). In the case of Russian publications add three rows for source data,,2018-02-09,OS,2021-08-12,DP
 SecondarySource,genre,key: Genre.genre_id,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,publication_place,place of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS
 SecondarySource,publication_date,date of publication (first mainland edition between the years 1949 and 1979),after 1978 the edition at hand is sufficient,2018-02-09,OS,2018-02-09,OS

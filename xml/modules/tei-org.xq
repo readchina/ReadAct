@@ -30,7 +30,7 @@ declare function local:listOrg($groups as node()*) as item()* {
                 
                 return
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'orgName')} {
-                        attribute xml:lang {distinct-values($hit/../inst_name_lang)},
+                        attribute xml:lang {distinct-values($hit/../language)},
                         attribute type {'main'},
                         let $start := distinct-values($hit/../start)
                         let $map1 := csv:edtf($start, 'from')
@@ -55,7 +55,7 @@ declare function local:listOrg($groups as node()*) as item()* {
                 let $hit := $path/../inst_alt_name[. = $al]
                 return
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'orgName')} {
-                        attribute xml:lang {distinct-values($hit/../inst_name_lang)},
+                        attribute xml:lang {distinct-values($hit/../language)},
                         attribute type {'alias'},
                         let $start := distinct-values($hit/../alt_start)
                         let $map3 := csv:edtf($start, 'from')

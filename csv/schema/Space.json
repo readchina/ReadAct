@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "name_lang",
+      "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",
       "constraints": {
@@ -116,7 +116,7 @@
   ],
   "foreignKeys": [
     {
-      "fields": "name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

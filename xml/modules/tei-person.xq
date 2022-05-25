@@ -47,7 +47,7 @@ declare function local:listPers($persons as node()*) as item()* {
             return
                 (: Name :)
                 element {fn:QName('http://www.tei-c.org/ns/1.0', 'persName')} {
-                    attribute xml:lang {$nom/../name_lang},
+                    attribute xml:lang {$nom/../language},
                     attribute type {'main'},
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'surname')} {$nom/../family_name/string()},
                     if ($nom/../first_name)
@@ -60,7 +60,7 @@ declare function local:listPers($persons as node()*) as item()* {
             return
                 if ($nym/../alt_name) then
                     (element {fn:QName('http://www.tei-c.org/ns/1.0', 'persName')} {
-                        attribute xml:lang {$nym/../name_lang},
+                        attribute xml:lang {$nym/../language},
                         attribute type {'alias'},
                         $nym/../alt_name/string()
                     })

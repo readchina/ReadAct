@@ -1,4 +1,4 @@
-artwork_id,title,subtitle,title_lang,art_form,first_performance_date,first_performance_place,neibu,note,created,created_by,last_modified,last_modified_by
+artwork_id,title,subtitle,language,art_form,first_performance_date,first_performance_place,neibu,note,created,created_by,last_modified,last_modified_by
 W0530,The Girl of the Mountains (Kenga e naftes),,en,AF03,,SP0094,yes,,2018-02-09,OS,2020-04-08,DP
 W0530,山姑娘,,zh,AF03,,SP0094,yes,,2018-02-09,OS,2020-04-08,DP
 W0531,City Lights,,en,AF02,196x,SP0436,yes,,2018-02-09,OS,2020-04-08,DP

@@ -20,7 +20,7 @@
       }
     },
     {
-      "name": "inst_name_lang",
+      "name": "language",
       "description": "The language of the institution name (ISO 639-1)",
       "type": "string",
       "constraints": {
@@ -166,7 +166,7 @@
       }
     },
     {
-      "fields": "inst_name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

@@ -81,7 +81,7 @@ declare function local:listBibl($works as node()*) as item()* {
     for $t in $path/../title
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'title')} {
-            attribute xml:lang {$t/../title_lang},
+            attribute xml:lang {$t/../language},
             attribute type {'main'},
             $t/text(),
             if ($t/../subtitle)

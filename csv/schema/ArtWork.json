@@ -28,7 +28,7 @@
       }
     },
     {
-      "name": "title_lang",
+      "name": "language",
       "description": "language of title (ISO 639-1)",
       "type": "string",
       "constraints": {
@@ -115,7 +115,7 @@
   ],
   "primaryKey": [
     "artwork_id",
-    "title_lang"
+    "language"
   ],
   "missingValues": [
     ""
@@ -136,7 +136,7 @@
       }
     },
     {
-      "fields": "title_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

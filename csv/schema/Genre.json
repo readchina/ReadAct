@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "genre_name_lang",
+      "name": "language",
       "desription": "The language of the genre name (ISO 639-1)",
       "type": "string",
       "constraints": {
@@ -88,7 +88,7 @@
   ],
   "foreignKeys": [
     {
-      "fields": "genre_name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

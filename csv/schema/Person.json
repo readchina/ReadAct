@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "name_lang",
+      "name": "language",
       "description": "The person's name language.",
       "type": "string",
       "constraints": {
@@ -207,7 +207,7 @@
   ],
   "primaryKey": [
     "person_id",
-    "name_lang"
+    "language"
   ],
   "missingValues": [
     ""
@@ -235,7 +235,7 @@
       }
     },
     {
-      "fields": "name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

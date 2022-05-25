@@ -15,8 +15,8 @@
   [ "${lines[1]}" -eq 0 ]
 }
 
-@test "Persona: language in Institution.inst_name_lang" {
-  run mlr --csv join -j inst_name_lang -r iso_code --np --ul -f csv/data/Institution.csv then cut -f inst_name_lang then uniq -a -n csv/data/IsoLangCode.csv
+@test "Persona: language in Institution.language" {
+  run mlr --csv join -j language -r iso_code --np --ul -f csv/data/Institution.csv then cut -f language then uniq -a -n csv/data/IsoLangCode.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }
@@ -41,8 +41,8 @@
   [ "${lines[1]}" -eq 0 ]
 }
 
-@test "Persona: language in Person.name_lang" {
-  run mlr --csv join -j name_lang -r iso_code --np --ul -f csv/data/Person.csv then cut -f name_lang then uniq -a -n csv/data/IsoLangCode.csv
+@test "Persona: language in Person.language" {
+  run mlr --csv join -j language -r iso_code --np --ul -f csv/data/Person.csv then cut -f language then uniq -a -n csv/data/IsoLangCode.csv
   [ "$status" -eq 0 ]
   [ "${lines[1]}" -eq 0 ]
 }

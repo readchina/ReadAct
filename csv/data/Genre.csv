@@ -1,4 +1,4 @@
-genre_id,genre_name,genre_name_lang,genre_type,source,created,created_by,last_modified,last_modified_by
+genre_id,genre_name,language,genre_type,source,created,created_by,last_modified,last_modified_by
 G01,essay,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026094.html,2017-07-03,LH,2022-05-16,DP
 G04,novel,en,fiction,http://id.loc.gov/authorities/genreForms/gf2015026020.html,2017-07-03,LH,2018-03-08,MG
 G05,short story,en,fiction,http://id.loc.gov/authorities/genreForms/gf2014026542.html,2017-07-03,LH,2018-03-08,MG

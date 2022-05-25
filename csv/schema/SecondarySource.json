@@ -23,7 +23,7 @@
       }
     },
     {
-      "name": "title_lang",
+      "name": "language",
       "type": "string",
       "constraints": {
         "required": true,
@@ -138,7 +138,7 @@
   ],
   "primaryKey": [
     "sec_source_id",
-    "title_lang"
+    "language"
   ],
   "missingValues": [
     ""
@@ -159,7 +159,7 @@
       }
     },
     {
-      "fields": "title_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

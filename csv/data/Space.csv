@@ -1,4 +1,4 @@
-space_id,old_id,space_name,space_type,name_lang,lat,long,wikidata_id,note,created,created_by,last_modified,last_modified_by
+space_id,old_id,space_name,space_type,language,lat,long,wikidata_id,note,created,created_by,last_modified,last_modified_by
 SP0001,L0001,library,L,en,0.0,0.0,,,2018-07-23,MG,2020-04-05,DP
 SP0002,L0002,prison,L,en,0.0,0.0,,,2018-07-23,MG,2020-04-05,DP
 SP0003,L0003,book store,L,en,0.0,0.0,,,2018-07-30,MG,2020-04-05,DP

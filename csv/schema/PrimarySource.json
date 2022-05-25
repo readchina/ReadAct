@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "title_lang",
+      "name": "language",
       "description": "language code in ISO",
       "type": "string",
       "constraints": {
@@ -148,7 +148,7 @@
   ],
   "primaryKey": [
     "prim_source_id",
-    "title_lang"
+    "language"
   ],
   "missingValues": [
     ""
@@ -169,7 +169,7 @@
       }
     },
     {
-      "fields": "title_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"
