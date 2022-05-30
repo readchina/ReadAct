@@ -44,6 +44,14 @@
         "required": true,
         "pattern": "AG[0-9]{4}"
       }
+    },{
+      "name": "narrator",
+      "description": "main narrator of fictional text",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "AG[0-9]{4}"
+      }
     },
     {
       "name": "fictionality",

@@ -191,7 +191,6 @@ SecondarySource,neibu,yes/no whether this was originally a neibu publication. ''
 SecondarySource,source,Source of a text i.e. edited volumes or webpages or journals or anthologies. Remains empty in case of academic monographes and novels.,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,serial,additional citation ranges for serials such as volume or issue,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,page,Page number in text that the column source_id refers to,,2018-02-09,OS,2018-02-09,OS
-SecondarySource,main_narrator,Add either agent_id or work_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the agent_id to the commentary line of the act.,,2019-06-27,MG,2022-05-18,MG
 SecondarySource,note,This column is a meta-category and only serves as field of communication between the project members with regards to this very entry,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created,date of creation of line,,2018-02-09,OS,2018-02-09,OS
 SecondarySource,created_by,acronym of project member creating this line,,2018-02-09,OS,2018-02-09,OS
@@ -235,6 +234,7 @@ Space,last_modified_by,acronym of project member last modifying this line,,2020-
 Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Work,old_id,SS or PS or AW or Q and a five-digit number (leading zeros),,2020-04-02,DP,2022-05-12,DP
 Work,creator,key: Agent.agent_id,"authors, artists, author of quoted source, etc.",2020-04-02,DP,2022-05-12,DP
+Work,narrator,Add agent_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the agent_id to the commentary line of the act.,,2019-06-27,MG,2022-05-30,DP
 Work,type,SS or PS or AW or Q,,2020-04-02,DP,2022-05-12,DP
 Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Work,fictionality,"denotes purely fictional works: “F”, e.g. Harry Potter’s Book of Spells, ",,2022-05-09,DP,2022-05-09,DP
