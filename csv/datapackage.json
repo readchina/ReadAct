@@ -201,14 +201,14 @@
       "resources": {
         "name": "view1a",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view01a_txt-titles.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view01a_txt-titles.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Textual works by creator excluding unknowns",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view01a_txt-titles.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view01a_txt-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -237,14 +237,14 @@
       "resources": {
         "name": "view1b",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view01b_art-titles.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view01b_art-titles.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Non-textual works by creator excluding unknowns",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view01b_art-titles.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view01b_art-titles.csv"
           },
           "mark": {
             "type": "bar",
@@ -273,14 +273,14 @@
       "resources": {
         "name": "view2",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view02_creator-matrix.csv"
         },
         "specType": "vega-lite",
         "spec": {
           "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
           "description": "Reading Objects by creator excluding anonymous works",
           "data": {
-            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view02_creator-matrix.csv"
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view02_creator-matrix.csv"
           },
           "transform": [
             {
@@ -334,7 +334,7 @@
       "resources": {
         "name": "view4a",
         "data": {
-          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view04a_rActs.json"
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view04a_rActs.json"
         },
         "specType": "vega",
         "spec": {
@@ -438,7 +438,7 @@
           "data": [
             {
               "name": "node-data",
-              "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view04a_rActs.json",
+              "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view04a_rActs.json",
               "format": {
                 "type": "json",
                 "property": "nodes"
@@ -446,7 +446,7 @@
             },
             {
               "name": "link-data",
-              "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view04a_rActs.json",
+              "url": "https://raw.githubusercontent.com/readchina/ReadAct/2.0-RC-patch/csv/views/view04a_rActs.json",
               "format": {
                 "type": "json",
                 "property": "links"
