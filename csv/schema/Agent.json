@@ -24,6 +24,20 @@
         "required": true,
         "minLength": 2
       }
+    }, {
+      "name": "wikidata_id",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "(^(Q[0-9]+)*)"
+      }
+    },
+    {
+      "name": "type",
+      "description": "I or P",
+      "constraints": {
+        "required": false
+      }
     },
     {
       "name": "commentary",

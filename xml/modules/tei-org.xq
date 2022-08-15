@@ -19,7 +19,6 @@ declare function local:listOrg($groups as node()*) as item()* {
         
         for $grp in distinct-values($groups//inst_id)
         let $path := $groups//inst_id[. = $grp]
-        let $wikidataid := lower-case(distinct-values($path/../wikidata_id))
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'org')} {
                 attribute xml:id {$grp},
@@ -77,10 +76,6 @@ declare function local:listOrg($groups as node()*) as item()* {
                 for $p in distinct-values($path/../place)
                 return
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'placeName')} {attribute ref {'#' || $p}},
-                (: external IDs :)
-                if ($path/../wikidata_id)
-                then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
-                else (),
                 (: note :)
                 if ($agent//agent_id[. = $grp]/../commentary)
                 then
