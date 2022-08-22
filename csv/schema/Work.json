@@ -20,11 +20,12 @@
       }
     },
     {
-      "name": "type",
-      "description": "SS or PS or AW or Q",
+      "name": "work_type",
+      "description": "type of work SS or PS or AW or Q",
       "type": "string",
       "constraints": {
-        "required": false
+        "required": true,
+        "pattern": "SS|PS|AW|Q"
       }
     },
     {
@@ -44,7 +45,8 @@
         "required": true,
         "pattern": "AG[0-9]{4}"
       }
-    },{
+    },
+    {
       "name": "narrator",
       "description": "main narrator of fictional text",
       "type": "string",

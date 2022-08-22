@@ -20,6 +20,14 @@
       }
     },
     {
+      "name": "agent_type",
+      "description": "type of agent I or P",
+      "constraints": {
+        "required": false,
+        "pattern": "I|P"
+      }
+    },
+    {
       "name": "wikidata_id",
       "description": "Wikidata ID of agent",
       "type": "string",
@@ -36,7 +44,7 @@
         "required": false,
         "pattern": "F?"
       }
-    },    
+    },
     {
       "name": "language",
       "description": "structural entry for key resolution",
