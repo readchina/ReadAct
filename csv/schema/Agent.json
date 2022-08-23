@@ -8,7 +8,7 @@
         "required": true,
         "unique": true,
         "maxLength": 6,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -34,7 +34,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^(Q[0-9]+)*)"
+        "pattern": "^(Q[0-9]+)*"
       }
     },
     {

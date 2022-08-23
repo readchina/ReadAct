@@ -8,7 +8,7 @@
         "required": true,
         "unique": true,
         "maxLength": 5,
-        "pattern": "W[0-9]{4}"
+        "pattern": "^W[0-9]{4}"
       }
     },
     {
@@ -43,7 +43,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -52,7 +52,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -66,6 +66,7 @@
     },
     {
       "name": "commentary",
+      "type": "string",
       "description": "free form commentary on the work",
       "constraints": {
         "required": false
@@ -73,6 +74,7 @@
     },
     {
       "name": "note",
+      "type": "string",
       "description": "structural entry for internal notes",
       "constraints": {
         "required": false

@@ -7,7 +7,7 @@
         "required": true,
         "unique": false,
         "maxLength": 5,
-        "pattern": "W[0-9]{4}"
+        "pattern": "^W[0-9]{4}"
       }
     },
     {
@@ -35,7 +35,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "G[0-9]{2}"
+        "pattern": "^G[0-9]{2}"
       }
     },
     {
@@ -43,7 +43,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^http|SP[0-9]{4}|^$)"
+        "pattern": "^http|SP[0-9]{4}|^$"
       }
     },
     {
@@ -51,7 +51,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}|^$)"
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}|^$"
       }
     },
     {
@@ -65,7 +65,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}|^$)"
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}|^$"
       }
     },
     {
@@ -73,7 +73,7 @@
       "description": "Was this originally a neibu publication?",
       "type": "string",
       "constraints": {
-        "pattern": "(^$|yes|no)"
+        "pattern": "^$|yes|no"
       }
     },
     {

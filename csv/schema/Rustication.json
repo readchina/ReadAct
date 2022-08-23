@@ -8,11 +8,12 @@
         "required": true,
         "unique": false,
         "maxLength": 6,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
       "name": "rustication_start",
+      "type": "string",
       "constraints": {
         "required": true,
         "unique": false
@@ -20,6 +21,7 @@
     },
     {
       "name": "rustication_end",
+      "type": "string",
       "constraints": {
         "required": true
       }
@@ -29,7 +31,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "(^SP[0-9]{4})"
+        "pattern": "^SP[0-9]{4}"
       }
     },
     {
