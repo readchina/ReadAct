@@ -1,4 +1,4 @@
-agent_id,old_id,type,wikidata_id,fictionality,language,commentary,note,created,created_by,last_modified,last_modified_by
+agent_id,old_id,agent_type,wikidata_id,fictionality,language,commentary,note,created,created_by,last_modified,last_modified_by
 AG0001,P0001,,Q23114,,en,,,2020-04-02,DP,2020-04-02,DP
 AG0002,P0002,,,,en,,,2020-04-02,DP,2020-04-02,DP
 AG0003,P0003,,,,en,张仃的儿子 . 母亲陈布文，姐姐陈乔乔、大哥张耿军、弟弟张大伟、张寥寥、张沛沛。,,2020-04-02,DP,2020-04-02,DP

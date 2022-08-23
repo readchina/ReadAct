@@ -22,6 +22,7 @@
     {
       "name": "agent_type",
       "description": "type of agent I or P",
+      "type": "string",
       "constraints": {
         "required": false,
         "pattern": "I|P"
