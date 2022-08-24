@@ -27,7 +27,7 @@ declare function local:listBibl($works as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listBibl')} {
 
         for $w in $work//work_id
-        let $type := $w/../type
+        let $type := $w/../work_type
         let $note := $w/../commentary
         let $fictionality := upper-case($w/../fictionality)
         let $quote := $quotation//source[. = $w]

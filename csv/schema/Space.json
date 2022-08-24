@@ -20,20 +20,20 @@
       }
     },
     {
-      "name": "space_name",
-      "description": "The name of the spatial entity.",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
-    },
-    {
       "name": "space_type",
       "description": "PL for place, L for locations (with NULL coordinates)",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "PL|L"
+      }
+    },
+    {
+      "name": "space_name",
+      "description": "The name of the spatial entity.",
+      "type": "string",
+      "constraints": {
+        "required": true
       }
     },
     {
@@ -65,12 +65,13 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^(Q[0-9]+)*)"
+        "pattern": "^(Q[0-9]+)*"
       }
     },
     {
       "name": "note",
       "description": "structural entry for internal notes",
+      "type": "string",
       "constraints": {
         "required": false
       }

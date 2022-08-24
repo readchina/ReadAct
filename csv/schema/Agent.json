@@ -8,7 +8,7 @@
         "required": true,
         "unique": true,
         "maxLength": 6,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -20,12 +20,21 @@
       }
     },
     {
+      "name": "agent_type",
+      "description": "type of agent I or P",
+      "type": "string",
+      "constraints": {
+        "required": true,
+        "pattern": "I|P"
+      }
+    },
+    {
       "name": "wikidata_id",
       "description": "Wikidata ID of agent",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^(Q[0-9]+)*)"
+        "pattern": "^(Q[0-9]+)*"
       }
     },
     {
@@ -36,7 +45,7 @@
         "required": false,
         "pattern": "F?"
       }
-    },    
+    },
     {
       "name": "language",
       "description": "structural entry for key resolution",

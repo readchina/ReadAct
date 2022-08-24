@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2        
+      - uses: actions/checkout@v3        
       - name: Install Build Dependencies
         run: sudo apt-get install -y basex
       - name: Generate XML Files
@@ -21,7 +21,7 @@ jobs:
           basex xml/modules/tei-relation.xq > xml/listRelation.xml
           basex xml/modules/social-network.xq > xml/rActs.gexf
       - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: markup-xi
           path: |
@@ -32,13 +32,13 @@ jobs:
     needs: build
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 1    
       - name: Setup Python
-        uses: actions/setup-python@v2.2.2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: '3.9'
       - name: Use pip Cache  
         uses: actions/cache@v2
         with:
@@ -55,14 +55,15 @@ jobs:
         working-directory: csv
         run: frictionless validate datapackage.json    
       - name: Download Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: markup-xi
           path: xml  
-      - name: Display Downloaded Artifacts
-        run: ls -R
-      - name: Display xmllint version
-        run: xmllint --version 
+      # (DP) for debugging
+      # - name: Display Downloaded Artifacts
+      #   run: ls -R
+      # - name: Display xmllint version
+      #   run: xmllint --version 
       - name: Validate XML Files
         run: | 
           xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
@@ -73,15 +74,13 @@ jobs:
     if: github.ref == 'refs/heads/master'
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
+        uses: actions/checkout@v3
       - name: Install Release Dependencies
         run: |
           sudo apt-get install -y basex
           docker pull duncdrum/textql:alpine
       - name: Download Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: markup-xi
           path: xml  
@@ -98,6 +97,6 @@ jobs:
         run: git status  
       - name: Commit and Push
       # see https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
-        uses: actions-x/commit@v2
+        uses: actions-x/commit@v6
         with:
           message: "[skip ci] SimaBot"

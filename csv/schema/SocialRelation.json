@@ -8,7 +8,7 @@
         "required": true,
         "unique": true,
         "maxLength": 7,
-        "pattern": "SR[0-9]{5}"
+        "pattern": "^SR[0-9]{5}"
       }
     },
     {
@@ -17,7 +17,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -26,7 +26,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
@@ -50,6 +50,7 @@
     {
       "name": "rel_en",
       "description": "English name of relation",
+      "type": "string",
       "constraints": {
         "required": true
       }
@@ -64,6 +65,7 @@
     },
     {
       "name": "page",
+      "type": "string",
       "constraints": {
         "required": false
       }
@@ -71,6 +73,7 @@
     {
       "name": "note",
       "description": "structural entry for internal notes",
+      "type": "string",
       "constraints": {
         "required": false
       }

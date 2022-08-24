@@ -1,4 +1,4 @@
-work_id,old_id,type,language,creator,narrator,fictionality,commentary,note,created,created_by,last_modified,last_modified_by
+work_id,old_id,work_type,language,creator,narrator,fictionality,commentary,note,created,created_by,last_modified,last_modified_by
 W0001,PS00001,PS,en,AG0001,,,"In the essay Lu Xun ""critized the large-scale suppression of speech and writing during the Qing dynasty and the early Republican era for producing a ""silent China"" ... for centuries",,2017-07-03,LH,2020-04-05,DP
 W0002,PS00002,PS,en,AG0629,,,,,2017-07-12,OS,2020-04-05,DP
 W0003,PS00004,PS,en,AG0075,,,,,2017-07-12,OS,2020-04-05,DP

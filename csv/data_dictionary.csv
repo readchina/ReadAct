@@ -30,6 +30,7 @@ ActType,last_modified_by,acronym of project member last modifying this line,,201
 ,,,,,,,
 Agent,agent_id,AG and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
 Agent,old_id,P or I or and a four-digit number (leading zeros),,2022-04-04,DP,2022-04-04,DP
+Agent,agent_type,type of agent P or I,,2022-04-04,DP,2022-04-04,DP
 Agent,wikidata_id, Wikidata ID of the agent,https://www.wikidata.org/,2022-04-04,DP,2022-04-04,DP
 Agent,fictionality,F for fictional agent; e.g. Hogwarts; Gandalf; … ,,2019-04-09,MG,2022-05-18,DP
 Agent,language,"key: IsoLangCode.iso_code, structural entry for key matching",,2022-04-04,DP,2022-04-04,DP
@@ -220,8 +221,8 @@ SocialRelation,modified_by,acronym of project member last modifying this line,,2
 ,,,,,,,
 Space,space_id,SP and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02,DP
 Space,old_id,"PL or L, and a five-digit number (leading zeroes)",,2020-04-02,DP,2020-04-02,DP
-Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,,2020-04-02,DP,2022-05-16,DP
 Space,space_type,"PL for place, L for locations (with NULL coordinates)",,2020-04-02,DP,2020-04-02,DP
+Space,space_name,Name of a place in English e.g. Shanghai Cologne Rome,,2020-04-02,DP,2022-05-16,DP
 Space,long,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,lat,geo.data,,2020-04-02,DP,2020-04-02,DP
 Space,wikidata_id, Wikidata ID of the spatial entity,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
@@ -235,7 +236,7 @@ Work,work_id,W and a four-digit number (leading zeros),,2020-04-02,DP,2020-04-02
 Work,old_id,SS or PS or AW or Q and a five-digit number (leading zeros),,2020-04-02,DP,2022-05-12,DP
 Work,creator,key: Agent.agent_id,"authors, artists, author of quoted source, etc.",2020-04-02,DP,2022-05-12,DP
 Work,narrator,Add agent_id to record the main narrator of fictional texts. If there are various narrators create an Institution and add the narrators as members. You can highlight the different narratorial voices by adding the agent_id to the commentary line of the act.,,2019-06-27,MG,2022-05-30,DP
-Work,type,SS or PS or AW or Q,,2020-04-02,DP,2022-05-12,DP
+Work,work_type,SS or PS or AW or Q,,2020-04-02,DP,2022-08-22,DP
 Work,language,key: IsoLangCode.iso_code,"not necessarily the original language, but the first tag for sorting purposes",2020-04-02,DP,2020-04-02,DP
 Work,fictionality,"denotes purely fictional works: “F”, e.g. Harry Potter’s Book of Spells, ",,2022-05-09,DP,2022-05-09,DP
 Work,commentary,"Space for background information on the work. For example reference to translations, special circumstances, ...",,2020-04-02,DP,2020-04-02,DP
