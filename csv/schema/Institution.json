@@ -79,16 +79,7 @@
       "constraints": {
         "required": false
       }
-    },
-    {
-      "name": "wikidata_id",
-      "description": "The Wikidata ID of the institution",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "pattern": "^(Q[0-9]+)*"
-      }
-    },
+    }, 
     {
       "name": "source",
       "constraints": {

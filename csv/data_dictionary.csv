@@ -84,7 +84,6 @@ Institution,alt_start,start of alternative name: year in EDTF (if unknown uses a
 Institution,alt_end,end of alternative name: year in EDTF (if unknown uses approximate and uncertain dates,,2018-02-05,MG,2018-02-05,MG
 Institution,inst_alt_name,alternative name for the institution (CCP instead of Chinese Communist Party),,2017-07-04,LH,2017-07-04,LH
 Institution,commentary,general notes to members or the locus of the institution,,2017-07-04,LH,2017-07-04,LH
-Institution,wikidata_id, Wikidata ID of the institution,https://www.wikidata.org/,2022-05-03,QG,2022-05-03,QG
 Institution,source,if applicable reference to text ID of source text,,2017-07-04,LH,2017-07-04,LH
 Institution,page,page number in source text,,2017-07-04,LH,2017-07-04,LH
 Institution,note,Internal notes of project members,,2018-02-05,MG,2018-02-05,MG
@@ -132,7 +131,6 @@ Person,place_of_birth,key: Space.space_ID 'SP0436' in case we do not know the pl
 Person,social_position,Social position of a reader; 'unknown' in case you do not know; '' for authors and other non-readers; (worker / party-cadre /…),,2017-07-04,LH,2020-04-22,DP
 Person,narrative_age,Narrative age of fictional personas only: 01: childhood / 02: mid-age / 03: old-age. Add 'NULL' in case this does not apply (real life persons),,2019-06-18,MG,2019-06-18,MG
 Person,neibu_access,'yes' if person had direct or indirect access to neibu materials; 'no' if not; 'unknown' if unknown; '' in case where this does not apply (foreigners / expats / …).,,2017-07-04,LH,2020-04-22,DP
-Person,wikidata_id, Wikidata ID of the person,https://www.wikidata.org/,2022-04-04,DP,2022-04-04,DP
 Person,source_1,Text.text_id of evidential source,URL for online sources.,2017-07-04,LH,2019-08-20,DP
 Person,Page_1,Page number or range for source_id_1,'ONLINE SOURCE' if source_id_1 is a URL.,2017-07-04,LH,2018-01-30,DP
 Person,source_2,"Additional evidence, see source_id_1.",,2017-12-29,OS,2019-08-20,DP
