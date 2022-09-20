@@ -1305,14 +1305,14 @@ AG0657,anon,老久,zh,male,1,XXXX,XXXX,,SP0436,,,,W0790,4-67,,,,FICTIONAL CHARAC
 AG0657,anon,Lao Jiu,zh-Latn-pinyin,male,1,XXXX,XXXX,,SP0436,,,,W0790,4-67,,,,FICTIONAL CHARACTER,,2019-03-12,LH,2022-05-10,DP
 AG0658,Dai,Sijie,en,male,1,1954,,,SP0007,S03,,,https://en.wikipedia.org/wiki/Dai_Sijie,ONLINE SOURCE,,,,,,2019-07-30,MG,2022-05-10,DP
 AG0658,戴,思杰,zh,male,1,1954,,,SP0007,S03,,,https://en.wikipedia.org/wiki/Dai_Sijie,ONLINE SOURCE,,,,,,2019-07-30,MG,2022-05-10,DP
-AG0659,anon,Luo,zh-Latn-pinyin,male,1,1953~,,,SP0007,,2.0,,W0791,10ff,,,S03,,,2019-07-30,MG,2022-05-10,DP
-AG0660,anon,anon,en,male,1,1954~,,,SP0007,,2.0,,W0791,10ff,,,S03,No name mentioned. Protagonist and narrator of the novel,,2019-07-30,MG,2022-05-10,DP
-AG0661,anon,anon,fr,female,2,1953..1956~,,La Petite Tailleuse Chinoise,SP0009,,2.0,,W0791,,,,S08,,,2019-07-30,MG,2022-05-10,DP
-AG0662,anon,anon,fr,male,1,1950..1954~,,Le Binoclard,SP0436,,2.0,,W0791,,,,S03,,,2019-07-30,MG,2022-05-10,DP
-AG0663,anon,anon,en,male,2,19XX,,Le Vieux Meunier,SP0009,,3.0,,W0791,141-144,,,S08,,,2019-08-03,MG,2022-05-10,DP
-AG0664,anon,anon,en,male,2,19XX,,Le Tailleur,SP0009,,3.0,,W0791,28,,,S08,,,2019-08-03,MG,2022-05-10,DP
-AG0665,anon,anon,en,female,2,19XX,,,SP0009,,3.0,,W0791,56,,,S03,Luo‘s aunt,,2019-08-03,MG,2022-05-10,DP
-AG0666,anon,anon,en,female,2,19XX,,,SP0436,,3.0,,W0791,92f,,,S03,Le Binoclard‘s mother,,2019-08-03,MG,2022-05-10,DP
+AG0659,anon,Luo,zh-Latn-pinyin,male,1,1953~,,,SP0007,,2,,W0791,10ff,,,S03,,,2019-07-30,MG,2022-09-21,QG
+AG0660,anon,anon,en,male,1,1954~,,,SP0007,,2,,W0791,10ff,,,S03,No name mentioned. Protagonist and narrator of the novel,,2019-07-30,MG,2022-09-21,QG
+AG0661,anon,anon,fr,female,2,1953..1956~,,La Petite Tailleuse Chinoise,SP0009,,2,,W0791,,,,S08,,,2019-07-30,MG,2022-09-21,QG
+AG0662,anon,anon,fr,male,1,1950..1954~,,Le Binoclard,SP0436,,2,,W0791,,,,S03,,,2019-07-30,MG,2022-09-21,QG
+AG0663,anon,anon,en,male,2,19XX,,Le Vieux Meunier,SP0009,,3,,W0791,141-144,,,S08,,,2019-08-03,MG,2022-09-21,QG
+AG0664,anon,anon,en,male,2,19XX,,Le Tailleur,SP0009,,3,,W0791,28,,,S08,,,2019-08-03,MG,2022-09-21,QG
+AG0665,anon,anon,en,female,2,19XX,,,SP0009,,3,,W0791,56,,,S03,Luo‘s aunt,,2019-08-03,MG,2022-09-21,QG
+AG0666,anon,anon,en,female,2,19XX,,,SP0436,,3,,W0791,92f,,,S03,Le Binoclard‘s mother,,2019-08-03,MG,2022-09-21,QG
 AG0667,Melville,Herman,en,male,0,1819,1891,,SP0053,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,2019-08-03,MG,2022-05-10,DP
 AG0667,梅尔维尔,赫尔曼,zh,male,0,1819,1891,,SP0053,,,,https://en.wikipedia.org/wiki/Herman_Melville,ONLINE SOURCE,,,,,,2019-09-12,MG,2022-05-10,DP
 AG0668,Defoe,Daniel,en,male,0,1659..1660,1731,,SP0039,,,,https://en.wikipedia.org/wiki/Daniel_Defoe,ONLINE SOURCE,,,,,,2019-09-12,MG,2022-05-10,DP
@@ -1329,14 +1329,14 @@ AG0673,Liu,Xinwu,en,male,1,1942,,Liu Liu,SP0007,,,,https://en.wikipedia.org/wiki
 AG0673,刘,心武,zh,male,1,1942,,刘浏,SP0007,,,,https://en.wikipedia.org/wiki/Liu_Xinwu,ONLINE SOURCE,,,,,,2019-10-24,MG,2022-05-10,DP
 AG0674,Zhihua,Fang,en,unknown,0,1963,,,SP0436,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,2019-10-24,MG,2022-05-10,DP
 AG0674,方志,華,zh,unknown,0,1963,,,SP0436,,,,https://www.worldcat.org/identities/lccn-nr95018779/,ONLINE SOURCE,,,,,,2019-10-24,MG,2022-05-10,DP
-AG0675,anon,Teacher Zhang,en,male,3,1940..1960~,,,SP0436,,2.0,,W0792,85-120,,,N06,,check CCP status (social status),2019-10-24,MG,2022-05-10,DP
-AG0675,anon,张老师,zh,male,3,1940..1960~,,张俊石,SP0436,,2.0,,W0792,85-120,,,N06,,check CCP status,2019-10-24,MG,2022-05-10,DP
-AG0676,Shi,Hong,en,female,3,1960..1970~,,,SP0436,,1.0,,W0792,85-120,,,N07,,narrative status,2019-10-24,MG,2022-05-10,DP
-AG0676,石,红,zh,female,3,1960..1970~,,,SP0436,,1.0,,W0792,85-120,,,N07,,narrative status,2019-10-24,MG,2022-05-10,DP
-AG0677,Song,Baoqi,en,male,3,1960..1970~,,,SP0436,,1.0,,W0792,85-120,,,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2022-05-10,DP
-AG0677,宋,宝琪,zh,male,3,1960..1970~,,,SP0436,,1.0,,W0792,85-120,,,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2022-05-10,DP
-AG0678,Xie,Huimin,en,female,3,1960..1970~,,,SP0436,S10,1.0,,W0792,85-120,,,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her. XHM is characterized as a ‘typical’ CR reader who loves to read but has limited access and believes everything the party writes; back then her parents advised her to read the newspaper diligently (ENG 96),narrative status,2019-10-24,MG,2022-05-10,DP
-AG0678,谢,惠敏,zh,female,3,1960..1970~,,,SP0436,S10,1.0,,W0792,85-120,,,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her,narrative status,2019-10-24,MG,2022-05-10,DP
+AG0675,anon,Teacher Zhang,en,male,3,1940..1960~,,,SP0436,,2,,W0792,85-120,,,N06,,check CCP status (social status),2019-10-24,MG,2022-09-21,QG
+AG0675,anon,张老师,zh,male,3,1940..1960~,,张俊石,SP0436,,2,,W0792,85-120,,,N06,,check CCP status,2019-10-24,MG,2022-09-21,QG
+AG0676,Shi,Hong,en,female,3,1960..1970~,,,SP0436,,1,,W0792,85-120,,,N07,,narrative status,2019-10-24,MG,2022-09-21,QG
+AG0676,石,红,zh,female,3,1960..1970~,,,SP0436,,1,,W0792,85-120,,,N07,,narrative status,2019-10-24,MG,2022-09-21,QG
+AG0677,Song,Baoqi,en,male,3,1960..1970~,,,SP0436,,1,,W0792,85-120,,,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2022-09-21,QG
+AG0677,宋,宝琪,zh,male,3,1960..1970~,,,SP0436,,1,,W0792,85-120,,,N07,the ‘bad’ student (and hoodlum 流氓). Was taken into the class after his release from a detention center X留所  where he’d been arrested for gang criminality,narrative status,2019-10-24,MG,2022-09-21,QG
+AG0678,Xie,Huimin,en,female,3,1960..1970~,,,SP0436,S10,1,,W0792,85-120,,,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her. XHM is characterized as a ‘typical’ CR reader who loves to read but has limited access and believes everything the party writes; back then her parents advised her to read the newspaper diligently (ENG 96),narrative status,2019-10-24,MG,2022-09-21,QG
+AG0678,谢,惠敏,zh,female,3,1960..1970~,,,SP0436,S10,1,,W0792,85-120,,,N07,activist student; pretty stubborn and wants to do everything right; but still seems under the spell of what the GoF taught her,narrative status,2019-10-24,MG,2022-09-21,QG
 AG0679,Panteleev,Leonid,en,male,0,1908,1987,Aleksey Eremeev,SP0061,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,2019-10-30,MG,2022-05-10,DP
 AG0679,Пантеле́ев,Лёнька,ru,male,0,1908,1987,,SP0061,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,2019-10-30,MG,2022-05-10,DP
 AG0679,班台莱耶夫,,zh,male,0,1908,1987,,SP0061,,,,https://baike.baidu.com/item/%E7%8F%AD%E5%8F%B0%E8%8E%B1%E8%80%B6%E5%A4%AB,ONLINE SOURCE,,,,,,2019-10-30,MG,2022-05-10,DP
@@ -1345,26 +1345,26 @@ AG0680,Shen,Dehong,zh,male,2,1896,1981,Mao Dun,SP0461,,,,https://en.wikipedia.or
 AG0681,Golikov,Arkady,en,male,0,1904,1941,Arkady Gaidar,SP0462,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,2019-11-08,MG,2022-05-10,DP
 AG0681,Го́ликов,Арка́дий,ru,male,0,1904,1941,Арка́дий Гайда́р,SP0462,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,2019-11-08,MG,2022-05-10,DP
 AG0681,盖达尔,阿尔卡季,zh,male,0,1904,1941,,SP0462,,,,https://en.wikipedia.org/wiki/Arkady_Gaidar,ONLINE SOURCE,,,,,,2019-11-08,MG,2022-05-10,DP
-AG0682,anon,anon,en,male,3,1940..1960~,1940..1960~,,SP0436,,2.0,,W0792,85-120,,,,,,2019-11-22,MG,2022-05-10,DP
-AG0683,anon,anon,en,female,3,1940..1960~,1940..1960~,,SP0436,,2.0,,W0792,85-120,,,,,,2019-11-22,MG,2022-05-10,DP
+AG0682,anon,anon,en,male,3,1940..1960~,1940..1960~,,SP0436,,2,,W0792,85-120,,,,,,2019-11-22,MG,2022-09-21,QG
+AG0683,anon,anon,en,female,3,1940..1960~,1940..1960~,,SP0436,,2,,W0792,85-120,,,,,,2019-11-22,MG,2022-09-21,QG
 AG0684,Xin,Qiji,en,male,0,1140,1207,,SP0155,,,,https://en.wikipedia.org/wiki/Xin_Qiji,ONLINE SOURCE,,,,,,2019-11-28,MG,2022-05-10,DP
 AG0684,辛,棄疾,zh,male,0,1140,1207,,SP0155,,,,https://en.wikipedia.org/wiki/Xin_Qiji,ONLINE SOURCE,,,,,,2019-11-28,MG,2022-05-10,DP
-AG0685,Lin,Daojing,en,female,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N06,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0685,林,道静,zh,female,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N06,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0686,Yu,Yongze,en,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0686,余,永泽,zh,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0687,Lu,Jiachuan,en,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0687,卢,嘉川,zh,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0688,Jiang,Hua,en,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0688,江,华,zh,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-05-10,DP
-AG0689,Luo,Dafang,en,male,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-05-10,DP
-AG0690,anon,Liping,en,female,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-05-10,DP
-AG0691,anon,Xiaoyan,en,female,0,1900..1930~,,,SP0436,,2.0,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-05-10,DP
-AG0692,anon,anon,en,male,0,1900..1930~,,Xiaoyan‘s father,SP0436,,3.0,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-05-10,DP
+AG0685,Lin,Daojing,en,female,0,1900..1930~,,,SP0436,,2,,W0796,,,,N06,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0685,林,道静,zh,female,0,1900..1930~,,,SP0436,,2,,W0796,,,,N06,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0686,Yu,Yongze,en,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0686,余,永泽,zh,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0687,Lu,Jiachuan,en,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0687,卢,嘉川,zh,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0688,Jiang,Hua,en,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0688,江,华,zh,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,N07,,pls check place of birth,2019-12-02,MG,2022-09-21,QG
+AG0689,Luo,Dafang,en,male,0,1900..1930~,,,SP0436,,2,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-09-21,QG
+AG0690,anon,Liping,en,female,0,1900..1930~,,,SP0436,,2,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-09-21,QG
+AG0691,anon,Xiaoyan,en,female,0,1900..1930~,,,SP0436,,2,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-09-21,QG
+AG0692,anon,anon,en,male,0,1900..1930~,,Xiaoyan‘s father,SP0436,,3,,W0796,,,,,,pls check narrative status,2019-12-02,MG,2022-09-21,QG
 AG0693,Feng,Yuanjun,en,female,2,1900,1974,,SP0005,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,,,,,,2019-12-02,MG,2022-05-10,DP
 AG0693,冯,沅君,zh,female,2,1900,1974,淦女士,SP0005,S03,,,https://en.wikipedia.org/wiki/Feng_Yuanjun,ONLINE SOURCE,https://baike.baidu.com/item/%E5%86%AF%E6%B2%85%E5%90%9B/2436792?fr=aladdin,ONLINE SOURCE,,,,2019-12-02,MG,2022-05-10,DP
-AG0694,Helmer,Nora,en,female,0,1800..1899,1800..1899,,SP0436,,2.0,,W0268,,https://en.wikipedia.org/wiki/A_Doll%27s_House,ONLINE SOURCE,N06,,,2019-12-10,MG,2022-05-10,DP
-AG0695,anon,anon,en,female,0,1900..1999,1900..1999,,SP0436,,2.0,,W0674,,,,N06,,,2019-12-12,MG,2022-05-10,DP
+AG0694,Helmer,Nora,en,female,0,1800..1899,1800..1899,,SP0436,,2,,W0268,,https://en.wikipedia.org/wiki/A_Doll%27s_House,ONLINE SOURCE,N06,,,2019-12-10,MG,2022-09-21,QG
+AG0695,anon,anon,en,female,0,1900..1999,1900..1999,,SP0436,,2,,W0674,,,,N06,,,2019-12-12,MG,2022-09-21,QG
 AG0696,Heine,Heinrich,de,male,0,1797,1856,,SP0104,,,,https://en.wikipedia.org/wiki/Heinrich_Heine,ONLINE SOURCE,,,,,,2019-12-12,MG,2022-05-10,DP
 AG0696,海涅,海因里希,zh,male,0,1797,1856,,SP0104,,,,https://en.wikipedia.org/wiki/Heinrich_Heine,ONLINE SOURCE,,,,,,2019-12-12,MG,2022-05-10,DP
 AG0697,Wen,Tianxiang,en,male,0,1236,1283,,SP0191,,,,https://en.wikipedia.org/wiki/Wen_Tianxiang,ONLINE SOURCE,,,,,,2019-12-12,MG,2022-05-10,DP
@@ -1384,7 +1384,7 @@ AG0703,Wilde,Oscar,en,male,0,1854,1900,,SP0468,,,,https://en.wikipedia.org/wiki/
 AG0703,王尔德,奥斯卡,zh,male,0,1854,1900,,SP0468,,,,https://en.wikipedia.org/wiki/Oscar_Wilde,ONLINE SOURCE,,,,,,2020-01-06,MG,2022-05-10,DP
 AG0704,Cao,Mengde,en,male,0,-0155,-0220,Cao Cao,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
 AG0704,曹,孟德,zh,male,0,-0155,-0220,曹操,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
-AG0705,Vlassova,Pelageya,en,female,0,1860..1875,1860..1875,,SP0436,,0.0,,W0682,,,,N06,,,2020-01-08,MG,2022-05-10,DP
+AG0705,Vlassova,Pelageya,en,female,0,1860..1875,1860..1875,,SP0436,,0,,W0682,,,,N06,,,2020-01-08,MG,2022-09-21,QG
 AG0706,Zhou,Enlai,en,male,2,1898,1976,,SP0417,,,,https://en.wikipedia.org/wiki/Zhou_Enlai,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-05-10,DP
 AG0706,周,恩来,zh,male,2,1898,1976,,SP0417,,,,https://en.wikipedia.org/wiki/Zhou_Enlai,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-05-10,DP
 AG0707,Jean-Baptiste,Poquelin,fr,male,0,1622,1673,Molière,SP0050,,,,https://en.wikipedia.org/wiki/Moli%C3%A8re,ONLINE SOURCE,,,,,,2020-01-15,MG,2022-05-10,DP
@@ -1395,57 +1395,57 @@ AG0709,Qiu,Jin,en,female,0,1875,1907,Xuanqing,SP0469,,,,https://en.wikipedia.org
 AG0709,秋,瑾,zh,female,0,1875,1907,璿卿,SP0469,,,,https://en.wikipedia.org/wiki/Qiu_Jin,ONLINE SOURCE,,,,,,2020-02-01,MG,2022-05-10,DP
 AG0710,Li,Min,en,male,0,0645,0714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
 AG0710,李,峤,zh,male,0,0645,0714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
-AG0711,Wu,Yuping,en,unknown,0,1900..1930~,,,SP0436,,0.0,,W0796,,,,,,,2020-02-13,MG,2022-05-10,DP
+AG0711,Wu,Yuping,en,unknown,0,1900..1930~,,,SP0436,,0,,W0796,,,,,,,2020-02-13,MG,2022-09-21,QG
 AG0712,Liu,Cixin,en,male,0,1963,,,SP0471,,,,https://en.wikipedia.org/wiki/Liu_Cixin,ONLINE SOURCE,,,,,,2020-02-14,MG,2022-05-10,DP
 AG0712,刘,慈欣,zh,male,0,1963,,,SP0471,,,,https://en.wikipedia.org/wiki/Liu_Cixin,ONLINE SOURCE,,,,,,2020-02-14,MG,2022-05-10,DP
-AG0713,Wang,Miao,en,male,0,1955..1965~,,,SP0436,,2.0,,W0797,,,,N06,,,2020-02-14,MG,2022-05-10,DP
-AG0713,汪,淼,zh,male,0,1955..1965~,,,SP0436,,2.0,,W0797,,,,N06,,,2020-02-14,MG,2022-05-10,DP
-AG0714,Ye,Wenjie,en,female,0,1955..1965~,,,SP0436,,2.0,,W0797,,,,N06,,,2020-02-14,MG,2022-05-10,DP
-AG0714,叶,文洁,zh,female,0,1955..1965~,,,SP0436,,2.0,,W0797,,,,N06,,,2020-02-14,MG,2022-05-10,DP
-AG0715,Bai,Mulin,en,male,0,1955..1965~,,,SP0436,,2.0,,W0797,,,,N07,,,2020-02-14,MG,2022-05-10,DP
-AG0716,Ye,Zhetai,en,male,2,1930..1940~,1966..1976~,,SP0436,S03,3.0,,W0797,,,,N07,,,2020-02-14,MG,2022-05-10,DP
-AG0716,叶,哲泰,zh,male,2,1930..1940~,1966..1976~,,SP0436,S03,3.0,,W0797,,,,N07,,,2020-02-14,MG,2022-05-10,DP
-AG0717,Stanton,anon,en,male,0,1930..1940~,,Colonel Stanton,SP0436,S05,3.0,,W0797,,,,N07,,,2020-02-14,MG,2022-05-10,DP
-AG0717,斯坦顿,anon,zh,male,0,1930..1940~,,,SP0436,S05,3.0,,W0797,,,,N07,,,2020-02-14,MG,2022-05-10,DP
+AG0713,Wang,Miao,en,male,0,1955..1965~,,,SP0436,,2,,W0797,,,,N06,,,2020-02-14,MG,2022-09-21,QG
+AG0713,汪,淼,zh,male,0,1955..1965~,,,SP0436,,2,,W0797,,,,N06,,,2020-02-14,MG,2022-09-21,QG
+AG0714,Ye,Wenjie,en,female,0,1955..1965~,,,SP0436,,2,,W0797,,,,N06,,,2020-02-14,MG,2022-09-21,QG
+AG0714,叶,文洁,zh,female,0,1955..1965~,,,SP0436,,2,,W0797,,,,N06,,,2020-02-14,MG,2022-09-21,QG
+AG0715,Bai,Mulin,en,male,0,1955..1965~,,,SP0436,,2,,W0797,,,,N07,,,2020-02-14,MG,2022-09-21,QG
+AG0716,Ye,Zhetai,en,male,2,1930..1940~,1966..1976~,,SP0436,S03,3,,W0797,,,,N07,,,2020-02-14,MG,2022-09-21,QG
+AG0716,叶,哲泰,zh,male,2,1930..1940~,1966..1976~,,SP0436,S03,3,,W0797,,,,N07,,,2020-02-14,MG,2022-09-21,QG
+AG0717,Stanton,anon,en,male,0,1930..1940~,,Colonel Stanton,SP0436,S05,3,,W0797,,,,N07,,,2020-02-14,MG,2022-09-21,QG
+AG0717,斯坦顿,anon,zh,male,0,1930..1940~,,,SP0436,S05,3,,W0797,,,,N07,,,2020-02-14,MG,2022-09-21,QG
 AG0718,Carson,Rachel,en,female,0,1907,1964,,SP0472,,,,https://en.wikipedia.org/wiki/Rachel_Carson,ONLINE SOURCE,,,,,,2020-02-14,MG,2022-05-10,DP
-AG0719,Wang,Yisheng,en,male,1,1940..1950~,,Chess Fool,SP0436,,2.0,,W0798,,,,N07,,,2020-05-16,MG,2022-05-10,DP
-AG0719,王,一生,zh,male,1,1940..1950~,,,SP0436,,2.0,,W0798,,,,N07,,,2020-05-16,MG,2022-05-10,DP
-AG0720,anon,anon,en,male,1,1940..1950~,,,SP0436,,2.0,,W0798,,,,N06,,,2020-05-19,MG,2022-05-10,DP
+AG0719,Wang,Yisheng,en,male,1,1940..1950~,,Chess Fool,SP0436,,2,,W0798,,,,N07,,,2020-05-16,MG,2022-09-21,QG
+AG0719,王,一生,zh,male,1,1940..1950~,,,SP0436,,2,,W0798,,,,N07,,,2020-05-16,MG,2022-09-21,QG
+AG0720,anon,anon,en,male,1,1940..1950~,,,SP0436,,2,,W0798,,,,N06,,,2020-05-19,MG,2022-09-21,QG
 AG0721,Xiang,Yu,en,male,0,-0202,-0232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
 AG0721,项,羽,zh,male,0,-0202,-0232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
 AG0722,Liu,Bang,en,male,0,-0256~,-0195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
 AG0722,劉,邦,zh,male,0,-0256~,-0195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
-AG0723,anon,anon,en,male,1,1950..1959~,,,SP0436,,2.0,,W0800,,,,N06,,,2020-05-26,MG,2022-05-10,DP
-AG0724,Chen,anon,en,male,3,1930..1950~,,,SP0436,,2.0,,W0800,,,,N07,,,2020-05-26,MG,2022-05-10,DP
-AG0725,Wang,Fu,en,male,2,1960..1969~,,,SP0436,S08,1.0,,W0800,,,,N07,,,2020-05-28,MG,2022-05-10,DP
-AG0726,anon,anon,en,unknown,2,1930..1950~,,Party Secretary,SP0436,,2.0,,W0800,,,,N07,,,2020-05-28,MG,2022-05-10,DP
-AG0727,Wang,Qitong,en,male,2,1930..1950~,,Loose Shit,SP0436,S08,3.0,,W0800,,,,,He is known for being a hard-working guy but laughed and treated badly because he is a mute,,2020-05-28,MG,2022-05-10,DP
-AG0728,anon,Laidi,en,female,3,1950..1959~,,,SP0436,,2.0,,W0800,,,,N07,,,2020-05-28,MG,2022-05-10,DP
+AG0723,anon,anon,en,male,1,1950..1959~,,,SP0436,,2,,W0800,,,,N06,,,2020-05-26,MG,2022-09-21,QG
+AG0724,Chen,anon,en,male,3,1930..1950~,,,SP0436,,2,,W0800,,,,N07,,,2020-05-26,MG,2022-09-21,QG
+AG0725,Wang,Fu,en,male,2,1960..1969~,,,SP0436,S08,1,,W0800,,,,N07,,,2020-05-28,MG,2022-09-21,QG
+AG0726,anon,anon,en,unknown,2,1930..1950~,,Party Secretary,SP0436,,2,,W0800,,,,N07,,,2020-05-28,MG,2022-09-21,QG
+AG0727,Wang,Qitong,en,male,2,1930..1950~,,Loose Shit,SP0436,S08,3,,W0800,,,,,He is known for being a hard-working guy but laughed and treated badly because he is a mute,,2020-05-28,MG,2022-09-21,QG
+AG0728,anon,Laidi,en,female,3,1950..1959~,,,SP0436,,2,,W0800,,,,N07,,,2020-05-28,MG,2022-09-21,QG
 AG0729,Wei,Jiangong,en,male,0,1901,1980,,SP0475,,,,https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%BB%BA%E5%8A%9F,ONLINE SOURCE,,,,,,2020-05-28,MG,2022-05-10,DP
 AG0729,魏,建功,zh,male,0,1901,1980,,SP0475,,,,https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%BB%BA%E5%8A%9F,ONLINE SOURCE,,,,,,2020-05-28,MG,2022-05-10,DP
-AG0730,Li,Tiemei,en,female,0,1930..1950~,,,SP0436,,2.0,,W0536,,,,N07,,,2020-05-28,MG,2022-05-10,DP
-AG0730,李,铁梅,zh,female,0,1930..1950~,,,SP0436,,2.0,,W0536,,,,N07,,,2020-05-28,MG,2022-05-10,DP
-AG0731,anon,anon,en,male,1,1940..1950~,,,SP0436,,2.0,,W0801,,,,N06,,,2020-06-18,MG,2022-05-10,DP
-AG0732,Li,Li,en,male,1,1940..1950~,,,SP0436,,2.0,,W0801,,,,N07,,,2020-06-18,MG,2022-05-10,DP
-AG0733,anon,Knotty,en,male,2,1930..1940~,,,SP0436,,3.0,,W0801,,,,N07,,,2020-06-18,MG,2022-05-10,DP
-AG0734,anon,Six Claws,en,male,2,1940..1950~,,,SP0436,,2.0,,W0801,,,,N07,,,2020-06-18,MG,2022-05-10,DP
-AG0735,anon,anon,en,unknown,2,1930..1940~,,Party Secretary,SP0436,,3.0,,W0801,,,,,,,2020-06-18,MG,2022-05-10,DP
+AG0730,Li,Tiemei,en,female,0,1930..1950~,,,SP0436,,2,,W0536,,,,N07,,,2020-05-28,MG,2022-09-21,QG
+AG0730,李,铁梅,zh,female,0,1930..1950~,,,SP0436,,2,,W0536,,,,N07,,,2020-05-28,MG,2022-09-21,QG
+AG0731,anon,anon,en,male,1,1940..1950~,,,SP0436,,2,,W0801,,,,N06,,,2020-06-18,MG,2022-09-21,QG
+AG0732,Li,Li,en,male,1,1940..1950~,,,SP0436,,2,,W0801,,,,N07,,,2020-06-18,MG,2022-09-21,QG
+AG0733,anon,Knotty,en,male,2,1930..1940~,,,SP0436,,3,,W0801,,,,N07,,,2020-06-18,MG,2022-09-21,QG
+AG0734,anon,Six Claws,en,male,2,1940..1950~,,,SP0436,,2,,W0801,,,,N07,,,2020-06-18,MG,2022-09-21,QG
+AG0735,anon,anon,en,unknown,2,1930..1940~,,Party Secretary,SP0436,,3,,W0801,,,,,,,2020-06-18,MG,2022-09-21,QG
 AG0736,Lin,Biao,en,male,0,1907,1971,,SP0476,,,,https://en.wikipedia.org/wiki/Lin_Biao,ONLINE SOURCE,,,,,,2020-06-18,MG,2022-05-10,DP
 AG0736,林,彪,zh,male,0,1907,1971,,SP0476,,,,https://en.wikipedia.org/wiki/Lin_Biao,ONLINE SOURCE,,,,,,2020-06-18,MG,2022-05-10,DP
 AG0737,Wagner,Rudolf G.,de,male,0,1941,2019,,SP0477,,,,https://en.wikipedia.org/wiki/Rudolf_G._Wagner,ONLINE SOURCE,,,,,,2020-06-29,MG,2022-05-10,DP
 AG0737,瓦格納,魯道夫,zh,male,0,1941,2019,,SP0477,,,,https://en.wikipedia.org/wiki/Rudolf_G._Wagner,ONLINE SOURCE,,,,,,2020-06-29,MG,2022-05-10,DP
 AG0738,Zheng,Yi,en,male,1,1947,,,SP0015,,,,https://baike.baidu.com/item/%E9%83%91%E4%B9%89/3300981,ONLINE SOURCE,,,,,,2020-06-29,MG,2022-05-10,DP
 AG0738,郑,义,zh,male,1,1947,,,SP0015,,,,https://baike.baidu.com/item/%E9%83%91%E4%B9%89/3300981,ONLINE SOURCE,,,,,,2020-06-29,MG,2022-05-10,DP
-AG0739,Lu,Danfeng,en,female,0,1945..1950~,1967~,,SP0436,,2.0,,W0802,,,,N07,,,2020-06-29,MG,2022-05-10,DP
-AG0739,卢,丹枫,zh,female,0,1945..1950~,1967~,,SP0436,,2.0,,W0802,,,,N07,,,2020-06-29,MG,2022-05-10,DP
-AG0740,Li,Honggang,en,male,0,1945..1950~,1969~,,SP0436,,2.0,,W0802,,,,N07,,,2020-06-29,MG,2022-05-10,DP
-AG0740,李,红刚,zh,male,0,1945..1950~,1969~,,SP0436,,2.0,,W0802,,,,N07,,,2020-06-29,MG,2022-05-10,DP
-AG0741,Wang,anon,en,male,0,1940..1950~,,Teacher Wang,SP0436,,2.0,,W0802,,,,,,,2020-06-29,MG,2022-05-10,DP
+AG0739,Lu,Danfeng,en,female,0,1945..1950~,1967~,,SP0436,,2,,W0802,,,,N07,,,2020-06-29,MG,2022-09-21,QG
+AG0739,卢,丹枫,zh,female,0,1945..1950~,1967~,,SP0436,,2,,W0802,,,,N07,,,2020-06-29,MG,2022-09-21,QG
+AG0740,Li,Honggang,en,male,0,1945..1950~,1969~,,SP0436,,2,,W0802,,,,N07,,,2020-06-29,MG,2022-09-21,QG
+AG0740,李,红刚,zh,male,0,1945..1950~,1969~,,SP0436,,2,,W0802,,,,N07,,,2020-06-29,MG,2022-09-21,QG
+AG0741,Wang,anon,en,male,0,1940..1950~,,Teacher Wang,SP0436,,2,,W0802,,,,,,,2020-06-29,MG,2022-09-21,QG
 AG0742,Jiang,Qing,en,female,0,1914,1991,,SP0478,,,,https://en.wikipedia.org/wiki/Jiang_Qing,ONLINE SOURCE,,,,,,2020-06-30,MG,2022-05-10,DP
 AG0742,江,青,zh,female,0,1914,1991,,SP0478,,,,https://en.wikipedia.org/wiki/Jiang_Qing,ONLINE SOURCE,,,,,,2020-06-30,MG,2022-05-10,DP
-AG0743,Lin,Zhen,en,male,0,1930..1935~,,,SP0436,,2.0,,W0804,,,,N06,He seems to have incorporated notions of what a Socialist hero should be like (SS00608; German edition p.92-93),please add the Chinese characters,2020-08-07,MG,2022-05-10,DP
-AG0744,Zhao,Huiwen,en,female,0,1930..1935~,,,SP0436,,2.0,,W0804,,,,N07,,please add the Chinese characters,2020-08-07,MG,2022-05-10,DP
-AG0745,Liu,Shiwu,en,male,0,1900~,,,SP0436,,3.0,,W0804,,,,,,please add the Chinese characters,2020-08-07,MG,2022-05-10,DP
+AG0743,Lin,Zhen,en,male,0,1930..1935~,,,SP0436,,2,,W0804,,,,N06,He seems to have incorporated notions of what a Socialist hero should be like (SS00608; German edition p.92-93),please add the Chinese characters,2020-08-07,MG,2022-09-21,QG
+AG0744,Zhao,Huiwen,en,female,0,1930..1935~,,,SP0436,,2,,W0804,,,,N07,,please add the Chinese characters,2020-08-07,MG,2022-09-21,QG
+AG0745,Liu,Shiwu,en,male,0,1900~,,,SP0436,,3,,W0804,,,,,,please add the Chinese characters,2020-08-07,MG,2022-09-21,QG
 AG0746,Wang,Meng,en,male,2,1934,,,SP0005,,,,https://en.wikipedia.org/wiki/Wang_Meng_(author),ONLINE SOURCE,,,,,,2020-08-07,MG,2022-05-10,DP
 AG0746,王,蒙,zh,male,2,1934,,,SP0005,,,,https://en.wikipedia.org/wiki/Wang_Meng_(author),ONLINE SOURCE,,,,,,2020-08-07,MG,2022-05-10,DP
 AG0747,Kubin,Wolfgang,de,male,0,1945,,,SP0479,,,,https://en.wikipedia.org/wiki/Wolfgang_Kubin,ONLINE SOURCE,,,,,,2020-08-07,MG,2022-05-10,DP
@@ -1527,19 +1527,19 @@ AG0787,Žižek,Slavoj,en,male,0,1949,,,SP0493,,,,https://en.wikipedia.org/wiki/S
 AG0787,齊澤克,斯拉沃熱,zh,male,0,1949,,,SP0493,,,,https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek,,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0788,Sangye Gyatso,Desi,en,male,0,1617,1682,,SP0492,,,,https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-05-10,DP
 AG0788,桑吉嘉措,第司,zh,male,0,1617,1682,,SP0492,,,,https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-05-10,DP
-AG0789,Zhu,Lingyuan,en,male,0,1930..1940~,,,SP0436,S03,2.0,,W0853,,,,N07,,,2021-03-23,MG,2022-05-10,DP
-AG0789,朱,令垣,zh,male,0,1930..1940~,,,SP0436,S03,2.0,,W0853,,,,N07,,,2021-03-23,MG,2022-05-10,DP
-AG0790,anon,anon,en,unknown,0,1950..1960~,,,SP0436,,0.0,,W0853,,,,,omniscient narrator,,2021-03-23,MG,2022-05-10,DP
+AG0789,Zhu,Lingyuan,en,male,0,1930..1940~,,,SP0436,S03,2,,W0853,,,,N07,,,2021-03-23,MG,2022-09-21,QG
+AG0789,朱,令垣,zh,male,0,1930..1940~,,,SP0436,S03,2,,W0853,,,,N07,,,2021-03-23,MG,2022-09-21,QG
+AG0790,anon,anon,en,unknown,0,1950..1960~,,,SP0436,,0,,W0853,,,,,omniscient narrator,,2021-03-23,MG,2022-09-21,QG
 AG0791,Newton,Isaac,en,male,0,1643,1726..1727,,SP0495,,,,https://en.wikipedia.org/wiki/Isaac_Newton,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0791,牛顿,艾萨克,zh,male,0,1643,1726..1727,,SP0495,,,,https://en.wikipedia.org/wiki/Isaac_Newton,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0792,Qin,Shihuang,en,male,0,-0259,-0210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
 AG0792,秦,始皇,zh,male,0,-0259,-0210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
-AG0793,“Wang”,anon,en,male,0,1950..1960~,,,SP0436,,1.0,,W0853,,,,N07,,,2021-03-24,MG,2022-05-10,DP
-AG0793,“王”,anon,zh,male,0,1950..1960~,,,SP0436,,1.0,,W0853,,,,N07,,,2021-03-24,MG,2022-05-10,DP
-AG0794,Feng,Huachuan,en,male,0,1950..1960~,,,SP0436,,1.0,,W0853,,,,N07,,,2021-03-24,MG,2022-05-10,DP
-AG0794,丰,华川,zh,male,0,1950..1960~,,,SP0436,,1.0,,W0853,,,,N07,,,2021-03-24,MG,2022-05-10,DP
-AG0795,Li,Wenjian,en,male,0,1900..1980~,,,SP0436,,2.0,,W0848,,,,N07,,,2021-03-26,MG,2022-05-10,DP
-AG0796,李,文建,zh,male,0,1900..1980~,,,SP0436,,2.0,,W0848,,,,N07,,,2021-03-26,MG,2022-05-10,DP
+AG0793,“Wang”,anon,en,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
+AG0793,“王”,anon,zh,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
+AG0794,Feng,Huachuan,en,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
+AG0794,丰,华川,zh,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
+AG0795,Li,Wenjian,en,male,0,1900..1980~,,,SP0436,,2,,W0848,,,,N07,,,2021-03-26,MG,2022-09-21,QG
+AG0796,李,文建,zh,male,0,1900..1980~,,,SP0436,,2,,W0848,,,,N07,,,2021-03-26,MG,2022-09-21,QG
 AG0797,Song,Geng,en,male,0,1900..1980~,,,SP0436,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
 AG0797,宋,耕,zh,male,0,1900..1980~,,,SP0436,,,,http://web.chinese.hku.hk/main/staff/academic-staff/dr-song-geng/,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
 AG0798,Yang,Qingxiang,en,male,0,1980,,,SP0498,,,,https://baike.baidu.com/item/%E6%9D%A8%E5%BA%86%E7%A5%A5/13861709,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
@@ -1550,36 +1550,36 @@ AG0800,Huters,Theodore,en,male,0,1947,,,SP0436,,,,https://www.alc.ucla.edu/perso
 AG0801,Wu,Dingbo,en,male,3,1941,,,SP0006,,,,http://www.sf-encyclopedia.com/entry/wu_dingbo,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
 AG0801,吴,定柏,zh,male,3,1941,,,SP0006,,,,http://www.sf-encyclopedia.com/entry/wu_dingbo,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
 AG0802,Murphy,Patrick D.,en,male,0,1951,,,SP0499,,,,https://ucf.academia.edu/pmurphy/CurriculumVitae,ONLINE SOURCE,,,,,,2021-04-06,MG,2022-05-10,DP
-AG0803,anon,Little Smarty,en,male,0,1960..1980~,,,SP0436,,1.0,,W0862,,W0851,,N06,,,2021-04-15,MG,2022-05-10,DP
-AG0804,anon,Little Tiger,en,male,0,1960..1980~,,,SP0436,,1.0,,W0862,,W0851,,N07,,,2021-04-15,MG,2022-05-10,DP
-AG0805,anon,Little Swallow,en,female,0,1960..1980~,,,SP0436,,1.0,,W0862,,W0851,,N07,,,2021-04-15,MG,2022-05-10,DP
-AG0806,anon,anon,en,unknown,0,1950..1970~,,editor,SP0436,,2.0,,W0851,,,,,,,2021-04-15,MG,2022-05-10,DP
-AG0807,anon,Great-Granddad,en,male,0,1900..1950~,,,SP0436,,3.0,,W0862,125,,,N07,,,2021-04-15,MG,2022-05-10,DP
+AG0803,anon,Little Smarty,en,male,0,1960..1980~,,,SP0436,,1,,W0862,,W0851,,N06,,,2021-04-15,MG,2022-09-21,QG
+AG0804,anon,Little Tiger,en,male,0,1960..1980~,,,SP0436,,1,,W0862,,W0851,,N07,,,2021-04-15,MG,2022-09-21,QG
+AG0805,anon,Little Swallow,en,female,0,1960..1980~,,,SP0436,,1,,W0862,,W0851,,N07,,,2021-04-15,MG,2022-09-21,QG
+AG0806,anon,anon,en,unknown,0,1950..1970~,,editor,SP0436,,2,,W0851,,,,,,,2021-04-15,MG,2022-09-21,QG
+AG0807,anon,Great-Granddad,en,male,0,1900..1950~,,,SP0436,,3,,W0862,125,,,N07,,,2021-04-15,MG,2022-09-21,QG
 AG0808,anon,Chang’e,en,female,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,,,,2021-04-15,MG,2022-05-10,DP
 AG0808,anon,嫦娥,zh,female,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,,,,2021-04-15,MG,2022-05-10,DP
-AG0809,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,2.0,,W0847,,,,,first person narrator,,2021-05-05,MG,2022-05-10,DP
+AG0809,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,2,,W0847,,,,,first person narrator,,2021-05-05,MG,2022-09-21,QG
 AG0810,Zhaozhou,Congshen,en,male,0,0778,0897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
 AG0810,趙州,從諗,zh,male,0,0778,0897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
 AG0811,anon,abbot,en,male,0,XXXX,XXXX,,SP0436,,,,W0847,405,,,,calls himself a Technologist-Buddhist,,2021-05-05,MG,2022-05-10,DP
 AG0812,Clarke,Arthur C.,en,male,0,1917,2008,,SP0500,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-05-10,DP
 AG0812,克拉克,亚瑟·查理斯,zh,male,0,1917,2008,,SP0500,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-05-10,DP
-AG0813,Tang,Jiaming,en,female,0,1980~,,,SP0436,,2.0,,W0844,83-109,,,,,,2021-06-05,MG,2022-05-10,DP
-AG0813,糖,,zh,female,0,1980~,,,SP0436,,2.0,,W0844,83-109,,,,,,2021-06-05,MG,2022-05-10,DP
+AG0813,Tang,Jiaming,en,female,0,1980~,,,SP0436,,2,,W0844,83-109,,,,,,2021-06-05,MG,2022-09-21,QG
+AG0813,糖,,zh,female,0,1980~,,,SP0436,,2,,W0844,83-109,,,,,,2021-06-05,MG,2022-09-21,QG
 AG0814,Brightman,Sarah,en,female,0,1960,,,SP0160,,,,https://en.wikipedia.org/wiki/Sarah_Brightman,ONLINE SOURCE,,,,,,2021-06-05,MG,2022-05-10,DP
 AG0814,布萊曼,莎拉,zh,female,0,1960,,,SP0160,,,,https://en.wikipedia.org/wiki/Sarah_Brightman,ONLINE SOURCE,,,,,,2021-06-05,MG,2022-05-10,DP
 AG0815,Brin,David,en,male,0,1950,,,SP0501,,,,https://en.wikipedia.org/wiki/David_Brin,ONLINE SOURCE,,,,,,2021-06-07,MG,2022-05-10,DP
 AG0815,布林,大衛,zh,male,0,1950,,,SP0501,,,,https://en.wikipedia.org/wiki/David_Brin,ONLINE SOURCE,,,,,,2021-06-07,MG,2022-05-10,DP
-AG0816,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,2.0,,W0843,139-148,,,,first person narrator,,2021-06-07,MG,2022-05-10,DP
+AG0816,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,2,,W0843,139-148,,,,first person narrator,,2021-06-07,MG,2022-09-21,QG
 AG0817,Ah,Chen,en,male,0,XXXX,XXXX,,SP0436,,,,W0841,327-340,,,N06,,,2021-06-09,MG,2022-05-10,DP
 AG0818,Adams,Douglas,en,male,0,1952,2001,,SP0502,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,2021-06-09,MG,2022-05-10,DP
 AG0818,亚当斯,道格拉斯,zh,male,0,1952,2001,,SP0502,,,,https://en.wikipedia.org/wiki/Douglas_Adams,ONLINE SOURCE,,,,,,2021-06-09,MG,2022-05-10,DP
 AG0819,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0841,327-340,,,,omniscient narrator,,2021-06-14,MG,2022-05-10,DP
 AG0820,anon,anon,en,male,0,XXXX,XXXX,father,SP0436,,,,W0841,327-340,,,N07,,,2021-06-14,MG,2022-05-10,DP
-AG0821,Salinger,Jerome David,en,male,0,XXXX,XXXX,,SP0436,,3.0,,W0840,125-133,,,N06,,,2021-06-14,MG,2022-05-10,DP
+AG0821,Salinger,Jerome David,en,male,0,XXXX,XXXX,,SP0436,,3,,W0840,125-133,,,N06,,,2021-06-14,MG,2022-09-21,QG
 AG0822,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0840,125-133,,,,omniscient narrator,,2021-06-14,MG,2022-05-10,DP
 AG0823,Helder,Herberto,en,male,0,1930,2015,,SP0503,,,,https://de.wikipedia.org/wiki/Herberto_Helder,ONLINE SOURCE,,,,,,2021-06-14,MG,2022-05-10,DP
 AG0823,anon,赫伯托,zh,male,0,1930,2015,,SP0503,,,,https://de.wikipedia.org/wiki/Herberto_Helder,ONLINE SOURCE,,,,,,2021-06-14,MG,2022-05-10,DP
-AG0824,anon,Ning,en,unknown,0,XXXX,XXXX,,SP0436,,1.0,,W0837,91-109,,,,first person narrator,,2021-06-14,MG,2022-05-10,DP
+AG0824,anon,Ning,en,unknown,0,XXXX,XXXX,,SP0436,,1,,W0837,91-109,,,,first person narrator,,2021-06-14,MG,2022-09-21,QG
 AG0825,Lamarck,Jean-Baptiste,fr,male,0,1744,1829,,SP0504,,,,https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck,ONLINE SOURCE,,,,,,2021-06-14,MG,2022-05-10,DP
 AG0825,拉马克,让-巴蒂斯特,zh,male,0,1744,1829,,SP0504,,,,https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck,ONLINE SOURCE,,,,,,2021-06-14,MG,2022-05-10,DP
 AG0826,Polo,Marco,en,male,0,1254,1324,,SP0505,,,,https://en.wikipedia.org/wiki/Marco_Polo,ONLINE SOURCE,,,,,,2021-06-14,MG,2022-05-10,DP
