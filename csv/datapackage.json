@@ -3,7 +3,7 @@
   "name": "readact",
   "title": "ReadAct Database of the READCHINA project",
   "homepage": "https://readchina.github.io/",
-  "version": "1.0.0-BETA",
+  "version": "2.0.0-Alpha",
   "id": "https://doi.org/10.5281/zenodo.3755105",
   "contributors": [
     {
