@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install Python dependencies
-        run: python -m pip install --upgrade pip pandas
+        run: python -m pip install pip pandas
       - name: Use pip Cache  
         uses: actions/cache@v2
         with:
