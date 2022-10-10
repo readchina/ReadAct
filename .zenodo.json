@@ -25,24 +25,20 @@
     ],
     "contributors": [
         {
-            "orcid": "",
             "type": "DataCollector",
             "name": "Grünwald, Mira"
         },
         {
-            "orcid": "",
             "type": "DataCurator",
             "name": "Gu Qin"
         },
         {
-            "orcid": "",
             "type": "DataCollector",
             "name": "Schulz, Oliver"
         },
         {
-            "orcid": "",
             "type": "DataCollector",
-            "name": "Wenxin Huang"
+            "name": "Huang Wenxin"
         },
         {
             "orcid": "0000-0002-3318-6652",
@@ -50,9 +46,8 @@
             "name": "Mandzunowski, Damian"
         },
         {
-            "orcid": "",
             "type": "DataCollector",
-            "name": "Chiayi Wu"
+            "name": "Wu Chiayi"
         }
     ],
     "grants": [
