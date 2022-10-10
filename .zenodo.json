@@ -1,0 +1,80 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-8958-6463",
+            "affiliation": "University of Freiburg",
+            "name": "Paterson, Duncan"
+        },
+        {
+            "orcid": "0000-0001-7583-0920",
+            "affiliation": "University of Freiburg",
+            "name": "Henningsen, Lena"
+        }
+    ],
+    "license": "CC-BY-SA-4.0",
+    "title": "ReadAct: Reading Act Database",
+    "keywords": [
+        "PRC",
+        "China",
+        "reading",
+        "history",
+        "fiction"
+    ],
+    "communities": [
+        {"identifier": "zenodo"}
+    ],
+    "contributors": [
+        {
+            "orcid": "",
+            "type": "DataCollector",
+            "name": "Grünwald, Mira"
+        },
+        {
+            "orcid": "",
+            "type": "DataCurator",
+            "name": "Gu Qin"
+        },
+        {
+            "orcid": "",
+            "type": "DataCollector",
+            "name": "Schulz, Oliver"
+        },
+        {
+            "orcid": "",
+            "type": "DataCollector",
+            "name": "Wenxin Huang"
+        },
+        {
+            "orcid": "0000-0002-3318-6652",
+            "type": "DataCollector",
+            "name": "Mandzunowski, Damian"
+        },
+        {
+            "orcid": "",
+            "type": "DataCollector",
+            "name": "Chiayi Wu"
+        }
+    ],
+    "grants": [
+        {
+            "id": "757365"
+        }
+    ],
+    "subjects": [
+        {
+            "term": "reading",
+            "identifier": "http://id.loc.gov/authorities/subjects/sh85111662",
+            "scheme": "url"
+        },
+        {
+            "term": "China--History--Cultural Revolution, 1966-1976--Personal narratives",
+            "identifier": "http://id.loc.gov/authorities/subjects/sh2008114651",
+            "scheme": "url"
+        },
+        {
+            "term": "Fiction",
+            "identifier": "https://id.loc.gov/authorities/subjects/sh85048050",
+            "scheme": "url"
+        }
+    ]
+}
