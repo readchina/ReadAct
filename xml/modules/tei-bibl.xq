@@ -27,8 +27,9 @@ declare function local:listBibl($works as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listBibl')} {
 
         for $w in $work//work_id
-        let $type := $w/../type
+        let $type := $w/../work_type
         let $note := $w/../commentary
+        let $fictionality := upper-case($w/../fictionality)
         let $quote := $quotation//source[. = $w]
         let $path := switch ($type)
             case ('PS')
@@ -37,8 +38,16 @@ declare function local:listBibl($works as node()*) as item()* {
             case ('SS')
                 return
                     $secondary-source//sec_source_id[. = $w]
+            case ('AW')
+                return
+                    $art-work//art_work_id[. = $w]
+            case ('Q')
+                return
+                    $quote//source[. = $w]        
             default return
-                $art-work//artwork_id[. = $w]
+               $w
+        (: see https://github.com/readchina/ReadAct/pull/498/commits/2733ed0cc07745c056196f0c2fd0bf5b7888ff37 :)
+        where $type ne 'Q'       
         order by $w
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'bibl')} {
@@ -49,9 +58,15 @@ declare function local:listBibl($works as node()*) as item()* {
                     case ('SS')
                         return
                             'text'
-                    default return
-                        'artwork'
+                    case('AW') 
+                        return
+                            'artwork'        
+                    default 
+                        return
+                        ()
         },
+        
+        if ($fictionality eq 'F') then (attribute subtype {'fictional'}) else (),
 
         switch (distinct-values($path/../neibu))
             case 'yes'
@@ -66,7 +81,7 @@ declare function local:listBibl($works as node()*) as item()* {
     for $t in $path/../title
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'title')} {
-            attribute xml:lang {$t/../title_lang},
+            attribute xml:lang {$t/../language},
             attribute type {'main'},
             $t/text(),
             if ($t/../subtitle)
@@ -146,7 +161,9 @@ declare function local:listBibl($works as node()*) as item()* {
     let $g-type := replace($gg/../genre_type, ' ', '-')
     let $g-name := $gg/../genre_name
     let $g-src := $gg/../source
-    (: create taxonony in wrapper file TBD  :)
+    (: create taxonony in wrapper file TBD  
+    TODO: only use LCSH for actual LCSH, not for artform etc
+    :)
     let $g-idno := $g-src
     return
         element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {
@@ -177,26 +194,24 @@ declare function local:listBibl($works as node()*) as item()* {
             }
         },
     (: quotation :)
-    if ($quote)
-    then
-        (element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {
+    for $q in $quote
+    return
+        element {fn:QName('http://www.tei-c.org/ns/1.0', 'note')} {
             attribute type {'quote'},
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'cit')} {
-                attribute xml:id {$quote/../quotation_id},
+                attribute ana {$q/../quotation_id},
                 element {fn:QName('http://www.tei-c.org/ns/1.0', 'quote')} {
-                    $quote/../quotation/text()
+                    $q/../quotation/text()
                 },
-                if ($quote/../page)
+                if ($q/../page)
                 then
                     (element {fn:QName('http://www.tei-c.org/ns/1.0', 'ptr')} {
-                        attribute target {$quote/../page}
+                        attribute target {$q/../page}
                     })
                 else
                     ()
             }
-        })
-    else
-        (),
+        },
     (: ref :)
     for $src in distinct-values($path/../source)
     return

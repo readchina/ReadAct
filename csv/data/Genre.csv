@@ -1,9 +1,5 @@
-genre_id,genre_name,genre_name_lang,genre_type,source,created,created_by,last_modified,last_modified_by
-G01,Non-literary essay,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026094.html,2017-07-03,LH,2018-03-01,MG
-G43,biography,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026049.html,2017-07-03,LH,2018-10-18,MG
-G02,biography,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85014164.html,2018-03-07,MG,2018-03-08,MG
-G44,autobiography,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026047.html,2017-07-03,LH,2018-10-18,MG
-G03,autobiography,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85010050.html,2018-03-07,MG,2018-03-08,MG
+genre_id,genre_name,language,genre_type,source,created,created_by,last_modified,last_modified_by
+G01,essay,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026094.html,2017-07-03,LH,2022-05-16,DP
 G04,novel,en,fiction,http://id.loc.gov/authorities/genreForms/gf2015026020.html,2017-07-03,LH,2018-03-08,MG
 G05,short story,en,fiction,http://id.loc.gov/authorities/genreForms/gf2014026542.html,2017-07-03,LH,2018-03-08,MG
 G06,shouchaoben fiction,en,fiction,http://id.loc.gov/authorities/genreForms/gf2014026339.html,2017-07-03,LH,2018-03-08,MG
@@ -15,7 +11,6 @@ G11,prose poetry,en,poetry,http://id.loc.gov/authorities/genreForms/gf2014026488
 G12,shi,zh-Latn-pinyin,poetry,http://id.loc.gov/authorities/subjects/sh85024350.html,2017-07-03,LH,2018-03-01,MG
 G13,ci,zh-Latn-pinyin,poetry,http://id.loc.gov/authorities/subjects/sh85139217.html,2017-07-03,LH,2018-03-01,MG
 G14,diary,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026085.html,2017-07-03,LH,2018-03-08,MG
-G15,letter,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026141.html,2017-07-03,LH,2018-03-08,MG
 G16,tragedy,en,drama,http://id.loc.gov/authorities/genreForms/gf2014026576.html,2017-07-03,LH,2018-03-08,MG
 G17,comedy,en,drama,http://id.loc.gov/authorities/genreForms/gf2014026264.html,2017-07-03,LH,2018-03-08,MG
 G18,Chinese opera,en,drama,http://id.loc.gov/authorities/genreForms/gf2015026012.html,2017-07-03,LH,2018-03-08,MG
@@ -23,7 +18,6 @@ G19,academic writing,en,informational works,http://id.loc.gov/authorities/subjec
 G20,textbook,en,educational works,http://id.loc.gov/authorities/genreForms/gf2014026191.html,2017-07-12,OS,2018-03-08,MG
 G21,novella,en,fiction,http://id.loc.gov/authorities/genreForms/gf2015026019.html,2017-07-12,OS,2018-03-01,MG
 G22,newspaper article,en,informational works,http://id.loc.gov/authorities/subjects/sh85091583.html,2017-07-12,OS,2018-03-01,MG
-G23,literary essay,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026094.html,2017-07-18,OS,2018-03-08,MG
 G24,political theory,en,informational works,http://id.loc.gov/authorities/subjects/sh85104440.html,2017-07-25,MG,2018-03-01,MG
 G25,correspondence,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026141.html,2017-07-27,LH,2018-03-08,MG
 G26,CCP central document,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026163.html,2017-10-03,CW,2018-03-08,MG
@@ -34,18 +28,18 @@ G30,juvenile literature,en,fiction,http://id.loc.gov/authorities/subjects/sh9900
 G31,geography,en,informational works,http://id.loc.gov/authorities/subjects/sh85053986.html,2018-02-28,OS,2018-03-01,MG
 G32,devotional literature,en,educational works,http://id.loc.gov/authorities/genreForms/gf2015026057.html,2018-03-14,MG,2018-03-14,MG
 G33,psychology,en,informational works,http://id.loc.gov/authorities/subjects/sh85108459.html,2018-04-06,MG,2018-04-06,MG
-G34,travel writing,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026542.html,2018-05-22,MG,2018-05-22,MG
+G34,travel writing,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026200.html,2018-05-22,MG,2022-05-16,DP
 G35,medical fiction,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026430.html,2018-07-09,WH,2018-07-09,WH
 G36,historical nonfiction,en,literary non-fiction,http://id.loc.gov/authorities/genreForms/gf2014026074.html,2018-08-04,DM,2018-08-04,DM
 G40,screenplay,en,drama,http://id.loc.gov/authorities/genreForms/gf2014026533.html,2018-07-03,MG,2018-07-20,MG
 G41,history,en,informational works,http://id.loc.gov/authorities/subjects/sh85061212.html,2018-07-23,MG,2018-07-23,MG
 G42,account books,en,informational works,http://id.loc.gov/authorities/genreForms/gf2017026136.html,2018-08-12,MG,2018-08-12,MG
-G53,romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
+G43,biography,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026049.html,2017-07-03,LH,2018-10-18,MG
+G44,autobiography,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026047.html,2017-07-03,LH,2018-10-18,MG
 G50,children’s literature,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85023617.html,2018-10-18,WH,2018-10-18,WH
-G99,unknown,en,unknown,http://none,2018-10-18,WH,2018-10-18,WH
 G51,fu,zh-Latn-pinyin,poetry,http://id.loc.gov/authorities/subjects/sh85052202.html,2018-10-18,WH,2018-10-18,WH
 G52,periodicals,en,unknown,http://id.loc.gov/authorities/genreForms/gf2014026139.html,2018-10-18,WH,2019-01-26,MG
-G73,maps,en,informational works,http://id.loc.gov/authorities/subjects/sh99002035.html,2018-11-03,WH,2019-01-26,WH
+G53,romance fiction,en,fiction,http://id.loc.gov/authorities/subjects/sh85078595.html,2018-05-31,DM,2018-05-31,DM
 G54,newspaper reading,en,unknown,http://id.loc.gov/authorities/subjects/sh85091584.html,2018-11-04,WH,2019-01-26,WH
 G55,newspaper,en,unknown,http://id.loc.gov/vocabulary/resourceTypes/nws.html,2018-11-04,WH,2019-01-26,WH
 G56,recording and registration,en,informational works,http://id.loc.gov/authorities/subjects/sh85111932.html,2018-11-04,WH,2019-01-26,WH
@@ -55,9 +49,22 @@ G59,poetry collection,en,poetry,http://id.loc.gov/authorities/subjects/sh8510370
 G70,commentary,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh99001404.html,2018-11-04,WH,2019-01-26,WH
 G71,criticism,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85034149.html,2018-11-04,WH,2019-01-26,WH
 G72,doggerel,en,poetry,http://id.loc.gov/authorities/subjects/sh85038779.html,2018-11-16,WH,2019-01-26,WH
-G88,quotations,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026159.html,2019-01-07,DM,2019-01-07,DM
+G73,maps,en,informational works,http://id.loc.gov/authorities/subjects/sh99002035.html,2018-11-03,WH,2019-01-26,WH
 G74,artbook,en,informational works,http://id.loc.gov/authorities/names/nr98042246.html,2018-12-16,WH,2019-01-26,WH
 G75,reportage literature,en,literary non-fiction,http://id.loc.gov/authorities/subjects/sh85112927.html,2019-01-25,WH,2019-01-26,WH
 G76,pamphlet,en,informational works,http://id.loc.gov/authorities/subjects/sh85097292.html,2019-02-18,LH,2019-02-18,LH
 G77,"fable, oriental",en,fiction,http://id.loc.gov/authorities/subjects/sh85046762.html,2019-02-24,WH,2019-02-25,WH
 G78,radio scripts,en,informational works,http://id.loc.gov/authorities/genreForms/gf2018026131.html,2019-04-24,WH,2019-04-24,WH
+G79,Closet drama,en,drama,http://id.loc.gov/authorities/subjects/sh2012004336.html,2020-01-08,MG,2020-01-08,MG
+G80,environmental sciences,en,informational works,http://id.loc.gov/authorities/subjects/sh92004048.html,2020-02-14,MG,2020-02-14,MG
+G81,science fiction comics,en,fiction,https://id.loc.gov/authorities/genreForms/gf2014026530.html,2021-04-15,MG,2021-04-15,MG
+G82,lianhuanhua (连环画),en,fiction,https://id.loc.gov/authorities/genreForms/gf2014026362.html,2021-04-15,MG,2021-04-15,MG
+G83,myths,en,fiction,https://id.loc.gov/authorities/genreForms/gf2015026043.html,2021-04-15,MG,2021-04-15,MG
+G84,comics (graphic works),en,fiction,https://id.loc.gov/authorities/genreForms/gf2014026266.html,2021-06-05,MG,2021-06-05,MG
+G85,Haiku,en,fiction,https://id.loc.gov/authorities/genreForms/gf2014026366.html,2021-06-12,MG,2021-06-12,MG
+G86,reference  works,en,informational works,https://id.loc.gov/authorities/genreForms/gf2014026165.html,2021-06-16,MG,2021-06-16,MG
+G87,military strategy,en,informational works,https://id.loc.gov/authorities/subjects/sh85128514.html,2021-06-16,MG,2021-06-16,MG
+G88,quotations,en,informational works,http://id.loc.gov/authorities/genreForms/gf2014026159.html,2019-01-07,DM,2019-01-07,DM
+G89,Economics,en,informational works,https://id.loc.gov/authorities/subjects/sh85040850.html,2021-07-25,MG,2021-07-25,MG
+G90,satirical literature,en,fiction,https://id.loc.gov/authorities/genreForms/gf2014026525.html,2021-06-22,MG,2021-07-27,MG
+G99,unknown,en,unknown,http://none,2018-10-18,WH,2018-10-18,WH

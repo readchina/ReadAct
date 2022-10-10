@@ -1,50 +1,37 @@
 {
   "fields": [
     {
-      "name": "genre_id",
-      "description": "G and a two-digit number (leading zeros)",
+      "name": "nar_pos_id",
+      "description": "N and a two-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
         "maxLength": 3,
-        "pattern": "^G[0-9]{2}"
+        "pattern": "^N[0-9]{2}"
       }
     },
     {
-      "name": "genre_name",
-      "description": "genre name in English - if necessary use Chinese pinyin.",
-      "type": "string",
-      "constraints": {
-        "unique": true,
-        "required": true
-      }
-    },
-    {
-      "name": "language",
-      "desription": "The language of the genre name (ISO 639-1)",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "minLength": 2
-      }
-    },
-    {
-      "name": "genre_type",
-      "description": "genre type of higher ranking order",
+      "name": "nar_pos_name",
+      "description": "english name of a narrative position",
       "type": "string",
       "constraints": {
         "required": true
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
+      "constraints": {
+        "required": false
       }
     },
     {
       "name": "source",
-      "description": "controlled vocabulary link e.g.: http://id.loc.gov/authorities/subjects.html",
       "type": "string",
-      "format": "uri",
       "constraints": {
-        "unique": true,
-        "required": true
+        "required": false,
+        "pattern": "^W[0-9]{4}"
       }
     },
     {
@@ -74,7 +61,7 @@
     },
     {
       "name": "last_modified_by",
-      "description": "structural entry acronym of project member modifying entry",
+      "description": "structural entry acronym of project member last modifying entry",
       "type": "string",
       "constraints": {
         "required": true,
@@ -82,17 +69,8 @@
       }
     }
   ],
-  "primaryKey": "genre_id",
+  "primaryKey": "nar_pos_id",
   "missingValues": [
     ""
-  ],
-  "foreignKeys": [
-    {
-      "fields": "language",
-      "reference": {
-        "resource": "iso-lang-code",
-        "fields": "iso_code"
-      }
-    }
   ]
 }

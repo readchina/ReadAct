@@ -1,40 +1,48 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "person_id",
+      "description": "The person's unique identifier, Agent.agent_id.",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": false,
         "maxLength": 6,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
       "name": "family_name",
+      "description": "The person's family name.",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "first_name",
+      "description": "The person's first name.",
       "constraints": {
         "required": false
       }
     },
     {
-      "name": "name_lang",
+      "name": "language",
+      "description": "The person's name language.",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[a-z]{2,}?"
+        "minLength": 2
       }
-    }, {
+    },
+    {
       "name": "sex",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "(male|female|unknown)"
       }
-    }, {
+    },
+    {
       "name": "rustication",
       "description": "One of four values related to 知识青年: 0=NULL, 1=yes, 2=no, 3=unknown",
       "type": "string",
@@ -42,7 +50,8 @@
         "required": true,
         "pattern": "[0-3]"
       }
-    }, {
+    },
+    {
       "name": "birthyear",
       "description": "Birthyear in EDTF, XXXX for unknown",
       "type": "string",
@@ -50,65 +59,102 @@
         "required": false,
         "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
       }
-    }, {
+    },
+    {
       "name": "deathyear",
       "description": "Deathyear in EDTF, XXXX for unkown",
       "type": "string",
       "constraints": {
         "required": false,
         "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?"
-
       }
-    }, {
+    },
+    {
       "name": "alt_name",
       "description": "Pen Name, Pseudonym, etc. matches the language of name",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "place_of_birth",
+      "description": "The place of birth of the person.",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^$|NULL|SP[0-9]{4})"
+        "pattern": "^$|NULL|SP[0-9]{4}"
       }
-    }, {
+    },
+    {
       "name": "social_position",
+      "description": "The social position of the person.",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^$|S[0-9]{2}|unknown)"
+        "pattern": "^$|S[0-9]{2}|unknown"
       }
-    }, {
+    },
+    {
+      "name": "narrative_age",
+      "description": "Approximate narrative age of fictional personas",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "^$|NULL|[0-3]"
+      }
+    },
+    {
       "name": "neibu_access",
+      "description": "direct or indirect access to neibu materials",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^$|yes|no|unknown)"
+        "pattern": "^$|yes|no|unknown"
       }
-    }, {
+    },
+    {
       "name": "source_1",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "(^http.*|W[0-9]{4})"
+        "pattern": "^http.*|W[0-9]{4}"
       }
-    }, {
+    },
+    {
       "name": "page_1",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "source_2",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "page_2",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
+      "name": "narrative_status",
+      "description": "NarrativePosition.nar_pos_id for literary personas",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "^$|NULL|N[0-9]{2}|S[0-9]{2}|unknown"
+      }
+    },
+    {
+      "name": "commentary",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -129,7 +175,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     },
     {
@@ -146,12 +192,17 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     }
   ],
-  "primaryKey": ["person_id", "name_lang"],
-  "missingValues": [""],
+  "primaryKey": [
+    "person_id",
+    "language"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "person_id",
@@ -175,7 +226,7 @@
       }
     },
     {
-      "fields": "name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

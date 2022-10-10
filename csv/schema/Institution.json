@@ -1,80 +1,100 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "inst_id",
+      "description": "Agent.agent_id",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": false,
         "maxLength": 6,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
       "name": "inst_name",
+      "description": "Name of institution",
+      "type": "string",
       "constraints": {
         "required": true
       }
     },
     {
-      "name": "inst_name_lang",
+      "name": "language",
+      "description": "The language of the institution name (ISO 639-1)",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[a-z]{2}"
       }
-    }, {
+    },
+    {
       "name": "place",
+      "description": "The place where the institution is located at the time of founding",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^SP[0-9]{4})"
+        "pattern": "^SP[0-9]{4}"
       }
-    }, {
+    },
+    {
       "name": "start",
+      "description": "The date of founding",
       "type": "string",
       "constraints": {
         "required": false,
         "minLength": 4
       }
-    }, {
+    },
+    {
       "name": "end",
+      "description": "The date of dissolution",
       "type": "string",
       "constraints": {
         "required": false,
         "minLength": 4
       }
-    }, {
+    },
+    {
       "name": "alt_start",
+      "description": "The alternative date of founding for discontinuous histories, renaming etc.",
       "type": "string",
       "constraints": {
         "required": false,
         "minLength": 4
       }
-    }, {
+    },
+    {
       "name": "alt_end",
+      "description": "The alternative date of dissolution for discontinuous histories, renaming etc.",
       "type": "string",
       "constraints": {
         "required": false,
         "minLength": 4
       }
-    }, {
+    },
+    {
       "name": "inst_alt_name",
+      "description": "The alternative name of the institution",
       "constraints": {
         "required": false
       }
-    }, {
-      "name": "note",
-      "description": "structural entry for internal notes",
-      "constraints": {
-        "required": false
-      }
-    }, {
+    }, 
+    {
       "name": "source",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "page",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "note",
+      "description": "structural entry for internal notes",
       "constraints": {
         "required": false
       }
@@ -93,7 +113,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     },
     {
@@ -110,12 +130,17 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     }
   ],
-  "primaryKey": ["inst_id", "inst_name"],
-  "missingValues": [""],
+  "primaryKey": [
+    "inst_id",
+    "inst_name"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "inst_id",
@@ -132,7 +157,7 @@
       }
     },
     {
-      "fields": "inst_name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

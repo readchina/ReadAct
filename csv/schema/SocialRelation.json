@@ -1,40 +1,46 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "soc_rel_id",
+      "description": "SR and a five-digit number (leading zeros)",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
         "maxLength": 7,
-        "pattern": "SR[0-9]{5}"
+        "pattern": "^SR[0-9]{5}"
       }
     },
     {
       "name": "ego",
+      "description": "Agent.agent_id",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
       "name": "related",
+      "description": "Agent.agent_id",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
+        "pattern": "^AG[0-9]{4}"
       }
     },
     {
       "name": "relation",
+      "description": "Relation based on UCREL/USAS semantic classes",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "S(3|4)(\\.[0-9]-?){1,}[fm]?[ey]?"
+        "pattern": "S(3|4)(\\.[0-9](-|\\+)?){1,}[fm]?[ey]?"
       }
     },
     {
       "name": "rel_zh",
+      "description": "Chinese name of relation",
       "type": "string",
       "constraints": {
         "required": true,
@@ -43,24 +49,31 @@
     },
     {
       "name": "rel_en",
+      "description": "English name of relation",
+      "type": "string",
       "constraints": {
         "required": true
       }
-    }, {
+    },
+    {
       "name": "source",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "(^http.*|W[0-9]{4})"
       }
-    }, {
+    },
+    {
       "name": "page",
+      "type": "string",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
+      "type": "string",
       "constraints": {
         "required": false
       }
@@ -101,7 +114,9 @@
     }
   ],
   "primaryKey": "soc_rel_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "ego",

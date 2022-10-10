@@ -1,22 +1,26 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "soc_pos_id",
+      "description": "S and a four-digit number (leading zeros",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": true,
         "maxLength": 3,
-        "pattern": "S[0-9]{2}"
+        "pattern": "^S[0-9]{2}"
       }
     },
     {
       "name": "soc_pos_name",
+      "description": "Name of a readers social position",
       "constraints": {
         "required": true
       }
     },
-        {
+    {
       "name": "created",
+      "description": "structural entry creation date of entry",
       "type": "date",
       "constraints": {
         "required": true
@@ -24,14 +28,16 @@
     },
     {
       "name": "created_by",
+      "description": "structural entry acronym of project member creating entry",
       "type": "string",
       "constraints": {
         "required": true,
         "pattern": "[A-Z]{2}"
       }
     },
-        {
+    {
       "name": "last_modified",
+      "description": "structural entry last modification date",
       "type": "date",
       "constraints": {
         "required": true
@@ -39,6 +45,7 @@
     },
     {
       "name": "last_modified_by",
+      "description": "structural entry acronym of project member modifying entry",
       "type": "string",
       "constraints": {
         "required": true,
@@ -47,5 +54,7 @@
     }
   ],
   "primaryKey": "soc_pos_id",
-  "missingValues": [""]
+  "missingValues": [
+    ""
+  ]
 }

@@ -1,28 +1,33 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "prim_source_id",
+      "description": "Work.work_id",
       "type": "string",
       "constraints": {
         "required": true,
         "unique": false,
         "maxLength": 5,
-        "pattern": "W[0-9]{4}"
+        "pattern": "^W[0-9]{4}"
       }
     },
     {
       "name": "title",
+      "description": "title of work",
       "constraints": {
         "required": true
       }
     },
     {
       "name": "subtitle",
+      "description": "subtitle of work",
       "constraints": {
         "required": false
       }
     },
     {
-      "name": "title_lang",
+      "name": "language",
+      "description": "language code in ISO",
       "type": "string",
       "constraints": {
         "required": true,
@@ -31,22 +36,25 @@
     },
     {
       "name": "genre",
+      "description": "genre of work Genre.genre_id",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "G[0-9]{2}"
+        "pattern": "^G[0-9]{2}"
       }
     },
     {
       "name": "publication_place",
+      "description": "first mainland edition between the years 1949 and 1979",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^http|SP[0-9]{4}|^$)"
+        "pattern": "^http|SP[0-9]{4}|^$"
       }
     },
     {
       "name": "publication_date",
+      "description": "first mainland edition between the years 1949 and 1979",
       "type": "string",
       "constraints": {
         "required": false,
@@ -55,40 +63,48 @@
     },
     {
       "name": "publishing_house",
+      "description": "first mainland edition between the years 1949 and 1979",
       "constraints": {
         "required": false
       }
     },
     {
       "name": "first_chin_edition",
+      "description": "year of first edition in China",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2})"
+        "pattern": "\\[?(-?[0-9X]{4}[\\.~\\?%,]?\\.?){1,2}\\]?|\\d{4}-\\d{2}-\\d{2}"
       }
-    }, {
+    },
+    {
       "name": "neibu",
+      "description": "Was this originally a neibu publication?",
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "(^$|yes|no)"
+        "pattern": "^$|yes|no"
       }
-    }, {
+    },
+    {
       "name": "source",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "serial",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "page",
       "constraints": {
         "required": false
       }
-    }, {
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
       "constraints": {
@@ -130,8 +146,13 @@
       }
     }
   ],
-  "primaryKey": ["prim_source_id", "title_lang"],
-  "missingValues": [""],
+  "primaryKey": [
+    "prim_source_id",
+    "language"
+  ],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "prim_source_id",
@@ -148,7 +169,7 @@
       }
     },
     {
-      "fields": "title_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

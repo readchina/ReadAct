@@ -1,8 +1,8 @@
 xquery version "3.1";
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
-declare namespace gexf = "http://www.gexf.net/1.2draft";
-declare namespace viz = "http://www.gexf.net/1.2draft/viz";
+declare namespace gexf = "http://gexf.net/1.3";
+declare namespace viz = "http://gexf.net/1.3/viz";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
@@ -118,7 +118,7 @@ declare function local:get-edges-raw($nodes as item()*, $data as item()*) as ele
  : @return gexf element to be stored to disk
  :)
 declare function local:gexf-graph($data as item()*, $creator as xs:string, $desc as xs:string) as element(gexf:gexf) {
-    <gexf:gexf version="1.2">
+    <gexf:gexf version="1.3">
         <gexf:meta lastmodifieddate="{current-date()}">
             <gexf:creator>{$creator}</gexf:creator>
             <gexf:description>{$desc}</gexf:description>

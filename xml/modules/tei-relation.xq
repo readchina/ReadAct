@@ -71,10 +71,12 @@ declare function local:listRelation($social as node()*, $personal as node()*, $a
         for $row in $acts//row
         let $id := $row/act_id
         let $type := $act-type//action_id[. = $row/action/text()]
+        let $fictionality := upper-case($row/fictionality/text())
             order by $id
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'relation')} {
                 attribute type {'reading-act'},
+                if ($fictionality eq 'F') then (attribute subtype {'fictional'}) else (),
                 for $a in $row/*
                 return
                     typeswitch ($a)

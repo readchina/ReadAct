@@ -1,5 +1,6 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "work_id",
       "description": "W and a four-digit number (leading zeros)",
       "type": "string",
@@ -7,37 +8,24 @@
         "required": true,
         "unique": true,
         "maxLength": 5,
-        "pattern": "W[0-9]{4}"
+        "pattern": "^W[0-9]{4}"
       }
     },
     {
       "name": "old_id",
       "description": "id from previous id schema",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
-      "name": "creator",
-      "description": "author, artist, director, etc.",
+      "name": "work_type",
+      "description": "type of work SS or PS or AW or Q",
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "AG[0-9]{4}"
-      }
-    },
-    {
-      "name": "type",
-      "description": "SS or PS or AW",
-      "constraints": {
-        "required": false
-      }
-    },
-    {
-      "name": "type_num",
-      "description": "integer on table",
-      "constraints": {
-        "required": false
+        "pattern": "SS|PS|AW|Q"
       }
     },
     {
@@ -48,8 +36,37 @@
         "required": true,
         "minLength": 2
       }
-    }, {
+    },
+    {
+      "name": "creator",
+      "description": "author, artist, director, etc.",
+      "type": "string",
+      "constraints": {
+        "required": true,
+        "pattern": "^AG[0-9]{4}"
+      }
+    },
+    {
+      "name": "narrator",
+      "description": "main narrator of fictional text",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "^AG[0-9]{4}"
+      }
+    },
+    {
+      "name": "fictionality",
+      "description": "Is the work itself fictional?",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "F?"
+      }
+    },
+    {
       "name": "commentary",
+      "type": "string",
       "description": "free form commentary on the work",
       "constraints": {
         "required": false
@@ -57,6 +74,7 @@
     },
     {
       "name": "note",
+      "type": "string",
       "description": "structural entry for internal notes",
       "constraints": {
         "required": false
@@ -98,7 +116,9 @@
     }
   ],
   "primaryKey": "work_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
       "fields": "creator",

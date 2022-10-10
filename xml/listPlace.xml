@@ -109,6 +109,7 @@
     <location>
       <geo>22.396428 114.109497</geo>
     </location>
+    <idno type="wikidata">q8646</idno>
   </place>
   <place xml:id="SP0021" type="PL">
     <placeName>Tianjin</placeName>
@@ -139,18 +140,21 @@
     <location>
       <geo>38.941441 115.969465</geo>
     </location>
+    <idno type="wikidata">q2665615</idno>
   </place>
   <place xml:id="SP0026" type="PL">
     <placeName>Breslau</placeName>
     <location>
       <geo>51.107885 17.038538</geo>
     </location>
+    <idno type="wikidata">q1799</idno>
   </place>
   <place xml:id="SP0027" type="PL">
     <placeName>Sheker</placeName>
     <location>
       <geo>42.544292 71.171379</geo>
     </location>
+    <idno type="wikidata">q2600970</idno>
   </place>
   <place xml:id="SP0028" type="PL">
     <placeName>Bolshoy Fontan</placeName>
@@ -175,6 +179,7 @@
     <location>
       <geo>36.735349 3.050374</geo>
     </location>
+    <idno type="wikidata">q2534015</idno>
   </place>
   <place xml:id="SP0032" type="PL">
     <placeName>Vonu</placeName>
@@ -265,6 +270,7 @@
     <location>
       <geo>60.1454 24.98814</geo>
     </location>
+    <idno type="wikidata">q1292442</idno>
   </place>
   <place xml:id="SP0047" type="PL">
     <placeName>La Côte-Saint-André</placeName>
@@ -331,6 +337,7 @@
     <location>
       <geo>43.825592 87.616848</geo>
     </location>
+    <idno type="wikidata">q16959</idno>
   </place>
   <place xml:id="SP0058" type="PL">
     <placeName>Xichang</placeName>
@@ -373,6 +380,7 @@
     <location>
       <geo>23.165614 116.210632</geo>
     </location>
+    <idno type="wikidata">q1025345</idno>
   </place>
   <place xml:id="SP0065" type="PL">
     <placeName>Yanting</placeName>
@@ -421,6 +429,7 @@
     <location>
       <geo>29.868336 121.54399</geo>
     </location>
+    <idno type="wikidata">q42780</idno>
   </place>
   <place xml:id="SP0073" type="PL">
     <placeName>Guangzhou</placeName>
@@ -445,6 +454,7 @@
     <location>
       <geo>36.6848 7.7511</geo>
     </location>
+    <idno type="wikidata">q1924629</idno>
   </place>
   <place xml:id="SP0077" type="PL">
     <placeName>Lanzhou</placeName>
@@ -553,6 +563,7 @@
     <location>
       <geo>30.541831166 114.32583203</geo>
     </location>
+    <idno type="wikidata">q1208250</idno>
   </place>
   <place xml:id="SP0095" type="PL">
     <placeName>Zhengzhou</placeName>
@@ -583,6 +594,7 @@
     <location>
       <geo>29.9978 119.7722</geo>
     </location>
+    <idno type="wikidata">q4970</idno>
   </place>
   <place xml:id="SP0100" type="PL">
     <placeName>Zhumadian</placeName>
@@ -613,6 +625,7 @@
     <location>
       <geo>51.227741 6.773456</geo>
     </location>
+    <idno type="wikidata">q1718</idno>
   </place>
   <place xml:id="SP0105" type="PL">
     <placeName>New Brunswick</placeName>
@@ -751,6 +764,7 @@
     <location>
       <geo>43.905601 42.728095</geo>
     </location>
+    <idno type="wikidata">q153676</idno>
   </place>
   <place xml:id="SP0128" type="PL">
     <placeName>Budapest</placeName>
@@ -775,6 +789,7 @@
     <location>
       <geo>37.070834 114.504677</geo>
     </location>
+    <idno type="wikidata">q58576</idno>
   </place>
   <place xml:id="SP0132" type="PL">
     <placeName>Linhe</placeName>
@@ -823,6 +838,7 @@
     <location>
       <geo>36.05627 115.590164</geo>
     </location>
+    <idno type="wikidata">q11092516</idno>
   </place>
   <place xml:id="SP0140" type="PL">
     <placeName>Fenyang</placeName>
@@ -835,6 +851,7 @@
     <location>
       <geo>38.351264 113.940554</geo>
     </location>
+    <idno type="wikidata">q3373621</idno>
   </place>
   <place xml:id="SP0142" type="PL">
     <placeName>Chadian</placeName>
@@ -853,6 +870,7 @@
     <location>
       <geo>50.4501 30.5234</geo>
     </location>
+    <idno type="wikidata">q1899</idno>
   </place>
   <place xml:id="SP0145" type="PL">
     <placeName>St. Louis</placeName>
@@ -865,6 +883,7 @@
     <location>
       <geo>48.936181 2.357443</geo>
     </location>
+    <idno type="wikidata">q160506</idno>
   </place>
   <place xml:id="SP0147" type="PL">
     <placeName>Wuppertal</placeName>
@@ -907,6 +926,7 @@
     <location>
       <geo>44.135246 125.977127</geo>
     </location>
+    <idno type="wikidata">q1015907</idno>
   </place>
   <place xml:id="SP0154" type="PL">
     <placeName>Linyi</placeName>
@@ -1135,6 +1155,7 @@
     <location>
       <geo>27.0875 114.9645</geo>
     </location>
+    <idno type="wikidata">q363262</idno>
   </place>
   <place xml:id="SP0192" type="PL">
     <placeName>Zhanhai</placeName>
@@ -1145,13 +1166,13 @@
   <place xml:id="SP0193" type="PL">
     <placeName>Nantong</placeName>
     <location>
-      <geo>32.014560 120.844510</geo>
+      <geo>32.01456 120.84451</geo>
     </location>
   </place>
   <place xml:id="SP0194" type="PL">
     <placeName>Chifeng</placeName>
     <location>
-      <geo>42.2579 118.948040</geo>
+      <geo>42.2579 118.94804</geo>
     </location>
   </place>
   <place xml:id="SP0195" type="PL">
@@ -1285,12 +1306,14 @@
     <location>
       <geo>54.069504 37.523205</geo>
     </location>
+    <idno type="wikidata">q749556</idno>
   </place>
   <place xml:id="SP0217" type="PL">
     <placeName>Welyki Sorotschynzi</placeName>
     <location>
       <geo>50.019808 33.941673</geo>
     </location>
+    <idno type="wikidata">q1666449</idno>
   </place>
   <place xml:id="SP0218" type="PL">
     <placeName>Votkinsk</placeName>
@@ -1399,6 +1422,7 @@
     <location>
       <geo>22.572646 88.363895</geo>
     </location>
+    <idno type="wikidata">q1348</idno>
   </place>
   <place xml:id="SP0236" type="PL">
     <placeName>Novospasovka</placeName>
@@ -1459,6 +1483,7 @@
     <location>
       <geo>42.647545 19.344489</geo>
     </location>
+    <idno type="wikidata">q3539772</idno>
   </place>
   <place xml:id="SP0246" type="PL">
     <placeName>Ramsgate</placeName>
@@ -1481,7 +1506,7 @@
   <place xml:id="SP0249" type="PL">
     <placeName>Strelkovka</placeName>
     <location>
-      <geo>55.002389 36731</geo>
+      <geo>55.002389 36731.0</geo>
     </location>
   </place>
   <place xml:id="SP0250" type="PL">
@@ -1639,6 +1664,7 @@
     <location>
       <geo>49.836316 36.681312</geo>
     </location>
+    <idno type="wikidata">q889618</idno>
   </place>
   <place xml:id="SP0276" type="PL">
     <placeName>Charleville</placeName>
@@ -1717,6 +1743,7 @@
     <location>
       <geo>54.36262 16.67836</geo>
     </location>
+    <idno type="wikidata">q161967</idno>
   </place>
   <place xml:id="SP0289" type="PL">
     <placeName>Zoucheng</placeName>
@@ -1729,6 +1756,7 @@
     <location>
       <geo>53.289514 26.099846</geo>
     </location>
+    <idno type="wikidata">q3493620</idno>
   </place>
   <place xml:id="SP0291" type="PL">
     <placeName>Atlanta</placeName>
@@ -1757,20 +1785,20 @@
   <place xml:id="SP0295" type="PL">
     <placeName>Horsham</placeName>
     <location>
-      <geo>51.063751 -0.327000</geo>
+      <geo>51.063751 -0.327</geo>
     </location>
   </place>
   <place xml:id="SP0296" type="PL">
     <placeName>Huzhou</placeName>
     <location>
-      <geo>30.872320 120.098053</geo>
+      <geo>30.87232 120.098053</geo>
     </location>
     <note>It’s old name was Wuxing.</note>
   </place>
   <place xml:id="SP0297" type="PL">
     <placeName>Jiangxi Province</placeName>
     <location>
-      <geo>27.285970 116.016090</geo>
+      <geo>27.28597 116.01609</geo>
     </location>
   </place>
   <place xml:id="SP0298" type="PL">
@@ -1784,12 +1812,14 @@
     <location>
       <geo>41.8781 87.6298</geo>
     </location>
+    <idno type="wikidata">q1297</idno>
   </place>
   <place xml:id="SP0300" type="PL">
     <placeName>Vyoshenskaya</placeName>
     <location>
       <geo>49.6316 41.7147</geo>
     </location>
+    <idno type="wikidata">q2637584</idno>
   </place>
   <place xml:id="SP0301" type="PL">
     <placeName>Hejin</placeName>
@@ -1820,6 +1850,7 @@
     <location>
       <geo>36.6777 121.6555</geo>
     </location>
+    <idno type="wikidata">q488125</idno>
   </place>
   <place xml:id="SP0306" type="PL">
     <placeName>Letychiv</placeName>
@@ -1959,6 +1990,7 @@
     <location>
       <geo>45.46362 9.18812</geo>
     </location>
+    <idno type="wikidata">q490</idno>
   </place>
   <place xml:id="SP0329" type="PL">
     <placeName>Leipzig</placeName>
@@ -1969,43 +2001,43 @@
   <place xml:id="SP0330" type="PL">
     <placeName>Zamość</placeName>
     <location>
-      <geo>50.717369 23.252760</geo>
+      <geo>50.717369 23.25276</geo>
     </location>
   </place>
   <place xml:id="SP0331" type="PL">
     <placeName>Laoting</placeName>
     <location>
-      <geo>22.887780 120.463560</geo>
+      <geo>22.88778 120.46356</geo>
     </location>
   </place>
   <place xml:id="SP0332" type="PL">
     <placeName>Pingchang</placeName>
     <location>
-      <geo>22.618220 120.566010</geo>
+      <geo>22.61822 120.56601</geo>
     </location>
   </place>
   <place xml:id="SP0333" type="PL">
     <placeName>Weddern</placeName>
     <location>
-      <geo>51.868540 7.307960</geo>
+      <geo>51.86854 7.30796</geo>
     </location>
   </place>
   <place xml:id="SP0334" type="PL">
     <placeName>Gallarta</placeName>
     <location>
-      <geo>43.320840 -3.072580</geo>
+      <geo>43.32084 -3.07258</geo>
     </location>
   </place>
   <place xml:id="SP0335" type="PL">
     <placeName>Shuiyuan county</placeName>
     <location>
-      <geo>23.849670 110.400830</geo>
+      <geo>23.84967 110.40083</geo>
     </location>
   </place>
   <place xml:id="SP0336" type="PL">
     <placeName>Ostrogozhsk</placeName>
     <location>
-      <geo>50.860790 39.082700</geo>
+      <geo>50.86079 39.0827</geo>
     </location>
   </place>
   <place xml:id="SP0337" type="PL">
@@ -2037,6 +2069,7 @@
     <location>
       <geo>52.229675 21.01223</geo>
     </location>
+    <idno type="wikidata">q270</idno>
   </place>
   <place xml:id="SP0342" type="PL">
     <placeName>Pescasseroli</placeName>
@@ -2047,32 +2080,34 @@
   <place xml:id="SP0343" type="PL">
     <placeName>Vinci</placeName>
     <location>
-      <geo>43.779850 10.923440</geo>
+      <geo>43.77985 10.92344</geo>
     </location>
   </place>
   <place xml:id="SP0344" type="PL">
     <placeName>Saint-Germain-en-Laye</placeName>
     <location>
-      <geo>48.898750 2.093590</geo>
+      <geo>48.89875 2.09359</geo>
     </location>
   </place>
   <place xml:id="SP0345" type="PL">
     <placeName>Baozhong Township</placeName>
     <location>
-      <geo>23.693290 120.308490</geo>
+      <geo>23.69329 120.30849</geo>
     </location>
   </place>
   <place xml:id="SP0346" type="PL">
     <placeName>Salamis Island</placeName>
     <location>
-      <geo>37.964210 23.496450</geo>
+      <geo>37.96421 23.49645</geo>
     </location>
+    <idno type="wikidata">q202422</idno>
   </place>
   <place xml:id="SP0347" type="PL">
     <placeName>Eleusis</placeName>
     <location>
-      <geo>38.043228 23.542120</geo>
+      <geo>38.043228 23.54212</geo>
     </location>
+    <idno type="wikidata">q204905</idno>
   </place>
   <place xml:id="SP0348" type="PL">
     <placeName>Yangjiang</placeName>
@@ -2107,7 +2142,7 @@
   <place xml:id="SP0353" type="PL">
     <placeName>Banzai</placeName>
     <location>
-      <geo>25.924480 118.278990</geo>
+      <geo>25.92448 118.27899</geo>
     </location>
   </place>
   <place xml:id="SP0354" type="PL">
@@ -2137,31 +2172,31 @@
   <place xml:id="SP0358" type="PL">
     <placeName>Wanzai</placeName>
     <location>
-      <geo>22.913870 120.335380</geo>
+      <geo>22.91387 120.33538</geo>
     </location>
   </place>
   <place xml:id="SP0359" type="PL">
     <placeName>Rugao</placeName>
     <location>
-      <geo>22.740240 120.490420</geo>
+      <geo>22.74024 120.49042</geo>
     </location>
   </place>
   <place xml:id="SP0360" type="PL">
     <placeName>Tschita</placeName>
     <location>
-      <geo>52.038610 113.504250</geo>
+      <geo>52.03861 113.50425</geo>
     </location>
   </place>
   <place xml:id="SP0361" type="PL">
     <placeName>Livorno</placeName>
     <location>
-      <geo>43.551891 10.307840</geo>
+      <geo>43.551891 10.30784</geo>
     </location>
   </place>
   <place xml:id="SP0362" type="PL">
     <placeName>Lavaur</placeName>
     <location>
-      <geo>43.698792 1.815010</geo>
+      <geo>43.698792 1.81501</geo>
     </location>
   </place>
   <place xml:id="SP0363" type="PL">
@@ -2179,25 +2214,25 @@
   <place xml:id="SP0365" type="PL">
     <placeName>Gerasimovka</placeName>
     <location>
-      <geo>52.704880 51.502810</geo>
+      <geo>52.70488 51.50281</geo>
     </location>
   </place>
   <place xml:id="SP0366" type="PL">
     <placeName>Ulm</placeName>
     <location>
-      <geo>48.399620 9.996610</geo>
+      <geo>48.39962 9.99661</geo>
     </location>
   </place>
   <place xml:id="SP0367" type="PL">
     <placeName>Zhongxiang</placeName>
     <location>
-      <geo>31.163680 112.579240</geo>
+      <geo>31.16368 112.57924</geo>
     </location>
   </place>
   <place xml:id="SP0368" type="PL">
     <placeName>Iserlohn</placeName>
     <location>
-      <geo>51.372971 7.699510</geo>
+      <geo>51.372971 7.69951</geo>
     </location>
   </place>
   <place xml:id="SP0369" type="PL">
@@ -2209,31 +2244,31 @@
   <place xml:id="SP0370" type="PL">
     <placeName>Gaoyou</placeName>
     <location>
-      <geo>32.779380 119.431730</geo>
+      <geo>32.77938 119.43173</geo>
     </location>
   </place>
   <place xml:id="SP0371" type="PL">
     <placeName>Swansea</placeName>
     <location>
-      <geo>51.621578 -3.943370</geo>
+      <geo>51.621578 -3.94337</geo>
     </location>
   </place>
   <place xml:id="SP0372" type="PL">
     <placeName>Коsа (Kosinsky District)</placeName>
     <location>
-      <geo>59.945370 54.991870</geo>
+      <geo>59.94537 54.99187</geo>
     </location>
   </place>
   <place xml:id="SP0373" type="PL">
     <placeName>Liling</placeName>
     <location>
-      <geo>27.650080 113.492325</geo>
+      <geo>27.65008 113.492325</geo>
     </location>
   </place>
   <place xml:id="SP0374" type="PL">
     <placeName>Pucheng (Shaanxi)</placeName>
     <location>
-      <geo>34.957000 109.580000</geo>
+      <geo>34.957 109.58</geo>
     </location>
   </place>
   <place xml:id="SP0375" type="PL">
@@ -2257,7 +2292,7 @@
   <place xml:id="SP0378" type="PL">
     <placeName>Yuxi</placeName>
     <location>
-      <geo>24.347300 102.5272</geo>
+      <geo>24.3473 102.5272</geo>
     </location>
   </place>
   <place xml:id="SP0379" type="PL">
@@ -2269,8 +2304,9 @@
   <place xml:id="SP0380" type="PL">
     <placeName>Gao’an</placeName>
     <location>
-      <geo>28.441000 115.361000</geo>
+      <geo>28.441 115.361</geo>
     </location>
+    <idno type="wikidata">q1229428</idno>
   </place>
   <place xml:id="SP0381" type="PL">
     <placeName>Jiangxi</placeName>
@@ -2281,49 +2317,49 @@
   <place xml:id="SP0382" type="PL">
     <placeName>Wuhe</placeName>
     <location>
-      <geo>33.128000 117.879000</geo>
+      <geo>33.128 117.879</geo>
     </location>
   </place>
   <place xml:id="SP0383" type="PL">
     <placeName>Shanyin</placeName>
     <location>
-      <geo>39.526200 112.817000</geo>
+      <geo>39.5262 112.817</geo>
     </location>
   </place>
   <place xml:id="SP0384" type="PL">
     <placeName>Xiangtan</placeName>
     <location>
-      <geo>27.780100 112.950600</geo>
+      <geo>27.7801 112.9506</geo>
     </location>
   </place>
   <place xml:id="SP0385" type="PL">
     <placeName>Yunlin</placeName>
     <location>
-      <geo>23.704890 120.476070</geo>
+      <geo>23.70489 120.47607</geo>
     </location>
   </place>
   <place xml:id="SP0386" type="PL">
     <placeName>Salzburg</placeName>
     <location>
-      <geo>47.809490 13.055010</geo>
+      <geo>47.80949 13.05501</geo>
     </location>
   </place>
   <place xml:id="SP0387" type="PL">
     <placeName>Riga</placeName>
     <location>
-      <geo>56.949650 24.105186</geo>
+      <geo>56.94965 24.105186</geo>
     </location>
   </place>
   <place xml:id="SP0388" type="PL">
     <placeName>Melitopol</placeName>
     <location>
-      <geo>46.850980 35.360400</geo>
+      <geo>46.85098 35.3604</geo>
     </location>
   </place>
   <place xml:id="SP0389" type="PL">
     <placeName>Sora (Lazio)</placeName>
     <location>
-      <geo>41.716670 13.617600</geo>
+      <geo>41.71667 13.6176</geo>
     </location>
   </place>
   <place xml:id="SP0390" type="PL">
@@ -2347,19 +2383,19 @@
   <place xml:id="SP0393" type="PL">
     <placeName>Kashiwazaki</placeName>
     <location>
-      <geo>37.367900 138.554530</geo>
+      <geo>37.3679 138.55453</geo>
     </location>
   </place>
   <place xml:id="SP0394" type="PL">
     <placeName>Gura Ocniței</placeName>
     <location>
-      <geo>44.941250 25.566050</geo>
+      <geo>44.94125 25.56605</geo>
     </location>
   </place>
   <place xml:id="SP0395" type="PL">
     <placeName>Zhenjiang</placeName>
     <location>
-      <geo>32.188000 119.424000</geo>
+      <geo>32.188 119.424</geo>
     </location>
   </place>
   <place xml:id="SP0396" type="PL">
@@ -2377,25 +2413,25 @@
   <place xml:id="SP0398" type="PL">
     <placeName>Fuyu</placeName>
     <location>
-      <geo>44.987000 126.02500</geo>
+      <geo>44.987 126.025</geo>
     </location>
   </place>
   <place xml:id="SP0399" type="PL">
     <placeName>Chusovoy</placeName>
     <location>
-      <geo>58.294050 57.824070</geo>
+      <geo>58.29405 57.82407</geo>
     </location>
   </place>
   <place xml:id="SP0400" type="PL">
     <placeName>Khotsimsk</placeName>
     <location>
-      <geo>53.408430 32.579370</geo>
+      <geo>53.40843 32.57937</geo>
     </location>
   </place>
   <place xml:id="SP0401" type="PL">
     <placeName>Liaoyuan</placeName>
     <location>
-      <geo>42.883333 125.150000</geo>
+      <geo>42.883333 125.15</geo>
     </location>
   </place>
   <place xml:id="SP0402" type="PL">
@@ -2407,13 +2443,13 @@
   <place xml:id="SP0403" type="PL">
     <placeName>Kherson Oblast</placeName>
     <location>
-      <geo>46.683010 33.409590</geo>
+      <geo>46.68301 33.40959</geo>
     </location>
   </place>
   <place xml:id="SP0404" type="PL">
     <placeName>Moryntsi</placeName>
     <location>
-      <geo>49.261360 31.000380</geo>
+      <geo>49.26136 31.00038</geo>
     </location>
   </place>
   <place xml:id="SP0405" type="PL">
@@ -2425,7 +2461,7 @@
   <place xml:id="SP0406" type="PL">
     <placeName>Saarbrücken</placeName>
     <location>
-      <geo>49.234779 6.994400</geo>
+      <geo>49.234779 6.9944</geo>
     </location>
   </place>
   <place xml:id="SP0407" type="PL">
@@ -2437,19 +2473,19 @@
   <place xml:id="SP0408" type="PL">
     <placeName>Luzarches</placeName>
     <location>
-      <geo>49.113230 2.422280</geo>
+      <geo>49.11323 2.42228</geo>
     </location>
   </place>
   <place xml:id="SP0409" type="PL">
     <placeName>Rimini</placeName>
     <location>
-      <geo>44.060921 12.566300</geo>
+      <geo>44.060921 12.5663</geo>
     </location>
   </place>
   <place xml:id="SP0410" type="PL">
     <placeName>Bobai</placeName>
     <location>
-      <geo>22.275800 109.972000</geo>
+      <geo>22.2758 109.972</geo>
     </location>
   </place>
   <place xml:id="SP0411" type="PL">
@@ -2467,7 +2503,7 @@
   <place xml:id="SP0413" type="PL">
     <placeName>Yantai</placeName>
     <location>
-      <geo>37.464400 121.447800</geo>
+      <geo>37.4644 121.4478</geo>
     </location>
   </place>
   <place xml:id="SP0414" type="PL">
@@ -2493,12 +2529,13 @@
     <location>
       <geo>33.555605 119.112818</geo>
     </location>
+    <idno type="wikidata">q57818</idno>
     <note>It’s old name was Huaiyin.</note>
   </place>
   <place xml:id="SP0418" type="PL">
     <placeName>Linhai</placeName>
     <location>
-      <geo>28.840000 121.110000</geo>
+      <geo>28.84 121.11</geo>
     </location>
   </place>
   <place xml:id="SP0419" type="PL">
@@ -2510,25 +2547,26 @@
   <place xml:id="SP0420" type="PL">
     <placeName>Jiner</placeName>
     <location>
-      <geo>31.615300 107.654000</geo>
+      <geo>31.6153 107.654</geo>
     </location>
   </place>
   <place xml:id="SP0421" type="PL">
     <placeName>Fuzhou</placeName>
     <location>
-      <geo>26.150000 119.283333</geo>
+      <geo>26.15 119.283333</geo>
     </location>
   </place>
   <place xml:id="SP0422" type="PL">
     <placeName>Wu’an</placeName>
     <location>
-      <geo>36.698000 114.203000</geo>
+      <geo>36.698 114.203</geo>
     </location>
+    <idno type="wikidata">q1375613</idno>
   </place>
   <place xml:id="SP0423" type="PL">
     <placeName>Xiangshan</placeName>
     <location>
-      <geo>29.475000 121.866000</geo>
+      <geo>29.475 121.866</geo>
     </location>
   </place>
   <place xml:id="SP0424" type="PL">
@@ -2546,43 +2584,44 @@
   <place xml:id="SP0426" type="PL">
     <placeName>Pingxiang</placeName>
     <location>
-      <geo>27.623000 113.854500</geo>
+      <geo>27.623 113.8545</geo>
     </location>
   </place>
   <place xml:id="SP0427" type="PL">
     <placeName>Rui’an</placeName>
     <location>
-      <geo>27.783333 120.625000</geo>
+      <geo>27.783333 120.625</geo>
     </location>
+    <idno type="wikidata">q713357</idno>
   </place>
   <place xml:id="SP0428" type="PL">
     <placeName>Tongcheng</placeName>
     <location>
-      <geo>31.035800 116.936700</geo>
+      <geo>31.0358 116.9367</geo>
     </location>
   </place>
   <place xml:id="SP0429" type="PL">
     <placeName>Taicang</placeName>
     <location>
-      <geo>31.564000 121.174000</geo>
+      <geo>31.564 121.174</geo>
     </location>
   </place>
   <place xml:id="SP0430" type="PL">
     <placeName>Donghai</placeName>
     <location>
-      <geo>34.552000 118.763000</geo>
+      <geo>34.552 118.763</geo>
     </location>
   </place>
   <place xml:id="SP0431" type="PL">
     <placeName>Wuyuan</placeName>
     <location>
-      <geo>29.248000 117.862000</geo>
+      <geo>29.248 117.862</geo>
     </location>
   </place>
   <place xml:id="SP0432" type="PL">
     <placeName>Enshi</placeName>
     <location>
-      <geo>30.291111 109.475000</geo>
+      <geo>30.291111 109.475</geo>
     </location>
   </place>
   <place xml:id="SP0433" type="PL">
@@ -2601,8 +2640,9 @@
   <place xml:id="SP0435" type="PL">
     <placeName>Pilsen</placeName>
     <location>
-      <geo>49.746841 13.376990</geo>
+      <geo>49.746841 13.37699</geo>
     </location>
+    <idno type="wikidata">q43453</idno>
   </place>
   <place xml:id="SP0436" type="PL">
     <placeName>unknown</placeName>
@@ -2645,9 +2685,11 @@
   </place>
   <place xml:id="SP0447" type="L">
     <placeName>Tian'anmen Square</placeName>
+    <idno type="wikidata">q164055</idno>
   </place>
   <place xml:id="SP0448" type="L">
     <placeName>Three Gorges Dam</placeName>
+    <idno type="wikidata">q12514</idno>
   </place>
   <place xml:id="SP0449" type="PL">
     <placeName>Bolivia</placeName>
@@ -2659,6 +2701,531 @@
     <placeName>Qingdao</placeName>
     <location>
       <geo>36.091930 120.328056</geo>
+    </location>
+  </place>
+  <place xml:id="SP0451" type="L">
+    <placeName>session of international intelligence experts</placeName>
+  </place>
+  <place xml:id="SP0452" type="L">
+    <placeName>rural middle school</placeName>
+  </place>
+  <place xml:id="SP0453" type="L">
+    <placeName>the State</placeName>
+  </place>
+  <place xml:id="SP0454" type="L">
+    <placeName>restaurant</placeName>
+  </place>
+  <place xml:id="SP0455" type="L">
+    <placeName>lecture hall</placeName>
+  </place>
+  <place xml:id="SP0456" type="L">
+    <placeName>zhang li river</placeName>
+  </place>
+  <place xml:id="SP0457" type="L">
+    <placeName>university</placeName>
+  </place>
+  <place xml:id="SP0458" type="PL">
+    <placeName>Alcalá de Henares</placeName>
+    <location>
+      <geo>40.481979 -3.363542</geo>
+    </location>
+  </place>
+  <place xml:id="SP0459" type="PL">
+    <placeName>Mumbai</placeName>
+    <location>
+      <geo>19.075983 72.877655</geo>
+    </location>
+  </place>
+  <place xml:id="SP0460" type="PL">
+    <placeName>Hwadae County</placeName>
+    <location>
+      <geo>40.848019 129.648393</geo>
+    </location>
+  </place>
+  <place xml:id="SP0461" type="PL">
+    <placeName>Tongxiang</placeName>
+    <location>
+      <geo>30.762080 120.750710</geo>
+    </location>
+  </place>
+  <place xml:id="SP0462" type="PL">
+    <placeName>Lgov</placeName>
+    <location>
+      <geo>51.692020 35.284620</geo>
+    </location>
+  </place>
+  <place xml:id="SP0463" type="PL">
+    <placeName>Tangyin</placeName>
+    <location>
+      <geo>35.914520 114.351500</geo>
+    </location>
+  </place>
+  <place xml:id="SP0464" type="PL">
+    <placeName>Kaifeng</placeName>
+    <location>
+      <geo>34.786072 114.348152</geo>
+    </location>
+  </place>
+  <place xml:id="SP0465" type="PL">
+    <placeName>Toronto</placeName>
+    <location>
+      <geo>43.653225 -79.383186</geo>
+    </location>
+  </place>
+  <place xml:id="SP0466" type="PL">
+    <placeName>Nîmes</placeName>
+    <location>
+      <geo>43.834591 4.360860</geo>
+    </location>
+  </place>
+  <place xml:id="SP0467" type="PL">
+    <placeName>Rostov Oblast</placeName>
+    <location>
+      <geo>47.221809 39.720261</geo>
+    </location>
+  </place>
+  <place xml:id="SP0468" type="PL">
+    <placeName>Dublin</placeName>
+    <location>
+      <geo>53.349804 -6.260310</geo>
+    </location>
+  </place>
+  <place xml:id="SP0469" type="PL">
+    <placeName>Compton</placeName>
+    <location>
+      <geo>50.472610 -3.598290</geo>
+    </location>
+  </place>
+  <place xml:id="SP0470" type="PL">
+    <placeName>Zhao County</placeName>
+    <location>
+      <geo>37.749130 114.768940</geo>
+    </location>
+  </place>
+  <place xml:id="SP0471" type="PL">
+    <placeName>Yangquan</placeName>
+    <location>
+      <geo>37.869968 113.570007</geo>
+    </location>
+  </place>
+  <place xml:id="SP0472" type="PL">
+    <placeName>Springdale</placeName>
+    <location>
+      <geo>40.541470 -79.777810</geo>
+    </location>
+  </place>
+  <place xml:id="SP0473" type="PL">
+    <placeName>Suqian</placeName>
+    <location>
+      <geo>30.187500 119.391670</geo>
+    </location>
+  </place>
+  <place xml:id="SP0474" type="PL">
+    <placeName>Fengxian</placeName>
+    <location>
+      <geo>34.697830 116.593643</geo>
+    </location>
+  </place>
+  <place xml:id="SP0475" type="PL">
+    <placeName>Haian</placeName>
+    <location>
+      <geo>32.548060 120.448600</geo>
+    </location>
+  </place>
+  <place xml:id="SP0476" type="PL">
+    <placeName>Huanggang</placeName>
+    <location>
+      <geo>24.934650 121.080240</geo>
+    </location>
+  </place>
+  <place xml:id="SP0477" type="PL">
+    <placeName>Wiesbaden</placeName>
+    <location>
+      <geo>50.078217 8.239761</geo>
+    </location>
+  </place>
+  <place xml:id="SP0478" type="PL">
+    <placeName>Zhucheng</placeName>
+    <location>
+      <geo>35.989960 119.380090</geo>
+    </location>
+  </place>
+  <place xml:id="SP0479" type="PL">
+    <placeName>Celle</placeName>
+    <location>
+      <geo>52.621922 10.078580</geo>
+    </location>
+  </place>
+  <place xml:id="SP0480" type="PL">
+    <placeName>Usmanka</placeName>
+    <location>
+      <geo>52.823940 51.698520</geo>
+    </location>
+  </place>
+  <place xml:id="SP0481" type="PL">
+    <placeName>Munich</placeName>
+    <location>
+      <geo>48.135124 11.581981</geo>
+    </location>
+  </place>
+  <place xml:id="SP0482" type="PL">
+    <placeName>Honolulu</placeName>
+    <location>
+      <geo>21.306944 -157.858337</geo>
+    </location>
+  </place>
+  <place xml:id="SP0483" type="PL">
+    <placeName>Wenzhou</placeName>
+    <location>
+      <geo>28.002701 120.647919</geo>
+    </location>
+  </place>
+  <place xml:id="SP0484" type="PL">
+    <placeName>Ningxiang</placeName>
+    <location>
+      <geo>28.277481 112.551888</geo>
+    </location>
+  </place>
+  <place xml:id="SP0485" type="PL">
+    <placeName>Zhejiang</placeName>
+    <location>
+      <geo>29.159849 120.326447</geo>
+    </location>
+  </place>
+  <place xml:id="SP0486" type="PL">
+    <placeName>Shantou</placeName>
+    <location>
+      <geo>23.360821 116.67749</geo>
+    </location>
+  </place>
+  <place xml:id="SP0487" type="PL">
+    <placeName>Haiphong</placeName>
+    <location>
+      <geo>20.844912 106.688087</geo>
+    </location>
+  </place>
+  <place xml:id="SP0488" type="PL">
+    <placeName>Guangxi</placeName>
+    <location>
+      <geo>23.64407 108.26651</geo>
+    </location>
+  </place>
+  <place xml:id="SP0489" type="PL">
+    <placeName>Nanyang</placeName>
+    <location>
+      <geo>32.990665 112.528305</geo>
+    </location>
+  </place>
+  <place xml:id="SP0490" type="PL">
+    <placeName>Motihari</placeName>
+    <location>
+      <geo>26.65617 84.918182</geo>
+    </location>
+  </place>
+  <place xml:id="SP0491" type="PL">
+    <placeName>Bunhill</placeName>
+    <location>
+      <geo>51.52709 -0.09683</geo>
+    </location>
+  </place>
+  <place xml:id="SP0492" type="PL">
+    <placeName>Tibet</placeName>
+    <location>
+      <geo>30.15336 88.787865</geo>
+    </location>
+  </place>
+  <place xml:id="SP0493" type="PL">
+    <placeName>Ljubljana</placeName>
+    <location>
+      <geo>46.056946 14.505752</geo>
+    </location>
+  </place>
+  <place xml:id="SP0494" type="PL">
+    <placeName>Souk Ahras</placeName>
+    <location>
+      <geo>36.28553 7.96276</geo>
+    </location>
+  </place>
+  <place xml:id="SP0495" type="PL">
+    <placeName>Woolsthorpe-by-Colsterworth</placeName>
+    <location>
+      <geo>52.809551 -0.6356</geo>
+    </location>
+  </place>
+  <place xml:id="SP0496" type="PL">
+    <placeName>Xuzhou</placeName>
+    <location>
+      <geo>34.26091 117.191078</geo>
+    </location>
+  </place>
+  <place xml:id="SP0497" type="PL">
+    <placeName>Jilin</placeName>
+    <location>
+      <geo>43.851921 126.548103</geo>
+    </location>
+  </place>
+  <place xml:id="SP0498" type="PL">
+    <placeName>Anqing</placeName>
+    <location>
+      <geo>30.49996 117.050003</geo>
+    </location>
+  </place>
+  <place xml:id="SP0499" type="PL">
+    <placeName>Illinois</placeName>
+    <location>
+      <geo>40.633125 -89.398529</geo>
+    </location>
+  </place>
+  <place xml:id="SP0500" type="PL">
+    <placeName>Minehead</placeName>
+    <location>
+      <geo>51.20554 -3.47895</geo>
+    </location>
+  </place>
+  <place xml:id="SP0501" type="PL">
+    <placeName>Glendale</placeName>
+    <location>
+      <geo>33.538559 -112.183701</geo>
+    </location>
+  </place>
+  <place xml:id="SP0502" type="PL">
+    <placeName>Cambridge</placeName>
+    <location>
+      <geo>52.205338 0.121817</geo>
+    </location>
+  </place>
+  <place xml:id="SP0503" type="PL">
+    <placeName>Funchal</placeName>
+    <location>
+      <geo>32.666931 -16.924055</geo>
+    </location>
+  </place>
+  <place xml:id="SP0504" type="PL">
+    <placeName>Bazentin</placeName>
+    <location>
+      <geo>50.030790 2.762410</geo>
+    </location>
+  </place>
+  <place xml:id="SP0505" type="PL">
+    <placeName>Venice</placeName>
+    <location>
+      <geo>45.440845 12.315515</geo>
+    </location>
+  </place>
+  <place xml:id="SP0506" type="PL">
+    <placeName>Bayman</placeName>
+    <location>
+      <geo>34.684990 67.298180</geo>
+    </location>
+  </place>
+  <place xml:id="SP0507" type="PL">
+    <placeName>Wugong</placeName>
+    <location>
+      <geo>25.065800 121.454870</geo>
+    </location>
+  </place>
+  <place xml:id="SP0508" type="PL">
+    <placeName>Lijiang</placeName>
+    <location>
+      <geo>26.799999 100.266579</geo>
+    </location>
+  </place>
+  <place xml:id="SP0509" type="PL">
+    <placeName>Langar</placeName>
+    <location>
+      <geo>52.903069 -0.924820</geo>
+    </location>
+  </place>
+  <place xml:id="SP0510" type="PL">
+    <placeName>Columbia</placeName>
+    <location>
+      <geo>34.000710 -81.034813</geo>
+    </location>
+  </place>
+  <place xml:id="SP0511" type="PL">
+    <placeName>Petrovichi</placeName>
+    <location>
+      <geo>55.355210 27.441310</geo>
+    </location>
+  </place>
+  <place xml:id="SP0512" type="PL">
+    <placeName>Verkhnie Aremzyani</placeName>
+    <location>
+      <geo>58.309220 68.590330</geo>
+    </location>
+  </place>
+  <place xml:id="SP0513" type="PL">
+    <placeName>Tengzhou</placeName>
+    <location>
+      <geo>22.686359 109.265228</geo>
+    </location>
+  </place>
+  <place xml:id="SP0514" type="PL">
+    <placeName>Landshut</placeName>
+    <location>
+      <geo>48.544193 12.146853</geo>
+    </location>
+  </place>
+  <place xml:id="SP0515" type="PL">
+    <placeName>Meßkirch</placeName>
+    <location>
+      <geo>47.993210 9.114220</geo>
+    </location>
+  </place>
+  <place xml:id="SP0516" type="PL">
+    <placeName>Yongle</placeName>
+    <location>
+      <geo>34.530450 108.931680</geo>
+    </location>
+  </place>
+  <place xml:id="SP0517" type="PL">
+    <placeName>'s-Hertogenbosch</placeName>
+    <location>
+      <geo>51.697815 5.303675</geo>
+    </location>
+  </place>
+  <place xml:id="SP0518" type="PL">
+    <placeName>Knoxville</placeName>
+    <location>
+      <geo>35.960636 -83.920738</geo>
+    </location>
+  </place>
+  <place xml:id="SP0519" type="PL">
+    <placeName>Yixing</placeName>
+    <location>
+      <geo>24.060390 120.534286</geo>
+    </location>
+  </place>
+  <place xml:id="SP0520" type="PL">
+    <placeName>Circle</placeName>
+    <location>
+      <geo>47.416359 -105.588440</geo>
+    </location>
+  </place>
+  <place xml:id="SP0521" type="PL">
+    <placeName>Oxford</placeName>
+    <location>
+      <geo>51.752022 -1.257726</geo>
+    </location>
+  </place>
+  <place xml:id="SP0522" type="PL">
+    <placeName>Siracusa</placeName>
+    <location>
+      <geo>37.066170 15.284260</geo>
+    </location>
+  </place>
+  <place xml:id="SP0523" type="PL">
+    <placeName>Bordeaux</placeName>
+    <location>
+      <geo>44.837788 -0.579180</geo>
+    </location>
+  </place>
+  <place xml:id="SP0524" type="PL">
+    <placeName>Basel</placeName>
+    <location>
+      <geo>47.559601 7.588576</geo>
+    </location>
+  </place>
+  <place xml:id="SP0525" type="PL">
+    <placeName>Rotterdam</placeName>
+    <location>
+      <geo>51.924419 4.477733</geo>
+    </location>
+  </place>
+  <place xml:id="SP0526" type="PL">
+    <placeName>Kyrgyztan</placeName>
+    <location>
+      <geo>42.869961 74.569962</geo>
+    </location>
+  </place>
+  <place xml:id="SP0527" type="PL">
+    <placeName>Yongji</placeName>
+    <location>
+      <geo>39.480068 125.515129</geo>
+    </location>
+  </place>
+  <place xml:id="SP0528" type="PL">
+    <placeName>Xiangyang</placeName>
+    <location>
+      <geo>32.017342 112.149147</geo>
+    </location>
+  </place>
+  <place xml:id="SP0529" type="PL">
+    <placeName>Brody</placeName>
+    <location>
+      <geo>51.024052 21.204910</geo>
+    </location>
+  </place>
+  <place xml:id="SP0530" type="PL">
+    <placeName>Kirkcaldy</placeName>
+    <location>
+      <geo>56.112831 -3.160730</geo>
+    </location>
+  </place>
+  <place xml:id="SP0531" type="PL">
+    <placeName>Toruń</placeName>
+    <location>
+      <geo>53.015331 18.605700</geo>
+    </location>
+  </place>
+  <place xml:id="SP0532" type="PL">
+    <placeName>Pisa</placeName>
+    <location>
+      <geo>43.722839 10.401689</geo>
+    </location>
+  </place>
+  <place xml:id="SP0533" type="PL">
+    <placeName>Newington Butts</placeName>
+    <location>
+      <geo>51.491470 -0.102810</geo>
+    </location>
+  </place>
+  <place xml:id="SP0534" type="PL">
+    <placeName>Hynčice</placeName>
+    <location>
+      <geo>50.623990 16.287360</geo>
+    </location>
+  </place>
+  <place xml:id="SP0535" type="PL">
+    <placeName>Mainz</placeName>
+    <location>
+      <geo>49.992863 8.247253</geo>
+    </location>
+  </place>
+  <place xml:id="SP0536" type="PL">
+    <placeName>Kesswill</placeName>
+    <location>
+      <geo>47.593730 9.315990</geo>
+    </location>
+  </place>
+  <place xml:id="SP0537" type="PL">
+    <placeName>Takaoka</placeName>
+    <location>
+      <geo>36.754139 137.016693</geo>
+    </location>
+  </place>
+  <place xml:id="SP0538" type="PL">
+    <placeName>Himi</placeName>
+    <location>
+      <geo>36.855652 136.984283</geo>
+    </location>
+  </place>
+  <place xml:id="SP0539" type="PL">
+    <placeName>Kirriemuir</placeName>
+    <location>
+      <geo>56.674011 -3.004970</geo>
+    </location>
+  </place>
+  <place xml:id="SP0540" type="PL">
+    <placeName>Mountain View</placeName>
+    <location>
+      <geo>37.386051 -122.083855</geo>
+    </location>
+  </place>
+  <place xml:id="SP0541" type="PL">
+    <placeName>South Yarra</placeName>
+    <location>
+      <geo>-37.840000 144.988998</geo>
     </location>
   </place>
   <place xml:id="SP1000" type="PL">

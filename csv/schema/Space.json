@@ -1,6 +1,8 @@
 {
-  "fields": [{
+  "fields": [
+    {
       "name": "space_id",
+      "description": "The space_id of the space to which the entity belongs to.",
       "type": "string",
       "constraints": {
         "required": true,
@@ -12,18 +14,14 @@
     {
       "name": "old_id",
       "description": "id from previous id schema",
+      "type": "string",
       "constraints": {
         "required": false
       }
     },
     {
-      "name": "space_name",
-      "constraints": {
-        "required": true
-      }
-    },
-    {
       "name": "space_type",
+      "description": "PL for place, L for locations (with NULL coordinates)",
       "type": "string",
       "constraints": {
         "required": true,
@@ -31,7 +29,16 @@
       }
     },
     {
-      "name": "name_lang",
+      "name": "space_name",
+      "description": "The name of the spatial entity.",
+      "type": "string",
+      "constraints": {
+        "unique": true,
+        "required": true        
+      }
+    },
+    {
+      "name": "language",
       "description": "structural entry for key resolution",
       "type": "string",
       "constraints": {
@@ -54,8 +61,18 @@
       }
     },
     {
+      "name": "wikidata_id",
+      "description": "Wikidata id of spatial entity",
+      "type": "string",
+      "constraints": {
+        "required": false,
+        "pattern": "^(Q[0-9]+)*"
+      }
+    },
+    {
       "name": "note",
       "description": "structural entry for internal notes",
+      "type": "string",
       "constraints": {
         "required": false
       }
@@ -74,7 +91,7 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     },
     {
@@ -91,15 +108,17 @@
       "type": "string",
       "constraints": {
         "required": true,
-        "pattern": "[A-Z]{2}"
+        "pattern": "[A-Z]{2}|ReadActor"
       }
     }
   ],
   "primaryKey": "space_id",
-  "missingValues": [""],
+  "missingValues": [
+    ""
+  ],
   "foreignKeys": [
     {
-      "fields": "name_lang",
+      "fields": "language",
       "reference": {
         "resource": "iso-lang-code",
         "fields": "iso_code"

@@ -18,15 +18,19 @@ declare variable $social-position := csv:csv-to-xml('../../csv/data/SocialPositi
 declare function local:listPers($persons as node()*) as item()* {
     element {fn:QName('http://www.tei-c.org/ns/1.0', 'listPerson')} {
         let $distinct := distinct-values($persons//person_id)
-
+        
         for $p in $distinct
         let $path := $persons//person_id[. = $p]
         let $sex := lower-case($path[1]/../sex)
+        let $wikidataid := $agent//agent_id[. = $p]/../wikidata_id/text()
+        let $fictionality := upper-case($agent//agent_id[. =$p]/../fictionality/text())
             order by $p
-
+        
         return
             element {fn:QName('http://www.tei-c.org/ns/1.0', 'person')} {
                 attribute xml:id {data($p)},
+                (: TODO see https://github.com/TEIC/TEI/issues/2180 should be @type not @ana :)
+                if ($fictionality eq 'F') then (attribute ana {'fictional'}) else (),
                 switch ($sex)
                     case 'male'
                         return
@@ -43,7 +47,7 @@ declare function local:listPers($persons as node()*) as item()* {
             return
                 (: Name :)
                 element {fn:QName('http://www.tei-c.org/ns/1.0', 'persName')} {
-                    attribute xml:lang {$nom/../name_lang},
+                    attribute xml:lang {$nom/../language},
                     attribute type {'main'},
                     element {fn:QName('http://www.tei-c.org/ns/1.0', 'surname')} {$nom/../family_name/string()},
                     if ($nom/../first_name)
@@ -56,12 +60,16 @@ declare function local:listPers($persons as node()*) as item()* {
             return
                 if ($nym/../alt_name) then
                     (element {fn:QName('http://www.tei-c.org/ns/1.0', 'persName')} {
-                        attribute xml:lang {$nym/../name_lang},
+                        attribute xml:lang {$nym/../language},
                         attribute type {'alias'},
                         $nym/../alt_name/string()
                     })
                 else
                     (),
+            (: external IDs :)
+            if ($wikidataid ne '')
+            then (element {fn:QName('http://www.tei-c.org/ns/1.0', 'idno')} { attribute type {'wikidata'}, $wikidataid })
+            else (),
             (: Lifedates :)
             if ($path/../birthyear)
             then
@@ -115,7 +123,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-
+                    
                     if ($r/../rustication_end)
                     then
                         (let $map := csv:edtf($r/../rustication_end, 'to')
@@ -123,7 +131,7 @@ declare function local:listPers($persons as node()*) as item()* {
                             attribute {map:keys($map)} {$map(map:keys($map))})
                     else
                         (),
-
+                    
                     if ($r/../place_of_rust)
                     then
                         (attribute where {'#' || distinct-values($r/../place_of_rust)})

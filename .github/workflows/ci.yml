@@ -1,13 +1,49 @@
 name: CI
-on: [push, pull_request]
+on: 
+  push:
+  pull_request:
+  schedule: 
+    - cron: "40 8 * * 1"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2        
+      - uses: actions/checkout@v3        
       - name: Install Build Dependencies
-        run: sudo apt-get install basex
+        run: | 
+          sudo apt-get update 
+          sudo apt-get install -y basex libxml2-utils 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip
+      - name: Use pip Cache  
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python tools
+        run: pip install ReadActor pandas frictionless csvkit    
+      - name: Validate input CSV Files
+        working-directory: csv
+        run: frictionless validate datapackage.json        
+      - name: Update Space
+        working-directory: csv/data/
+        run: readactor Space.csv
+      - name: Update Person
+        working-directory: csv/data/
+        run: readactor Person.csv
+      - name: Update Institution
+        working-directory: csv/data/
+        run: readactor Institution.csv
+      - name: Validate Ouput CSV Files
+        working-directory: csv
+        run: frictionless validate datapackage.json           
       - name: Generate XML Files
         run: |
           basex xml/modules/tei-bibl.xq > xml/listBibl.xml
@@ -16,72 +52,37 @@ jobs:
           basex xml/modules/tei-place.xq > xml/listPlace.xml
           basex xml/modules/tei-relation.xq > xml/listRelation.xml
           basex xml/modules/social-network.xq > xml/rActs.gexf
+      - name: Validate XML Files
+        run: | 
+          xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
+          xmllint --noout --relaxng xml/schema/gexf.rng xml/rActs.gexf        
       - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: markup-xi
           path: |
             xml/*.xml
-            xml/*.gexf  
-  test:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1    
-      - name: Setup Python
-        uses: actions/setup-python@v2.2.2
-        with:
-          python-version: 3.9
-      - name: Use pip Cache  
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-        
-      - name: Install Test Dependencies
-        run: | 
-          sudo apt-get install libxml2-utils 
-          pip install frictionless csvkit
-      - name: Validate CSV Files
-        working-directory: csv
-        run: frictionless validate datapackage.json    
-      - name: Download Artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: markup-xi
-          path: xml  
-      - name: Display Downloaded Artifacts
-        run: ls -R
-      - name: Validate XML Files
-        run: | 
-          xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
-          xmllint --noout --relaxng xml/schema/gexf.rng xml/rActs.gexf         
+            xml/*.gexf         
   release:
     runs-on: ubuntu-latest
-    needs: test
+    needs: build
     if: github.ref == 'refs/heads/master'
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
+        uses: actions/checkout@v3
       - name: Install Release Dependencies
         run: |
-          sudo apt-get install basex
+          sudo apt-get install -y basex
           docker pull duncdrum/textql:alpine
       - name: Download Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: markup-xi
           path: xml  
       - name: Update csv view data
         run: |
-          docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.title_lang != 'zh' and ps.title_lang != 'zh-Latn-pinyin' and a.act_object!='W0414'" csv/data/
-          docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.title_lang = a.id_lang and a.act_object!='W0554'" csv/data/
+          docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view01a_txt-titles.csv -header -sql "select distinct a.act_id, a.act_object, ps.title from Act a, PrimarySource ps inner join PrimarySource on a.act_object = ps.prim_source_id  where ps.language != 'zh' and ps.language != 'zh-Latn-pinyin' and a.act_object!='W0414'" csv/data/
+          docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view01b_art-titles.csv -header -sql "select distinct a.act_id, a.act_object, aw.title from Act a, ArtWork aw inner join ArtWork on a.act_object = aw.artwork_id  where aw.language = a.language and a.act_object!='W0554'" csv/data/
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view02_creator-matrix.csv -header -sql "select distinct a.act_id, a.act_object, w.creator, (select distinct ps.title from PrimarySource ps where a.act_object = ps.prim_source_id) as title, (select distinct coalesce(p.family_name, '') || ' ' || coalesce(p.first_name, '') from Person p where w.creator = p.person_id) as name from Act a, Work w inner join Work on a.act_object = w.work_id where a.act_object!='W0414'" csv/data/
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view03a_reader-author-nodes.csv -header -sql "select distinct a.agent_id as node_id from Agent a" csv/data/
           docker run --rm -t -v $(pwd):/tmp duncdrum/textql:alpine -output-header -output-file csv/views/view03b_reader-author-edges.csv -header -sql "select distinct a.act_id, a.agent as source, w.creator as target from Act a, Work w inner join Work on a.act_object = w.work_id" csv/data/
@@ -91,6 +92,6 @@ jobs:
         run: git status  
       - name: Commit and Push
       # see https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
-        uses: actions-x/commit@v2
+        uses: actions-x/commit@v6
         with:
           message: "[skip ci] SimaBot"

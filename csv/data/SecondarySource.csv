@@ -1,211 +1,324 @@
-sec_source_id,title,subtitle,title_lang,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,note,created,created_by,last_modified,last_modified_by
-W0418,Red Sorrow,A Memoir,en,G03,SP0005,2001,Arcade Publishing,,,,,0,,2017-07-12,OS,2020-04-08,DP
-W0419,漫长的假期,,zh,G03,SP0004,2009,Sanlian shudian,,,W0431,,563-585,,2017-07-12,OS,2020-04-08,DP
-W0419,Endless Holidays,,en,G03,SP0005,2009,Sanlian shudian,,,W0431,,563-585,,2017-07-12,OS,2021-08-12,DP
-W0420,Walking on the Stream of History,,en,G03,SP0004,2006,Shehui kexue luntan,,,,,,,2017-07-12,OS,2020-04-08,DP
-W0420,行走在历史的河流,,zh,G03,SP0004,2006,Shehui kexue luntan,,,,,,,2017-07-12,OS,2020-04-08,DP
+sec_source_id,title,subtitle,language,genre,publication_place,publication_date,publishing_house,first_chin_edition,neibu,source,serial,page,note,created,created_by,last_modified,last_modified_by
+W0418,Red Sorrow,A Memoir,en,G44,SP0005,2001,Arcade Publishing,,,,,0,,2017-07-12,OS,2020-04-08,DP
+W0419,Endless Holidays,,en,G44,SP0005,2009,Sanlian shudian,,,W0431,,563-585,,2017-07-12,OS,2021-08-12,DP
+W0419,漫长的假期,,zh,G44,SP0004,2009,Sanlian shudian,,,W0431,,563-585,,2017-07-12,OS,2020-04-08,DP
+W0420,Walking on the Stream of History,,en,G44,SP0004,2006,Shehui kexue luntan,,,,,,,2017-07-12,OS,2020-04-08,DP
+W0420,行走在历史的河流,,zh,G44,SP0004,2006,Shehui kexue luntan,,,,,,,2017-07-12,OS,2020-04-08,DP
 W0421,韩少功,知青与寻根,zh,G22,SP0004,2013,Xinmin zhoukan,,,,,,,2017-07-12,OS,2020-04-08,DP
 W0421,Han Shaogong,Zhiqing yu xungen,zh-Latn-pinyin,G22,SP0004,2013,Xinmin zhoukan,,,,,,,2017-07-12,OS,2020-04-08,DP
-W0422,Ma Jia fangtan lu,,en,G03,SP0093,,,,,W0432,,216-235,,2017-07-12,OS,2020-04-08,DP
-W0422,马佳访谈录,,zh,G03,SP0436,,,,,W0432,,216-235,,2017-07-12,OS,2020-04-08,DP
+W0422,Ma Jia fangtan lu,,en,G44,SP0093,,,,,W0432,,216-235,,2017-07-12,OS,2020-04-08,DP
+W0422,马佳访谈录,,zh,G44,SP0436,,,,,W0432,,216-235,,2017-07-12,OS,2020-04-08,DP
 W0423,1960-70年代前朦胧诗的发生探源,,zh,G19,SP0053,2014,Yangzi hong pinglun,,,,,,,2017-07-12,OS,2020-04-08,DP
 W0423,1960-1970 niandai qian menglongshi de fasheng tanyuan,,zh-Latn-pinyin,G19,SP0053,2014,Yangzi hong pinglun,,,,,,,2017-07-12,OS,2020-04-08,DP
-W0424,無題往事,,zh,G03,SP0436,,,,,W0432,,153-176,,2017-07-12,OS,2020-04-08,DP
-W0424,Wuti wangshi,,zh-Latn-pinyin,G03,SP0436,,,,,W0432,,153-176,,2017-07-12,OS,2020-04-08,DP
-W0425,"Life,  Books and Poems",,en,G03,SP0093,,,,,W0432,,297-307,,2017-07-19,LH,2020-04-08,DP
-W0425,生活、书籍与诗歌,,zh,G03,SP0436,,,,,W0432,,297-307,,2017-07-19,LH,2020-04-08,DP
-W0426,I Almost Killed Someone That Year,,en,G03,SP0104,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
-W0426,那年我差点杀人,,zh,G03,SP0436,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
-W0427,Trivia at Beijing No. 4 High School,,en,G03,SP0105,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
-W0427,春色谁为主，南北东西路——四中琐记,,zh,G03,SP0436,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
-W0428,‘Meeting by Chance’,Memories of Books and the Reading in my Memories,en,G03,SP0004,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-08,DP
-W0428,"""不期而遇""",对书的记忆与记忆中的读书,zh,G03,SP0004,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-08,DP
-W0429,The Literary Inquisition of ‘The Second Handshake’,,en,G03,SP0005,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-08,DP
-W0429,《第二次握手》文字狱,,zh,G02,SP0005,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-08,DP
-W0430,Dreams and Reminiscences,,en,G03,SP0112,,,,,W0431,,441-456,,2017-08-08,MG,2020-04-08,DP
-W0430,梦想与回忆,,zh,G03,SP0436,,,,,W0431,,441-456,,2017-08-08,MG,2020-04-08,DP
-W0431,The Seventies,,en,G03,SP0005,2009,Sanlian shudian,,,,,,,2017-08-07,MG,2020-04-08,DP
-W0431,七十年代,,zh,G03,SP0005,2009,Sanlian shudian,,,,,,,2017-08-07,MG,2020-04-08,DP
-W0432,A Sunken Holy Place,,en,G02,SP0053,1999,Xinjiang qingshaonian chubanshe,,,,,,,2017-08-11,MG,2020-04-08,DP
-W0432,沉沦的圣殿,,zh,G02,SP0053,1999,Xinjiang qingshaonian chubanshe,,,,,,,2017-08-11,MG,2020-04-08,DP
+W0424,無題往事,,zh,G44,SP0436,,,,,W0432,,153-176,,2017-07-12,OS,2020-04-08,DP
+W0424,Wuti wangshi,,zh-Latn-pinyin,G44,SP0436,,,,,W0432,,153-176,,2017-07-12,OS,2020-04-08,DP
+W0425,"Life, Books and Poems",,en,G44,SP0093,,,,,W0432,,297-307,,2017-07-19,LH,2020-04-08,DP
+W0425,生活、书籍与诗歌,,zh,G44,SP0436,,,,,W0432,,297-307,,2017-07-19,LH,2020-04-08,DP
+W0426,I Almost Killed Someone That Year,,en,G44,SP0104,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
+W0426,那年我差点杀人,,zh,G44,SP0436,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem48.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
+W0427,Trivia at Beijing No. 4 High School,,en,G44,SP0105,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
+W0427,春色谁为主，南北东西路——四中琐记,,zh,G44,SP0436,2011,Remembrance,2011,no,http://www.xujuneberlein.com/rem72.html,,ONLINE SOURCE,,2017-07-27,LH,2020-04-08,DP
+W0428,‘Meeting by Chance’,Memories of Books and the Reading in my Memories,en,G44,SP0004,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-08,DP
+W0428,"""不期而遇""",对书的记忆与记忆中的读书,zh,G44,SP0004,2012,Dushu,2012,no,,"2012,09",116-125,,2017-07-28,LH,2020-04-08,DP
+W0429,The Literary Inquisition of ‘The Second Handshake’,,en,G44,SP0005,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-08,DP
+W0429,《第二次握手》文字狱,,zh,G43,SP0005,1999,Zhongguo shehui chubanshe,1999,no,,,,,2017-08-01,LH,2020-04-08,DP
+W0430,Dreams and Reminiscences,,en,G44,SP0112,,,,,W0431,,441-456,,2017-08-08,MG,2020-04-08,DP
+W0430,梦想与回忆,,zh,G44,SP0436,,,,,W0431,,441-456,,2017-08-08,MG,2020-04-08,DP
+W0431,The Seventies,,en,G44,SP0005,2009,Sanlian shudian,,,,,,,2017-08-07,MG,2020-04-08,DP
+W0431,七十年代,,zh,G44,SP0005,2009,Sanlian shudian,,,,,,,2017-08-07,MG,2020-04-08,DP
+W0432,A Sunken Holy Place,,en,G43,SP0053,1999,Xinjiang qingshaonian chubanshe,,,,,,,2017-08-11,MG,2020-04-08,DP
+W0432,沉沦的圣殿,,zh,G43,SP0053,1999,Xinjiang qingshaonian chubanshe,,,,,,,2017-08-11,MG,2020-04-08,DP
 W0433,The Story of Translators,,en,G43,SP0117,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,2017-09-06,CW,2020-04-08,DP
 W0433,翻译家的故事,,zh,G43,SP0436,2010,Remembrance,2010,no,http://www.xujuneberlein.com/rem51.html,,ONLINE SOURCE,,2017-09-06,CW,2020-04-08,DP
 W0434,The Uses of Literature,Life in the Socialist Chinese Literary System,en,G19,SP0053,2000,Princeton Univ. Press,,,,,,,2017-09-22,MG,2020-04-08,DP
 W0435,A Glance at the Underground Reading Movement During the Cultural Revolution,,en,G19,SP0053,2007,Journal of Contemporary China,,,,Vol 16:51,325-333,,2017-10-09,MG,2020-04-08,DP
 W0436,Memorial for Not Forgetting,Remembering My Friend Zhu Shixian,en,G19,SP0268,2010-07-15,Remembrance,,,,No 53,,,2017-10-09,MG,2020-04-08,DP
 W0436,为了不忘却的纪念,忆难友朱时贤,zh,G19,SP0436,2010-07-15,Remembrance,,,,No 53,,,2017-10-09,MG,2020-04-08,DP
-W0437,Wren Makes Nestle in This Branch,,en,G03,SP0005,2009,Sanlian shudian,,,W0431,,493-506,,2017-11-08,MG,2020-04-08,DP
-W0437,鹪鹩巢于这一枝,,zh,G03,SP0005,2009,Sanlian shudian,,,W0431,,493-506,,2017-11-08,MG,2020-04-08,DP
-W0438,The Predawn Agitation,,en,G03,SP0004,2009,Sanlian shudian,,,W0431,,187-201,,2017-11-08,MG,2020-04-08,DP
-W0438,黎明前的跃动,,zh,G03,SP0005,2009,Sanlian shudian,,,W0431,,187-201,,2017-11-08,MG,2020-04-08,DP
-W0439,The Legend of Taiyang Zongdui and Others,,en,G02,SP0327,,,,,W0432,,30-52,,2017-12-13,MG,2020-04-08,DP
-W0439,太阳纵队传说及其他,,zh,G02,SP0436,,,,,W0432,,30-52,,2017-12-13,MG,2020-04-08,DP
-W0440,China,Mein Traum mein Leben,de,G03,SP0053,1994,ECON,,,,,,,2017-12-13,MG,2020-04-08,DP
-W0441,The Buried Chinese Poets (1972-1978),,en,G03,SP0436,,,,,W0432,,195-202,,2017-12-13,MG,2020-04-08,DP
-W0441,被埋葬的中国诗人,,zh,G03,SP0436,,,,,W0432,,195-202,,2017-12-13,MG,2020-04-08,DP
-W0442,A Transcript of the Interview with Peng Gang and Mang Ke,,en,G02,SP0436,,,,,W0432,,183-194,,2017-12-13,MG,2020-04-08,DP
-W0442,彭刚 芒克访谈录,,zh,G02,SP0436,,,,,W0432,,183-194,,2017-12-13,MG,2020-04-08,DP
-W0443,Second Older Brother,The Absurd Life of Torturing and Being Tortured,en,G03,SP0436,2010-08-15,Remembrance,,,,No 55,,,2017-12-13,MG,2020-04-08,DP
-W0443,二哥,折腾与被折腾的荒诞人生,zh,G03,SP0436,2010-08-15,Remembrance,,,,No 55,,,2017-12-13,MG,2020-04-08,DP
-W0444,This Is a Miracle,Writing Prologue for Shamo's Somewhere Deep in My Heart,en,G03,SP0436,2010-06-15,Remembrance,,,,No 51,,,2017-12-13,MG,2020-04-08,DP
-W0444,这是一个奇迹,为沙漠 我心深处 序,zh,G03,SP0436,2010-06-15,Remembrance,,,,No 51,,,2017-12-13,MG,2020-04-08,DP
-W0445,Confessions of a Mother,,en,G03,SP0436,2010,Yanhuang Chunqiu Zazhi,,,,No 01,,,2017-12-13,MG,2020-04-08,DP
-W0445,一个母亲的忏悔,,zh,G03,SP0436,2010,Yanhuang Chunqiu Zazhi,,,,No 01,,,2017-12-13,MG,2020-04-08,DP
-W0446,The Bloody Flowering Season,,en,G03,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-13,MG,2020-04-08,DP
-W0446,血腥的花季,,zh,G03,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-13,MG,2020-04-08,DP
-W0447,How I Was Made Into a Strictly Treated Object,,en,G03,SP0436,2010-09-13,Remembrance,,,,No 57,,,2017-12-13,MG,2020-04-08,DP
-W0447,我怎样被炮制成 从严对象,,zh,G03,SP0436,2010-09-13,Remembrance,,,,No 57,,,2017-12-13,MG,2020-04-08,DP
-W0448,Some of us,Chinese Women Growing up in the Mao era,en,G03,SP0053,2001,Rutgers Univ. Press,,,,,,,2017-12-17,MG,2020-04-08,DP
-W0449,Mao,The Real Story,en,G02,SP0005,2012,Simon & Schuster,,,,,784,,2017-12-23,OS,2020-04-08,DP
-W0450,The Best Friend of That Time,,en,G03,SP0436,,,,,W0432,,203-215,,2017-12-29,OS,2020-04-08,DP
-W0450,当年最好的朋友,,zh,G03,SP0436,,,,,W0432,,203-215,,2017-12-29,OS,2020-04-08,DP
-W0451,Born Red,A Chronicle of the Cultural Revolution,en,G03,SP0057,1987,Stanford University Press,,,,,416,,2017-12-29,OS,2020-04-08,DP
+W0437,Wren Makes Nestle in This Branch,,en,G44,SP0005,2009,Sanlian shudian,,,W0431,,493-506,,2017-11-08,MG,2020-04-08,DP
+W0437,鹪鹩巢于这一枝,,zh,G44,SP0005,2009,Sanlian shudian,,,W0431,,493-506,,2017-11-08,MG,2020-04-08,DP
+W0438,The Predawn Agitation,,en,G44,SP0004,2009,Sanlian shudian,,,W0431,,187-201,,2017-11-08,MG,2020-04-08,DP
+W0438,黎明前的跃动,,zh,G44,SP0005,2009,Sanlian shudian,,,W0431,,187-201,,2017-11-08,MG,2020-04-08,DP
+W0439,The Legend of Taiyang Zongdui and Others,,en,G43,SP0327,,,,,W0432,,30-52,,2017-12-13,MG,2020-04-08,DP
+W0439,太阳纵队传说及其他,,zh,G43,SP0436,,,,,W0432,,30-52,,2017-12-13,MG,2020-04-08,DP
+W0440,China,Mein Traum mein Leben,de,G44,SP0053,1994,ECON,,,,,,,2017-12-13,MG,2020-04-08,DP
+W0441,The Buried Chinese Poets (1972-1978),,en,G44,SP0436,,,,,W0432,,195-202,,2017-12-13,MG,2020-04-08,DP
+W0441,被埋葬的中国诗人,,zh,G44,SP0436,,,,,W0432,,195-202,,2017-12-13,MG,2020-04-08,DP
+W0442,A Transcript of the Interview with Peng Gang and Mang Ke,,en,G43,SP0436,,,,,W0432,,183-194,,2017-12-13,MG,2020-04-08,DP
+W0442,彭刚 芒克访谈录,,zh,G43,SP0436,,,,,W0432,,183-194,,2017-12-13,MG,2020-04-08,DP
+W0443,Second Older Brother,The Absurd Life of Torturing and Being Tortured,en,G44,SP0436,2010-08-15,Remembrance,,,,No 55,,,2017-12-13,MG,2020-04-08,DP
+W0443,二哥,折腾与被折腾的荒诞人生,zh,G44,SP0436,2010-08-15,Remembrance,,,,No 55,,,2017-12-13,MG,2020-04-08,DP
+W0444,This Is a Miracle,Writing Prologue for Shamo's Somewhere Deep in My Heart,en,G44,SP0436,2010-06-15,Remembrance,,,,No 51,,,2017-12-13,MG,2020-04-08,DP
+W0444,这是一个奇迹,为沙漠 我心深处 序,zh,G44,SP0436,2010-06-15,Remembrance,,,,No 51,,,2017-12-13,MG,2020-04-08,DP
+W0445,Confessions of a Mother,,en,G44,SP0436,2010,Yanhuang Chunqiu Zazhi,,,,No 01,,,2017-12-13,MG,2020-04-08,DP
+W0445,一个母亲的忏悔,,zh,G44,SP0436,2010,Yanhuang Chunqiu Zazhi,,,,No 01,,,2017-12-13,MG,2020-04-08,DP
+W0446,The Bloody Flowering Season,,en,G44,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-13,MG,2020-04-08,DP
+W0446,血腥的花季,,zh,G44,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-13,MG,2020-04-08,DP
+W0447,How I Was Made Into a Strictly Treated Object,,en,G44,SP0436,2010-09-13,Remembrance,,,,No 57,,,2017-12-13,MG,2020-04-08,DP
+W0447,我怎样被炮制成 从严对象,,zh,G44,SP0436,2010-09-13,Remembrance,,,,No 57,,,2017-12-13,MG,2020-04-08,DP
+W0448,Some of us,Chinese Women Growing up in the Mao era,en,G44,SP0053,2001,Rutgers Univ. Press,,,,,,,2017-12-17,MG,2020-04-08,DP
+W0449,Mao,The Real Story,en,G43,SP0005,2012,Simon & Schuster,,,,,784,,2017-12-23,OS,2020-04-08,DP
+W0450,The Best Friend of That Time,,en,G44,SP0436,,,,,W0432,,203-215,,2017-12-29,OS,2020-04-08,DP
+W0450,当年最好的朋友,,zh,G44,SP0436,,,,,W0432,,203-215,,2017-12-29,OS,2020-04-08,DP
+W0451,Born Red,A Chronicle of the Cultural Revolution,en,G44,SP0057,1987,Stanford University Press,,,,,416,,2017-12-29,OS,2020-04-08,DP
 W0452,The Cambridge History of Chinese Literature,Volume II: From 1375,en,G19,SP0005,1905-07-02,Cambridge University Press,,,,,,,2017-12-29,OS,2020-04-08,DP
-W0453,The Trivia of Shen Qiu's ‘Training’,Countryside Life and 'The Reactionary Slogan' Incident,en,G03,SP0436,2010-10-30,Remembrance,,,,No 61,,,2017-12-27,MG,2020-04-08,DP
-W0453,沈邱‘锻炼’琐记,田园生活与'反标'事件,zh,G03,SP0436,2010-10-30,Remembrance,,,,No 61,,,2017-12-27,MG,2020-04-08,DP
-W0454,The Old Person in History Department Who Went from the Republic to the Cultural Revolution,,en,G03,SP0436,2011-04-30,Remembrance,,,,No 70,,,2017-12-27,MG,2020-04-08,DP
-W0454,从民国走到文革的历史所老人,,zh,G03,SP0436,2011-04-30,Remembrance,,,,No 70,,,2017-12-27,MG,2020-04-08,DP
-W0455,The Xinjiang Trip During the Great Link-up,,en,G03,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
-W0455,大串联中新疆行,,zh,G03,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
-W0456,Not Recognizing the Current Situation yet Still Outstanding,The Huang Yongsheng in Secretary's Eyes,en,G03,SP0436,2010-12-12,Remembrance,,,,No 64,,,2017-12-27,MG,2020-04-08,DP
-W0456,不识时务亦俊杰,秘书眼里的黄永胜,zh,G03,SP0436,2010-12-12,Remembrance,,,,No 64,,,2017-12-27,MG,2020-04-08,DP
-W0457,I Was Once an Official Red Guard,,en,G03,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-27,MG,2020-04-08,DP
-W0457,我曾是官办红卫兵,,zh,G03,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-27,MG,2020-04-08,DP
+W0453,The Trivia of Shen Qiu's ‘Training’,Countryside Life and 'The Reactionary Slogan' Incident,en,G44,SP0436,2010-10-30,Remembrance,,,,No 61,,,2017-12-27,MG,2020-04-08,DP
+W0453,沈邱‘锻炼’琐记,田园生活与'反标'事件,zh,G44,SP0436,2010-10-30,Remembrance,,,,No 61,,,2017-12-27,MG,2020-04-08,DP
+W0454,The Old Person in History Department Who Went from the Republic to the Cultural Revolution,,en,G44,SP0436,2011-04-30,Remembrance,,,,No 70,,,2017-12-27,MG,2020-04-08,DP
+W0454,从民国走到文革的历史所老人,,zh,G44,SP0436,2011-04-30,Remembrance,,,,No 70,,,2017-12-27,MG,2020-04-08,DP
+W0455,The Xinjiang Trip During the Great Link-up,,en,G44,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
+W0455,大串联中新疆行,,zh,G44,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
+W0456,Not Recognizing the Current Situation yet Still Outstanding,The Huang Yongsheng in Secretary's Eyes,en,G44,SP0436,2010-12-12,Remembrance,,,,No 64,,,2017-12-27,MG,2020-04-08,DP
+W0456,不识时务亦俊杰,秘书眼里的黄永胜,zh,G44,SP0436,2010-12-12,Remembrance,,,,No 64,,,2017-12-27,MG,2020-04-08,DP
+W0457,I Was Once an Official Red Guard,,en,G44,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-27,MG,2020-04-08,DP
+W0457,我曾是官办红卫兵,,zh,G44,SP0436,2010-01-31,Remembrance,,,,No 42,,,2017-12-27,MG,2020-04-08,DP
 W0458,The Interviews With Hui Xianjun,,en,G43,SP0436,2010-10-20,Remembrance,,,,No 60,,,2017-12-27,MG,2020-04-08,DP
 W0458,惠宪钧访谈录,,zh,G43,SP0436,2010-10-20,Remembrance,,,,No 60,,,2017-12-27,MG,2020-04-08,DP
-W0459,Remembering My Father Wu Tianshi,,en,G03,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
-W0459,忆父亲吴天石,,zh,G03,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
+W0459,Remembering My Father Wu Tianshi,,en,G44,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
+W0459,忆父亲吴天石,,zh,G44,SP0436,2010-11-30,Remembrance,,,,No 63,,,2017-12-27,MG,2020-04-08,DP
 W0460,The Divided Consciousness and the Interpretation of History,Some Thoughts after Reading Li Ping's Interview and Discussing the Red Guard's movement 'Red August',en,G01,SP0436,2010-09-30,Remembrance,,,http://www.xujuneberlein.com/rem58.html#D,No 58,,,2018-01-03,OS,2020-04-08,DP
 W0460,分裂的意识与历史的解读,读礼平访谈录有感兼议‘红八月’的红卫兵运动,zh,G01,SP0436,2010-09-30,Remembrance,,,http://www.xujuneberlein.com/rem58.html#D,No 58,,,2018-01-03,OS,2020-04-08,DP
-W0461,How Did I Learn About The Lin Biao Incident Whilst Being Imprisoned,,en,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0461,我在狱中是怎样知道林彪事件的,,zh,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0462,September 13 And Primary School Students' Political Classes,,en,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0462,九一三和小学生的政治课,,zh,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0463,Distant Yet Not That Distant Lin Biao,,en,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0463,遥远又不遥远的林彪,,zh,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0464,I Was Forbidden To Listen To A Transmission Of September 13 Documents,,en,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0464,我被禁止听九一三文件传达,,zh,G03,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
-W0465,I Experienced September 13 In The Air Force,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0465,我在空军部队经历九一三,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0466,A Brief Commentary On September 13,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0466,九 一三断想,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0467,My Recollection Of September 13 Is Very Ordinary,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0467,我的九一三记忆很平淡,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0468,Out Of Fear — The 40th Anniversary Of The September 13 Incident,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0468,走出恐惧——九一三事件40年祭,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0469,The September 13 Incident Shattered the Myth,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0469,九一三使神话破灭,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0470,I Heard News Of The Lin Biao Explosion Whist Being Sent-down To The Countryside,,en,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0470,我在乡下听到林彪爆炸的消息,,zh,G03,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
-W0471,"Explorations, Rectification and Fate",,en,G03,SP0004,2009,Sanlian shudian,,,W0431,,413-440,,2018-01-08,MG,2020-04-08,DP
-W0471,探讨，整肃与命运,,zh,G03,SP0005,2009,Sanlian shudian,,,W0431,,413-440,,2018-01-08,MG,2020-04-08,DP
-W0472,Chongqing Stove Ignited,,en,G02,SP0436,2008,Guojia lishi,,,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,,,2018-01-10,MG,2020-04-08,DP
-W0472,重庆火炉在燃烧,,zh,G02,SP0436,2008,Guojia lishi,,,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,,,2018-01-10,MG,2020-04-08,DP
-W0473,Spider Eaters,A Memoir,en,G03,SP0057,1997,University of California Press,,,,,,,2018-01-10,MG,2020-04-08,DP
+W0461,How Did I Learn About The Lin Biao Incident Whilst Being Imprisoned,,en,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0461,我在狱中是怎样知道林彪事件的,,zh,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0462,September 13 And Primary School Students' Political Classes,,en,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0462,九一三和小学生的政治课,,zh,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0463,Distant Yet Not That Distant Lin Biao,,en,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0463,遥远又不遥远的林彪,,zh,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0464,I Was Forbidden To Listen To A Transmission Of September 13 Documents,,en,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0464,我被禁止听九一三文件传达,,zh,G44,SP0436,2011-08-30,Remembrance,,,http://www.xujuneberlein.com/rem74.html#b,No 74,,,2018-01-05,MG,2020-04-08,DP
+W0465,I Experienced September 13 In The Air Force,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0465,我在空军部队经历九一三,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0466,A Brief Commentary On September 13,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0466,九 一三断想,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0467,My Recollection Of September 13 Is Very Ordinary,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0467,我的九一三记忆很平淡,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0468,Out Of Fear — The 40th Anniversary Of The September 13 Incident,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0468,走出恐惧——九一三事件40年祭,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0469,The September 13 Incident Shattered the Myth,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0469,九一三使神话破灭,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0470,I Heard News Of The Lin Biao Explosion Whist Being Sent-down To The Countryside,,en,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0470,我在乡下听到林彪爆炸的消息,,zh,G44,SP0436,2011-09-13,Remembrance,,,http://www.xujuneberlein.com/rem75.html#GG,No 75,,,2018-01-05,MG,2020-04-08,DP
+W0471,"Explorations, Rectification and Fate",,en,G44,SP0004,2009,Sanlian shudian,,,W0431,,413-440,,2018-01-08,MG,2020-04-08,DP
+W0471,探讨，整肃与命运,,zh,G44,SP0005,2009,Sanlian shudian,,,W0431,,413-440,,2018-01-08,MG,2020-04-08,DP
+W0472,Chongqing Stove Ignited,,en,G43,SP0436,2008,Guojia lishi,,,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,,,2018-01-10,MG,2020-04-08,DP
+W0472,重庆火炉在燃烧,,zh,G43,SP0436,2008,Guojia lishi,,,http://mjlsh.usc.cuhk.edu.hk/book.aspx?cid=6&tid=180&pid=1277,,,,2018-01-10,MG,2020-04-08,DP
+W0473,Spider Eaters,A Memoir,en,G44,SP0057,1997,University of California Press,,,,,,,2018-01-10,MG,2020-04-08,DP
 W0474,Course of Books,A Spirited Reading History,en,G44,SP0436,,,,,W0432,,4-16,,2018-01-12,MG,2020-04-08,DP
 W0474,书的轨道,一部精神阅读史,zh,G44,SP0436,,,,,W0432,,4-16,,2018-01-12,MG,2020-04-08,DP
-W0475,Those Times in the Mist of Light and Shade,,en,G03,SP0436,,,,,W0431,,547-562,,2018-01-12,MG,2020-04-08,DP
-W0475,明暗交错的时光,,zh,G03,SP0436,,,,,W0431,,547-562,,2018-01-12,MG,2020-04-08,DP
-W0476,Starting From 1979,That Happiness Keener Than Ice and Steel,en,G03,SP0436,,,,,W0431,,531-546,,2018-01-12,MG,2020-04-08,DP
-W0476,始于1979,比冰和铁更刺人心肠的欢乐,zh,G03,SP0436,,,,,W0431,,531-546,,2018-01-12,MG,2020-04-08,DP
+W0475,Those Times in the Mist of Light and Shade,,en,G44,SP0436,,,,,W0431,,547-562,,2018-01-12,MG,2020-04-08,DP
+W0475,明暗交错的时光,,zh,G44,SP0436,,,,,W0431,,547-562,,2018-01-12,MG,2020-04-08,DP
+W0476,Starting From 1979,That Happiness Keener Than Ice and Steel,en,G44,SP0436,,,,,W0431,,531-546,,2018-01-12,MG,2020-04-08,DP
+W0476,始于1979,比冰和铁更刺人心肠的欢乐,zh,G44,SP0436,,,,,W0431,,531-546,,2018-01-12,MG,2020-04-08,DP
 W0477,Years Being Like a Poem,,en,G44,SP0436,,,,,W0431,,51-58,,2018-01-12,MG,2020-04-08,DP
 W0477,诗样年华,,zh,G44,SP0436,,,,,W0431,,51-58,,2018-01-12,MG,2020-04-08,DP
-W0478,1970s,The last Reminiscence,en,G03,SP0436,,,,,W0431,,331-348,,2018-01-12,MG,2020-04-08,DP
-W0478,七十年代,末代回忆,zh,G03,SP0436,,,,,W0431,,331-348,,2018-01-12,MG,2020-04-08,DP
-W0479,Luckily to be Young,1970s in Retrospect,en,G03,SP0436,,,,,W0431,,59-80,,2018-01-12,MG,2020-04-08,DP
-W0479,幸亏年轻,回想七十年代,zh,G03,SP0436,,,,,W0431,,59-80,,2018-01-12,MG,2020-04-08,DP
+W0478,1970s,The last Reminiscence,en,G44,SP0436,,,,,W0431,,331-348,,2018-01-12,MG,2020-04-08,DP
+W0478,七十年代,末代回忆,zh,G44,SP0436,,,,,W0431,,331-348,,2018-01-12,MG,2020-04-08,DP
+W0479,Luckily to be Young,1970s in Retrospect,en,G44,SP0436,,,,,W0431,,59-80,,2018-01-12,MG,2020-04-08,DP
+W0479,幸亏年轻,回想七十年代,zh,G44,SP0436,,,,,W0431,,59-80,,2018-01-12,MG,2020-04-08,DP
 W0480,The Reminiscence of Sunshine and Storm,,en,G44,SP0436,,,,,W0431,,305-318,,2018-01-12,MG,2020-04-08,DP
 W0480,阳光与暴风雨的回忆,,zh,G44,SP0436,,,,,W0431,,305-318,,2018-01-12,MG,2020-04-08,DP
-W0481,I Used to be a Wolf of the Mountain and a Thief of the Sea,,en,G03,SP0436,,,,,W0431,,359-382,,2018-01-12,MG,2020-04-08,DP
-W0481,我曾经是山狼海贼,,zh,G03,SP0436,,,,,W0431,,359-382,,2018-01-12,MG,2020-04-08,DP
-W0482,Those Times of Mine,,en,G03,SP0436,,,,,W0431,,383-412,,2018-01-12,MG,2020-04-08,DP
-W0482,我的那年代,,zh,G03,SP0436,,,,,W0431,,383-412,,2018-01-12,MG,2020-04-08,DP
-W0483,Reminiscent Episodes of the 1970s,,en,G03,SP0436,,,,,W0431,,457-474,,2018-01-12,MG,2020-04-08,DP
-W0483,七十年代记忆片段,,zh,G03,SP0436,,,,,W0431,,457-474,,2018-01-12,MG,2020-04-08,DP
-W0484,1976,My First Love Died Like Shabby Cotton,en,G03,SP0436,,,,,W0431,,475-492,,2018-01-12,MG,2020-04-08,DP
-W0484,1976,初恋败絮,zh,G03,SP0436,,,,,W0431,,475-492,,2018-01-12,MG,2020-04-08,DP
+W0481,I Used to be a Wolf of the Mountain and a Thief of the Sea,,en,G44,SP0436,,,,,W0431,,359-382,,2018-01-12,MG,2020-04-08,DP
+W0481,我曾经是山狼海贼,,zh,G44,SP0436,,,,,W0431,,359-382,,2018-01-12,MG,2020-04-08,DP
+W0482,Those Times of Mine,,en,G44,SP0436,,,,,W0431,,383-412,,2018-01-12,MG,2020-04-08,DP
+W0482,我的那年代,,zh,G44,SP0436,,,,,W0431,,383-412,,2018-01-12,MG,2020-04-08,DP
+W0483,Reminiscent Episodes of the 1970s,,en,G44,SP0436,,,,,W0431,,457-474,,2018-01-12,MG,2020-04-08,DP
+W0483,七十年代记忆片段,,zh,G44,SP0436,,,,,W0431,,457-474,,2018-01-12,MG,2020-04-08,DP
+W0484,1976,My First Love Died Like Shabby Cotton,en,G44,SP0436,,,,,W0431,,475-492,,2018-01-12,MG,2020-04-08,DP
+W0484,1976,初恋败絮,zh,G44,SP0436,,,,,W0431,,475-492,,2018-01-12,MG,2020-04-08,DP
 W0485,The Black Painting Crisis,,en,G44,SP0436,,,,,W0431,,349-358,,2018-01-12,MG,2020-04-08,DP
 W0485,黑画风波,,zh,G44,SP0436,,,,,W0431,,349-358,,2018-01-12,MG,2020-04-08,DP
-W0486,The Tranquil Horizon,,en,G03,SP0436,,,,,W0431,,105-146,,2018-01-24,OS,2020-04-08,DP
-W0486,宁静的地平线,,zh,G03,SP0436,,,,,W0431,,105-146,,2018-01-24,OS,2020-04-08,DP
-W0487,Broken Chapter,,en,G03,SP0436,,,,,W0431,,31-50,,2018-01-25,OS,2020-04-08,DP
-W0487,断章,,zh,G03,SP0436,,,,,W0431,,31-50,,2018-01-25,OS,2020-04-08,DP
-W0488,The Unforgettable 1971,,en,G03,SP0436,,,,,W0431,,257-278,,2018-01-25,OS,2020-04-08,DP
-W0488,难忘的1971,,zh,G03,SP0436,,,,,W0431,,257-278,,2018-01-25,OS,2020-04-08,DP
-W0489,The Unjustly Murdered Woman From the Neighbourhood,,en,G03,SP0436,2010,,2010,,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,2018-01-25,OS,2020-04-08,DP
-W0489,被冤杀的街坊大妈,,zh,G03,SP0436,2010,,2010,,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,2018-01-25,OS,2020-04-08,DP
-W0490,The Seventies,The Broken Pieces in my Heart,en,G03,SP0436,,,,,W0431,,235-256,,2018-02-01,OS,2020-04-08,DP
-W0490,七十年代,我心中的碎片,zh,G03,SP0436,,,,,W0431,,235-256,,2018-02-01,OS,2020-04-08,DP
-W0491,Starting in 1979,Heart-stabbing Joy Keener Than Ice or Iron,en,G03,SP0436,,,,,W0431,,530-546,,2018-02-02,OS,2020-04-08,DP
-W0491,始于1979年,,zh,G03,SP0436,,,,,W0431,,530-546,,2018-02-02,OS,2020-04-08,DP
-W0492,The X Literary Society and the Death of Guo Shiying,,en,G03,SP0436,,,,,W0432,,17-29,,2018-02-03,OS,2020-04-08,DP
-W0492,X诗社与郭世英之死,,zh,G03,SP0436,,,,,W0432,,17-29,,2018-02-03,OS,2020-04-08,DP
-W0493,A Transcript of the Interview With Lin Mang,,en,G02,SP0436,,,,,W0432,,282-296,,2018-02-03,OS,2020-04-08,DP
-W0493,林莽访谈录,,zh,G02,SP0436,,,,,W0432,,282-296,,2018-02-03,OS,2020-04-08,DP
-W0494,"""Jintian"" and I",,en,G03,SP0436,,,,,W0432,,379-410,,2018-02-03,OS,2020-04-08,DP
-W0494,《今天》与我,,zh,G03,SP0436,,,,,W0432,,379-410,,2018-02-03,OS,2020-04-08,DP
-W0495,Growing up in the People's Republic,Conversations Between two Daughters of China's Revolution,en,G03,SP0005,2005,Palgrave MacMillan,,,,,,,2018-02-06,OS,2020-04-08,DP
+W0486,The Tranquil Horizon,,en,G44,SP0436,,,,,W0431,,105-146,,2018-01-24,OS,2020-04-08,DP
+W0486,宁静的地平线,,zh,G44,SP0436,,,,,W0431,,105-146,,2018-01-24,OS,2020-04-08,DP
+W0487,Broken Chapter,,en,G44,SP0436,,,,,W0431,,31-50,,2018-01-25,OS,2020-04-08,DP
+W0487,断章,,zh,G44,SP0436,,,,,W0431,,31-50,,2018-01-25,OS,2020-04-08,DP
+W0488,The Unforgettable 1971,,en,G44,SP0436,,,,,W0431,,257-278,,2018-01-25,OS,2020-04-08,DP
+W0488,难忘的1971,,zh,G44,SP0436,,,,,W0431,,257-278,,2018-01-25,OS,2020-04-08,DP
+W0489,The Unjustly Murdered Woman From the Neighbourhood,,en,G44,SP0436,2010,,2010,,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,2018-01-25,OS,2020-04-08,DP
+W0489,被冤杀的街坊大妈,,zh,G44,SP0436,2010,,2010,,http://www.xujuneberlein.com/rem57.html,No 57,ONLINE SOURCE,,2018-01-25,OS,2020-04-08,DP
+W0490,The Seventies,The Broken Pieces in my Heart,en,G44,SP0436,,,,,W0431,,235-256,,2018-02-01,OS,2020-04-08,DP
+W0490,七十年代,我心中的碎片,zh,G44,SP0436,,,,,W0431,,235-256,,2018-02-01,OS,2020-04-08,DP
+W0491,Starting in 1979,Heart-stabbing Joy Keener Than Ice or Iron,en,G44,SP0436,,,,,W0431,,530-546,,2018-02-02,OS,2020-04-08,DP
+W0491,始于1979年,,zh,G44,SP0436,,,,,W0431,,530-546,,2018-02-02,OS,2020-04-08,DP
+W0492,The X Literary Society and the Death of Guo Shiying,,en,G44,SP0436,,,,,W0432,,17-29,,2018-02-03,OS,2020-04-08,DP
+W0492,X诗社与郭世英之死,,zh,G44,SP0436,,,,,W0432,,17-29,,2018-02-03,OS,2020-04-08,DP
+W0493,A Transcript of the Interview With Lin Mang,,en,G43,SP0436,,,,,W0432,,282-296,,2018-02-03,OS,2020-04-08,DP
+W0493,林莽访谈录,,zh,G43,SP0436,,,,,W0432,,282-296,,2018-02-03,OS,2020-04-08,DP
+W0494,"""Jintian"" and I",,en,G44,SP0436,,,,,W0432,,379-410,,2018-02-03,OS,2020-04-08,DP
+W0494,《今天》与我,,zh,G44,SP0436,,,,,W0432,,379-410,,2018-02-03,OS,2020-04-08,DP
+W0495,Growing up in the People's Republic,Conversations Between two Daughters of China's Revolution,en,G44,SP0005,2005,Palgrave MacMillan,,,,,,,2018-02-06,OS,2020-04-08,DP
 W0496,The Unknown Cultural Revolution,,en,G19,SP0005,2008,Monthly Review Press,,,,,186,,2018-02-13,OS,2020-04-08,DP
-W0497,From ‘Criticizing the Toxic’ to ‘Spreading the Toxic’,My Cultural Revolution Encounter and Teacher Wang’s Death,en,G03,SP0436,2011-06-30,Remembrance,,,http://www.xujuneberlein.com/rem72.html,No 72,,,2018-02-19,MG,2020-04-08,DP
-W0497,从‘批毒’到‘散毒’,我的文革遭遇与汪含英老师之死,zh,G03,SP0436,2011-06-30,Remembrance,,,http://www.xujuneberlein.com/rem72.html,No 72,,,2018-02-19,MG,2020-04-08,DP
-W0498,Confessions,,en,G03,SP0005,2008,Norton,,,,,455,,2018-02-27,OS,2020-04-08,DP
-W0499,A Stirrup cup for the Past,Remembering a Friend From the 1970s,en,G03,SP0436,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-08,DP
-W0499,骊歌清酒忆旧时,记七十年代我的一个朋友,zh,G03,SP0436,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-08,DP
-W0500,Red China Blues,My Long March From Mao to now,en,G03,SP0005,1997,Anchor Books,,,,,416,,2018-02-16,OS,2020-04-08,DP
-W0501,Poetic Age--Memories Of The 1970s,,en,G03,SP0436,2008-08-05,,,,chuansong.me/n/1180812,,ONLINE SOURCE,,2018-02-21,MG,2020-04-08,DP
-W0501,诗样年华--1970年代的回忆,,zh,G03,SP0436,2008-08-05,,,,chuansong.me/n/1180812,,ONLINE SOURCE,,2018-02-21,MG,2020-04-08,DP
-W0502,Title: Interview With Jiang Dingyue (Wan Li's Second Child Mo Zhongxiang's Ex-wife),,en,G02,SP0436,2012-03-05,,,,https://book.douban.com/review/6519809/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0502,标题: 蒋定粤（万里次子万仲翔前妻）访谈,,zh,G02,SP0436,2012-03-05,,,,https://book.douban.com/review/6519809/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0503,Xu Xiao: Half A Life of Being a Great Human,A Whole Life Of Pursuing Beauty,en,G02,SP0436,2004-12-23,,,,http://www.china.com.cn/chinese/RS/736605.htm,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0503,徐晓: 半生为人 一世逐美,,zh,G02,SP0436,2004-12-23,,,,http://www.china.com.cn/chinese/RS/736605.htm,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0504,The Past Events Of Fleeting Years,,en,G03,SP0436,2009-12-20,,,,http://bashanren.blog.163.com/blog/static/1142014842009112092434412/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0504,流年往事,,zh,G03,SP0436,2009-12-20,,,,http://bashanren.blog.163.com/blog/static/1142014842009112092434412/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0505,I Was Captured And Forced To Present Myself At A 'One Strike Three Anti' Public Judgment Pronouncement Rally,,en,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=369,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0505,我被抓上’一打三反’公判大会,,zh,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=369,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0506,Dazhai Is Great,,en,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=400,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0506,大寨亚克西,,zh,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=400,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0507,Recitative — Mother,,en,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=1206,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0507,宣叙调—妈妈,,zh,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=1206,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0508,That Era Did Not Go Far,,en,G03,SP0436,2011-09-13,Remembrance,,,https://docs.google.com/document/d/1wf58KOyiWvweUUGZAk1bWG3QvmvF10_EM2tPeWGjEp4/edit#bookmark=id.ec963a2ae041,No 75,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0508,那个时代没有远去,,zh,G03,SP0436,2011-09-13,Remembrance,,,https://docs.google.com/document/d/1wf58KOyiWvweUUGZAk1bWG3QvmvF10_EM2tPeWGjEp4/edit#bookmark=id.ec963a2ae041,No 75,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0509,'September 13' In The Memories Of The Provincial Secretary,,en,G03,SP0436,2011-09-15,,,,http://www.aisixiang.com/data/44238.html,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
-W0509,省委秘书记忆中的’九一三‘,,zh,G03,SP0436,2011-09-15,,,,http://www.aisixiang.com/data/44238.html,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0497,From ‘Criticizing the Toxic’ to ‘Spreading the Toxic’,My Cultural Revolution Encounter and Teacher Wang’s Death,en,G44,SP0436,2011-06-30,Remembrance,,,http://www.xujuneberlein.com/rem72.html,No 72,,,2018-02-19,MG,2020-04-08,DP
+W0497,从‘批毒’到‘散毒’,我的文革遭遇与汪含英老师之死,zh,G44,SP0436,2011-06-30,Remembrance,,,http://www.xujuneberlein.com/rem72.html,No 72,,,2018-02-19,MG,2020-04-08,DP
+W0498,Confessions,,en,G44,SP0005,2008,Norton,,,,,455,,2018-02-27,OS,2020-04-08,DP
+W0499,A Stirrup cup for the Past,Remembering a Friend From the 1970s,en,G44,SP0436,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-08,DP
+W0499,骊歌清酒忆旧时,记七十年代我的一个朋友,zh,G44,SP0436,,,,,W0431,,279-304,,2018-02-27,OS,2020-04-08,DP
+W0500,Red China Blues,My Long March From Mao to now,en,G44,SP0005,1997,Anchor Books,,,,,416,,2018-02-16,OS,2020-04-08,DP
+W0501,Poetic Age--Memories Of The 1970s,,en,G44,SP0436,2008-08-05,,,,chuansong.me/n/1180812,,ONLINE SOURCE,,2018-02-21,MG,2020-04-08,DP
+W0501,诗样年华--1970年代的回忆,,zh,G44,SP0436,2008-08-05,,,,chuansong.me/n/1180812,,ONLINE SOURCE,,2018-02-21,MG,2020-04-08,DP
+W0502,Title: Interview With Jiang Dingyue (Wan Li's Second Child Mo Zhongxiang's Ex-wife),,en,G43,SP0436,2012-03-05,,,,https://book.douban.com/review/6519809/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0502,标题: 蒋定粤（万里次子万仲翔前妻）访谈,,zh,G43,SP0436,2012-03-05,,,,https://book.douban.com/review/6519809/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0503,Xu Xiao: Half A Life of Being a Great Human,A Whole Life Of Pursuing Beauty,en,G43,SP0436,2004-12-23,,,,http://www.china.com.cn/chinese/RS/736605.htm,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0503,徐晓: 半生为人 一世逐美,,zh,G43,SP0436,2004-12-23,,,,http://www.china.com.cn/chinese/RS/736605.htm,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0504,The Past Events Of Fleeting Years,,en,G44,SP0436,2009-12-20,,,,http://bashanren.blog.163.com/blog/static/1142014842009112092434412/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0504,流年往事,,zh,G44,SP0436,2009-12-20,,,,http://bashanren.blog.163.com/blog/static/1142014842009112092434412/,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0505,I Was Captured And Forced To Present Myself At A 'One Strike Three Anti' Public Judgment Pronouncement Rally,,en,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=369,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0505,我被抓上’一打三反’公判大会,,zh,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=369,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0506,Dazhai Is Great,,en,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=400,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0506,大寨亚克西,,zh,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=400,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0507,Recitative — Mother,,en,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=1206,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0507,宣叙调—妈妈,,zh,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=1206,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0508,That Era Did Not Go Far,,en,G44,SP0436,2011-09-13,Remembrance,,,https://docs.google.com/document/d/1wf58KOyiWvweUUGZAk1bWG3QvmvF10_EM2tPeWGjEp4/edit#bookmark=id.ec963a2ae041,No 75,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0508,那个时代没有远去,,zh,G44,SP0436,2011-09-13,Remembrance,,,https://docs.google.com/document/d/1wf58KOyiWvweUUGZAk1bWG3QvmvF10_EM2tPeWGjEp4/edit#bookmark=id.ec963a2ae041,No 75,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0509,'September 13' In The Memories Of The Provincial Secretary,,en,G44,SP0436,2011-09-15,,,,http://www.aisixiang.com/data/44238.html,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
+W0509,省委秘书记忆中的’九一三‘,,zh,G44,SP0436,2011-09-15,,,,http://www.aisixiang.com/data/44238.html,,ONLINE SOURCE,,2018-02-27,MG,2020-04-08,DP
 W0510,Interview with Mang Ke,,en,G43,SP0436,2014,,,,W0423,,256-268,,2018-02-27,MG,2020-04-08,DP
 W0510,芒克访谈,,zh,G43,SP0436,2014,,,,W0423,,256-268,,2018-02-27,MG,2020-04-08,DP
-W0511,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,G02,SP0039,1993,The Atlantic Monthly Press,,,,,,,2018-03-06,MG,2020-04-08,DP
-W0512,Vermilion Gate,,en,G03,SP0005,2000,Little: Brown and Company,,,,,,,2018-03-17,MG,2020-04-08,DP
-W0513,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,G03,SP0436,1998,University of Massachusetts Press,,,,,,,2018-03-27,MG,2020-04-08,DP
-W0514,Let the Thought Brake the Cage,,en,G03,SP0436,,,,,W0431,,165-186,,2018-04-09,MG,2020-04-08,DP
-W0514,让思想冲破牢笼,,zh,G03,SP0436,,,,,W0431,,165-186,,2018-04-09,MG,2020-04-08,DP
-W0515,My Father and I,,en,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,,ONLINE SOURCE,,2018-05-03,WH,2020-04-08,DP
-W0515,我和父亲,,zh,G03,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,,ONLINE SOURCE,,2018-05-03,WH,2020-04-08,DP
-W0516,Youth Cannot Help,,en,G03,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
-W0516,青春无奈,,zh,G03,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
-W0516,Qingchun wunai,,zh-Latn-pinyin,G03,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
-W0517,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,G03,SP0053,1995,Viking Penguin,,,,,,,2018-05-29,MG,2020-04-08,DP
-W0518,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,G02,SP0075,2007,State University of New York Press,,,,,,,2018-06-19,MG,2020-04-08,DP
-W0519,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,G02,SP0053,1991,Pantheon Books,,,,,,,2018-06-25,MG,2020-04-08,DP
-W0520,Listening to Enemy Broadcasting Stations,,en,G02,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
-W0520,听敌台,,zh,G02,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
-W0520,Ting ditai,,zh-Latn-pinyin,G02,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
-W0521,The Daily Linguistics in the 1970s,,en,G02,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
-W0521,七十年代日常语言学,,zh,G02,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
-W0521,Qishi niandai richang yuyanxue,,zh-Latn-pinyin,G02,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
-W0522,Ignorance as a Kind of Nourishment,,en,G02,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
-W0522,愚昧作为一种养料,,zh,G02,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
-W0522,Yumei zuowei yizhong yangliao,,zh-Latn-pinyin,G02,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
-W0523,Born American,A Chinese Woman‘s Dream of Liberty,en,G03,SP0087,2009,Nimble Books,,,,,,,2018-10-16,LH,2020-04-08,DP
-W0524,Me Before and After the ‘May Fourth Incident’,,en,G03,SP0436,,,,,W0431,,203-234,,2018-11-18,MG,2020-04-08,DP
-W0524,我在‘五四事件’前后,,zh,G03,SP0436,,,,,W0431,,203-234,,2018-11-18,MG,2020-04-08,DP
-W0525,张平化的9.24报告与抓“黑 鬼”运动,,zh,G03,SP0436,,,,,http://www.xujuneberlein.com/rem53.html#B,,ONLINE SOURCE,,2018-11-18,MG,2020-04-08,DP
-W0526,Start on a Journal,A Rural Child's Memory About the Seventies,en,G03,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
-W0526,起程,一个农村孩子关于七十年代的记忆,zh,G03,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
-W0526,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-pinyin,G03,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
-W0527,Wei Village,,en,G03,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
-W0527,魏庄,,zh,G03,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
-W0527,Wei zhuang,,zh-Latn-pinyin,G03,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
-W0528,Me before and after the  'April Fifth Events',,en,G03,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
-W0528,我在’四五事件‘前后,,zh,G03,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
-W0528,Wo zai siwu shijian qianhou,,zh-Latn-pinyin,G03,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
-W0529,The Most Wanted Man in China,My Journey from Scientist to Enemy of the State,en,G03,SP0053,2016,Henry Holt,,,,,,,2019-02-19,LH,2020-04-08,DP
-W1001,Dictionary of Pseudonyms, 13000 Assumed Names and Their Origins 5th ed.,en,G57,SP1000,2010,McFarland,,,,,,,2021-06-07,DP,2021-06-07,DP
+W0511,A Single Tear,A Family‘s Persecution: Love and Endurance in Communist China,en,G43,SP0039,1993,The Atlantic Monthly Press,,,,,,,2018-03-06,MG,2020-04-08,DP
+W0512,Vermilion Gate,,en,G44,SP0005,2000,Little: Brown and Company,,,,,,,2018-03-17,MG,2020-04-08,DP
+W0513,Thirty Years in a Red House,A Memoir of Childhood and Youth in Communist China,en,G44,SP0436,1998,University of Massachusetts Press,,,,,,,2018-03-27,MG,2020-04-08,DP
+W0514,Let the Thought Brake the Cage,,en,G44,SP0436,,,,,W0431,,165-186,,2018-04-09,MG,2020-04-08,DP
+W0514,让思想冲破牢笼,,zh,G44,SP0436,,,,,W0431,,165-186,,2018-04-09,MG,2020-04-08,DP
+W0515,My Father and I,,en,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,,ONLINE SOURCE,,2018-05-03,WH,2020-04-08,DP
+W0515,我和父亲,,zh,G44,SP0436,,,,,http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=572,,ONLINE SOURCE,,2018-05-03,WH,2020-04-08,DP
+W0516,Youth Cannot Help,,en,G44,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
+W0516,青春无奈,,zh,G44,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
+W0516,Qingchun wunai,,zh-Latn-pinyin,G44,SP0436,,,,,W0431,,507-530,,2018-05-15,MG,2020-04-08,DP
+W0517,Blood red Sunset,A Memoir of the Chinese Cultural Revolution,en,G44,SP0053,1995,Viking Penguin,,,,,,,2018-05-29,MG,2020-04-08,DP
+W0518,When Huai Flowers Bloom,Stories of the Cultural Revolution,en,G43,SP0075,2007,State University of New York Press,,,,,,,2018-06-19,MG,2020-04-08,DP
+W0519,Noices From the Whirlwind,An Oral History of the Culrural Chinese Revolution,en,G43,SP0053,1991,Pantheon Books,,,,,,,2018-06-25,MG,2020-04-08,DP
+W0520,Listening to Enemy Broadcasting Stations,,en,G43,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
+W0520,听敌台,,zh,G43,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
+W0520,Ting ditai,,zh-Latn-pinyin,G43,SP0436,,,,,W0431,,147-153,,2018-06-26,MG,2020-04-08,DP
+W0521,The Daily Linguistics in the 1970s,,en,G43,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
+W0521,七十年代日常语言学,,zh,G43,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
+W0521,Qishi niandai richang yuyanxue,,zh-Latn-pinyin,G43,SP0436,,,,,W0431,,319-330,,2018-07-10,MG,2020-04-08,DP
+W0522,Ignorance as a Kind of Nourishment,,en,G43,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
+W0522,愚昧作为一种养料,,zh,G43,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
+W0522,Yumei zuowei yizhong yangliao,,zh-Latn-pinyin,G43,SP0436,,,,,W0431,,13-30,,2018-07-10,MG,2020-04-08,DP
+W0523,Born American,A Chinese Woman‘s Dream of Liberty,en,G44,SP0087,2009,Nimble Books,,,,,,,2018-10-16,LH,2020-04-08,DP
+W0524,Me Before and After the ‘May Fourth Incident’,,en,G44,SP0436,,,,,W0431,,203-234,,2018-11-18,MG,2020-04-08,DP
+W0524,我在‘五四事件’前后,,zh,G44,SP0436,,,,,W0431,,203-234,,2018-11-18,MG,2020-04-08,DP
+W0525,张平化的9.24报告与抓“黑 鬼”运动,,zh,G44,SP0436,,,,,http://www.xujuneberlein.com/rem53.html#B,,ONLINE SOURCE,,2018-11-18,MG,2020-04-08,DP
+W0526,Start on a Journal,A Rural Child's Memory About the Seventies,en,G44,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
+W0526,起程,一个农村孩子关于七十年代的记忆,zh,G44,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
+W0526,Qi cheng,yi ge nongcun haizi guanyu qishi niandai de jiyi,zh-Latn-pinyin,G44,SP0436,,,,,W0431,,93-103,,2018-11-06,WH,2020-04-08,DP
+W0527,Wei Village,,en,G44,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
+W0527,魏庄,,zh,G44,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
+W0527,Wei zhuang,,zh-Latn-pinyin,G44,SP0436,,,,,W0431,,155-164,,2018-11-06,WH,2020-04-08,DP
+W0528,Me before and after the  'April Fifth Events',,en,G44,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
+W0528,我在’四五事件‘前后,,zh,G44,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
+W0528,Wo zai siwu shijian qianhou,,zh-Latn-pinyin,G44,SP0436,,,,,W0431,,203-233,,2018-11-06,WH,2020-04-08,DP
+W0529,The Most Wanted Man in China,My Journey from Scientist to Enemy of the State,en,G44,SP0053,2016,Henry Holt,,,,,,,2019-02-19,LH,2020-04-08,DP
+W0790,Open Love Letters,,en,G06,,1980,,,,,,4-67,,2019-03-12,LH,2022-05-09,DP
+W0790,公开的情书,,zh,G06,,1980,,,,,,4-67,,2019-03-12,LH,2022-05-09,DP
+W0790,Gongkai de qingshu,,zh-Latn-pinyin,G06,,1980,,,,,,4-67,,2019-03-12,LH,2022-05-09,DP
+W0791,Balzac And The Little Chinese Seamstress,,en,G04,SP0050,2000,Éditions Gallimard,,,,,,,2019-07-30,MG,2022-05-09,DP
+W0791,Balzac et la Petite Tailleuse Chinoise,,fr,G04,SP0050,2000,Éditions Gallimard,,,,,,A Chinese version was published after the adaptation,2019-07-30,MG,2022-05-09,DP
+W0791,巴爾扎克與小裁縫,,zh,G04,SP0050,2000,Éditions Gallimard,,,,,,,2019-07-30,MG,2022-05-09,DP
+W0792,The Class Teacher,,en,G05,,,,1977,,W0793,,85-120,,2019-10-24,MG,2022-05-09,DP
+W0792,班主任,,zh,G05,,,,1977,,W0793,,85-120,,2019-10-24,MG,2022-05-09,DP
+W0793,Chinese Short Stories of The Twentieth Century,An Anthology in English,en,G28,SP0053,1995,Garland Publishing,,,,,,,2019-10-24,MG,2022-05-09,DP
+W0794,People's Literature,,en,G52,SP0005,1977,Renmin wenxue zazhishe,,no,,,,,2019-11-25,MG,2022-05-09,DP
+W0794,人民文学,,zh,G52,SP0005,1977,Renmin wenxue zazhishe,,no,,,,,2019-11-25,MG,2022-05-09,DP
+W0794,Renmin wenxue,,zh-Latn-pinyin,G52,SP0005,1977,Renmin wenxue zazhishe,,no,,,,,2019-11-25,MG,2022-05-09,DP
+W0795,The Class Teacher,,en,G05,,1977,,1977,,W0794,No 11,,,2019-11-25,MG,2022-05-09,DP
+W0795,班主任,,zh,G05,,1977,,1977,,W0794,No 11,,,2019-11-25,MG,2022-05-09,DP
+W0796,Song of Youth,,en,G04,SP0005,1958,Zuojia chubanshe,1958,,,,,,2019-12-02,MG,2022-05-09,DP
+W0796,青春之歌,,zh,G04,SP0005,1958,Zuojia chubanshe,1958,,,,,,2019-12-02,MG,2022-05-09,DP
+W0796,Qingchun zhi ge,,zh-Latn-pinyin,G04,SP0005,1958,Zuojia chubanshe,1958,,,,,,2019-12-02,MG,2022-05-09,DP
+W0797,The Three-Body Problem,,en,G07,SP0039,2016,Head of Zeus Ltd.,2008,,,,,,2020-02-14,MG,2022-05-09,DP
+W0797,三体,,zh,G07,SP0039,2016,Head of Zeus Ltd.,2008,,,,,,2020-02-14,MG,2022-05-09,DP
+W0798,The King of Chess,,en,G04,,,,1984,,W0799,,57-120,,2020-05-16,MG,2022-05-09,DP
+W0798,棋王,,zh,G04,,,,1984,,W0799,,57-120,,2020-05-16,MG,2022-05-09,DP
+W0799,The King of Trees,,en,G28,SP0053,2010,New Directions,,,,,,,2020-05-16,MG,2022-05-09,DP
+W0800,The King of Children,,en,G04,,,,1985,,W0799,,121-178,,2020-05-26,MG,2022-05-09,DP
+W0800,孩子王,,zh,G04,,,,1985,,W0799,,121-178,,2020-05-26,MG,2022-05-09,DP
+W0801,The King of Trees,,en,G04,,,,,,W0799,,1-56,,2020-06-18,MG,2022-05-09,DP
+W0801,树王,,zh,G04,,,,,,W0799,,1-56,,2020-06-18,MG,2022-05-09,DP
+W0802,Roter Ahorn,,de,G05,,,,1979,,W0803,,32-50,,2020-06-29,MG,2022-05-09,DP
+W0802,Red Maple,,en,G05,,,,1979,,W0803,,32-50,,2020-06-29,MG,2022-05-09,DP
+W0802,枫,,zh,G05,,,,1979,,W0803,,32-50,,2020-06-29,MG,2022-05-09,DP
+W0803,Literatur und Politik in der Volksrepublik China,,de,G28,SP0227,1983,Suhrkamp,,,,,,,2020-06-29,MG,2022-05-09,DP
+W0804,Der Neuling in der Organisationsabteilung,,de,G05,,,,1957,,W0805,,82-149,,2020-08-07,MG,2022-05-09,DP
+W0804,The Young Newcomer to the Organization Department,,en,G05,,,,1957,,W0805,,82-149,,2020-08-07,MG,2022-05-09,DP
+W0804,组织部来了个年轻人,,zh,G05,,,,1957,,W0805,,82-149,,2020-08-07,MG,2022-05-09,DP
+W0805,Hundert Blumen,Moderne chinesische Erzählungen. Zweiter Band: 1949-1979,de,G28,SP0227,1980,Suhrkamp,,,,,,,2020-08-07,MG,2022-05-09,DP
+W0806,SF aus China:,Kurzgeschichten,de,G28,SP0481,1984,Wilhelm Goldmann,,,,,,,2021-02-24,MG,2022-05-09,DP
+W0807,Der Traum vom Sanften Land,,de,G07,,,,1981,,W0816,,9-51,,2021-02-24,MG,2022-05-09,DP
+W0807,Conjugal Happines in The Arms of Morpheus,,en,G07,,,,1981,,W0816,,9-51,,2021-02-25,MG,2022-05-09,DP
+W0808,Zersetzung,,de,G07,,,,1981,,W0816,,135-156,,2021-02-24,MG,2022-05-09,DP
+W0808,Corrosion,,en,G07,,,,1981,,W0816,,135-156,,2021-02-25,MG,2022-05-09,DP
+W0809,Liebe im Unendlichen,,de,G07,,,,1979,,W0818,,283-311,,2021-02-24,MG,2022-05-09,DP
+W0809,Love in Infinity,,en,G07,,,,1979,,W0818,,283-311,,2021-02-25,MG,2022-05-09,DP
+W0809,遥远的爱,,zh,G07,,,,1979,,W0818,,283-311,,2021-02-25,MG,2022-05-09,DP
+W0810,Das Rätsel Beta,,de,G07,,,,1982,,W0806,,99-130,,2021-02-24,MG,2022-05-09,DP
+W0810,β个谜,,zh,G07,,,,1982,,W0806,,99-130,,2021-02-24,MG,2022-05-09,DP
+W0811,The Mysterious Wave,,en,G07,,,,1979,,W0816,,71-95,,2021-02-25,MG,2022-05-09,DP
+W0811,神秘的波,,zh,G07,,,,1979,,W0816,,71-95,,2021-02-25,MG,2022-05-09,DP
+W0812,Professor Salomos Irrtum,,de,G07,,,,1980,,W0806,,169-194,check page numbers,2021-02-24,MG,2022-05-09,DP
+W0812,沙洛姆教授的迷雾,,zh,G07,,,,1980,,W0806,,169-194,check page numbers,2021-02-24,MG,2022-05-09,DP
+W0813,Der Merkwürdige Fall vom Seeufer,,de,G07,,,,1982,,W0806,,195-214,,2021-02-24,MG,2022-05-09,DP
+W0814,Traum vom Frieden,,de,G07,,,,1940,,W0806,,215-246,,2021-02-24,MG,2022-05-09,DP
+W0815,Reap as You Have Sown,,en,G07,,,,1981,,W0816,,53-67,,2021-02-24,MG,2022-05-09,DP
+W0816,Science Fiction From China,,en,G28,SP0053,1989,Praeger,,,,,,,2021-02-24,MG,2022-05-09,DP
+W0817,Death Ray on a Coral Island,,en,G07,,,,1978,,W0816,,97-122,,2021-02-24,MG,2022-05-09,DP
+W0817,珊瑚岛的死光,,zh,G07,,,,1978,,W0816,,97-122,,2021-02-24,MG,2022-05-09,DP
+W0818,The Selections of Chinese Science Fiction [sic],,en,G28,SP0023,1982,Liaoning renmin chubanshe,,,,,,,2021-02-25,MG,2022-05-09,DP
+W0818,中外科学幻想下获选,,zh,G28,SP0023,1982,Liaoning renmin chubanshe,,,,,,,2021-02-25,MG,2022-05-09,DP
+W0819,The Death of The World‘s First Robot,,en,G07,,,,1982,,W0816,,3-8,,2021-02-27,MG,2022-05-09,DP
+W0820,The Mirror Image of The Earth,,en,G07,,,,1980,,W0816,,125-133,,2021-02-27,MG,2022-05-09,DP
+W0820,地球的镜像,,zh,G07,,,,1980,,W0816,,125-133,,2021-07-09,MG,2022-05-09,DP
+W0821,Boundless Love,,en,G07,,,,1971,,W0816,,157-165,,2021-02-27,MG,2022-05-09,DP
+W0822,The Reincarnated Giant,An Anthology of Twenty-First Century Chinese Science Fiction,en,G28,SP0053,2018,Columbia University Press,,,,,,,2021-02-27,MG,2022-05-09,DP
+W0823,Regenerated Bricks,,en,G07,,,,2011,,W0822,,3-44,,2021-02-27,MG,2022-05-09,DP
+W0824,The Village Schoolteacher,,en,G07,,,,2001,,W0822,,49-75,,2021-02-27,MG,2022-05-09,DP
+W0825,The Poetry Cloud,,en,G07,,,,2003,,W0822,,143-173,,2021-02-27,MG,2022-05-09,DP
+W0826,The Demon-Enslaving Flask,,en,G07,,,,2004,,W0822,,130-139,,2021-02-27,MG,2022-05-09,DP
+W0827,Balin,,en,G07,,,,2015,,W0822,,197-226,,2021-02-27,MG,2022-05-09,DP
+W0828,The Year of The Rat,,en,G07,,,,2013,,W0829,,21-49,,2021-02-27,MG,2022-05-09,DP
+W0829,Invisible Planets,13 Visions of The Future From China,en,G28,SP0039,2017,Head of Zeus,,,,,,,2021-02-27,MG,2022-05-09,DP
+W0830,The Fish of Lijiang,,en,G07,,,,2006,,W0829,,51-68,,2021-02-27,MG,2022-05-09,DP
+W0831,The Flower of Shazui,,en,G07,,,,2012,,W0829,,69-90,,2021-02-27,MG,2022-05-09,DP
+W0832,Invisible Planets,,en,G07,,,,2010,,W0829,,199-218,,2021-02-27,MG,2022-05-09,DP
+W0833,Folding Beijing,,en,G07,,,,2014,,W0829,,219-262,,2021-02-27,MG,2022-05-09,DP
+W0834,The Rain Forest,,en,G07,,,,2007,,W0822,,354-363,,2021-02-27,MG,2022-05-09,DP
+W0835,The Reincarnated Giant,,en,G07,,,,2006,,W0822,,313-353,,2021-02-27,MG,2022-05-09,DP
+W0836,The Radio Waves That Never Die,,en,G07,,,,2007,,W0822,,227-257,,2021-02-27,MG,2022-05-09,DP
+W0837,A Hundred Ghosts to Parade Tonight,,en,G07,,,,2010,,W0829,,91-109,,2021-02-27,MG,2022-05-09,DP
+W0838,Submarines,,en,G07,,,,2017,,W0839,,113-123,,2021-02-27,MG,2022-05-09,DP
+W0839,Broken Stars,Contemporary Chinese Science Fiction in Translation,en,G28,SP0039,2019,Head of Zeus,,,,,,,2021-02-27,MG,2022-05-09,DP
+W0840,Salinger And The Koreans,,en,G07,,,,2016,,W0839,,125-133,,2021-02-27,MG,2022-05-09,DP
+W0841,The Restaurant at The End of The Universe,Laba Porridge,en,G07,,,,2014,,W0839,,327-340,,2021-02-27,MG,2022-05-09,DP
+W0842,A History of Future Illnesses,,en,G07,,,,2016,,W0839,,415-443,,2021-03-03,MG,2022-05-09,DP
+W0843,Under a Dangling Sky,,en,G07,,,,2004,,W0839,,139-148,,2021-03-03,MG,2022-05-09,DP
+W0844,Broken Stars,,en,G07,,,,2016,,W0839,,83-109,,2021-03-03,MG,2022-05-09,DP
+W0845,The New Year Train,,en,G07,,,,2017,,W0839,,225-231,,2021-03-03,MG,2022-05-09,DP
+W0846,The Brain Box,,en,G07,,,,2017,,W0839,,375-382,no Chinese publication,2021-03-03,MG,2022-05-09,DP
+W0847,Coming of The Light,,en,G07,,,,2015,,W0839,,385-413,,2021-03-03,MG,2022-05-09,DP
+W0848,Elephants With Their Trunks Removed,,en,G07,,,,1958,,W0849,,56-70,,2021-03-03,MG,2022-05-09,DP
+W0848,割掉鼻子的大象,,zh,G07,,,,1958,,W0849,,56-70,,2021-03-03,MG,2022-05-09,DP
+W0849,Selected Chinese Science Fiction,,en,G28,SP0023,1982,Liaoning renmin chubanshe,,,,,,,2021-03-03,MG,2022-05-09,DP
+W0849,中国科学幻想小说选,,zh,G28,SP0023,1982,Liaoning renmin chubanshe,,,,,,,2021-03-03,MG,2022-05-09,DP
+W0850,From Earth to Mars,,en,G07,SP0252,2010,Guizhou daxue chubanshe,1954,,,,,,2021-03-03,MG,2022-05-09,DP
+W0850,从地球到火星,,zh,G07,SP0252,2010,Guizhou daxue chubanshe,1954,,,,,,2021-03-03,MG,2022-05-09,DP
+W0851,Little Smarty Travels to The Future,,en,G07,,2020,,1978,,,,,,2021-03-03,MG,2022-05-09,DP
+W0852,Selected New Works by Zheng Wenguang,Science Fiction,en,G28,,1981,Hunan renmin chubanshe,,,,,,,2021-03-03,MG,2022-05-09,DP
+W0852,郑文光新作选,科学幻想小说,zh,G28,,1981,Hunan renmin chubanshe,,,,,,,2021-03-03,MG,2022-05-09,DP
+W0853,Star Camp,,en,G07,,,,1981,,W0852,,1-44,,2021-03-03,MG,2022-05-09,DP
+W0853,星星营,,zh,G07,,,,1981,,W0852,,1-44,,2021-03-03,MG,2022-05-09,DP
+W0854,G is for Goddess,,en,G07,,,,,,,,255-272,,2021-03-03,MG,2022-05-09,DP
+W0854,G代表女神,,zh,G07,,,,,,,,255-272,,2021-03-03,MG,2022-05-09,DP
+W0855,The Sound of Salt Forming,Stories by The Post-‘80s Generation in China,en,G28,SP0482,2016,University of Hawai‘i Press,,,,,,,2021-03-03,MG,2022-05-09,DP
+W0856,Paradise Lost,,en,G07,,,,,,W0857,,22-35,,2021-03-03,MG,2022-05-09,DP
+W0856,失乐园,,zh,G07,,,,,,W0857,,22-35,,2021-03-03,MG,2022-05-09,DP
+W0857,Hongkong Literary,,en,G28,,2019,,,,,Vol. 413,,,2021-03-03,MG,2022-05-09,DP
+W0857,Xianggang wenxue,,zh-Latn-pinyin,G28,,2019,,,,,Vol. 413,,,2021-03-03,MG,2022-05-09,DP
+W0858,A Strange Machine Dog,,en,G07,,,,1965,,W0859,,123-153,,2021-03-04,MG,2022-05-09,DP
+W0858,奇异的机器狗,,zh,G07,,,,1965,,W0859,,123-153,,2021-03-04,MG,2022-05-09,DP
+W0859,Selected Science Fiction Stories,,en,G28,SP0005,1980,Zhonguo qingnian chubanshe,,,,,,,2021-03-04,MG,2022-05-09,DP
+W0859,科学幻想小说选,,zh,G28,SP0005,1980,Zhonguo qingnian chubanshe,,,,,,,2021-03-04,MG,2022-05-09,DP
+W0860,The Secret of The 'Venus People',,en,G07,,,,1979,,W0859,,154-184,,2021-03-04,MG,2022-05-09,DP
+W0860,'金星人'之谜,,zh,G07,,,,1979,,W0859,,154-184,,2021-03-04,MG,2022-05-09,DP
+W0861,The City of Silence,,en,G07,,,,2005,,W0829,,153-196,,2021-03-04,MG,2022-05-09,DP
+W0862,Little Smarty Travels to The Future,,en,G81,,,,1980,,https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/,,ONLINE SOURCE,,2021-04-15,MG,2022-05-09,DP
+W0863,Die Geheimnisvollen Wellen,,de,G07,,,,1979,,W0806,,131-167,,2021-02-25,MG,2022-05-09,DP
+W1001,Dictionary of Pseudonyms,13000 Assumed Names and Their Origins 5th ed.,en,G57,SP1000,2010,McFarland,,,,,,,2021-06-07,DP,2021-06-07,DP
