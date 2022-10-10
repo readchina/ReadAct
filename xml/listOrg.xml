@@ -16,9 +16,8 @@
   <org xml:id="AG0630">
     <orgName xml:lang="en" type="main" from="1921">Central Committee of the Communist Party in China</orgName>
     <orgName xml:lang="zh" type="main" from="1921">中国共产党中央委员会</orgName>
-    <orgName xml:lang="zh" type="main" from="1922" to="1927">中国共产党中央执行委员会</orgName>
-    <orgName xml:lang="zh" type="alias" from="1921" to="1922">中国共产党中央局</orgName>
-    <orgName xml:lang="zh" type="alias" from="1921">中国共产党中央委员会</orgName>
+    <orgName xml:lang="zh" type="main" from="1921">中国共产党中央执行委员会</orgName>
+    <orgName xml:lang="zh" type="alias" from-custom="1921 1921.0" to="1922">中国共产党中央局</orgName>
     <placeName ref="#SP0005"/>
   </org>
   <org xml:id="AG0631">
@@ -58,9 +57,9 @@
     <idno type="wikidata">Q10872932</idno>
   </org>
   <org xml:id="AG0637">
-    <orgName xml:lang="en" type="main" from="1928">Alexandrov Ensemble</orgName>
     <orgName xml:lang="ru" type="main" from="1928">Ансамбль песни и пляски Российской армии имени А. В. Александрова</orgName>
     <orgName xml:lang="zh" type="main" from="1928">亚历山德罗夫红旗歌舞团</orgName>
+    <orgName xml:lang="en" type="main" from="1928">Alexandrov Ensemble</orgName>
     <placeName ref="#SP0030"/>
     <idno type="wikidata">Q620990</idno>
     <listBibl>

@@ -8650,8 +8650,8 @@
     </note>
   </bibl>
   <bibl xml:id="W0860" type="text" subtype="fictional" status="unspecified-access">
-    <title xml:lang="en" type="main">The Secret of The ‚Venus People‘</title>
-    <title xml:lang="zh" type="main">‘金星人’之谜</title>
+    <title xml:lang="en" type="main">The Secret of The 'Venus People'</title>
+    <title xml:lang="zh" type="main">'金星人'之谜</title>
     <author ref="#AG0755"/>
     <date type="first-chinese-edition" when="1979"/>
     <biblScope unit="page">154-184</biblScope>

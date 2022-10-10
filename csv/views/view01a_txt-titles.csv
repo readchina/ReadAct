@@ -31,6 +31,7 @@ A00014,W0009,The New Class
 A00091,W0009,The New Class
 A00164,W0009,The New Class
 A01202,W0009,The New Class
+A01652,W0009,The New Class
 A00010,W0010,Letters Between Two
 A00015,W0010,Letters Between Two
 A00016,W0010,Letters Between Two
@@ -45,6 +46,11 @@ A00022,W0014,Le Balcon
 A00033,W0016,Morning Shadow
 A00034,W0017,Gambara
 A00035,W0018,Eugénie Grandet
+A01428,W0018,Eugénie Grandet
+A01435,W0018,Eugénie Grandet
+A01612,W0018,Eugénie Grandet
+A01613,W0018,Eugénie Grandet
+A01614,W0018,Eugénie Grandet
 A00037,W0019,New Vietnamese Chinese Newspaper
 A00088,W0020,Light Above the Land
 A00038,W0021,Watching the Barley Harvest
@@ -75,12 +81,19 @@ A00062,W0038,Dream of the Red Chamber
 A00063,W0038,Dream of the Red Chamber
 A00253,W0038,Dream of the Red Chamber
 A00299,W0038,Dream of the Red Chamber
+A01401,W0038,Dream of the Red Chamber
+A01630,W0038,Dream of the Red Chamber
 A00071,W0040,My Autobiography
 A00072,W0041,The House with the Mezzanine
 A00073,W0042,For Mr. Yan Wenliang
 A00074,W0043,What is to be Done?
 A00074,W0043,Что делать?
 A00730,W0044,Quotations From Chairman Mao Tse-tung
+A01676,W0044,Quotations From Chairman Mao Tse-tung
+A01720,W0044,Quotations From Chairman Mao Tse-tung
+A01753,W0044,Quotations From Chairman Mao Tse-tung
+A01771,W0044,Quotations From Chairman Mao Tse-tung
+A01827,W0044,Quotations From Chairman Mao Tse-tung
 A00702,W0045,Project 571
 A00703,W0045,Project 571
 A00924,W0046,Three Character Classic
@@ -109,6 +122,9 @@ A00082,W0063,The Catcher in the Rye
 A00098,W0063,The Catcher in the Rye
 A00230,W0063,The Catcher in the Rye
 A00232,W0063,The Catcher in the Rye
+A01849,W0063,The Catcher in the Rye
+A01850,W0063,The Catcher in the Rye
+A01851,W0063,The Catcher in the Rye
 A00081,W0064,Rudin
 A00394,W0064,Rudin
 A00085,W0065,100.000 Whys
@@ -117,6 +133,7 @@ A01124,W0065,100.000 Whys
 A00086,W0066,A Thousand and One Nights
 A00193,W0066,A Thousand and One Nights
 A01166,W0066,A Thousand and One Nights
+A01864,W0066,A Thousand and One Nights
 A00020,W0067,Quotations From Lu Xun
 A00167,W0068,On the Cult of Personality and its Consequences
 A00168,W0068,On the Cult of Personality and its Consequences
@@ -149,6 +166,7 @@ A00149,W0074,Anti-Dühring
 A00153,W0074,Anti-Dühring
 A00506,W0074,Anti-Dühring
 A00507,W0074,Anti-Dühring
+A01648,W0074,Anti-Dühring
 A00150,W0075,Dialektik der Natur
 A00151,W0075,Dialektik der Natur
 A01047,W0075,Dialektik der Natur
@@ -160,6 +178,22 @@ A00325,W0078,The Gadfly
 A00411,W0078,The Gadfly
 A00412,W0078,The Gadfly
 A00413,W0078,The Gadfly
+A01443,W0078,The Gadfly
+A01444,W0078,The Gadfly
+A01445,W0078,The Gadfly
+A01446,W0078,The Gadfly
+A01447,W0078,The Gadfly
+A01448,W0078,The Gadfly
+A01454,W0078,The Gadfly
+A01456,W0078,The Gadfly
+A01458,W0078,The Gadfly
+A01459,W0078,The Gadfly
+A01460,W0078,The Gadfly
+A01463,W0078,The Gadfly
+A01464,W0078,The Gadfly
+A01471,W0078,The Gadfly
+A01473,W0078,The Gadfly
+A01476,W0078,The Gadfly
 A00173,W0079,Denouncing Fascism
 A00175,W0080,The Insulted and Humiliated
 A00175,W0080,Униженные и оскорблённые
@@ -195,7 +229,9 @@ A00716,W0095,How the Steel was Tempered
 A00717,W0095,How the Steel was Tempered
 A01025,W0095,How the Steel was Tempered
 A01026,W0095,How the Steel was Tempered
-A01027,W0095,How the Steel was Tempered
+A01455,W0095,How the Steel was Tempered
+A01457,W0095,How the Steel was Tempered
+A01773,W0095,How the Steel was Tempered
 A00196,W0096,Great Changes in a Mountain Village
 A00197,W0097,Bolivian Diary
 A00198,W0097,Bolivian Diary
@@ -218,6 +254,7 @@ A00214,W0105,The Road to Serfdom
 A00215,W0105,The Road to Serfdom
 A01065,W0105,The Road to Serfdom
 A01200,W0105,The Road to Serfdom
+A01650,W0105,The Road to Serfdom
 A00217,W0106,Windows of the Westward Train
 A00218,W0106,Windows of the Westward Train
 A00219,W0108,Prophecy
@@ -225,6 +262,7 @@ A00220,W0109,The Brief Logic by Hegel
 A00221,W0110,Catch-22
 A00223,W0112,Les Misérables
 A00224,W0112,Les Misérables
+A01626,W0112,Les Misérables
 A00234,W0114,Fortitude
 A00234,W0114,Мужество
 A01055,W0115,Conquest Without War
@@ -248,10 +286,14 @@ A00637,W0123,The State and the Revolution
 A00638,W0123,The State and the Revolution
 A00639,W0123,The State and the Revolution
 A00640,W0123,The State and the Revolution
+A01645,W0123,The State and the Revolution
+A01660,W0123,The State and the Revolution
 A00637,W0123,Государство и революция
 A00638,W0123,Государство и революция
 A00639,W0123,Государство и революция
 A00640,W0123,Государство и революция
+A01645,W0123,Государство и революция
+A01660,W0123,Государство и революция
 A00242,W0124,Monologue
 A00641,W0124,Monologue
 A00244,W0125,Commentary on the Water Classic
@@ -271,6 +313,8 @@ A00476,W0131,Water Margin
 A00477,W0131,Water Margin
 A00490,W0131,Water Margin
 A01365,W0131,Water Margin
+A01817,W0131,Water Margin
+A01820,W0131,Water Margin
 A00256,W0132,Utopia
 A00257,W0133,La Chartreuse de Parme
 A00259,W0134,Journey to the West
@@ -278,12 +322,17 @@ A00801,W0134,Journey to the West
 A00802,W0134,Journey to the West
 A01175,W0134,Journey to the West
 A01176,W0134,Journey to the West
+A01813,W0134,Journey to the West
+A01829,W0134,Journey to the West
+A01830,W0134,Journey to the West
+A01869,W0134,Journey to the West
 A00263,W0135,Art Through the Ages
 A00267,W0136,The History of the Decline and Fall of the Roman Empire
 A00268,W0137,The Imitation of Christ
 A00269,W0138,Romance of the Three Kingdoms
 A00708,W0138,Romance of the Three Kingdoms
 A00709,W0138,Romance of the Three Kingdoms
+A01400,W0138,Romance of the Three Kingdoms
 A00270,W0139,Story of the Golden Monkey
 A00271,W0140,The Scalpel the sword
 A00272,W0141,The Sun Shines over the Sanggan River
@@ -299,6 +348,7 @@ A00651,W0151,Red Star Over China
 A00308,W0152,Ten Days That Shook the World
 A00312,W0153,The Rout
 A00695,W0153,The Rout
+A01643,W0153,The Rout
 A00314,W0154,In Memory of Norman Bethune
 A00326,W0155,The Diary of Anne Frank
 A00328,W0155,The Diary of Anne Frank
@@ -316,8 +366,13 @@ A00370,W0160,War and Peace
 A00373,W0160,War and Peace
 A00374,W0160,War and Peace
 A00375,W0160,War and Peace
+A01461,W0160,War and Peace
+A01467,W0160,War and Peace
+A01468,W0160,War and Peace
+A01625,W0160,War and Peace
 A00371,W0161,Anna Karenina
 A00376,W0161,Anna Karenina
+A01644,W0161,Anna Karenina
 A00372,W0162,Resurrection
 A00380,W0163,A Study of History
 A00381,W0163,A Study of History
@@ -334,6 +389,8 @@ A00405,W0171,Le Cimetière Marin
 A00406,W0171,Le Cimetière Marin
 A01363,W0171,Le Cimetière Marin
 A00410,W0172,Twenty Thousand Leagues Under the Sea
+A01856,W0172,Twenty Thousand Leagues Under the Sea
+A01857,W0172,Twenty Thousand Leagues Under the Sea
 A00425,W0174,Babi Yar and Others
 A00426,W0174,Babi Yar and Others
 A00427,W0174,Babi Yar and Others
@@ -353,6 +410,9 @@ A00439,W0180,Jean-Christophe
 A00441,W0180,Jean-Christophe
 A00442,W0180,Jean-Christophe
 A01364,W0180,Jean-Christophe
+A01422,W0180,Jean-Christophe
+A01430,W0180,Jean-Christophe
+A01431,W0180,Jean-Christophe
 A00443,W0181,Vie de Beethoven
 A00444,W0181,Vie de Beethoven
 A00449,W0182,The Rommel Papers
@@ -460,6 +520,12 @@ A00710,W0246,Red Crag
 A00711,W0246,Red Crag
 A00712,W0246,Red Crag
 A00713,W0246,Red Crag
+A01465,W0246,Red Crag
+A01470,W0246,Red Crag
+A01475,W0246,Red Crag
+A01498,W0246,Red Crag
+A01499,W0246,Red Crag
+A01618,W0246,Red Crag
 A00718,W0247,Look Back in Anger
 A00719,W0247,Look Back in Anger
 A00720,W0247,Look Back in Anger
@@ -481,6 +547,10 @@ A00736,W0254,Swimming
 A00737,W0255,Selected Works of Mao Zedong
 A00738,W0255,Selected Works of Mao Zedong
 A00739,W0255,Selected Works of Mao Zedong
+A01727,W0255,Selected Works of Mao Zedong
+A01756,W0255,Selected Works of Mao Zedong
+A01757,W0255,Selected Works of Mao Zedong
+A01772,W0255,Selected Works of Mao Zedong
 A00740,W0256,Talks at the Yenan Forum on Literature and Art
 A01009,W0257,One Dimensional Man
 A00741,W0258,Das Kapital
@@ -489,6 +559,8 @@ A00743,W0258,Das Kapital
 A00744,W0258,Das Kapital
 A00745,W0258,Das Kapital
 A00746,W0258,Das Kapital
+A01674,W0258,Das Kapital
+A01751,W0258,Das Kapital
 A00747,W0259,Kritik des Gothaer Programms
 A01008,W0260,Ökonomisch-philosophischen Manuskripte aus dem Jahre 1844
 A00749,W0261,La Révolution Française
@@ -529,6 +601,9 @@ A00914,W0287,Soviet Domestic Capitalist Restoration Note (1953~1973)
 A00915,W0288,Stalinism
 A00916,W0289,Bible
 A00949,W0289,Bible
+A01403,W0289,Bible
+A01826,W0289,Bible
+A01966,W0289,Bible
 A00917,W0290,English-Chinese dictionary
 A00918,W0291,XXX
 A00919,W0292,Normal Human Anatomy
@@ -545,6 +620,9 @@ A00932,W0299,Empty Fort Strategy
 A00933,W0300,Movie Literature
 A00937,W0301,Collection of Poisonous grass
 A00938,W0302,Water Margin
+A01763,W0302,Water Margin
+A01764,W0302,Water Margin
+A01765,W0302,Water Margin
 A00943,W0303,People's Literature
 A01129,W0304,Xiangjiang Literature
 A00944,W0305,Deng Xiaoping
@@ -571,6 +649,9 @@ A01104,W0324,Three Hundred Tang Poems
 A01105,W0324,Three Hundred Tang Poems
 A01106,W0324,Three Hundred Tang Poems
 A01107,W0324,Three Hundred Tang Poems
+A01615,W0324,Three Hundred Tang Poems
+A01616,W0324,Three Hundred Tang Poems
+A01617,W0324,Three Hundred Tang Poems
 A01115,W0325,World Literature
 A01116,W0326,Foreign Literature Studies
 A01117,W0327,XXX
@@ -579,11 +660,13 @@ A01122,W0329,Oriental Magazine
 A01123,W0330,Today
 A01125,W0331,Andersen's Fairy Tales
 A01126,W0332,Selected Works of Marx and Engels
+A01752,W0332,Selected Works of Marx and Engels
 A01127,W0333,Going to School
 A01130,W0334,Erospace Knowledge
 A01131,W0335,Knowledge is Power
 A01132,W0336,Art
 A01134,W0337,China Pictorial
+A01950,W0337,China Pictorial
 A01135,W0338,People's Liberation Army Pictorial
 A01137,W0339,Guangming Daily
 A01139,W0340,Rotten Mountain Flower
@@ -616,6 +699,10 @@ A01315,W0365,The Poor
 A01195,W0366,Mountain Township and Blood Fire
 A01197,W0367,Song of Youth
 A01198,W0367,Song of Youth
+A01450,W0367,Song of Youth
+A01451,W0367,Song of Youth
+A01452,W0367,Song of Youth
+A01453,W0367,Song of Youth
 A01304,W0368,Internal Medicine
 A01305,W0369,Family Background Theory
 A01306,W0369,Family Background Theory
@@ -659,6 +746,9 @@ A01194,W0401,Book on Xinjiang
 A01018,W0403,Farewell Leighton Stuart
 A01322,W0406,Chinese Historical Anthology
 A01323,W0407,The Hurricane
+A01495,W0407,The Hurricane
+A01496,W0407,The Hurricane
+A01497,W0407,The Hurricane
 A01324,W0408,The Aesthetic History of West
 A01325,W0408,The Aesthetic History of West
 A01327,W0409,Le Cygne
@@ -668,7 +758,178 @@ A01332,W0411,Autumn Floods
 A01333,W0412,Zuo Zhuan
 A01334,W0412,Zuo Zhuan
 A01201,W0413,The Third Way
+A01651,W0413,The Third Way
+A01500,W0415,The Little Mermaid
+A01503,W0415,The Little Mermaid
+A01336,W0864,The Little Match Girl
 A00861,W0416,Pushkin poetry
+A01501,W0416,Pushkin poetry
+A01502,W0865,The Ugly Duckling
 A01343,W0417,On Richard Nixon
+A01402,W0655,The Plum in The Golden Vase
+A01404,W0656,Die Worte der Fünf Weisen
+A01404,W0656,Les Paroles des Cinq Vieillards
+A01405,W0657,Don Quixote
+A01406,W0657,Don Quixote
+A01407,W0657,Don Quixote
+A01405,W0657,Don Quijote de la Mancha
+A01406,W0657,Don Quijote de la Mancha
+A01407,W0657,Don Quijote de la Mancha
+A01409,W0658,Ursule Mirouët
+A01410,W0658,Ursule Mirouët
+A01411,W0658,Ursule Mirouët
+A01412,W0658,Ursule Mirouët
+A01413,W0658,Ursule Mirouët
+A01414,W0658,Ursule Mirouët
+A01429,W0658,Ursule Mirouët
+A01438,W0658,Ursule Mirouët
+A01421,W0659,Father Goriot
+A01427,W0659,Father Goriot
+A01437,W0659,Father Goriot
+A01421,W0659,Le Père Goriot
+A01427,W0659,Le Père Goriot
+A01437,W0659,Le Père Goriot
+A01436,W0661,Cousin Pons
+A01697,W0661,Cousin Pons
+A01698,W0661,Cousin Pons
+A01709,W0661,Cousin Pons
+A01432,W0664,The Hunchback of Notre-Dame
+A01432,W0664,Norte Dame de Paris
+A01433,W0665,Colonel Charbert
+A01434,W0666,Madame Bovary
+A01439,W0666,Madame Bovary
+A01440,W0666,Madame Bovary
+A01479,W0667,The Watch
+A01480,W0667,The Watch
+A01482,W0667,The Watch
+A01483,W0667,The Watch
+A01484,W0667,The Watch
+A01485,W0667,The Watch
+A01486,W0667,The Watch
+A01654,W0667,The Watch
+A01474,W0668,Diary of a Madman
+A01836,W0668,Diary of a Madman
+A01877,W0668,Diary of a Madman
+A01603,W0669,Collected Works of Mao Dun
+A01604,W0669,Collected Works of Mao Dun
+A01605,W0669,Collected Works of Mao Dun
+A01606,W0670,The Selected Works of Gaidar
+A01610,W0670,The Selected Works of Gaidar
+A01611,W0670,The Selected Works of Gaidar
+A01466,W0671,The Lyrics of the New Wedding Cage
+A01469,W0671,The Lyrics of the New Wedding Cage
+A01600,W0671,The Lyrics of the New Wedding Cage
+A01601,W0671,The Lyrics of the New Wedding Cage
+A01602,W0671,The Lyrics of the New Wedding Cage
+A01627,W0673,La Dame aux Camellias
+A01637,W0679,The Two Fishermen
+A01638,W0680,The Last Lesson
+A01641,W0681,The Iron Flood
+A01642,W0682,Mother
+A01646,W0682,Mother
+A01649,W0683,The Poverty of Philosophy
+A01649,W0683,Misère de la Philosophie
+A01653,W0685,Analysis of the Classes in Chinese Society
+A01655,W0686,Red Banner of Northern China
+A01656,W0693,World Culture
+A01657,W0695,The Five Heroes in the Eastern Capital
+A01658,W0696,L‘Avare
+A01661,W0697,Left-Wing Communism
+A01667,W0697,Left-Wing Communism
+A01662,W0698,Outline to Political Economy
+A01664,W0698,Outline to Political Economy
+A01665,W0699,Jiu Guo Shi Bao
+A01665,W0699,Au Secours de la Patrie
 A00647,W0700,unknown
 A01380,W0701,unknown
+A01659,W0711,How to Study The New Social Sciences
+A01677,W0713,Silent Spring
+A01678,W0713,Silent Spring
+A01679,W0713,Silent Spring
+A01680,W0713,Silent Spring
+A01681,W0713,Silent Spring
+A01682,W0713,Silent Spring
+A01683,W0713,Silent Spring
+A01687,W0713,Silent Spring
+A01690,W0714,Journal of Astrophysics
+A01692,W0715,Love of Life
+A01693,W0715,Love of Life
+A01695,W0715,Love of Life
+A01696,W0715,Love of Life
+A01701,W0716,Short Song
+A01721,W0718,New Chinese Dictionary
+A01731,W0718,New Chinese Dictionary
+A01732,W0718,New Chinese Dictionary
+A01733,W0718,New Chinese Dictionary
+A01734,W0718,New Chinese Dictionary
+A01739,W0718,New Chinese Dictionary
+A01740,W0718,New Chinese Dictionary
+A01742,W0718,New Chinese Dictionary
+A01743,W0718,New Chinese Dictionary
+A01749,W0719,Selected Works of Lenin
+A01750,W0720,Required Reading for Cadres
+A01754,W0721,Quotations from Vice-Chairman Lin Biao
+A01778,W0725,The Newcomer
+A01779,W0725,The Newcomer
+A01778,W0725,Повесть о директоре МТС и главном агрономе
+A01779,W0725,Повесть о директоре МТС и главном агрономе
+A01780,W0726,And Quiet Flows The Don
+A01782,W0727,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern
+A01783,W0728,1984
+A01784,W0728,1984
+A01785,W0728,1984
+A01786,W0728,1984
+A02050,W0728,1984
+A01791,W0729,Paradise Lost
+A01815,W0730,The History of Future City
+A01816,W0730,The History of Future City
+A01823,W0730,The History of Future City
+A01837,W0732,The Crystal Spheres
+A01844,W0733,Restaurant at The End of The Universe
+A01858,W0734,Huainanzi
+A01861,W0735,Odyssey
+A01865,W0736,Xunzi
+A01867,W0737,The Guinness Book of World Records
+A01868,W0738,Three Alls Policy
+A01872,W0739,The Hitchhiker’s Guide to The Universe
+A01880,W0741,Mathematical Principles of Natural Philosophy
+A01885,W0742,As if in a dream
+A01888,W0743,Erewhon
+A01889,W0744,Erewhon Revisited
+A01890,W0745,Design For a Brain
+A01897,W0746,Journal International Microbiology
+A01904,W0747,Die Gute Hausfrau
+A01920,W0748,Othello
+A01914,W0749,The Smiling Proud Wanderer
+A01922,W0750,Runaround
+A01918,W0752,Iliad
+A01956,W0753,Jiefangjun Bao
+A01959,W0756,Abhandlung über die Bildung von Hautexzemen
+A01960,W0756,Abhandlung über die Bildung von Hautexzemen
+A01961,W0757,Sporenlehre
+A01969,W0758,Oxford English Dictionary
+A01970,W0759,In His Image
+A01971,W0760,Alice’s Travel
+A01978,W0761,Confessions of a Murderer
+A01979,W0762,The Road to Riches
+A01980,W0763,Love on The Isle of God
+A01986,W0764,World Art
+A02001,W0765,River Snow
+A02002,W0766,Yellow Crane Tower
+A02003,W0767,Spring Dawn
+A02004,W0768,Going Down to Jiangling
+A02005,W0769,Quiet Night Thought
+A02006,W0770,Seeing off Meng Haoran for Guangling at Yellow Crane Tower
+A01999,W0771,Climbing Stork Tower
+A02000,W0771,Climbing Stork Tower
+A02017,W0774,The Orphans
+A02019,W0775,Rumpelstilzchen
+A02019,W0775,Rumpelstiltskin
+A02034,W0777,Chu Ci
+A02039,W0778,I Ching or Book of Changes
+A02040,W0779,The Secret of The Golden Flower
+A02042,W0780,Adam and Eve
+A02048,W0781,Doraemon
+A02049,W0782,Peter Pan
+A02056,W0783,Cannibalism
+A02057,W0783,Cannibalism
