@@ -4,3 +4,6 @@
 # MSoffice
 *.docx diff=astextplain
 *.xlsx diff=astextplain
+
+*.csv diff=daff-csv
+*.csv merge=daff-csv
