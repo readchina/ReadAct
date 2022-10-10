@@ -6,12 +6,30 @@ This repository contains the main data files for the *ReadAct* database. *ReadAc
 
 [ReadActor](https://github.com/readchina/ReadActor) is an accompanying tool for automating [wikidata](https://www.wikidata.org/) lookups and data retrieval. We encourage anybody working with ReadAct to familiarize themselves with its capabilities.
 
+## Use
+
+The canonical data is located in `csv/data/*.csv`. It captures reading acts on the main table `Act.csv` with relational tables branching of it. These are the files to work with when developing ReadActor. You can query the data programmatically within you language and application of choice. 
+
+For convenience we also provide a copy of the data as `tei-xml` inside `xml/*.xml` the `tei-header.xml` specifies `xincludes` that create a full TEI representation of the dataset. These files are automatically generated, you can regenerate them locally by running the transformations inside `xml/modules/` with your preferred xquery processor. 
+
+Both xml and csv are continuously updated and validated on CI. 
+
+## Requirements
+
+To use the data any xml or csv capable text-editor will do. 
+
 ## Requirements for local development
 
+-  Python: `>=3.8`
 - [frictionless-py](https://github.com/frictionlessdata/frictionless-py)
 - [ReadActor](https://github.com/readchina/ReadActor) (*helper module*)
+- [daff](https://github.com/paulfitz/daff)(*for better csv diffing*)
 - [basex](https://basex.org) (*testing only*)
 - [textql](https://github.com/dinedal/textql) (*testing only*)
+
+Provided you have python installed, run:
+
+`pip install ReadActor pandas frictionless csvkit daff`
 
 
 ## New contributors
