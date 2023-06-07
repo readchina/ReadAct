@@ -601,6 +601,114 @@
           }
         }
       }
+    },
+    {
+      "title": "Titles of textual works",
+      "resources": {
+        "name": "view5a",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05a_RA_source_G44.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Textual works when Reading Acts are sellected basing on the genre of their source (autobiography)",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05a_RA_source_G44.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Titles of textual works",
+      "resources": {
+        "name": "view5b",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05b_RA_source_G07.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Textual works when Reading Acts are sellected basing on the genre of their source (science fiction)",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05b_RA_source_G07.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Titles of textual works",
+      "resources": {
+        "name": "view5c",
+        "data": {
+          "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05c_RA_source_fiction.csv"
+        },
+        "specType": "vega-lite",
+        "spec": {
+          "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+          "description": "Textual works, when Reading Acts are sellected basing on the genre type of their source (fiction)",
+          "data": {
+            "url": "https://raw.githubusercontent.com/readchina/ReadAct/master/csv/views/view05c_RA_source_fiction.csv"
+          },
+          "mark": {
+            "type": "bar",
+            "tooltip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "title",
+              "type": "ordinal",
+              "axis": {
+                "labelAngle": 0
+              },
+              "sort": "-y"
+            },
+            "y": {
+              "aggregate": "count",
+              "field": "act_object",
+              "type": "quantitative"
+            }
+          }
+        }
+      }
     }
   ]
 }
