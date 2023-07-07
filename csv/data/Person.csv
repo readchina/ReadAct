@@ -164,8 +164,8 @@ AG0080,Anagnosti,Dhimitër,en,male,0,1936,XXXX,,SP0032,,,,https://en.wikipedia.o
 AG0081,安德列耶夫,列昂尼德,zh,male,0,1871,1919,,SP0033,,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0081,Андре́ев,Леони́д,ru,male,0,1871,1919,,SP0033,,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0081,Andreyev,Leonid,en,male,0,1871,1919,,SP0033,,,,https://en.wikipedia.org/wiki/Leonid_Andreyev,,,,,,,2017-07-09,OS,2020-04-02,DP
-AG0082,Aristotle,,en,male,0,-384,-322,,SP0034,,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,,2017-07-09,OS,2022-09-21,QG
-AG0082,Ἀριστοτέλης,,grc,male,0,-384,-322,,SP0034,,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,,2017-07-09,OS,2022-09-21,QG
+AG0082,Aristotle,,en,male,0,-0384,-0322,,SP0034,,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,,2017-07-09,OS,2022-09-21,QG
+AG0082,Ἀριστοτέλης,,grc,male,0,-0384,-0322,,SP0034,,,,https://en.wikipedia.org/wiki/Aristotle,,,,,,,2017-07-09,OS,2022-09-21,QG
 AG0083,Artsybashev,Mikhail,en,male,0,1878,1927,,SP0035,,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0083,Арцыба́шев,Михаи́л,ru,male,0,1878,1927,,SP0035,,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,,2017-07-09,OS,2020-04-02,DP
 AG0083,阿尔志跋绥夫,米哈伊尔,zh,male,0,1878,1927,,SP0035,,,,https://en.wikipedia.org/wiki/Mikhail_Artsybashev,,,,,,,2017-07-09,OS,2020-04-02,DP
@@ -178,8 +178,8 @@ AG0086,Бабаевский,Семён,ru,male,0,1909,2000,,SP0037,,,,https://en
 AG0086,巴巴耶夫斯基,谢苗,zh,male,0,1909,2000,,SP0037,,,,https://en.wikipedia.org/wiki/Semyon_Babayevsky,,,,,,,2017-07-10,OS,2020-04-02,DP
 AG0087,巴赫,约翰·塞巴斯蒂安,zh,male,0,1685,1750,,SP0038,,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,,2017-07-10,OS,2020-04-02,DP
 AG0087,Bach,Johann Sebastian,en,male,0,1685,1750,,SP0038,,,,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach,,,,,,,2017-07-10,OS,2020-04-02,DP
-AG0088,Bai,Juyi,en,male,0,772,846,,SP0049,,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,,2017-07-10,OS,2022-09-21,QG
-AG0088,白,居易,zh,male,0,772,846,,SP0049,,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,,2017-07-10,OS,2022-09-21,QG
+AG0088,Bai,Juyi,en,male,0,0772,0846,,SP0049,,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,,2017-07-10,OS,2022-09-21,QG
+AG0088,白,居易,zh,male,0,0772,0846,,SP0049,,,,https://en.wikipedia.org/wiki/Bai_Juyi,,,,,,,2017-07-10,OS,2022-09-21,QG
 AG0089,Balmont,Konstantin,en,male,0,1876,1942,,SP0042,,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,,2017-07-10,OS,2020-04-02,DP
 AG0089,Бальмо́нт,Константи́н,ru,male,0,1876,1942,,SP0042,,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,,2017-07-10,OS,2020-04-02,DP
 AG0089,巴尔蒙特,康斯坦丁,zh,male,0,1876,1942,,SP0042,,,,https://en.wikipedia.org/wiki/Konstantin_Balmont,,,,,,,2017-07-10,OS,2020-04-02,DP
@@ -328,12 +328,12 @@ AG0158,列寧,弗拉基米尔,zh,male,0,1870,1924,弗拉基米尔 伊里奇 列�
 AG0158,Ленин,Владимир,ru,male,0,1870,1924,Влади́мир Ильи́ч Улья́нов,SP0097,,,,https://en.wikipedia.org/wiki/Vladimir_Lenin,ONLINE SOURCE,,,,,,2017-10-24,MG,2020-04-02,DP
 AG0159,李,汝珍,zh,male,0,1763,1830,松石道人,SP0005,,,,https://en.wikipedia.org/wiki/Li_Ruzhen,ONLINE SOURCE,,,,,,2017-10-25,MG,2020-04-02,DP
 AG0159,Li,Ruzhen,en,male,0,1763,1830,Songsh Daoren,SP0005,,,,https://en.wikipedia.org/wiki/Li_Ruzhen,ONLINE SOURCE,,,,,,2017-10-25,MG,2020-04-02,DP
-AG0160,Fan,Zhen,en,male,0,450,515,,SP0100,,,,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
-AG0160,范,缜,zh,male,0,450,515,,SP0100,,,,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
-AG0161,Yi,Jia,en,male,0,-200,-169,Yi Sheng,SP0080,,,,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
-AG0161,贾,谊,zh,male,0,-200,-169,贾生,SP0080,,,,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
-AG0162,Kongzi,,en,male,0,-551,-479,Kong Fuzi,SP0101,,,,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
-AG0162,孔子,,zh,male,0,-551,-479,孔夫子,SP0101,,,,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0160,Fan,Zhen,en,male,0,0450,0515,,SP0100,,,,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0160,范,缜,zh,male,0,0450,0515,,SP0100,,,,https://en.wikipedia.org/wiki/Fan_Zhen,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0161,Yi,Jia,en,male,0,-0200,-0169,Yi Sheng,SP0080,,,,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0161,贾,谊,zh,male,0,-0200,-0169,贾生,SP0080,,,,https://en.wikipedia.org/wiki/Jia_Yi,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0162,Kongzi,,en,male,0,-0551,-0479,Kong Fuzi,SP0101,,,,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
+AG0162,孔子,,zh,male,0,-0551,-0479,孔夫子,SP0101,,,,https://de.wikipedia.org/wiki/Konfuzius,ONLINE SOURCE,,,,,,2017-10-30,MG,2022-09-21,QG
 AG0163,Kuan,Huan,en,male,0,XXXX,XXXX,,SP0102,,,,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,,,2017-10-30,MG,2020-04-02,DP
 AG0163,桓,宽,zh,male,0,XXXX,XXXX,,SP0102,,,,https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC,ONLINE SOURCE,,,,,,2017-10-30,MG,2020-04-02,DP
 AG0164,Salinger,Jerome David,en,male,0,1919,2010,,SP0053,,,,https://de.wikipedia.org/wiki/J._D._Salinger,ONLINE SOURCE,,,,,,2017-12-14,MG,2020-04-02,DP
@@ -521,8 +521,8 @@ AG0249,顾,蕴璞,zh,male,2,1931,XXXX,,SP0183,,,,https://baike.baidu.com/item/%E
 AG0249,Gu,Yunpu,en,male,2,1931,XXXX,,SP0183,,,,https://baike.baidu.com/item/%E9%A1%BE%E8%95%B4%E7%92%9E,ONLINE SOURCE,,,,,,2018-02-27,OS,2020-04-02,DP
 AG0250,Kang,Zhengguo,en,male,1,1944,XXXX,,SP0184,,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,,,,2018-02-27,OS,2020-04-02,DP
 AG0250,康,正果,zh,male,1,1944,XXXX,,SP0184,,,,https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%AD%A3%E6%9E%9C,ONLINE SOURCE,,,,,,2018-02-27,OS,2020-04-02,DP
-AG0251,Li,Daoyuan,en,male,0,0466..0472,527,,SP0185,,,,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,,2018-02-27,OS,2022-09-21,QG
-AG0251,郦,道元,zh,male,0,0466..0472,527,,SP0185,,,,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,,2018-02-27,OS,2022-09-21,QG
+AG0251,Li,Daoyuan,en,male,0,0466..0472,0527,,SP0185,,,,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,,2018-02-27,OS,2022-09-21,QG
+AG0251,郦,道元,zh,male,0,0466..0472,0527,,SP0185,,,,https://en.wikipedia.org/wiki/Li_Daoyuan,ONLINE SOURCE,,,,,,2018-02-27,OS,2022-09-21,QG
 AG0252,Zhao,Yuesheng,en,male,2,1955~,XXXX,,SP0436,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,,2018-02-27,OS,2020-04-02,DP
 AG0252,赵,越胜,zh,male,2,1955~,XXXX,,SP0436,,,,https://baike.baidu.com/item/%E8%B5%B5%E8%B6%8A%E8%83%9C,ONLINE SOURCE,,,,,,2018-02-27,OS,2020-04-02,DP
 AG0253,Tang,Ke,en,male,3,"[1952,1962]",XXXX,,SP0436,,,,W0499,279ff.,,,,,,2018-02-27,OS,2020-04-02,DP
@@ -569,8 +569,8 @@ AG0276,Dong,Xiwen,en,male,0,1914,1973,,SP0048,,,,https://zh.wikipedia.org/wiki/%
 AG0276,董,希文,zh,male,0,1914,1973,,SP0048,,,,https://zh.wikipedia.org/wiki/%E8%91%A3%E5%B8%8C%E6%96%87,,,,,,,2018-03-17,WH,2020-04-02,DP
 AG0277,Dreiser,Theodore,en,male,0,1871,1945,,SP0211,,,,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,,,2018-03-28,WH,2020-04-02,DP
 AG0277,德莱塞,西奥多,zh,male,0,1871,1956,,SP0211,,,,https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A5%A5%E5%A4%9A%C2%B7%E5%BE%B7%E8%8E%B1%E8%B5%9B,,,,,,,2018-03-28,WH,2020-04-02,DP
-AG0278,Du,Fu,en,male,0,712,770,,SP0212,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,,2018-03-28,WH,2022-09-21,QG
-AG0278,杜,甫,zh,male,0,712,770,,SP0212,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,,2018-03-28,WH,2022-09-21,QG
+AG0278,Du,Fu,en,male,0,0712,0770,,SP0212,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,,2018-03-28,WH,2022-09-21,QG
+AG0278,杜,甫,zh,male,0,0712,0770,,SP0212,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB,,,,,,,2018-03-28,WH,2022-09-21,QG
 AG0279,杜,鹏程,zh,male,0,1922,1911,,SP0213,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,,,2018-03-28,WH,2020-04-02,DP
 AG0279,Du,Pengcheng,en,male,0,1922,1991,,SP0213,,,,https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B9%8F%E7%A8%8B,,,,,,,2018-03-28,WH,2020-04-02,DP
 AG0280,Dumas,Alexandre fils,en,male,0,1824,1895,,SP0050,,,,https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%BB%B2%E9%A9%AC,,,,,,,2018-04-11,WH,2020-04-02,DP
@@ -656,8 +656,8 @@ AG0316,Tang,Xianzu,en,male,0,1550,1616,Yireng,SP0239,,,,https://en.wikipedia.org
 AG0316,汤,显祖,zh,male,0,1550,1616,義仍,SP0239,,,,https://en.wikipedia.org/wiki/Tang_Xianzu,ONLINE SOURCE,,,,,,2018-05-08,MG,2020-04-02,DP
 AG0317,唐,圭璋,zh,male,3,1901,1990,,SP0093,,,,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,,,2018-05-08,MG,2020-04-02,DP
 AG0317,Tang,Guizhang,en,male,3,1901,1990,,SP0093,,,,https://zh.wikipedia.org/wiki/%E5%94%90%E5%9C%AD%E7%92%8B,ONLINE SOURCE,,,,,,2018-05-08,MG,2020-04-02,DP
-AG0318,陶,渊明,zh,male,0,365,427,,SP0240,,,,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,,2018-05-14,MG,2022-09-21,QG
-AG0318,Tao,Yuanming,en,male,0,365,427,,SP0240,,,,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,,2018-05-14,MG,2022-09-21,QG
+AG0318,陶,渊明,zh,male,0,0365,0427,,SP0240,,,,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,,2018-05-14,MG,2022-09-21,QG
+AG0318,Tao,Yuanming,en,male,0,0365,0427,,SP0240,,,,https://en.wikipedia.org/wiki/Tao_Yuanming,ONLINE SOURCE,,,,,,2018-05-14,MG,2022-09-21,QG
 AG0319,Valéry,Paul,fr,male,0,1871,1945,,SP0241,,,,https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry,ONLINE SOURCE,,,,,,2018-05-15,MG,2020-04-02,DP
 AG0319,瓦勒里,保羅,zh,male,0,1871,1945,,SP0241,,,,https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry,ONLINE SOURCE,,,,,,2018-05-15,MG,2020-04-02,DP
 AG0320,van Gogh,Vincent Willem,en,male,0,1853,1890,,SP0242,,,,https://en.wikipedia.org/wiki/Vincent_van_Gogh,ONLINE SOURCE,,,,,,2018-05-15,MG,2020-04-02,DP
@@ -841,18 +841,18 @@ AG0401,Шо́лохов,Михаи́л Алекса́ндрович,ru,male,0,19
 AG0401,肖洛霍夫,米哈伊尔·亚历山大罗维奇,zh,male,0,1905,1984,,SP0300,,,,https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E7%88%BE%C2%B7%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E7%BE%85%E7%B6%AD%E5%A5%87%C2%B7%E8%82%96%E6%B4%9B%E9%9C%8D%E5%A4%AB?oldformat=true,ONLINE SOURCE,,,,,,2018-08-06,DM,2020-04-02,DP
 AG0402,Shu,Menglan,en,male,0,1759,1835,,SP0436,,,,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,,,2018-11-15,DM,2020-04-02,DP
 AG0402,舒,梦兰,zh,male,0,1759,1835,,SP0436,,,,https://baike.baidu.com/item/%E8%88%92%E6%A2%A6%E5%85%B0,ONLINE SOURCE,,,,,,2018-11-15,DM,2020-04-02,DP
-AG0403,Sima,Qian,en,male,0,-0145..-0135,-86,Zi Chang,SP0301,,,,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,,,2018-11-15,DM,2022-09-21,QG
-AG0403,司马,迁,zh,male,0,-0145..-0135,-86,子长,SP0301,,,,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,,,2018-11-15,DM,2022-09-21,QG
-AG0404,司马,相如,zh,male,0,-179,-117,,SP0007,,,,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2022-09-21,QG
-AG0404,Sima,Xiangru,en,male,0,-179,-117,,SP0007,,,,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2022-09-21,QG
+AG0403,Sima,Qian,en,male,0,-0145..-0135,-0086,Zi Chang,SP0301,,,,https://en.wikipedia.org/wiki/Sima_Qian?oldformat=true,ONLINE SOURCE,,,,,,2018-11-15,DM,2022-09-21,QG
+AG0403,司马,迁,zh,male,0,-0145..-0135,-0086,子长,SP0301,,,,https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%B7?oldformat=true,ONLINE SOURCE,,,,,,2018-11-15,DM,2022-09-21,QG
+AG0404,司马,相如,zh,male,0,-0179,-0117,,SP0007,,,,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2022-09-21,QG
+AG0404,Sima,Xiangru,en,male,0,-0179,-0117,,SP0007,,,,https://en.wikipedia.org/wiki/Sima_Xiangru?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2022-09-21,QG
 AG0405,Sima,Guang,en,male,0,1019,1086,,SP0150,,,,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
 AG0405,司马,光,zh,male,0,1019,1086,,SP0150,,,,https://en.wikipedia.org/wiki/Sima_Guang?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
 AG0406,Simonov,Konstantin Mikhailovich,en,male,0,1915,1979,,SP0061,,,,https://en.wikipedia.org/wiki/Konstantin_Simonov?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
 AG0406,西蒙诺夫,康斯坦丁·米哈依洛维奇,zh,male,0,1915,1979,,SP0061,,,,https://baike.baidu.com/item/%E5%BA%B7%E6%96%AF%E5%9D%A6%E4%B8%81%C2%B7%E7%B1%B3%E5%93%88%E4%BE%9D%E6%B4%9B%E7%BB%B4%E5%A5%87%C2%B7%E8%A5%BF%E8%92%99%E8%AF%BA%E5%A4%AB,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
 AG0407,Smetana,Bedřich,en,male,0,1824,1884,,SP0302,,,,https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana?oldformat=true,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
 AG0407,斯美塔那,贝德里赫,zh,male,0,1824,1884,,SP0302,,,,https://baike.baidu.com/item/贝德里赫·斯美塔那,ONLINE SOURCE,,,,,,2018-11-17,DM,2020-04-02,DP
-AG0408,Socrates,,en,male,0,-470,-399,,SP0259,,,,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2022-09-21,QG
-AG0408,苏格拉底,,zh,male,0,-470,-399,,SP0259,,,,https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2022-09-21,QG
+AG0408,Socrates,,en,male,0,-0470,-0399,,SP0259,,,,https://en.wikipedia.org/wiki/Socrates?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2022-09-21,QG
+AG0408,苏格拉底,,zh,male,0,-0470,-0399,,SP0259,,,,https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2022-09-21,QG
 AG0409,Song,Yunbin,en,male,3,1897,1979,,SP0303,S03,,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2020-04-02,DP
 AG0409,宋,云彬,zh,male,3,1897,1979,,SP0303,S03,,yes,https://zh.wikipedia.org/zh-hans/%E5%AE%8B%E4%BA%91%E5%BD%AC?oldformat=true,ONLINE SOURCE,,,,,,2019-01-07,DM,2020-04-02,DP
 AG0410,斯宾格勒,奥斯瓦尔德,zh,male,0,1880,1936,,SP0304,,,,https://zh.wikipedia.org/zh-hans/%E5%A5%A7%E6%96%AF%E7%93%A6%E7%88%BE%E5%BE%B7%C2%B7%E6%96%AF%E8%B3%93%E6%A0%BC%E5%8B%92?oldformat=true,ONLINE SOURCE,,,,,,2019-01-08,DM,2020-04-02,DP
@@ -882,8 +882,8 @@ AG0421,Fu,Chongju,en,male,0,1875,1917,,SP0317,,,,https://book.douban.com/subject
 AG0421,傅,崇矩,zh,male,0,1875,1917,,SP0317,,,,https://book.douban.com/subject/1733761/,,,,,,,2018-05-03,WH,2020-04-02,DP
 AG0422,Rembrandt,Harmenszoon van Rijn,en,male,0,1606,1669,,SP0318,,,,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,,,2018-06-21,WH,2020-04-02,DP
 AG0422,伦勃朗,哈尔曼松·范·莱因,zh,male,0,1606,1669,,SP0318,,,,https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%8B%83%E6%9C%97,,,,,,,2018-06-21,WH,2020-04-02,DP
-AG0423,Han,Yu,en,male,0,768,824,,SP0319,,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,,2018-06-21,WH,2022-09-21,QG
-AG0423,韩,愈,zh,male,0,768,824,,SP0319,,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,,2018-06-21,WH,2022-09-21,QG
+AG0423,Han,Yu,en,male,0,0768,0824,,SP0319,,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,,2018-06-21,WH,2022-09-21,QG
+AG0423,韩,愈,zh,male,0,0768,0824,,SP0319,,,,https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88,,,,,,,2018-06-21,WH,2022-09-21,QG
 AG0424,Huang,Zongxi,en,male,0,1610,1695,,SP0320,,,,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,,,2018-07-09,WH,2020-04-02,DP
 AG0424,黄,宗羲,zh,male,0,1610,1695,,SP0320,,,,https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%97%E7%BE%B2,,,,,,,2018-07-09,WH,2020-04-02,DP
 AG0425,Huang,Yuxiang,en,male,2,1940~,1940~,,SP0321,,,,http://news.ifeng.com/history/2/200709/0903_336_210958_1.shtml,,,,,,,2018-07-10,WH,2020-04-02,DP
@@ -906,8 +906,8 @@ AG0432,马尔库塞,赫伯特,zh,male,0,1898,1979,,SP0066,,,,https://en.wikipedi
 AG0433,Shulman,Norman,en,male,3,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Jan_Wong,ONLINE SOURCE,,,,,,2018-07-17,MG,2020-04-02,DP
 AG0434,马迪厄,,zh,male,0,1874,1932,,SP0276,,,,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,,2018-07-17,MG,2020-04-02,DP
 AG0434,Mathiez,Albert,fr,male,0,1874,1932,,SP0276,,,,https://en.wikipedia.org/wiki/Albert_Mathiez,ONLINE SOURCE,,,,,,2018-07-17,MG,2020-04-02,DP
-AG0435,Mengzi,,en,male,0,-372,-289,Mencius,SP0278,,,,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,,2018-07-20,MG,2022-09-21,QG
-AG0435,孟子,,zh,male,0,-372,-289,,SP0278,,,,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,,2018-07-20,MG,2022-09-21,QG
+AG0435,Mengzi,,en,male,0,-0372,-0289,Mencius,SP0278,,,,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,,2018-07-20,MG,2022-09-21,QG
+AG0435,孟子,,zh,male,0,-0372,-0289,,SP0278,,,,https://en.wikipedia.org/wiki/Mencius,ONLINE SOURCE,,,,,,2018-07-20,MG,2022-09-21,QG
 AG0436,Mérimée,Prosper,fr,male,0,1803,1870,,SP0050,,,,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,,2018-07-20,MG,2020-04-02,DP
 AG0436,梅里美,普羅斯佩,zh,male,0,1803,1870,,SP0050,,,,https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e,ONLINE SOURCE,,,,,,2018-07-20,MG,2020-04-02,DP
 AG0437,Michelet,Jules,fr,male,0,1798,1874,,SP0050,,,,https://en.wikipedia.org/wiki/Jules_Michelet,ONLINE SOURCE,,,,,,2018-07-20,MG,2020-04-02,DP
@@ -982,15 +982,15 @@ AG0470,Deng,Lijun,en,female,2,1953,1995,Teresa Teng,SP0345,,,,https://en.wikiped
 AG0470,邓,丽君,zh,female,2,1953,1995,,SP0345,,,,https://en.wikipedia.org/wiki/Teresa_Teng,ONLINE SOURCE,,,,,,2018-11-18,MG,2020-04-02,DP
 AG0471,Lennon,John,en,male,0,1940,1980,,SP0134,,,,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,,2018-11-19,MG,2020-04-02,DP
 AG0471,列侬,约翰,zh,male,0,1940,1980,,SP0134,,,,https://en.wikipedia.org/wiki/John_Lennon,ONLINE SOURCE,,,,,,2018-11-19,MG,2020-04-02,DP
-AG0472,Σοφοκλῆς,,grc,male,0,-497,-406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0472,索福克勒斯,,zh,male,0,-497,-406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0472,Sophocles,,en,male,0,-497,-406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0473,欧里庇得斯,,zh,male,0,-480,-406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0473,Εὐριπίδης,,grc,male,0,-480,-406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0473,Euripides,,en,male,0,-480,-406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0474,Aeschylus,,en,male,0,-525,-456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0474,Αἰσχύλος,,grc,male,0,-525,-456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
-AG0474,埃斯库罗斯,,zh,male,0,-525,-456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0472,Σοφοκλῆς,,grc,male,0,-0497,-0406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0472,索福克勒斯,,zh,male,0,-0497,-0406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0472,Sophocles,,en,male,0,-0497,-0406,,SP0259,,,,https://en.wikipedia.org/wiki/Sophocles,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0473,欧里庇得斯,,zh,male,0,-0480,-0406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0473,Εὐριπίδης,,grc,male,0,-0480,-0406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0473,Euripides,,en,male,0,-0480,-0406,,SP0346,,,,https://en.wikipedia.org/wiki/Euripides,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0474,Aeschylus,,en,male,0,-0525,-0456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0474,Αἰσχύλος,,grc,male,0,-0525,-0456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
+AG0474,埃斯库罗斯,,zh,male,0,-0525,-0456,,SP0347,,,,https://en.wikipedia.org/wiki/Aeschylus,ONLINE SOURCE,,,,,,2018-11-21,MG,2022-09-21,QG
 AG0475,Guan,Shanyue,en,male,3,1912,2000,Guan Zepei,SP0348,,,,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,,2018-11-21,MG,2020-04-02,DP
 AG0475,关,山月,zh,male,3,1912,2000,,SP0348,,,,http://www.artnet.com/artists/guan-shanyue/biography,ONLINE SOURCE,,,,,,2018-11-21,MG,2020-04-02,DP
 AG0476,Gauguin,Paul,fr,male,0,1848,1903,,SP0050,,,,https://en.wikipedia.org/wiki/Paul_Gauguin,ONLINE SOURCE,,,,,,2018-11-21,MG,2020-04-02,DP
@@ -1022,10 +1022,10 @@ AG0488,Liu,Qigeng,en,unknown,3,1914,1977,Liu Liu,SP0436,,,,W0414,ONLINE SOURCE,,
 AG0488,刘,其庚,zh,unknown,3,1914,1977,刘流,SP0436,,,,W0414,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
 AG0489,Liu,Tianhua,en,male,0,1895,1932,,SP0355,,,,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
 AG0489,刘,天华,zh,male,0,1895,1932,,SP0355,,,,https://en.wikipedia.org/wiki/Liu_Tianhua,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
-AG0490,Liu,Xiang,en,unknown,0,-77,-6,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
-AG0490,刘,向,zh,unknown,0,-77,-6,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
-AG0491,Liu,Yong,en,male,0,987,1053,,SP0356,,,,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
-AG0491,柳,永,zh,male,0,987,1053,,SP0356,,,,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
+AG0490,Liu,Xiang,en,unknown,0,-0077,-0006,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
+AG0490,刘,向,zh,unknown,0,-0077,-0006,,SP0436,,,,http://www.worldcat.org/identities/lccn-n80057299/,ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
+AG0491,Liu,Yong,en,male,0,0987,1053,,SP0356,,,,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
+AG0491,柳,永,zh,male,0,0987,1053,,SP0356,,,,https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty),ONLINE SOURCE,,,,,,2018-12-11,MG,2022-09-21,QG
 AG0492,London,John Griffith,en,male,0,1876,1916,Jack London,SP0357,,,,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
 AG0492,伦敦,約翰 格里菲斯,zh,male,0,1876,1916,杰克 伦敦,SP0357,,,,https://en.wikipedia.org/wiki/Jack_London,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
 AG0493,龙,榆生,zh,male,0,1902,1966,,SP0358,,,,http://www.wangjingwei.org/en/associates-en/long-yusheng/,ONLINE SOURCE,,,,,,2018-12-11,MG,2020-04-02,DP
@@ -1255,10 +1255,10 @@ AG0601,Zhu,Ziqing,en,male,0,1898,1948,Zhu Zihua,SP0430,,,,https://zh.wikipedia.o
 AG0601,朱,自清,zh,male,0,1898,1948,朱自华,SP0430,,,,https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%87%AA%E6%B8%85,,,,,,,2019-02-24,WH,2020-04-02,DP
 AG0602,Zhu,Xi,en,male,0,1130,1200,,SP0431,,,,https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9,,,,,,,2019-02-24,WH,2020-04-02,DP
 AG0602,朱,熹,zh,male,0,1130,1200,,SP0431,,,,https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9,,,,,,,2019-02-24,WH,2020-04-02,DP
-AG0603,Zhuang,Zhou,en,male,0,-396,-286,,SP0436,,,,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,,2019-02-24,WH,2022-09-21,QG
-AG0603,庄,周,zh,male,0,-396,-286,,SP0436,,,,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,,2019-02-24,WH,2022-09-21,QG
-AG0604,Zuo,Qiuming,en,male,0,-556,-451,,SP0436,,,,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,,2019-02-24,WH,2022-09-21,QG
-AG0604,左,丘明,zh,male,0,-556,-451,,SP0436,,,,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,,2019-02-24,WH,2022-09-21,QG
+AG0603,Zhuang,Zhou,en,male,0,-0396,-0286,,SP0436,,,,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,,2019-02-24,WH,2022-09-21,QG
+AG0603,庄,周,zh,male,0,-0396,-0286,,SP0436,,,,https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90,,,,,,,2019-02-24,WH,2022-09-21,QG
+AG0604,Zuo,Qiuming,en,male,0,-0556,-0451,,SP0436,,,,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,,2019-02-24,WH,2022-09-21,QG
+AG0604,左,丘明,zh,male,0,-0556,-0451,,SP0436,,,,https://en.wikipedia.org/wiki/Zuo_Qiuming,,,,,,,2019-02-24,WH,2022-09-21,QG
 AG0605,锡克,锡克,zh,male,0,1919,2004,,SP0435,,,,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,,2019-03-08,LH,2020-04-02,DP
 AG0605,Sik,Ota,en,male,0,1919,2004,,SP0435,,,,https://de.wikipedia.org/wiki/Ota_Šik,,,,,,,2019-03-08,LH,2020-04-02,DP
 AG0606,Einstein,Albert,en,male,0,1879,1955,,SP0366,,,,https://en.wikipedia.org/wiki/Albert_Einstein,ONLINE SOURCE,,,,,,2019-01-08,MG,2020-04-02,DP
@@ -1285,8 +1285,8 @@ AG0617,Qin,Guan,en,male,0,1049,1100,,SP0370,,,,https://en.wikipedia.org/wiki/Qin
 AG0617,秦,观,zh,male,0,1049,1100,,SP0370,,,,https://en.wikipedia.org/wiki/Qin_Guan,,,,,,Note that this author is also referred to in Open Love Letters!,2019-03-08,MG,2020-04-02,DP
 AG0618,Qu,Bo,en,male,3,1923,2002,,SP0108,,,unknown,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,,,2019-03-08,MG,2020-04-02,DP
 AG0618,曲,波,zh,male,3,1923,2002,,SP0108,,,unknown,https://en.wikipedia.org/wiki/Qu_Bo_(writer),,,,,,,2019-03-08,MG,2020-04-02,DP
-AG0619,Qu,Yuan,en,male,0,-340,-278,Lingjun,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,2019-03-08,MG,2022-09-21,QG
-AG0619,屈,原,zh,male,0,-340,-278,灵均,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,2019-03-08,MG,2022-09-21,QG
+AG0619,Qu,Yuan,en,male,0,-0340,-0278,Lingjun,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,2019-03-08,MG,2022-09-21,QG
+AG0619,屈,原,zh,male,0,-0340,-0278,灵均,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,,,,,,,2019-03-08,MG,2022-09-21,QG
 AG0620,瞿,秋白,zh,male,0,1899,1935,,SP0106,,,,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,,,2019-03-08,MG,2020-04-02,DP
 AG0620,Qu,Qiubai,en,male,0,1899,1935,,SP0106,,,,https://en.wikipedia.org/wiki/Qu_Qiubai,,,,,,,2019-03-08,MG,2020-04-02,DP
 AG0621,Thomas,Dylan,en,male,0,1914,1953,,SP0371,,,,https://en.wikipedia.org/wiki/Dylan_Thomas,,,,,,,2019-03-09,MG,2020-04-02,DP
@@ -1382,8 +1382,8 @@ AG0702,Серафимо́вич,Алекса́ндр,ru,male,0,1863,1949,,SP0467
 AG0702,绥拉菲莫维奇,亚历山大,zh,male,0,1863,1949,,SP0467,,,,https://en.wikipedia.org/wiki/Alexander_Serafimovich,ONLINE SOURCE,,,,,,2019-12-17,MG,2022-05-10,DP
 AG0703,Wilde,Oscar,en,male,0,1854,1900,,SP0468,,,,https://en.wikipedia.org/wiki/Oscar_Wilde,ONLINE SOURCE,,,,,,2020-01-06,MG,2022-05-10,DP
 AG0703,王尔德,奥斯卡,zh,male,0,1854,1900,,SP0468,,,,https://en.wikipedia.org/wiki/Oscar_Wilde,ONLINE SOURCE,,,,,,2020-01-06,MG,2022-05-10,DP
-AG0704,曹,孟德,zh,male,0,-155,-220,曹操,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
-AG0704,Cao,Mengde,en,male,0,-155,-220,Cao Cao,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
+AG0704,曹,孟德,zh,male,0,-0155,-0220,曹操,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
+AG0704,Cao,Mengde,en,male,0,-0155,-0220,Cao Cao,SP0436,,,,https://en.wikipedia.org/wiki/Cao_Cao,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-09-21,QG
 AG0705,Vlassova,Pelageya,en,female,0,1860..1875,1860..1875,,SP0436,,0,,W0682,,,,N06,,,2020-01-08,MG,2022-09-21,QG
 AG0706,Zhou,Enlai,en,male,2,1898,1976,,SP0417,,,,https://en.wikipedia.org/wiki/Zhou_Enlai,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-05-10,DP
 AG0706,周,恩来,zh,male,2,1898,1976,,SP0417,,,,https://en.wikipedia.org/wiki/Zhou_Enlai,ONLINE SOURCE,,,,,,2020-01-08,MG,2022-05-10,DP
@@ -1393,8 +1393,8 @@ AG0708,Nassau,William Senior,en,male,0,1790,1864,,SP0469,,,,https://en.wikipedia
 AG0708,纳骚,威·西尼尔,zh,male,0,1790,1864,,SP0469,,,,https://en.wikipedia.org/wiki/Nassau_William_Senior,ONLINE SOURCE,,,,,,2020-01-15,MG,2022-05-10,DP
 AG0709,Qiu,Jin,en,female,0,1875,1907,Xuanqing,SP0469,,,,https://en.wikipedia.org/wiki/Qiu_Jin,ONLINE SOURCE,,,,,,2020-02-01,MG,2022-05-10,DP
 AG0709,秋,瑾,zh,female,0,1875,1907,璿卿,SP0469,,,,https://en.wikipedia.org/wiki/Qiu_Jin,ONLINE SOURCE,,,,,,2020-02-01,MG,2022-05-10,DP
-AG0710,Li,Min,en,male,0,645,714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
-AG0710,李,峤,zh,male,0,645,714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
+AG0710,Li,Min,en,male,0,0645,0714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
+AG0710,李,峤,zh,male,0,0645,0714,,SP0470,,,,https://baike.baidu.com/item/%E6%9D%8E%E5%B3%A4/58287,ONLINE SOURCE,,,,,,2020-02-06,MG,2022-09-21,QG
 AG0711,Wu,Yuping,en,unknown,0,1900..1930~,,,SP0436,,0,,W0796,,,,,,,2020-02-13,MG,2022-09-21,QG
 AG0712,刘,慈欣,zh,male,0,1963,,,SP0471,,,,https://en.wikipedia.org/wiki/Liu_Cixin,ONLINE SOURCE,,,,,,2020-02-14,MG,2022-05-10,DP
 AG0712,Liu,Cixin,en,male,0,1963,,,SP0471,,,,https://en.wikipedia.org/wiki/Liu_Cixin,ONLINE SOURCE,,,,,,2020-02-14,MG,2022-05-10,DP
@@ -1411,10 +1411,10 @@ AG0718,Carson,Rachel,en,female,0,1907,1964,,SP0472,,,,https://en.wikipedia.org/w
 AG0719,Wang,Yisheng,en,male,1,1940..1950~,,Chess Fool,SP0436,,2,,W0798,,,,N07,,,2020-05-16,MG,2022-09-21,QG
 AG0719,王,一生,zh,male,1,1940..1950~,,,SP0436,,2,,W0798,,,,N07,,,2020-05-16,MG,2022-09-21,QG
 AG0720,anon,anon,en,male,1,1940..1950~,,,SP0436,,2,,W0798,,,,N06,,,2020-05-19,MG,2022-09-21,QG
-AG0721,Xiang,Yu,en,male,0,-202,-232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
-AG0721,项,羽,zh,male,0,-202,-232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
-AG0722,Liu,Bang,en,male,0,-0256~,-195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
-AG0722,劉,邦,zh,male,0,-0256~,-195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
+AG0721,Xiang,Yu,en,male,0,-0202,-0232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
+AG0721,项,羽,zh,male,0,-0202,-0232,,SP0473,,,,https://en.wikipedia.org/wiki/Xiang_Yu,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
+AG0722,Liu,Bang,en,male,0,-0256~,-0195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
+AG0722,劉,邦,zh,male,0,-0256~,-0195,,SP0474,,,,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han,ONLINE SOURCE,,,,,,2020-05-25,MG,2022-09-21,QG
 AG0723,anon,anon,en,male,1,1950..1959~,,,SP0436,,2,,W0800,,,,N06,,,2020-05-26,MG,2022-09-21,QG
 AG0724,Chen,anon,en,male,3,1930..1950~,,,SP0436,,2,,W0800,,,,N07,,,2020-05-26,MG,2022-09-21,QG
 AG0725,Wang,Fu,en,male,2,1960..1969~,,,SP0436,S08,1,,W0800,,,,N07,,,2020-05-28,MG,2022-09-21,QG
@@ -1521,8 +1521,8 @@ AG0783,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0854,,,,,omniscient narrator
 AG0784,anon,Miss G,en,female,0,XXXX,XXXX,,SP0436,,,,W0854,,,,N07,,,2021-03-18,MG,2022-05-10,DP
 AG0785,拉岡,雅各,zh,male,0,1901,1981,,SP0050,,,,https://en.wikipedia.org/wiki/Jacques_Lacan,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0785,Lacan,Jacques,fr,male,0,1901,1981,,SP0050,,,,https://en.wikipedia.org/wiki/Jacques_Lacan,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-05-10,DP
-AG0786,of Hippo,Augustine,en,male,0,-354,-430,,SP0494,,,,https://en.wikipedia.org/wiki/Augustine_of_Hippo,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-09-21,QG
-AG0786,anon,希波的奥古斯丁,zh,male,0,-354,-430,,SP0494,,,,https://en.wikipedia.org/wiki/Augustine_of_Hippo,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-09-21,QG
+AG0786,of Hippo,Augustine,en,male,0,-0354,-0430,,SP0494,,,,https://en.wikipedia.org/wiki/Augustine_of_Hippo,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-09-21,QG
+AG0786,anon,希波的奥古斯丁,zh,male,0,-0354,-0430,,SP0494,,,,https://en.wikipedia.org/wiki/Augustine_of_Hippo,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-09-21,QG
 AG0787,Žižek,Slavoj,en,male,0,1949,,,SP0493,,,,https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-05-10,DP
 AG0787,齊澤克,斯拉沃熱,zh,male,0,1949,,,SP0493,,,,https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek,,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0788,Sangye Gyatso,Desi,en,male,0,1617,1682,,SP0492,,,,https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso,ONLINE SOURCE,,,,,,2021-03-18,MG,2022-05-10,DP
@@ -1532,8 +1532,8 @@ AG0789,朱,令垣,zh,male,0,1930..1940~,,,SP0436,S03,2,,W0853,,,,N07,,,2021-03-2
 AG0790,anon,anon,en,unknown,0,1950..1960~,,,SP0436,,0,,W0853,,,,,omniscient narrator,,2021-03-23,MG,2022-09-21,QG
 AG0791,Newton,Isaac,en,male,0,1643,1726..1727,,SP0495,,,,https://en.wikipedia.org/wiki/Isaac_Newton,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-05-10,DP
 AG0791,牛顿,艾萨克,zh,male,0,1643,1726..1727,,SP0495,,,,https://en.wikipedia.org/wiki/Isaac_Newton,ONLINE SOURCE,,,,,,2021-03-23,MG,2022-05-10,DP
-AG0792,秦,始皇,zh,male,0,-259,-210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
-AG0792,Qin,Shihuang,en,male,0,-259,-210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
+AG0792,秦,始皇,zh,male,0,-0259,-0210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
+AG0792,Qin,Shihuang,en,male,0,-0259,-0210,,SP0004,,,,https://en.wikipedia.org/wiki/Qin_Shi_Huang,ONLINE SOURCE,,,,,,2021-03-24,MG,2022-09-21,QG
 AG0793,“王”,anon,zh,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
 AG0793,“Wang”,anon,en,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
 AG0794,Feng,Huachuan,en,male,0,1950..1960~,,,SP0436,,1,,W0853,,,,N07,,,2021-03-24,MG,2022-09-21,QG
@@ -1558,8 +1558,8 @@ AG0807,anon,Great-Granddad,en,male,0,1900..1950~,,,SP0436,,3,,W0862,125,,,N07,,,
 AG0808,anon,Chang’e,en,female,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,,,,2021-04-15,MG,2022-05-10,DP
 AG0808,anon,嫦娥,zh,female,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Chang%27e,ONLINE SOURCE,,,,,,2021-04-15,MG,2022-05-10,DP
 AG0809,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,2,,W0847,,,,,first person narrator,,2021-05-05,MG,2022-09-21,QG
-AG0810,趙州,從諗,zh,male,0,778,897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
-AG0810,Zhaozhou,Congshen,en,male,0,778,897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
+AG0810,趙州,從諗,zh,male,0,0778,0897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
+AG0810,Zhaozhou,Congshen,en,male,0,0778,0897,,SP0004,,,,https://en.wikipedia.org/wiki/Zhaozhou_Congshen,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-09-21,QG
 AG0811,anon,abbot,en,male,0,XXXX,XXXX,,SP0436,,,,W0847,405,,,,calls himself a Technologist-Buddhist,,2021-05-05,MG,2022-05-10,DP
 AG0812,克拉克,亚瑟·查理斯,zh,male,0,1917,2008,,SP0500,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-05-10,DP
 AG0812,Clarke,Arthur C.,en,male,0,1917,2008,,SP0500,,,,https://en.wikipedia.org/wiki/Arthur_C._Clarke,ONLINE SOURCE,,,,,,2021-05-05,MG,2022-05-10,DP
@@ -1589,14 +1589,14 @@ AG0827,anon,荷马,zh,male,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/
 AG0828,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0832,199-218,,,,first person narrator,,2021-06-14,MG,2022-05-10,DP
 AG0829,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0835,313-353,,,,first person narrator,,2021-06-15,MG,2022-05-10,DP
 AG0830,Nashihiko,Imagai,ja,male,0,XXXX,XXXX,,SP0436,,,,W0835,313-353,,,N07,,,2021-06-15,MG,2022-05-10,DP
-AG0831,李,世民,zh,male,0,598,649,唐太宗,SP0507,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,2021-06-16,MG,2022-09-21,QG
-AG0831,Li,Shimin,en,male,0,598,649,Taizong Emperor of Tang,SP0507,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,2021-06-16,MG,2022-09-21,QG
+AG0831,李,世民,zh,male,0,0598,0649,唐太宗,SP0507,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,2021-06-16,MG,2022-09-21,QG
+AG0831,Li,Shimin,en,male,0,0598,0649,Taizong Emperor of Tang,SP0507,,,,https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang,ONLINE SOURCE,,,,,,2021-06-16,MG,2022-09-21,QG
 AG0832,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0830,51-68,,,,first person narrator,,2021-06-21,MG,2022-05-10,DP
 AG0833,anon,teacher,en,male,0,1960..1980~,,,SP0436,,,,W0824,49-75,,,N06,,,2021-06-21,MG,2022-05-10,DP
 AG0834,anon,Xiu Xiu,en,female,0,1960..1980~,,,SP0436,,,,W0824,49-75,,,N07,,,2021-06-21,MG,2022-05-10,DP
 AG0835,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0824,49-75,,,,omniscient narrator,,2021-06-21,MG,2022-05-10,DP
-AG0836,Li,Yu,en,male,0,937,978,Li Houzhu,SP0093,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,2021-06-21,MG,2022-09-21,QG
-AG0836,李,煜,zh,male,0,937,978,李後主,SP0093,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,2021-06-21,MG,2022-09-21,QG
+AG0836,Li,Yu,en,male,0,0937,0978,Li Houzhu,SP0093,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,2021-06-21,MG,2022-09-21,QG
+AG0836,李,煜,zh,male,0,0937,0978,李後主,SP0093,,,,https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang),ONLINE SOURCE,,,,,,2021-06-21,MG,2022-09-21,QG
 AG0837,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0821,157-165,,,N06,,,2021-06-21,MG,2022-05-10,DP
 AG0838,anon,clone wife,en,female,0,XXXX,XXXX,,SP0436,,,,W0821,157-165,,,N07,,,2021-06-21,MG,2022-05-10,DP
 AG0839,Hou,Yi,en,male,0,XXXX,XXXX,,SP0436,,,,https://en.wikipedia.org/wiki/Hou_Yi,ONLINE SOURCE,,,,,,2021-06-22,MG,2022-05-10,DP
@@ -1618,8 +1618,8 @@ AG0850,Xi,Shi,en,female,0,-0700..-0600,-0700..-0600,Shi Yiguang,SP0004,,,,https:
 AG0850,西,施,zh,female,0,-0700..-0600,-0700..-0600,施夷光,SP0004,,,,https://en.wikipedia.org/wiki/Xi_Shi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
 AG0851,Wang,Qiang,en,unknown,0,XXXX,XXXX,,SP0436,,,,http://none,,,,,,please check,2021-06-23,MG,2022-05-10,DP
 AG0852,Ying,Ying,en,unknown,0,XXXX,XXXX,,SP0436,,,,http://none,,,,,,please check,2021-06-23,MG,2022-05-10,DP
-AG0853,Yang,Yuhuan,en,male,0,719,756,Yang Guifei,SP0516,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
-AG0853,楊,玉環,zh,male,0,719,756,楊貴妃,SP0516,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
+AG0853,Yang,Yuhuan,en,male,0,0719,0756,Yang Guifei,SP0516,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
+AG0853,楊,玉環,zh,male,0,0719,0756,楊貴妃,SP0516,,,,https://en.wikipedia.org/wiki/Yang_Guifei,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
 AG0854,Qu,Feiyan,en,female,0,XXXX,XXXX,,SP0436,,,,W0749,,,,N07,,,2021-06-23,MG,2022-05-10,DP
 AG0854,曲,非煙,zh,female,0,XXXX,XXXX,,SP0436,,,,W0749,,,,N07,,,2021-06-23,MG,2022-05-10,DP
 AG0855,Lü,Zhu,en,unknown,0,XXXX,XXXX,,SP0436,,,,http://none,,,,,,please check,2021-06-23,MG,2022-05-10,DP
@@ -1635,8 +1635,8 @@ AG0861,Mendeleev,Dimitri,en,male,0,1834,1907,,SP0512,,,,https://en.wikipedia.org
 AG0861,门捷列夫,德米特里,zh,male,0,1834,1907,,SP0512,,,,https://en.wikipedia.org/wiki/Dmitri_Mendeleev,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
 AG0862,Laozi,anon,en,male,0,-0600..-0400,-0600..-0400,,SP0004,,,,https://en.wikipedia.org/wiki/Laozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
 AG0862,老子,anon,zh,male,0,-0600..-0400,-0600..-0400,,SP0004,,,,https://en.wikipedia.org/wiki/Laozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
-AG0863,Mozi,anon,en,male,0,-470,-391,,SP0513,,,,https://en.wikipedia.org/wiki/Mozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
-AG0863,墨子,anon,zh,male,0,-470,-391,,SP0513,,,,https://en.wikipedia.org/wiki/Mozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
+AG0863,Mozi,anon,en,male,0,-0470,-0391,,SP0513,,,,https://en.wikipedia.org/wiki/Mozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
+AG0863,墨子,anon,zh,male,0,-0470,-0391,,SP0513,,,,https://en.wikipedia.org/wiki/Mozi,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-09-21,QG
 AG0864,Feuerbach,Ludwig,en,male,0,1804,1872,,SP0514,,,,https://en.wikipedia.org/wiki/Ludwig_Feuerbach,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
 AG0864,费尔巴哈,路德维希,zh,male,0,1804,1872,,SP0514,,,,https://en.wikipedia.org/wiki/Ludwig_Feuerbach,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
 AG0865,Heidegger,Martin,en,male,0,1889,1976,,SP0515,,,,https://en.wikipedia.org/wiki/Martin_Heidegger,ONLINE SOURCE,,,,,,2021-06-23,MG,2022-05-10,DP
@@ -1650,8 +1650,8 @@ AG0868,查,良镛,zh,male,0,1924,2018,金庸,SP0303,,,,https://en.wikipedia.org/
 AG0869,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0807,,,,,,,2021-07-03,MG,2022-05-10,DP
 AG0870,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0807,,,,N07,,,2021-07-03,MG,2022-05-10,DP
 AG0871,anon,Lili,en,female,0,XXXX,XXXX,,SP0436,,,,W0807,,,,N07,robot wife,,2021-07-03,MG,2022-05-10,DP
-AG0872,Sunzi,,en,male,0,-544,-496,,SP0436,,,,https://en.wikipedia.org/wiki/Sun_Tzu,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-09-21,QG
-AG0872,孙子,,zh,male,0,-544,-496,,SP0436,,,,https://en.wikipedia.org/wiki/Sun_Tzu,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-09-21,QG
+AG0872,Sun,Zi,en,male,0,-0544,-0496,,SP0436,,,,https://en.wikipedia.org/wiki/Sun_Tzu,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-09-21,QG
+AG0872,孙,子,zh,male,0,-0544,-0496,,SP0436,,,,https://en.wikipedia.org/wiki/Sun_Tzu,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-09-21,QG
 AG0873,Wood Krutch,Joseph,en,male,0,1893,1970,,SP0518,,,,https://en.wikipedia.org/wiki/Joseph_Wood_Krutch,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-05-10,DP
 AG0873,伍德 克鲁奇,约瑟夫,zh,male,0,1893,1970,,SP0518,,,,https://en.wikipedia.org/wiki/Joseph_Wood_Krutch,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-05-10,DP
 AG0874,Qi,Baishi,en,male,0,1864,1957,,SP0384,,,,https://en.wikipedia.org/wiki/Qi_Baishi,ONLINE SOURCE,,,,,,2021-07-09,MG,2022-05-10,DP
@@ -1677,8 +1677,8 @@ AG0886,布雷切夫,基尔,zh,male,0,1934,2003,,SP0030,,,,https://en.wikipedia.o
 AG0887,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0820,,,,,,,2021-07-09,MG,2022-05-10,DP
 AG0888,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0817,,,,N06,first person narrator,,2021-07-10,MG,2022-05-10,DP
 AG0889,anon,Matthew,en,male,0,XXXX,XXXX,,SP0436,,,,W0817,,,,N07,,,2021-07-10,MG,2022-05-10,DP
-AG0890,of Syracuse,Archimedes,en,male,0,-287,-212,,SP0522,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-09-21,QG
-AG0890,anon,阿基米德,zh,male,0,-287,-212,,SP0522,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-09-21,QG
+AG0890,of Syracuse,Archimedes,en,male,0,-0287,-0212,,SP0522,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-09-21,QG
+AG0890,anon,阿基米德,zh,male,0,-0287,-0212,,SP0522,,,,https://en.wikipedia.org/wiki/Archimedes,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-09-21,QG
 AG0891,Roth,Joseph,en,male,0,1894,1939,,SP0529,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-05-10,DP
 AG0891,罗特,约瑟夫,zh,male,0,1894,1939,,SP0529,,,,https://en.wikipedia.org/wiki/Joseph_Roth,ONLINE SOURCE,,,,,,2021-07-10,MG,2022-05-10,DP
 AG0892,anon,anon,en,male,0,1970..1980~,,,SP0436,,,,W0823,,,,,first person narrator,,2021-07-10,MG,2022-05-10,DP
@@ -1691,16 +1691,16 @@ AG0896,anon,anon,en,male,0,-0900~,,,SP0436,,,,W0819,,,,N07,,,2021-07-11,MG,2022-
 AG0897,anon,god,en,male,0,XXXX,XXXX,Li Bai,SP0436,,,,W0825,,,,N07,,,2021-07-11,MG,2022-05-10,DP
 AG0898,anon,Yiyi,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0825,,,,N07,,,2021-07-11,MG,2022-05-10,DP
 AG0899,anon,Big Tooth,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0825,,,,N07,a dinosaur,,2021-07-11,MG,2022-05-10,DP
-AG0900,Li,Bai,en,male,0,701,762,Li Bo,SP0526,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0900,李,白,zh,male,0,701,762,,SP0526,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0901,Liu,Zhongyuan,en,male,0,773,819,Zihou,SP0527,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0901,柳,宗元,zh,male,0,773,819,子厚,SP0527,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0902,崔,颢,zh,male,0,704,754,,SP0464,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0902,Cui,Hao,en,male,0,704,754,,SP0464,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0903,孟,浩然,zh,male,0,689,740,,SP0528,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0903,Meng,Haoran,en,male,0,689,740,,SP0528,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0904,Wang,Zhihuan,en,male,0,688,742,,SP0017,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
-AG0904,王,之涣,zh,male,0,688,742,,SP0017,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0900,Li,Bai,en,male,0,0701,0762,Li Bo,SP0526,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0900,李,白,zh,male,0,0701,0762,,SP0526,,,,https://en.wikipedia.org/wiki/Li_Bai,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0901,Liu,Zhongyuan,en,male,0,0773,0819,Zihou,SP0527,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0901,柳,宗元,zh,male,0,0773,0819,子厚,SP0527,,,,https://en.wikipedia.org/wiki/Liu_Zongyuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0902,崔,颢,zh,male,0,0704,0754,,SP0464,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0902,Cui,Hao,en,male,0,0704,0754,,SP0464,,,,https://en.wikipedia.org/wiki/Cui_Hao_(poet),ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0903,孟,浩然,zh,male,0,0689,0740,,SP0528,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0903,Meng,Haoran,en,male,0,0689,0740,,SP0528,,,,https://en.wikipedia.org/wiki/Meng_Haoran,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0904,Wang,Zhihuan,en,male,0,0688,0742,,SP0017,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
+AG0904,王,之涣,zh,male,0,0688,0742,,SP0017,,,,https://en.wikipedia.org/wiki/Wang_Zhihuan,ONLINE SOURCE,,,,,,2021-07-11,MG,2022-09-21,QG
 AG0905,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0827,,,,N06,first person narrator,,2021-07-14,MG,2022-05-10,DP
 AG0906,Smith,Adam,en,male,0,1723,1790,,SP0530,,,,https://en.wikipedia.org/wiki/Adam_Smith,ONLINE SOURCE,,,,,,2021-07-14,MG,2022-05-10,DP
 AG0906,斯密,亚当,zh,male,0,1723,1790,,SP0530,,,,https://en.wikipedia.org/wiki/Adam_Smith,ONLINE SOURCE,,,,,,2021-07-14,MG,2022-05-10,DP
@@ -1723,14 +1723,14 @@ AG0915,anon,anon,en,male,0,XXXX,XXXX,,SP0436,,,,W0828,,,,N06,first person narrat
 AG0916,孟德爾,格雷戈爾,zh,male,0,1822,1884,,SP0534,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-05-10,DP
 AG0916,Mendel,Gregor,en,male,0,1822,1884,,SP0534,,,,https://en.wikipedia.org/wiki/Gregor_Mendel,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-05-10,DP
 AG0917,anon,Pea,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0828,,,,,,,2021-07-19,MG,2022-05-10,DP
-AG0918,屈,原,zh,male,0,-340,-278,,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-09-21,QG
-AG0918,Qu,Yuan,en,male,0,-340,-278,,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-09-21,QG
+AG0918,屈,原,zh,male,0,-0340,-0278,,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-09-21,QG
+AG0918,Qu,Yuan,en,male,0,-0340,-0278,,SP0340,,,,https://en.wikipedia.org/wiki/Qu_Yuan,ONLINE SOURCE,,,,,,2021-07-19,MG,2022-09-21,QG
 AG0919,anon,anon,en,unknown,0,XXXX,XXXX,,SP0436,,,,W0834,,,,,,,2021-07-19,MG,2022-05-10,DP
 AG0920,Chan,Stanley,en,male,0,XXXX,XXXX,,SP0436,,,,W0842,,,,N06,first person narrator,,2021-07-20,MG,2022-05-10,DP
 AG0921,Gutenberg,Johannes,en,male,0,1400,1468,,SP0535,,,,https://en.wikipedia.org/wiki/Johannes_Gutenberg,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-05-10,DP
 AG0921,谷登堡,约翰内斯,zh,male,0,1400,1468,,SP0535,,,,https://en.wikipedia.org/wiki/Johannes_Gutenberg,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-05-10,DP
-AG0922,He,Yan,en,male,0,195,249,,SP0489,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-09-21,QG
-AG0922,何,晏,zh,male,0,195,249,,SP0489,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-09-21,QG
+AG0922,He,Yan,en,male,0,0195,0249,,SP0489,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-09-21,QG
+AG0922,何,晏,zh,male,0,0195,0249,,SP0489,,,,https://en.wikipedia.org/wiki/He_Yan,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-09-21,QG
 AG0923,Wilhelm,Richard,en,male,0,1873,1930,,SP0172,,,,https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist),ONLINE SOURCE,,,,,,2021-07-20,MG,2022-05-10,DP
 AG0923,威廉,理查德,zh,male,0,1873,1930,卫礼贤,SP0172,,,,https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist),ONLINE SOURCE,,,,,,2021-07-20,MG,2022-05-10,DP
 AG0924,Jung,Carl,en,male,0,1875,1961,,SP0536,,,,https://en.wikipedia.org/wiki/Carl_Jung,ONLINE SOURCE,,,,,,2021-07-20,MG,2022-05-10,DP
