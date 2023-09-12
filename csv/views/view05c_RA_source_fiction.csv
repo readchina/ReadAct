@@ -4,9 +4,13 @@ A01401,W0038,Dream of the Red Chamber
 A01402,W0655,The Plum in The Golden Vase
 A01403,W0289,Bible
 A01404,W0656,Die Worte der Fünf Weisen
+A01404,W0656,Les Paroles des Cinq Vieillards
 A01405,W0657,Don Quijote de la Mancha
+A01405,W0657,Don Quixote
 A01406,W0657,Don Quijote de la Mancha
+A01406,W0657,Don Quixote
 A01407,W0657,Don Quijote de la Mancha
+A01407,W0657,Don Quixote
 A01409,W0658,Ursule Mirouët
 A01410,W0658,Ursule Mirouët
 A01411,W0658,Ursule Mirouët
@@ -14,18 +18,22 @@ A01412,W0658,Ursule Mirouët
 A01413,W0658,Ursule Mirouët
 A01414,W0658,Ursule Mirouët
 A01421,W0659,Father Goriot
+A01421,W0659,Le Père Goriot
 A01422,W0180,Jean-Christophe
 A01427,W0659,Father Goriot
+A01427,W0659,Le Père Goriot
 A01428,W0018,Eugénie Grandet
 A01429,W0658,Ursule Mirouët
 A01430,W0180,Jean-Christophe
 A01431,W0180,Jean-Christophe
 A01432,W0664,Norte Dame de Paris
+A01432,W0664,The Hunchback of Notre-Dame
 A01433,W0665,Colonel Charbert
 A01434,W0666,Madame Bovary
 A01435,W0018,Eugénie Grandet
 A01436,W0661,Cousin Pons
 A01437,W0659,Father Goriot
+A01437,W0659,Le Père Goriot
 A01438,W0658,Ursule Mirouët
 A01439,W0666,Madame Bovary
 A01440,W0666,Madame Bovary
@@ -103,9 +111,11 @@ A01642,W0682,Mother
 A01643,W0153,The Rout
 A01644,W0161,Anna Karenina
 A01645,W0123,The State and the Revolution
+A01645,W0123,Государство и революция
 A01646,W0682,Mother
 A01648,W0074,Anti-Dühring
 A01649,W0683,Misère de la Philosophie
+A01649,W0683,The Poverty of Philosophy
 A01653,W0685,Analysis of the Classes in Chinese Society
 A01654,W0667,The Watch
 A01655,W0686,Red Banner of Northern China
@@ -114,10 +124,12 @@ A01657,W0695,The Five Heroes in the Eastern Capital
 A01658,W0696,L‘Avare
 A01659,W0711,How to Study The New Social Sciences
 A01660,W0123,The State and the Revolution
+A01660,W0123,Государство и революция
 A01661,W0697,Left-Wing Communism
 A01662,W0698,Outline to Political Economy
 A01664,W0698,Outline to Political Economy
 A01665,W0699,Au Secours de la Patrie
+A01665,W0699,Jiu Guo Shi Bao
 A01667,W0697,Left-Wing Communism
 A01674,W0258,Das Kapital
 A01676,W0044,Quotations From Chairman Mao Tse-tung
@@ -164,7 +176,9 @@ A01771,W0044,Quotations From Chairman Mao Tse-tung
 A01772,W0255,Selected Works of Mao Zedong
 A01773,W0095,How the Steel was Tempered
 A01778,W0725,The Newcomer
+A01778,W0725,Повесть о директоре МТС и главном агрономе
 A01779,W0725,The Newcomer
+A01779,W0725,Повесть о директоре МТС и главном агрономе
 A01780,W0726,And Quiet Flows The Don
 A01782,W0727,Erfahrungen bei der Heranbildung und Weiterbildung von Kadern in Finanzämtern
 A01783,W0728,1984
@@ -233,6 +247,7 @@ A02005,W0769,Quiet Night Thought
 A02006,W0770,Seeing off Meng Haoran for Guangling at Yellow Crane Tower
 A02017,W0774,The Orphans
 A02019,W0775,Rumpelstiltskin
+A02019,W0775,Rumpelstilzchen
 A02034,W0777,Chu Ci
 A02039,W0778,I Ching or Book of Changes
 A02040,W0779,The Secret of The Golden Flower
