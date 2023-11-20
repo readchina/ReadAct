@@ -1,89 +1,89 @@
 <gexf:gexf xmlns:gexf="http://gexf.net/1.3" version="1.3">
-  <gexf:meta lastmodifieddate="2023-11-13Z">
+  <gexf:meta lastmodifieddate="2023-11-20Z">
     <gexf:creator>ReadAct</gexf:creator>
     <gexf:description>Bipartite graph of reading act edges, connecting agent and work nodes</gexf:description>
   </gexf:meta>
   <gexf:graph mode="static" defaultedgetype="directed">
     <gexf:nodes>
       <gexf:node id="AG0002" label="Mou Dunbai"/>
-      <gexf:node id="AG0003" label="张 朗朗"/>
-      <gexf:node id="AG0004" label="芒 克"/>
+      <gexf:node id="AG0003" label="Zhang Langlang"/>
+      <gexf:node id="AG0004" label="Mang Ke"/>
       <gexf:node id="AG0005" label="Peng Gang"/>
       <gexf:node id="AG0009" label="Bei Dao"/>
       <gexf:node id="AG0010" label="Duo Duo"/>
-      <gexf:node id="AG0011" label="徐 浩渊"/>
+      <gexf:node id="AG0011" label="Xu Haoyuan"/>
       <gexf:node id="AG0012" label="Genzi"/>
-      <gexf:node id="AG0014" label="赵 一凡"/>
-      <gexf:node id="AG0017" label="马 佳"/>
-      <gexf:node id="AG0018" label="严 力"/>
+      <gexf:node id="AG0014" label="Zhao Yifan"/>
+      <gexf:node id="AG0017" label="Ma Jia"/>
+      <gexf:node id="AG0018" label="Yan Li"/>
       <gexf:node id="AG0019" label="Guo Lusheng"/>
-      <gexf:node id="AG0020" label="高 华"/>
+      <gexf:node id="AG0020" label="Gao Hua"/>
       <gexf:node id="AG0021" label="Guo Shiying"/>
       <gexf:node id="AG0022" label="Zhang Heci"/>
       <gexf:node id="AG0024" label="Song Haiquan"/>
       <gexf:node id="AG0029" label="Wu Hong"/>
-      <gexf:node id="AG0031" label="黄 光祖"/>
-      <gexf:node id="AG0032" label="朱 时贤"/>
+      <gexf:node id="AG0031" label="Huang Guangzu"/>
+      <gexf:node id="AG0032" label="Zhu Shixian"/>
       <gexf:node id="AG0033" label="Zhou Ziren"/>
       <gexf:node id="AG0034" label="Zhou Jiren"/>
       <gexf:node id="AG0035" label="Zhang Kunquan"/>
-      <gexf:node id="AG0036" label="黄 中敬"/>
+      <gexf:node id="AG0036" label="Huang Zhongjing"/>
       <gexf:node id="AG0037" label="Huang Xiaozhen"/>
       <gexf:node id="AG0038" label="Wang Xiulian"/>
-      <gexf:node id="AG0039" label="东 夫"/>
-      <gexf:node id="AG0040" label="金 中"/>
+      <gexf:node id="AG0039" label="Dong Fu"/>
+      <gexf:node id="AG0040" label="Jin Zhong"/>
       <gexf:node id="AG0041" label="Zhao Xiaoling"/>
       <gexf:node id="AG0042" label="Cao Ying"/>
       <gexf:node id="AG0043" label="Huang Aihe"/>
       <gexf:node id="AG0044" label="Fu Weici"/>
-      <gexf:node id="AG0045" label="谢 声显"/>
-      <gexf:node id="AG0046" label="韩 平藻"/>
-      <gexf:node id="AG0047" label="惠 宪钧"/>
+      <gexf:node id="AG0045" label="Xie Shengxian"/>
+      <gexf:node id="AG0046" label="Han Pingzao"/>
+      <gexf:node id="AG0047" label="Hui Xianjun"/>
       <gexf:node id="AG0048" label="Piao Mu"/>
-      <gexf:node id="AG0051" label="刘 海鸥"/>
+      <gexf:node id="AG0051" label="Liu Haiou"/>
       <gexf:node id="AG0052" label="Huang Yongsheng"/>
-      <gexf:node id="AG0053" label="奚 柳芳"/>
-      <gexf:node id="AG0054" label="侯 外庐"/>
-      <gexf:node id="AG0055" label="顾 颉刚"/>
+      <gexf:node id="AG0053" label="Xi Liufang"/>
+      <gexf:node id="AG0054" label="Hou Wailu"/>
+      <gexf:node id="AG0055" label="Gu Jiegang"/>
       <gexf:node id="AG0056" label="Xie Guozhen"/>
-      <gexf:node id="AG0057" label="启 之"/>
+      <gexf:node id="AG0057" label="Qi Zhi"/>
       <gexf:node id="AG0061" label="Siao Eva"/>
       <gexf:node id="AG0062" label="Nanchu"/>
-      <gexf:node id="AG0063" label="高 原"/>
-      <gexf:node id="AG0067" label="张 润峰"/>
-      <gexf:node id="AG0073" label="柏 棣"/>
+      <gexf:node id="AG0063" label="Gao Yuan"/>
+      <gexf:node id="AG0067" label="Zhang Runfeng"/>
+      <gexf:node id="AG0073" label="Bai Di"/>
       <gexf:node id="AG0103" label="Han Shaogong"/>
-      <gexf:node id="AG0104" label="王 士强"/>
+      <gexf:node id="AG0104" label="Wang Shiqiang"/>
       <gexf:node id="AG0105" label="Xu Xiao"/>
-      <gexf:node id="AG0106" label="舒 婷"/>
-      <gexf:node id="AG0113" label="黄 晓龙"/>
-      <gexf:node id="AG0114" label="张 扬"/>
+      <gexf:node id="AG0106" label="Shu Ting"/>
+      <gexf:node id="AG0113" label="Huang Xiaolong"/>
+      <gexf:node id="AG0114" label="Zhang Yang"/>
       <gexf:node id="AG0115" label="Xu Chenggang"/>
       <gexf:node id="AG0116" label="Li Daxing"/>
       <gexf:node id="AG0117" label="Chen Jianhua"/>
-      <gexf:node id="AG0118" label="柏 桦"/>
-      <gexf:node id="AG0119" label="林 莽"/>
-      <gexf:node id="AG0121" label="宝 嘉"/>
-      <gexf:node id="AG0122" label="范 迁"/>
+      <gexf:node id="AG0118" label="Bo Hua"/>
+      <gexf:node id="AG0119" label="Lin Mang"/>
+      <gexf:node id="AG0121" label="Bao Jia"/>
+      <gexf:node id="AG0122" label="Fan Qian"/>
       <gexf:node id="AG0123" label="Bao Kun"/>
       <gexf:node id="AG0124" label="Xiao Xiao"/>
       <gexf:node id="AG0125" label="Chen Danqing"/>
       <gexf:node id="AG0128" label="Bei Shan"/>
       <gexf:node id="AG0130" label="Link Perry"/>
       <gexf:node id="AG0133" label="Yu Pingbo"/>
-      <gexf:node id="AG0134" label="阎 连科"/>
+      <gexf:node id="AG0134" label="Yan Lianke"/>
       <gexf:node id="AG0143" label="Wu"/>
-      <gexf:node id="AG0145" label="小 霞"/>
-      <gexf:node id="AG0149" label="刘 妮娜"/>
+      <gexf:node id="AG0145" label="Xiao Xia"/>
+      <gexf:node id="AG0149" label="Liu Nina"/>
       <gexf:node id="AG0151" label="Peng Yilin"/>
       <gexf:node id="AG0156" label="Song Yongyi"/>
       <gexf:node id="AG0187" label="Li Qian"/>
       <gexf:node id="AG0188" label="He Zhaowu"/>
       <gexf:node id="AG0191" label="Cai Xiang"/>
-      <gexf:node id="AG0192" label="邓 刚"/>
+      <gexf:node id="AG0192" label="Deng Gang"/>
       <gexf:node id="AG0195" label="Tang Xiaofeng"/>
-      <gexf:node id="AG0196" label="钱 大川"/>
-      <gexf:node id="AG0197" label="李 零"/>
+      <gexf:node id="AG0196" label="Qian Dachuan"/>
+      <gexf:node id="AG0197" label="Li Ling"/>
       <gexf:node id="AG0205" label="Zhang Xiaokang"/>
       <gexf:node id="AG0206" label="Liu Jingzi"/>
       <gexf:node id="AG0213" label="Yuan Shuren"/>
@@ -91,11 +91,11 @@
       <gexf:node id="AG0215" label="Ma Xiaodong"/>
       <gexf:node id="AG0228" label="Jiang He"/>
       <gexf:node id="AG0239" label="Ming Xin"/>
-      <gexf:node id="AG0242" label="黃 明珍"/>
-      <gexf:node id="AG0249" label="顾 蕴璞"/>
+      <gexf:node id="AG0242" label="Wong Jan"/>
+      <gexf:node id="AG0249" label="Gu Yunpu"/>
       <gexf:node id="AG0250" label="Kang Zhengguo"/>
-      <gexf:node id="AG0252" label="赵 越胜"/>
-      <gexf:node id="AG0253" label="唐 克"/>
+      <gexf:node id="AG0252" label="Zhao Yuesheng"/>
+      <gexf:node id="AG0253" label="Tang Ke"/>
       <gexf:node id="AG0257" label="Wu Ningkun"/>
       <gexf:node id="AG0258" label="Li Yikai"/>
       <gexf:node id="AG0259" label="Deng Muhang"/>
@@ -110,27 +110,27 @@
       <gexf:node id="AG0296" label="Zhu Qiluan"/>
       <gexf:node id="AG0298" label="Yang"/>
       <gexf:node id="AG0307" label="Zhu"/>
-      <gexf:node id="AG0310" label="朱 正琳"/>
+      <gexf:node id="AG0310" label="Zhu Zhenglin"/>
       <gexf:node id="AG0324" label="Zhai Yongming"/>
-      <gexf:node id="AG0335" label="纪 琨"/>
+      <gexf:node id="AG0335" label="Ji Kun"/>
       <gexf:node id="AG0343" label="Ma Bo"/>
       <gexf:node id="AG0359" label="Ma Xinglin"/>
       <gexf:node id="AG0369" label="Lu Shu Jiang"/>
-      <gexf:node id="AG0374" label="阿 城"/>
-      <gexf:node id="AG0396" label="高 默波"/>
+      <gexf:node id="AG0374" label="A Cheng"/>
+      <gexf:node id="AG0396" label="Gao Mobo"/>
       <gexf:node id="AG0399" label="Gao Ruiquan"/>
-      <gexf:node id="AG0430" label="黄 子平"/>
-      <gexf:node id="AG0431" label="徐 冰"/>
+      <gexf:node id="AG0430" label="Huang Ziping"/>
+      <gexf:node id="AG0431" label="Xu Bing"/>
       <gexf:node id="AG0433" label="Shulman Norman"/>
       <gexf:node id="AG0468" label="A Jian"/>
       <gexf:node id="AG0506" label="Gong Sasha"/>
-      <gexf:node id="AG0516" label="胡 耀邦"/>
-      <gexf:node id="AG0517" label="高 默波"/>
+      <gexf:node id="AG0516" label="Hu Yaobang"/>
+      <gexf:node id="AG0517" label="Gao Mobo"/>
       <gexf:node id="AG0518" label="Wang Anyi"/>
       <gexf:node id="AG0519" label="Zhao Shijian"/>
       <gexf:node id="AG0607" label="Huang Ai"/>
       <gexf:node id="AG0614" label="Fang Lizhi"/>
-      <gexf:node id="AG0626" label="无名"/>
+      <gexf:node id="AG0626" label="anonymous"/>
       <gexf:node id="AG0634" label="The Communist Party of China"/>
       <gexf:node id="AG0659" label="anon Luo"/>
       <gexf:node id="AG0660" label="anon anon"/>
@@ -139,8 +139,8 @@
       <gexf:node id="AG0665" label="anon anon"/>
       <gexf:node id="AG0666" label="anon anon"/>
       <gexf:node id="AG0675" label="anon Teacher Zhang"/>
-      <gexf:node id="AG0676" label="石 红"/>
-      <gexf:node id="AG0677" label="宋 宝琪"/>
+      <gexf:node id="AG0676" label="Shi Hong"/>
+      <gexf:node id="AG0677" label="Song Baoqi"/>
       <gexf:node id="AG0678" label="Xie Huimin"/>
       <gexf:node id="AG0682" label="anon anon"/>
       <gexf:node id="AG0683" label="anon anon"/>
@@ -181,7 +181,7 @@
       <gexf:node id="AG0784" label="anon Miss G"/>
       <gexf:node id="AG0789" label="Zhu Lingyuan"/>
       <gexf:node id="AG0790" label="anon anon"/>
-      <gexf:node id="AG0793" label="“王” anon"/>
+      <gexf:node id="AG0793" label="“Wang” anon"/>
       <gexf:node id="AG0794" label="Feng Huachuan"/>
       <gexf:node id="AG0796" label="李 文建"/>
       <gexf:node id="AG0803" label="anon Little Smarty"/>
@@ -191,7 +191,7 @@
       <gexf:node id="AG0807" label="anon Great-Granddad"/>
       <gexf:node id="AG0809" label="anon anon"/>
       <gexf:node id="AG0811" label="anon abbot"/>
-      <gexf:node id="AG0813" label="糖"/>
+      <gexf:node id="AG0813" label="Tang Jiaming"/>
       <gexf:node id="AG0816" label="anon anon"/>
       <gexf:node id="AG0817" label="Ah Chen"/>
       <gexf:node id="AG0819" label="anon anon"/>
@@ -238,9 +238,9 @@
       <gexf:node id="AG0919" label="anon anon"/>
       <gexf:node id="AG0920" label="Chan Stanley"/>
       <gexf:node id="AG0931" label="anon Nikuulla"/>
-      <gexf:node id="AG0932" label="杰伊 彼得"/>
+      <gexf:node id="AG0932" label="Jay Peter"/>
       <gexf:node id="AG0946" label="anon 真真"/>
-      <gexf:node id="AG0947" label="anon Lao Ga"/>
+      <gexf:node id="AG0947" label="anon 老嘎"/>
       <gexf:node id="W0001" label="Silent China"/>
       <gexf:node id="W0002" label="English 900"/>
       <gexf:node id="W0003" label="The White Ship"/>
