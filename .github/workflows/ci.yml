@@ -57,7 +57,7 @@ jobs:
           xmllint --noout --xinclude --relaxng xml/schema/tei_all.rng xml/tei_header.xml  
           xmllint --noout --relaxng xml/schema/gexf.rng xml/rActs.gexf        
       - name: 'Upload Artifact'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: markup-xi
           path: |
