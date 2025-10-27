@@ -75,7 +75,7 @@ jobs:
           sudo apt-get install -y basex
           docker pull duncdrum/textql:alpine
       - name: Download Artifact
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: markup-xi
           path: xml  
